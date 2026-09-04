@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Seismic risk grammar
+HAZARD -> ground shaking and secondary effects
+EXPOSURE -> people buildings infrastructure lifelines
+VULNERABILITY -> site + design + construction + maintenance
+CAPACITY -> preparedness response and recovery
+
+ASCII MASTER FLOW — PANEL 2/12: Magnitude-intensity firewall
+MAGNITUDE -> event size / energy measure
+INTENSITY -> observed effects at a location
+ONE EVENT -> varying local intensities
+TRAP -> scales are not interchangeable
+
+ASCII MASTER FLOW — PANEL 3/12: Zoning-to-site ladder
+SEISMIC ZONE -> broad expected hazard
+MICROZONATION -> finer local variation
+SITE ASSESSMENT -> project-specific conditions
+NONE OF THESE -> predicts the next event
+
+ASCII MASTER FLOW — PANEL 4/12: Site-effect map
+GROUND / SLOPE / SOIL CONDITION
+        -> modifies shaking or secondary risk
+BUILT FORM + ACCESS
+        -> modifies exposure response and loss
+
+ASCII MASTER FLOW — PANEL 5/12: Vulnerability chain
+IRREGULAR FORM | WEAK CONNECTION | POOR WORKMANSHIP
+UNAUTHORISED ALTERATION | DEGRADED MATERIAL
+FAILED APPROVAL / INSPECTION / MAINTENANCE
+RESULT -> collapse or service disruption risk
+
+ASCII MASTER FLOW — PANEL 6/12: Mitigation matrix
+STRUCTURAL -> safe new build + assessed strengthening
+NON-STRUCTURAL -> land use + enforcement + drills
+CONTENTS -> secure fixtures equipment utilities
+RULE -> combine; do not substitute one for all
+
+ASCII MASTER FLOW — PANEL 7/12: Code-to-compliance rail
+1 STANDARD / BYE-LAW
+2 COMPETENT DESIGN
+3 TRAINED CONSTRUCTION
+4 APPROVAL -> INSPECTION -> MAINTENANCE
+
+ASCII MASTER FLOW — PANEL 8/12: Ductility concept box
+DEFORMATION CAPACITY
+        -> controlled energy dissipation
+        -> supports life-safety objective
+BOUNDARY -> concept only, no detailing instruction
+
+ASCII MASTER FLOW — PANEL 9/12: Retrofit priority funnel
+SCREEN EXISTING STOCK
+PRIORITISE LIFELINES + HIGH OCCUPANCY + HIGH VULNERABILITY
+DETAILED ASSESSMENT -> SANCTION -> WORK -> VERIFY
+AUDIT / LISTING ALONE -> NOT COMPLETION
+
+ASCII MASTER FLOW — PANEL 10/12: Lifeline continuity map
+HOSPITAL + EOC + FIRE / RESCUE
+POWER + WATER + TELECOM
+ROAD / BRIDGE / ACCESS
+TEST -> physical safety AND post-event function
+MUST REMEMBER: Earthquake risk combines seismic hazard, exposed people and assets,...
+
+ASCII MASTER FLOW — PANEL 11/12: Monitoring-prediction boundary
+SENSOR -> EVENT DETECTION -> PARAMETER REPORT
+HAZARD ASSESSMENT -> PLANNING INPUT
+PREPAREDNESS -> PROTECTIVE ACTION
+NOT -> precise future magnitude place and time
+CLOSE DISTINCTION: Magnitude is not intensity; earthquake occurrence is not disaster...
+
+ASCII MASTER FLOW — PANEL 12/12: Earthquake answer spine
+DEFINE RISK -> SEPARATE MAGNITUDE INTENSITY
+MAP ZONE + SITE + EXPOSURE + VULNERABILITY
+COMBINE CODE RETROFIT LAND USE CONTENTS AND LIFELINES
+TEST ENFORCEMENT EQUITY CONTINUITY AND VERIFIED OUTCOME
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Source every magnitude, intensity, zone,...

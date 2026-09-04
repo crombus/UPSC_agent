@@ -1,0 +1,151 @@
+{
+  "record_id": "ancient-indian-history-03:learner-v2:g10",
+  "topic_key": "ancient-indian-history-03",
+  "variant": "learner-v2",
+  "generation": 10,
+  "supersedes": "ancient-indian-history-03:learner-v2:g9",
+  "command": "Generate learner-v2 topic: Ancient History — Subject-wide Syllabus — Geographical Setting & Ecology — Learner-v2 refreshed — Learner-v2 semantic-aid repair — Learner-v2 refreshed — Notions-style ASCII-master repair — Authored Notions-style ASCII-master repair",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g10\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g10\\ancient-indian-history-03_Solved-Practice-Workbook_2026-08-23.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g10\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g10\\assets",
+  "generated_on": "2026-08-23",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-section-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\03_Geographical-Setting-and-Ecology.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\03_Geographical-Setting-and-Ecology.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\03_Geographical-Setting-and-Ecology.md",
+    "legacy_v1_source_package": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\03_Geographical-Setting-Ecology_Complete-Topic-Package.md",
+    "legacy_v1_reference_main_pdf": "notes\\Ancient-Indian-History\\03_Geographical-Setting-Ecology_Complete-Topic-Package_2026-08-12.pdf",
+    "legacy_v1_reference_workbook": "notes\\Ancient-Indian-History\\03_Geographical-Setting-Ecology_Solved-Workbook_2026-08-12.pdf",
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "local_ocr_sources": [
+      "books\\India Ancient Past By RS Sharma.pdf",
+      "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g10\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-23",
+    "superseded_v1": "ancient-indian-history-03:legacy-v1:g1",
+    "reused_legacy_assets": [],
+    "reused_text_visual_count": 30,
+    "reused_visual_count": 30,
+    "new_visual_count": 2,
+    "new_asset": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-03\\ancient-indian-history-03-ecology-answer-map.png",
+    "practice_counts": {
+      "mcqs": 40,
+      "verified_pyq_headings": 1,
+      "original_mains_headings": 6
+    },
+    "migration_note": "Audited learner-v2 g2 regeneration: owner coverage is retained; basic map logic and answer use are visibly prioritised; optional environmental-method refinement follows practice; register notes remain final; legacy-v1 is unchanged.",
+    "regeneration": "Intentional learner-v2 g2 regeneration guided by Topic 01 learner-first depth and Topic 02 answer-worthiness anti-padding audit.",
+    "answer_worthiness_audit": "Visible CORE PRELIMS, CORE MAINS, SUPPORTING and OPTIONAL ADVANCED labels; current-link claims compressed to verified-use guidance; no exhaustive physical-geography, resource or technical-method catalogue added; Advanced is separately taught for environmental interpretation and source limits.",
+    "new_assets": [
+      "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-03\\ancient-indian-history-03-learning-spine.png",
+      "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-03\\ancient-indian-history-03-ecology-answer-map.png"
+    ],
+    "retrofit": {
+      "id": "continuous-core-first-2026-08-22",
+      "source_record": "ancient-indian-history-03:learner-v2:g4",
+      "closure_flow": "source-derived and placed after every BASIC H3",
+      "workbook": "byte-preserved; no practice content changed",
+      "flowchart": "new continuous core-first same-master companion"
+    },
+    "refresh": {
+      "id": "authored-notions-style-ascii-master-2026-08-23",
+      "source_record": "ancient-indian-history-03:learner-v2:g9",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.md",
+      "source_hashes": {
+        "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf": "86b9170d6fe89da5715441931fe46b0e3233f5cfef535cd03b16a52b811a63d6",
+        "books\\India Ancient Past By RS Sharma.pdf": "7f5ac4147164341682fefba935e6d00165df3894fb32133faa3b64ec09fa3e4f",
+        "notes\\Ancient-Indian-History\\03_Geographical-Setting-Ecology_Complete-Topic-Package_2026-08-12.pdf": "cfd72a6a588aa355c2c49fc34655bdf14952571307bd3c1649701316c0cb6f02",
+        "notes\\Ancient-Indian-History\\03_Geographical-Setting-Ecology_Solved-Workbook_2026-08-12.pdf": "60e2e03db168c3ce34eccb495408dc03a78e373be0fb46e24b426a62cd3942ad",
+        "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-03\\ancient-indian-history-03-ecology-answer-map.png": "a33097bab2101c30a07c9bee1099ebc109754365f8e3b90331c9a430620d660e",
+        "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-03\\ancient-indian-history-03-learning-spine.png": "79be2f5ce53493679f6f0797ef9f98e240def46aafd959c481ffce2174f30c74",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\ascii-master.txt": "5c935c191ca2b05dff49a177ae80465d394af2b389c56d68de3243a54fe34523",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\editable\\flowchart-data.json": "95c019f48e279f6066cd68ed8d554cbd8d95cbcca98e2892f909f05496a67b7e",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\editable\\README.txt": "691b325ba328333680e06e20926382872adbc91fcc69190ecfc6934fde2c8d25",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\master.png": "047305097d47e9160cc17c88956c68bf9baede864ace9019acdbc57a4e291470",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\poster.pdf": "ae80039b57bbaa33582c773d0c53e1434d49cdcf3567c4563fabf254f87c404c",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\contact-sheet-01.png": "f53abaf5b6b6e31672747b677221451244184aa37a37c63c31b28f18de325a73",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\contact-sheet-02.png": "d1a376cc2bc09c9658fd0db78d47960343aceefd04918102c14bacb394f912de",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\contact-sheet-03.png": "ac2945a8d3abb45ce399a69136f1f638bd09380eb4f3d6c6c8e06d91b2164130",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-001.png": "a2de6f4d59dabd4406ade079ca18830207edd539c99128e91020494aacaec0cd",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-002.png": "f345d8e5835cba6ad89dcccc628524d33fdc601fd90cd7f947d437a112199811",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-003.png": "2b503b714de9671b0df543d11f106f15bd0b41bb41f5e2d1dd91fa89cb26af04",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-004.png": "f258baef653ae98a4d4e3889d7d3a42215cd06c3bc9c1ec92fa66a145947979c",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-005.png": "6e08b590465f2cc2089edafa34e3676f9100c24b8cc5ba1c571b8cb5c6749465",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-006.png": "942f77f074deda8c4eb7679a47945cd448dc5b3aea0b861a84918e3835becd5c",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-007.png": "4ee913e754d4e0d2c38a9b5e654466985ba34b856cb9bdab3221444b2e226643",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-008.png": "b59dd12b11989a23c0124bb3f86547c192e868811ff0964c90af4907e0a7067a",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-009.png": "a4f05dd003242d1720ea7b6add4d66225ef82c0cab567e74f844063858dc34ad",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-010.png": "afdb7c6744bd4cc18300eacadb297d6973ee0d083ae8ad08cf44d2c0523909f9",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-011.png": "9b4de2c02872cd0441129e931225450c34722ac90c906c832e1847b237bb5487",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-012.png": "1c619a81e5f9abe26eb923626b77cb2457060be2e1bd0acbb859786b0107dec9",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\previews\\page-013.png": "28ce64985830138805848195659a030c62544789314bb416629eda8c911d82de",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\tiled.pdf": "d9ec95f869b3300386220bed316dd48ffa30a1dfc14e00d67d3db71e78c3c224",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g9\\validation-report.txt": "0b5bacb274fd2ace75152228c27a762cc060e857460ca0d98a324c8d909cec56",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.pdf": "a013d56a4cc715eba12d93a6fe4fbec886482a1d25fa15576c16145da1f78388",
+        "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\ancient-indian-history-03_Solved-Practice-Workbook_2026-08-23.pdf": "96b1cf53e232c841ec73e7995b0e0628ec5a2fec395837e4a056ca81a657c512",
+        "tools\\markdown_learning_pdf.py": "c6717f3d7b651210698a10a758aa04b9b17cb32be3e144479eec6804408b7051",
+        "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\03_Geographical-Setting-Ecology_Complete-Topic-Package.md": "bad25dfbe07abf747da297da22e1f418ec3638efa1b109d629457fbead631f54",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\03_Geographical-Setting-and-Ecology.md": "cf15d959e9628f6201ed694dc836899f832c480144f3de3e708d2719b19c91fb",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\03_Geographical-Setting-and-Ecology.md": "53a135d6e698426f615d11e4de59314fcf10db99ca351d9cc05c09336db99ec9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g8\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.md": "e5a4777690bd154fc711727164f711f138a01d161569974b1e06c487e2a042f4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.md": "172ad9e72597c77f4db1a1e48a158046b57d7b808b85cfd6806e078c8291ddab",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\ancient-indian-history-03_Solved-Practice-Workbook_2026-08-23.md": "03989761a809bf6e70abefd3e4315c3551b245bdbf2dbfcf0d31f011454c9cee",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\assets\\ancient-indian-history-03-e-a33097bab2.png": "a33097bab2101c30a07c9bee1099ebc109754365f8e3b90331c9a430620d660e",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\assets\\ancient-indian-history-03-l-79be2f5ce5.png": "79be2f5ce53493679f6f0797ef9f98e240def46aafd959c481ffce2174f30c74",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\assets\\ancient-indian-history-03_T-603eefe222.png": "603eefe2226eb46213b01e119b40478d45e00e1ec14fed29237c82d9692331ec",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\assets\\ancient-indian-history-03_Teaching-Navigation_2026-08-23.png": "603eefe2226eb46213b01e119b40478d45e00e1ec14fed29237c82d9692331ec",
+        "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+        "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+        "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "stable-topic-seed balanced deterministic non-patterned",
+      "tracker_updated": false,
+      "tracker_sha256": "a1c4428fca42d32478e007df54fbc9ba68f4711750c16e0881a3e63839abb117"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "ancient-indian-history-03:learner-v2:g10"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-23",
+    "validator": "tools/refresh_all_v2_learning_sessions.py + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10",
+    "master_image": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\previews\\contact-sheet-01.png",
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\previews\\contact-sheet-02.png",
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\previews\\contact-sheet-03.png"
+    ],
+    "validation_report": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\validation-report.txt",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g10\\ascii-master.txt",
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-23.json",
+    "ascii_master_spec_sha256": "baf7da5ce98398bca090baed193c39edb2911b01ad2f9aa4e329a4379f259e1c"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g10\\ancient-indian-history-03_Solved-Practice-Workbook_2026-08-23.md",
+  "refresh_profile": "authored-notions-style-ascii-master-2026-08-23"
+}

@@ -1,0 +1,4079 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-13\\g5\\ancient-indian-history-13_Solved-Practice-Workbook_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-13\\g5\\ancient-indian-history-13_Solved-Practice-Workbook_2026-09-03.pdf",
+  "mode": "workbook",
+  "topic_key": "ancient-indian-history-13",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 16,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 663.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 536.19
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 26,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 1 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 385.59
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 355.122
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 48,
+      "markdown_body_line_end": 53,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 649.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 2 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 499.29
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 468.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 85,
+      "markdown_body_line_end": 90,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 245.222
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 128.82
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 100,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 3 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 127,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 384.222
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 137,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 4 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 247.822
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 217.354
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 159,
+      "markdown_body_line_end": 164,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 622.19
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 174,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 5 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 471.59
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 441.122
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 201,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 217.522
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 101.12
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 211,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 6 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 720.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 689.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 238,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 360.322
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 248,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 7 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 209.722
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 179.254
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 270,
+      "markdown_body_line_end": 275,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 722.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 606.49
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 285,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 8 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 470.09
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 439.622
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 312,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 216.022
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 99.62
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 322,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 9 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 720.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 689.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 349,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 349.822
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 359,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 10 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 213.422
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 182.954
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 386,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 722.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 585.49
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 396,
+      "markdown_body_line_end": 396,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 11 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 449.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 418.622
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 423,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 195.022
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 78.62
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 433,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 12 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 672.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 642.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 460,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 418.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 291.922
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 470,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 13 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 155.522
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 125.054
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 492,
+      "markdown_body_line_end": 497,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 639.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 522.69
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 507,
+      "markdown_body_line_end": 507,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 14 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 386.29
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 355.822
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 534,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 670.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 15 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 534.49
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 504.022
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 571,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 280.422
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 164.02
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 581,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 16 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 608,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 517.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 401.422
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 618,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 17 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 265.022
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 234.554
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 645,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 643.19
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 655,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 18 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 506.79
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 476.322
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 677,
+      "markdown_body_line_end": 682,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 252.722
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 136.32
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 692,
+      "markdown_body_line_end": 692,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 19 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 714,
+      "markdown_body_line_end": 719,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 384.222
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 729,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 20 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 247.822
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 217.354
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 756,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 766,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 21 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 793,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 125.82
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 803,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 22 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 830,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 384.222
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 840,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 23 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 247.822
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 217.354
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 862,
+      "markdown_body_line_end": 867,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 877,
+      "markdown_body_line_end": 877,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 24 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 904,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 125.82
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 914,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 25 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 941,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 394.722
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 951,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 26 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 272.522
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 242.054
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 973,
+      "markdown_body_line_end": 978,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 988,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 27 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1010,
+      "markdown_body_line_end": 1015,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 125.82
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1025,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 28 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1052,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 373.722
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1062,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 29 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 237.322
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 206.854
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1084,
+      "markdown_body_line_end": 1089,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1099,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 30 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1121,
+      "markdown_body_line_end": 1126,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 136.32
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1136,
+      "markdown_body_line_end": 1136,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 31 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1158,
+      "markdown_body_line_end": 1163,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 517.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 401.422
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1173,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 32 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 265.022
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 234.554
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1200,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1210,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 33 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1237,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 115.32
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1247,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 34 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 737.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 707.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1269,
+      "markdown_body_line_end": 1274,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 483.424
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 367.022
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1284,
+      "markdown_body_line_end": 1284,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 35 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 230.622
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 200.154
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1311,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1321,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 36 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1343,
+      "markdown_body_line_end": 1348,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 125.82
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1358,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 37 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1380,
+      "markdown_body_line_end": 1385,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 363.222
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1395,
+      "markdown_body_line_end": 1395,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 38 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 226.822
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 196.354
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1417,
+      "markdown_body_line_end": 1422,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 643.19
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1432,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 39 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 506.79
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 476.322
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1459,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 252.722
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 125.82
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1469,
+      "markdown_body_line_end": 1469,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 40 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1496,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 384.222
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1506,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 41 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 247.822
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 217.354
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1528,
+      "markdown_body_line_end": 1533,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 643.19
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1543,
+      "markdown_body_line_end": 1543,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 42 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 506.79
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 476.322
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1570,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 252.722
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 115.32
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1580,
+      "markdown_body_line_end": 1580,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 43 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 737.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 707.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1602,
+      "markdown_body_line_end": 1607,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 483.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 367.022
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1617,
+      "markdown_body_line_end": 1617,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 44 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 230.622
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 200.154
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1639,
+      "markdown_body_line_end": 1644,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1654,
+      "markdown_body_line_end": 1654,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 45 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1676,
+      "markdown_body_line_end": 1681,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 125.82
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1691,
+      "markdown_body_line_end": 1691,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 46 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1713,
+      "markdown_body_line_end": 1718,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 363.222
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1728,
+      "markdown_body_line_end": 1728,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 47 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 226.822
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 196.354
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1750,
+      "markdown_body_line_end": 1755,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1765,
+      "markdown_body_line_end": 1765,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 48 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1787,
+      "markdown_body_line_end": 1792,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 136.32
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1802,
+      "markdown_body_line_end": 1802,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 49 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1824,
+      "markdown_body_line_end": 1829,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 384.222
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1839,
+      "markdown_body_line_end": 1839,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 50 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 247.822
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 217.354
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1861,
+      "markdown_body_line_end": 1866,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1876,
+      "markdown_body_line_end": 1876,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 51 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1898,
+      "markdown_body_line_end": 1903,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 125.82
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1913,
+      "markdown_body_line_end": 1913,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 52 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1935,
+      "markdown_body_line_end": 1940,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 384.222
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1950,
+      "markdown_body_line_end": 1950,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 53 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 247.822
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 217.354
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1972,
+      "markdown_body_line_end": 1977,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1987,
+      "markdown_body_line_end": 1987,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 54 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2009,
+      "markdown_body_line_end": 2014,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 136.32
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2024,
+      "markdown_body_line_end": 2024,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 55 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2046,
+      "markdown_body_line_end": 2051,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 517.824
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 401.422
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2061,
+      "markdown_body_line_end": 2061,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 56 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 265.022
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 234.554
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2083,
+      "markdown_body_line_end": 2088,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2098,
+      "markdown_body_line_end": 2098,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 57 -> A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2120,
+      "markdown_body_line_end": 2125,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 242.222
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 125.82
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2135,
+      "markdown_body_line_end": 2135,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 58 -> B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2157,
+      "markdown_body_line_end": 2162,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 500.624
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 373.722
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2172,
+      "markdown_body_line_end": 2172,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 59 -> C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 237.322
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 206.854
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2194,
+      "markdown_body_line_end": 2199,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 632.69
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2209,
+      "markdown_body_line_end": 2209,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 60 -> D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 465.822
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2233,
+      "markdown_body_line_end": 2238,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 195.022
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 57.62
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2248,
+      "markdown_body_line_end": 2248,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** 2026 printed Q3 = C; provisional key.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 672.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 642.424
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2280,
+      "markdown_body_line_end": 2285,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 195.024
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 89.122
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2294,
+      "markdown_body_line_end": 2294,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** A-K-A-K: yes, no, no, yes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 721.224
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2326,
+      "markdown_body_line_end": 2331,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 288.024
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 182.122
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2340,
+      "markdown_body_line_end": 2340,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Nayaputta = Mahavira; Shakyamuni + Tathagata = Buddha.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 77.122
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 46.654
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2372,
+      "markdown_body_line_end": 2377,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 376.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 238.69
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2386,
+      "markdown_body_line_end": 2386,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** A-T-S-B: Agriculture, Territory, Stratification, Boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2416,
+      "markdown_body_line_end": 2421,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 302.024
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 164.622
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2430,
+      "markdown_body_line_end": 2430,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** G-O-M: Geography, Opportunity, Mediation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 740.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 710.024
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2460,
+      "markdown_body_line_end": 2464,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 225.024
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 139.622
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2473,
+      "markdown_body_line_end": 2473,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Claim -> evidence -> significance -> qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 683.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 653.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2503,
+      "markdown_body_line_end": 2507,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 267.624
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 182.222
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2516,
+      "markdown_body_line_end": 2516,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Claim -> evidence -> significance -> qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 726.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 695.824
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2546,
+      "markdown_body_line_end": 2550,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 296.024
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 210.622
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2559,
+      "markdown_body_line_end": 2559,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Claim -> evidence -> significance -> qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2589,
+      "markdown_body_line_end": 2594,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 324.424
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 197.522
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2606,
+      "markdown_body_line_end": 2606,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Claim -> evidence -> significance -> qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 606.691
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 576.224
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2636,
+      "markdown_body_line_end": 2641,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 176.424
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 70.522
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2653,
+      "markdown_body_line_end": 2653,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Claim -> evidence -> significance -> qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 524.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 494.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2683,
+      "markdown_body_line_end": 2688,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 734.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 628.99
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2700,
+      "markdown_body_line_end": 2700,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Claim -> evidence -> significance -> qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 330.39
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 299.922
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2730,
+      "markdown_body_line_end": 2735,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 661.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 544.69
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2748,
+      "markdown_body_line_end": 2748,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Claim -> evidence -> significance -> qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 172.09
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 141.622
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2778,
+      "markdown_body_line_end": 2783,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 510.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 372.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2796,
+      "markdown_body_line_end": 2796,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Claim -> evidence -> significance -> qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2826,
+      "markdown_body_line_end": 2831,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 341.624
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 235.722
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2844,
+      "markdown_body_line_end": 2844,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Claim -> evidence -> significance -> qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 617.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 587.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    }
+  ]
+}

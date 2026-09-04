@@ -1,0 +1,3278 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-24",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 8,
+      "markdown_body_line_end": 14,
+      "heading": "Ancient History 24 - Developments in Philosophy - Complete Topic Package",
+      "preview": "**Subject:** Ancient Indian History | **Topic:** 24 | **Export date:** 2026-08-15  **Approval:** false - awaiting explicit user approval.  **Source order:** repository Markdown -> local OCR-searchable R.S. Sharma and Upinder Singh exports -",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 769.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 608.824
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 20,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 550.824
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 331.822
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\ancient-indian-history-24_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 661.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 353.956
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 100,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owner priority here is chronology, context, inter-school contact, textual form and source criticism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 119,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "01. Scope, chronology and evidence discipline",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\01_intellectual_chronology_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 325.424
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 131,
+      "heading": "Phase map",
+      "preview": "Phase | Strongest anchor | What it contributes | Bound it carefully",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Phase",
+          "Strongest anchor",
+          "What it contributes",
+          "Bound it carefully"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 734.49
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 555.588
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 175,
+      "heading": "CLOSING RECALL FLOW - SCOPE, CHRONOLOGY AND EVIDENCE DISCIPLINE",
+      "preview": "START / CONCEPT: Scope, chronology and evidence discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 289
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 186,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Upinder Singh notes that the indigenous word darshana literally means \"view.\" Another important term is anviksiki, literally \"looking at,\" which later came to mean critical inquiry and logical reasoning.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 214,
+      "heading": "Key terms",
+      "preview": "Term | Safe historical sense | Why it matters | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Safe historical sense",
+          "Why it matters",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 738.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 590.79
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 258,
+      "heading": "CLOSING RECALL FLOW - WHAT COUNTED AS PHILOSOPHY: DARSHANA, ANVIKSIKI AND AN ARGUMENTATIVE CIVILISATION",
+      "preview": "START / CONCEPT: What counted as philosophy: darshana, anviksiki and an argumentative civilisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 269,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "They are important for speculative questioning and cosmic-sacrificial imagination, but they do not amount to finished later systems such as Vedanta, Samkhya or materialism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 423.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 356.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 288,
+      "markdown_body_line_end": 288,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "03. Vedic background and transition pressure",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\02_vedic_to_upanishadic_transition.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 294,
+      "markdown_body_line_end": 299,
+      "heading": "Vedic philosophical inheritance",
+      "preview": "Element | Historical role | What later traditions do with it | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Element",
+          "Historical role",
+          "What later traditions do with it",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 455.75
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 307.848
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 326,
+      "markdown_body_line_end": 343,
+      "heading": "CLOSING RECALL FLOW - VEDIC BACKGROUND: RTA, SACRIFICE AND SPECULATIVE QUESTIONING",
+      "preview": "START / CONCEPT: Vedic background: rta, sacrifice and speculative questioning",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 697.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 354,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Explain Upanishadic thought as interiorisation plus debate, not just metaphysical slogan-listing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 354.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 302.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 375,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "04. Upanishadic developments",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\02_vedic_to_upanishadic_transition.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 439.35
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 387,
+      "heading": "Concept grid",
+      "preview": "Idea | Ancient-history safe meaning | Named anchor | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Idea",
+          "Ancient-history safe meaning",
+          "Named anchor",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 403.15
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 224.248
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 431,
+      "heading": "CLOSING RECALL FLOW - UPANISHADIC DEVELOPMENTS: BRAHMAN, ATMAN, KARMA, REBIRTH AND RELEASE",
+      "preview": "START / CONCEPT: Upanishadic developments: brahman, atman, karma, rebirth and release",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 566.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 365.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 442,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The shramana field is connected to, but not exhausted by, the second urbanisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 239.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 187.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 461,
+      "markdown_body_line_end": 461,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "05. Shramana challenge and second urbanisation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\03_shramana_second_urbanisation_ecosystem.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 329.95
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 472,
+      "heading": "Context matrix",
+      "preview": "Context | What it made easier | What it did not automatically decide",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Context",
+          "What it made easier",
+          "What it did not automatically decide"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 293.75
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 161.948
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 499,
+      "markdown_body_line_end": 516,
+      "heading": "CLOSING RECALL FLOW - SHRAMANA MILIEU AND THE SECOND URBANISATION",
+      "preview": "START / CONCEPT: Shramana milieu and the second urbanisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 527.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 296.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 527,
+      "markdown_body_line_end": 527,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Early Buddhism is path-centred, not merely doctrine-centred.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 171.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 118.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 546,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "06. Buddhist conceptual field",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\15_buddhist_madhyamaka_yogacar-2d460482ca.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 589.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 292.55
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 558,
+      "heading": "Early Buddhist concept map",
+      "preview": "Concept | Safe meaning | Why it matters | Trap",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Safe meaning",
+          "Why it matters",
+          "Trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 242.15
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 73.748
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 602,
+      "heading": "CLOSING RECALL FLOW - BUDDHISM: EARLY CONCEPTUAL CORE AND PHILOSOPHICAL ORIENTATION",
+      "preview": "START / CONCEPT: Buddhism: early conceptual core and philosophical orientation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 431.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 220.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 613,
+      "markdown_body_line_end": 613,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use Madhyamaka and Yogacara only to show later Buddhist depth, not to drown a GS-I answer in technicality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 632,
+      "markdown_body_line_end": 632,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. Buddhist scholastic developments",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\15_buddhist_madhyamaka_yogacar-2d460482ca.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 455.424
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 158.282
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 638,
+      "markdown_body_line_end": 644,
+      "heading": "Stage comparison",
+      "preview": "Stage / school | Named anchors | Ancient-history safe idea | Do not say",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Stage / school",
+          "Named anchors",
+          "Ancient-history safe idea",
+          "Do not say"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 618.89
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 688,
+      "heading": "CLOSING RECALL FLOW - BUDDHISM AFTER THE EARLY CANON: ABHIDHARMA, MAHAYANA, MADHYAMAKA, YOGACARA AND LATE LOGIC",
+      "preview": "START / CONCEPT: Buddhism after the early canon: Abhidharma, Mahayana, Madhyamaka, Yogacara and late logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 699,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anekantavada, nayavada and syadvada are related but not identical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 351.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 718,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "08. Jain philosophical relation map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\16_jain_anekanta_syadvada_nayavada.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 730,
+      "heading": "Jaina concept matrix",
+      "preview": "Concept | Safe formulation | Historical significance | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Safe formulation",
+          "Historical significance",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 455.75
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 287.348
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 774,
+      "heading": "CLOSING RECALL FLOW - JAIN PHILOSOPHY: JIVA, KARMIC BONDAGE, ANEKANTAVADA, SYADVADA AND ETHICS",
+      "preview": "START / CONCEPT: Jain philosophy: jiva, karmic bondage, anekantavada, syadvada and ethics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 651.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 450.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 785,
+      "markdown_body_line_end": 785,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ajivikas were a distinct shramana current associated in hostile Buddhist and Jaina sources with Makkhali Gosala, severe asceticism and the doctrine of niyati or fate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 324.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 804,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "09. Ajivika source-criticism panel",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\17_ajivika_charvaka_source_criticism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 472.75
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 815,
+      "heading": "Evidence grid",
+      "preview": "What is relatively secure | Why it matters | What remains thin or contested",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "What is relatively secure",
+          "Why it matters",
+          "What remains thin or contested"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 436.55
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 293.548
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 858,
+      "heading": "CLOSING RECALL FLOW - AJIVIKAS: NIYATI, ASCETICISM AND THE HOSTILE-SOURCE PROBLEM",
+      "preview": "START / CONCEPT: Ajivikas: niyati, asceticism and the hostile-source problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 285
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 423.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 869,
+      "markdown_body_line_end": 869,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Charvaka / Lokayata is heterodox, not one of the six orthodox schools.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 297.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 245.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 888,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Charvaka and Ajivika source panel",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\17_ajivika_charvaka_source_criticism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 439.35
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 899,
+      "heading": "Secure claim versus overclaim",
+      "preview": "Safer claim | Why it is safer | Overclaim to avoid",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Safer claim",
+          "Why it is safer",
+          "Overclaim to avoid"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 388.95
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 234.748
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 942,
+      "heading": "CLOSING RECALL FLOW - LOKAYATA / CHARVAKA, MATERIALISM AND SCEPTICAL CRITIQUE",
+      "preview": "START / CONCEPT: Lokayata / Charvaka, materialism and sceptical critique",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 629.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 408.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 953,
+      "markdown_body_line_end": 953,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Astika and nastika also do not simply mean theist and atheist.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 283.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 230.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 972,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11. Astika-nastika caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\04_astika_nastika_classification_caveat.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 439.35
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 982,
+      "heading": "Classification matrix",
+      "preview": "Criterion | Astika tends to mean | Nastika tends to mean | Why caution is needed",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Criterion",
+          "Astika tends to mean",
+          "Nastika tends to mean",
+          "Why caution is needed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 388.95
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 282.548
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1009,
+      "markdown_body_line_end": 1026,
+      "heading": "CLOSING RECALL FLOW - ASTIKA, NASTIKA AND THE LATE DOXOGRAPHY PROBLEM",
+      "preview": "START / CONCEPT: Astika, nastika and the late doxography problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 453.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1037,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Its core teaching distinguishes purusha (witness-consciousness) from prakriti (primordial nature) and explains the world through the dynamic of the three gunas.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 327.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 260.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1056,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "12. Samkhya tattva map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\09_samkhya_tattva_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 439.35
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1068,
+      "heading": "Samkhya core",
+      "preview": "Element | Safe meaning | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Safe meaning",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 388.95
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 258.348
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1111,
+      "heading": "CLOSING RECALL FLOW - SAMKHYA: PURUSHA, PRAKRITI, GUNAS AND REAL TRANSFORMATION",
+      "preview": "START / CONCEPT: Samkhya: purusha, prakriti, gunas and real transformation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 304
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 678.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 447.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1122,
+      "markdown_body_line_end": 1122,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The eight limbs show that ancient Yoga is ethical, mental and contemplative, not merely physical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 307.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 255.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1141,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "13. Yoga discipline flow",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\10_yoga_eight_limb_mind_discipline_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 425.15
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1154,
+      "heading": "Eight-limb summary",
+      "preview": "Limb | Function in the path",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Limb",
+          "Function in the path"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 388.95
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 237.148
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1197,
+      "heading": "CLOSING RECALL FLOW - YOGA: CITTA-VRITTI-NIRODHA, DISCIPLINED PRACTICE AND THE EIGHT LIMBS",
+      "preview": "START / CONCEPT: Yoga: citta-vritti-nirodha, disciplined practice and the eight limbs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 665.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 444.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1208,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use Nyaya to show that ancient Indian philosophy produced explicit public reasoning, not only mystical intuition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 304.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 252.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1227,
+      "markdown_body_line_end": 1227,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. Nyaya inference structure",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\11_nyaya_five_member_inference.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 439.35
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1239,
+      "heading": "Nyaya essentials",
+      "preview": "Feature | Safe meaning | Historical use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Safe meaning",
+          "Historical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 388.95
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 258.348
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1282,
+      "heading": "CLOSING RECALL FLOW - NYAYA: PRAMANAS, INFERENCE AND PUBLIC REASONING",
+      "preview": "START / CONCEPT: Nyaya: pramanas, inference and public reasoning",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 649.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 438.891
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1293,
+      "markdown_body_line_end": 1293,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vaisheshika is the great classificatory-realist school of the orthodox list.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 327.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 275.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1312,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "15. Vaisheshika ontology map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\12_vaisheshika_category_atomism_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 472.75
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1324,
+      "heading": "Vaisheshika grid",
+      "preview": "Category cluster | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Category cluster",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 436.55
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 305.948
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1350,
+      "markdown_body_line_end": 1367,
+      "heading": "CLOSING RECALL FLOW - VAISHESHIKA: CATEGORIES, SUBSTANCES AND ATOMISM",
+      "preview": "START / CONCEPT: Vaisheshika: categories, substances and atomism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 299
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 711.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 490.491
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1378,
+      "markdown_body_line_end": 1378,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Purva Mimamsa is the great school of ritual exegesis and dharma.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 364.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 312.424
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1397,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "16. Mimamsa hermeneutic-action chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\13_mimamsa_hermeneutic_action_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1403,
+      "markdown_body_line_end": 1409,
+      "heading": "Mimamsa focus",
+      "preview": "Concern | Safe description",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concern",
+          "Safe description"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 339.348
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1452,
+      "heading": "CLOSING RECALL FLOW - PURVA MIMAMSA: VEDIC AUTHORITY, DHARMA AND RITUAL HERMENEUTICS",
+      "preview": "START / CONCEPT: Purva Mimamsa: Vedic authority, dharma and ritual hermeneutics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 541.091
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1463,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vedanta or Uttara Mimamsa grows from the Upanishadic corpus and is closely tied to the Brahma Sutra tradition associated with Badarayana.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 334.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1482,
+      "markdown_body_line_end": 1482,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "17. Early Vedanta boundary diagram",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\14_vedanta_textual_triangle_boundary.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1488,
+      "markdown_body_line_end": 1492,
+      "heading": "Ancient core versus later boundary",
+      "preview": "Layer | What Topic 24 owns | What Topic 24 only signposts",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Layer",
+          "What Topic 24 owns",
+          "What Topic 24 only signposts"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 348.148
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1518,
+      "markdown_body_line_end": 1535,
+      "heading": "CLOSING RECALL FLOW - EARLY VEDANTA / UTTARA MIMAMSA: TEXTUAL CORE AND CHRONOLOGICAL BOUNDARIES",
+      "preview": "START / CONCEPT: Early Vedanta / Uttara Mimamsa: textual core and chronological boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 729.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 508.891
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1546,
+      "markdown_body_line_end": 1546,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Panini, Katyayana and Patanjali show that language itself became a major site of ancient Indian intellectual labour.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 369.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 316.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1565,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "18. Language, grammar and philosophy network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\18_language_grammar_philosophy_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1571,
+      "markdown_body_line_end": 1576,
+      "heading": "Grammar-philosophy grid",
+      "preview": "Figure / layer | Historical role | Why Topic 24 cares",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Figure / layer",
+          "Historical role",
+          "Why Topic 24 cares"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 338.148
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1602,
+      "markdown_body_line_end": 1619,
+      "heading": "CLOSING RECALL FLOW - GRAMMAR, LANGUAGE AND PHILOSOPHY: PANINI, KATYAYANA, PATANJALI AND THE LANGUAGE TURN",
+      "preview": "START / CONCEPT: Grammar, language and philosophy: Panini, Katyayana, Patanjali and the language turn",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 318
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 508.091
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1630,
+      "markdown_body_line_end": 1630,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Once the learner knows each school's preferred pramanas, many doctrinal differences become easier to organise. [DEBATE] Some school positions change across commentators and phases; treat the table as a strong map, not as frozen metaphysical",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 382.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 301.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1649,
+      "markdown_body_line_end": 1649,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "19. Pramana comparison matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\06_pramana_comparison_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 472.75
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1655,
+      "markdown_body_line_end": 1662,
+      "heading": "Comparative pramana table",
+      "preview": "School / cluster | Common exam-safe pramana line | Best caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "School / cluster",
+          "Common exam-safe pramana line",
+          "Best caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 422.35
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 225.748
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1688,
+      "markdown_body_line_end": 1705,
+      "heading": "CLOSING RECALL FLOW - EPISTEMOLOGY IN COMPARISON: PRAMANAS ACROSS SCHOOLS",
+      "preview": "START / CONCEPT: Epistemology in comparison: pramanas across schools",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 672.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 441.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1716,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This is where students often write vague words like \"spirituality.\" A better answer compares schools across a few hard axes: self/no-self, causation, substance/process and universal/particular.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 301.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 234.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1733,
+      "markdown_body_line_end": 1733,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "20. Self / no-self map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\07_self_no_self_metaphysics_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 472.75
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1737,
+      "markdown_body_line_end": 1737,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "20. Causation comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\08_causation_theories_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 453.55
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 156.408
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1743,
+      "markdown_body_line_end": 1751,
+      "heading": "Comparison grid",
+      "preview": "School / stream | Self | Causation / reality | Fast contrast",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "School / stream",
+          "Self",
+          "Causation / reality",
+          "Fast contrast"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 546.39
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1777,
+      "markdown_body_line_end": 1794,
+      "heading": "CLOSING RECALL FLOW - METAPHYSICS IN COMPARISON: SELF, CAUSATION, SUBSTANCE, PROCESS AND REALITY",
+      "preview": "START / CONCEPT: Metaphysics in comparison: self, causation, substance, process and reality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1805,
+      "markdown_body_line_end": 1805,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Oral transmission and sutra compression help explain both durability and ambiguity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 437.691
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 385.224
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1824,
+      "markdown_body_line_end": 1824,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "21. Institutions and patronage network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\19_institutions_patronage_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1830,
+      "markdown_body_line_end": 1836,
+      "heading": "Institution matrix",
+      "preview": "Institution / support | What it did | Best caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Institution / support",
+          "What it did",
+          "Best caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 455.75
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 257.948
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1863,
+      "markdown_body_line_end": 1880,
+      "heading": "CLOSING RECALL FLOW - DEBATE INSTITUTIONS, TRANSMISSION AND PATRONAGE",
+      "preview": "START / CONCEPT: Debate institutions, transmission and patronage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 433.091
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1891,
+      "markdown_body_line_end": 1891,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Purushartha language - dharma, artha, kama, moksha - helps connect philosophy with social ethics, although the mature fourfold synthesis is historically layered.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 307.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 240.824
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1910,
+      "markdown_body_line_end": 1910,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "22. GS-I answer spine and historiography matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\20_gs1_answer_historiography_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 708.091
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 410.95
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1916,
+      "markdown_body_line_end": 1921,
+      "heading": "Owner-boundary matrix",
+      "preview": "Topic 24 fully owns | Topic 24 signposts but does not absorb",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Topic 24 fully owns",
+          "Topic 24 signposts but does not absorb"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 360.55
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 228.748
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1948,
+      "markdown_body_line_end": 1965,
+      "heading": "CLOSING RECALL FLOW - ETHICS, LIBERATION, PLURALISM, HISTORIOGRAPHY AND OWNER BOUNDARIES",
+      "preview": "START / CONCEPT: Ethics, liberation, pluralism, historiography and owner boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 585.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 384.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1976,
+      "markdown_body_line_end": 1976,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "They provide bounded manuscript-preservation, digitisation and access context; they do not establish ancient dates or settle philosophical interpretation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 263.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 196.824
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1995,
+      "markdown_body_line_end": 2012,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 465.091
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2017,
+      "markdown_body_line_end": 2025,
+      "heading": "Text, material evidence and dating",
+      "preview": "Evidence | Historical use | Non-negotiable limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Evidence",
+          "Historical use",
+          "Non-negotiable limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 422.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 159.49
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2034,
+      "markdown_body_line_end": 2040,
+      "heading": "Historical formation matrix",
+      "preview": "Phase | Development | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Phase",
+          "Development",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 578.29
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2046,
+      "markdown_body_line_end": 2058,
+      "heading": "Institutions and patronage",
+      "preview": "oral teacher lineage",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 531.29
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 410.29
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2768,
+      "markdown_body_line_end": 2768,
+      "heading": "Solved topic-specific MCQs",
+      "preview": "Objective answers without a secure local official key are labelled inferred, translated or adjacent exactly as required.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 690.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 660.224
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2946,
+      "markdown_body_line_end": 2949,
+      "heading": "Developments in Philosophy - ADVANCED",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Ethics/Essay). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, discussions of philosophical",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 393.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 291.824
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2955,
+      "markdown_body_line_end": 2960,
+      "heading": "Mini-timeline",
+      "preview": "Phase | Date | Marker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Phase",
+          "Date",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 264.324
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 121.322
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2982,
+      "markdown_body_line_end": 2987,
+      "heading": "2. Key classification / data",
+      "preview": "Pair / tradition | Advanced marker",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Pair / tradition",
+          "Advanced marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 418.091
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 308.69
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2989,
+      "markdown_body_line_end": 2994,
+      "heading": "2. Key classification / data",
+      "preview": "Concept | Nuanced point",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Nuanced point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 308.69
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 199.288
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2998,
+      "markdown_body_line_end": 2999,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Philosophy → RS Sharma foundation file; Ethics → Indian moral frameworks. **Study link:** ⚠️ Buddhism/Jainism → heterodox debates; Manuscript preservation → Current Affairs.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 174.288
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 129.62
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3011,
+      "markdown_body_line_end": 3011,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Advanced UPSC statements may test the historicity of categories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 674.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 643.824
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3034,
+      "markdown_body_line_end": 3034,
+      "heading": "Final Register 1/8 - Chronology and the shape of the field",
+      "preview": "Final Register 1/8 - Chronology and the shape of the field",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\01_intellectual_chronology_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 334.424
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 37.282
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3058,
+      "markdown_body_line_end": 3058,
+      "heading": "Final Register 2/8 - Vedic to Upanishadic transition",
+      "preview": "Final Register 2/8 - Vedic to Upanishadic transition",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\02_vedic_to_upanishadic_transition.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 537.091
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 239.95
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3082,
+      "markdown_body_line_end": 3082,
+      "heading": "Final Register 3/8 - Shramana reconfiguration",
+      "preview": "Final Register 3/8 - Shramana reconfiguration",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\03_shramana_second_urbanisation_ecosystem.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 739.891
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 442.75
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3106,
+      "markdown_body_line_end": 3106,
+      "heading": "Final Register 4/8 - Buddhism, Jainism, Ajivikas and Charvaka",
+      "preview": "Final Register 4/8 - Buddhist development map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\15_buddhist_madhyamaka_yogacar-2d460482ca.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 184.75
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        77,
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3108,
+      "markdown_body_line_end": 3108,
+      "heading": "Final Register 4/8 - Buddhism, Jainism, Ajivikas and Charvaka",
+      "preview": "Final Register 4/8 - Ajivika and Charvaka caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\17_ajivika_charvaka_source_criticism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 506.15
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 209.008
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3133,
+      "markdown_body_line_end": 3133,
+      "heading": "Final Register 5/8 - The six darshanas",
+      "preview": "Final Register 5/8 - Six darshanas",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\05_six_darshana_comparison_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 692.491
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 395.35
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3160,
+      "markdown_body_line_end": 3160,
+      "heading": "Final Register 6/8 - Pramana and metaphysics",
+      "preview": "Final Register 6/8 - Pramana comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\06_pramana_comparison_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 766.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 468.95
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3162,
+      "markdown_body_line_end": 3162,
+      "heading": "Final Register 6/8 - Pramana and metaphysics",
+      "preview": "Final Register 6/8 - Self / no-self comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\07_self_no_self_metaphysics_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 468.95
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 171.808
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3186,
+      "markdown_body_line_end": 3186,
+      "heading": "Final Register 7/8 - Language, institutions and transmission",
+      "preview": "Final Register 7/8 - Language and institutions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\18_language_grammar_philosophy_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 324.75
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3188,
+      "markdown_body_line_end": 3188,
+      "heading": "Final Register 7/8 - Language, institutions and transmission",
+      "preview": "Final Register 7/8 - Patronage and institutions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\19_institutions_patronage_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 324.75
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        81,
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3212,
+      "markdown_body_line_end": 3212,
+      "heading": "Final Register 8/8 - Historiography, boundaries and the GS-I answer spine",
+      "preview": "Final Register 8/8 - Historiography and answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\assets\\20_gs1_answer_historiography_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 526.89
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 229.748
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3236,
+      "markdown_body_line_end": 3244,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Chronology and evidence discipline",
+      "preview": "SOURCES -> layered Vedic texts, sectarian canons, sutras, commentaries and material anchors",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 737.091
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 654.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3248,
+      "markdown_body_line_end": 3256,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: An argumentative field, not one doctrine",
+      "preview": "DARSHANA -> a viewpoint or way of seeing",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 632.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 550.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3260,
+      "markdown_body_line_end": 3270,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Vedic to Upanishadic transition",
+      "preview": "RTA / YAJNA / SACRED SPEECH",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 528.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 425.491
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3274,
+      "markdown_body_line_end": 3282,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Shramana reconfiguration",
+      "preview": "CONTEXT -> towns + states + merchants + renouncers + debate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 321.091
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3286,
+      "markdown_body_line_end": 3294,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Buddhist philosophical development",
+      "preview": "EARLY CORE -> four truths + dependent arising + non-self",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 299.091
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 216.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3298,
+      "markdown_body_line_end": 3306,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Jain, Ajivika and Charvaka evidence matrix",
+      "preview": "JAINA -> own canons + later texts | jiva, karma, anekanta, syadvada",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3310,
+      "markdown_body_line_end": 3319,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Astika, nastika and the six-school caveat",
+      "preview": "ASTIKA / NASTIKA != simple believer / atheist",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3323,
+      "markdown_body_line_end": 3332,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Samkhya and Yoga",
+      "preview": "SAMKHYA                         YOGA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3336,
+      "markdown_body_line_end": 3345,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Nyaya and Vaisheshika",
+      "preview": "NYAYA                           VAISHESHIKA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 453.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3349,
+      "markdown_body_line_end": 3357,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Mimamsa and early Vedanta",
+      "preview": "PURVA MIMAMSA                   UTTARA MIMAMSA / VEDANTA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 339.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 256.691
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3361,
+      "markdown_body_line_end": 3369,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Pramana and metaphysics comparison",
+      "preview": "KNOWLEDGE -> perception | inference | comparison | testimony | other debates",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3373,
+      "markdown_body_line_end": 3381,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Institutions, language and answer spine",
+      "preview": "TRANSMISSION -> teacher lineages + monasteries + courts + debate halls",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    }
+  ]
+}

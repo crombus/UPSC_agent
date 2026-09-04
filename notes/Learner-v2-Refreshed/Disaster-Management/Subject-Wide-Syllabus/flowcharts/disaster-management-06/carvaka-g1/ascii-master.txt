@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Tsunami generation chain
+SUDDEN WATER DISPLACEMENT
+EARTHQUAKE | LANDSLIDE | VOLCANIC ACTIVITY
+LONG WAVES -> COASTAL TRANSFORMATION
+RUN-UP + INUNDATION + RETURN FLOW
+
+ASCII MASTER FLOW — PANEL 2/12: Coastal-hazard firewall
+TSUNAMI -> sudden displacement
+TIDE -> gravitational cycle
+STORM SURGE -> cyclone wind + pressure
+RULE -> different monitoring and response logic
+
+ASCII MASTER FLOW — PANEL 3/12: Source-to-impact matrix
+SOURCE -> mechanism depth displacement
+PATH -> distance and ocean configuration
+COAST -> bathymetry topography land use
+OUTCOME -> exposure vulnerability and action
+
+ASCII MASTER FLOW — PANEL 4/12: Detection-confirmation rail
+1 SEISMIC EVENT ANALYSIS
+2 PRE-RUN MODEL SCENARIO
+3 SEA-LEVEL MONITORING
+4 UPDATED BULLETIN / THREAT STATUS
+
+ASCII MASTER FLOW — PANEL 5/12: ITEWC authority map
+INCOIS / ITEWC -> analysis and advisory
+IOTWMS / UNESCO-IOC -> regional framework
+STATE / DISTRICT / LOCAL -> protective action
+LOCAL AUTHORITY -> all clear
+
+ASCII MASTER FLOW — PANEL 6/12: Warning-uncertainty ladder
+PRELIMINARY INFORMATION
+MODEL-BASED THREAT
+OBSERVATION-INFORMED UPDATE
+FINAL / THREAT PASSED -> local all-clear check
+
+ASCII MASTER FLOW — PANEL 7/12: Inundation-to-evacuation map
+HAZARD / INUNDATION MAP
+-> ZONE + ROUTE + REFUGE + ASSEMBLY
+-> ACCESSIBLE TRANSPORT + ACCOUNTABILITY
+-> DRILL + FEEDBACK + REVISION
+
+ASCII MASTER FLOW — PANEL 8/12: Coastal protection portfolio
+ENGINEERED -> shelters walls breakwaters where justified
+NATURAL -> dunes mangroves forests reefs
+REGULATORY -> CRZ + risk-sensitive siting
+RULE -> layered and location-specific
+
+ASCII MASTER FLOW — PANEL 9/12: Coastal economy continuity
+PORT / HARBOUR -> shutdown access reopening
+FISHERIES -> boats landing centres markets
+TOURISM -> visitor warning signage route
+UTILITIES / HOSPITAL -> continuity and safe recovery
+
+ASCII MASTER FLOW — PANEL 10/12: Tsunami Ready cycle
+MAP RISK -> EDUCATE -> WARN
+EVACUATION MAP + SIGNAGE -> DRILL
+EVALUATE INDICATORS -> RENEW READINESS
+COMMUNITY RECOGNITION -> NOT NATIONAL CERTIFICATION
+
+ASCII MASTER FLOW — PANEL 11/12: Trust under uncertainty
+THREAT POSSIBLE? -> ISSUE PRECAUTIONARY MESSAGE
+NEW DATA? -> UPDATE / UPGRADE / DOWNGRADE
+EXPLAIN REASON -> PRESERVE TRUST
+LIMITED IMPACT -> NOT AUTOMATIC FALSE-ALARM FAILURE
+
+ASCII MASTER FLOW — PANEL 12/12: Tsunami answer spine
+DEFINE DISPLACEMENT -> TRACE SHOALING AND CONSEQUENCE
+MAP DETECTION MODEL SEA LEVEL BULLETIN AND AUTHORITY
+CONNECT MAP TO EVACUATION BUFFERS PORTS AND LIVELIHOODS
+QUALIFY UNCERTAINTY READINESS RECOVERY AND OUTCOME

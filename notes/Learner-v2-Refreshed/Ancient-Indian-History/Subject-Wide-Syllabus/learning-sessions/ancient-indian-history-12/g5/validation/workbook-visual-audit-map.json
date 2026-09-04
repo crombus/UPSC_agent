@@ -1,0 +1,3783 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g5\\ancient-indian-history-12_Solved-Practice-Workbook_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g5\\ancient-indian-history-12_Solved-Practice-Workbook_2026-09-03.pdf",
+  "mode": "workbook",
+  "topic_key": "ancient-indian-history-12",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 16,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 684.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 574.69
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 26,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q1 key A: DNa is a contemporary royal country list and tribute/law claim; it is not a cadastral map.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 409.89
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 379.422
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 48,
+      "markdown_body_line_end": 53,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 170.022
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 60.62
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q2 key B: Herodotus conveys imperial ranking and abundance, but his numbers and conversions are not audited accounts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 630.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 585.624
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 85,
+      "markdown_body_line_end": 90,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 376.224
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 266.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 100,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q3 key C: XPh is contemporary royal evidence and Herodotus provides a fifth-century troop narrative.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 130.422
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 85.754
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 127,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 633.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 512.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 137,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q4 key D: This formulation preserves dynastic context without converting later traditions into exact conquests.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 333.49
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 288.822
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 159,
+      "markdown_body_line_end": 164,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 174,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q5 key A: Old Persian Hidush is an ethnogeographic imperial label.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 489.09
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 458.622
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 201,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 249.222
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 139.82
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 211,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q6 key B: The source lists preserve distinct names and administrative groupings.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 238,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 514.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 405.422
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 248,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q7 key C: This conclusion matches the uneven strength of inscriptions, texts and archaeology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 240.622
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 210.154
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 270,
+      "markdown_body_line_end": 275,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 285,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q8 key D: Coins establish movement, valuation and contact better than borders.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 503.29
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 472.822
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 312,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 263.422
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 154.02
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 322,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q9 key A: Direction and palaeographic structure support the Aramaic-Kharosthi relationship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 349,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 532.024
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 411.422
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 359,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q10 key B: Origins and surviving corpus are different chronological questions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 232.422
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 201.954
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 386,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 628.49
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 396,
+      "markdown_body_line_end": 396,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q11 key C: Contact can influence vocabulary and political imagination without producing a copied constitution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 449.49
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 404.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 423,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 195.422
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 74.82
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 433,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q12 key D: Feature-level comparison avoids both denial and copying.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 644.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 614.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 460,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 404.624
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 295.222
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 470,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q13 key A: The northwest was a networked corridor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 130.422
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 99.954
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 492,
+      "markdown_body_line_end": 497,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 653.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 532.69
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 507,
+      "markdown_body_line_end": 507,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q14 key B: Taxila's serial cities prevent phase collapse.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 353.69
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 323.222
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 534,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 628.49
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q15 key C: Political control could weaken while military/cultural links persisted.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 463.69
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 433.222
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 571,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 223.822
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 103.22
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 581,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q16 key D: Imperial succession explains the strategic setting better than a wealth-only story.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 706.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 675.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 608,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 356.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 618,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q17 key A: The source problem is mediation, not total absence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 192.022
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 161.554
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 645,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 722.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 602.29
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 655,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q18 key B: Date, sources and genre must be stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 437.49
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 407.022
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 677,
+      "markdown_body_line_end": 682,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 197.622
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 88.22
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 692,
+      "markdown_body_line_end": 692,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q19 key C: Genre explains the appeal and limit of memorable dialogue.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 706.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 675.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 714,
+      "markdown_body_line_end": 719,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 356.822
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 729,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q20 key D: These later works often differ in tone and detail from Arrian's preferred line.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 220.422
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 189.954
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 756,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 766,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q21 key A: Strabo's skepticism is itself evidence about ancient ethnographic credibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 489.09
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 458.622
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 793,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 249.222
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 139.82
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 803,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q22 key B: The tradition reveals ideological interpretation of landscape.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 830,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 532.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 422.622
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 840,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q23 key C: This preserves the siege while limiting modern site certainty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 272.022
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 241.554
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 862,
+      "markdown_body_line_end": 867,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 877,
+      "markdown_body_line_end": 877,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q24 key D: Alliance was an exercise of local agency within unequal power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 503.29
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 472.822
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 904,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 263.422
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 154.02
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 914,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q25 key A: The sequence begins with highland operations before Taxila and Hydaspes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 941,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 532.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 422.622
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 951,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q26 key B: Hyphasis is Beas, while Hydraotes is Ravi.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 300.422
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 269.954
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 973,
+      "markdown_body_line_end": 978,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 988,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q27 key C: The settlement combined victory with pragmatic delegation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 503.29
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 472.822
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1010,
+      "markdown_body_line_end": 1015,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 263.422
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 142.82
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1025,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q28 key D: Museum and scholarship preserve attribution uncertainty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 737.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 707.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1052,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 497.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 388.222
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1062,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q29 key A: Combined arms and deception addressed river and elephant challenges.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 251.822
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 221.354
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1084,
+      "markdown_body_line_end": 1089,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1099,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q30 key B: Sangala adds accumulated resistance to the halt context.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 503.29
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 472.822
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1121,
+      "markdown_body_line_end": 1126,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 263.422
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 154.02
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1136,
+      "markdown_body_line_end": 1136,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q31 key C: The Beas is the secure limit of advance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1158,
+      "markdown_body_line_end": 1163,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 532.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 422.622
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1173,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q32 key D: The explanation is conjunctural and ranked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 257.822
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 227.354
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1200,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1210,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q33 key A: Perceived threat can be historically causal without exact numbers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 489.09
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 458.622
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1237,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 249.222
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 139.82
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1247,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q34 key B: Ancient historians composed speeches to represent plausible arguments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1269,
+      "markdown_body_line_end": 1274,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 532.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 411.422
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1284,
+      "markdown_body_line_end": 1284,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q35 key C: Multiple return routes served exploration and logistics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 246.622
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 216.154
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1311,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1321,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q36 key D: The episode undermines a peaceful-withdrawal narrative.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 503.29
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 472.822
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1343,
+      "markdown_body_line_end": 1348,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 263.422
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 154.02
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1358,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q37 key A: Indirect rule was a strategic response to distance and thin garrisons.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1380,
+      "markdown_body_line_end": 1385,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 532.024
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 422.622
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1395,
+      "markdown_body_line_end": 1395,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q38 key B: The 323 BCE death triggered successor conflict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 286.222
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 255.754
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1417,
+      "markdown_body_line_end": 1422,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1432,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q39 key C: Direct consequences belong to the campaign's immediate institutional footprint.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 503.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 472.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1459,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 263.422
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 142.82
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1469,
+      "markdown_body_line_end": 1469,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q40 key D: The correction preserves increased Greek knowledge without an isolation myth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 737.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 707.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1496,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 497.624
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 377.022
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1506,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q41 key A: This treats 'paved the way' as limited indirect causation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 212.222
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 181.754
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1528,
+      "markdown_body_line_end": 1533,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1543,
+      "markdown_body_line_end": 1543,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q42 key B: Chronology separates later Hellenistic diplomacy from direct invasion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 489.09
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 458.622
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1570,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 249.222
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 139.82
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1580,
+      "markdown_body_line_end": 1580,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q43 key C: Chronological distance and different dynasties matter.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1602,
+      "markdown_body_line_end": 1607,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 532.024
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 422.622
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1617,
+      "markdown_body_line_end": 1617,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q44 key D: Hybrid and later are the essential qualifiers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 257.822
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 227.354
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1639,
+      "markdown_body_line_end": 1644,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 628.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1654,
+      "markdown_body_line_end": 1654,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q45 key A: Duration helps explain the different strongest legacies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 463.69
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 433.222
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1676,
+      "markdown_body_line_end": 1681,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 223.822
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 114.42
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1691,
+      "markdown_body_line_end": 1691,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q46 key B: The critique replaces an isolation premise with connected history.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 706.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 675.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1713,
+      "markdown_body_line_end": 1718,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 356.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1728,
+      "markdown_body_line_end": 1728,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q47 key C: This avoids reverse hero worship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 206.222
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 175.754
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1750,
+      "markdown_body_line_end": 1755,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 722.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 602.29
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1765,
+      "markdown_body_line_end": 1765,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q48 key D: The conclusion integrates scale, impact and source criticism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 437.49
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 407.022
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1787,
+      "markdown_body_line_end": 1792,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 197.622
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 88.22
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1802,
+      "markdown_body_line_end": 1802,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q49 key A: The repair preserves evidence while qualifying genre and quantification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 644.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 614.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1824,
+      "markdown_body_line_end": 1829,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 404.624
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 295.222
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1839,
+      "markdown_body_line_end": 1839,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q50 key B: The corrected sentence states area, result and limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 130.422
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 99.954
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1861,
+      "markdown_body_line_end": 1866,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 653.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 543.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1876,
+      "markdown_body_line_end": 1876,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q51 key C: This answer separates transmission environment from surviving corpus.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 379.09
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 348.622
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1898,
+      "markdown_body_line_end": 1903,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1913,
+      "markdown_body_line_end": 1913,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q52 key D: The urban sequence prevents later Indo-Greek material being back-projected.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 513.09
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 482.622
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1935,
+      "markdown_body_line_end": 1940,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 273.222
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 163.82
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1950,
+      "markdown_body_line_end": 1950,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q53 key A: It preserves the tactical outcome and Indian agency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1972,
+      "markdown_body_line_end": 1977,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 532.024
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 411.422
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1987,
+      "markdown_body_line_end": 1987,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q54 key B: The repair ranks a multi-causal explanation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 246.622
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 216.154
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2009,
+      "markdown_body_line_end": 2014,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2024,
+      "markdown_body_line_end": 2024,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q55 key C: Date, mediation and value are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 474.89
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 444.422
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2046,
+      "markdown_body_line_end": 2051,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 235.022
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 125.62
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2061,
+      "markdown_body_line_end": 2061,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q56 key D: This protects topographical uncertainty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2083,
+      "markdown_body_line_end": 2088,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 514.824
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 394.222
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2098,
+      "markdown_body_line_end": 2098,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q57 key A: The correction makes causation indirect and plural.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 229.422
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 198.954
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2120,
+      "markdown_body_line_end": 2125,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 639.69
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2135,
+      "markdown_body_line_end": 2135,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q58 key B: Chronology separates campaign from later Hellenistic/Central Asian interaction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 489.09
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 458.622
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2157,
+      "markdown_body_line_end": 2162,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 249.222
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 128.62
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2172,
+      "markdown_body_line_end": 2172,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q59 key C: This retains influence as a hypothesis with evidence limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 706.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 675.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2194,
+      "markdown_body_line_end": 2199,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Option | Choice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Choice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 356.822
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2209,
+      "markdown_body_line_end": 2209,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Q60 key D: The correction recognizes knowledge effects without an isolation myth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 192.022
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 161.554
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2233,
+      "markdown_body_line_end": 2238,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Pair | Verdict | Reason",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Pair",
+          "Verdict",
+          "Reason"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 661.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 552.09
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2248,
+      "markdown_body_line_end": 2248,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** A-K-A-K: yes, no, no, yes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 415.69
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 385.222
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2279,
+      "markdown_body_line_end": 2284,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim | Named evidence | Significance / limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "Significance / limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 734.891
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2296,
+      "markdown_body_line_end": 2296,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-R-P-A: Corridors, Rivers, Plateaus, Adaptation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 378.49
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 348.022
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2327,
+      "markdown_body_line_end": 2333,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Answer unit | Named evidence and analysis | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Answer unit",
+          "Named evidence and analysis",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 680.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 404.09
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2346,
+      "markdown_body_line_end": 2346,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-S-L: Claim, Evidence, Significance, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 130.89
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 100.422
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2376,
+      "markdown_body_line_end": 2382,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Answer unit | Named evidence and analysis | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Answer unit",
+          "Named evidence and analysis",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 462.891
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 220.29
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2395,
+      "markdown_body_line_end": 2395,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-S-L: Claim, Evidence, Significance, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 740.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 710.024
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2425,
+      "markdown_body_line_end": 2431,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Answer unit | Named evidence and analysis | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Answer unit",
+          "Named evidence and analysis",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 511.09
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2444,
+      "markdown_body_line_end": 2444,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-S-L: Claim, Evidence, Significance, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 252.09
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 221.622
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2474,
+      "markdown_body_line_end": 2481,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Answer unit | Named evidence and analysis | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Answer unit",
+          "Named evidence and analysis",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 551.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 187.09
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2495,
+      "markdown_body_line_end": 2495,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-S-L: Claim, Evidence, Significance, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 600.691
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 570.224
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2525,
+      "markdown_body_line_end": 2532,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Answer unit | Named evidence and analysis | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Answer unit",
+          "Named evidence and analysis",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 456.29
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2546,
+      "markdown_body_line_end": 2546,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-S-L: Claim, Evidence, Significance, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 151.69
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 121.222
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2576,
+      "markdown_body_line_end": 2583,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Answer unit | Named evidence and analysis | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Answer unit",
+          "Named evidence and analysis",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 462.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 165.49
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2597,
+      "markdown_body_line_end": 2597,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-S-L: Claim, Evidence, Significance, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 614.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 584.424
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2627,
+      "markdown_body_line_end": 2636,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Answer unit | Named evidence and analysis | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Answer unit",
+          "Named evidence and analysis",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 346.69
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2652,
+      "markdown_body_line_end": 2652,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-S-L: Claim, Evidence, Significance, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 726.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 695.824
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2682,
+      "markdown_body_line_end": 2691,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Answer unit | Named evidence and analysis | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Answer unit",
+          "Named evidence and analysis",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 290.69
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2707,
+      "markdown_body_line_end": 2707,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-S-L: Claim, Evidence, Significance, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 663.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 633.024
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2737,
+      "markdown_body_line_end": 2746,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Answer unit | Named evidence and analysis | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Answer unit",
+          "Named evidence and analysis",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 301.89
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2762,
+      "markdown_body_line_end": 2762,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-S-L: Claim, Evidence, Significance, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 663.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 633.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    }
+  ]
+}

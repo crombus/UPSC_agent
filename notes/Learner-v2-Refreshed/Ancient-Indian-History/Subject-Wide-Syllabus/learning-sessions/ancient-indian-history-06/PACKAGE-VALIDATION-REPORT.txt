@@ -1,0 +1,17 @@
+topic=ancient-indian-history-06
+source_record=ancient-indian-history-06:learner-v2:g5
+refreshed_generation=6
+sessions=45
+mcqs=40
+main_pdf_pages=82
+workbook_pdf_pages=14
+source_preservation=PASS
+source_content_preservation=PASS
+core_exam_completeness=PASS
+canonical_h2_order=PASS
+session_contract=PASS
+ascii_master=PASS
+mcq_keys=PASS
+pdf_layout=PASS
+flowchart_package=PASS
+errors=none

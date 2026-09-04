@@ -1,0 +1,103 @@
+ASCII MASTER FLOW — PANEL 1/12: Topic boundary and source matrix
+OWNER: society, daily life, knowledge, religion and arts in the Gupta age
+TOPIC 20 RETAINS: rulers, campaigns, offices, grants machinery and decline
+SOURCES: Smriti | literature | inscriptions | coins | Faxian | art | archaeology
+TEXT -> norm / imagination; INSCRIPTION -> selected public actor
+TRAVELLER -> situated observation; MATERIAL -> practice with dating limits
+METHOD: use at least two source classes and state each limitation.
+
+ASCII MASTER FLOW — PANEL 2/12: Varna, jati and exclusion
+VARNA -> normative four-fold macro-model
+JATI / OCCUPATION -> numerous local and professional identities
+STATUS CLAIM -> genealogy, office, patronage and Sanskritic idiom
+EXCLUSION -> Chandala evidence, occupational stigma and spatial distance
+MOBILITY and hierarchy coexisted.
+RULE: one Smriti norm or Faxian passage cannot become a uniform all-India census.
+
+ASCII MASTER FLOW — PANEL 3/12: Family, women and property
+PATRILINEAL / PATRIARCHAL NORM -> dominant prescriptive frame
+MARRIAGE / INHERITANCE -> text-specific and socially varied
+STRIDHANA -> recognized category with differing control and succession rules
+WOMEN'S AGENCY -> queens, donors, workers and literary representations
+LIMIT: elite visibility does not prove general equality.
+TRAP: Mitakshara and Dayabhaga are later schools, not Gupta legal codes.
+
+ASCII MASTER FLOW — PANEL 4/12: Village, labour, craft and urban life
+VILLAGE -> cultivators + land + taxes + vishti + household production
+                           |
+                 food / fibre / revenue
+                           v
+TOWN -> artisans + merchants + guild-linked groups + markets + sacred institutions
+MANDASOR SILK WEAVERS -> migration, corporate identity and patronage
+VERDICT: agrarian surplus and urban craft networks interacted, but regionally unevenly.
+
+ASCII MASTER FLOW — PANEL 5/12: Faxian and daily-life reconstruction
+FAXIAN c. 399-414 CE -> Buddhist pilgrimage purpose
+        |
+monasteries, routes, selected customs and Chandala passage
+        |
+valuable near-contemporary social and religious observations
+        |
+LIMITS: itinerary + audience + translation + silence + idealisation
+USE: corroborate with inscriptions, texts and archaeology; never quote as a census.
+
+ASCII MASTER FLOW — PANEL 6/12: Education, Sanskrit and multilingualism
+COURTS + BRAHMANICAL CENTRES + MONASTERIES + TEACHER-PUPIL NETWORKS
+                              |
+Sanskrit prestige in kavya, prashasti, theology and science
+                              |
+Prakrits, regional speech and local inscriptions continue
+                              |
+SANSKRITISATION = adoption + negotiation + local adaptation
+NOT: one royal language law, universal literacy or extinction of other languages.
+
+ASCII MASTER FLOW — PANEL 7/12: Literature and genre map
+KAVYA / DRAMA -> Kalidasa and courtly aesthetic worlds
+LEXICOGRAPHY -> Amarasimha / Amarakosha tradition
+PURANIC TEXTS -> layered redaction and devotional-cosmological synthesis
+SMRITI -> prescriptive law and social norm
+BUDDHIST / JAIN WRITING -> continuing intellectual plurality
+RULE: secure work and genre are stronger than later court-biography legends.
+
+ASCII MASTER FLOW — PANEL 8/12: Mathematics, astronomy and metallurgy
+499 CE -> ARYABHATIYA: computation, astronomy, pi and earth-rotation argument
+6th c. -> VARAHAMIHIRA: post-main-Gupta continuation
+628 CE -> BRAHMAGUPTA: explicitly post-Gupta chronology
+MEHRAULI IRON PILLAR -> large wrought iron and corrosion resistance
+CAUTION: place value != sole invention of zero; King Chandra identification debated.
+VERDICT: cumulative specialist traditions, not isolated miracle claims.
+
+ASCII MASTER FLOW — PANEL 9/12: Religious plurality and patronage
+VAISHNAVA + SHAIVA + SHAKTA Puranic formations
+BUDDHIST monasteries, images and pilgrimage networks
+JAIN communities, images and sites
+ROYAL COURTS + regional rulers + guilds + households + monks -> patrons
+Udayagiri joins royal Vaishnava imagery with wider sacred presence.
+RULE: plural patronage was unequal and strategic; it is not modern secular neutrality.
+
+ASCII MASTER FLOW — PANEL 10/12: Temples, sculpture, painting and Ajanta
+TEMPLES -> Sanchi 17 | Udayagiri | Bhitargaon | Deogarh
+SCULPTURE -> Mathura and Sarnath materials, modelling and robe conventions
+PAINTING -> Ajanta narrative, courtly, devotional and workshop production
+ARCHITECTURAL TREND -> garbhagriha + porch/mandapa + emerging superstructure
+OWNERSHIP LIMIT: major fifth-century Ajanta phase is Vakataka-context.
+RULE: name object/site, form, date, patronage and attribution caution.
+
+ASCII MASTER FLOW — PANEL 11/12: Golden Age and social distribution
+CLASSICAL ACHIEVEMENT
+literature + science + iconic art + structural temples + prestige language
+                         |
+TEST DISTRIBUTION
+region | class | caste | gender | labour | literacy | patronage
+                         |
+COUNTER-EVIDENCE: exclusion, vishti, patriarchal norms and elite archives
+VERDICT: culturally consequential and enduring, but neither uniform nor universally golden.
+
+ASCII MASTER FLOW — PANEL 12/12: Culture answer spine
+OPEN: social-cultural companion to Gupta polity, reconstructed through mixed sources
+BODY 1: hierarchy + household + women + labour
+BODY 2: village-town and patronage institutions
+BODY 3: language + literature + science + religion + arts
+EACH EXAMPLE: claim -> named evidence -> significance -> limit
+QUALIFY: chronology, regional ownership, source genre and social distribution
+VERDICT: classical production emerged from plural but unequal social worlds.

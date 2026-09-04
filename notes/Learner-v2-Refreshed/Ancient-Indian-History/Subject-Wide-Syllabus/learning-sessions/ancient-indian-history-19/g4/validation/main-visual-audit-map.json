@@ -1,0 +1,2113 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\ancient-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\ancient-indian-history-19_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-19",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Crafts, Commerce & Urban Growth (200 BC-AD 250) - Complete Topic Package",
+      "preview": "**Subject:** Ancient Indian History | **GS:** Prelims GS-I; GS-I analytical/culture support **Export date:** 2026-08-14 | **Approval:** false - awaiting explicit user approval **Source order used:** repository Markdown -> OCR-searchable R.S",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 12,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 606.024
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 387.022
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 42,
+      "markdown_body_line_end": 42,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\ancient-indian-history-19_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "600 BCE second-urbanisation evidence as background and limited third-century evidence to explain transformation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 651.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 598.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 98,
+      "heading": "Chronology",
+      "preview": "Date | Marker",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 389.624
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 280.222
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 100,
+      "heading": "Chronology",
+      "preview": "01. Scope, chronology and evidence discipline",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\08_evidence_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 280.222
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 515.045
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 128,
+      "markdown_body_line_end": 145,
+      "heading": "CLOSING RECALL FLOW - SCOPE, CHRONOLOGY AND EVIDENCE DISCIPLINE",
+      "preview": "START / CONCEPT: Scope, chronology and evidence discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 156,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "'Second urbanisation' is strongest as a north Indian frame; it should not erase distinct Deccan and Tamil pathways.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 417.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 171,
+      "markdown_body_line_end": 171,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "02. Second urbanisation and regional variation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\07_urbanisation_causal_loop.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 225.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 515.045
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 181,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Region | Dominant pattern | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Region",
+          "Dominant pattern",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 478.845
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 368.243
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 207,
+      "markdown_body_line_end": 224,
+      "heading": "CLOSING RECALL FLOW - SECOND URBANISATION AND REGIONAL VARIATION",
+      "preview": "START / CONCEPT: Second urbanisation and regional variation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 235,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Urban growth did not mechanically follow every surplus increase; transport, demand, institutions and security also mattered.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 250,
+      "markdown_body_line_end": 250,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "03. Agrarian surplus and the production base",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\01_production_specialisation_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 206.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 515.045
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 296,
+      "heading": "CLOSING RECALL FLOW - AGRARIAN SURPLUS AND THE PRODUCTION BASE",
+      "preview": "START / CONCEPT: Agrarian surplus and the production base",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 307,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A dyeing vat proves local processing, not the scale, ownership or destination of every textile produced.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 407.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 328,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Stage | Evidence-safe inference | Do not claim",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Stage",
+          "Evidence-safe inference",
+          "Do not claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 198.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 110.022
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 355,
+      "markdown_body_line_end": 372,
+      "heading": "CLOSING RECALL FLOW - CRAFT SPECIALISATION: TEXTILES, DYEING AND OIL",
+      "preview": "START / CONCEPT: Craft specialisation: textiles, dyeing and oil",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 536.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 325.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 383,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian ivory objects are reported beyond India, while Roman glass occurs at north-western sites; glass-blowing expanded around the beginning of the Common Era in Sharma's account.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 186.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 119.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 400,
+      "markdown_body_line_end": 405,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Craft | Named evidence | Interpretive limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Craft",
+          "Named evidence",
+          "Interpretive limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 667.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 536.09
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 449,
+      "heading": "CLOSING RECALL FLOW - BEADS, METALS, IVORY, GLASS, POTTERY AND TERRACOTTA",
+      "preview": "START / CONCEPT: Beads, metals, ivory, glass, pottery and terracotta",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Inscriptions naming artisans as donors make producers visible as social actors, but donors were not necessarily representative of all workers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 517,
+      "heading": "CLOSING RECALL FLOW - ARTISANS, OCCUPATIONAL ORGANISATION AND SETTLEMENT",
+      "preview": "START / CONCEPT: Artisans, occupational organisation and settlement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 571.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 360.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 528,
+      "markdown_body_line_end": 528,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A handful of negama/nigama coins are interpreted by Upinder Singh as reflecting merchant-guild authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 239.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 187.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 543,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. Shreni, nigama and merchant bodies",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\02_guild_shreni_institutional_model.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 432.256
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 553,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Term/evidence | Safe meaning | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Term/evidence",
+          "Safe meaning",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 396.056
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 296.654
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 599,
+      "heading": "CLOSING RECALL FLOW - SHRENI, NIGAMA AND MERCHANT BODIES",
+      "preview": "START / CONCEPT: Shreni, nigama and merchant bodies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 670.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 459.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 610,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Caravans pooled transport, information and risk; this is a functional inference, not proof of one standard caravan organisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 352.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 286.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 625,
+      "markdown_body_line_end": 625,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "08. Internal trade, caravans and market nodes",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\03_inland_maritime_route_schematic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 515.045
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 671,
+      "heading": "CLOSING RECALL FLOW - INTERNAL TRADE, CARAVANS AND MARKET NODES",
+      "preview": "START / CONCEPT: Internal trade, caravans and market nodes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 682,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "'Uttarapatha' and 'Dakshinapatha' can denote broad route regions or corridors; do not force one immutable road line.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 394.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - UTTARAPATHA, DAKSHINAPATHA AND REGIONAL CORRIDORS",
+      "preview": "START / CONCEPT: Uttarapatha, Dakshinapatha and regional corridors",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 637.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 436.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Knowledge of monsoon wind regimes enabled more direct seasonal crossings, but the old 'discovery by one Greek sailor' story should not erase accumulated Indian Ocean expertise.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 296.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 229.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 765,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Ports, monsoon sailing and Indian Ocean links",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\06_port_hinterland_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 515.045
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 811,
+      "heading": "CLOSING RECALL FLOW - PORTS, MONSOON SAILING AND INDIAN OCEAN LINKS",
+      "preview": "START / CONCEPT: Ports, monsoon sailing and Indian Ocean links",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 822,
+      "markdown_body_line_end": 822,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Roman coin finds are concentrated south of the Vindhyas, though north-western contacts also existed through wider routes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 880,
+      "heading": "CLOSING RECALL FLOW - ROMAN AND MEDITERRANEAN EXCHANGE WITHOUT EXAGGERATION",
+      "preview": "START / CONCEPT: Roman and Mediterranean exchange without exaggeration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 539.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 318.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 891,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Coin presence does not prove universal monetisation; barter, payments in kind and customary exchange continued.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 198.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 145.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 906,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "12. Coinage, monetisation and limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\05_coinage_exchange_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 719.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 431.045
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 953,
+      "heading": "CLOSING RECALL FLOW - COINAGE, MONETISATION AND LIMITS",
+      "preview": "START / CONCEPT: Coinage, monetisation and limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 551.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 964,
+      "markdown_body_line_end": 964,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Urban morphology reveals differentiated residence, production, exchange, defence and ritual, but excavation exposure is often tiny.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 981,
+      "markdown_body_line_end": 986,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Indicator | What it can show | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Indicator",
+          "What it can show",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1030,
+      "heading": "CLOSING RECALL FLOW - TOWNS, URBAN MORPHOLOGY AND ARCHAEOLOGICAL INDICATORS",
+      "preview": "START / CONCEPT: Towns, urban morphology and archaeological indicators",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 301.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 90.29
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1041,
+      "markdown_body_line_end": 1041,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kaushambi, Varanasi and Pataliputra continued as major Ganga-region centres, but their fortunes and archaeological profiles were not identical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1056,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. Major northern and central centres",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\04_major_urban_craft_centres_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 449.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 160.777
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1103,
+      "heading": "CLOSING RECALL FLOW - MAJOR NORTHERN AND CENTRAL CENTRES",
+      "preview": "START / CONCEPT: Major northern and central centres",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 554.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 353.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1114,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pratishthana/Paithan and Tagara/Ter were major inland Deccan centres connected with western routes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 232.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 179.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1155,
+      "markdown_body_line_end": 1172,
+      "heading": "CLOSING RECALL FLOW - DECCAN, COASTAL AND DEEP-SOUTH CENTRES",
+      "preview": "START / CONCEPT: Deccan, coastal and deep-south centres",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 401.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 200.491
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1183,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nor should interdependence be romanticised: status hierarchy, taxation, labour inequality and unequal market power existed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1223,
+      "markdown_body_line_end": 1240,
+      "heading": "CLOSING RECALL FLOW - URBAN-RURAL INTERDEPENDENCE",
+      "preview": "START / CONCEPT: Urban-rural interdependence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 152
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1251,
+      "markdown_body_line_end": 1251,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Economic status could complicate social hierarchy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 427.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1308,
+      "heading": "CLOSING RECALL FLOW - SOCIAL CONSEQUENCES, MOBILITY AND STATUS",
+      "preview": "START / CONCEPT: Social consequences, mobility and status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 637.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 436.091
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1319,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Proximity to a route does not prove that monks controlled trade.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 329.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 277.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1360,
+      "markdown_body_line_end": 1377,
+      "heading": "CLOSING RECALL FLOW - RELIGIOUS INSTITUTIONS AND TRADE",
+      "preview": "START / CONCEPT: Religious institutions and trade",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 273.091
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1388,
+      "markdown_body_line_end": 1388,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tamil rulers are associated with port development and tolls/customs in Upinder Singh's synthesis.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 166.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 114.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1445,
+      "heading": "CLOSING RECALL FLOW - STATE, TOLLS, SECURITY AND INFRASTRUCTURE",
+      "preview": "START / CONCEPT: State, tolls, security and infrastructure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 151.891
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1456,
+      "markdown_body_line_end": 1456,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Decline and transformation are not synonyms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1473,
+      "markdown_body_line_end": 1478,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Thesis | Evidence contribution | Required qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Thesis",
+          "Evidence contribution",
+          "Required qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 270.022
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1505,
+      "markdown_body_line_end": 1522,
+      "heading": "CLOSING RECALL FLOW - TRANSFORMATION AND DECLINE DEBATES AFTER THE EARLY CENTURIES CE",
+      "preview": "START / CONCEPT: Transformation and decline debates after the early centuries CE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 624.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 413.091
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1533,
+      "markdown_body_line_end": 1533,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "WRONG: Historiography is a list of historians' names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 292.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 239.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1550,
+      "markdown_body_line_end": 1554,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Region | High-yield evidence | Best qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Region",
+          "High-yield evidence",
+          "Best qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 676.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1581,
+      "markdown_body_line_end": 1598,
+      "heading": "CLOSING RECALL FLOW - HISTORIOGRAPHY AND COMPARATIVE SYNTHESIS",
+      "preview": "START / CONCEPT: Historiography and comparative synthesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 297.09
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 96.09
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1603,
+      "markdown_body_line_end": 1603,
+      "heading": "22. Answer architecture and UPSC trap bank",
+      "preview": "22. Answer architecture and UPSC trap bank",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\09_gs1_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 444.356
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1644,
+      "markdown_body_line_end": 1644,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This linkage does not override the repository chronology, local book evidence, or the source limitations printed throughout the package.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 596.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1661,
+      "markdown_body_line_end": 1678,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 383.624
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 172.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2681,
+      "markdown_body_line_end": 2684,
+      "heading": "Crafts, Commerce & Urban Growth (200 BC-AD 250) - ADVANCED",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, sections on early historic urbani",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 565.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 478.024
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2690,
+      "markdown_body_line_end": 2695,
+      "heading": "Mini-timeline",
+      "preview": "Phase | Date | Marker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Phase",
+          "Date",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 450.524
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 329.922
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2715,
+      "markdown_body_line_end": 2721,
+      "heading": "2. Key classification / data",
+      "preview": "Evidence | What to infer | What not to overstate",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "What to infer",
+          "What not to overstate"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 654.69
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2725,
+      "markdown_body_line_end": 2726,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Upinder Singh → trade/traders, guilds, NBPW/post-NBPW urban archaeology. **Study link:** ⚠️ Arikamedu caution → `advanced/18_Sangam-Age-Deep-South.md`; Satavahana donations → `advanced/17_Satavahanas-and-the-Deccan.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 629.69
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 570.822
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2739,
+      "markdown_body_line_end": 2739,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Archaeological trade markers prove contact, but not automatically the nationality of every trader.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 417.622
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 387.154
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2881,
+      "markdown_body_line_end": 2881,
+      "heading": "FINAL REGISTER 6/6 - PYQ route and answer spine",
+      "preview": "FINAL REGISTER 6/6 - PYQ route and answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\g4\\assets\\09_gs1_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 154.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        67,
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2908,
+      "markdown_body_line_end": 2915,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Periodization and evidence discipline",
+      "preview": "c. 600 BCE -> second-urbanisation background",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2919,
+      "markdown_body_line_end": 2928,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Agrarian base of urban growth",
+      "preview": "LAND + WATER + LABOUR + DIVERSE CROPS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2932,
+      "markdown_body_line_end": 2939,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Craft production chains",
+      "preview": "RAW MATERIAL -> SPECIALISED LABOUR -> INSTALLATION / TOOL -> FINISHED GOOD",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2943,
+      "markdown_body_line_end": 2953,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Shreni, nigama and merchant bodies",
+      "preview": "ARTISANS / MERCHANTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 381.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2957,
+      "markdown_body_line_end": 2964,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Inland corridors and market nodes",
+      "preview": "NORTH-WEST -> Taxila -> Mathura -> Ujjain -> Bharuch",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 359.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2968,
+      "markdown_body_line_end": 2977,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Ports, monsoon and Indian Ocean exchange",
+      "preview": "HINTERLAND SURPLUS -> MARKET NODE -> PORT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2981,
+      "markdown_body_line_end": 2988,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Mediterranean exchange without colony claims",
+      "preview": "PEPPER / TEXTILES / BEADS / PEARLS / IVORY / STONES OUTWARD",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2992,
+      "markdown_body_line_end": 2999,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Coinage and uneven monetisation",
+      "preview": "KUSHANA -> gold and copper",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3003,
+      "markdown_body_line_end": 3010,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Urban morphology and regional centres",
+      "preview": "URBAN INDICATORS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3014,
+      "markdown_body_line_end": 3021,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Religion, state and urban-rural systems",
+      "preview": "VILLAGES -> food, fibre, labour and raw materials",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 390.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3025,
+      "markdown_body_line_end": 3032,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Transformation and decline debate",
+      "preview": "OBSERVED: contraction at some sites / coin changes / route shifts",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3036,
+      "markdown_body_line_end": 3045,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC answer spine",
+      "preview": "DEFINE PERIOD + SOURCE CAUTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    }
+  ]
+}

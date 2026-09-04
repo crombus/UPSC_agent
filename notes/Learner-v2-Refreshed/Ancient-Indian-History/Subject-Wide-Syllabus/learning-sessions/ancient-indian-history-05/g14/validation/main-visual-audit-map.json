@@ -1,0 +1,5524 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Neolithic & Chalcolithic Cultures - Learner-v2 Complete Learning Session",
+      "preview": "**Catalogue identity:** Ancient History · Subject-wide Syllabus · `ancient-indian-history-05` **Generation date:** 20 August 2026 · **Approval:** pending explicit topic approval **Source order used:** Basic/canonical owner and its OCR-groun",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 649.824
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 8,
+      "markdown_body_line_end": 8,
+      "heading": "Neolithic & Chalcolithic Cultures - Learner-v2 Complete Learning Session",
+      "preview": "Neolithic & Chalcolithic Cultures learning spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\assets\\ancient-indian-history-05-63249ab429.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 649.824
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 349.198
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 22,
+      "markdown_body_line_end": 24,
+      "heading": "Legacy package source and coverage ledger",
+      "preview": "**Subject:** Ancient Indian History | **Paper:** Prelims GS-I + GS-I analytical support | **Topic:** 05 | **Date:** 12 August 2026  **Evidence key:** FACT = directly retrieved from authored Markdown, local OCR-searchable books, the official",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 712.224
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 53,
+      "heading": "Package Practice Counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 370.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 197.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 66,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 566.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 88,
+      "markdown_body_line_end": 88,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\assets\\ancient-indian-history-05_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 254.69
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 95,
+      "markdown_body_line_end": 102,
+      "heading": "UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT",
+      "preview": "Major block | Relevance label | Learner action",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Major block",
+          "Relevance label",
+          "Learner action"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 347.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 49.754
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 109,
+      "markdown_body_line_end": 109,
+      "heading": "UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT",
+      "preview": "Food-production evidence ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\assets\\ancient-indian-history-05-17223c1777.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 741.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 500.894
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 116,
+      "heading": "PART I - ROADMAP, SYLLABUS BOUNDARY AND EVIDENCE DISCIPLINE - [CORE MAINS]",
+      "preview": "METHOD: Static foundations come first from the authored Topic 05 files, then local OCR books. Live research is used only as a dated linkage. Qdrant was optional, unnecessary and not used.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 409.094
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 364.426
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 120,
+      "markdown_body_line_end": 125,
+      "heading": "Timeline",
+      "preview": "Period | Development",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Period",
+          "Development"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 342.426
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 233.025
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 131,
+      "heading": "Visual",
+      "preview": "[Concepts] -> [Transitions] -> [Regions] -> [Chalcolithic cultures] -> [Methods and practice]",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 135,
+      "markdown_body_line_end": 141,
+      "heading": "Key Matrix",
+      "preview": "Evidence family | What it can show | Main caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence family",
+          "What it can show",
+          "Main caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 591.29
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 161,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 382.49
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 293.088
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 176,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chalcolithic denotes the use of copper alongside stone, not an exclusive copper technology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 191,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "INFERENCE: Labels are useful for comparison but must be applied after examining local sequences. A community may farm without pottery, use microliths with polished celts, or possess a few copper objects without abandoning a Neolithic lifewa",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 550.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 491.756
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 201,
+      "heading": "Timeline",
+      "preview": "Period | Development",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Period",
+          "Development"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 469.756
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 339.154
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 207,
+      "heading": "Visual",
+      "preview": "7000 BCE early food production -- 3000 BCE regional villages -- 2600-1900 BCE Harappan urbanism -- 2000-700 BCE major Chalcolithic sequences",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 140
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 317.154
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 286.154
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 216,
+      "heading": "Key Matrix",
+      "preview": "Label | Diagnostic emphasis | What it does not guarantee",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Label",
+          "Diagnostic emphasis",
+          "What it does not guarantee"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 264.154
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 121.153
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 225,
+      "heading": "Core Teaching / Model Solution",
+      "preview": "**Memory hook:** NEO is not one date; CHALCO is not only copper; CULTURE is not ethnicity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 738.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 238,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 645.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 556.422
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 263,
+      "heading": "CLOSING RECALL FLOW - MEANING AND CHRONOLOGY - NEOLITHIC, NEOLITHIC-CHALCOLITHIC AND CHALCOLITHIC - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: MEANING AND CHRONOLOGY - NEOLITHIC, NEOLITHIC-CHALCOLITHIC AND CHALCOLITHIC — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 468.822
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 237.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 274,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sedentism and food production are related but not identical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 126.422
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 73.954
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 289,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "INFERENCE: Food production changed risk management, labour scheduling, storage and human-environment relations, but did not make every community sedentary or prosperous.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 622.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 577.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 295,
+      "heading": "Visual",
+      "preview": "[Foraging] -> [Management] -> [Experimentation] -> [Mixed production] -> [Regional village systems]",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 555.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 534.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 304,
+      "heading": "Key Matrix",
+      "preview": "Old linear assumption | Evidence-based correction | Indian illustration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Old linear assumption",
+          "Evidence-based correction",
+          "Indian illustration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 512.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 358.222
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 325,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 146.422
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 68.22
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 350,
+      "heading": "CLOSING RECALL FLOW - TRANSITION FROM FORAGING TO FOOD PRODUCTION - MOSAIC, NOT LADDER",
+      "preview": "START / CONCEPT: TRANSITION FROM FORAGING TO FOOD PRODUCTION - MOSAIC, NOT LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 558.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 361,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Upinder Singh treats the impulses behind domestication as regionally variable and difficult to isolate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 432.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 380.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 380,
+      "heading": "Visual",
+      "preview": "Domestication = Ecology + Demography + Knowledge + Social organisation; weights varied by region.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 384,
+      "markdown_body_line_end": 390,
+      "heading": "Key Matrix",
+      "preview": "Explanation | Core proposition | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Explanation",
+          "Core proposition",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 557.69
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 407,
+      "markdown_body_line_end": 410,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 348.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 270.688
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 435,
+      "heading": "CLOSING RECALL FLOW - WHY DOMESTICATION? COMPETING EXPLANATIONS AND A MULTI-CAUSAL VERDICT",
+      "preview": "START / CONCEPT: WHY DOMESTICATION? COMPETING EXPLANATIONS AND A MULTI-CAUSAL VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 446,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plant presence is not identical to cultivation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 422.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 370.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 465,
+      "heading": "Visual",
+      "preview": "[Context] -> [Recovery] -> [Identification] -> [Direct date] -> [Economic interpretation]",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 475,
+      "heading": "Key Matrix",
+      "preview": "Evidence | Potential inference | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "Potential inference",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 557.69
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 496,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 345.89
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 267.688
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 521,
+      "heading": "CLOSING RECALL FLOW - DOMESTICATION OF PLANTS - DIRECT EVIDENCE, INDIRECT EVIDENCE AND RICE CAUTION - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: DOMESTICATION OF PLANTS - DIRECT EVIDENCE, INDIRECT EVIDENCE AND RICE CAUTION — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 532,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Animal domestication is inferred from long-term morphological change, demographic profiles, geographic displacement, pathologies, residues and settlement context.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 414.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 551,
+      "heading": "Visual",
+      "preview": "Animal domestication: morphology | herd demography | managed space | economic and ritual use.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 555,
+      "markdown_body_line_end": 561,
+      "heading": "Key Matrix",
+      "preview": "Indicator | What researchers examine | Interpretive value",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Indicator",
+          "What researchers examine",
+          "Interpretive value"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 613.69
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 582,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 373.49
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 295.288
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 607,
+      "heading": "CLOSING RECALL FLOW - DOMESTICATION OF ANIMALS - HERD STRUCTURE, MORPHOLOGY AND HUMAN CONTROL - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: DOMESTICATION OF ANIMALS - HERD STRUCTURE, MORPHOLOGY AND HUMAN CONTROL — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 618,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Technology layers overlap; polished stone does not erase microliths, and copper does not erase stone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 370.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 317.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 637,
+      "heading": "Visual",
+      "preview": "Microliths + polished stone + bone/antler + limited copper; materials co-existed.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 647,
+      "heading": "Key Matrix",
+      "preview": "Tool family | Typical tasks | Key examples",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Tool family",
+          "Typical tasks",
+          "Key examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 613.69
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 664,
+      "markdown_body_line_end": 667,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 419.09
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 340.888
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 692,
+      "heading": "CLOSING RECALL FLOW - POLISHED STONE, MICROLITHS, BONE TOOLS AND THE PERSISTENCE OF OLDER TECHNOLOGIES - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: POLISHED STONE, MICROLITHS, BONE TOOLS AND THE PERSISTENCE OF OLDER TECHNOLOGIES — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 703,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pottery supported cooking, serving and storage, but food production can precede pottery.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 417.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 365.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 722,
+      "heading": "Visual",
+      "preview": "[Clay] -> [Manufacture] -> [Firing/finish] -> [Use] -> [Discard/context]",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 732,
+      "heading": "Key Matrix",
+      "preview": "Ceramic feature | Information yielded | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Ceramic feature",
+          "Information yielded",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 591.29
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 753,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 393.69
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 315.488
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 778,
+      "heading": "CLOSING RECALL FLOW - POTTERY, COOKING, STORAGE AND CERAMIC CHRONOLOGY - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: POTTERY, COOKING, STORAGE AND CERAMIC CHRONOLOGY — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 227.888
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 789,
+      "markdown_body_line_end": 789,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Explain settlement as a package of permanence, storage, property, public labour, health risk and social negotiation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 808,
+      "heading": "Visual",
+      "preview": "Village = houses + storage + animal space + lanes/public works + burial/ritual space.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 422.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 401.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 812,
+      "markdown_body_line_end": 818,
+      "heading": "Key Matrix",
+      "preview": "Settlement feature | Historical implication | Examples",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Settlement feature",
+          "Historical implication",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 379.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 237.422
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 839,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 697.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 864,
+      "heading": "CLOSING RECALL FLOW - SETTLEMENT, HOUSES, STORAGE AND THE NEW TIME HORIZON",
+      "preview": "START / CONCEPT: SETTLEMENT, HOUSES, STORAGE AND THE NEW TIME HORIZON",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 623.29
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 422.29
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 875,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Farming could raise aggregate food availability and support population growth, but early farmers often faced narrower diets, infectious disease, hard labour and vulnerability to drought, pests and storage loss.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 268.29
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 201.622
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 898,
+      "heading": "Key Matrix",
+      "preview": "Dimension | Potential gain | Potential cost",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Potential gain",
+          "Potential cost"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 622.29
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 919,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 410.49
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 332.288
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 944,
+      "heading": "CLOSING RECALL FLOW - SUBSISTENCE, LABOUR, HEALTH AND DEMOGRAPHIC CONSEQUENCES",
+      "preview": "START / CONCEPT: SUBSISTENCE, LABOUR, HEALTH AND DEMOGRAPHIC CONSEQUENCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 257.688
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 46.688
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 955,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Exchange can move raw materials, finished goods, people and ideas.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 974,
+      "heading": "Visual",
+      "preview": "Ore zones <-> copper villages; coast <-> inland shell users; forests <-> farmers; quarry sites <-> craft consumers.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 422.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 391.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 984,
+      "heading": "Key Matrix",
+      "preview": "Material | Likely movement or craft signal | Examples",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Material",
+          "Likely movement or craft signal",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 369.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 227.422
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1005,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 709.09
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1030,
+      "heading": "CLOSING RECALL FLOW - CRAFTS, SPECIALIZATION AND EXCHANGE NETWORKS",
+      "preview": "START / CONCEPT: CRAFTS, SPECIALIZATION AND EXCHANGE NETWORKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 634.49
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 443.49
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1041,
+      "markdown_body_line_end": 1041,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Settlement hierarchy does not automatically equal state hierarchy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 317.89
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 265.422
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1064,
+      "heading": "Key Matrix",
+      "preview": "Evidence | Possible inference | Alternative caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "Possible inference",
+          "Alternative caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1085,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 444.89
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 366.688
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1110,
+      "heading": "CLOSING RECALL FLOW - SOCIAL DIFFERENTIATION, HOUSEHOLD ORGANIZATION AND SETTLEMENT HIERARCHY",
+      "preview": "START / CONCEPT: SOCIAL DIFFERENTIATION, HOUSEHOLD ORGANIZATION AND SETTLEMENT HIERARCHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 279.088
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 58.088
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1121,
+      "markdown_body_line_end": 1121,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ritual is inferred from patterned, non-utilitarian context.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 702.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1144,
+      "heading": "Key Matrix",
+      "preview": "Evidence | Safe description | Risky overclaim",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "Safe description",
+          "Risky overclaim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 310.822
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1162,
+      "markdown_body_line_end": 1165,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 697.89
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1190,
+      "heading": "CLOSING RECALL FLOW - RITUAL, BURIALS, FIGURINES AND THE PROBLEM OF MEANING",
+      "preview": "START / CONCEPT: RITUAL, BURIALS, FIGURINES AND THE PROBLEM OF MEANING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 125
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 623.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 422.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1201,
+      "markdown_body_line_end": 1201,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "South Indian ash mounds are not universal even within the south.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 310.89
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 258.422
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1218,
+      "markdown_body_line_end": 1228,
+      "heading": "Visual",
+      "preview": "NORTH-WEST: Mehrgarh -- wheat/barley, cattle, mud brick",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1239,
+      "heading": "Key Matrix",
+      "preview": "Zone | Core adaptation | Anchor sites",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Zone",
+          "Core adaptation",
+          "Anchor sites"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 664.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 478.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1259,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 284.29
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 194.888
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1284,
+      "heading": "CLOSING RECALL FLOW - REGIONAL MAP IN TEXT - THE INDIAN NEOLITHIC MOSAIC - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: REGIONAL MAP IN TEXT - THE INDIAN NEOLITHIC MOSAIC — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1295,
+      "markdown_body_line_end": 1295,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use Mehrgarh as a sequence, not a label: subsistence, storage, craft, burial and exchange changed across periods.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 409.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 356.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1317,
+      "heading": "Timeline",
+      "preview": "Period | Development",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Period",
+          "Development"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1327,
+      "heading": "Key Matrix",
+      "preview": "Domain | Mehrgarh evidence | Historical significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Domain",
+          "Mehrgarh evidence",
+          "Historical significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 655.89
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 502.888
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1345,
+      "markdown_body_line_end": 1348,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 291.088
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 224.087
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1356,
+      "markdown_body_line_end": 1373,
+      "heading": "CLOSING RECALL FLOW - NORTH-WEST NEOLITHIC - MEHRGARH AS A LONG SEQUENCE - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: NORTH-WEST NEOLITHIC - MEHRGARH AS A LONG SEQUENCE — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1384,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Burzahom and Gufkral show pit structures, polished stone and bone tools, hunting and fishing, increasing cultivation and herding, distinctive burials and contacts beyond the valley.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 451.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 385.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1403,
+      "heading": "Visual",
+      "preview": "Burzahom: karewa ecology | pit debate | stone-bone toolkit | mixed subsistence | human-animal burial.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 756.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1407,
+      "markdown_body_line_end": 1413,
+      "heading": "Key Matrix",
+      "preview": "Feature | Burzahom | Gufkral",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Burzahom",
+          "Gufkral"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 734.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 570.09
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1434,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 358.29
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 280.088
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1442,
+      "markdown_body_line_end": 1459,
+      "heading": "CLOSING RECALL FLOW - KASHMIR NEOLITHIC - BURZAHOM AND GUFKRAL - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: KASHMIR NEOLITHIC - BURZAHOM AND GUFKRAL — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1470,
+      "markdown_body_line_end": 1470,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use the middle Ganga evidence to argue for regional experimentation while remaining cautious about claims of independent domestication.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 394.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1487,
+      "markdown_body_line_end": 1492,
+      "heading": "Key Matrix",
+      "preview": "Site | Key evidence | Primary caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Site",
+          "Key evidence",
+          "Primary caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 644.29
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1510,
+      "markdown_body_line_end": 1513,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 432.49
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 343.088
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1521,
+      "markdown_body_line_end": 1538,
+      "heading": "CLOSING RECALL FLOW - VINDHYAN FRINGES AND MIDDLE GANGA - KOLDIHWA, MAHAGARA AND LAHURADEWA - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: VINDHYAN FRINGES AND MIDDLE GANGA - KOLDIHWA, MAHAGARA AND LAHURADEWA — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 255.488
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        38,
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1549,
+      "markdown_body_line_end": 1549,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chirand is the core exam anchor: a Bihar site with a long Neolithic-Chalcolithic sequence and bone-tool evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1582,
+      "heading": "CLOSING RECALL FLOW - EASTERN INDIA - REPRESENTATIVE SEQUENCE",
+      "preview": "START / CONCEPT: EASTERN INDIA - REPRESENTATIVE SEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 430.024
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 219.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1593,
+      "markdown_body_line_end": 1593,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "North-east evidence is regionally important but uneven.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 112.424
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 59.956
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1608,
+      "markdown_body_line_end": 1625,
+      "heading": "CLOSING RECALL FLOW - NORTH-EAST NEOLITHIC - REGIONAL CAUTION",
+      "preview": "START / CONCEPT: NORTH-EAST NEOLITHIC - REGIONAL CAUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 629.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 428.691
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1636,
+      "markdown_body_line_end": 1636,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "South Indian Neolithic was not a copy of Mehrgarh.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 298.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 245.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1653,
+      "markdown_body_line_end": 1659,
+      "heading": "Key Matrix",
+      "preview": "Regional feature | Evidence | Implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Regional feature",
+          "Evidence",
+          "Implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 645.49
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1677,
+      "markdown_body_line_end": 1680,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 447.89
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 369.688
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1688,
+      "markdown_body_line_end": 1705,
+      "heading": "CLOSING RECALL FLOW - SOUTH INDIAN NEOLITHIC - CHRONOLOGY, LANDSCAPE AND REGIONAL SEQUENCE - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: SOUTH INDIAN NEOLITHIC - CHRONOLOGY, LANDSCAPE AND REGIONAL SEQUENCE — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 282.088
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 71.088
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1716,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not force one function on the entire class of sites.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1733,
+      "markdown_body_line_end": 1735,
+      "heading": "Visual",
+      "preview": "[Cattle pen] -> [Dung/refuse] -> [Repeated fire] -> [Ash mound] -> [Contextual interpretation]",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 379.624
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 358.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1739,
+      "markdown_body_line_end": 1745,
+      "heading": "Key Matrix",
+      "preview": "Interpretation | Supporting evidence | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Interpretation",
+          "Supporting evidence",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 336.624
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 183.622
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1763,
+      "markdown_body_line_end": 1766,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 671.69
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1774,
+      "markdown_body_line_end": 1791,
+      "heading": "CLOSING RECALL FLOW - ASH MOUNDS - FORMATION, FUNCTION AND COMPETING INTERPRETATIONS - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: ASH MOUNDS - FORMATION, FUNCTION AND COMPETING INTERPRETATIONS — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 139
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 584.09
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 373.09
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1802,
+      "markdown_body_line_end": 1802,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Extra site names are supporting detail, not a core inventory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 266.49
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 214.022
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1817,
+      "markdown_body_line_end": 1834,
+      "heading": "CLOSING RECALL FLOW - SOUTH INDIAN CASE RECALL",
+      "preview": "START / CONCEPT: SOUTH INDIAN CASE RECALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1845,
+      "markdown_body_line_end": 1845,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Conclude that the Indian Neolithic was a connected mosaic: multiple pathways, partial convergence and persistent regionality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 460.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 394.024
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1862,
+      "markdown_body_line_end": 1868,
+      "heading": "Key Matrix",
+      "preview": "Dimension | North-west | Kashmir | Ganga-East | South",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "North-west",
+          "Kashmir",
+          "Ganga-East",
+          "South"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 618.89
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1885,
+      "markdown_body_line_end": 1888,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 438.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 371.488
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1896,
+      "markdown_body_line_end": 1913,
+      "heading": "CLOSING RECALL FLOW - REGIONAL NEOLITHIC COMPARISON - WHAT VARIED AND WHAT CONVERGED",
+      "preview": "START / CONCEPT: REGIONAL NEOLITHIC COMPARISON - WHAT VARIED AND WHAT CONVERGED",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 283.888
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 92.888
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1924,
+      "markdown_body_line_end": 1924,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chalcolithic is not a uniform period.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1941,
+      "markdown_body_line_end": 1947,
+      "heading": "Timeline",
+      "preview": "Period | Development",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Period",
+          "Development"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 296.622
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1951,
+      "markdown_body_line_end": 1953,
+      "heading": "Visual",
+      "preview": "Ahar-Banas and Ganeshwar overlap early Harappan; Kayatha -> Ahar/Malwa sequences; Jorwe continues into early first millennium BCE.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 756.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1957,
+      "markdown_body_line_end": 1963,
+      "heading": "Key Matrix",
+      "preview": "Culture/sequence | Region | Diagnostic emphasis",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Culture/sequence",
+          "Region",
+          "Diagnostic emphasis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 734.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 603.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1981,
+      "markdown_body_line_end": 1984,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 406.09
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 327.888
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1992,
+      "markdown_body_line_end": 2009,
+      "heading": "CLOSING RECALL FLOW - CHALCOLITHIC INDIA - DEFINITION, GEOGRAPHY AND CULTURAL SEQUENCE - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: CHALCOLITHIC INDIA - DEFINITION, GEOGRAPHY AND CULTURAL SEQUENCE — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 240.288
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        47,
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2020,
+      "markdown_body_line_end": 2020,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ganeshwar yielded over a thousand copper objects but published reports do not provide direct furnace evidence for the early phase.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 660.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 594.024
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2037,
+      "markdown_body_line_end": 2039,
+      "heading": "Visual",
+      "preview": "[Ore] -> [Preparation] -> [Smelting] -> [Casting/working] -> [Use/exchange/recycling]",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 380.024
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 359.024
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2043,
+      "markdown_body_line_end": 2049,
+      "heading": "Key Matrix",
+      "preview": "Evidence | What it demonstrates | Example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "What it demonstrates",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 337.024
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 206.422
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2067,
+      "markdown_body_line_end": 2070,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 671.69
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2078,
+      "markdown_body_line_end": 2095,
+      "heading": "CLOSING RECALL FLOW - COPPER AND STONE TECHNOLOGY - ORE, SMELTING, ALLOYING AND SCARCITY",
+      "preview": "START / CONCEPT: COPPER AND STONE TECHNOLOGY - ORE, SMELTING, ALLOYING AND SCARCITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 598.29
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 397.29
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2106,
+      "markdown_body_line_end": 2106,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It is not a Harappan city.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 238.49
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 186.022
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2123,
+      "markdown_body_line_end": 2129,
+      "heading": "Key Matrix",
+      "preview": "Feature | Evidence | Interpretation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Evidence",
+          "Interpretation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 705.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 563.49
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2147,
+      "markdown_body_line_end": 2150,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 365.89
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 298.888
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2158,
+      "markdown_body_line_end": 2175,
+      "heading": "CLOSING RECALL FLOW - GANESHWAR-JODHPURA - COPPER ZONE, CRAFT CENTRE AND HARAPPAN CONTACT - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: GANESHWAR-JODHPURA - COPPER ZONE, CRAFT CENTRE AND HARAPPAN CONTACT — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2186,
+      "markdown_body_line_end": 2186,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "White-painted black-and-red ware, copper use, mixed farming-herding and varied settlement sizes are major markers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 404.491
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 337.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2203,
+      "markdown_body_line_end": 2209,
+      "heading": "Key Matrix",
+      "preview": "Site | Key features | Analytical importance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Site",
+          "Key features",
+          "Analytical importance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 645.49
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2227,
+      "markdown_body_line_end": 2230,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 433.69
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 344.288
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2238,
+      "markdown_body_line_end": 2255,
+      "heading": "CLOSING RECALL FLOW - AHAR-BANAS CULTURE - RIVER VALLEYS, COPPER, FARMING AND SETTLEMENT DIVERSITY - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: AHAR-BANAS CULTURE - RIVER VALLEYS, COPPER, FARMING AND SETTLEMENT DIVERSITY — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2266,
+      "markdown_body_line_end": 2266,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kayatha culture in western Madhya Pradesh is an early Chalcolithic phase with fine wheel-made pottery, microliths, copper objects and concentrated bead wealth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 417.691
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 351.024
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2283,
+      "markdown_body_line_end": 2289,
+      "heading": "Key Matrix",
+      "preview": "Domain | Kayatha evidence | Interpretation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Domain",
+          "Kayatha evidence",
+          "Interpretation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2306,
+      "markdown_body_line_end": 2309,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 462.09
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 395.088
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2317,
+      "markdown_body_line_end": 2334,
+      "heading": "CLOSING RECALL FLOW - KAYATHA CULTURE - EARLY MALWA SEQUENCE, WEALTH AND ABRUPT BREAK - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: KAYATHA CULTURE - EARLY MALWA SEQUENCE, WEALTH AND ABRUPT BREAK — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 307.488
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 86.488
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2345,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Navdatoli, Eran and Nagda are core Malwa sites.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 702.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2362,
+      "markdown_body_line_end": 2368,
+      "heading": "Key Matrix",
+      "preview": "Site | Major evidence | Use in answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Site",
+          "Major evidence",
+          "Use in answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 299.622
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2386,
+      "markdown_body_line_end": 2389,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 709.09
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2397,
+      "markdown_body_line_end": 2414,
+      "heading": "CLOSING RECALL FLOW - MALWA CULTURE - NAVDATOLI, ERAN, NAGDA AND DECCAN SPREAD - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: MALWA CULTURE - NAVDATOLI, ERAN, NAGDA AND DECCAN SPREAD — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 635.69
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 424.69
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2425,
+      "markdown_body_line_end": 2425,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Western Deccan sequences show overlap and reorganisation across cultural labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 318.09
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 265.622
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2440,
+      "markdown_body_line_end": 2457,
+      "heading": "CLOSING RECALL FLOW - WESTERN DECCAN - SEQUENCE CAUTION",
+      "preview": "START / CONCEPT: WESTERN DECCAN - SEQUENCE CAUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2468,
+      "markdown_body_line_end": 2468,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Inamgaon is a key Jorwe site.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 464.891
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 412.424
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2485,
+      "markdown_body_line_end": 2487,
+      "heading": "Visual",
+      "preview": "Large centres -> medium villages -> seasonal farmsteads -> specialized camps; hierarchy was economic and spatial.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 756.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2491,
+      "markdown_body_line_end": 2496,
+      "heading": "Key Matrix",
+      "preview": "Settlement tier | Examples | Likely role",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Settlement tier",
+          "Examples",
+          "Likely role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 734.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 624.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2517,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 413.09
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 346.088
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2525,
+      "markdown_body_line_end": 2542,
+      "heading": "CLOSING RECALL FLOW - JORWE CULTURE - DISTRIBUTION, POTTERY AND SETTLEMENT HIERARCHY - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: JORWE CULTURE - DISTRIBUTION, POTTERY AND SETTLEMENT HIERARCHY — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 156
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 272.688
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 51.688
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2553,
+      "markdown_body_line_end": 2553,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Inamgaon is a useful Deccan rural-lifeway case, but detailed household and rank reconstruction belongs to Optional Advanced depth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2569,
+      "markdown_body_line_end": 2586,
+      "heading": "CLOSING RECALL FLOW - INAMGAON - SELECTIVE CASE USE",
+      "preview": "START / CONCEPT: INAMGAON - SELECTIVE CASE USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 444.224
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 233.224
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2597,
+      "markdown_body_line_end": 2597,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Late Jorwe is not simply disappearance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 93.424
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 40.956
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2614,
+      "markdown_body_line_end": 2616,
+      "heading": "Visual",
+      "preview": "Possible aridity + crop stress + network change -> mobility and settlement contraction -> later transformations.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 566.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 535.891
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2620,
+      "markdown_body_line_end": 2626,
+      "heading": "Key Matrix",
+      "preview": "Proposed factor | Supporting evidence | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Proposed factor",
+          "Supporting evidence",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 513.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 383.29
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2644,
+      "markdown_body_line_end": 2647,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 171.49
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 104.488
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2655,
+      "markdown_body_line_end": 2672,
+      "heading": "CLOSING RECALL FLOW - DECLINE AND TRANSFORMATION - LATE JORWE AND REGIONAL REORGANIZATION",
+      "preview": "START / CONCEPT: DECLINE AND TRANSFORMATION - LATE JORWE AND REGIONAL REORGANIZATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2683,
+      "markdown_body_line_end": 2683,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "OCP and copper hoards overlap but are not identical distributions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 432.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 380.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2700,
+      "markdown_body_line_end": 2706,
+      "heading": "Key Matrix",
+      "preview": "Evidence | Typical forms | Interpretive issue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "Typical forms",
+          "Interpretive issue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 645.49
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2724,
+      "markdown_body_line_end": 2727,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 447.89
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 369.688
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2735,
+      "markdown_body_line_end": 2752,
+      "heading": "CLOSING RECALL FLOW - OCP, COPPER HOARDS AND THE UPPER GANGA - ASSOCIATION WITHOUT ETHNIC LABELS - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: OCP, COPPER HOARDS AND THE UPPER GANGA - ASSOCIATION WITHOUT ETHNIC LABELS — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 282.088
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 71.088
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2763,
+      "markdown_body_line_end": 2763,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chalcolithic communities were not failed Harappans.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 683.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 631.424
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2780,
+      "markdown_body_line_end": 2782,
+      "heading": "Visual",
+      "preview": "Shared: farming, herding, copper, exchange. Distinct: Harappan cities, script, weights and institutional scale.",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 417.424
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 386.424
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2786,
+      "markdown_body_line_end": 2792,
+      "heading": "Key Matrix",
+      "preview": "Dimension | Neolithic villages | Regional Chalcolithic | Mature Harappan",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Neolithic villages",
+          "Regional Chalcolithic",
+          "Mature Harappan"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 364.424
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 185.522
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2810,
+      "markdown_body_line_end": 2813,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 627.29
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2838,
+      "heading": "CLOSING RECALL FLOW - NEOLITHIC, CHALCOLITHIC AND HARAPPAN - RELATIONSHIP AND DISTINCTIONS - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: NEOLITHIC, CHALCOLITHIC AND HARAPPAN - RELATIONSHIP AND DISTINCTIONS — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 539.69
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 328.69
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2849,
+      "markdown_body_line_end": 2849,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Culture names organize data; they do not speak for ancient identity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 217.29
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 164.822
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2866,
+      "markdown_body_line_end": 2872,
+      "heading": "Key Matrix",
+      "preview": "Inference | Required supporting evidence | Common failure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Inference",
+          "Required supporting evidence",
+          "Common failure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 705.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 552.29
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2893,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 354.69
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 276.488
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2907,
+      "markdown_body_line_end": 2915,
+      "heading": "Key Matrix",
+      "preview": "Trap pair | Correct distinction | Recall cue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Trap pair",
+          "Correct distinction",
+          "Recall cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 614.29
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2932,
+      "markdown_body_line_end": 2935,
+      "heading": "UPSC Traps",
+      "preview": "Wrong | Correct",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Wrong",
+          "Correct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 433.89
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 355.688
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2946,
+      "markdown_body_line_end": 2963,
+      "heading": "CLOSING RECALL FLOW - INTERPRETATIONS AND SOURCE LIMITATIONS - ARCHAEOLOGICAL CULTURE IS NOT A PEOPLE",
+      "preview": "START / CONCEPT: INTERPRETATIONS AND SOURCE LIMITATIONS - ARCHAEOLOGICAL CULTURE IS NOT A PEOPLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2974,
+      "markdown_body_line_end": 2974,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mehrgarh, Kashmir, the Ganga valley and south India are comparison points, not stages of one national ladder.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 452.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 400.024
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2987,
+      "markdown_body_line_end": 2989,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "EVIDENCE -> cultivation/herding/storage -> settlement routine -> surplus/craft/exchange -> bounded social inference",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 227.224
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 196.224
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2997,
+      "markdown_body_line_end": 3014,
+      "heading": "CLOSING RECALL FLOW - TRANSITION, NOT A SINGLE REVOLUTION",
+      "preview": "START / CONCEPT: TRANSITION, NOT A SINGLE REVOLUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3025,
+      "markdown_body_line_end": 3025,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A seed, animal bone, tool or storage feature is evidence only in context.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3036,
+      "markdown_body_line_end": 3038,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "EVIDENCE -> cultivation/herding/storage -> settlement routine -> surplus/craft/exchange -> bounded social inference",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 249.824
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 218.824
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3046,
+      "markdown_body_line_end": 3063,
+      "heading": "CLOSING RECALL FLOW - WHAT COUNTS AS DOMESTICATION EVIDENCE? - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: WHAT COUNTS AS DOMESTICATION EVIDENCE? — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3074,
+      "markdown_body_line_end": 3074,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use compact triads: Mehrgarh--north-west--early farming; Burzahom--Kashmir--pit dwellings/bone tools; Chirand--Bihar--long Neolithic-Chalcolithic sequence; south India--cattle/polished axes/ash mounds; Ahar-Gilund--Banas valley--Chalcolithi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 428.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 347.424
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3087,
+      "markdown_body_line_end": 3089,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "EVIDENCE -> cultivation/herding/storage -> settlement routine -> surplus/craft/exchange -> bounded social inference",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 174.624
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 143.624
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3097,
+      "markdown_body_line_end": 3114,
+      "heading": "CLOSING RECALL FLOW - REGION-SITE-MARKER TRIADS",
+      "preview": "START / CONCEPT: REGION-SITE-MARKER TRIADS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 320
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3125,
+      "markdown_body_line_end": 3125,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A useful causal flow is ecology/domesticates - cultivation or herding - storage and settlement routines - surplus/craft/exchange - possible differentiation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3136,
+      "markdown_body_line_end": 3138,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "EVIDENCE -> cultivation/herding/storage -> settlement routine -> surplus/craft/exchange -> bounded social inference",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 230.424
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 199.424
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3146,
+      "markdown_body_line_end": 3163,
+      "heading": "CLOSING RECALL FLOW - FROM PRODUCTION TO SOCIAL CONSEQUENCE",
+      "preview": "START / CONCEPT: FROM PRODUCTION TO SOCIAL CONSEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0181",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3174,
+      "markdown_body_line_end": 3174,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chalcolithic means copper plus stone; it does not mean iron, automatic urbanism or a failed version of Harappa.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0182",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3187,
+      "markdown_body_line_end": 3189,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "EVIDENCE -> cultivation/herding/storage -> settlement routine -> surplus/craft/exchange -> bounded social inference",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 215.424
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 184.424
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0183",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3196,
+      "markdown_body_line_end": 3198,
+      "heading": "CORE LAB 6: A 150-WORD ANSWER SPINE - [CORE MAINS]",
+      "preview": "EVIDENCE -> cultivation/herding/storage -> settlement routine -> surplus/craft/exchange -> bounded social inference",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 756.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0184",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3206,
+      "markdown_body_line_end": 3223,
+      "heading": "CLOSING RECALL FLOW - CHALCOLITHIC IS RURAL AND REGIONAL, NOT FAILED HARAPPA - [CORE PRELIMS + CORE MAINS]",
+      "preview": "START / CONCEPT: CHALCOLITHIC IS RURAL AND REGIONAL, NOT FAILED HARAPPA — [CORE PRELIMS + CORE MAINS]",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 654.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 423.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0185",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3806,
+      "markdown_body_line_end": 3806,
+      "heading": "Verified Question - 2021 Prelims GS-I Q37 (Inferred Answer/Key - Not Officially Verified) - [CORE PRELIMS]",
+      "preview": "**INFERRED ANSWER — NOT OFFICIALLY VERIFIED.** The local official question paper is available, but no official key is held locally. The defensible inference is **D: 2 and 3 only**, with high confidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 631.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 586.624
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0186",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3808,
+      "markdown_body_line_end": 3812,
+      "heading": "Verified Question - 2021 Prelims GS-I Q37 (Inferred Answer/Key - Not Officially Verified) - [CORE PRELIMS]",
+      "preview": "Pair | Assessment | Elimination logic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Pair",
+          "Assessment",
+          "Elimination logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 586.624
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 476.022
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0187",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3922,
+      "markdown_body_line_end": 3922,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "This block preserves the Advanced owner as optional enrichment. It is not a prerequisite for understanding or writing the core answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 221.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 177.024
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0188",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3924,
+      "markdown_body_line_end": 3927,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, Ch-3 \"The Transition to Food Prod",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 177.024
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 89.756
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0189",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3933,
+      "markdown_body_line_end": 3938,
+      "heading": "Mini-timeline",
+      "preview": "Transition | Approx date | Marker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Transition",
+          "Approx date",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 675.89
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0190",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3959,
+      "markdown_body_line_end": 3968,
+      "heading": "2. Key classification / data",
+      "preview": "Site / culture | Advanced point",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Site / culture",
+          "Advanced point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 343.49
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 149.288
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0191",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3972,
+      "markdown_body_line_end": 3974,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Upinder Singh Ch-3 → food production as process, not event. **Study link:** ⚠️ Use with `advanced/03_Geographical-Setting-and-Ecology.md` for eco-zone logic. **Study link:** ⚠️ Compare with Harappan urbanism: rural Chalcol",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 726.424
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0192",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3987,
+      "markdown_body_line_end": 3987,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Archaeological labels are analytical tools, not rigid ethnic identities.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 573.224
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 542.756
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0193",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4063,
+      "markdown_body_line_end": 4065,
+      "heading": "FINAL REGISTER 2/8 - Domestication Evidence and Limits",
+      "preview": "plant/animal/tool/storage trace -> context + date -> cultivation/herding inference -> settlement/craft consequence -> qualification",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 200.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 169.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0194",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4073,
+      "markdown_body_line_end": 4079,
+      "heading": "FINAL REGISTER 3/8 - Core Neolithic Site-Region-Marker Triads",
+      "preview": "Triad | Use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Triad",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 654.69
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0195",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4122,
+      "markdown_body_line_end": 4130,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Food production: a regional mosaic",
+      "preview": "FORAGING -> MANAGEMENT -> DOMESTICATION -> MIXED FARMING -> SURPLUS/STORAGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 680.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0196",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4134,
+      "markdown_body_line_end": 4142,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Domestication evidence and causal debate",
+      "preview": "PLANTS: seed-size/rachis change + weed ecology + storage + grinding tools",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 658.891
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 576.491
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0197",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4146,
+      "markdown_body_line_end": 4158,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Technology-settlement-social consequence chain",
+      "preview": "polished stone + microliths + bone tools + pottery",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 554.491
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 431.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0198",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4162,
+      "markdown_body_line_end": 4169,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Indian Neolithic regional map",
+      "preview": "NORTH-WEST: Mehrgarh -> long farming/herding sequence before Harappan urbanism",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 409.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 337.091
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0199",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4173,
+      "markdown_body_line_end": 4183,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Ash mounds: formation-function debate",
+      "preview": "BURNT CATTLE DUNG + ENCLOSURE/SETTLEMENT CONTEXT -> SOUTH INDIAN ASH MOUND",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 315.091
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 212.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0200",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4187,
+      "markdown_body_line_end": 4195,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Chalcolithic cultures: region-site-marker matrix",
+      "preview": "CULTURE/ZONE       CORE SITES             HIGH-YIELD MARKERS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0201",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4199,
+      "markdown_body_line_end": 4207,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Chalcolithic rural political economy",
+      "preview": "VILLAGE HOUSEHOLDS -> crop/herd production -> storage -> craft work -> exchange",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0202",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4211,
+      "markdown_body_line_end": 4219,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Decline, transformation and cultural labels",
+      "preview": "LATE JORWE/REGIONAL CHANGE: aridity + production stress + settlement reorganisation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0203",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4223,
+      "markdown_body_line_end": 4230,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Neolithic-Chalcolithic answer architecture",
+      "preview": "10 MARKS: define phase -> process -> two regional sites -> evidence caution",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 401.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0204",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4234,
+      "markdown_body_line_end": 4240,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Evidence ladder and confidence control",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 379.891
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0205",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4244,
+      "markdown_body_line_end": 4250,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Examiner traps and contested boundaries",
+      "preview": "CLOSE DISTINCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0206",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4254,
+      "markdown_body_line_end": 4260,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Integrated answer spine and qualified conclusion",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    }
+  ]
+}

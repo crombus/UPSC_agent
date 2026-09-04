@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Epidemiological status ladder
+OUTBREAK -> local excess over expected
+EPIDEMIC -> population / regional excess
+PANDEMIC -> sustained multi-country / continental spread
+ENDEMIC -> expected persistent presence
+
+ASCII MASTER FLOW — PANEL 2/12: Emergency-status firewall
+DOMESTIC STATUS -> national / subnational legal basis
+PHEIC -> IHR international-concern status
+PANDEMIC EMERGENCY -> amended-IHR higher alert
+WHO COORDINATES -> STATES RETAIN SOVEREIGN AUTHORITY
+
+ASCII MASTER FLOW — PANEL 3/12: Risk-assessment map
+AGENT / HAZARD + TRANSMISSION ROUTE
+EXPOSURE + VULNERABLE GROUPS
+SEVERITY + HEALTH-SYSTEM CAPACITY
+UNCERTAINTY + PLACE / TIME -> PROPORTIONATE ACTION
+
+ASCII MASTER FLOW — PANEL 4/12: Surveillance-to-action rail
+1 SIGNAL / S-P-L REPORTING
+2 ANALYSE TREND AND VERIFY
+3 RAPID RESPONSE INVESTIGATION
+4 CONTROL + FEEDBACK TO SURVEILLANCE
+
+ASCII MASTER FLOW — PANEL 5/12: One Health triangle
+HUMAN HEALTH <-> ANIMAL HEALTH
+       \           /
+        ENVIRONMENT
+JOINT SURVEILLANCE / INVESTIGATION; SECTOR OWNERS REMAIN
+
+ASCII MASTER FLOW — PANEL 6/12: Preparedness portfolio
+PREVENT -> WASH vector control infection prevention immunisation
+PREPARE -> workforce labs stocks plans training drills
+COMMUNICATE -> trusted accessible channels
+CONTINUE -> routine health and social services
+
+ASCII MASTER FLOW — PANEL 7/12: Outbreak-response loop
+VERIFY -> INVESTIGATE -> CASE FIND / TEST
+CARE + ISOLATE WHERE INDICATED
+MANAGE EXPOSURE / COMMUNITY RISK
+REASSESS DATA EFFECTS EQUITY AND PROPORTIONALITY
+
+ASCII MASTER FLOW — PANEL 8/12: Quarantine-isolation split
+QUARANTINE -> exposed, not known infected
+ISOLATION -> infected / ill case
+BOTH -> lawful proportionate supported and time-bounded
+TRAP -> LABEL DOES NOT REPLACE CARE OR RIGHTS
+
+ASCII MASTER FLOW — PANEL 9/12: Surge and continuity balance
+SURGE -> staff space lab supplies referral transport
+WORKFORCE -> protection rest communication support
+ESSENTIAL CARE -> maternal child chronic emergency services
+OUTCOME -> outbreak care without avoidable indirect harm
+
+ASCII MASTER FLOW — PANEL 10/12: Risk communication chain
+KNOWN + UNKNOWN + CHANGING
+WHO / WHERE / WHAT ACTION / WHERE CARE
+MULTILINGUAL ACCESSIBLE TRUSTED MESSENGERS
+MONITOR RUMOUR STIGMA FEEDBACK AND CORRECT
+
+ASCII MASTER FLOW — PANEL 11/12: Institutional map
+MOHFW / NCDC-IDSP / ICMR -> STANDARD SURVEILLANCE EVIDENCE
+STATE / DISTRICT / LOCAL -> PUBLIC HEALTH DELIVERY
+DM AUTHORITIES -> CROSS-SECTOR COORDINATION
+WHO / IHR -> INTERNATIONAL NOTIFICATION AND COOPERATION
+
+ASCII MASTER FLOW — PANEL 12/12: Public-health answer spine
+DEFINE STATUS -> ASSESS ROUTE EXPOSURE SEVERITY CAPACITY
+SURVEIL CONFIRM INVESTIGATE RESPOND AND REASSESS
+ADD ONE HEALTH SURGE CONTINUITY COMMUNICATION AND EQUITY
+ASSIGN FEDERAL / INTERNATIONAL ROLES + VERIFY OUTCOMES

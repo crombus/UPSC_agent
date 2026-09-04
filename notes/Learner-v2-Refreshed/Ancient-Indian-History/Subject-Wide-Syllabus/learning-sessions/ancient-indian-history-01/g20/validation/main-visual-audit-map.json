@@ -1,0 +1,5737 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g20\\ancient-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g20\\ancient-indian-history-01_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 11,
+      "heading": "Importance & Historiography of Ancient India - Learner-v2 Complete Learning Session",
+      "preview": "**Catalogue identity:** Ancient History · Subject-wide Syllabus · `ancient-indian-history-01` **Generation date:** 20 August 2026 · **Approval:** pending explicit topic approval **Direct official ownership:** Prelims GS-I, Ancient India sli",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 593.024
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 13,
+      "heading": "Importance & Historiography of Ancient India - Learner-v2 Complete Learning Session",
+      "preview": "Historiography evidence lenses",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g20\\assets\\historiography-evidence-lenses.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 593.024
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 292.398
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 26,
+      "heading": "Coverage and quality ledger",
+      "preview": "Requirement | Included here",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Requirement",
+          "Included here"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 241.998
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 45.396
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 32,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 536.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 61,
+      "markdown_body_line_end": 61,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g20\\assets\\ancient-indian-history-01_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 210.49
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 123,
+      "heading": "Roadmap",
+      "preview": "WHY STUDY ANCIENT INDIA AT ALL?",
+      "metadata": {
+        "language": "text",
+        "line_count": 56,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 236.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 137,
+      "heading": "Roadmap",
+      "preview": "Session | Subtopic | Core focus",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 11,
+        "headers": [
+          "Session",
+          "Subtopic",
+          "Core focus"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 236.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 95.09
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 142,
+      "heading": "Roadmap",
+      "preview": "🔑 **Master mnemonic — \"ONE QUESTION, THREE SCHOOLS, FOUR TURNS, FIVE CAUTIONS.\"** **ONE** organising question (*what counts as evidence, and who is allowed to ask?*) · **THREE** classical schools (colonial/Orientalist → nationalist → Marxis",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 698.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 611.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 144,
+      "heading": "Roadmap",
+      "preview": "⚠️ **The single sentence that organises the whole topic:** *Ancient Indian history is not remembered, it is reconstructed — and every reconstruction carries the fingerprints of the evidence that survived, the question that was asked, and th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 611.624
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 538.556
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 155,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sharma opens Chapter 1 with this exact sequence: the study of ancient Indian history \"tells us how, when, and where people developed the earliest cultures in India, how they began undertaking agriculture and stock raising which made life se",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 332.556
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 194.888
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 191,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "THE POPULAR PICTURE                    WHAT R.S. SHARMA ACTUALLY OPENS WITH",
+      "metadata": {
+        "language": "text",
+        "line_count": 22,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 553.091
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 217,
+      "markdown_body_line_end": 222,
+      "heading": "3. Unity in diversity - the intermixture argument, stated exactly",
+      "preview": "Direction of borrowing | Evidence Sharma cites | Date bracket he attaches",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Direction of borrowing",
+          "Evidence Sharma cites",
+          "Date bracket he attaches"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 720.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 499.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 228,
+      "heading": "3. Unity in diversity - the intermixture argument, stated exactly",
+      "preview": "🔑 **This is one of the highest-value sentences in the entire topic.** It is simultaneously (a) a Prelims-grade etymological fact with a date, (b) the empirical basis for rejecting Mill's periodisation in Subtopic 4, and (c) the reason Sharm",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 347.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 274.022
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 236,
+      "markdown_body_line_end": 241,
+      "heading": "3. Unity in diversity - the intermixture argument, stated exactly",
+      "preview": "Date | Marker",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 273,
+      "markdown_body_line_end": 280,
+      "heading": "7. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link (Prelims + Mains)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link (Prelims + Mains)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 577.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 257.69
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 294,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts established in this subtopic | ⚠️ Inferences you may draw in an answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "✅ Facts established in this subtopic",
+          "⚠️ Inferences you may draw in an answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 402.69
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 311,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 544.69
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 348,
+      "heading": "CLOSING RECALL FLOW - IMPORTANCE OF ANCIENT INDIAN HISTORY",
+      "preview": "START / CONCEPT: IMPORTANCE OF ANCIENT INDIAN HISTORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 723
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 359,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "When B-33 tells you to argue that \"ancient Indian history is a reconstruction, not a memory\", the etymology is the opening line of that answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 317.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 250.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 394,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "[1] THE PAST                [2] THE EVIDENCE          [3] THE QUESTION       [4] THE NARRATIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 414,
+      "heading": "2. Upinder Singh's three foundational statements - learn them as a block",
+      "preview": "🔑 **This is the most important quartet in the entire topic.** The first three statements, quoted alone, sound like \"history is just opinion\" — and a candidate who writes that has failed. The fourth statement is the load-bearing one: **provi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 233.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 160.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 426,
+      "heading": "3. What \"historiography\" actually means - the definition you must be able to give",
+      "preview": "🔑 **Trap alert, and it is the single most common failure in this topic.** Almost every coaching note presents historiography as a relay race: colonial → nationalist → Marxist → interdisciplinary, each handing the baton cleanly to the next. ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 665.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 549.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 447,
+      "heading": "5. The four operations of source criticism",
+      "preview": "Operation | What it asks | Grounding",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Operation",
+          "What it asks",
+          "Grounding"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 447.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 468,
+      "heading": "7. Anachronism - the error that destroys the most answers",
+      "preview": "❌ Anachronism | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "❌ Anachronism",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 626.69
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 483,
+      "heading": "8. \"Reconstruction, not memory\" - building the actual answer",
+      "preview": "1  DEFINE      historia = inquiry; historiography = the activity of constructing history",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 571.29
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 480.29
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 497,
+      "heading": "9. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 444.09
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 69.488
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 514,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts | ⚠️ Inferences",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "✅ Facts",
+          "⚠️ Inferences"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 372.69
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 533,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 513.49
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 553,
+      "markdown_body_line_end": 570,
+      "heading": "CLOSING RECALL FLOW - HISTORY, HISTORIOGRAPHY AND RECONSTRUCTION",
+      "preview": "START / CONCEPT: HISTORY, HISTORIOGRAPHY AND RECONSTRUCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1672
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 346.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 581,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Conventional division: textual (all compositions, written or oral) vs archaeological (all tangible material remains) — not absolute; inscriptions, coins, inscribed images are both; visual sources are a distinctive material class. ✅ Texts ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 416.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 629,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "+-------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 34,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 456.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 645,
+      "heading": "1. Why this subtopic exists at all, and where it stops",
+      "preview": "Question | Owner | Why",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "Owner",
+          "Why"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 339.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 118.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 675,
+      "heading": "3. Texts: layered, normative, refracted - the three properties",
+      "preview": "🔑 **This paragraph is doing three jobs at once and you should use all three.** (i) It is the concrete mechanism behind \"survival bias\" from Subtopic 2. (ii) It is the reason a National Manuscript Survey is a *historiographical* event and no",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 684.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 611.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 688,
+      "heading": "4. Normative versus descriptive - the distinction that decides a dozen questions",
+      "preview": "If the source says… | The safe historical claim is… | The unsafe claim is…",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the source says…",
+          "The safe historical claim is…",
+          "The unsafe claim is…"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 542.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 320.622
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 730,
+      "heading": "6. The co-relation rule - stated, qualified, and made usable",
+      "preview": "WEAKEST                                                             STRONGEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 282.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 141.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 784,
+      "heading": "10. Where scientific evidence genuinely stops - the honest ceiling",
+      "preview": "Technique | What it can establish | What it **cannot** establish",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Technique",
+          "What it can establish",
+          "What it **cannot** establish"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 330.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 99.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 786,
+      "heading": "10. Where scientific evidence genuinely stops - the honest ceiling",
+      "preview": "🔑 **The one-line rule for aDNA, and it is worth memorising exactly:** ***genetics can describe biological ancestry; it cannot read a language, a caste or a creed.*** Any statement that moves from a genetic result to a linguistic, ritual or ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 99.29
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 40.422
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 790,
+      "markdown_body_line_end": 801,
+      "heading": "11. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 304.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 826,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts | ⚠️ Inferences",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 19,
+        "headers": [
+          "✅ Facts",
+          "⚠️ Inferences"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 282.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 680.29
+        }
+      },
+      "pdf_pages": [
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 848,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 489.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 118.288
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 891,
+      "heading": "CLOSING RECALL FLOW - EVIDENCE ARCHITECTURE AND METHOD",
+      "preview": "START / CONCEPT: EVIDENCE ARCHITECTURE AND METHOD",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 2752
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 226.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 902,
+      "markdown_body_line_end": 902,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "🔑 This four-move structure — name the claim, concede what is defensible, reject what is not, expose the political function — is the highest-scoring possible shape for a \"critically examine\" answer on colonial historiography.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 961,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "ADMINISTRATIVE NEED                INSTITUTION BUILT              KNOWLEDGE PRODUCED",
+      "metadata": {
+        "language": "text",
+        "line_count": 45,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 584.024
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 123.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 1004,
+      "heading": "2. Mill's periodisation, and the five questions that dismantle it",
+      "preview": "THE FIVE QUESTIONS AGAINST HINDU-MUSLIM-BRITISH PERIODISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 472.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 211.091
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1006,
+      "markdown_body_line_end": 1006,
+      "heading": "2. Mill's periodisation, and the five questions that dismantle it",
+      "preview": "🔑 **Q3 is the assassin.** If the criterion were religion, the third era would be the *Christian* period. It is not. So the scheme changes its own criterion midstream — religion, religion, nationality — which means it was never a classificat",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 211.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 138.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1030,
+      "markdown_body_line_end": 1030,
+      "heading": "3. The four colonial generalisations, and Sharma's exact reply",
+      "preview": "🔑 **This four-move structure — name the claim, concede what is defensible, reject what is not, expose the political function — is the highest-scoring possible shape for a \"critically examine\" answer on colonial historiography.** Memorise th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 358.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 300.024
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1040,
+      "markdown_body_line_end": 1050,
+      "heading": "4. V.A. Smith, 1904 - the facts, exactly",
+      "preview": "Element | ✅ Fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Element",
+          "✅ Fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 543.09
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1060,
+      "markdown_body_line_end": 1074,
+      "heading": "5. The contribution ledger - what colonial-era scholarship actually built",
+      "preview": "Year / period | ✅ Institution, technique or text",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "Year / period",
+          "✅ Institution, technique or text"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 234.29
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1102,
+      "heading": "7. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 585.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 244.69
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1107,
+      "markdown_body_line_end": 1123,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts | ⚠️ Inferences",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 15,
+        "headers": [
+          "✅ Facts",
+          "⚠️ Inferences"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 222.69
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 276.69
+        }
+      },
+      "pdf_pages": [
+        43,
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1143,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 391.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1182,
+      "heading": "CLOSING RECALL FLOW - COLONIAL, ORIENTALIST AND IMPERIAL HISTORIOGRAPHY",
+      "preview": "START / CONCEPT: COLONIAL, ORIENTALIST AND IMPERIAL HISTORIOGRAPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 490.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 249.491
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1193,
+      "markdown_body_line_end": 1193,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "nationalist historiography is best understood as a series of targeted rebuttals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 114.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 62.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1206,
+      "markdown_body_line_end": 1252,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "COLONIAL CLAIM                        NATIONALIST ANSWER                  WHO / WHAT",
+      "metadata": {
+        "language": "text",
+        "line_count": 45,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 105.491
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1292,
+      "markdown_body_line_end": 1292,
+      "heading": "3. The political-history wing - proving that India had a polity",
+      "preview": "🔑 **Raychaudhuri is the single most instructive figure in this subtopic**, because Sharma's assessment contains four distinct judgements in one paragraph: comparative method (positive), no engagement with periodisation (a gap), critical eng",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 553.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 451.824
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1307,
+      "markdown_body_line_end": 1307,
+      "heading": "3. The political-history wing - proving that India had a polity",
+      "preview": "🔑 **The Jayaswal verdict is the cleanest demonstration in the whole topic that \"biased\" and \"right\" are independent axes.** A nationalist motive, an anachronism charge, a named critic — **and** a thesis that is \"widely accepted\", in a book ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 729.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 656.224
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1347,
+      "markdown_body_line_end": 1353,
+      "heading": "7. Nationalist ≠ communal - the distinction, and how to state it in an exam",
+      "preview": "Evidence | Why it blocks the equation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "Why it blocks the equation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 556.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 325.29
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1371,
+      "heading": "8. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 336.69
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1376,
+      "markdown_body_line_end": 1394,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts | ⚠️ Inferences",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 17,
+        "headers": [
+          "✅ Facts",
+          "⚠️ Inferences"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 314.69
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 165.89
+        }
+      },
+      "pdf_pages": [
+        52,
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1405,
+      "markdown_body_line_end": 1413,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 426.09
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1441,
+      "markdown_body_line_end": 1458,
+      "heading": "CLOSING RECALL FLOW - NATIONALIST HISTORIOGRAPHY",
+      "preview": "START / CONCEPT: NATIONALIST HISTORIOGRAPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 385
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 364.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 93.891
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1469,
+      "markdown_body_line_end": 1469,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sharma's method foregrounds material culture and social formation. ✅ B-16: the Kosambi–Sharma row of the basic file's table reads: material culture, economy, class, varna — \"strong for GS-I analytical answers\". ✅ B-03: the Marxist/materiali",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1482,
+      "markdown_body_line_end": 1522,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "THE OLD QUESTION                              THE NEW QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1552,
+      "markdown_body_line_end": 1557,
+      "heading": "3. Kosambi - the method, stated exactly",
+      "preview": "Element | ✅ Exact content",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Element",
+          "✅ Exact content"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 534.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 379.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1559,
+      "markdown_body_line_end": 1559,
+      "heading": "3. Kosambi - the method, stated exactly",
+      "preview": "🔑 **Note what Sharma's formulation of Kosambi's method does *not* say.** It does not say Kosambi ignored culture. It says he presented society, economy **and culture** as an integral part of the development of the forces and relations of pr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 379.89
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 292.622
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1571,
+      "markdown_body_line_end": 1602,
+      "heading": "4. R.S. Sharma's own contribution - B-26 and B-35",
+      "preview": "TECHNOLOGY            AGRICULTURE            SURPLUS              SOCIAL DIVISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1624,
+      "markdown_body_line_end": 1631,
+      "heading": "6. The distinctive questions - B-30 answered precisely",
+      "preview": "Object | ⚠️ Nationalist question | ⚠️ Marxist / materialist question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Object",
+          "⚠️ Nationalist question",
+          "⚠️ Marxist / materialist question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 573.09
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1659,
+      "markdown_body_line_end": 1668,
+      "heading": "8. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 622.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 170.29
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1673,
+      "markdown_body_line_end": 1687,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts | ⚠️ Inferences",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "✅ Facts",
+          "⚠️ Inferences"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 162.29
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1698,
+      "markdown_body_line_end": 1707,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 724.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 362.29
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1727,
+      "markdown_body_line_end": 1744,
+      "heading": "CLOSING RECALL FLOW - MARXIST, MATERIALIST AND SOCIAL-HISTORY TURN",
+      "preview": "START / CONCEPT: MARXIST, MATERIALIST AND SOCIAL-HISTORY TURN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 430
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 388.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 147.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1755,
+      "markdown_body_line_end": 1755,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It should be treated as a historiographical object to be analysed, not as a periodisation to be used.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1768,
+      "markdown_body_line_end": 1805,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "SCHEME A -- MILL'S RELIGIOUS PERIODISATION (colonial, retained by nationalists)",
+      "metadata": {
+        "language": "text",
+        "line_count": 36,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 468.224
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 97.224
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1824,
+      "markdown_body_line_end": 1832,
+      "heading": "2. The demolition of Mill's scheme, completed",
+      "preview": "# | Ground of objection | Statement",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "#",
+          "Ground of objection",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 556.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 170.89
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1834,
+      "markdown_body_line_end": 1834,
+      "heading": "2. The demolition of Mill's scheme, completed",
+      "preview": "🔑 **Objection 6 is the one to state carefully, because it is the fairest.** Upinder does **not** deny the historical significance of the Delhi Sultanate or of the spread of Islam — she calls it \"undeniable\". Her question is about **scale of",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 170.89
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 97.822
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1858,
+      "markdown_body_line_end": 1864,
+      "heading": "4. The transitions that a process-based periodisation actually tracks",
+      "preview": "Process axis | ✅ Anchors from `00_Master-Chronology.md` | ⚠️ The analytical question it opens",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Process axis",
+          "✅ Anchors from `00_Master-Chronology.md`",
+          "⚠️ The analytical question it opens"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 426.29
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1920,
+      "markdown_body_line_end": 1931,
+      "heading": "8. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 567.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 73.29
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1936,
+      "markdown_body_line_end": 1951,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts | ⚠️ Inferences",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 14,
+        "headers": [
+          "✅ Facts",
+          "⚠️ Inferences"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 51.29
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        70,
+        71,
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1962,
+      "markdown_body_line_end": 1972,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 608.89
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 259.088
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1994,
+      "markdown_body_line_end": 2011,
+      "heading": "CLOSING RECALL FLOW - PERIODISATION DEBATES",
+      "preview": "START / CONCEPT: PERIODISATION DEBATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 398
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 293.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 42.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2022,
+      "markdown_body_line_end": 2022,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bias, Silences And The Ethics Of Interpretation comprises Bias, Silences and The Ethics Of Interpretation as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2035,
+      "markdown_body_line_end": 2042,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "SOURCE -> WHO MADE IT? -> WHEN / WHERE? -> GENRE / PURPOSE? -> WHAT CAN IT SHOW?",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2048,
+      "markdown_body_line_end": 2054,
+      "heading": "The five common biases to identify before writing",
+      "preview": "Bias | Typical error | Basic correction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Bias",
+          "Typical error",
+          "Basic correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 327.824
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 152.422
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2056,
+      "markdown_body_line_end": 2056,
+      "heading": "The five common biases to identify before writing",
+      "preview": "🔑 **Basic rule:** a biased source may still be excellent evidence for the interests, vocabulary and self-presentation of the person or institution that produced it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 152.422
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 107.754
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2068,
+      "markdown_body_line_end": 2085,
+      "heading": "CLOSING RECALL FLOW - BIAS, SILENCES AND THE ETHICS OF INTERPRETATION",
+      "preview": "START / CONCEPT: BIAS, SILENCES AND THE ETHICS OF INTERPRETATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 729.691
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 528.691
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2096,
+      "markdown_body_line_end": 2096,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ Probable question (Mains, 20 marks / 300–350 words): \"Historiography is the archaeology of interpretations.\" Critically examine the writing of ancient Indian history from the colonial period to the present. ⚠️ Probable question (Essay): ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 407.891
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 327.024
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2109,
+      "markdown_body_line_end": 2115,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Public-history activity | What it changes | Historiographical caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Public-history activity",
+          "What it changes",
+          "Historiographical caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 616.69
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2117,
+      "markdown_body_line_end": 2117,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Live-link decision (20 August 2026):** an official-domain search did not verify a suitable ASI/PIB release for the reported BharatSHRI details. No dated discovery or digitisation statistic is therefore used as factual evidence in this pac",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 616.69
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 543.622
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2120,
+      "markdown_body_line_end": 2172,
+      "heading": "COMPARATIVE SYNTHESIS AND UPSC ANSWER ARCHITECTURE",
+      "preview": "=============================================================================================",
+      "metadata": {
+        "language": "text",
+        "line_count": 51,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 266.291
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2180,
+      "markdown_body_line_end": 2200,
+      "heading": "1. The eight-step GS-I historiography answer spine",
+      "preview": "1  DEFINE + FRAME     historiography = the scholarly activity of constructing and",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2204,
+      "markdown_body_line_end": 2209,
+      "heading": "2. Allocating the spine across mark levels",
+      "preview": "Marks | Words | Steps to use | What to cut, and what never to cut",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Marks",
+          "Words",
+          "Steps to use",
+          "What to cut, and what never to cut"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 584.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 415.39
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2213,
+      "markdown_body_line_end": 2222,
+      "heading": "3. Directive decoding - what each verb actually demands here",
+      "preview": "Directive | What it demands in this topic | The move that satisfies it",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "What it demands in this topic",
+          "The move that satisfies it"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 393.39
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 120.788
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2228,
+      "markdown_body_line_end": 2243,
+      "heading": "4. The vocabulary checklist - words that signal method",
+      "preview": "USE THESE                            INSTEAD OF THESE",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2271,
+      "markdown_body_line_end": 2292,
+      "heading": "6. How to carry this topic into every other ancient-history topic - A-19 answered",
+      "preview": "THE FIVE QUESTIONS TO ASK BEFORE STUDYING ANY ANCIENT-INDIA TOPIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2296,
+      "markdown_body_line_end": 2304,
+      "heading": "7. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 574.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 278.09
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2309,
+      "markdown_body_line_end": 2318,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts | ⚠️ Inferences",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "✅ Facts",
+          "⚠️ Inferences"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 481.09
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2329,
+      "markdown_body_line_end": 2337,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 332.69
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 92.488
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2356,
+      "markdown_body_line_end": 2373,
+      "heading": "CLOSING RECALL FLOW - PUBLIC HISTORY AND LIVING STAKES",
+      "preview": "START / CONCEPT: PUBLIC HISTORY AND LIVING STAKES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 563
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 360.091
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 49.091
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2376,
+      "markdown_body_line_end": 2376,
+      "heading": "BASIC MCQS / REMEDIATION",
+      "preview": "**Original diagnostic practice.** All 32 questions below are original, method-focused diagnostics. Keys rotate strictly **A -> B -> C -> D** eight times; explanations and trap logic follow every item. The remedial drills target the exact er",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2380,
+      "heading": "PART III - 32 ORIGINAL HARD MCQs",
+      "preview": "⚠️ **Key rotation.** Strict **A → B → C → D**, repeated exactly **eight** times: Q1 = A, Q2 = B, Q3 = C, Q4 = D, Q5 = A, Q6 = B, Q7 = C, Q8 = D, and so on through Q32 = D. Every question has four plausible options, a detailed explanation an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 692.424
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 619.356
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2389,
+      "markdown_body_line_end": 2391,
+      "heading": "Q1",
+      "preview": "✅ **Answer: (A).** **Explanation.** R.S. Sharma states that although educated Indians retained traditional history in handwritten epics, Puranas and semi-biographical works, \"modern research in the history of ancient India began only in the",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 507.156
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 391.488
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2401,
+      "heading": "Q2",
+      "preview": "Institution | Year of establishment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Institution",
+          "Year of establishment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 350.288
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 240.887
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2409,
+      "markdown_body_line_end": 2411,
+      "heading": "Q2",
+      "preview": "✅ **Answer: (B).** **Explanation.** Pairs 1, 2 and 3 are correct: the Asiatic Society of Bengal was founded at Calcutta in **1784** by Sir William Jones; the Bombay Asiatic Society in **1804**; the Archaeological Survey of India in **1871**",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 221.687
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 120.219
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2425,
+      "markdown_body_line_end": 2427,
+      "heading": "Q3",
+      "preview": "✅ **Answer: (C).** **Explanation.** Statements 1 and 2 are exact. Statement 3 **inverts** Smith's central thesis: \"India was presented as a land of despotism which had **not experienced political unity until the establishment of British rul",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 766.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 651.224
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2436,
+      "markdown_body_line_end": 2438,
+      "heading": "Q4",
+      "preview": "✅ **Answer: (D).** **Explanation.** The recorded generalisations are that Indians lacked a sense of history and chronology, were accustomed to despotic rule, were so engrossed in spiritualism or the next world that they felt no concern for ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 553.224
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 437.556
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2452,
+      "markdown_body_line_end": 2454,
+      "heading": "Q5",
+      "preview": "✅ **Answer: (A).** **Explanation.** Statements 1 and 2 are among the objections stated explicitly — \"Why is the third period described as the British and not the Christian period?\" and \"What about polities ruled by non-Muslim elites after t",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 311.356
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 195.688
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2468,
+      "markdown_body_line_end": 2470,
+      "heading": "Q6",
+      "preview": "✅ **Answer: (B).** **Explanation.** Statements 1 and 2 are exact. Statement 3 is contradicted by the source's own qualification: \"most historians were guided by the nationalist ideas of Hindu revivalism, **but there was no dearth of scholar",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 701.824
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2479,
+      "markdown_body_line_end": 2481,
+      "heading": "Q7",
+      "preview": "✅ **Answer: (C).** **Explanation.** Sharma writes that \"the greatest merit of K.P. Jayaswal lay in exploding the myth of Indian despotism\", that as early as **1910–12** he wrote several articles showing that republics existed and enjoyed a ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 589.624
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 488.156
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2490,
+      "markdown_body_line_end": 2492,
+      "heading": "Q8",
+      "preview": "✅ **Answer: (D).** **Explanation.** Sharma records precisely this mixed position: the anachronism charge, the attack by \"many writers including U.N. Ghoshal (1886–1969)\", **and** that \"his basic thesis regarding the practice of the republic",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 375.956
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 274.488
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2506,
+      "markdown_body_line_end": 2508,
+      "heading": "Q9",
+      "preview": "✅ **Answer: (A).** **Explanation.** Statements 1 and 2 are exact. Statement 3 describes **A.A. Kosambi**, whose treatment \"follows a materialist interpretation of history, which is derived from the writings of Karl Marx\". Basham was not a M",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2517,
+      "markdown_body_line_end": 2519,
+      "heading": "Q10",
+      "preview": "✅ **Answer: (B).** **Explanation.** Upinder Singh's criticism is precisely this: \"Archaeological data was included, but the basic framework of the historical narrative remained **text-centric**\", alongside unilinear models derived from West",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 632.224
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 530.756
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2533,
+      "markdown_body_line_end": 2535,
+      "heading": "Q11",
+      "preview": "✅ **Answer: (C).** **Explanation.** Statements 1 and 2 reproduce the scheme exactly. Statement 3 contradicts its own author: \"The **dividing lines may vary**\", \"Periodization is convenient but it is important to remember that **these are no",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 404.556
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 317.288
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2544,
+      "markdown_body_line_end": 2546,
+      "heading": "Q12",
+      "preview": "✅ **Answer: (D).** **Explanation.** The source is explicit: \"the Harappan civilization — a **literate culture with an undeciphered script** — is included in protohistory\", and \"Although the Harappans were a literate people, their script has",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 219.288
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 117.82
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2560,
+      "markdown_body_line_end": 2562,
+      "heading": "Q13",
+      "preview": "✅ **Answer: (A).** **Explanation.** Statements 1 and 2 are exact. Statement 3 overreaches: the source explicitly allows that \"it is possible that people continued to write, although on **perishable material**\". This is the textbook applicat",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 634.024
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2571,
+      "markdown_body_line_end": 2573,
+      "heading": "Q14",
+      "preview": "✅ **Answer: (B).** **Explanation.** The source names exactly these three sites: \"the evidence of earlier Brahmi inscriptions from **Anuradhapura in Sri Lanka** and more recently, from **Kodumanal and Keezhadi in Tamil Nadu**, suggest that t",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 521.824
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 420.356
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2587,
+      "markdown_body_line_end": 2589,
+      "heading": "Q15",
+      "preview": "✅ **Answer: (C).** **Explanation.** All three are stated in the source. The method \"provides approximate, not exact dates, and a standard error margin (known as the standard deviation) is recognized\"; \"'BP' stands for 'Before Present', and ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 279.956
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 164.288
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2598,
+      "markdown_body_line_end": 2600,
+      "heading": "Q16",
+      "preview": "✅ **Answer: (D).** **Explanation.** The chain is stated in the source: decomposition of animal excreta raises soil nitrogen; courtyard soil at Inamgaon showed higher nitrogen than house interiors; therefore \"people tied their animals in the",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 701.824
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2614,
+      "markdown_body_line_end": 2616,
+      "heading": "Q17",
+      "preview": "✅ **Answer: (A).** **Explanation.** Statements 1 and 2 are exact. Statement 3 contradicts the stated caution: ethno-archaeological evidence \"must be used cautiously, and it should be seen as **suggesting possible and not necessarily conclus",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 547.224
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 445.756
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2625,
+      "markdown_body_line_end": 2627,
+      "heading": "Q18",
+      "preview": "✅ **Answer: (B).** **Explanation.** The source states it with an exclamation: \"Of course, the idealized bodily forms in ancient Indian art should **not** be seen as direct reflections of what ordinary people looked like!\" ⚠️ **Trap logic.**",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 347.756
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 246.288
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2641,
+      "markdown_body_line_end": 2643,
+      "heading": "Q19",
+      "preview": "✅ **Answer: (C).** **Explanation.** Statement 1 is supported: genome analysis has \"especially contributed towards understanding patterns of migration and changes in population\". Statement 3 states the sampling discipline correctly. Statemen",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 701.824
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2652,
+      "markdown_body_line_end": 2654,
+      "heading": "Q20",
+      "preview": "✅ **Answer: (D).** **Explanation.** The account is exact: before the valley was submerged by the Nagarjunasagar dam across the Krishna, ASI officers \"thoroughly explored, excavated, and documented the valley\" between 1954 and 1960; then \"ni",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 589.624
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 473.956
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2668,
+      "markdown_body_line_end": 2670,
+      "heading": "Q21",
+      "preview": "✅ **Answer: (A).** **Explanation.** Statements 1 and 2 express the core method. Statement 3 is false: bias is a coordinate that tells us where a source stands; it changes what the source is good evidence for, but does not automatically disq",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 361.956
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 288.888
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2679,
+      "markdown_body_line_end": 2681,
+      "heading": "Q22",
+      "preview": "✅ **Answer: (B).** **Explanation.** Provenance asks where an object came from, where it has been and how that chain is known. Ownership asks who is legally entitled to possess it. Historical interpretation may remain weak even when legal ti",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 190.888
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 117.82
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2690,
+      "markdown_body_line_end": 2692,
+      "heading": "Q23",
+      "preview": "✅ **Answer: (C).** **Explanation.** An estampage is a paper impression of an inscription. It is a valuable surrogate for reading and comparison, but it does not preserve every feature of the original object's archaeological context. ⚠️ **Tr",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2706,
+      "markdown_body_line_end": 2708,
+      "heading": "Q24",
+      "preview": "✅ **Answer: (D).** **Explanation.** Statements 1 and 2 are exact. Statement 3 is precisely what the source's guard clause forbids: \"**All histories are partial and provisional and subject to revision, but all histories are not equally relia",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 604.024
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 502.556
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2717,
+      "markdown_body_line_end": 2719,
+      "heading": "Q25",
+      "preview": "✅ **Answer: (A).** **Explanation.** The bar is stated in terms: \"There are many problems involved in translating archaeological cultures into history. **An archaeological culture need not necessarily correspond to a linguistic group, politi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 404.556
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 317.288
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2728,
+      "markdown_body_line_end": 2730,
+      "heading": "Q26",
+      "preview": "✅ **Answer: (B).** **Explanation.** It is the first item on the list of colonial features: \"The Brahmanical perspective of ancient Sanskrit texts was often **uncritically taken** as reflecting the Indian past.\" ⚠️ **Trap logic.** (b) revers",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 219.288
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 132.02
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2739,
+      "markdown_body_line_end": 2741,
+      "heading": "Q27",
+      "preview": "✅ **Answer: (C).** **Explanation.** These are the achievements listed in the source, together with the observation that women and gender \"are now recognized as important parts of social history\". ⚠️ **Trap logic.** (c) reverses the elite-ma",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 697.091
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 609.824
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2750,
+      "markdown_body_line_end": 2752,
+      "heading": "Q28",
+      "preview": "✅ **Answer: (D).** **Explanation.** The passage is explicit: under British rule the struggle was \"between colonialism and nationalism\"; \"Now the situation has undergone a change. The struggle now is between **communalism and irrationalism**",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 526.024
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 410.356
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2766,
+      "markdown_body_line_end": 2768,
+      "heading": "Q29",
+      "preview": "✅ **Answer: (A).** **Explanation.** Statements 1 and 2 are exact. Statement 3 is contradicted: \"while the heartlands of great empires and kingdoms are well represented, **many regions, for instance the Northeast, are not**. Greater effort n",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 269.956
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 182.688
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2777,
+      "markdown_body_line_end": 2779,
+      "heading": "Q30",
+      "preview": "✅ **Answer: (B).** **Explanation.** Sampling and laboratory transfer are research stages, not findings. Historical claims arise only after methods, results, uncertainties and archaeological context are published and tested. ⚠️ **Trap logic.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2788,
+      "markdown_body_line_end": 2790,
+      "heading": "Q31",
+      "preview": "✅ **Answer: (C).** **Explanation.** *An Introduction to the Study of Indian History* (1957) is **D.D. Kosambi's**, later popularised in *The Civilisation of Ancient India in Historical Outline* (1965). ⚠️ **Trap logic.** (c) belongs to **C.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 660.624
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 559.156
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2799,
+      "markdown_body_line_end": 2801,
+      "heading": "Q32",
+      "preview": "✅ **Answer: (D).** **Explanation.** Option (c) turns evidence into a qualified historical argument. The other options confuse prescription with practice, corroboration with proof, and biological ancestry with learned social identities. ⚠️ *",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 475.356
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 402.288
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2803,
+      "markdown_body_line_end": 2803,
+      "heading": "Q32",
+      "preview": "⚠️ **Rotation audit.** B: Q1, Q5, Q9, Q13, Q17, Q21, Q25, Q29 (8). D: Q2, Q6, Q10, Q14, Q18, Q22, Q26, Q30 (8). A: Q3, Q7, Q11, Q15, Q19, Q23, Q27, Q31 (8). C: Q4, Q8, Q12, Q16, Q20, Q24, Q28, Q32 (8). **Total 32, strict B → D → A → C repea",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 402.288
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 343.42
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2809,
+      "markdown_body_line_end": 2809,
+      "heading": "PART IV - REMEDIAL PRACTICE",
+      "preview": "⚠️ Six error families, each with a diagnostic, a drill and a correction rule. Work the drills only if the corresponding MCQs in Part III were wrong; otherwise read the rules and move on.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 315.92
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 271.253
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2819,
+      "markdown_body_line_end": 2834,
+      "heading": "Drill R-1 - complete the quadruples from memory, then check",
+      "preview": "Historian | Dates | Signature work and year | Credited with",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 14,
+        "headers": [
+          "Historian",
+          "Dates",
+          "Signature work and year",
+          "Credited with"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 182.39
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2848,
+      "markdown_body_line_end": 2858,
+      "heading": "Drill R-2 - for each source, state one thing it is strong for and one thing it is weak for",
+      "preview": "Source class | ✅ Strong for | ✅ Weak for",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Source class",
+          "✅ Strong for",
+          "✅ Weak for"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 701.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 385.29
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2886,
+      "markdown_body_line_end": 2893,
+      "heading": "Drill R-4 - replace each anachronism with a defensible formulation",
+      "preview": "❌ Anachronistic | ✅ Defensible",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "❌ Anachronistic",
+          "✅ Defensible"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 680.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 450.09
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2905,
+      "markdown_body_line_end": 2914,
+      "heading": "Drill R-5 - for each claim, state whether the evidence licenses it, and if not, what would",
+      "preview": "Claim | Licensed? | What would be needed",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Claim",
+          "Licensed?",
+          "What would be needed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 402.69
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2926,
+      "markdown_body_line_end": 2937,
+      "heading": "Drill R-6 - classify each statement as FACT: fact, ANALYSIS: interpretation, or CAUTION: unverifiable",
+      "preview": "Statement | Class",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Statement",
+          "Class"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 461.09
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2947,
+      "markdown_body_line_end": 2947,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "The ownership audit is retained exactly in purpose: directly owned verified questions are distinguished from application PYQs whose true owning topic is named. Officially unverifiable keys remain withheld rather than inferred.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 359.79
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 315.122
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2955,
+      "markdown_body_line_end": 2991,
+      "heading": "I.1 Method",
+      "preview": "STEP 1  Open every official GS-I MAINS paper 2018-2025 present in books/ and",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2995,
+      "markdown_body_line_end": 2999,
+      "heading": "I.2 Result - directly topic-owned Mains PYQs",
+      "preview": "### ✅ **COUNT: ZERO.**  ⚠️ Across the eight official **GS-I Mains** papers from **2018 to 2025** — 160 questions, every one read in the extracted English text — **no question names historiography, periodisation, the Orientalist, Nationalist",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 277.224
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3003,
+      "markdown_body_line_end": 3022,
+      "heading": "I.3 Result - directly topic-owned Prelims PYQs",
+      "preview": "### ✅ **COUNT: ZERO with a locally verifiable official key.** ### ❓ **COUNT: ONE that exists and is withheld.**  ✅ **The one directly-owned question found: Prelims GS-I 2023, Q81.**  > *\"With reference to the Indian History, Alexander Rea, ",
+      "metadata": {
+        "line_count": 20
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3030,
+      "markdown_body_line_end": 3033,
+      "heading": "I.4 Result - closest verified APPLICATION PYQs",
+      "preview": "Stage | Window | Papers read | Questions examined | **Owned** | **Owned but key-unverifiable (withheld)** | **Applied and solved here**",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Stage",
+          "Window",
+          "Papers read",
+          "Questions examined",
+          "**Owned**",
+          "**Owned but key-unverifiable (withheld)**",
+          "**Applied and solved here**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 240.824
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 154.922
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3045,
+      "markdown_body_line_end": 3048,
+      "heading": "M-1 · 2018 · GS-I · Q2 · 10 marks · 150 words",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 708.891
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 563.49
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3054,
+      "markdown_body_line_end": 3058,
+      "heading": "M-1 · 2018 · GS-I · Q2 · 10 marks · 150 words",
+      "preview": "Foreign accounts constitute a distinct source class for Indian history, valuable precisely because they are external. Chinese pilgrims and Arab scholars recorded what insiders took for granted — monastic organisation, road conditions, ritua",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 468.29
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 295.822
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3072,
+      "markdown_body_line_end": 3078,
+      "heading": "M-1 · 2018 · GS-I · Q2 · 10 marks · 150 words",
+      "preview": "0:00-0:45   read + fix the directive: ASSESS = graded verdict; note \"reconstruction\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 723.091
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3098,
+      "markdown_body_line_end": 3101,
+      "heading": "M-2 · 2018 · GS-I · Q1 · 10 marks · 150 words",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 440.391
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 339.79
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3107,
+      "markdown_body_line_end": 3109,
+      "heading": "M-2 · 2018 · GS-I · Q1 · 10 marks · 150 words",
+      "preview": "Safeguarding is four distinct operations, not one. **Physical conservation** addresses material decay: palm-leaf manuscripts are lost to heat, insects, water, fungus, dust and fire, and their scribal recopying tradition declined with printi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 258.79
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 86.322
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3136,
+      "markdown_body_line_end": 3139,
+      "heading": "M-3 · 2020 · GS-I · Q1 · 10 marks · 150 words",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 378.791
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 266.99
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3145,
+      "markdown_body_line_end": 3149,
+      "heading": "M-3 · 2020 · GS-I · Q1 · 10 marks · 150 words",
+      "preview": "Rock-cut architecture is an unusually rich source because it is simultaneously three things: a **material object** with a location, a technique and a chronology; a **text**, through its donative inscriptions; and a **visual source** encodin",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 630.824
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3176,
+      "markdown_body_line_end": 3179,
+      "heading": "M-4 · 2020 · GS-I · Q12 · 15 marks · 250 words",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 187.124
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 86.522
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3185,
+      "markdown_body_line_end": 3193,
+      "heading": "M-4 · 2020 · GS-I · Q12 · 15 marks · 250 words",
+      "preview": "The proposition is half right, and the half that is wrong is the important half. Persian literary sources are indeed **shaped by** their age; they do not **reflect** it.  Three properties block simple reflection. First, **authorship and aud",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 764.891
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 535.624
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3207,
+      "markdown_body_line_end": 3214,
+      "heading": "M-4 · 2020 · GS-I · Q12 · 15 marks · 250 words",
+      "preview": "0:00-1:00   decode COMMENT; spot the loaded verb \"reflect\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 300.824
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 229.824
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3230,
+      "markdown_body_line_end": 3233,
+      "heading": "M-5 · 2023 · GS-I · Q1 · 10 marks · 150 words",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 753.891
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 642.09
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3239,
+      "markdown_body_line_end": 3249,
+      "heading": "M-5 · 2023 · GS-I · Q1 · 10 marks · 150 words",
+      "preview": "Geography set the conditions within which choices were made; it did not make them. Four mechanisms operated.  **Resource distribution** determined where settlement was viable: alluvium, water, timber, stone and ore. Sharma's account of anci",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 575.29
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 417.022
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3276,
+      "markdown_body_line_end": 3279,
+      "heading": "M-6 · 2023 · GS-I · Q11 · 15 marks · 250 words",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 577.09
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3285,
+      "markdown_body_line_end": 3295,
+      "heading": "M-6 · 2023 · GS-I · Q11 · 15 marks · 250 words",
+      "preview": "**Features.** Early Vedic society was pastoral and kin-ordered, organised around the *jana*, with cattle central to wealth and conflict, and assemblies alongside the chief. Religion was ritual and sacrificial, addressed to natural and cosmi",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 510.29
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 281.022
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3323,
+      "markdown_body_line_end": 3326,
+      "heading": "M-7 · 2024 · GS-I · Q1 · 10 marks · 150 words",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 575.191
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 418.59
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3332,
+      "markdown_body_line_end": 3340,
+      "heading": "M-7 · 2024 · GS-I · Q1 · 10 marks · 150 words",
+      "preview": "The transition is best presented as a chain in which each change enables the next.  **Economy.** Pastoralism with cattle as the principal measure of wealth gives way to settled agriculture, as iron-assisted clearance opens the Ganga–Yamuna ",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 365.99
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 207.722
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3358,
+      "markdown_body_line_end": 3358,
+      "heading": "II.B PRELIMS GS-I APPLICATION PYQs - official keys verified from local sources only",
+      "preview": "⚠️ **Verification note.** Every key below was read from the official answer-key PDF held locally, **Series A**, matched to the **Set A** question paper. ❓ No question is included whose key could not be so verified.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 637.424
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3369,
+      "markdown_body_line_end": 3373,
+      "heading": "P-1 · Prelims GS-I 2024 · Set A · Q58",
+      "preview": "*Consider the following statements:* *1. There are no parables in Upanishads.* *2. Upanishads were composed earlier than the Puranas.* *Which of the statements given above is/are correct?* *(a) 1 only  (b) 2 only  (c) Both 1 and 2  (d) Neit",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 472.624
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 413.756
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3377,
+      "markdown_body_line_end": 3380,
+      "heading": "P-1 · Prelims GS-I 2024 · Set A · Q58",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 394.556
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 305.154
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3396,
+      "markdown_body_line_end": 3406,
+      "heading": "P-2 · Prelims GS-I 2024 · Set A · Q55",
+      "preview": "*Consider the following information:*  | | Archaeological Site | State | Description | |---|---|---|---| | 1. | Chandraketugarh | Odisha | Trading Port town | | 2. | Inamgaon | Maharashtra | Chalcolithic site | | 3. | Mangadu | Kerala | Meg",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3410,
+      "markdown_body_line_end": 3413,
+      "heading": "P-2 · Prelims GS-I 2024 · Set A · Q55",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 711.024
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 621.622
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3431,
+      "markdown_body_line_end": 3432,
+      "heading": "P-3 · Prelims GS-I 2025 · Set A · Q15",
+      "preview": "*Fa-hien (Faxian), the Chinese pilgrim, travelled to India during the reign of* *(a) Samudragupta  (b) Chandragupta II  (c) Kumaragupta I  (d) Skandagupta*",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 308.522
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 263.854
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3436,
+      "markdown_body_line_end": 3439,
+      "heading": "P-3 · Prelims GS-I 2025 · Set A · Q15",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 244.654
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 144.053
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3466,
+      "markdown_body_line_end": 3467,
+      "heading": "P-4 · Prelims GS-I 2025 · Set A · Q19",
+      "preview": "*Ashokan inscriptions suggest that the 'Pradeshika', 'Rajuka' and 'Yukta' were important officers at the* *(a) village-level administration  (b) district-level administration  (c) provincial administration  (d) level of the central administ",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 474.991
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 430.324
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3471,
+      "markdown_body_line_end": 3474,
+      "heading": "P-4 · Prelims GS-I 2025 · Set A · Q19",
+      "preview": "Field | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Field",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 411.124
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 321.722
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3490,
+      "markdown_body_line_end": 3490,
+      "heading": "PART V - TEN ORIGINAL SOLVED MAINS QUESTIONS",
+      "preview": "⚠️ **Distribution as required:** **3 × 10 marks (150 words)**, **4 × 15 marks (250 words)**, **3 × 20 marks (300–350 words)**. Each carries demand decoding, a full model answer at the highest standard, and a top-answer checklist stating wha",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 726.424
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3511,
+      "markdown_body_line_end": 3517,
+      "heading": "O-1 (10 marks, 150 words)",
+      "preview": "The proposition is well founded, provided its concessive clause is respected.  R.S. Sharma's account of ancient India opens not with a king but with a sequence: how, when and where the earliest cultures developed; how people took to agricul",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 417.224
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 258.956
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3542,
+      "markdown_body_line_end": 3544,
+      "heading": "O-2 (10 marks, 150 words)",
+      "preview": "**Prehistory** is the long period before the invention of writing, and its study. **History** is the part of the past after the invention of writing, and the study of literate societies. **Protohistory** occupies the space between, and in I",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 605.091
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 446.824
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3569,
+      "markdown_body_line_end": 3575,
+      "heading": "O-3 (10 marks, 150 words)",
+      "preview": "The proposition is correct because historical meaning depends on context before possession is adjudicated.  **Provenance** records an object's findspot, association, recovery method and chain of custody; **ownership** concerns legal entitle",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 625.824
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3601,
+      "markdown_body_line_end": 3607,
+      "heading": "O-4 (15 marks, 250 words)",
+      "preview": "Both halves are demonstrable, and the interesting question is how they coexisted.  **The achievement is institutional and technical.** The Asiatic Society of Bengal was founded at Calcutta in 1784 by Sir William Jones, providing an institut",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 531.424
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3633,
+      "markdown_body_line_end": 3639,
+      "heading": "O-5 (15 marks, 250 words)",
+      "preview": "Both clauses hold, and the second explains the school's long afterlife.  **The correction was real and methodological.** Nationalist historians wove together texts, inscriptions, coins and material remains to build a connected narrative; th",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 559.824
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3665,
+      "markdown_body_line_end": 3671,
+      "heading": "O-6 (15 marks, 250 words)",
+      "preview": "**Contribution.** The turn began before Marxism: A.L. Basham's *The Wonder That Was India* (1951) marked a great shift from political to non-political history. D.D. Kosambi's *An Introduction to the Study of Indian History* (1957), populari",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 545.624
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3697,
+      "markdown_body_line_end": 3705,
+      "heading": "O-7 (15 marks, 250 words)",
+      "preview": "The proposition is true and, taken alone, useless. Its value appears only when bias is treated as a **coordinate** rather than a verdict.  **Texts.** Ancient texts largely reflect the perspectives of political, social or religious elites; a",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 117,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 117,
+          "frame_y": 574.024
+        }
+      },
+      "pdf_pages": [
+        117
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3733,
+      "markdown_body_line_end": 3745,
+      "heading": "O-8 (20 marks, 300-350 words)",
+      "preview": "The metaphor is apt in three respects and misleading in one, and both matter.  **Why it works.** Interpretations, like deposits, are laid down in datable contexts; each layer is shaped by the conditions of its formation; and the historian's",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 446.224
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3772,
+      "markdown_body_line_end": 3784,
+      "heading": "O-9 (20 marks, 300-350 words)",
+      "preview": "Mill's division of the Indian past into Hindu, Muslim and British periods fails on four independent grounds, and the interdisciplinary turn has replaced it with something better rather than merely rejecting it.  **The logical ground is deci",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 422.024
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0181",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3812,
+      "markdown_body_line_end": 3818,
+      "heading": "O-10 (20 marks, 300-350 words)",
+      "preview": "Both clauses are true, and the second is what makes the first useful.  **The widening is real and specific.** Questions once answerable only by inference are now measurable. Chemical comparison of metal artefacts with ores identifies **ore ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 701.291
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 386.824
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0182",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3838,
+      "markdown_body_line_end": 3871,
+      "heading": "VI.1 The protocol, in ten rules",
+      "preview": "R1  READ THE DIRECTIVE TWICE AND WRITE IT AT THE TOP OF YOUR ROUGH PLAN.",
+      "metadata": {
+        "language": "text",
+        "line_count": 32,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 429.291
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0183",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3888,
+      "markdown_body_line_end": 3892,
+      "heading": "VI.3 Time allocation, by mark level",
+      "preview": "Marks | Words | Plan | Write | Verdict | Scan",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Words",
+          "Plan",
+          "Write",
+          "Verdict",
+          "Scan"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 207.291
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 121.89
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0184",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3898,
+      "markdown_body_line_end": 3907,
+      "heading": "VI.4 The eight-step spine, restated for use under exam conditions",
+      "preview": "1 DEFINE + FRAME        one sentence, no more",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 694.291
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0185",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3919,
+      "markdown_body_line_end": 3919,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Enrichment only.** A core answer can be written from the Basic session and practice sections. This block supplies optional historiographical debates, source silences and interdisciplinary refinements; it must not be used to replace a dire",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 530.191
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 471.324
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0186",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3923,
+      "markdown_body_line_end": 3926,
+      "heading": "Advanced-owner claim set",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, introductory historiography and s",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 446.324
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 359.056
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0187",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3932,
+      "markdown_body_line_end": 3937,
+      "heading": "Mini-timeline",
+      "preview": "Phase | Date / period | Marker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Phase",
+          "Date / period",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 331.556
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 188.554
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0188",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3957,
+      "markdown_body_line_end": 3963,
+      "heading": "2. Key classification / data",
+      "preview": "Debate | Advanced reading",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Debate",
+          "Advanced reading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 645.691
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 503.89
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0189",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3967,
+      "markdown_body_line_end": 3969,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Upinder Singh → method: source criticism + archaeology + historiography. **Study link:** ⚠️ Use this file before every ancient topic: it tells you what counts as evidence. **Study link:** ⚠️ Pair with `advanced/02_Sources-",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 478.89
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 420.022
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0190",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3982,
+      "markdown_body_line_end": 3982,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not replace colonial bias with reverse over-glorification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 266.822
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 236.354
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0191",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4001,
+      "markdown_body_line_end": 4048,
+      "heading": "VISUAL: VISUAL - Eleven turns: what each ADDS, and the wall each one hits",
+      "preview": "TURN                      NEW QUESTION IT MAKES ASKABLE        THE WALL IT CANNOT CROSS",
+      "metadata": {
+        "language": "text",
+        "line_count": 46,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 150.891
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0192",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4076,
+      "markdown_body_line_end": 4082,
+      "heading": "2. Archaeology and scientific technique - Upinder's list, and why it changes the discipline",
+      "preview": "Before | After",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Before",
+          "After"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 605.49
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0193",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4093,
+      "markdown_body_line_end": 4119,
+      "heading": "3. Ancient DNA - the fullest statement of what it can and cannot do",
+      "preview": "aDNA -- WHAT IT LICENSES                    aDNA -- WHAT IT DOES NOT LICENSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 417.29
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 156.29
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0194",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4165,
+      "markdown_body_line_end": 4183,
+      "heading": "8. The convergence rule - how to use eleven methods without over-claiming",
+      "preview": "CLAIM STRENGTH LADDER FOR AN INTERDISCIPLINARY ARGUMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 483.691
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 302.691
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0195",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4188,
+      "markdown_body_line_end": 4199,
+      "heading": "9. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 129,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 129,
+          "frame_y": 293.09
+        }
+      },
+      "pdf_pages": [
+        129
+      ]
+    },
+    {
+      "visual_id": "visual-0196",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4204,
+      "markdown_body_line_end": 4216,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts | ⚠️ Inferences",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "✅ Facts",
+          "⚠️ Inferences"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 129,
+          "frame_y": 271.09
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 306.69
+        }
+      },
+      "pdf_pages": [
+        129,
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0197",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4227,
+      "markdown_body_line_end": 4237,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 415.09
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0198",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4257,
+      "markdown_body_line_end": 4295,
+      "heading": "VISUAL: VISUAL - The eight distortions, and the discipline that answers each",
+      "preview": "#  DISTORTION                    WHAT IT LOOKS LIKE                 THE DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0199",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4312,
+      "markdown_body_line_end": 4317,
+      "heading": "2. Elite and textual bias - and the four techniques for working around it",
+      "preview": "# | Technique | ✅ Source basis",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "#",
+          "Technique",
+          "✅ Source basis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 626.69
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0200",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4378,
+      "markdown_body_line_end": 4383,
+      "heading": "7. Archaeological nationalism - and the safeguards",
+      "preview": "❌ Failure mode | ✅ Safeguard, grounded in what this session has established",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "❌ Failure mode",
+          "✅ Safeguard, grounded in what this session has established"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 136,
+          "frame_y": 638.491
+        },
+        "end": {
+          "page": 136,
+          "frame_y": 417.09
+        }
+      },
+      "pdf_pages": [
+        136
+      ]
+    },
+    {
+      "visual_id": "visual-0201",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4402,
+      "markdown_body_line_end": 4418,
+      "heading": "9. Disciplined uncertainty - the positive doctrine",
+      "preview": "THE FOUR-PART CLAIM, and you should be able to write any historical claim this way",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 137,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 137,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        137
+      ]
+    },
+    {
+      "visual_id": "visual-0202",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4426,
+      "markdown_body_line_end": 4436,
+      "heading": "10. Core Concept | Example | Exam Link",
+      "preview": "Core concept | India-centric example | Exam link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Core concept",
+          "India-centric example",
+          "Exam link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 138,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 138,
+          "frame_y": 291.89
+        }
+      },
+      "pdf_pages": [
+        138
+      ]
+    },
+    {
+      "visual_id": "visual-0203",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4441,
+      "markdown_body_line_end": 4457,
+      "heading": "FACT: FACTS | ANALYSIS: INFERENCES",
+      "preview": "✅ Facts | ⚠️ Inferences",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 15,
+        "headers": [
+          "✅ Facts",
+          "⚠️ Inferences"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 138,
+          "frame_y": 269.89
+        },
+        "end": {
+          "page": 139,
+          "frame_y": 198.29
+        }
+      },
+      "pdf_pages": [
+        138,
+        139
+      ]
+    },
+    {
+      "visual_id": "visual-0204",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4468,
+      "markdown_body_line_end": 4477,
+      "heading": "UPSC Traps · Mini Recap",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 140,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 140,
+          "frame_y": 503.49
+        }
+      },
+      "pdf_pages": [
+        140
+      ]
+    },
+    {
+      "visual_id": "visual-0205",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4522,
+      "markdown_body_line_end": 4522,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "Revision notes are last by design. Use the Core Basic register for ordinary answers; add Optional Advanced points only when the directive and word limit permit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 142,
+          "frame_y": 498.191
+        },
+        "end": {
+          "page": 142,
+          "frame_y": 453.524
+        }
+      },
+      "pdf_pages": [
+        142
+      ]
+    },
+    {
+      "visual_id": "visual-0206",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4714,
+      "markdown_body_line_end": 4726,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Why ancient India matters: the complete inquiry",
+      "preview": "ANCIENT INDIA: WHY STUDY IT?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 150,
+          "frame_y": 349.291
+        },
+        "end": {
+          "page": 150,
+          "frame_y": 226.091
+        }
+      },
+      "pdf_pages": [
+        150
+      ]
+    },
+    {
+      "visual_id": "visual-0207",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4730,
+      "markdown_body_line_end": 4740,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: From surviving trace to historical claim",
+      "preview": "SURVIVING TRACE -> SOURCE CRITICISM -> CONTEXT -> CORROBORATION -> HISTORICAL CLAIM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 151,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 151,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        151
+      ]
+    },
+    {
+      "visual_id": "visual-0208",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4744,
+      "markdown_body_line_end": 4753,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Historiographical schools: claims and corrections",
+      "preview": "ORIENTALIST -> IMPERIAL/COLONIAL -> NATIONALIST -> MARXIST -> SOCIAL/SUBALTERN TURNS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 151,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 151,
+          "frame_y": 569.891
+        }
+      },
+      "pdf_pages": [
+        151
+      ]
+    },
+    {
+      "visual_id": "visual-0209",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4757,
+      "markdown_body_line_end": 4767,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Periodisation without communal boxes",
+      "preview": "PROBLEM: Hindu / Muslim / British labels make rulers religion the clock of history.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 151,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 151,
+          "frame_y": 445.091
+        }
+      },
+      "pdf_pages": [
+        151
+      ]
+    },
+    {
+      "visual_id": "visual-0210",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4771,
+      "markdown_body_line_end": 4784,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Unity in diversity: a historical mechanism",
+      "preview": "ECOLOGICAL + LINGUISTIC + ETHNIC DIVERSITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 151,
+          "frame_y": 423.091
+        },
+        "end": {
+          "page": 151,
+          "frame_y": 289.691
+        }
+      },
+      "pdf_pages": [
+        151
+      ]
+    },
+    {
+      "visual_id": "visual-0211",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4788,
+      "markdown_body_line_end": 4800,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Varna, caste and social history",
+      "preview": "NORMATIVE VARNA TEXTS ------ prescribe ranked fourfold order",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 664.091
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0212",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4804,
+      "markdown_body_line_end": 4816,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Causation: explanation beyond great men",
+      "preview": "HISTORICAL CHANGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 642.091
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 518.891
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0213",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4820,
+      "markdown_body_line_end": 4833,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Bias, silence and ethical reconstruction",
+      "preview": "ARCHIVE OVER-REPRESENTS: rulers | donors | literate elites | durable materials",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 496.891
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 363.491
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0214",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4837,
+      "markdown_body_line_end": 4845,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Historiography answer architecture: 10/15/20 marks",
+      "preview": "10 MARKS: define historiography -> name 2 schools -> one evidence contrast -> verdict",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 341.491
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 259.091
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0215",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4849,
+      "markdown_body_line_end": 4855,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Evidence ladder and confidence control",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 153,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 153,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        153
+      ]
+    },
+    {
+      "visual_id": "visual-0216",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4859,
+      "markdown_body_line_end": 4865,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Examiner traps and contested boundaries",
+      "preview": "CLOSE DISTINCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 153,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 153,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        153
+      ]
+    },
+    {
+      "visual_id": "visual-0217",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4869,
+      "markdown_body_line_end": 4875,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Integrated answer spine and qualified conclusion",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 153,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 153,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        153
+      ]
+    }
+  ]
+}

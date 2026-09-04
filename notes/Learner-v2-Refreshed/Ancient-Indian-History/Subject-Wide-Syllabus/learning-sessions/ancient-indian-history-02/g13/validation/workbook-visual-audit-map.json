@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Solved-Practice-Workbook_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Solved-Practice-Workbook_2026-08-30.pdf",
+  "mode": "workbook",
+  "topic_key": "ancient-indian-history-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 11,
+      "heading": "Diagnostic and repair protocol - [CORE PRELIMS]",
+      "preview": "Answer placement is balanced, deterministic and non-patterned using a stable topic seed., repeated eight times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 617.224
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "MCQ 32",
+      "preview": "Correct options rotate strictly D -> B -> A -> C, repeated twice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 648.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 642,
+      "heading": "PYQ 3. 2023 Prelims Q46 - Literary Work and Author",
+      "preview": "Option",
+      "metadata": {
+        "column_count": 1,
+        "row_count": 4,
+        "headers": [
+          "Option"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 250.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 141.49
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 671,
+      "heading": "PYQ 4. 2023 Prelims Q81 - Colonial Archaeologists",
+      "preview": "Option",
+      "metadata": {
+        "column_count": 1,
+        "row_count": 4,
+        "headers": [
+          "Option"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 516.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 406.69
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 695,
+      "markdown_body_line_end": 700,
+      "heading": "PYQ 5. 2024 Prelims Q55 - Archaeological Site Matching",
+      "preview": "Option",
+      "metadata": {
+        "column_count": 1,
+        "row_count": 4,
+        "headers": [
+          "Option"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 718.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 609.09
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 729,
+      "heading": "PYQ 6. 2025 Prelims Q19 - Ashokan Officers",
+      "preview": "Option",
+      "metadata": {
+        "column_count": 1,
+        "row_count": 4,
+        "headers": [
+          "Option"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 231.89
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 122.488
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 758,
+      "heading": "PYQ 7. 2026 Prelims Q3 - Pali Texts and Coin Archaeology",
+      "preview": "Option",
+      "metadata": {
+        "column_count": 1,
+        "row_count": 4,
+        "headers": [
+          "Option"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 516.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 406.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 782,
+      "markdown_body_line_end": 787,
+      "heading": "PYQ 8. 2026 Prelims Q7 - Place-Value Evidence in Inscriptions",
+      "preview": "Option",
+      "metadata": {
+        "column_count": 1,
+        "row_count": 4,
+        "headers": [
+          "Option"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 623.29
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 811,
+      "markdown_body_line_end": 816,
+      "heading": "PYQ 9. 2026 Prelims Q8 - Inference from Harappan Archaeology",
+      "preview": "Option",
+      "metadata": {
+        "column_count": 1,
+        "row_count": 4,
+        "headers": [
+          "Option"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 246.09
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 136.688
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 987,
+      "markdown_body_line_end": 992,
+      "heading": "Verified-PYQ ownership and frequency",
+      "preview": "PYQ route | Audit judgement | What to retain",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "PYQ route",
+          "Audit judgement",
+          "What to retain"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 610.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    }
+  ]
+}

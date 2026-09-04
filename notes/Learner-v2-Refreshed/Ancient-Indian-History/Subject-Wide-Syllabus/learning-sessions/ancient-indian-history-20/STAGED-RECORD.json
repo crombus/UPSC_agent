@@ -1,0 +1,138 @@
+{
+  "record_id": "ancient-indian-history-20:learner-v2:g2",
+  "topic_key": "ancient-indian-history-20",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "ancient-indian-history-20:legacy-v1:g1",
+  "command": "Generate learner-v2 topic: Ancient History — Subject-wide Syllabus — The Gupta Empire",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\ancient-indian-history-20_Complete-Learning-Session_2026-08-29.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\ancient-indian-history-20_Solved-Practice-Workbook_2026-08-29.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\ancient-indian-history-20_Complete-Learning-Session_2026-08-29.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\ancient-indian-history-20_Solved-Practice-Workbook_2026-08-29.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\assets",
+  "generated_on": "2026-08-29",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\20_Gupta-Empire_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\India Ancient Past By RS Sharma.pdf",
+      "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf"
+    ],
+    "live_sources": [
+      "https://whc.unesco.org/en/tentativelists/6805/",
+      "https://culture.gov.in/ministry/our-groups/archaeology"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\ancient-indian-history-20_Complete-Learning-Session_2026-08-29.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.4"
+    },
+    "generation_date": "2026-08-29",
+    "superseded_v1": "ancient-indian-history-20:legacy-v1:g1",
+    "source_hashes": {
+      "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf": "86b9170d6fe89da5715441931fe46b0e3233f5cfef535cd03b16a52b811a63d6",
+      "books\\India Ancient Past By RS Sharma.pdf": "7f5ac4147164341682fefba935e6d00165df3894fb32133faa3b64ec09fa3e4f",
+      "notes\\Ancient-Indian-History\\20_Gupta-Empire_Complete-Topic-Package_2026-08-14.pdf": "1e5b77d4b676ed520c748e8c27967ca934c2d2dc0821a9f7de6177998c0e7977",
+      "notes\\Ancient-Indian-History\\20_Gupta-Empire_Solved-Workbook_2026-08-14.pdf": "3b33646a6e56453f96be2c0532f39a34844edf9143bd1237aa640703ce9c7ac8",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\01_evidence_led_chronology.png": "d5089770ee0e5fc86419de58d96335cd968ce5a8688d3749eace39568860b197",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\02_territorial_influence_schematic_map.png": "994b68b469b7c629b3db9fd056e0e5955ff81d0cac4330b0ba9579530e7dce4b",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\03_ruler_achievement_evidence_matrix.png": "402d203e7281cb8b79082dfa5bdd9c49f694417df4d8b273c18a3f56440f6de2",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\04_administration_hierarchy.png": "d16ca87be27ba2d6d034447c6b8af306cdad4f277fbd55b9b15dade72b57a410",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\05_land_grant_decentralisation_process.png": "d2b06f41cf132a890f56733da24a147c7824bcb159a0aef5985a6c205efe05aa",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\06_agrarian_fiscal_system_flow.png": "703aeedbb8ccfad1652160a04b9310e9aa1c00b92aa3cc727dc31590b35ca6b1",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\07_trade_coinage_transformation_matrix.png": "3dbc8f08e9790c47782a1be7ddab9742fa9786a5ba374fbca5159111fe5f6d83",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\08_social_order_evidence_diagram.png": "c9c67b545d4ab20c39b86d24f5641e3d14409159c8d89d72c3566c880d1c5c81",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\09_science_literature_art_ecosystem.png": "ca0a49fda53d6ab00a164d869bedad7a35857743049a20e12603da9d5474ee94",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\10_huna_late_gupta_pressure_chain.png": "0476a76ee8a55719e515d1f206cd862d1af037b216a8b941df25703ec763711b",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\11_historiography_debate_map.png": "495fd60946cd9df29a8416448ad36f5fc4610dcdb5afaba911c5e3afbb252504",
+      "notes\\Ancient-Indian-History\\assets\\20_Gupta-Empire\\12_gs1_answer_spine.png": "cd5d0a8d1a283c563dcb919ff8580e0732120145b1018f0a2576d05c1a6a99f8",
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md": "464741fbec0688a8a0532973cbafad1297104792edd5f7e64c604da49bbc9ecc",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\20_Gupta-Empire_Complete-Topic-Package.md": "68d83a660373289ed5eb45bbc3e0c28f24ff06e885d095105a0f5f844efa3b0e",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md": "b66590896d7a31e82bd276b67319536c02147be8504694b19194b70fc19e7288",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md": "a304a24c4a0dc27ad9076738277a3a275036ca9940b42cb255f46c777e26893b",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md": "b2e4e5e45df77fd8d69daf102cdd45afc03c8684a16798d9d386f4ed6f1f6880",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-20_Learning-Session.md": "3c17fc03ceeb51d6aa5cd9d205858a6d10f452e73dce85068513eed3b1b0f355",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "e48c71bcc0d3bd787fb3a40497e16fd9a86bbae8fed9fa55a433b96d222fea44",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md": "0deaf4535fa339716d3ca478423647cd18fe3636d5b33e8e1e5d6d26a8fd55bc",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md": "550a2a6babf1a1e863bbb85697eedc372abbeb27337132c9846ce877316fbd69",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-17-21-2026-08-29-sequential.json": "21d2b83993ed38307d8b8c835240af14cb219b7b654bcc6f15907f1c879fd54d",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-20.json": "4535b2e30cbc909b67e6ad451247e428da7116b13b953ec879941b9a725f3ffe",
+      "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json": "4cac86e0b85e0b0ec175862dee7679aa9adf2d05977995210b3fe6d192c9e89a",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "6 verified/routed PYQs; 32 broad and 8 remedial MCQs; 6 original solved Mains questions.",
+    "current_linkage_note": "UNESCO's serial tentative listing of Gupta temples was rechecked on 29 August 2026 and is used only for heritage attribution and conservation linkage.",
+    "pyq_status_note": "Locally held papers and routing ledgers control wording and ownership; unavailable official keys remain explicitly inferred or provisional.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "a629e5995c75dd88f2ade2106c43358118feb7c539a985c0a40a0275900cf48d"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "ancient-indian-history-20:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-29",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\ancient-indian-history-20_Graphical-Spec-g2.json",
+    "graphical_spec_sha256": "a4343993585fbceba61e6c5bbc18a0cbe1690eb8512a9ea7a096a8c4994371f3",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-17-21-2026-08-29-sequential.json",
+    "ascii_master_spec_sha256": "21d2b83993ed38307d8b8c835240af14cb219b7b654bcc6f15907f1c879fd54d"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

@@ -1,0 +1,3288 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g3\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g3\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "Central Asian Contacts: Indo-Greeks, Shakas, Pahlavas and Kushanas - Complete Topic Package",
+      "preview": "**Subject:** Ancient Indian History | **Paper:** Prelims GS-I + GS-I | **Topic:** 16 | **Date:** 13 August 2026  **Evidence key:** FACT = supported directly by named source; INTERPRETATION = analytical reading; INFERENCE = bounded reconstru",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 18,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 653.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 501.422
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 22,
+      "markdown_body_line_end": 28,
+      "heading": "Sources actually used",
+      "preview": "Source class | Exact source | Use and caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source class",
+          "Exact source",
+          "Use and caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 476.422
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 233.82
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 40,
+      "markdown_body_line_end": 47,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 536.29
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 69,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g3\\assets\\ancient-indian-history-16_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 238.89
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 83,
+      "markdown_body_line_end": 83,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: The most useful frame is a connected frontier world linking Bactria, Gandhara, Punjab, Mathura, western India and long-distance routes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 322.556
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 255.888
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 110,
+      "heading": "Compact visual",
+      "preview": "POLITICAL MOVEMENTS (schematic; not a single-file succession)",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 119,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 664.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 532.49
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 165,
+      "heading": "CLOSING RECALL FLOW - SCOPE: CONNECTED FRONTIER WORLDS, NOT ONE FOREIGN WAVE",
+      "preview": "START / CONCEPT: Scope: connected frontier worlds, not one foreign wave",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 176,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Use a route map plus a geography qualification: corridors connected nodes, not every locality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 209,
+      "heading": "Compact visual",
+      "preview": "TEXT MIGRATION-ROUTE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 218,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 604.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 456.39
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 264,
+      "heading": "CLOSING RECALL FLOW - ROUTES AND POLITICAL MOVEMENT: GEOGRAPHY AS OPPORTUNITY AND CONSTRAINT",
+      "preview": "START / CONCEPT: Routes and political movement: geography as opportunity and constraint",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 275,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "COIN RULE: ruler names are strongest for attribution, but coin distribution is not a ready-made political map.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 423.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 371.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 298,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 597.89
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 344,
+      "heading": "CLOSING RECALL FLOW - SOURCE MATRIX: HOW THE PERIOD IS RECONSTRUCTED",
+      "preview": "START / CONCEPT: Source matrix: how the period is reconstructed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 242.69
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 355,
+      "markdown_body_line_end": 355,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The safest chronology is a sequence of broad phases with explicit overlaps.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 381,
+      "heading": "Timeline",
+      "preview": "Date/phase | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date/phase",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 210.622
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 390,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 188.622
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 40.72
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 436,
+      "heading": "CLOSING RECALL FLOW - CHRONOLOGY FIREWALL: RANGES, OVERLAP AND DEBATED ERAS",
+      "preview": "START / CONCEPT: Chronology firewall: ranges, overlap and debated eras",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 454.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 253.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 447,
+      "markdown_body_line_end": 447,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Political plurality + numismatic innovation is the core Indo-Greek thesis.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 141.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 89.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 469,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 633.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 485.59
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 515,
+      "heading": "CLOSING RECALL FLOW - INDO-GREEK FORMATION, GEOGRAPHY AND POLITICAL PLURALITY",
+      "preview": "START / CONCEPT: Indo-Greek formation, geography and political plurality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 526,
+      "markdown_body_line_end": 526,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indo-Greek coins are unusually informative because portraits, royal names, bilingual legends and reverse motifs can be combined.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 553,
+      "heading": "Compact visual",
+      "preview": "COIN-READING GUIDE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 562,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 664.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 516.39
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 608,
+      "heading": "CLOSING RECALL FLOW - READING INDO-GREEK COINS: INNOVATION, AUTHORITY AND LIMITS",
+      "preview": "START / CONCEPT: Reading Indo-Greek coins: innovation, authority and limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 619,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Menander is unusually visible through a large coin corpus and Buddhist memory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 460.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 408.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 636,
+      "markdown_body_line_end": 641,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 185.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 47.622
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 687,
+      "heading": "CLOSING RECALL FLOW - MENANDER AND THE MILINDAPANHO: HISTORICAL VALUE WITHOUT LITERALISM",
+      "preview": "START / CONCEPT: Menander and the Milindapanho: historical value without literalism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 426.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 215.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 698,
+      "markdown_body_line_end": 698,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Use Heliodorus as precise evidence for reciprocal adaptation, not vague 'Indianisation'.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 715,
+      "markdown_body_line_end": 720,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 399.922
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 766,
+      "heading": "CLOSING RECALL FLOW - HELIODORUS PILLAR: DIPLOMACY, BHAGAVATA AFFILIATION AND CULTURAL AGENCY",
+      "preview": "START / CONCEPT: Heliodorus pillar: diplomacy, Bhagavata affiliation and cultural agency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 777,
+      "markdown_body_line_end": 777,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Organise Shaka history by region and branch, not by a memorised undifferentiated list.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 452.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 400.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 805,
+      "heading": "Compact visual",
+      "preview": "SHAKA REGIONAL SPREAD (bounded)",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 186.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 75.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 809,
+      "markdown_body_line_end": 814,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 639.39
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 843,
+      "markdown_body_line_end": 860,
+      "heading": "CLOSING RECALL FLOW - SHAKA MOVEMENTS AND REGIONAL BRANCHES",
+      "preview": "START / CONCEPT: Shaka movements and regional branches",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 269.99
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 48.99
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 871,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It enabled expansion and delegated rule, but also allowed subordinates and junior lines to accumulate autonomous power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 901,
+      "heading": "Compact visual",
+      "preview": "SATrap SYSTEM (ideal type; actual practice varied)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 408.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 277.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 905,
+      "markdown_body_line_end": 910,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 255.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 107.122
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 956,
+      "heading": "CLOSING RECALL FLOW - SATRAP AND KSHATRAPA SYSTEM: DELEGATED RULE AND AUTONOMY",
+      "preview": "START / CONCEPT: Satrap and kshatrapa system: delegated rule and autonomy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 504.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 303.491
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 967,
+      "markdown_body_line_end": 967,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nahapana's authority is reconstructed from coins and the donative inscriptions of his son-in-law Ushavadata.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 177.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 125.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 989,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 537.19
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1035,
+      "heading": "CLOSING RECALL FLOW - NAHAPANA, USHAVADATA AND THE SATAVAHANA BOUNDARY",
+      "preview": "START / CONCEPT: Nahapana, Ushavadata and the Satavahana boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 139
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1046,
+      "markdown_body_line_end": 1046,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Junagadh is the first long Sanskrit inscription in the subcontinent in Upinder Singh's account.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1068,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 175.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 48.122
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1114,
+      "heading": "CLOSING RECALL FLOW - CHASHTANA, RUDRADAMAN AND THE JUNAGADH INSCRIPTION",
+      "preview": "START / CONCEPT: Chashtana, Rudradaman and the Junagadh inscription",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 468.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 267.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1125,
+      "markdown_body_line_end": 1125,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indo-Parthian rule in the north-west was shorter and less extensive than several neighbouring polities, but Gondophares is securely anchored by coins and the Takht-i-Bahi inscription.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 127.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 60.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1147,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 452.39
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1176,
+      "markdown_body_line_end": 1193,
+      "heading": "CLOSING RECALL FLOW - PAHLAVAS AND GONDOPHARES: A BOUNDED TRANSITIONAL POLITY",
+      "preview": "START / CONCEPT: Pahlavas and Gondophares: a bounded transitional polity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1204,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: Kushana state formation was a multi-stage political consolidation, not a single invasion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1235,
+      "heading": "Compact visual",
+      "preview": "FORMATION MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1239,
+      "markdown_body_line_end": 1244,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 624.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 486.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1290,
+      "heading": "CLOSING RECALL FLOW - GREAT YUEZHI TO KUSHANAS: FORMATION ACROSS CENTRAL ASIA AND BACTRIA",
+      "preview": "START / CONCEPT: Great Yuezhi to Kushanas: formation across Central Asia and Bactria",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1301,
+      "markdown_body_line_end": 1301,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vasudeva is a Kushana ruler with an Indian name; the name alone does not prove a one-way conversion narrative.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 423.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 371.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1325,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 566.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1371,
+      "heading": "CLOSING RECALL FLOW - KUSHANA RULER-EVIDENCE MATRIX: KUJULA TO VASUDEVA",
+      "preview": "START / CONCEPT: Kushana ruler-evidence matrix: Kujula to Vasudeva",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1382,
+      "markdown_body_line_end": 1382,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rabatak is written in Bactrian using Greek script and presents Kanishka as king of kings and son of the gods.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 398.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1399,
+      "markdown_body_line_end": 1404,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 189.224
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 41.322
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1433,
+      "markdown_body_line_end": 1450,
+      "heading": "CLOSING RECALL FLOW - KANISHKA: CHRONOLOGY, RABATAK AND COUNCIL TRADITIONS",
+      "preview": "START / CONCEPT: Kanishka: chronology, Rabatak and council traditions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 411.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 190.491
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1461,
+      "markdown_body_line_end": 1461,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kushana power joined Bactria, Afghanistan, Gandhara and major north-Indian nodes, but direct control, subordinate kshatrapa rule and wider influence formed different tiers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1478,
+      "markdown_body_line_end": 1490,
+      "heading": "Compact visual",
+      "preview": "KUSHANA NETWORK MAP (schematic)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 528.624
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 407.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1494,
+      "markdown_body_line_end": 1499,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 385.624
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 248.222
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1528,
+      "markdown_body_line_end": 1545,
+      "heading": "CLOSING RECALL FLOW - KUSHANA GEOGRAPHY AND TIERED ADMINISTRATION",
+      "preview": "START / CONCEPT: Kushana geography and tiered administration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 443.091
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1556,
+      "markdown_body_line_end": 1556,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "'Tolerance' is too simple if it ignores legitimation, mint policy and royal hierarchy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 350.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 298.224
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1573,
+      "markdown_body_line_end": 1578,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 649.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1607,
+      "markdown_body_line_end": 1624,
+      "heading": "CLOSING RECALL FLOW - KUSHANA COINS, TITLES AND ROYAL IDEOLOGY",
+      "preview": "START / CONCEPT: Kushana coins, titles and royal ideology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 294.69
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 73.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1635,
+      "markdown_body_line_end": 1635,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "'Silk Road control' should mean strategic participation and taxation, not exclusive ownership of all movement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1652,
+      "markdown_body_line_end": 1666,
+      "heading": "Compact visual",
+      "preview": "TRADE FLOW (evidence-led)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 422.224
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 281.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1670,
+      "markdown_body_line_end": 1675,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 259.224
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 111.322
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1705,
+      "markdown_body_line_end": 1722,
+      "heading": "CLOSING RECALL FLOW - ECONOMY AND TRADE: SILK ROAD, ROMAN WORLD AND MONETISATION",
+      "preview": "START / CONCEPT: Economy and trade: Silk Road, Roman world and monetisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 139
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 458.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 257.891
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1733,
+      "markdown_body_line_end": 1733,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kanishka's Buddhist patronage was important, but Mahayana development and image worship were multi-centred processes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 132.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 65.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1750,
+      "markdown_body_line_end": 1755,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 452.39
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1784,
+      "markdown_body_line_end": 1801,
+      "heading": "CLOSING RECALL FLOW - RELIGION: PATRONAGE, PLURAL CULTS AND MAHAYANA CAUTION",
+      "preview": "START / CONCEPT: Religion: patronage, plural cults and Mahayana caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1812,
+      "markdown_body_line_end": 1812,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gandhara is regional and Buddhist, not pure Greek.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 394.024
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1829,
+      "markdown_body_line_end": 1834,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 639.39
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1864,
+      "markdown_body_line_end": 1881,
+      "heading": "CLOSING RECALL FLOW - GANDHARA ART: REGIONAL BUDDHIST PRODUCTION IN A LAYERED VISUAL IDIOM",
+      "preview": "START / CONCEPT: Gandhara art: regional Buddhist production in a layered visual idiom",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 301
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1892,
+      "markdown_body_line_end": 1892,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mathura was not a derivative of Gandhara.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 351.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1909,
+      "markdown_body_line_end": 1914,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 628.89
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1943,
+      "markdown_body_line_end": 1960,
+      "heading": "CLOSING RECALL FLOW - MATHURA ART: INDIGENOUS IDIOMS, PLURAL RELIGIONS AND KUSHANA POWER",
+      "preview": "START / CONCEPT: Mathura art: indigenous idioms, plural religions and Kushana power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 246.49
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 45.49
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1971,
+      "markdown_body_line_end": 1971,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gandhara and Mathura are both central to the debate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1988,
+      "markdown_body_line_end": 1993,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 279.322
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2022,
+      "markdown_body_line_end": 2039,
+      "heading": "CLOSING RECALL FLOW - BUDDHA IMAGE EMERGENCE: MULTIPLE CENTRES, PATRONS AND DEBATES",
+      "preview": "START / CONCEPT: Buddha image emergence: multiple centres, patrons and debates",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 150
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 651.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 450.091
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2050,
+      "markdown_body_line_end": 2050,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Language and script are separate variables.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 310.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2067,
+      "markdown_body_line_end": 2072,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 639.39
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2101,
+      "markdown_body_line_end": 2118,
+      "heading": "CLOSING RECALL FLOW - LANGUAGE, SCRIPTS, LITERATURE AND EVIDENCE-SUPPORTED KNOWLEDGE EXCHANGE",
+      "preview": "START / CONCEPT: Language, scripts, literature and evidence-supported knowledge exchange",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 256.99
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 55.99
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2129,
+      "markdown_body_line_end": 2129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Social absorption was negotiated, not automatic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 702.891
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2146,
+      "markdown_body_line_end": 2151,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 293.522
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2180,
+      "markdown_body_line_end": 2197,
+      "heading": "CLOSING RECALL FLOW - SOCIAL INTEGRATION, MOBILITY, MERCHANTS AND GUILDS",
+      "preview": "START / CONCEPT: Social integration, mobility, merchants and guilds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 483.091
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2208,
+      "markdown_body_line_end": 2208,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: A strong conclusion calls the process reciprocal but unequal and regionally varied.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 343.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 290.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2225,
+      "markdown_body_line_end": 2239,
+      "heading": "Compact visual",
+      "preview": "CULTURAL-SYNTHESIS MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2243,
+      "markdown_body_line_end": 2248,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 624.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 486.89
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2277,
+      "markdown_body_line_end": 2294,
+      "heading": "CLOSING RECALL FLOW - CULTURAL-SYNTHESIS MODEL: ADAPTATION, LEGITIMATION AND NEW FORMS",
+      "preview": "START / CONCEPT: Cultural-synthesis model: adaptation, legitimation and new forms",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2305,
+      "markdown_body_line_end": 2305,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "POLITICAL SIGNIFICANCE: frontier origin became a resource for multi-centred sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2322,
+      "markdown_body_line_end": 2328,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 608.39
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2358,
+      "markdown_body_line_end": 2375,
+      "heading": "CLOSING RECALL FLOW - POLITICAL, ECONOMIC AND CULTURAL SIGNIFICANCE",
+      "preview": "START / CONCEPT: Political, economic and cultural significance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 250.19
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 39.19
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2386,
+      "markdown_body_line_end": 2386,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wrong: One external invasion explains all fragmentation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2403,
+      "markdown_body_line_end": 2408,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 254.622
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2437,
+      "markdown_body_line_end": 2454,
+      "heading": "CLOSING RECALL FLOW - DECLINE, FRAGMENTATION AND BOUNDED SUCCESSORS",
+      "preview": "START / CONCEPT: Decline, fragmentation and bounded successors",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 483.091
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2461,
+      "markdown_body_line_end": 2472,
+      "heading": "Compact visual",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 402.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 291.691
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2476,
+      "markdown_body_line_end": 2482,
+      "heading": "Evidence/comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 269.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 139.09
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3691,
+      "markdown_body_line_end": 3694,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, Ch-8 \"Interaction and Innovation,",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 385.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 298.224
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3700,
+      "markdown_body_line_end": 3706,
+      "heading": "Mini-timeline",
+      "preview": "Date / phase | Marker | Analytical significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Date / phase",
+          "Marker",
+          "Analytical significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 270.724
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 95.322
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3729,
+      "markdown_body_line_end": 3736,
+      "heading": "2. Key classification / data",
+      "preview": "Theme | Upinder-safe reading",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Theme",
+          "Upinder-safe reading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 429.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 277.49
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3740,
+      "markdown_body_line_end": 3742,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Upinder Singh Ch-8 → Interaction and Innovation, c.200 BCE–300 CE. **Study link:** ⚠️ Compare with `advanced/12_Iranian-and-Macedonian-Invasions.md`: Alexander is a prelude; Indo-Greeks/Kushanas are the deeper contact phas",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 252.49
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 179.422
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3755,
+      "markdown_body_line_end": 3755,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not equate **foreign origin** with **cultural separateness**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 754.824
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3774,
+      "markdown_body_line_end": 3778,
+      "heading": "➕ Gandhara vs Mathura quick lens",
+      "preview": "Dimension | Gandhara | Mathura",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "Gandhara",
+          "Mathura"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 483.424
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 395.222
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3783,
+      "markdown_body_line_end": 3784,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 370.222
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 325.554
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3790,
+      "markdown_body_line_end": 3792,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 273.954
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 177.053
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3798,
+      "markdown_body_line_end": 3798,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 137.853
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 93.185
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4001,
+      "markdown_body_line_end": 4010,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Connected frontier polities, not one invasion wave",
+      "preview": "BACTRIA / OXUS / CENTRAL ASIA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 398.091
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 305.491
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4014,
+      "markdown_body_line_end": 4023,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Indo-Greek political and numismatic profile",
+      "preview": "GRECO-BACTRIAN EXPANSION SOUTH OF HINDU KUSH",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4027,
+      "markdown_body_line_end": 4036,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Menander and Heliodorus: two contact mechanisms",
+      "preview": "MENANDER / MILINDA                HELIODORUS PILLAR",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4040,
+      "markdown_body_line_end": 4049,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Shakas, Pahlavas and Kshatrapa rule",
+      "preview": "SHAKA MOVEMENTS -> regional branches and satrapal/kshatrapa titles",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4053,
+      "markdown_body_line_end": 4062,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Kushana formation and chronology",
+      "preview": "GREAT YUEZHI MOVEMENT -> BACTRIA -> GUISHUANG / KUSHANA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 350.891
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4066,
+      "markdown_body_line_end": 4075,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Kushana political geography and governance",
+      "preview": "BACTRIA / BEGRAM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 328.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 236.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4079,
+      "markdown_body_line_end": 4088,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Coins, trade and route participation",
+      "preview": "SILK-ROUTE BRANCHES + INDIAN OCEAN LINKS + INNER-ASIAN CORRIDORS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4092,
+      "markdown_body_line_end": 4101,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Religious plurality and Buddhist patronage",
+      "preview": "COINS: Iranian, Greek, Indian and Buddhist deities across rulers",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4105,
+      "markdown_body_line_end": 4114,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Gandhara and Mathura compared",
+      "preview": "GANDHARA                         MATHURA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4118,
+      "markdown_body_line_end": 4127,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Language, script and knowledge exchange",
+      "preview": "GREEK + KHAROSTHI on Indo-Greek and north-western coins",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 350.891
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4131,
+      "markdown_body_line_end": 4140,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Mutual impact, adaptation and decline",
+      "preview": "INCOMING: coin portraiture, titles, artistic forms and route connections",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 328.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 236.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4144,
+      "markdown_body_line_end": 4153,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Examiner-ready Central Asian contacts spine",
+      "preview": "INTRO: separate Indo-Greeks, Shakas, Pahlavas and Kushanas by time and region.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    }
+  ]
+}

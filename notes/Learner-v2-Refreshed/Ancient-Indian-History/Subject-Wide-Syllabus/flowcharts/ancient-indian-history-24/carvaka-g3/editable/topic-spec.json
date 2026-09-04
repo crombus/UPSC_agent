@@ -1,0 +1,1207 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-24",
+  "subject": "Ancient-Indian-History",
+  "title": "DEVELOPMENTS IN PHILOSOPHY",
+  "short_route": "CHRONOLOGY AND EVIDENCE DISCIPLINE → AN ARGUMENTATIVE FIELD, NOT → VEDIC TO UPANISHADIC TRANSITION → SHRAMANA RECONFIGURATION → BUDDHIST PHILOSOPHICAL DEVELOPMENT → JAIN, AJIVIKA AND CHARVAKA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-24-deep-review-2026-08-30-g3.json",
+  "ascii_spec_sha256": "4db36f0b51f91786d66399a491cbf094a06c25820da7068982cdcb4182c129bc",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CHRONOLOGY AND EVIDENCE DISCIPLINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHRONOLOGY AND EVIDENCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "VEDIC HORIZON",
+          "role": "outcome"
+        },
+        {
+          "text": "RTA, SACRIFICE, SACRED SPEECH AND SPECULATIVE HYMNS",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY UPANISHADS",
+          "role": "evidence"
+        },
+        {
+          "text": "BRAHMAN, ATMAN, KARMA, REBIRTH AND MOKSHA DEBATES",
+          "role": "primary"
+        },
+        {
+          "text": "6TH-5TH C. BCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SECOND URBANISATION AND SHRAMANA CHALLENGES",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY HISTORIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VEDIC HORIZON → rta, sacrifice, sacred speech and speculative hymns",
+        "EARLY UPANISHADS → brahman, atman, karma, rebirth and moksha debates",
+        "6th-5th c. BCE → second urbanisation and shramana challenges",
+        "EARLY HISTORIC → sutra traditions and sharper school identities",
+        "2nd c. CE → RS Sharma places Badarayana's Brahmasutra"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "VEDIC HORIZON → rta, sacrifice, sacred speech and speculative hymns",
+            "EARLY UPANISHADS → brahman, atman, karma, rebirth and moksha debates",
+            "6th-5th c. BCE → second urbanisation and shramana challenges"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "EARLY HISTORIC → sutra traditions and sharper school identities",
+            "2nd c. CE → RS Sharma places Badarayana's Brahmasutra",
+            "EARLY MEDIEVAL → commentary, logic and later doxographic ordering"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE: date texts and school formation cautiously; use rival-source triangulation."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: date texts and school formation cautiously; use rival-source triangulation.",
+      "answer_line": "date texts and school formation cautiously; use rival-source triangulation.",
+      "source_references": [
+        "Scope",
+        "Chronology",
+        "Evidence discipline",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AN ARGUMENTATIVE FIELD, NOT ONE DOCTRINE",
+      "structural_type": "concept-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AN ARGUMENTATIVE FIELD, NOT ONE DOCTRINE",
+          "role": "caution"
+        },
+        {
+          "text": "A VIEWPOINT OR WAY OF SEEING",
+          "role": "outcome"
+        },
+        {
+          "text": "INQUIRY AS A NAMED KNOWLEDGE BRANCH",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT IS REAL? HOW IS KNOWLEDGE VALID? WHAT BINDS?",
+          "role": "evidence"
+        },
+        {
+          "text": "DIALOGUE + APHORISM + COMMENTARY + DEBATE + DISCIPLINED",
+          "role": "primary"
+        },
+        {
+          "text": "WORLDLY AIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "DHARMA + ARTHA + KAMA",
+          "role": "comparison"
+        },
+        {
+          "text": "LIBERATION AIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DARSHANA → a viewpoint or way of seeing",
+        "ANVIKSIKI → inquiry as a named knowledge branch",
+        "QUESTIONS → What is real? How is knowledge valid? What binds? What liberates?",
+        "METHODS → dialogue + aphorism + commentary + debate + disciplined practice",
+        "WORLDLY AIMS → dharma + artha + kama"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DARSHANA → a viewpoint or way of seeing",
+            "ANVIKSIKI → inquiry as a named knowledge branch",
+            "QUESTIONS → What is real? How is knowledge valid? What binds? What liberates?"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "METHODS → dialogue + aphorism + commentary + debate + disciplined practice",
+            "WORLDLY AIMS → dharma + artha + kama",
+            "LIBERATION AIM → moksha develops alongside worldly concerns"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: plurality and contest are structural, not later exceptions."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: plurality and contest are structural, not later exceptions.",
+      "answer_line": "plurality and contest are structural, not later exceptions.",
+      "source_references": [
+        "Darshana",
+        "Anviksiki",
+        "Purusharthas",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "VEDIC TO UPANISHADIC TRANSITION",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "VEDIC TO UPANISHADIC TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "SACRED SPEECH SPECULATIVE HYMNS QUESTION ORIGIN, ORDER AND KNOWLEDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARANYAKAS AND UPANISHADS INTERIORISE RITUAL AND STAGE DIALOGUES",
+          "role": "comparison"
+        },
+        {
+          "text": "BRAHMAN + ATMAN + KARMA + REBIRTH + RELEASE",
+          "role": "evidence"
+        },
+        {
+          "text": "INHERITED VOCABULARY AND RITUAL SETTING",
+          "role": "primary"
+        },
+        {
+          "text": "KNOWLEDGE AND SELF-INQUIRY GAIN SHARPER LIBERATING FORCE.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "RTA / YAJNA / SACRED SPEECH speculative hymns question origin, order and knowledge",
+        "Aranyakas and Upanishads interiorise ritual and stage dialogues",
+        "BRAHMAN + ATMAN + KARMA + REBIRTH + RELEASE",
+        "CONTINUITY: inherited vocabulary and ritual setting",
+        "CHANGE: knowledge and self-inquiry gain sharper liberating force."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RTA / YAJNA / SACRED SPEECH speculative hymns question origin, order and knowledge",
+            "Aranyakas and Upanishads interiorise ritual and stage dialogues"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BRAHMAN + ATMAN + KARMA + REBIRTH + RELEASE",
+            "CONTINUITY: inherited vocabulary and ritual setting"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CHANGE: knowledge and self-inquiry gain sharper liberating force.",
+            "RTA / YAJNA / SACRED SPEECH speculative hymns question origin, order and knowledge"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHANGE: knowledge and self-inquiry gain sharper liberating force.",
+      "source_references": [
+        "Vedic background",
+        "Upanishadic developments",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SHRAMANA RECONFIGURATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SHRAMANA RECONFIGURATION",
+          "role": "primary"
+        },
+        {
+          "text": "TOWNS + STATES + MERCHANTS + RENOUNCERS + DEBATE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONDITIONED ARISING, NON-SELF, SUFFERING AND DISCIPLINED PATH",
+          "role": "comparison"
+        },
+        {
+          "text": "JIVA, KARMIC MATTER, MANY-SIDEDNESS AND RIGOROUS RESTRAINT",
+          "role": "evidence"
+        },
+        {
+          "text": "NIYATI AND ASCETIC DISCIPLINE; MOSTLY HOSTILE EXTERNAL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "MATERIALIST AND SCEPTICAL CRITIQUE; TEXTS LARGELY LOST",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMON MOVE",
+          "role": "comparison"
+        },
+        {
+          "text": "CHALLENGE RITUAL MONOPOLY AND RETHINK ACTION, BONDAGE AND RELEASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONTEXT → towns + states + merchants + renouncers + debate",
+        "BUDDHISM → conditioned arising, non-self, suffering and disciplined path",
+        "JAINISM → jiva, karmic matter, many-sidedness and rigorous restraint",
+        "AJIVIKA → niyati and ascetic discipline; mostly hostile external evidence",
+        "LOKAYATA → materialist and sceptical critique; texts largely lost"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CONTEXT → towns + states + merchants + renouncers + debate",
+          "AJIVIKA → niyati and ascetic discipline; mostly hostile external evidence",
+          "LIMIT → shramana schools disagreed profoundly with one another."
+        ],
+        [
+          "BUDDHISM → conditioned arising, non-self, suffering and disciplined path",
+          "LOKAYATA → materialist and sceptical critique; texts largely lost",
+          ""
+        ],
+        [
+          "JAINISM → jiva, karmic matter, many-sidedness and rigorous restraint",
+          "COMMON MOVE → challenge ritual monopoly and rethink action, bondage and release",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CONTEXT → towns + states + merchants + renouncers + debate",
+            "BUDDHISM → conditioned arising, non-self, suffering and disciplined path",
+            "JAINISM → jiva, karmic matter, many-sidedness and rigorous restraint"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AJIVIKA → niyati and ascetic discipline; mostly hostile external evidence",
+            "LOKAYATA → materialist and sceptical critique; texts largely lost",
+            "COMMON MOVE → challenge ritual monopoly and rethink action, bondage and release"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT → shramana schools disagreed profoundly with one another."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → shramana schools disagreed profoundly with one another.",
+      "source_references": [
+        "Shramana milieu",
+        "Buddhism",
+        "Jainism",
+        "Ajivikas",
+        "Lokayata",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BUDDHIST PHILOSOPHICAL DEVELOPMENT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BUDDHIST PHILOSOPHICAL DEVELOPMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUR TRUTHS + DEPENDENT ARISING + NON-SELF",
+          "role": "comparison"
+        },
+        {
+          "text": "ANALYTICAL CLASSIFICATION OF EXPERIENCED PROCESSES",
+          "role": "evidence"
+        },
+        {
+          "text": "BODHISATTVA HORIZON AND EXPANDED TEXTUAL WORLDS",
+          "role": "primary"
+        },
+        {
+          "text": "EMPTINESS AS DEPENDENT EXISTENCE, NOT NIHILISM",
+          "role": "caution"
+        },
+        {
+          "text": "ANALYSIS OF COGNITION AND REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGNAGA TRADITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARLY CORE → four truths + dependent arising + non-self",
+        "ABHIDHARMA → analytical classification of experienced processes",
+        "MAHAYANA → bodhisattva horizon and expanded textual worlds",
+        "MADHYAMAKA → emptiness as dependent existence, not nihilism",
+        "YOGACARA → analysis of cognition and representation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "EARLY CORE → four truths + dependent arising + non-self",
+            "ABHIDHARMA → analytical classification of experienced processes",
+            "MAHAYANA → bodhisattva horizon and expanded textual worlds"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "MADHYAMAKA → emptiness as dependent existence, not nihilism",
+            "YOGACARA → analysis of cognition and representation",
+            "DIGNAGA TRADITION → sharper Buddhist epistemology and logic"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: later developments must not be projected into the earliest canon."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: later developments must not be projected into the earliest canon.",
+      "source_references": [
+        "Early Buddhism",
+        "Abhidharma",
+        "Mahayana",
+        "Madhyamaka",
+        "Yogacara",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "JAIN, AJIVIKA AND CHARVAKA EVIDENCE MATRIX",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JAIN, AJIVIKA AND CHARVAKA EVIDENCE MATRIX",
+          "role": "evidence"
+        },
+        {
+          "text": "OWN CANONS + LATER TEXTS",
+          "role": "outcome"
+        },
+        {
+          "text": "JIVA, KARMA, ANEKANTA, SYADVADA",
+          "role": "comparison"
+        },
+        {
+          "text": "BUDDHIST/JAINA REPORTS + ARCHAEOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "NIYATI; HOSTILE-SOURCE PROBLEM",
+          "role": "evidence"
+        },
+        {
+          "text": "OPPONENTS' SUMMARIES",
+          "role": "outcome"
+        },
+        {
+          "text": "PERCEPTION AND MATERIALIST CRITICISM",
+          "role": "comparison"
+        },
+        {
+          "text": "REALITY HAS MULTIPLE ASPECTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JAINA → own canons + later texts",
+        "jiva, karma, anekanta, syadvada",
+        "AJIVIKA → Buddhist/Jaina reports + archaeology",
+        "niyati; hostile-source problem",
+        "CHARVAKA → opponents' summaries"
+      ],
+      "matrix": [
+        [
+          "JAINA → own canons + later texts",
+          "jiva, karma, anekanta, syadvada"
+        ],
+        [
+          "AJIVIKA → Buddhist/Jaina reports + archaeology",
+          "niyati; hostile-source problem"
+        ],
+        [
+          "CHARVAKA → opponents' summaries",
+          "perception and materialist criticism"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "JAINA → own canons + later texts",
+            "jiva, karma, anekanta, syadvada",
+            "AJIVIKA → Buddhist/Jaina reports + archaeology",
+            "niyati; hostile-source problem"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "CHARVAKA → opponents' summaries",
+            "perception and materialist criticism",
+            "ANEKANTAVADA → reality has multiple aspects",
+            "SYADVADA → conditional predication; not random indecision"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "HARD RULE → secure core claim before later anecdote",
+            "VERDICT: source survival shapes how confidently each school can be reconstructed."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: source survival shapes how confidently each school can be reconstructed.",
+      "answer_line": "source survival shapes how confidently each school can be reconstructed.",
+      "source_references": [
+        "Jain philosophy",
+        "Ajivikas",
+        "Charvaka",
+        "Source criticism",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ASTIKA, NASTIKA AND THE SIX-SCHOOL CAVEAT",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ASTIKA, NASTIKA AND THE SIX-SCHOOL CAVEAT",
+          "role": "primary"
+        },
+        {
+          "text": "SIMPLE BELIEVER",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASSIFICATION AXES",
+          "role": "comparison"
+        },
+        {
+          "text": "VEDIC AUTHORITY, OTHER WORLD AND POLEMICAL USAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "SIX LATER ORTHODOX PAIRINGS",
+          "role": "primary"
+        },
+        {
+          "text": "SAMKHYA <→ YOGA",
+          "role": "outcome"
+        },
+        {
+          "text": "NYAYA <→ VAISHESHIKA",
+          "role": "comparison"
+        },
+        {
+          "text": "MIMAMSA <→ VEDANTA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ASTIKA / NASTIKA != simple believer / atheist",
+        "CLASSIFICATION AXES → Vedic authority, other world and polemical usage",
+        "SIX LATER ORTHODOX PAIRINGS",
+        "Samkhya <→ Yoga",
+        "Nyaya <→ Vaisheshika"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ASTIKA / NASTIKA != simple believer / atheist",
+            "CLASSIFICATION AXES → Vedic authority, other world and polemical usage",
+            "SIX LATER ORTHODOX PAIRINGS"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Samkhya <→ Yoga",
+            "Nyaya <→ Vaisheshika",
+            "Mimamsa <→ Vedanta"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "OLDER TRADITIONS → real; neat six-school canon → later crystallisation",
+            "TRAP: do not make one timeless list govern every ancient century."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "do not make one timeless list govern every ancient century.",
+      "source_references": [
+        "Astika and nastika",
+        "Six darshanas",
+        "Doxography",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SAMKHYA AND YOGA",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SAMKHYA AND YOGA",
+          "role": "primary"
+        },
+        {
+          "text": "SAMKHYA YOGA PURUSHA",
+          "role": "outcome"
+        },
+        {
+          "text": "PRAKRITI RELATED METAPHYSICAL FRAMEWORK THREE GUNAS DISCIPLINED TRANSFORMATION OF",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCEPTUAL ANALYSIS <→ PRACTICAL DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL LAYERS COMPLICATE ONE FIXED FOUNDER-DATE STORY.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SAMKHYA YOGA purusha / prakriti related metaphysical framework three gunas disciplined transformation of mind real",
+        "evolution of prakriti citta-vritti-nirodha analytic tattva sequence eight-limbed practice discrimination liberates disciplined insight liberates",
+        "LINK: conceptual analysis <→ practical discipline",
+        "CAUTION: historical layers complicate one fixed founder-date story."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "SAMKHYA YOGA purusha / prakriti related metaphysical framework three gunas disciplined transformation of mind real",
+          "LINK: conceptual analysis <→ practical discipline",
+          "SAMKHYA YOGA purusha / prakriti related metaphysical framework three gunas disciplined transformation of mind real"
+        ],
+        [
+          "evolution of prakriti citta-vritti-nirodha analytic tattva sequence eight-limbed practice discrimination liberates disciplined insight liberates",
+          "CAUTION: historical layers complicate one fixed founder-date story.",
+          "evolution of prakriti citta-vritti-nirodha analytic tattva sequence eight-limbed practice discrimination liberates disciplined insight liberates"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SAMKHYA YOGA purusha / prakriti related metaphysical framework three gunas disciplined transformation of mind real",
+            "evolution of prakriti citta-vritti-nirodha analytic tattva sequence eight-limbed practice discrimination liberates disciplined insight liberates"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LINK: conceptual analysis <→ practical discipline",
+            "CAUTION: historical layers complicate one fixed founder-date story."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SAMKHYA YOGA purusha / prakriti related metaphysical framework three gunas disciplined transformation of mind real",
+            "evolution of prakriti citta-vritti-nirodha analytic tattva sequence eight-limbed practice discrimination liberates disciplined insight liberates"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: historical layers complicate one fixed founder-date story.",
+      "source_references": [
+        "Samkhya",
+        "Yoga",
+        "Eight limbs",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NYAYA AND VAISHESHIKA",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NYAYA AND VAISHESHIKA",
+          "role": "primary"
+        },
+        {
+          "text": "NYAYA VAISHESHIKA VALID KNOWLEDGE CATEGORIES AND SUBSTANCES PERCEPTION +",
+          "role": "outcome"
+        },
+        {
+          "text": "EPISTEMIC METHOD <→ ANALYSIS OF WHAT EXISTS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN ATOMISM IS NOT IDENTICAL TO MODERN PARTICLE PHYSICS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NYAYA VAISHESHIKA valid knowledge categories and substances perception + inference atomistic analysis comparison +",
+        "testimony qualities, motion and inherence five-member inference padartha classification public reasoning realist ontology",
+        "LINK: epistemic method <→ analysis of what exists",
+        "TRAP: Indian atomism is not identical to modern particle physics."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "NYAYA VAISHESHIKA valid knowledge categories and substances perception + inference atomistic analysis comparison +",
+          "LINK: epistemic method <→ analysis of what exists",
+          "NYAYA VAISHESHIKA valid knowledge categories and substances perception + inference atomistic analysis comparison +"
+        ],
+        [
+          "testimony qualities, motion and inherence five-member inference padartha classification public reasoning realist ontology",
+          "TRAP: Indian atomism is not identical to modern particle physics.",
+          "testimony qualities, motion and inherence five-member inference padartha classification public reasoning realist ontology"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NYAYA VAISHESHIKA valid knowledge categories and substances perception + inference atomistic analysis comparison +",
+            "testimony qualities, motion and inherence five-member inference padartha classification public reasoning realist ontology"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LINK: epistemic method <→ analysis of what exists",
+            "TRAP: Indian atomism is not identical to modern particle physics."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "NYAYA VAISHESHIKA valid knowledge categories and substances perception + inference atomistic analysis comparison +",
+            "testimony qualities, motion and inherence five-member inference padartha classification public reasoning realist ontology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Indian atomism is not identical to modern particle physics.",
+      "source_references": [
+        "Nyaya",
+        "Vaisheshika",
+        "Pramanas",
+        "Atomism",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MIMAMSA AND EARLY VEDANTA",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MIMAMSA AND EARLY VEDANTA",
+          "role": "primary"
+        },
+        {
+          "text": "PURVA MIMAMSA UTTARA MIMAMSA",
+          "role": "outcome"
+        },
+        {
+          "text": "VEDIC INJUNCTION AND DHARMA UPANISHADS + GITA + BRAHMASUTRA",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY CORE",
+          "role": "evidence"
+        },
+        {
+          "text": "SHANKARA/RAMANUJA PROJECTED BACKWARD",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED CANON CAN SUSTAIN SHARPLY DIFFERENT PHILOSOPHICAL PROJECTS.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PURVA MIMAMSA UTTARA MIMAMSA / VEDANTA",
+        "Vedic injunction and dharma Upanishads + Gita + Brahmasutra ritual hermeneutics brahman, self and",
+        "liberation language and duty competing later interpretations textual authority central textual authority central",
+        "BOUNDARY: early core != Shankara/Ramanuja projected backward",
+        "VERDICT: shared canon can sustain sharply different philosophical projects."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "PURVA MIMAMSA UTTARA MIMAMSA / VEDANTA",
+          "liberation language and duty competing later interpretations textual authority central textual authority central",
+          "VERDICT: shared canon can sustain sharply different philosophical projects."
+        ],
+        [
+          "Vedic injunction and dharma Upanishads + Gita + Brahmasutra ritual hermeneutics brahman, self and",
+          "BOUNDARY: early core != Shankara/Ramanuja projected backward",
+          "PURVA MIMAMSA UTTARA MIMAMSA / VEDANTA"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PURVA MIMAMSA UTTARA MIMAMSA / VEDANTA",
+            "Vedic injunction and dharma Upanishads + Gita + Brahmasutra ritual hermeneutics brahman, self and"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "liberation language and duty competing later interpretations textual authority central textual authority central",
+            "BOUNDARY: early core != Shankara/Ramanuja projected backward"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: shared canon can sustain sharply different philosophical projects.",
+            "PURVA MIMAMSA UTTARA MIMAMSA / VEDANTA"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: shared canon can sustain sharply different philosophical projects.",
+      "answer_line": "shared canon can sustain sharply different philosophical projects.",
+      "source_references": [
+        "Mimamsa",
+        "Early Vedanta",
+        "Chronological boundaries",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PRAMANA AND METAPHYSICS COMPARISON",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRAMANA AND METAPHYSICS COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "OTHER DEBATES",
+          "role": "outcome"
+        },
+        {
+          "text": "ENDURING SELF",
+          "role": "comparison"
+        },
+        {
+          "text": "PLURAL SELVES",
+          "role": "evidence"
+        },
+        {
+          "text": "MATERIAL PERSON",
+          "role": "evidence"
+        },
+        {
+          "text": "NEW PRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPENDENT ARISING",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-DUAL READINGS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KNOWLEDGE → perception",
+        "other debates",
+        "SELF → enduring self",
+        "plural selves",
+        "material person"
+      ],
+      "matrix": [
+        [
+          "SELF → enduring self",
+          "plural selves",
+          "no-self",
+          "material person"
+        ],
+        [
+          "CAUSATION → transformation",
+          "new production",
+          "dependent arising",
+          ""
+        ],
+        [
+          "REALITY → substance/categories",
+          "process",
+          "non-dual readings",
+          "plural aspects"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KNOWLEDGE → perception",
+            "other debates",
+            "SELF → enduring self",
+            "plural selves",
+            "material person"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CAUSATION → transformation",
+            "new production",
+            "dependent arising",
+            "REALITY → substance/categories",
+            "non-dual readings"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "plural aspects",
+            "LIBERATION → knowledge",
+            "ethical restraint",
+            "METHOD → compare schools on one axis at a time",
+            "TRAP: do not assign every pramana to every school."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "do not assign every pramana to every school.",
+      "source_references": [
+        "Epistemology",
+        "Metaphysics",
+        "Causation",
+        "Liberation",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INSTITUTIONS, LANGUAGE AND ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INSTITUTIONS, LANGUAGE AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "TEACHER LINEAGES + MONASTERIES + COURTS + DEBATE HALLS",
+          "role": "outcome"
+        },
+        {
+          "text": "SANSKRIT + PALI + PRAKRIT + GRAMMATICAL ANALYSIS",
+          "role": "comparison"
+        },
+        {
+          "text": "PHILOSOPHY AS A CHRONOLOGICAL, PLURAL ARGUMENTATIVE FIELD",
+          "role": "evidence"
+        },
+        {
+          "text": "DARSHANA COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "NAMED TEXT OR THINKER + SOURCE LIMITATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CUMULATIVE BORROWING AND CONTEST, NOT SPIRITUAL HOMOGENEITY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TRANSMISSION → teacher lineages + monasteries + courts + debate halls",
+        "LANGUAGE → Sanskrit + Pali + Prakrit + grammatical analysis",
+        "FORM → sutra → commentary → counter-commentary",
+        "OPEN → philosophy as a chronological, plural argumentative field",
+        "BODY → Vedic/Upanishadic → shramana → darshana comparison"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TRANSMISSION → teacher lineages + monasteries + courts + debate halls",
+            "LANGUAGE → Sanskrit + Pali + Prakrit + grammatical analysis",
+            "FORM → sutra → commentary → counter-commentary"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "OPEN → philosophy as a chronological, plural argumentative field",
+            "BODY → Vedic/Upanishadic → shramana → darshana comparison",
+            "EVIDENCE → named text or thinker + source limitation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE → cumulative borrowing and contest, not spiritual homogeneity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → cumulative borrowing and contest, not spiritual homogeneity.",
+      "source_references": [
+        "Grammar and philosophy",
+        "Institutions",
+        "Answer architecture",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g3\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DEVELOPMENTS IN PHILOSOPHY — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Developments in Philosophy — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "The systems are often treated as pairs: Purva Mimamsa/Uttara Mimamsa (Vedanta) , Nyaya/Vaisheshika , and Samkhya/Yoga .",
+            "Astika/nastika labels do not simply mean \"theist/atheist\"",
+            "they relate to acceptance or rejection of authoritative frameworks such as Veda/other-world/transmigration in different traditions."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

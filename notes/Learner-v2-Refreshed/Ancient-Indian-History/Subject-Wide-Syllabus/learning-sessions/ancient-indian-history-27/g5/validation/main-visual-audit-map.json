@@ -1,0 +1,3068 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\ancient-indian-history-27_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\ancient-indian-history-27_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-27",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 8,
+      "markdown_body_line_end": 14,
+      "heading": "Ancient History 27 - Imperial Cholas: State, Society, Economy & Maritime Power - Complete Topic Package",
+      "preview": "**Subject:** Ancient Indian History | **Topic:** 27 | **Export date:** 2026-08-16  **Approval:** false - awaiting explicit user approval.  **Source order:** repository Markdown -> local OCR-searchable Upinder Singh, R. S. Sharma and owner-t",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 748.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 587.824
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 20,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 529.824
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 310.822
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\ancient-indian-history-27_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 701.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 393.556
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 106,
+      "markdown_body_line_end": 106,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Scope, source discipline, and owner boundaries comprises Scope, source discipline and owner boundaries as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 475.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 408.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 125,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "01. Chronology and evidence spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\01_chronology_evidence_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 131,
+      "markdown_body_line_end": 136,
+      "heading": "Source discipline grid",
+      "preview": "Source family | What it anchors securely | What it cannot do alone",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Source family",
+          "What it anchors securely",
+          "What it cannot do alone"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 268.754
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 163,
+      "markdown_body_line_end": 180,
+      "heading": "CLOSING RECALL FLOW - SCOPE, SOURCE DISCIPLINE, AND OWNER BOUNDARIES",
+      "preview": "START / CONCEPT: Scope, source discipline, and owner boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 635.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 404.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 191,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wrong: show the Chola realm as one solid block from the Maldives to Southeast Asia.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 264.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 212.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 210,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "02. Chola political geography",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\02_chola_political_geography_schematic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 688.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 381.356
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 223,
+      "heading": "Political geography table",
+      "preview": "Zone | Historical role | How to describe it safely",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Zone",
+          "Historical role",
+          "How to describe it safely"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 330.956
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 100.754
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 265,
+      "heading": "CLOSING RECALL FLOW - BACKGROUND AND POLITICAL GEOGRAPHY: FROM POST-SANGAM SOUTH TO THE CHOLA CORE",
+      "preview": "START / CONCEPT: Background and political geography: from post-Sangam south to the Chola core",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 528.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 276,
+      "markdown_body_line_end": 276,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kulottunga I is the boundary to the later phase, not the start of a wholly new subject unrelated to the earlier imperial Cholas.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 192.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 125.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 295,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "03. Ruler expansion and setback ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\03_ruler_expansion_setback_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 270.956
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 301,
+      "markdown_body_line_end": 310,
+      "heading": "Working chronology",
+      "preview": "Ruler / phase | Exam significance",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Ruler / phase",
+          "Exam significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 593.09
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 350,
+      "heading": "CLOSING RECALL FLOW - RULER SEQUENCE AND POLITICAL EXPANSION: VIJAYALAYA TO KULOTTUNGA I",
+      "preview": "START / CONCEPT: Ruler sequence and political expansion: Vijayalaya to Kulottunga I",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 284.49
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 73.49
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 361,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kaveri delta is a fiscal fact, not only a geographical fact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 380,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "04. Kaveri delta ecological core",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\04_kaveri_delta_ecological_core.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 334.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 391,
+      "heading": "Ecological mechanism table",
+      "preview": "Feature | Political-economic effect | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Political-economic effect",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 734.49
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 580.288
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 413,
+      "markdown_body_line_end": 430,
+      "heading": "CLOSING RECALL FLOW - WHY THE KAVERI DELTA MATTERED: ECOLOGY, IRRIGATION AND STATE CORE",
+      "preview": "START / CONCEPT: Why the Kaveri delta mattered: ecology, irrigation and state core",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 317.288
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 96.288
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 441,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chola kingship was therefore both coercive and ritual.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 702.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "05. Administrative hierarchy with variation caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\05_administrative_hierarchy_variation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 377.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 69.888
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 466,
+      "markdown_body_line_end": 472,
+      "heading": "Administrative ladder",
+      "preview": "Level | Working function | Care needed",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Level",
+          "Working function",
+          "Care needed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 623.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 495,
+      "markdown_body_line_end": 512,
+      "heading": "CLOSING RECALL FLOW - KINGSHIP, IMPERIAL IDIOM AND ADMINISTRATIVE HIERARCHY",
+      "preview": "START / CONCEPT: Kingship, imperial idiom and administrative hierarchy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 355.89
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 154.89
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 523,
+      "markdown_body_line_end": 523,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Local institutions were real, but none of them represented universal citizenship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 721.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 669.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 542,
+      "markdown_body_line_end": 542,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "06. Ur, sabha and nagaram compared",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\06_ur_sabha_nagaram_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 396.424
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 88.888
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 552,
+      "heading": "Core distinctions",
+      "preview": "Institution | Social base | Main role",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Institution",
+          "Social base",
+          "Main role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 665.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 575,
+      "markdown_body_line_end": 592,
+      "heading": "CLOSING RECALL FLOW - LOCAL INSTITUTIONS: UR, SABHA AND NAGARAM",
+      "preview": "START / CONCEPT: Local institutions: ur, sabha and nagaram",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 398.29
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 187.29
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 603,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Uttaramerur is tied to Parantaka I, not Rajendra's Srivijaya campaign.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 624,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. Uttaramerur kudavolai process",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\07_uttaramerur_kudavolai_process.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 436.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 128.688
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 630,
+      "markdown_body_line_end": 635,
+      "heading": "What the inscriptions actually help us say",
+      "preview": "Dimension | Safe conclusion",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Safe conclusion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 655.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 658,
+      "markdown_body_line_end": 675,
+      "heading": "CLOSING RECALL FLOW - UTTARAMERUR AND THE KUDAVOLAI SYSTEM",
+      "preview": "START / CONCEPT: Uttaramerur and the kudavolai system",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 374.09
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 163.09
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 686,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This is the heart of the \"negotiated state\" interpretation: local bodies were not evidence of state absence; they were channels through which state power was articulated, resisted, recorded and localized.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 707,
+      "markdown_body_line_end": 707,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "08. State-local negotiated power network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\08_state_local_negotiated_power_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 301.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 713,
+      "markdown_body_line_end": 718,
+      "heading": "Key institutional links",
+      "preview": "Link | What it shows",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Link",
+          "What it shows"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 335.954
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 758,
+      "heading": "CLOSING RECALL FLOW - NEGOTIATED LOCAL POWER: STATE, SABHA, NADU, TEMPLE AND SURVEY",
+      "preview": "START / CONCEPT: Negotiated local power: state, sabha, nadu, temple and survey",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 769,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The agrarian economy was not just \"agriculture happened\".",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 397.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 790,
+      "markdown_body_line_end": 790,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "09. Irrigation, land and tax process",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\09_irrigation_land_tax_process.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 802,
+      "heading": "Agrarian terms you should know",
+      "preview": "Term / cluster | Safe use in answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Term / cluster",
+          "Safe use in answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 314.754
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 843,
+      "heading": "CLOSING RECALL FLOW - LAND, IRRIGATION AND THE AGRARIAN ECONOMY",
+      "preview": "START / CONCEPT: Land, irrigation and the agrarian economy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 461
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 854,
+      "markdown_body_line_end": 854,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "In many Brahmana settlements the agraharam and brahmadeya world enjoyed privileges, but vellalas were also major cultivators and landholders.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 444.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 875,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Agrarian society matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\10_agrarian_society_social_groups_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 881,
+      "markdown_body_line_end": 886,
+      "heading": "Social differentiation table",
+      "preview": "Group | Broad historical role | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Group",
+          "Broad historical role",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 305.354
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 926,
+      "heading": "CLOSING RECALL FLOW - SOCIAL STRUCTURE: LANDHOLDERS, ARTISANS, LABOUR AND EXCLUSION",
+      "preview": "START / CONCEPT: Social structure: landholders, artisans, labour and exclusion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 937,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sembiyan Mahadevi and Kundavai are the two safest named women.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 489.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 437.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 958,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11. Gender and institutional hierarchy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\11_gender_donor_institution_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 964,
+      "markdown_body_line_end": 969,
+      "heading": "Evidence grid",
+      "preview": "Figure / category | What can be said safely",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Figure / category",
+          "What can be said safely"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 313.554
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 1009,
+      "heading": "CLOSING RECALL FLOW - GENDER, QUEENS, DONORS AND TEMPLE WOMEN",
+      "preview": "START / CONCEPT: Gender, queens, donors and temple women",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1020,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Overstating temple control is as misleading as reducing temples to \"mere religion\".",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 394.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1039,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "12. Temple institutional ecosystem",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\12_temple_institutional_ecosystem.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1051,
+      "heading": "Temple functions table",
+      "preview": "Function | Historical meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Function",
+          "Historical meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 314.754
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1074,
+      "markdown_body_line_end": 1091,
+      "heading": "CLOSING RECALL FLOW - TEMPLES AS POLITICAL-ECONOMIC-CULTURAL INSTITUTIONS",
+      "preview": "START / CONCEPT: Temples as political-economic-cultural institutions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1102,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "For Topic 27, the key is not to reproduce an Art & Culture manual, but to show how monumentality worked historically: as conquest memory, dynastic prestige, urban-centrality, labour mobilisation and temple institutional growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1123,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "13. Temple comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\13_brihadisvara_gkc_airavatesv-bc276764c1.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 448.156
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1129,
+      "markdown_body_line_end": 1133,
+      "heading": "Historical reading, not pure style chart",
+      "preview": "Monument | Historical use in answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Monument",
+          "Historical use in answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 397.756
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 309.554
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1156,
+      "markdown_body_line_end": 1173,
+      "heading": "CLOSING RECALL FLOW - ART, ARCHITECTURE AND MONUMENTALITY IN HISTORICAL SETTING",
+      "preview": "START / CONCEPT: Art, architecture and monumentality in historical setting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1184,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chola bronzes are among the most celebrated metal icons in Indian history, and they were produced through the lost-wax method.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1203,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. Bronze casting and Nataraja caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\14_bronze_lost_wax_and_nataraja_caution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1209,
+      "markdown_body_line_end": 1215,
+      "heading": "Nataraja interpretive spine",
+      "preview": "Element | Standard reading",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Standard reading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 328.954
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1237,
+      "markdown_body_line_end": 1254,
+      "heading": "CLOSING RECALL FLOW - BRONZES, LOST-WAX CASTING AND THE NATARAJA QUESTION",
+      "preview": "START / CONCEPT: Bronzes, lost-wax casting and the Nataraja question",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1265,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kamban and Sekkilar belong broadly to the later Chola cultural horizon, but their dates and exact court placements must not be flattened into one simplistic imperial moment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1284,
+      "markdown_body_line_end": 1284,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "15. Religion, language and court culture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\15_religion_language_court_culture_field.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1290,
+      "markdown_body_line_end": 1296,
+      "heading": "Cultural field table",
+      "preview": "Theme | Historically safe statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Theme",
+          "Historically safe statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 328.954
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1335,
+      "heading": "CLOSING RECALL FLOW - RELIGION, LANGUAGE AND COURT CULTURE",
+      "preview": "START / CONCEPT: Religion, language and court culture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1346,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Strong merchant guilds do not prove a fully monetised market economy of the modern type.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 398.224
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1367,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "16. Merchant guild network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\16_merchant_guild_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1373,
+      "markdown_body_line_end": 1378,
+      "heading": "Commercial clusters",
+      "preview": "Cluster | Historical significance",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Cluster",
+          "Historical significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 313.554
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1400,
+      "markdown_body_line_end": 1417,
+      "heading": "CLOSING RECALL FLOW - ECONOMY BEYOND THE FIELD: MARKETS, CRAFT PRODUCTION, COINAGE AND GUILDS",
+      "preview": "START / CONCEPT: Economy beyond the field: markets, craft production, coinage and guilds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1428,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A trade route across the Bay of Bengal does not prove permanent Chola political control over every place connected by that route.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 447.691
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 381.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1447,
+      "markdown_body_line_end": 1447,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "17. Bay of Bengal trade route schematic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\17_bay_of_bengal_trade_route_schematic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1453,
+      "markdown_body_line_end": 1458,
+      "heading": "Maritime route table",
+      "preview": "Corridor | Historical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Corridor",
+          "Historical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 350.154
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1497,
+      "heading": "CLOSING RECALL FLOW - MARITIME TRADE ROUTES: BAY OF BENGAL, SRI LANKA, SOUTHEAST ASIA AND CHINA",
+      "preview": "START / CONCEPT: Maritime trade routes: Bay of Bengal, Sri Lanka, Southeast Asia and China",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1508,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The attack is among the strongest pieces of evidence for Chola maritime power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 437.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 385.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1527,
+      "markdown_body_line_end": 1527,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "18. 1025 Srivijaya expedition: targets, evidence and limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\18_srivijaya_1025_targets_evidence_limits.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1533,
+      "markdown_body_line_end": 1538,
+      "heading": "Answer architecture",
+      "preview": "Step | What to write",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Step",
+          "What to write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 350.154
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1561,
+      "markdown_body_line_end": 1578,
+      "heading": "CLOSING RECALL FLOW - MARITIME POWER AND THE 1025 EXPEDITION AGAINST SRIVIJAYA",
+      "preview": "START / CONCEPT: Maritime power and the 1025 expedition against Srivijaya",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1589,
+      "markdown_body_line_end": 1589,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sri Lanka is the best Chola case for discussing conquest, incorporation and resistance together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1610,
+      "markdown_body_line_end": 1610,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "19. Sri Lanka campaign chronology and source matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\19_sri_lanka_campaign_chronolo-1ef1eb087a.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1616,
+      "markdown_body_line_end": 1621,
+      "heading": "Sri Lanka answer grid",
+      "preview": "Zone / phase | Safe conclusion",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Zone / phase",
+          "Safe conclusion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 350.154
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1638,
+      "markdown_body_line_end": 1655,
+      "heading": "CLOSING RECALL FLOW - SRI LANKA: CONQUEST, PROVINCIALIZATION AND RESISTANCE",
+      "preview": "START / CONCEPT: Sri Lanka: conquest, provincialization and resistance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1666,
+      "markdown_body_line_end": 1666,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Diplomacy and conflict were not contradictions; they were different instruments within the same arena.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 460.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 408.224
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1685,
+      "markdown_body_line_end": 1685,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "20. Diplomacy and conflict coexistence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\20_diplomacy_conflict_coexiste-d0e522d663.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1691,
+      "markdown_body_line_end": 1695,
+      "heading": "Diplomatic significance",
+      "preview": "Evidence | What it proves",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Evidence",
+          "What it proves"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 345.954
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1712,
+      "markdown_body_line_end": 1729,
+      "heading": "CLOSING RECALL FLOW - CHOLA-SRIVIJAYA-NAGAPATTINAM DIPLOMACY: CONFLICT AND COEXISTENCE",
+      "preview": "START / CONCEPT: Chola-Srivijaya-Nagapattinam diplomacy: conflict and coexistence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1740,
+      "markdown_body_line_end": 1740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Chola military should be seen as a flexible campaign machine rooted in agrarian provisioning, not as a modern national army.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 383.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 316.824
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1761,
+      "markdown_body_line_end": 1761,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "21. Military organization and evidence limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\21_military_organisation_and_limits.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 462.356
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1767,
+      "markdown_body_line_end": 1772,
+      "heading": "Military reading",
+      "preview": "Arm / institution | Safe conclusion",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Arm / institution",
+          "Safe conclusion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 411.956
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 291.354
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1789,
+      "markdown_body_line_end": 1806,
+      "heading": "CLOSING RECALL FLOW - MILITARY ORGANIZATION, REGIMENTS AND EVIDENTIARY LIMITS",
+      "preview": "START / CONCEPT: Military organization, regiments and evidentiary limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1817,
+      "markdown_body_line_end": 1817,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Karashima and Subbarayalu show that close epigraphic work can recover changing degrees of centralisation, locality and revenue articulation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1836,
+      "markdown_body_line_end": 1836,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "22. Historiography matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\22_centralised_segmentary_nego-63bfd9fd12.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1842,
+      "markdown_body_line_end": 1847,
+      "heading": "Historiography answer rule",
+      "preview": "Historian / model | Best use in answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Historian / model",
+          "Best use in answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 338.954
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1864,
+      "markdown_body_line_end": 1881,
+      "heading": "CLOSING RECALL FLOW - HISTORIOGRAPHY: SASTRI, STEIN, KARASHIMA, SUBBARAYALU AND BEYOND",
+      "preview": "START / CONCEPT: Historiography: Sastri, Stein, Karashima, Subbarayalu and beyond",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 583.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1892,
+      "markdown_body_line_end": 1892,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The term \"decline\" is useful only if we also speak of transformation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 490.891
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 438.424
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1913,
+      "markdown_body_line_end": 1913,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "23. Decline and transformation causal web",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\23_decline_transformation_causal_web.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1919,
+      "markdown_body_line_end": 1923,
+      "heading": "Decline and legacy table",
+      "preview": "Theme | Safe conclusion",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Theme",
+          "Safe conclusion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 371.354
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1940,
+      "markdown_body_line_end": 1957,
+      "heading": "CLOSING RECALL FLOW - DECLINE, TRANSFORMATION AND LEGACY",
+      "preview": "START / CONCEPT: Decline, transformation and legacy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1968,
+      "markdown_body_line_end": 1968,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Balanced polity line: \"The Cholas built one of early-medieval India's strongest regional empires, but their authority always moved through negotiated local institutions and uneven frontiers.\" Economy line: \"Their maritime profile rested on ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 403.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 308.824
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1989,
+      "markdown_body_line_end": 1989,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "24. GS-I answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g5\\assets\\24_gs1_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 443.156
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2005,
+      "markdown_body_line_end": 2022,
+      "heading": "CLOSING RECALL FLOW - HISTORICAL SIGNIFICANCE AND ANSWER SYNTHESIS",
+      "preview": "START / CONCEPT: Historical significance and answer synthesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 451
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2033,
+      "markdown_body_line_end": 2033,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This linkage does not override repository chronology, OCR-searchable book evidence, verified PYQ routing or the source limitations printed throughout.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 399.691
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 333.024
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2052,
+      "markdown_body_line_end": 2069,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2074,
+      "markdown_body_line_end": 2081,
+      "heading": "Source, chronology and political-space controls",
+      "preview": "Evidence | Secure use | Hard limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Evidence",
+          "Secure use",
+          "Hard limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 523.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 315.49
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2083,
+      "markdown_body_line_end": 2090,
+      "heading": "Source, chronology and political-space controls",
+      "preview": "Phase | Historical anchor | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Phase",
+          "Historical anchor",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 315.49
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 141.288
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3117,
+      "markdown_body_line_end": 3120,
+      "heading": "Chola State Formation, Locality Debates and Indian Ocean Networks - OPTIONAL ADVANCED",
+      "preview": "**Subject:** Ancient and Early Medieval Indian History | **Tier:** Optional Advanced. **Prerequisite:** `../basic/27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md` **Firewall:** This file adds historiographical and comparative",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 616.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 557.824
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3128,
+      "markdown_body_line_end": 3132,
+      "heading": "1. How to interpret the Chola state",
+      "preview": "Emphasis | What it explains | Risk if treated as complete",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Emphasis",
+          "What it explains",
+          "Risk if treated as complete"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 511.124
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 389.322
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3154,
+      "markdown_body_line_end": 3161,
+      "heading": "3. Temple-centred integration",
+      "preview": "royal legitimacy",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 190.722
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 119.722
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3184,
+      "markdown_body_line_end": 3189,
+      "heading": "5. Maritime power without exaggeration",
+      "preview": "Claim | Better formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Better formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 651.591
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 497.39
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3324,
+      "markdown_body_line_end": 3331,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Ruler chronology and turning points",
+      "preview": "c. 850 -> Vijayalaya secures Tanjavur and a lower-Kaveri foothold",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3335,
+      "markdown_body_line_end": 3342,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Political geography as zones",
+      "preview": "DIRECT CORE -> lower Kaveri delta, Tanjavur and royal-temple centres",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 669.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 596.891
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3346,
+      "markdown_body_line_end": 3357,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Kaveri ecology to imperial capacity",
+      "preview": "KAVERI WATER + DELTA SOILS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 574.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 461.891
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3361,
+      "markdown_body_line_end": 3368,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: State hierarchy and local institutions",
+      "preview": "KING / COURT -> royal orders + war + survey + revenue + temple patronage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 439.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 367.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3372,
+      "markdown_body_line_end": 3382,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Uttaramerur without the democracy myth",
+      "preview": "ELIGIBLE LOCAL NOTABLES -> qualifications and disqualifications",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 345.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 242.891
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3386,
+      "markdown_body_line_end": 3394,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Land, revenue and social differentiation",
+      "preview": "LAND RIGHTS -> ownership + cultivation + revenue + jurisdiction can differ",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3398,
+      "markdown_body_line_end": 3406,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Temple, monument and institutional power",
+      "preview": "BRIHADISVARA / OTHER GREAT TEMPLES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3410,
+      "markdown_body_line_end": 3417,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Bronzes, religion and language",
+      "preview": "LOST-WAX CASTING -> individually modelled processional icons",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3421,
+      "markdown_body_line_end": 3431,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Guilds, ports and Bay of Bengal exchange",
+      "preview": "KAVERI HINTERLAND -> produce, textiles, metalwork and temple demand",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 381.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3435,
+      "markdown_body_line_end": 3443,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Sri Lanka and Srivijaya: coercion with limits",
+      "preview": "SRI LANKA                       SRIVIJAYA, 1025",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 359.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 277.091
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3447,
+      "markdown_body_line_end": 3454,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: How historians model the Chola state",
+      "preview": "CENTRALISED VIEW -> strong monarchy, hierarchy, survey and taxation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3458,
+      "markdown_body_line_end": 3466,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Decline, legacy and answer spine",
+      "preview": "CAUSES -> succession strains + frontier wars + Pandya resurgence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    }
+  ]
+}

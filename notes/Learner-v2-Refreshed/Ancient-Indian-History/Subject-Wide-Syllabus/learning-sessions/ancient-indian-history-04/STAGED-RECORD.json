@@ -1,0 +1,130 @@
+{
+  "record_id": "ancient-indian-history-04:learner-v2:g6",
+  "topic_key": "ancient-indian-history-04",
+  "variant": "learner-v2",
+  "generation": 6,
+  "supersedes": "ancient-indian-history-04:learner-v2:g5",
+  "command": "Generate learner-v2 topic: Ancient History — Subject-wide Syllabus — The Stone Age: Palaeolithic & Mesolithic — Learner-v2 refreshed",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\ancient-indian-history-04_Complete-Learning-Session_2026-08-22.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\ancient-indian-history-04_Solved-Practice-Workbook_2026-08-22.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\ancient-indian-history-04_Complete-Learning-Session_2026-08-22.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\assets",
+  "generated_on": "2026-08-22",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-section-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+    "legacy_v1_source_package": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\04_The-Stone-Age-Palaeolithic-Mesolithic_Complete-Topic-Package.md",
+    "legacy_v1_reference_main_pdf": "notes\\Ancient-Indian-History\\04_The-Stone-Age-Palaeolithic-Mesolithic_Complete-Topic-Package_2026-08-12.pdf",
+    "legacy_v1_reference_workbook": "notes\\Ancient-Indian-History\\04_The-Stone-Age-Palaeolithic-Mesolithic_Solved-Workbook_2026-08-12.pdf",
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "local_ocr_sources": [
+      "books\\India Ancient Past By RS Sharma.pdf",
+      "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\ancient-indian-history-04_Complete-Learning-Session_2026-08-22.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-22",
+    "superseded_v1": "ancient-indian-history-04:legacy-v1:g1",
+    "reused_legacy_assets": [],
+    "reused_text_visual_count": 70,
+    "reused_visual_count": 70,
+    "new_visual_count": 1,
+    "new_asset": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-04\\ancient-indian-history-04-learning-spine.png",
+    "practice_counts": {
+      "mcqs": 40,
+      "verified_pyq_headings": 1,
+      "original_mains_headings": 6
+    },
+    "migration_note": "Learner-v2 retains the complete detailed legacy learning session and practice, places the exact Advanced owner after all practice, keeps consolidated register notes last, and leaves legacy-v1 files unchanged.",
+    "retrofit": {
+      "id": "continuous-core-first-2026-08-22",
+      "source_record": "ancient-indian-history-04:learner-v2:g4",
+      "closure_flow": "source-derived and placed after every BASIC H3",
+      "workbook": "byte-preserved; no practice content changed",
+      "flowchart": "new continuous core-first same-master companion"
+    },
+    "refresh": {
+      "id": "learner-v2-refreshed-2026-08-22",
+      "source_record": "ancient-indian-history-04:learner-v2:g5",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-04_Learning-Session.md",
+      "source_hashes": {
+        "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf": "86b9170d6fe89da5715441931fe46b0e3233f5cfef535cd03b16a52b811a63d6",
+        "books\\India Ancient Past By RS Sharma.pdf": "7f5ac4147164341682fefba935e6d00165df3894fb32133faa3b64ec09fa3e4f",
+        "notes\\Ancient-Indian-History\\04_The-Stone-Age-Palaeolithic-Mesolithic_Complete-Topic-Package_2026-08-12.pdf": "1175cac5e487e58aa2ad960805c5a5f772e5c22e112533f2d3f9f2bf9c1086ee",
+        "notes\\Ancient-Indian-History\\04_The-Stone-Age-Palaeolithic-Mesolithic_Solved-Workbook_2026-08-12.pdf": "6b724f98e065119daf597f490d5f2fe9299dcda764189e997ca2bd62bdb17b03",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\master.png": "a58e897982b1bb11f53950dc95f8613293d697db2059b2615cc77ecd96841b01",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\poster.pdf": "8b9b81228e62e54d9261a1a255092421738999b24c714639162814beb3c74858",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\preservation-hashes-after.json": "352899058bcfed7e2cbe3986c4dc979455bc3d4fe6dc6424afe31b0808c49f2a",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\preservation-hashes-before.json": "9b9f2774056ee3e1a2f508a62b997d137e04697aed4bdf5b85c4a49fcf7cb7da",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png": "d4685416c44cdc16a3066ac32653939c0e968901401b518b7112cbd12ecb7d68",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png": "02618aaa714f53bb4115ebd55ca6f1bbcc91bebf4fc52ba395cfb422a5cfca9f",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-001.png": "345b98c21f102b3c4e2ed06e220a4fece56813985a1453c239c22d12ae040bda",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-002.png": "db094d2d45ebdd013ae5b00e53b24143158342b6f87158007fdb00989c5af984",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-003.png": "5704246b883c3886541460074ca43259fa00c118c5a7f61442a8bb5f243bbb37",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-004.png": "690e8c37aaa5ea45a0c07dada585d22ee691daf98a7d900ad7c7e2db16253b19",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-005.png": "f530fb17ec04748107bee7332f81d389071f40ab6c451fe0bc2cf063e3489a6b",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-006.png": "a5143a61d4d56cdb12d4d53d3d2f76b437c199ddee2b309ed469a8924d54cfaf",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-007.png": "608aed4263633a556566ed1fb22455c6723a5441e189e0ce99d46780948655ea",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-008.png": "9c722386da327aa4e267cae4991954ec98ee522789696620dd0e2f34b711d9f8",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-009.png": "becc8c7c6679b4faca2c27fb59d5b8c2ed13d1face372dbd63bf7727ea32763e",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\page-010.png": "5a27fa9407b8a4298f15d05e1f5d0233944ee523bfbbc525e55febd1896ef16f",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\README.txt": "df6225192dcde8c934001679f9007dd40c3fafeb12ca8890a10e2a130f6632f3",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\tiled.pdf": "b79c45b3bbb598a0674253b071f55ef3395e5484c95c9e3076d9171ba82414e1",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\validation-report.txt": "6cfa5f9115b45c3a33908df91a82c9d2d07f7f85710dad45bc648d8dcaa9620f",
+        "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\notes\\ancient-indian-history-04_Learning-Session_2026-08-22.pdf": "fd947ba4977f06be9a7a5b1f543e7c1fe874bc6a6250fb94f02431ecf329378e",
+        "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-04\\ancient-indian-history-04-learning-spine.png": "4753e3c8eabfc03a4854c74db49667a61e94d4fdce58ee82be6e1c481fe0bc4d",
+        "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-04_Solved-Workbook_2026-08-20.pdf": "4a27db3c7d57ed638b95a40063f0d898de852af1b1a01b652e2f4591aa222655",
+        "tools\\markdown_learning_pdf.py": "394a0e26d0f972ebaab1015cd57da26c7b24951143162d3bc43d86d7ae67ca29",
+        "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\04_The-Stone-Age-Palaeolithic-Mesolithic_Complete-Topic-Package.md": "861d909287633e273c48bf92f1d37ffcfbfe9b8f96735f63f6ee3f086e6f0711",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md": "b3d434f11ea7f49c436fb8b6b3f41a5459fa28c5931686f18e59397df2a956fa",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md": "c3a89b60c4473a75767f36933c816e6bbd49a9838794e3312fc9f347da1d56d1",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-04_Learning-Session.md": "8f5bcaa3e98aad5c161f932166ad30432c6114a464bf34d87161ecd1250c6ee1",
+        "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+        "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+        "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "stable-topic-seed balanced deterministic non-patterned",
+      "tracker_updated": false,
+      "tracker_sha256": "2ad398cbb20ccd11c73be28a704c0e82342810bc147e19aec7d75acf8f584571"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "ancient-indian-history-04:learner-v2:g6"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-22",
+    "validator": "tools/refresh_all_v2_learning_sessions.py + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6",
+    "master_image": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6\\previews\\contact-sheet-01.png",
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6\\previews\\contact-sheet-02.png"
+    ],
+    "validation_report": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6\\validation-report.txt",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g6\\ascii-master.txt"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\ancient-indian-history-04_Solved-Practice-Workbook_2026-08-22.md",
+  "refresh_profile": "learner-v2-refreshed-2026-08-22"
+}

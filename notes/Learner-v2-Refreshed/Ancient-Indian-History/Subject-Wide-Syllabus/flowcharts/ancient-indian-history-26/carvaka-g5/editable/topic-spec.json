@@ -1,0 +1,1128 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-26",
+  "subject": "Ancient-Indian-History",
+  "title": "FROM ANCIENT TO MEDIEVAL: SOCIAL CHANGE & LEGACY",
+  "short_route": "A MULTITRACK TRANSITION, NOT → CONTINUITY, CHANGE AND REGIONAL → IMPERIAL CONCENTRATION TO REGIONAL → LAND GRANT: CHARTER TO → AGRARIAN FRONTIER AND SOCIAL → INDIAN FEUDALISM DEBATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-26-deep-review-2026-09-03-g5.json",
+  "ascii_spec_sha256": "caaadeb407d86ddec3d4b7d3f5e285f3d7ef247d377457b053ae30040ace051e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "A MULTITRACK TRANSITION, NOT ONE DATE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "A MULTITRACK TRANSITION, NOT ONE DATE",
+          "role": "caution"
+        },
+        {
+          "text": "COLONIAL HINDU",
+          "role": "outcome"
+        },
+        {
+          "text": "BRITISH DIVISION",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNAL AND ANALYTICALLY INADEQUATE",
+          "role": "evidence"
+        },
+        {
+          "text": "DYNASTIC DATES",
+          "role": "primary"
+        },
+        {
+          "text": "CHRONOLOGY AIDS, NOT AUTOMATIC SOCIAL THRESHOLDS C. 300-550",
+          "role": "caution"
+        },
+        {
+          "text": "WIDER GRANTS AND GUPTA-VAKATAKA REGIONAL REPERTOIRES C. 550-750",
+          "role": "comparison"
+        },
+        {
+          "text": "POST-GUPTA POLITIES, SAMANTAS AND REGIONAL FORMATIONS C. 750-1000",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COLONIAL HINDU / MUSLIM / BRITISH DIVISION → communal and analytically inadequate",
+        "DYNASTIC DATES → chronology aids, not automatic social thresholds c.",
+        "300-550 → wider grants and Gupta-Vakataka regional repertoires c.",
+        "550-750 → post-Gupta polities, samantas and regional formations c.",
+        "750-1000 → temple institutions, vernaculars and stronger regional states"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "COLONIAL HINDU / MUSLIM / BRITISH DIVISION → communal and analytically inadequate",
+            "DYNASTIC DATES → chronology aids, not automatic social thresholds c."
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "300-550 → wider grants and Gupta-Vakataka regional repertoires c.",
+            "550-750 → post-Gupta polities, samantas and regional formations c."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "750-1000 → temple institutions, vernaculars and stronger regional states",
+            "RULE: tracks change unevenly; neither 750 nor 1206 is a universal rupture."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: tracks change unevenly; neither 750 nor 1206 is a universal rupture.",
+      "answer_line": "tracks change unevenly; neither 750 nor 1206 is a universal rupture.",
+      "source_references": [
+        "Scope",
+        "Periodisation",
+        "Regional chronologies",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONTINUITY, CHANGE AND REGIONAL VARIATION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONTINUITY, CHANGE AND REGIONAL VARIATION",
+          "role": "primary"
+        },
+        {
+          "text": "SANSKRIT PRESTIGE, INHERITED LAW, PILGRIMAGE AND SACRED CENTRES",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTED SOVEREIGNTY, DENSER GRANTS AND TEMPLE-CENTRED INSTITUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL VARIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "TAMIL COUNTRY",
+          "role": "primary"
+        },
+        {
+          "text": "SELECTED OLDER TOWNS, COIN STREAMS AND POLITICAL CENTRES CONTRACT",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW CAPITALS, MARKETS, SETTLEMENTS AND LITERARY CULTURES EMERGE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSITION MEANS REORGANISATION, NOT UNIFORM RUPTURE OR STASIS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONTINUITY → Sanskrit prestige, inherited law, pilgrimage and sacred centres",
+        "CHANGE → distributed sovereignty, denser grants and temple-centred institutions",
+        "REGIONAL VARIATION → Bengal != Rajasthan != Deccan != Tamil country",
+        "DECLINE → selected older towns, coin streams and political centres contract",
+        "CREATION → new capitals, markets, settlements and literary cultures emerge"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CONTINUITY → Sanskrit prestige, inherited law, pilgrimage and sacred centres",
+          "REGIONAL VARIATION → Bengal != Rajasthan != Deccan != Tamil country",
+          "CREATION → new capitals, markets, settlements and literary cultures emerge"
+        ],
+        [
+          "CHANGE → distributed sovereignty, denser grants and temple-centred institutions",
+          "DECLINE → selected older towns, coin streams and political centres contract",
+          "VERDICT: transition means reorganisation, not uniform rupture or stasis."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CONTINUITY → Sanskrit prestige, inherited law, pilgrimage and sacred centres",
+            "CHANGE → distributed sovereignty, denser grants and temple-centred institutions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "REGIONAL VARIATION → Bengal != Rajasthan != Deccan != Tamil country",
+            "DECLINE → selected older towns, coin streams and political centres contract"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CREATION → new capitals, markets, settlements and literary cultures emerge",
+            "VERDICT: transition means reorganisation, not uniform rupture or stasis."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: transition means reorganisation, not uniform rupture or stasis.",
+      "answer_line": "transition means reorganisation, not uniform rupture or stasis.",
+      "source_references": [
+        "Periodisation",
+        "Regionalisation",
+        "Historical significance",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "IMPERIAL CONCENTRATION TO REGIONAL SOVEREIGNTY",
+      "structural_type": "layered-sovereignty",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "IMPERIAL CONCENTRATION TO REGIONAL SOVEREIGNTY",
+          "role": "primary"
+        },
+        {
+          "text": "LARGE IMPERIAL CORE WEAKENS REGIONAL DYNASTIES + FEUDATORIES +",
+          "role": "outcome"
+        },
+        {
+          "text": "VILLAGE TRIBUTE, MILITARY SERVICE, GRANTS AND NEGOTIATED OBEDIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATION CAN ENLARGE BOTH ROYAL REACH AND LOCAL LANDED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LARGE IMPERIAL CORE WEAKENS regional dynasties + feudatories + marriage + warfare",
+        "KING → SAMANTA → DISTRICT / LOCALITY → VILLAGE tribute, military service, grants and negotiated",
+        "TENSION: integration can enlarge both royal reach and local landed power."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LARGE IMPERIAL CORE WEAKENS regional dynasties + feudatories + marriage + warfare",
+            "KING → SAMANTA → DISTRICT / LOCALITY → VILLAGE tribute, military service, grants and negotiated obedience"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TENSION: integration can enlarge both royal reach and local landed power.",
+            "LARGE IMPERIAL CORE WEAKENS regional dynasties + feudatories + marriage + warfare"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "KING → SAMANTA → DISTRICT / LOCALITY → VILLAGE tribute, military service, grants and negotiated obedience",
+            "TENSION: integration can enlarge both royal reach and local landed power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TENSION: integration can enlarge both royal reach and local landed power.",
+      "source_references": [
+        "Political change",
+        "Samantas",
+        "Distributed sovereignty",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LAND GRANT: CHARTER TO GROUND EFFECTS",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAND GRANT",
+          "role": "primary"
+        },
+        {
+          "text": "CHARTER TO GROUND EFFECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "BRAHMANA + TEMPLE + MONASTERY + OFFICIAL OR RETAINER",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY + DUES + EXEMPTIONS + LABOUR + RESOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "FISCAL REASSIGNMENT; JUDICIAL OR POLICING REACH VARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CULTIVATORS + CHIEFS + ASSEMBLIES + PASTORAL AND FOREST",
+          "role": "outcome"
+        },
+        {
+          "text": "SETTLEMENT, IRRIGATION, HIERARCHY, INTEGRATION AND CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "CHARTER RHETORIC PROVES A CLAIM; IMPLEMENTATION NEEDS OTHER EVIDENCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GRANT → Brahmana + temple + monastery + official or retainer",
+        "FORMULA → boundary + dues + exemptions + labour + resource and fine claims",
+        "RIGHTS → fiscal reassignment; judicial or policing reach varies",
+        "GROUND → cultivators + chiefs + assemblies + pastoral and forest users",
+        "OUTCOME → settlement, irrigation, hierarchy, integration and conflict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GRANT → Brahmana + temple + monastery + official or retainer",
+            "FORMULA → boundary + dues + exemptions + labour + resource and fine claims"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RIGHTS → fiscal reassignment; judicial or policing reach varies",
+            "GROUND → cultivators + chiefs + assemblies + pastoral and forest users"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "OUTCOME → settlement, irrigation, hierarchy, integration and conflict",
+            "LIMIT: charter rhetoric proves a claim; implementation needs other evidence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: charter rhetoric proves a claim; implementation needs other evidence.",
+      "source_references": [
+        "Land grants",
+        "Brahmadeya",
+        "Devadana",
+        "Charter evidence",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AGRARIAN FRONTIER AND SOCIAL INCORPORATION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGRARIAN FRONTIER AND SOCIAL INCORPORATION",
+          "role": "primary"
+        },
+        {
+          "text": "CULTIVATED ZONES IRRIGATION + PLOUGH EXPANSION + GRANTS +",
+          "role": "outcome"
+        },
+        {
+          "text": "INCORPORATION COULD CREATE MOBILITY AND DEEPEN EXCLUSION TOGETHER.",
+          "role": "comparison"
+        },
+        {
+          "text": "FOREST / PASTORAL / CULTIVATED ZONES IRRIGATION + PLOUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOREST / PASTORAL / CULTIVATED ZONES irrigation + plough expansion + grants + temples +",
+        "peasants, Brahmanas, artisans and labour groups negotiate place surplus extraction + ranked rights + new",
+        "CAUTION: incorporation could create mobility and deepen exclusion together."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FOREST / PASTORAL / CULTIVATED ZONES irrigation + plough expansion + grants + temples + new settlements chiefs,",
+            "peasants, Brahmanas, artisans and labour groups negotiate place surplus extraction + ranked rights + new regional political society"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CAUTION: incorporation could create mobility and deepen exclusion together.",
+            "FOREST / PASTORAL / CULTIVATED ZONES irrigation + plough expansion + grants + temples + new settlements chiefs,"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "peasants, Brahmanas, artisans and labour groups negotiate place surplus extraction + ranked rights + new regional political society",
+            "CAUTION: incorporation could create mobility and deepen exclusion together."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: incorporation could create mobility and deepen exclusion together.",
+      "source_references": [
+        "Agrarian expansion",
+        "Frontiers",
+        "Social incorporation",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INDIAN FEUDALISM DEBATE",
+      "structural_type": "argument-tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "INDIAN FEUDALISM DEBATE",
+          "role": "primary"
+        },
+        {
+          "text": "R. S. SHARMA",
+          "role": "outcome"
+        },
+        {
+          "text": "GRANTS, INTERMEDIARIES, LANDLORDISM AND REDUCED MOBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "D. D. KOSAMBI",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANGE FROM ABOVE AND BELOW; SOCIAL-FORMATION APPROACH",
+          "role": "primary"
+        },
+        {
+          "text": "HAR BANS MUKHIA",
+          "role": "outcome"
+        },
+        {
+          "text": "WARNS AGAINST MECHANICAL EUROPEAN MANOR-SERF TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL STUDIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "R. S. SHARMA → grants, intermediaries, landlordism and reduced mobility",
+        "D. D. KOSAMBI → change from above and below; social-formation approach",
+        "HAR BANS MUKHIA → warns against mechanical European manor-serf transfer",
+        "REGIONAL STUDIES → chronology, ecology and exchange vary substantially",
+        "USEFUL CORE → ask who controlled land, surplus, labour and armed force"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "R. S. SHARMA → grants, intermediaries, landlordism and reduced mobility",
+            "D. D. KOSAMBI → change from above and below; social-formation approach"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HAR BANS MUKHIA → warns against mechanical European manor-serf transfer",
+            "REGIONAL STUDIES → chronology, ecology and exchange vary substantially"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "USEFUL CORE → ask who controlled land, surplus, labour and armed force",
+            "VERDICT: use feudalism as a tested model, not a universal label."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: use feudalism as a tested model, not a universal label.",
+      "answer_line": "use feudalism as a tested model, not a universal label.",
+      "source_references": [
+        "Feudalism debate",
+        "R. S. Sharma",
+        "Kosambi",
+        "Mukhia",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TRADE, MONEY AND TOWN TRANSFORMATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRADE, MONEY AND TOWN TRANSFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "CONTRACTION CLAIM TRANSFORMATION CLAIM SELECTED COIN DECLINE MONETISATION VARIES",
+          "role": "caution"
+        },
+        {
+          "text": "OLD URBAN FORMS DECLINE WHILE NEW NODES AND CIRCUITS",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRES WEAKEN NEW CAPITALS AND TEMPLE TOWNS EMERGE SOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONTRACTION CLAIM TRANSFORMATION CLAIM selected coin decline monetisation varies by region older urban",
+        "centres weaken new capitals and temple towns emerge some long routes contract coastal",
+        "and regional exchange continues merchant visibility changes guilds and markets persist unevenly",
+        "SYNTHESIS → old urban forms decline while new nodes and circuits grow."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CONTRACTION CLAIM TRANSFORMATION CLAIM selected coin decline monetisation varies by region older urban",
+          "and regional exchange continues merchant visibility changes guilds and markets persist unevenly",
+          "CONTRACTION CLAIM TRANSFORMATION CLAIM selected coin decline monetisation varies by region older urban"
+        ],
+        [
+          "centres weaken new capitals and temple towns emerge some long routes contract coastal",
+          "SYNTHESIS → old urban forms decline while new nodes and circuits grow.",
+          "centres weaken new capitals and temple towns emerge some long routes contract coastal"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CONTRACTION CLAIM TRANSFORMATION CLAIM selected coin decline monetisation varies by region older urban",
+            "centres weaken new capitals and temple towns emerge some long routes contract coastal"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "and regional exchange continues merchant visibility changes guilds and markets persist unevenly",
+            "SYNTHESIS → old urban forms decline while new nodes and circuits grow."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CONTRACTION CLAIM TRANSFORMATION CLAIM selected coin decline monetisation varies by region older urban",
+            "centres weaken new capitals and temple towns emerge some long routes contract coastal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYNTHESIS → old urban forms decline while new nodes and circuits grow.",
+      "source_references": [
+        "Economy",
+        "Monetisation",
+        "Urban-decline debate",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "VARNA TEXT AND JATI PROCESS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VARNA TEXT AND JATI PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "NORMATIVE FOURFOLD VOCABULARY IN PRESCRIPTIVE TEXTS",
+          "role": "outcome"
+        },
+        {
+          "text": "NUMEROUS LIVED, OCCUPATIONAL AND REGIONAL SOCIAL GROUPS",
+          "role": "comparison"
+        },
+        {
+          "text": "RULERS AND COMMUNITIES SEEK RANKED IDENTITIES AND GENEALOGIES",
+          "role": "evidence"
+        },
+        {
+          "text": "UNTOUCHABILITY AND UNEQUAL LABOUR BECOME MORE VISIBLE",
+          "role": "primary"
+        },
+        {
+          "text": "LAW TEXT + INSCRIPTION + DONATION + SETTLEMENT +",
+          "role": "evidence"
+        },
+        {
+          "text": "A NORMATIVE TEXT IS NOT A DEMOGRAPHIC CENSUS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VARNA → normative fourfold vocabulary in prescriptive texts",
+        "JATI → numerous lived, occupational and regional social groups",
+        "MOBILITY → rulers and communities seek ranked identities and genealogies",
+        "EXCLUSION → untouchability and unequal labour become more visible",
+        "EVIDENCE → law text + inscription + donation + settlement + material record"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "VARNA → normative fourfold vocabulary in prescriptive texts",
+          "MOBILITY → rulers and communities seek ranked identities and genealogies",
+          "EVIDENCE → law text + inscription + donation + settlement + material record"
+        ],
+        [
+          "JATI → numerous lived, occupational and regional social groups",
+          "EXCLUSION → untouchability and unequal labour become more visible",
+          "TRAP: a normative text is not a demographic census."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VARNA → normative fourfold vocabulary in prescriptive texts",
+            "JATI → numerous lived, occupational and regional social groups"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MOBILITY → rulers and communities seek ranked identities and genealogies",
+            "EXCLUSION → untouchability and unequal labour become more visible"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE → law text + inscription + donation + settlement + material record",
+            "TRAP: a normative text is not a demographic census."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "a normative text is not a demographic census.",
+      "source_references": [
+        "Varna",
+        "Jati",
+        "Mobility",
+        "Exclusion",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BRAHMANISATION, LOCALISATION, GENDER AND FRONTIER",
+      "structural_type": "cultural-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BRAHMANISATION, LOCALISATION, GENDER AND FRONTIER",
+          "role": "primary"
+        },
+        {
+          "text": "BRAHMANICAL IDIOMS <→ LOCAL CULTS, CHIEFS AND COMMUNITY PRACTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "GENEALOGY + RITUAL + GRANT",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL LEGITIMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL DEITIES + CUSTOM",
+          "role": "primary"
+        },
+        {
+          "text": "RESHAPE RECEIVED SANSKRITIC FORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "QUEENS AND DONORS VISIBLE; ORDINARY LABOUR REMAINS UNDER-RECORDED",
+          "role": "comparison"
+        },
+        {
+          "text": "FRONTIER GROUPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BRAHMANICAL IDIOMS <→ local cults, chiefs and community practice",
+        "GENEALOGY + RITUAL + GRANT → political legitimation",
+        "LOCAL DEITIES + CUSTOM → reshape received Sanskritic forms",
+        "WOMEN → queens and donors visible; ordinary labour remains under-recorded",
+        "FRONTIER GROUPS → incorporation, resistance and layered identity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BRAHMANICAL IDIOMS <→ local cults, chiefs and community practice",
+            "GENEALOGY + RITUAL + GRANT → political legitimation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LOCAL DEITIES + CUSTOM → reshape received Sanskritic forms",
+            "WOMEN → queens and donors visible; ordinary labour remains under-recorded"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FRONTIER GROUPS → incorporation, resistance and layered identity",
+            "VERDICT: cultural change is multidirectional, unequal and locally remade."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: cultural change is multidirectional, unequal and locally remade.",
+      "answer_line": "cultural change is multidirectional, unequal and locally remade.",
+      "source_references": [
+        "Brahmanisation",
+        "Localisation",
+        "Gender",
+        "Frontier societies",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RELIGION AND TEMPLE AS INSTITUTION",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RELIGION AND TEMPLE AS INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "TEMPLE SACRED CENTRE",
+          "role": "outcome"
+        },
+        {
+          "text": "RITUAL, BHAKTI AND PILGRIMAGE LANDHOLDER",
+          "role": "comparison"
+        },
+        {
+          "text": "GRANTS, FIELDS AND IRRIGATION RIGHTS EMPLOYER",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIESTS, ARTISANS, DANCERS AND SERVICE GROUPS REDISTRIBUTOR",
+          "role": "primary"
+        },
+        {
+          "text": "FOOD, GIFTS, CREDIT AND FESTIVAL EXPENDITURE",
+          "role": "outcome"
+        },
+        {
+          "text": "INSCRIPTIONS PRESERVE DONORS, TAXES AND LOCAL DECISIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "PLURAL FIELD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEMPLE sacred centre: ritual, bhakti and pilgrimage landholder: grants, fields and irrigation rights employer",
+        "priests, artisans, dancers and service groups redistributor: food, gifts, credit and festival expenditure",
+        "archive: inscriptions preserve donors, taxes and local decisions",
+        "PLURAL FIELD → Puranic, Buddhist, Jaina, tantric and local traditions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TEMPLE sacred centre: ritual, bhakti and pilgrimage landholder: grants, fields and irrigation rights employer",
+            "priests, artisans, dancers and service groups redistributor: food, gifts, credit and festival expenditure"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "archive: inscriptions preserve donors, taxes and local decisions",
+            "PLURAL FIELD → Puranic, Buddhist, Jaina, tantric and local traditions."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TEMPLE sacred centre: ritual, bhakti and pilgrimage landholder: grants, fields and irrigation rights employer",
+            "priests, artisans, dancers and service groups redistributor: food, gifts, credit and festival expenditure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PLURAL FIELD → Puranic, Buddhist, Jaina, tantric and local traditions.",
+      "source_references": [
+        "Religion",
+        "Bhakti",
+        "Temple institutions",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LANGUAGE, KNOWLEDGE AND REGIONAL CULTURES",
+      "structural_type": "process",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LANGUAGE, KNOWLEDGE AND REGIONAL CULTURES",
+          "role": "primary"
+        },
+        {
+          "text": "SANSKRIT COSMOPOLIS",
+          "role": "outcome"
+        },
+        {
+          "text": "PORTABLE PRESTIGE, GENEALOGY AND POLITICAL IDIOM",
+          "role": "comparison"
+        },
+        {
+          "text": "TAMIL, KANNADA, TELUGU, BENGALI AND OTHER LITERARY WORLDS DEEPEN",
+          "role": "evidence"
+        },
+        {
+          "text": "SANSKRIT DOES NOT VANISH. CHANGE",
+          "role": "caution"
+        },
+        {
+          "text": "VERNACULAR AGENCY EXPANDS.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SANSKRIT COSMOPOLIS → portable prestige, genealogy and political idiom",
+        "Tamil, Kannada, Telugu, Bengali and other literary worlds deepen translation + commentary +",
+        "inscription + devotional performance regional cultures become locally rooted yet interregionally connected",
+        "CONTINUITY: Sanskrit does not vanish. CHANGE: vernacular agency expands."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SANSKRIT COSMOPOLIS → portable prestige, genealogy and political idiom",
+            "Tamil, Kannada, Telugu, Bengali and other literary worlds deepen translation + commentary +"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "inscription + devotional performance regional cultures become locally rooted yet interregionally connected",
+            "CONTINUITY: Sanskrit does not vanish. CHANGE: vernacular agency expands."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SANSKRIT COSMOPOLIS → portable prestige, genealogy and political idiom",
+            "Tamil, Kannada, Telugu, Bengali and other literary worlds deepen translation + commentary +"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTINUITY: Sanskrit does not vanish. CHANGE: vernacular agency expands.",
+      "source_references": [
+        "Language",
+        "Vernacularisation",
+        "Knowledge traditions",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EVIDENCE-LED SYNTHESIS ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EVIDENCE-LED SYNTHESIS ANSWER SPINE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFINE EARLY MEDIEVAL AS AN UNEVEN AND DEBATED TRANSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "FEUDAL + SEGMENTARY + INTEGRATIVE + REGIONAL-STATE COMPARISON",
+          "role": "institution"
+        },
+        {
+          "text": "REGIONAL FORMATIONS + SAMANTAS + SCALE-DEPENDENT RECONFIGURATION",
+          "role": "evidence"
+        },
+        {
+          "text": "GRANTS + LABOUR + AGRARIAN EXPANSION + VARIED TRADE",
+          "role": "primary"
+        },
+        {
+          "text": "JATI + EXCLUSION + GENDER + FRONTIER AND LOCAL",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPLE/MONASTERY + BHAKTI + SANSKRIT AND VERNACULAR CONTINUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ANCIENT INSTITUTIONS SURVIVE THROUGH REGIONAL TRANSFORMATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN → define early medieval as an uneven and debated transition",
+        "MODEL → feudal + segmentary + integrative + regional-state comparison",
+        "POLITY → regional formations + samantas + scale-dependent reconfiguration",
+        "ECONOMY → grants + labour + agrarian expansion + varied trade and towns",
+        "SOCIETY → jati + exclusion + gender + frontier and local agency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "OPEN → define early medieval as an uneven and debated transition",
+            "MODEL → feudal + segmentary + integrative + regional-state comparison",
+            "POLITY → regional formations + samantas + scale-dependent reconfiguration"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "ECONOMY → grants + labour + agrarian expansion + varied trade and towns",
+            "SOCIETY → jati + exclusion + gender + frontier and local agency",
+            "CULTURE → temple/monastery + bhakti + Sanskrit and vernacular continuity"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "CLOSE → ancient institutions survive through regional transformation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → ancient institutions survive through regional transformation.",
+      "source_references": [
+        "Source criticism",
+        "Legacy",
+        "Answer architecture",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g5\\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FROM ANCIENT TO MEDIEVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL CHANGE & LEGACY — ADVANCED",
+          "role": "comparison"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "comparison"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "From Ancient to Medieval: Social Change & Legacy — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Historiography quick grid",
+            "Agrarian expansion occurred in various regions and rural societies became increasingly complex.",
+            "Land grants could transfer fiscal, administrative and social rights, reshaping the relation between ruler, donee and cultivator."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

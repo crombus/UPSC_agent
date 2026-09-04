@@ -1,0 +1,1076 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-07",
+  "subject": "Disaster-Management",
+  "title": "CYCLONES, STORM SURGE AND COASTAL PREPAREDNESS",
+  "short_route": "COMPOUND CYCLONE HAZARD MAP → CYCLOGENESIS BOUNDARY → COASTAL WATER FIREWALL → IMD INFORMATION RAIL → COLOUR-STAGE MATRIX → WARNING-TO-EVACUATION CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-07-deep-review-2026-09-04-g2.json",
+  "ascii_spec_sha256": "78128ef2b5d9712255e600b13f5eb27c317b9929088332670b4b951e1961d6e6",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COMPOUND CYCLONE HAZARD MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMPOUND CYCLONE HAZARD MAP",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURE DEBRIS POWER TELECOM",
+          "role": "mechanism"
+        },
+        {
+          "text": "RIVERINE FLASH PLUVIAL URBAN FLOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "STORM SURGE + WAVES",
+          "role": "evidence"
+        },
+        {
+          "text": "COASTAL INUNDATION EROSION",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSPORT HEALTH WATER AND LIVELIHOODS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "WIND → structure debris power telecom",
+        "RAIN → riverine flash pluvial urban flood",
+        "STORM SURGE + WAVES → coastal inundation erosion",
+        "CASCADE → transport health water and livelihoods"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "WIND → structure debris power telecom",
+            "RAIN → riverine flash pluvial urban flood"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "STORM SURGE + WAVES → coastal inundation erosion",
+            "CASCADE → transport health water and livelihoods"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "WIND → structure debris power telecom",
+            "RAIN → riverine flash pluvial urban flood"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STORM SURGE + WAVES → coastal inundation erosion.",
+      "source_references": [
+        "Compound cyclone hazard",
+        "Wind hazard",
+        "Rainfall hazard",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CYCLOGENESIS BOUNDARY",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CYCLOGENESIS BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "WARM WATER + INSTABILITY + MOISTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORIOLIS + DISTURBANCE + LIMITED SHEAR",
+          "role": "comparison"
+        },
+        {
+          "text": "CYCLONIC SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "DM FOCUS",
+          "role": "primary"
+        },
+        {
+          "text": "EXPOSURE WARNING ACTION CONTINUITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "WARM WATER + INSTABILITY + MOISTURE",
+        "CORIOLIS + DISTURBANCE + LIMITED SHEAR",
+        "CYCLONIC SYSTEM",
+        "DM FOCUS → exposure warning action continuity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "WARM WATER + INSTABILITY + MOISTURE",
+            "CORIOLIS + DISTURBANCE + LIMITED SHEAR"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CYCLONIC SYSTEM",
+            "DM FOCUS → exposure warning action continuity"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "WARM WATER + INSTABILITY + MOISTURE",
+            "CORIOLIS + DISTURBANCE + LIMITED SHEAR"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CYCLONIC SYSTEM; DM FOCUS → exposure warning action continuity.",
+      "source_references": [
+        "Cyclogenesis boundary",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COASTAL WATER FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COASTAL WATER FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "STORM SURGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CYCLONE WIND AND PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "ASTRONOMICAL GRAVITATIONAL CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "SUDDEN WATER DISPLACEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "TOTAL WATER LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERACTING BUT DISTINCT COMPONENTS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "STORM SURGE → cyclone wind and pressure",
+        "TIDE → astronomical gravitational cycle",
+        "TSUNAMI → sudden water displacement",
+        "TOTAL WATER LEVEL → interacting but distinct components"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "STORM SURGE → cyclone wind and pressure",
+          "TSUNAMI → sudden water displacement",
+          "STORM SURGE → cyclone wind and pressure"
+        ],
+        [
+          "TIDE → astronomical gravitational cycle",
+          "TOTAL WATER LEVEL → interacting but distinct components",
+          "TIDE → astronomical gravitational cycle"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "STORM SURGE → cyclone wind and pressure",
+            "TIDE → astronomical gravitational cycle"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TSUNAMI → sudden water displacement",
+            "TOTAL WATER LEVEL → interacting but distinct components"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "STORM SURGE → cyclone wind and pressure",
+            "TIDE → astronomical gravitational cycle"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TOTAL WATER LEVEL → interacting but distinct components.",
+      "source_references": [
+        "Storm surge",
+        "Surge tide tsunami firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "IMD INFORMATION RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "IMD INFORMATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 OBSERVE",
+          "role": "outcome"
+        },
+        {
+          "text": "2 CLASSIFY",
+          "role": "comparison"
+        },
+        {
+          "text": "FORECAST TRACK AND INTENSITY",
+          "role": "evidence"
+        },
+        {
+          "text": "3 ISSUE IMPACT AND HAZARD INFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "4 UPDATE AS UNCERTAINTY CHANGES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1 OBSERVE / ANALYSE",
+        "2 CLASSIFY / FORECAST TRACK AND INTENSITY",
+        "3 ISSUE IMPACT AND HAZARD INFORMATION",
+        "4 UPDATE AS UNCERTAINTY CHANGES"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 OBSERVE / ANALYSE",
+            "2 CLASSIFY / FORECAST TRACK AND INTENSITY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 ISSUE IMPACT AND HAZARD INFORMATION",
+            "4 UPDATE AS UNCERTAINTY CHANGES"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 OBSERVE / ANALYSE",
+            "2 CLASSIFY / FORECAST TRACK AND INTENSITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "3 ISSUE IMPACT AND HAZARD INFORMATION; 4 UPDATE AS UNCERTAINTY CHANGES.",
+      "source_references": [
+        "IMD classification",
+        "Forecast and warning",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COLOUR-STAGE MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COLOUR-STAGE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "ACTION LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "BULLETIN STAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "LEAD-TIME SEQUENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "REQUIRE LOCAL ACTION PROTOCOL",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GREEN / YELLOW / ORANGE / RED → ACTION LEVEL",
+        "WATCH / ALERT / WARNING / POST-LANDFALL → BULLETIN STAGE",
+        "COLOUR != LEAD-TIME SEQUENCE",
+        "BOTH → require local action protocol"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "GREEN / YELLOW / ORANGE / RED → ACTION LEVEL",
+          "COLOUR != LEAD-TIME SEQUENCE",
+          "GREEN / YELLOW / ORANGE / RED → ACTION LEVEL"
+        ],
+        [
+          "WATCH / ALERT / WARNING / POST-LANDFALL → BULLETIN STAGE",
+          "BOTH → require local action protocol",
+          "WATCH / ALERT / WARNING / POST-LANDFALL → BULLETIN STAGE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "GREEN / YELLOW / ORANGE / RED → ACTION LEVEL",
+            "WATCH / ALERT / WARNING / POST-LANDFALL → BULLETIN STAGE"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COLOUR != LEAD-TIME SEQUENCE",
+            "BOTH → require local action protocol"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "GREEN / YELLOW / ORANGE / RED → ACTION LEVEL",
+            "WATCH / ALERT / WARNING / POST-LANDFALL → BULLETIN STAGE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WATCH / ALERT / WARNING / POST-LANDFALL → BULLETIN STAGE.",
+      "source_references": [
+        "Action codes and bulletin stages",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WARNING-TO-EVACUATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WARNING-TO-EVACUATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL FORECAST",
+          "role": "outcome"
+        },
+        {
+          "text": "AREA DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSPORT + ROUTE + LIVESTOCK",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSET PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESSIBLE SHELTER + REGISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL CLEAR",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPETENT AUTHORITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OFFICIAL FORECAST → AREA DECISION",
+        "TRANSPORT + ROUTE + LIVESTOCK / ASSET PLAN",
+        "ACCESSIBLE SHELTER + REGISTRATION",
+        "ALL CLEAR / RETURN → COMPETENT AUTHORITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "OFFICIAL FORECAST → AREA DECISION",
+            "TRANSPORT + ROUTE + LIVESTOCK / ASSET PLAN"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCESSIBLE SHELTER + REGISTRATION",
+            "ALL CLEAR / RETURN → COMPETENT AUTHORITY"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "OFFICIAL FORECAST → AREA DECISION",
+            "TRANSPORT + ROUTE + LIVESTOCK / ASSET PLAN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSPORT + ROUTE + LIVESTOCK / ASSET PLAN.",
+      "source_references": [
+        "Evacuation decision",
+        "Last-mile preparedness",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SHELTER READINESS TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SHELTER READINESS TEST",
+          "role": "primary"
+        },
+        {
+          "text": "SAFE SITE AND ACCESS?",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER SANITATION POWER ACCESSIBILITY?",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRAINED MANAGEMENT AND MAINTENANCE?",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSET EXISTS BUT READINESS UNPROVEN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SAFE SITE AND ACCESS?",
+        "WATER SANITATION POWER ACCESSIBILITY?",
+        "TRAINED MANAGEMENT AND MAINTENANCE?",
+        "NO → ASSET EXISTS BUT READINESS UNPROVEN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "SAFE SITE AND ACCESS?",
+            "WATER SANITATION POWER ACCESSIBILITY?"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "TRAINED MANAGEMENT AND MAINTENANCE?",
+            "NO → ASSET EXISTS BUT READINESS UNPROVEN"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "SAFE SITE AND ACCESS?",
+            "WATER SANITATION POWER ACCESSIBILITY?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAINED MANAGEMENT AND MAINTENANCE?; NO → ASSET EXISTS BUT READINESS UNPROVEN.",
+      "source_references": [
+        "Cyclone shelters",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CRITICAL-SERVICE WEB",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CRITICAL-SERVICE WEB",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPLY CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "EOC / HOSPITAL / RESCUE",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER / WATER / TELECOM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "EOC / HOSPITAL / RESCUE",
+        "POWER / WATER / TELECOM",
+        "ROAD / PORT / SUPPLY CHAIN",
+        "REDUNDANCY → ASSESS → RESTORE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "EOC / HOSPITAL / RESCUE",
+            "POWER / WATER / TELECOM"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ROAD / PORT / SUPPLY CHAIN",
+            "REDUNDANCY → ASSESS → RESTORE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EOC / HOSPITAL / RESCUE",
+            "POWER / WATER / TELECOM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROAD / PORT / SUPPLY CHAIN; REDUNDANCY → ASSESS → RESTORE.",
+      "source_references": [
+        "Critical-service continuity",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "HOUSING-TO-ECOSYSTEM PORTFOLIO",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HOUSING-TO-ECOSYSTEM PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "SITING CODE COMPLIANCE MAINTENANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIFELINE HARDENING AND REDUNDANCY",
+          "role": "comparison"
+        },
+        {
+          "text": "MANGROVE DUNE WETLAND PROTECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "LAYERED DEFENCE WITH RESIDUAL RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HOUSING → siting code compliance maintenance",
+        "INFRASTRUCTURE → lifeline hardening and redundancy",
+        "ECOSYSTEM → mangrove dune wetland protection",
+        "RULE → layered defence with residual risk"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "HOUSING → siting code compliance maintenance",
+          "ECOSYSTEM → mangrove dune wetland protection",
+          "HOUSING → siting code compliance maintenance"
+        ],
+        [
+          "INFRASTRUCTURE → lifeline hardening and redundancy",
+          "RULE → layered defence with residual risk",
+          "INFRASTRUCTURE → lifeline hardening and redundancy"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "HOUSING → siting code compliance maintenance",
+            "INFRASTRUCTURE → lifeline hardening and redundancy"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ECOSYSTEM → mangrove dune wetland protection",
+            "RULE → layered defence with residual risk"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "HOUSING → siting code compliance maintenance",
+            "INFRASTRUCTURE → lifeline hardening and redundancy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ECOSYSTEM → mangrove dune wetland protection; RULE → layered defence with residual risk.",
+      "source_references": [
+        "Resilient housing",
+        "Coastal ecosystems",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NCRMP STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NCRMP STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECT APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSET CREATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PHASE COMPLETION",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL HAND-OFF",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATION + MAINTENANCE + DRILLS",
+          "role": "outcome"
+        },
+        {
+          "text": "CURRENT READINESS",
+          "role": "comparison"
+        },
+        {
+          "text": "NEEDS SEPARATE EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROJECT APPROVAL → ASSET CREATION",
+        "PHASE COMPLETION → STATE / LOCAL HAND-OFF",
+        "OPERATION + MAINTENANCE + DRILLS",
+        "CURRENT READINESS → needs separate evidence",
+        "MUST REMEMBER: Cyclone disaster risk joins wind, storm surge, heavy rainfall, waves"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PROJECT APPROVAL → ASSET CREATION",
+            "PHASE COMPLETION → STATE / LOCAL HAND-OFF"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OPERATION + MAINTENANCE + DRILLS",
+            "CURRENT READINESS → needs separate evidence"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Cyclone disaster risk joins wind, storm surge, heavy rainfall, waves,...",
+            "PROJECT APPROVAL → ASSET CREATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Cyclone disaster risk joins wind, storm surge, heavy rainfall, waves,.",
+      "source_references": [
+        "NCRMP status",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-07_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LIVELIHOOD RECOVERY LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LIVELIHOOD RECOVERY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "BOAT GEAR LIVESTOCK AND MARKET ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIEF + SOCIAL PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFER CONDITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "BUILD BACK BETTER",
+          "role": "primary"
+        },
+        {
+          "text": "REDUCE FUTURE EXPOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CYCLONE CATEGORY IS NOT STORM-SURGE HEIGHT; FORECAST LANDFALL IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WARNING → BOAT GEAR LIVESTOCK AND MARKET ACTION",
+        "IMPACT → RELIEF + SOCIAL PROTECTION",
+        "REPAIR / REOPEN → SAFER CONDITIONS",
+        "BUILD BACK BETTER → REDUCE FUTURE EXPOSURE",
+        "CLOSE DISTINCTION: Cyclone category is not storm-surge height; forecast landfall is not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "WARNING → BOAT GEAR LIVESTOCK AND MARKET ACTION",
+            "IMPACT → RELIEF + SOCIAL PROTECTION"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "REPAIR / REOPEN → SAFER CONDITIONS",
+            "BUILD BACK BETTER → REDUCE FUTURE EXPOSURE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Cyclone category is not storm-surge height; forecast landfall is not...",
+            "WARNING → BOAT GEAR LIVESTOCK AND MARKET ACTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Cyclone category is not storm-surge height; forecast landfall is not.",
+      "source_references": [
+        "Livelihood preparedness",
+        "Build Back Better",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-07_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CYCLONE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CYCLONE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE COMPOUND HAZARD",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE SURGE TIDE TSUNAMI",
+          "role": "comparison"
+        },
+        {
+          "text": "MAP IMD CLASSIFICATION FORECAST COLOUR AND BULLETIN STAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONNECT EVACUATION SHELTER LIFELINES HOUSING AND ECOSYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "ADD LIVELIHOODS BBB MAINTENANCE AND OUTCOME QUALIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE IMD TERMINOLOGY AND TIMESTAMPED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE COMPOUND HAZARD → SEPARATE SURGE TIDE TSUNAMI",
+        "MAP IMD CLASSIFICATION FORECAST COLOUR AND BULLETIN STAGE",
+        "CONNECT EVACUATION SHELTER LIFELINES HOUSING AND ECOSYSTEMS",
+        "ADD LIVELIHOODS BBB MAINTENANCE AND OUTCOME QUALIFICATION",
+        "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use IMD terminology and timestamped"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEFINE COMPOUND HAZARD → SEPARATE SURGE TIDE TSUNAMI",
+            "MAP IMD CLASSIFICATION FORECAST COLOUR AND BULLETIN STAGE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "CONNECT EVACUATION SHELTER LIFELINES HOUSING AND ECOSYSTEMS",
+            "ADD LIVELIHOODS BBB MAINTENANCE AND OUTCOME QUALIFICATION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use IMD terminology and timestamped...",
+            "DEFINE COMPOUND HAZARD → SEPARATE SURGE TIDE TSUNAMI"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use IMD terminology and timestamped...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use IMD terminology and timestamped.",
+      "source_references": [
+        "Differentiated coastal risk",
+        "Warning-outcome firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-07_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MULTI-SECTORAL PREMISE, EXPLICITLY STATED",
+          "role": "outcome"
+        },
+        {
+          "text": "NDMA'S 2008 CYCLONE",
+          "role": "comparison"
+        },
+        {
+          "text": "NCRMP'S INSTITUTIONAL STRUCTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "NDMA (UNDER MHA) IMPLEMENTS IN",
+          "role": "primary"
+        },
+        {
+          "text": "ASYMMETRIC COASTAL EXPOSURE, PRECISELY QUANTIFIED IN THE SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "1994 ODISHA CYCLONE AS A CASCADING-HAZARD CASE",
+          "role": "comparison"
+        },
+        {
+          "text": "AIRCRAFT PROBING OF CYCLONE (APC) AS AN UNDER-INSTITUTIONALISED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Multi-sectoral premise, explicitly stated : NDMA's 2008 cyclone",
+            "NCRMP's institutional structure : NDMA (under MHA) implements in",
+            "Asymmetric coastal exposure, precisely quantified in the source :",
+            "CAUTION: 1994 Odisha cyclone as a cascading-hazard case : cyclone"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Aircraft Probing of Cyclone (APC) as an under-institutionalised",
+            "CAUTION: VisionIAS names \"a lack of a fully automated and state-of-the-art",
+            "CAUTION: VisionIAS's \"lack of grass root level participation in disaster",
+            "CAUTION: Category-based investment prioritisation is itself a trade-off."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Saline-embankment/bio-shield maintenance versus new-construction",
+            "NOT: The \"NCRMP exists, therefore coastal States are protected\"",
+            "CAUTION: Network fragmentation across agencies : the explicit call for",
+            "NCRMP's blended financing (NDMA/MHA-led, State-coordinated,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

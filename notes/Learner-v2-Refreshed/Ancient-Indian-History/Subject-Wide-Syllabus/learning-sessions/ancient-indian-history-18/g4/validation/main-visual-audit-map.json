@@ -1,0 +1,1975 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-18",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 5,
+      "heading": "The Sangam Age & the Deep South - Complete Topic Package",
+      "preview": "Subject: Ancient Indian History | Paper: GS-I + Prelims | Topic: 18 | Generated: 14 August 2026  Approval state: generated, approved=false. This package awaits explicit user approval.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 706.624
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 18,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 648.624
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 429.622
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 41,
+      "markdown_body_line_end": 41,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\ancient-indian-history-18_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 56,
+      "markdown_body_line_end": 56,
+      "heading": "Original visual asset index",
+      "preview": "map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\01_tamilakam_schematic_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 288.756
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 499.458
+        }
+      },
+      "pdf_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 58,
+      "markdown_body_line_end": 58,
+      "heading": "Original visual asset index",
+      "preview": "dynasties",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\02_chera_chola_pandya_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 499.458
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 195.626
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "Original visual asset index",
+      "preview": "sources",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\03_sangam_corpus_source_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 195.626
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 499.458
+        }
+      },
+      "pdf_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 62,
+      "heading": "Original visual asset index",
+      "preview": "trade",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\04_trade_port_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 499.458
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 203.941
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "Original visual asset index",
+      "preview": "social",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\05_social_economy_tinai_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 203.941
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 499.458
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "Original visual asset index",
+      "preview": "polity",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\06_warrior_redistribution_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 499.458
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 195.626
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 68,
+      "markdown_body_line_end": 68,
+      "heading": "Original visual asset index",
+      "preview": "chronology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\07_evidence_led_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 195.626
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 547.684
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 70,
+      "markdown_body_line_end": 70,
+      "heading": "Original visual asset index",
+      "preview": "answer",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\08_gs1_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 547.684
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 243.851
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 78,
+      "heading": "01. Package method, roadmap and evidence discipline",
+      "preview": "01. Package method, roadmap and evidence discipline",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\07_evidence_led_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 547.684
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 117,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Geography mattered through river valleys, Ghats, monsoon-facing coasts, uplands and maritime access; it did not mechanically create one political system.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 134,
+      "markdown_body_line_end": 134,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "02. Tamilakam: geography, ecological zones and spatial imagination",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\01_tamilakam_schematic_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 396.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 92.791
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 167,
+      "markdown_body_line_end": 184,
+      "heading": "CLOSING RECALL FLOW - TAMILAKAM: GEOGRAPHY, ECOLOGICAL ZONES AND SPATIAL IMAGINATION",
+      "preview": "START / CONCEPT: Tamilakam: geography, ecological zones and spatial imagination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 330
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 362.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 121.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 195,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Burials, inscriptions, poems, coins, imported ceramics and settlement layers each have their own chronology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 220,
+      "heading": "Chronology",
+      "preview": "Date/phase | Marker",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Date/phase",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 384.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 253.822
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 265,
+      "heading": "CLOSING RECALL FLOW - CHRONOLOGY AND EVIDENTIARY LIMITS",
+      "preview": "START / CONCEPT: Chronology and evidentiary limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 410.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 276,
+      "markdown_body_line_end": 276,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The corpus conventionally includes the Ettuttokai (Eight Anthologies) and Pattuppattu (Ten Idylls); Tolkappiyam is central to grammar and poetics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 290.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 223.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 293,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "04. Sangam corpus, genre, grammar and poetics",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\03_sangam_corpus_source_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 418.458
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 304,
+      "heading": "Evidence matrix",
+      "preview": "Source family | High-value use | Main caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Source family",
+          "High-value use",
+          "Main caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 382.258
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 272.857
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 352,
+      "heading": "CLOSING RECALL FLOW - SANGAM CORPUS, GENRE, GRAMMAR AND POETICS",
+      "preview": "START / CONCEPT: Sangam corpus, genre, grammar and poetics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 587.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 376.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 363,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The safest description is a spectrum from chiefdoms toward early states, varying by region and phase.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 236.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 184.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 380,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "05. Polity: chiefly order, courts and early administration",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\06_warrior_redistribution_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 717.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 413.458
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 428,
+      "heading": "CLOSING RECALL FLOW - POLITY: CHIEFLY ORDER, COURTS AND EARLY ADMINISTRATION",
+      "preview": "START / CONCEPT: Polity: chiefly order, courts and early administration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 333
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 521.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 439,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Muvendar or three crowned lineages are Chera, Chola and Pandya.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 409.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 357.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 456,
+      "markdown_body_line_end": 456,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "06. Chera, Chola and Pandya: comparison without anachronism",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\02_chera_chola_pandya_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 499.458
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 462,
+      "markdown_body_line_end": 466,
+      "heading": "Evidence matrix",
+      "preview": "Lineage | Core associations | High-value caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Lineage",
+          "Core associations",
+          "High-value caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 463.258
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 375.057
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 513,
+      "heading": "CLOSING RECALL FLOW - CHERA, CHOLA AND PANDYA: COMPARISON WITHOUT ANACHRONISM",
+      "preview": "START / CONCEPT: Chera, Chola and Pandya: comparison without anachronism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 725.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 514.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 524,
+      "markdown_body_line_end": 524,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cattle and agrarian produce could be objects of raiding and redistribution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 355.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 541,
+      "markdown_body_line_end": 541,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. Warfare, honour, heroism and redistribution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\06_warrior_redistribution_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 499.458
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 572,
+      "markdown_body_line_end": 589,
+      "heading": "CLOSING RECALL FLOW - WARFARE, HONOUR, HEROISM AND REDISTRIBUTION",
+      "preview": "START / CONCEPT: Warfare, honour, heroism and redistribution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 150
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 600,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CORRECT: Agriculture, pastoralism, crafts and internal exchange were foundational.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 398.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 617,
+      "markdown_body_line_end": 617,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "08. Agriculture, pastoralism, crafts and internal exchange",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\05_social_economy_tinai_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 172.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 499.458
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 623,
+      "markdown_body_line_end": 628,
+      "heading": "Evidence matrix",
+      "preview": "Sector | Named evidence | Interpretive limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Sector",
+          "Named evidence",
+          "Interpretive limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 463.258
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 353.857
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 657,
+      "markdown_body_line_end": 674,
+      "heading": "CLOSING RECALL FLOW - AGRICULTURE, PASTORALISM, CRAFTS AND INTERNAL EXCHANGE",
+      "preview": "START / CONCEPT: Agriculture, pastoralism, crafts and internal exchange",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 742.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 521.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 685,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ports were interfaces fed by agrarian, pastoral and craft hinterlands; inland routes are as important as sea lanes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 382.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 329.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 702,
+      "markdown_body_line_end": 702,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "09. Inland routes, ports and Indian Ocean networks",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\04_trade_port_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 507.774
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 752,
+      "heading": "CLOSING RECALL FLOW - INLAND ROUTES, PORTS AND INDIAN OCEAN NETWORKS",
+      "preview": "START / CONCEPT: Inland routes, ports and Indian Ocean networks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 763,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Roman coins and Mediterranean ceramics are important evidence for contact, consumption and chronology; they do not by themselves prove colonization or political dependence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 780,
+      "markdown_body_line_end": 780,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Coins, Roman links, Arikamedu and the Muziris question",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\04_trade_port_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 158.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 507.774
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 791,
+      "heading": "Evidence matrix",
+      "preview": "Evidence | Safe conclusion | Unsafe leap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence",
+          "Safe conclusion",
+          "Unsafe leap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 471.574
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 362.172
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 820,
+      "markdown_body_line_end": 837,
+      "heading": "CLOSING RECALL FLOW - COINS, ROMAN LINKS, ARIKAMEDU AND THE MUZIRIS QUESTION",
+      "preview": "START / CONCEPT: Coins, Roman links, Arikamedu and the Muziris question",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 692.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 481.491
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 848,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Elite women and poetesses are visible, but visibility is selective and cannot establish generalized emancipation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 341.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 865,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11. Society, kinship, labour, women and the varna question",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\05_social_economy_tinai_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 499.458
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 898,
+      "markdown_body_line_end": 915,
+      "heading": "CLOSING RECALL FLOW - SOCIETY, KINSHIP, LABOUR, WOMEN AND THE VARNA QUESTION",
+      "preview": "START / CONCEPT: Society, kinship, labour, women and the varna question",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 926,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cultural change is better understood as interaction and layering than as a sudden replacement of local traditions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 427.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 987,
+      "heading": "CLOSING RECALL FLOW - RELIGION, RITUAL AND CULTURAL LIFE",
+      "preview": "START / CONCEPT: Religion, ritual and cultural life",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 556.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 335.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 998,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Megalithic is an archaeological category with regional and chronological variation, not one ethnicity or single political culture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 228.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 161.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1017,
+      "markdown_body_line_end": 1022,
+      "heading": "Evidence matrix",
+      "preview": "Material clue | What it can support | What it cannot alone prove",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Material clue",
+          "What it can support",
+          "What it cannot alone prove"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 671.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 562.49
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1053,
+      "markdown_body_line_end": 1070,
+      "heading": "CLOSING RECALL FLOW - MEGALITHIC AND ARCHAEOLOGICAL CONTEXT",
+      "preview": "START / CONCEPT: Megalithic and archaeological context",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1081,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "'Early state' is an analytical category, not a claim that every crowned ruler possessed stable territorial sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1098,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. From chiefdoms toward early states",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\08_gs1_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 499.458
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1128,
+      "markdown_body_line_end": 1145,
+      "heading": "CLOSING RECALL FLOW - FROM CHIEFDOMS TOWARD EARLY STATES",
+      "preview": "START / CONCEPT: From chiefdoms toward early states",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 443
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1156,
+      "markdown_body_line_end": 1156,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Verdict: poems are not exact chronicles but remain rich evidence for values, institutions and material culture. [DEBATE] Roman colony versus connected local settlement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 415.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 348.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1180,
+      "heading": "Evidence matrix",
+      "preview": "Question | Overclaim | Defensible formulation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Overclaim",
+          "Defensible formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1209,
+      "markdown_body_line_end": 1226,
+      "heading": "CLOSING RECALL FLOW - HISTORIOGRAPHICAL DEBATES AND COMPARISON",
+      "preview": "START / CONCEPT: Historiographical debates and comparison",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 251.69
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 40.69
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1237,
+      "markdown_body_line_end": 1237,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This linkage does not override the repository chronology, local book evidence, or the source limitations printed throughout the package.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1271,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 413.824
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 202.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2022,
+      "markdown_body_line_end": 2022,
+      "heading": "17. Original solved Mains practice and answer architecture",
+      "preview": "17. Original solved Mains practice and answer architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g4\\assets\\08_gs1_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 702.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 398.858
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2175,
+      "markdown_body_line_end": 2178,
+      "heading": "The Sangam Age & the Deep South - ADVANCED",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, sections on Tamilakam, trade and ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 423.891
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 336.624
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2184,
+      "markdown_body_line_end": 2189,
+      "heading": "Mini-timeline",
+      "preview": "Phase | Date | Marker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Phase",
+          "Date",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 309.124
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 199.722
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2209,
+      "markdown_body_line_end": 2215,
+      "heading": "2. Key classification / data",
+      "preview": "Evidence type | What it tells us | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence type",
+          "What it tells us",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 617.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 486.69
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2219,
+      "markdown_body_line_end": 2220,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Upinder Singh → Tamilakam, trade networks, Arikamedu, Pattanam/Muziris debate. **Study link:** ⚠️ Indian Ocean commerce → `advanced/19_Crafts-Commerce-Urban-Growth.md`; megalithic base → `basic/18_Sangam-Age-Deep-South.md`",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 461.69
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 402.822
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2232,
+      "markdown_body_line_end": 2232,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: \"Roman artefact\" does not automatically mean \"Roman settlement\".",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 238.422
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 207.954
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2405,
+      "markdown_body_line_end": 2412,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Tamilakam geography and tinai",
+      "preview": "VENKATAM / TIRUPATI HILLS -> conventional northern marker",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2416,
+      "markdown_body_line_end": 2424,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Evidence and chronology architecture",
+      "preview": "MEGALITHIC / IRON-AGE BACKGROUND",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2428,
+      "markdown_body_line_end": 2436,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Sangam corpus: akam and puram",
+      "preview": "ETTUTTOKAI + PATTUPPATTU + TOLKAPPIYAM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2440,
+      "markdown_body_line_end": 2447,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Chera, Chola and Pandya comparison",
+      "preview": "CHERA -> western routes / pepper / Muchiri / Senguttuvan",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2451,
+      "markdown_body_line_end": 2461,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Chiefship, warfare, gift and fame",
+      "preview": "AGRARIAN / PASTORAL / COASTAL RESOURCES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 390.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2465,
+      "markdown_body_line_end": 2474,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Production and internal exchange",
+      "preview": "ECOLOGICAL ZONES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2478,
+      "markdown_body_line_end": 2485,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Port and hinterland network",
+      "preview": "HINTERLAND PRODUCTION -> MARKET / CARAVAN -> PORT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2489,
+      "markdown_body_line_end": 2497,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Mediterranean links, Arikamedu and Pattanam",
+      "preview": "COINS + AMPHORAE + CERAMICS + PAPYRUS / CLASSICAL TEXTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2501,
+      "markdown_body_line_end": 2508,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Society, labour, women and varna",
+      "preview": "COURT ELITES / CHIEFS / BARDS / WARRIORS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 401.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2512,
+      "markdown_body_line_end": 2519,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Religion, culture and megalithic context",
+      "preview": "MURUGAN / MAYON / KORRAVAI + Brahmanical vocabulary",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 379.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 307.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2523,
+      "markdown_body_line_end": 2530,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Chiefdom-to-state debate",
+      "preview": "CHIEFDOM READING -> personal retinue, raid, gift and bardic prestige",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2534,
+      "markdown_body_line_end": 2542,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and answer spine",
+      "preview": "PRELIMS: varna awareness | ports | Vattakirutal | ruler-lineage pairs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1082 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-16",
+  "subject": "Disaster-Management",
+  "title": "DISASTER FINANCE, RISK TRANSFER AND BUILD BACK BETTER",
+  "short_route": "FINANCE TIMING MAP → STATUTORY FUND GRID → LIQUIDITY LADDER → RISK-BEARER MAP → INSURANCE SPLIT → RISK-POOL TEST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-16-deep-review-2026-09-04-g2.json",
+  "ascii_spec_sha256": "d8cb069aa8d2525a389ccfb69f9dcbffb835b96bfe79f804e3c589b4294f02e9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FINANCE TIMING MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FINANCE TIMING MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MITIGATION PREPAREDNESS RESERVE PRE-ARRANGED COVER",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIEF REALLOCATION BORROWING APPEAL",
+          "role": "comparison"
+        },
+        {
+          "text": "TIMING DOES NOT PROVE RISK REDUCTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EX-ANTE → MITIGATION PREPAREDNESS RESERVE PRE-ARRANGED COVER",
+        "EX-POST → RELIEF REALLOCATION BORROWING APPEAL",
+        "RETAIN / TRANSFER / SHARE",
+        "TIMING DOES NOT PROVE RISK REDUCTION"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "EX-ANTE → MITIGATION PREPAREDNESS RESERVE PRE-ARRANGED COVER",
+          "RETAIN / TRANSFER / SHARE",
+          "EX-ANTE → MITIGATION PREPAREDNESS RESERVE PRE-ARRANGED COVER"
+        ],
+        [
+          "EX-POST → RELIEF REALLOCATION BORROWING APPEAL",
+          "TIMING DOES NOT PROVE RISK REDUCTION",
+          "EX-POST → RELIEF REALLOCATION BORROWING APPEAL"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "EX-ANTE → MITIGATION PREPAREDNESS RESERVE PRE-ARRANGED COVER",
+            "EX-POST → RELIEF REALLOCATION BORROWING APPEAL"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RETAIN / TRANSFER / SHARE",
+            "TIMING DOES NOT PROVE RISK REDUCTION"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "EX-ANTE → MITIGATION PREPAREDNESS RESERVE PRE-ARRANGED COVER",
+            "EX-POST → RELIEF REALLOCATION BORROWING APPEAL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RETAIN / TRANSFER / SHARE; TIMING DOES NOT PROVE RISK REDUCTION.",
+      "source_references": [
+        "Ex-ante finance",
+        "Ex-post finance",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STATUTORY FUND GRID",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATUTORY FUND GRID",
+          "role": "primary"
+        },
+        {
+          "text": "S.46 NATIONAL RESPONSE FUND S.47 NATIONAL MITIGATION FUND S.48",
+          "role": "outcome"
+        },
+        {
+          "text": "FORCE; RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "FUND != FORCE; RESPONSE != MITIGATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "s.46 NATIONAL RESPONSE FUND s.47 NATIONAL MITIGATION FUND s.48 STATE RESPONSE + MITIGATION FUNDS",
+        "FUND != FORCE; RESPONSE != MITIGATION"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "s.46 NATIONAL RESPONSE FUND s.47 NATIONAL MITIGATION FUND s.48 STATE RESPONSE + MITIGATION FUNDS",
+          "s.46 NATIONAL RESPONSE FUND s.47 NATIONAL MITIGATION FUND s.48 STATE RESPONSE + MITIGATION FUNDS",
+          "s.46 NATIONAL RESPONSE FUND s.47 NATIONAL MITIGATION FUND s.48 STATE RESPONSE + MITIGATION FUNDS"
+        ],
+        [
+          "FUND != FORCE; RESPONSE != MITIGATION",
+          "FUND != FORCE; RESPONSE != MITIGATION",
+          "FUND != FORCE; RESPONSE != MITIGATION"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "s.46 NATIONAL RESPONSE FUND s.47 NATIONAL MITIGATION FUND s.48 STATE RESPONSE + MITIGATION FUNDS",
+            "FUND != FORCE; RESPONSE != MITIGATION"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "s.46 NATIONAL RESPONSE FUND s.47 NATIONAL MITIGATION FUND s.48 STATE RESPONSE + MITIGATION FUNDS",
+            "FUND != FORCE; RESPONSE != MITIGATION"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "s.46 NATIONAL RESPONSE FUND s.47 NATIONAL MITIGATION FUND s.48 STATE RESPONSE + MITIGATION FUNDS",
+            "FUND != FORCE; RESPONSE != MITIGATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "s.46 NATIONAL RESPONSE FUND s.47 NATIONAL MITIGATION FUND s.48 STATE RESPONSE + MITIGATION FUNDS.",
+      "source_references": [
+        "Four-fund statutory grid",
+        "Response versus mitigation funds",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LIQUIDITY LADDER",
+      "structural_type": "layered-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LIQUIDITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ANNUAL BUDGET",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINGENCY RESERVE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRE-ARRANGED DRAWDOWN",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINGENT FINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "EXCEPTIONAL BORROWING",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNAL SUPPORT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ANNUAL BUDGET / CONTINGENCY RESERVE",
+        "PRE-ARRANGED DRAWDOWN / CONTINGENT FINANCE",
+        "INSURANCE / POOL",
+        "EXCEPTIONAL BORROWING / EXTERNAL SUPPORT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ANNUAL BUDGET / CONTINGENCY RESERVE",
+            "PRE-ARRANGED DRAWDOWN / CONTINGENT FINANCE"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSURANCE / POOL",
+            "EXCEPTIONAL BORROWING / EXTERNAL SUPPORT"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ANNUAL BUDGET / CONTINGENCY RESERVE",
+            "PRE-ARRANGED DRAWDOWN / CONTINGENT FINANCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSURANCE / POOL; EXCEPTIONAL BORROWING / EXTERNAL SUPPORT.",
+      "source_references": [
+        "Budgetary and contingency reserves",
+        "Pre-arranged finance",
+        "Risk layering",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RISK-BEARER MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RISK-BEARER MAP",
+          "role": "caution"
+        },
+        {
+          "text": "UNION <→ STATE <→ LOCAL BODY",
+          "role": "institution"
+        },
+        {
+          "text": "LIQUIDITY AT ONE LAYER MAY NOT REACH ANOTHER",
+          "role": "caution"
+        },
+        {
+          "text": "MATCH INSTRUMENT TO OWNER AND LOSS TYPE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNION <→ STATE <→ LOCAL BODY / UTILITY",
+        "FIRM / HOUSEHOLD / COMMUNITY",
+        "LIQUIDITY AT ONE LAYER MAY NOT REACH ANOTHER",
+        "MATCH INSTRUMENT TO OWNER AND LOSS TYPE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "UNION <→ STATE <→ LOCAL BODY / UTILITY",
+            "FIRM / HOUSEHOLD / COMMUNITY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "LIQUIDITY AT ONE LAYER MAY NOT REACH ANOTHER",
+            "MATCH INSTRUMENT TO OWNER AND LOSS TYPE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "UNION <→ STATE <→ LOCAL BODY / UTILITY",
+            "FIRM / HOUSEHOLD / COMMUNITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIQUIDITY AT ONE LAYER MAY NOT REACH ANOTHER.",
+      "source_references": [
+        "Sovereign subnational household layers",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INSURANCE SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSURANCE SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFIED COVERED LOSS",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEX CROSSES THRESHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSESSMENT DELAY",
+          "role": "evidence"
+        },
+        {
+          "text": "BASIS RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INDEMNITY → VERIFIED COVERED LOSS",
+        "PARAMETRIC → INDEX CROSSES THRESHOLD",
+        "INDEMNITY: ASSESSMENT DELAY",
+        "PARAMETRIC: BASIS RISK"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "INDEMNITY → VERIFIED COVERED LOSS",
+          "INDEMNITY: ASSESSMENT DELAY",
+          "INDEMNITY → VERIFIED COVERED LOSS"
+        ],
+        [
+          "PARAMETRIC → INDEX CROSSES THRESHOLD",
+          "PARAMETRIC: BASIS RISK",
+          "PARAMETRIC → INDEX CROSSES THRESHOLD"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "INDEMNITY → VERIFIED COVERED LOSS",
+            "PARAMETRIC → INDEX CROSSES THRESHOLD"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INDEMNITY: ASSESSMENT DELAY",
+            "PARAMETRIC: BASIS RISK"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "INDEMNITY → VERIFIED COVERED LOSS",
+            "PARAMETRIC → INDEX CROSSES THRESHOLD"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARAMETRIC → INDEX CROSSES THRESHOLD; INDEMNITY: ASSESSMENT DELAY; PARAMETRIC: BASIS RISK.",
+      "source_references": [
+        "Indemnity insurance",
+        "Parametric insurance",
+        "Basis risk",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RISK-POOL TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RISK-POOL TEST",
+          "role": "caution"
+        },
+        {
+          "text": "POOL PARTICIPANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARE RISKS SUFFICIENTLY DIVERSE?",
+          "role": "comparison"
+        },
+        {
+          "text": "PRICE ENTRY RESERVE AND PAYOUT GOVERNANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CORRELATED LOSS CAN OVERWHELM NOMINAL DIVERSIFICATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "POOL PARTICIPANTS / EXPOSURES",
+        "ARE RISKS SUFFICIENTLY DIVERSE?",
+        "PRICE ENTRY RESERVE AND PAYOUT GOVERNANCE",
+        "CORRELATED LOSS CAN OVERWHELM NOMINAL DIVERSIFICATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "POOL PARTICIPANTS / EXPOSURES",
+            "ARE RISKS SUFFICIENTLY DIVERSE?"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "PRICE ENTRY RESERVE AND PAYOUT GOVERNANCE",
+            "CORRELATED LOSS CAN OVERWHELM NOMINAL DIVERSIFICATION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "POOL PARTICIPANTS / EXPOSURES",
+            "ARE RISKS SUFFICIENTLY DIVERSE?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRICE ENTRY RESERVE AND PAYOUT GOVERNANCE; CORRELATED LOSS CAN OVERWHELM NOMINAL DIVERSIFICATION.",
+      "source_references": [
+        "Risk pools",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CAT-BOND BOUNDARY",
+      "structural_type": "mechanism-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAT-BOND BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINED RISK LAYER + TRIGGER",
+          "role": "caution"
+        },
+        {
+          "text": "INVESTOR CAPITAL AT RISK",
+          "role": "caution"
+        },
+        {
+          "text": "TRIGGER EVENT",
+          "role": "evidence"
+        },
+        {
+          "text": "INTEREST LOSS",
+          "role": "primary"
+        },
+        {
+          "text": "ISSUER FINANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT ONLY UNLESS DATED DEPLOYMENT IS VERIFIED",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEFINED RISK LAYER + TRIGGER",
+        "INVESTOR CAPITAL AT RISK",
+        "TRIGGER EVENT → PRINCIPAL / INTEREST LOSS → ISSUER FINANCE",
+        "CONCEPT ONLY UNLESS DATED DEPLOYMENT IS VERIFIED"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "DEFINED RISK LAYER + TRIGGER",
+            "INVESTOR CAPITAL AT RISK"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRIGGER EVENT → PRINCIPAL / INTEREST LOSS → ISSUER FINANCE",
+            "CONCEPT ONLY UNLESS DATED DEPLOYMENT IS VERIFIED"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINED RISK LAYER + TRIGGER",
+            "INVESTOR CAPITAL AT RISK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRIGGER EVENT → PRINCIPAL / INTEREST LOSS → ISSUER FINANCE.",
+      "source_references": [
+        "Catastrophe bonds",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INSURANCE INCENTIVES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSURANCE INCENTIVES",
+          "role": "primary"
+        },
+        {
+          "text": "MORAL HAZARD",
+          "role": "outcome"
+        },
+        {
+          "text": "BEHAVIOUR AFTER PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVERSE SELECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGHER-RISK DEMAND",
+          "role": "caution"
+        },
+        {
+          "text": "DEDUCTIBLE PRICING CONDITIONS DISCLOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "AFFORDABILITY AND INCLUSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MORAL HAZARD → BEHAVIOUR AFTER PROTECTION",
+        "ADVERSE SELECTION → HIGHER-RISK DEMAND / INFORMATION",
+        "TOOLS → DEDUCTIBLE PRICING CONDITIONS DISCLOSURE",
+        "SAFEGUARD → AFFORDABILITY AND INCLUSION"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "MORAL HAZARD → BEHAVIOUR AFTER PROTECTION",
+          "TOOLS → DEDUCTIBLE PRICING CONDITIONS DISCLOSURE",
+          "MORAL HAZARD → BEHAVIOUR AFTER PROTECTION"
+        ],
+        [
+          "ADVERSE SELECTION → HIGHER-RISK DEMAND / INFORMATION",
+          "SAFEGUARD → AFFORDABILITY AND INCLUSION",
+          "ADVERSE SELECTION → HIGHER-RISK DEMAND / INFORMATION"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "MORAL HAZARD → BEHAVIOUR AFTER PROTECTION",
+            "ADVERSE SELECTION → HIGHER-RISK DEMAND / INFORMATION"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TOOLS → DEDUCTIBLE PRICING CONDITIONS DISCLOSURE",
+            "SAFEGUARD → AFFORDABILITY AND INCLUSION"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "MORAL HAZARD → BEHAVIOUR AFTER PROTECTION",
+            "ADVERSE SELECTION → HIGHER-RISK DEMAND / INFORMATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TOOLS → DEDUCTIBLE PRICING CONDITIONS DISCLOSURE; SAFEGUARD → AFFORDABILITY AND INCLUSION.",
+      "source_references": [
+        "Moral hazard and adverse selection",
+        "Incentive and affordability balance",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FISCAL PROTECTION SPINE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FISCAL PROTECTION SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESS FISCAL EXPOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAYER RETENTION PRE-ARRANGED AND TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTECT ESSENTIAL-SERVICE LIQUIDITY",
+          "role": "evidence"
+        },
+        {
+          "text": "REPORT ALLOCATION EXPENDITURE COVERAGE AND OUTCOME",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ASSESS FISCAL EXPOSURE",
+        "LAYER RETENTION PRE-ARRANGED AND TRANSFER",
+        "PROTECT ESSENTIAL-SERVICE LIQUIDITY",
+        "REPORT ALLOCATION EXPENDITURE COVERAGE AND OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ASSESS FISCAL EXPOSURE",
+            "LAYER RETENTION PRE-ARRANGED AND TRANSFER"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROTECT ESSENTIAL-SERVICE LIQUIDITY",
+            "REPORT ALLOCATION EXPENDITURE COVERAGE AND OUTCOME"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ASSESS FISCAL EXPOSURE",
+            "LAYER RETENTION PRE-ARRANGED AND TRANSFER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROTECT ESSENTIAL-SERVICE LIQUIDITY; REPORT ALLOCATION EXPENDITURE COVERAGE AND OUTCOME.",
+      "source_references": [
+        "Fiscal protection",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ASSESSMENT FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ASSESSMENT FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSICAL ASSET EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "COSTED RECOVERY REQUIREMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "METHOD BASELINE DATE AND UNCERTAINTY MUST BE EXPLICIT",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "DISASTER FINANCE COMBINES EX-ANTE RISK REDUCTION, PREPAREDNESS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DAMAGE → PHYSICAL ASSET EFFECT",
+        "LOSS → FLOW / ECONOMIC EFFECT",
+        "NEEDS → COSTED RECOVERY REQUIREMENT",
+        "METHOD BASELINE DATE AND UNCERTAINTY MUST BE EXPLICIT",
+        "MUST REMEMBER: Disaster finance combines ex-ante risk reduction, preparedness"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "DAMAGE → PHYSICAL ASSET EFFECT",
+          "NEEDS → COSTED RECOVERY REQUIREMENT",
+          "MUST REMEMBER: Disaster finance combines ex-ante risk reduction, preparedness,..."
+        ],
+        [
+          "LOSS → FLOW / ECONOMIC EFFECT",
+          "METHOD BASELINE DATE AND UNCERTAINTY MUST BE EXPLICIT",
+          "DAMAGE → PHYSICAL ASSET EFFECT"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "DAMAGE → PHYSICAL ASSET EFFECT",
+            "LOSS → FLOW / ECONOMIC EFFECT"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NEEDS → COSTED RECOVERY REQUIREMENT",
+            "METHOD BASELINE DATE AND UNCERTAINTY MUST BE EXPLICIT"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Disaster finance combines ex-ante risk reduction, preparedness,...",
+            "DAMAGE → PHYSICAL ASSET EFFECT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Disaster finance combines ex-ante risk reduction, preparedness,.",
+      "source_references": [
+        "Damage loss and needs assessment",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-16_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BUILD BACK BETTER GATE",
+      "structural_type": "audit-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BUILD BACK BETTER GATE",
+          "role": "primary"
+        },
+        {
+          "text": "SAFER SITE",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "TENURE LIVELIHOOD ACCESSIBILITY PARTICIPATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ENVIRONMENT MAINTENANCE AND FUTURE CLIMATE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "REJECT REBUILDING THAT RECREATES OR TRANSFERS RISK",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "BUDGET PROVISION IS NOT ALLOCATION, ALLOCATION IS NOT RELEASE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SAFER SITE / STANDARD / SERVICE DESIGN",
+        "TENURE LIVELIHOOD ACCESSIBILITY PARTICIPATION",
+        "ENVIRONMENT MAINTENANCE AND FUTURE CLIMATE RISK",
+        "REJECT REBUILDING THAT RECREATES OR TRANSFERS RISK",
+        "CLOSE DISTINCTION: Budget provision is not allocation, allocation is not release, release"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SAFER SITE / STANDARD / SERVICE DESIGN",
+            "TENURE LIVELIHOOD ACCESSIBILITY PARTICIPATION"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ENVIRONMENT MAINTENANCE AND FUTURE CLIMATE RISK",
+            "REJECT REBUILDING THAT RECREATES OR TRANSFERS RISK"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Budget provision is not allocation, allocation is not release, release...",
+            "SAFER SITE / STANDARD / SERVICE DESIGN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Budget provision is not allocation, allocation is not release, release.",
+      "source_references": [
+        "Build Back Better",
+        "BBB safeguards",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-16_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DISASTER-FINANCE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DISASTER-FINANCE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY TIMING PURPOSE TRIGGER AND RISK BEARER",
+          "role": "caution"
+        },
+        {
+          "text": "MAP STATUTORY FUNDS RESERVES INSURANCE POOLS AND CONCEPTUAL BONDS",
+          "role": "comparison"
+        },
+        {
+          "text": "ADD BASIS RISK INCENTIVES AFFORDABILITY AND FISCAL PROTECTION",
+          "role": "caution"
+        },
+        {
+          "text": "TEST WHETHER FINANCE PRODUCED EQUITABLE BUILD BACK BETTER",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NAME FUND, LEGAL BASIS, FINANCE TIER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY TIMING PURPOSE TRIGGER AND RISK BEARER",
+        "MAP STATUTORY FUNDS RESERVES INSURANCE POOLS AND CONCEPTUAL BONDS",
+        "ADD BASIS RISK INCENTIVES AFFORDABILITY AND FISCAL PROTECTION",
+        "TEST WHETHER FINANCE PRODUCED EQUITABLE BUILD BACK BETTER",
+        "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name fund, legal basis, finance tier"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "CLASSIFY TIMING PURPOSE TRIGGER AND RISK BEARER",
+            "MAP STATUTORY FUNDS RESERVES INSURANCE POOLS AND CONCEPTUAL BONDS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ADD BASIS RISK INCENTIVES AFFORDABILITY AND FISCAL PROTECTION",
+            "TEST WHETHER FINANCE PRODUCED EQUITABLE BUILD BACK BETTER"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name fund, legal basis, finance tier,...",
+            "CLASSIFY TIMING PURPOSE TRIGGER AND RISK BEARER"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name fund, legal basis, finance tier,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name fund, legal basis, finance tier,.",
+      "source_references": [
+        "Finance-outcome firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-16_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NCCD'S STRUCTURAL EROSION IS A DOCUMENTED, QUANTIFIED FISCAL",
+          "role": "outcome"
+        },
+        {
+          "text": "FUND-ESCALATION AS A FEDERAL-DESIGN CHOICE, NOT MERELY A TECHNICAL",
+          "role": "caution"
+        },
+        {
+          "text": "THE STANDING COMMITTEE'S FOUR SPECIFIC RECOMMENDATIONS AS A",
+          "role": "evidence"
+        },
+        {
+          "text": "CDRI'S FINANCING TOOLS REMAIN SOURCE-DESCRIBED BUT INDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARDISED LOSS/DAMAGE DATA AS A FINANCING PREREQUISITE",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIEF-FUND-DEPENDENT (RATHER THAN INSURANCE/RISK-TRANSFER-BASED)",
+          "role": "caution"
+        },
+        {
+          "text": "RELIEF-FUND ADEQUACY VERSUS MITIGATION-FUND CREATION IS A DIRECT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "NCCD's structural erosion is a documented, quantified fiscal",
+            "Fund-escalation as a federal-design choice, not merely a technical",
+            "The Standing Committee's four specific recommendations as a",
+            "CAUTION: CDRI's financing tools remain source-described but India"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Standardised loss/damage data as a financing prerequisite :",
+            "CAUTION: Relief-fund-dependent (rather than insurance/risk-transfer-based)",
+            "CAUTION: Relief-fund adequacy versus mitigation-fund creation is a direct",
+            "CAUTION: Compensation (relief) versus recovery (rehabilitation/"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: The \"SDRF/NDRF exist, therefore disaster finance is adequate\"",
+            "The notified-disaster boundary has changed and must be dated.",
+            "CAUTION: Transparent damage/loss assessment as an underlying accountability",
+            "The Disaster Management (Amendment) Act, 2025 (Act 10 of 2025) ,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

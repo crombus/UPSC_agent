@@ -1,0 +1,2004 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-21",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 9,
+      "heading": "Life & Culture in the Gupta Age - Complete Topic Package",
+      "preview": "**Subject:** Ancient Indian History | **Topic:** 21 | **Export date:** 2026-08-14  **Approval:** false - awaiting explicit user approval.  **Source order:** repository Markdown -> local OCR-searchable R.S. Sharma, Upinder Singh and Nitin Si",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 699.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 15,
+      "markdown_body_line_end": 22,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 641.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 422.222
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\ancient-indian-history-21_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Correct: It is a social-cultural reconstruction with only a concise political bridge.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 476.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 424.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 139,
+      "heading": "CLOSING RECALL FLOW - SCOPE, POLITICAL BRIDGE AND ANTI-DUPLICATION",
+      "preview": "START / CONCEPT: Scope, political bridge and anti-duplication",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 593.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 382.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 150,
+      "markdown_body_line_end": 150,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sources and evidence limits comprises Sources, evidence limits and Mains angle as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 261.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 209.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "02. Sources and evidence limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\01_social_hierarchy_evidence_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 480.734
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 175,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Source | Best use | Primary limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source",
+          "Best use",
+          "Primary limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 461.534
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 330.932
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - SOURCES AND EVIDENCE LIMITS",
+      "preview": "START / CONCEPT: Sources and evidence limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 725.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 494.691
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Brahmanical texts retained the four-varna model and marked groups beyond it, while inscriptions and social practice disclose many occupational and local identities that cannot be compressed into four boxes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 340.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 274.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 242,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "03. Social hierarchy: varna, jati and occupational reality",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\02_varna_jati_occupation_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 514.134
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 285,
+      "heading": "CLOSING RECALL FLOW - SOCIAL HIERARCHY: VARNA, JATI AND OCCUPATIONAL REALITY",
+      "preview": "START / CONCEPT: Social hierarchy: varna, jati and occupational reality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 296,
+      "markdown_body_line_end": 296,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence for untouchability becomes explicit in prescriptive and traveller accounts, but terminology, practice and regional intensity must be handled cautiously.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 339.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 350,
+      "heading": "CLOSING RECALL FLOW - UNTOUCHABILITY, MARGINAL GROUPS AND SOCIAL DISTANCE",
+      "preview": "START / CONCEPT: Untouchability, marginal groups and social distance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 510.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 299.491
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 361,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Stridhana was a recognised category of women's property, although definitions, control and inheritance varied across legal texts and circumstances.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 159.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 93.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 398,
+      "markdown_body_line_end": 415,
+      "heading": "CLOSING RECALL FLOW - HOUSEHOLD, FAMILY, MARRIAGE, INHERITANCE AND PROPERTY",
+      "preview": "START / CONCEPT: Household, family, marriage, inheritance and property",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 280.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 99.691
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 426,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Household, agricultural, craft and service labour by women is under-described in elite literary texts; absence of description is not evidence of absence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 441,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "06. Women: status, labour, property and representation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\03_women_status_source_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 430.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 140.866
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 484,
+      "heading": "CLOSING RECALL FLOW - WOMEN: STATUS, LABOUR, PROPERTY AND REPRESENTATION",
+      "preview": "START / CONCEPT: Women: status, labour, property and representation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 464.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 263.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 495,
+      "markdown_body_line_end": 495,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Grants could expand cultivation and transmit agrarian techniques while also strengthening beneficiaries' claims over revenue and labour.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 124.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 57.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 510,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. Village life, agrarian society, land and labour",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\04_village_town_household_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 617.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 320.882
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 553,
+      "heading": "CLOSING RECALL FLOW - VILLAGE LIFE, AGRARIAN SOCIETY, LAND AND LABOUR",
+      "preview": "START / CONCEPT: Village life, agrarian society, land and labour",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 678.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 477.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 564,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Regional variation is central: route shifts, ports, courts, pilgrimage and agrarian hinterlands produced different urban trajectories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 337.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 270.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 618,
+      "heading": "CLOSING RECALL FLOW - ARTISANS, MERCHANTS, GUILD-LINKED URBAN LIFE AND REGIONAL VARIATION",
+      "preview": "START / CONCEPT: Artisans, merchants, guild-linked urban life and regional variation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 406.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 195.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 629,
+      "markdown_body_line_end": 629,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "His account is especially valuable for Buddhist geography, monastic conditions, pilgrimage and selected social observations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 683,
+      "heading": "CLOSING RECALL FLOW - FAXIAN AND TRAVELLER-EVIDENCE LIMITS",
+      "preview": "START / CONCEPT: Faxian and traveller-evidence limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 694,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Monasteries were learning nodes, not the only institutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 398.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 709,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Education, monasteries and knowledge institutions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\05_education_knowledge_ecosystem.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 206.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 514.134
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 752,
+      "heading": "CLOSING RECALL FLOW - EDUCATION, MONASTERIES AND KNOWLEDGE INSTITUTIONS",
+      "preview": "START / CONCEPT: Education, monasteries and knowledge institutions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 763,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sanskritisation involved adoption and adaptation of Brahmanical idioms, genealogies, rituals and social claims by rulers and communities; it was not simple top-down homogenisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 778,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11. Sanskritisation and the multilingual language ecology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\06_sanskrit_literature_genre_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 167.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 514.134
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 821,
+      "heading": "CLOSING RECALL FLOW - SANSKRITISATION AND THE MULTILINGUAL LANGUAGE ECOLOGY",
+      "preview": "START / CONCEPT: Sanskritisation and the multilingual language ecology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 832,
+      "markdown_body_line_end": 832,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Literature, courtly culture, grammar and lexicography comprises Literature, courtly culture and grammar as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 870,
+      "markdown_body_line_end": 887,
+      "heading": "CLOSING RECALL FLOW - LITERATURE, COURTLY CULTURE, GRAMMAR AND LEXICOGRAPHY",
+      "preview": "START / CONCEPT: Literature, courtly culture, grammar and lexicography",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 496.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 275.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 898,
+      "markdown_body_line_end": 898,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vagbhata's date is debated, usually around the sixth-seventh centuries; medicine should be presented as a broader classical tradition rather than a secure Gupta-court achievement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 135.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 68.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "13. Mathematics, astronomy, medicine and metallurgy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\07_science_chronology_attribution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 617.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 328.134
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 923,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Figure / evidence | Secure contribution | Chronology caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Figure / evidence",
+          "Secure contribution",
+          "Chronology caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 308.934
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 178.332
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 949,
+      "markdown_body_line_end": 966,
+      "heading": "CLOSING RECALL FLOW - MATHEMATICS, ASTRONOMY, MEDICINE AND METALLURGY",
+      "preview": "START / CONCEPT: Mathematics, astronomy, medicine and metallurgy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 496.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 265.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 977,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Correct: Evidence shows plural landscapes and patronage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 125.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 73.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 992,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. Religion: Puranic Hinduism, Buddhism, Jainism and plural patronage",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\08_religion_plural_patronage.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 617.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 328.134
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1036,
+      "heading": "CLOSING RECALL FLOW - RELIGION: PURANIC HINDUISM, BUDDHISM, JAINISM AND PLURAL PATRONAGE",
+      "preview": "START / CONCEPT: Religion: Puranic Hinduism, Buddhism, Jainism and plural patronage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 651.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 460.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1047,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gupta and Gupta-age architecture is important for experimentation with free-standing structural temples and integrated iconographic programmes, not for the scale of later temple cities.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 320.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 253.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1062,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "15. Temple architecture: named examples and chronology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\09_temple_architecture_evolution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 514.134
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1090,
+      "markdown_body_line_end": 1107,
+      "heading": "CLOSING RECALL FLOW - TEMPLE ARCHITECTURE: NAMED EXAMPLES AND CHRONOLOGY",
+      "preview": "START / CONCEPT: Temple architecture: named examples and chronology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1118,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gupta sculpture refined inherited Mathura and other early-CE traditions while Sarnath became especially associated with subtly modelled Buddha images.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "16. Sculpture: Mathura, Sarnath and iconographic consolidation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\10_sculpture_school_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 157.824
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 503.333
+        }
+      },
+      "pdf_pages": [
+        34,
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1176,
+      "heading": "CLOSING RECALL FLOW - SCULPTURE: MATHURA, SARNATH AND ICONOGRAPHIC CONSOLIDATION",
+      "preview": "START / CONCEPT: Sculpture: Mathura, Sarnath and iconographic consolidation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1187,
+      "markdown_body_line_end": 1187,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Painting is evidence filtered by convention.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 417.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1202,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "17. Painting, Ajanta and cultural production",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\11_painting_cultural_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 225.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 495.956
+        }
+      },
+      "pdf_pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1245,
+      "heading": "CLOSING RECALL FLOW - PAINTING, AJANTA AND CULTURAL PRODUCTION",
+      "preview": "START / CONCEPT: Painting, Ajanta and cultural production",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kalidasa's works and Ajanta paintings depict music, dance, courtly leisure, seasons, dress and adornment, but both are elite aesthetic sources.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1271,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "18. Music, dance, leisure, food, dress and material life",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\13_daily_life_evidence_wheel.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 177.824
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 514.134
+        }
+      },
+      "pdf_pages": [
+        38,
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1297,
+      "markdown_body_line_end": 1314,
+      "heading": "CLOSING RECALL FLOW - MUSIC, DANCE, LEISURE, FOOD, DRESS AND MATERIAL LIFE",
+      "preview": "START / CONCEPT: Music, dance, leisure, food, dress and material life",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1325,
+      "markdown_body_line_end": 1325,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Later legacy was adaptive, not copied whole.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 398.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1362,
+      "markdown_body_line_end": 1379,
+      "heading": "CLOSING RECALL FLOW - CULTURAL DIFFUSION, COMPARISONS AND LATER LEGACY",
+      "preview": "START / CONCEPT: Cultural diffusion, comparisons and later legacy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 559.091
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 348.091
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1390,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Gupta age can be called classical for the concentration and later influence of elite literary, artistic and scientific production, but 'Golden Age' is indefensible as a universal social verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 227.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 160.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1405,
+      "markdown_body_line_end": 1405,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "20. Golden Age debate and historiography",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\12_golden_age_distribution_debate.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 447.334
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1449,
+      "heading": "CLOSING RECALL FLOW - GOLDEN AGE DEBATE AND HISTORIOGRAPHY",
+      "preview": "START / CONCEPT: Golden Age debate and historiography",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 541.091
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1454,
+      "heading": "21. UPSC traps, PYQ ownership and answer architecture",
+      "preview": "21. UPSC traps, PYQ ownership and answer architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g4\\assets\\14_gs1_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 482.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 193.534
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1488,
+      "markdown_body_line_end": 1488,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This linkage does not override the repository chronology, local book evidence, or the source limitations printed throughout the package.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 428.891
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 362.224
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1523,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2512,
+      "markdown_body_line_end": 2512,
+      "heading": "Original solved Mains - Assess the relationship between religion, royal power and artistic production in the Gupta-Vakataka age.",
+      "preview": "These topic-specific register notes are deliberately last.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2526,
+      "markdown_body_line_end": 2529,
+      "heading": "Life & Culture in the Gupta Age - ADVANCED",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, sections on Gupta-Vakataka admini",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 567.024
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 479.756
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2535,
+      "markdown_body_line_end": 2541,
+      "heading": "Mini-timeline",
+      "preview": "Phase | Date | Marker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Phase",
+          "Date",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 452.256
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 321.654
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2561,
+      "markdown_body_line_end": 2569,
+      "heading": "2. Key classification / data",
+      "preview": "Domain | Advanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Domain",
+          "Advanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 746.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 573.89
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2573,
+      "markdown_body_line_end": 2574,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Upinder Singh → Gupta-Vakataka royal ideology, land grants, art, textual production and science. **Study link:** ⚠️ Political frame → `advanced/20_Gupta-Empire.md`; source criticism → inscriptions/coins/prashastis.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 548.89
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 490.022
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2588,
+      "markdown_body_line_end": 2588,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Cultural achievement and social progress are not identical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 262.822
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 232.354
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2724,
+      "markdown_body_line_end": 2731,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Topic boundary and source matrix",
+      "preview": "OWNER: society, daily life, knowledge, religion and arts in the Gupta age",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 531.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 458.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2735,
+      "markdown_body_line_end": 2742,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Varna, jati and exclusion",
+      "preview": "VARNA -> normative four-fold macro-model",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 436.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 364.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2746,
+      "markdown_body_line_end": 2753,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Family, women and property",
+      "preview": "PATRILINEAL / PATRIARCHAL NORM -> dominant prescriptive frame",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 342.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 270.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2757,
+      "markdown_body_line_end": 2765,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Village, labour, craft and urban life",
+      "preview": "VILLAGE -> cultivators + land + taxes + vishti + household production",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2769,
+      "markdown_body_line_end": 2778,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Faxian and daily-life reconstruction",
+      "preview": "FAXIAN c. 399-414 CE -> Buddhist pilgrimage purpose",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2782,
+      "markdown_body_line_end": 2791,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Education, Sanskrit and multilingualism",
+      "preview": "COURTS + BRAHMANICAL CENTRES + MONASTERIES + TEACHER-PUPIL NETWORKS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2795,
+      "markdown_body_line_end": 2802,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Literature and genre map",
+      "preview": "KAVYA / DRAMA -> Kalidasa and courtly aesthetic worlds",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 453.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 381.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2806,
+      "markdown_body_line_end": 2813,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Mathematics, astronomy and metallurgy",
+      "preview": "499 CE -> ARYABHATIYA: computation, astronomy, pi and earth-rotation argument",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 359.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2817,
+      "markdown_body_line_end": 2824,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Religious plurality and patronage",
+      "preview": "VAISHNAVA + SHAIVA + SHAKTA Puranic formations",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2828,
+      "markdown_body_line_end": 2835,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Temples, sculpture, painting and Ajanta",
+      "preview": "TEMPLES -> Sanchi 17 | Udayagiri | Bhitargaon | Deogarh",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2848,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Golden Age and social distribution",
+      "preview": "CLASSICAL ACHIEVEMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2852,
+      "markdown_body_line_end": 2860,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Culture answer spine",
+      "preview": "OPEN: social-cultural companion to Gupta polity, reconstructed through mixed sources",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 401.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    }
+  ]
+}

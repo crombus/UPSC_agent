@@ -1,0 +1,140 @@
+{
+  "record_id": "ancient-indian-history-22:learner-v2:g2",
+  "topic_key": "ancient-indian-history-22",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "ancient-indian-history-22:legacy-v1:g1",
+  "command": "Generate learner-v2 topic: Ancient History - Subject-wide Syllabus - Post-Gupta India: Harsha & Eastern India",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\ancient-indian-history-22_Solved-Practice-Workbook_2026-08-30.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\ancient-indian-history-22_Solved-Practice-Workbook_2026-08-30.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\assets",
+  "generated_on": "2026-08-30",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\22_Post-Gupta-Harsha-and-Eastern-India_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\India Ancient Past By RS Sharma.pdf",
+      "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf"
+    ],
+    "live_sources": [
+      "https://whc.unesco.org/en/list/1502",
+      "https://culture.gov.in/events/ministry-culture-showcases-confluence-heritage-and-technology-india-ai-impact-summit-2026"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.4"
+    },
+    "generation_date": "2026-08-30",
+    "superseded_v1": "ancient-indian-history-22:legacy-v1:g1",
+    "source_hashes": {
+      "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf": "86b9170d6fe89da5715441931fe46b0e3233f5cfef535cd03b16a52b811a63d6",
+      "books\\India Ancient Past By RS Sharma.pdf": "7f5ac4147164341682fefba935e6d00165df3894fb32133faa3b64ec09fa3e4f",
+      "notes\\Ancient-Indian-History\\22_Post-Gupta-Harsha-and-Eastern-India_Complete-Topic-Package_2026-08-15.pdf": "ac8bb09ccd630ae790449fbce4aaaa60e43089fcebd42d1ad9b45567b0c1e0ba",
+      "notes\\Ancient-Indian-History\\22_Post-Gupta-Harsha-and-Eastern-India_Solved-Workbook_2026-08-15.pdf": "a385d99363e9bb64d30f31c43c91efd3ba24ac1118f6c288dc44dd6f1ba91a7c",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\01_post_gupta_evidence_chronology.png": "1f4a5aa7767e6f24f008685930c8faec5071246b480c39e615b6ac00419a3371",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\02_fragmentation_schematic_map.png": "7e4a87f57cdf139a056f5ab400c4121e218998de64d0153cafa71dc1d86f3e13",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\03_pushyabhuti_genealogy_rise.png": "a5d21f157a3d8d605d23014678aaac98b7fca3d5a41ab7045cd76b661b54126a",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\04_harsha_expansion_limits_map.png": "c4489786dc63292d7c007b2605126ef644e3a44102923ffbbc49e03fda448659",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\05_thanesar_kannauj_shift.png": "6b605d66c1155ab09597d1ba0a7b1b2e51ff3725313b4aa5801b1eee3f05e78c",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\06_narmada_confrontation_matrix.png": "f1c49864b627cda730e6a369e08996b53b2be879d00d22613d19469103b152cf",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\07_administration_feudatory_hierarchy.png": "a35f291c67941f291ca467f6db0342b0b752de27067917b33a5635f25dc16e86",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\08_land_grant_agrarian_change_flow.png": "e299a3c52dc5e279bd6463355144b3d833a4dc63519e70e10296e52350529219",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\09_economy_society_transition_matrix.png": "b2ea705e86a278f50ecd36bd0cc76e93a9cd81d90c48976e164973942a8279d3",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\10_religion_cultural_patronage.png": "351f7159859d4bc77aeb8830ed337638f9b590b65a75780bcda749a528165f67",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\11_nalanda_learning_networks.png": "f803c8c12907c612ff38da68ad69c7f70cbdec2ac85d0f9f5d587c93152e0bff",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\12_xuanzang_bana_source_criticism_matrix.png": "7008c057d13b610b631c1d554f9207ea2d10079a73198b46415caea5cc2988eb",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\13_eastern_india_transition_network.png": "d0a094d5b1731a2d9ce267abef55155b97334716a42011df1ecf32c465c62611",
+      "notes\\Ancient-Indian-History\\assets\\22_Post-Gupta-Harsha-and-Eastern-India\\14_gs1_answer_spine.png": "85733047bdda999c89c87d0b7cbdb4463d70b87cab679cd267ef36c68b44e11b",
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md": "464741fbec0688a8a0532973cbafad1297104792edd5f7e64c604da49bbc9ecc",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\22_Post-Gupta-Harsha-and-Eastern-India_Complete-Topic-Package.md": "abd0762c0d6e677091a1252eb7d4718e674d8ed908e4e2265d548e2bdaed6a0f",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md": "7c713630ddb8b7c671fb0284a34b90847c0e650714bbf7514d50bd36fea25a53",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md": "a304a24c4a0dc27ad9076738277a3a275036ca9940b42cb255f46c777e26893b",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md": "a0f95e60df5556d8f7bbe304513448978d3cb3e373d3a464bf61b6ed60a3063a",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-22_Learning-Session.md": "c83a1bf11ed7d2c46379ed8c3c2f6d7f91c56c83c852b19139ec64d800c5ce71",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "e48c71bcc0d3bd787fb3a40497e16fd9a86bbae8fed9fa55a433b96d222fea44",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md": "0deaf4535fa339716d3ca478423647cd18fe3636d5b33e8e1e5d6d26a8fd55bc",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md": "550a2a6babf1a1e863bbb85697eedc372abbeb27337132c9846ce877316fbd69",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-22-23-2026-08-30-sequential.json": "9b50c283577bd85a66aa288c4c544997c7ce716b2ae2d8474d4cccd68aea65c5",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-22.json": "32ffc1b44b15d11a1463feb54d6b7ec7558c77a5324ca9f6a390e7b002ad40fa",
+      "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json": "4cac86e0b85e0b0ec175862dee7679aa9adf2d05977995210b3fe6d192c9e89a",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "4 verified/routed PYQs; 16 learning, 40 workbook and 8 remedial MCQs; 6 original solved Mains questions.",
+    "current_linkage_note": "UNESCO's Nalanda Mahavihara record and the Ministry of Culture's 2026 heritage-technology update were rechecked on 30 August 2026. They are used only for present conservation, manuscript access and evidence-method linkages; they do not alter the post-Gupta chronology.",
+    "pyq_status_note": "Locally held papers and routing ledgers control wording and ownership; unavailable official keys remain explicitly inferred or provisional.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "0277ea6b69345ecea8fc4bbea73401cdc164d6e97583cc37840b993703e066ef"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "ancient-indian-history-22:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-30",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\ancient-indian-history-22_Graphical-Spec-g2.json",
+    "graphical_spec_sha256": "1e4be6bf78e4516c168cd081bc713a0f9d0c720c18492bb39046415a9128cba8",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-22\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-22-23-2026-08-30-sequential.json",
+    "ascii_master_spec_sha256": "9b50c283577bd85a66aa288c4c544997c7ce716b2ae2d8474d4cccd68aea65c5"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

@@ -1,0 +1,135 @@
+{
+  "record_id": "ancient-indian-history-19:learner-v2:g2",
+  "topic_key": "ancient-indian-history-19",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "ancient-indian-history-19:legacy-v1:g1",
+  "command": "Generate learner-v2 topic: Ancient History — Subject-wide Syllabus — Crafts, Commerce & Urban Growth (200 BC–AD 250)",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\ancient-indian-history-19_Complete-Learning-Session_2026-08-29.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\ancient-indian-history-19_Solved-Practice-Workbook_2026-08-29.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\ancient-indian-history-19_Complete-Learning-Session_2026-08-29.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\ancient-indian-history-19_Solved-Practice-Workbook_2026-08-29.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\assets",
+  "generated_on": "2026-08-29",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\19_Crafts-Commerce-Urban-Growth.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\19_Crafts-Commerce-Urban-Growth_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\19_Crafts-Commerce-Urban-Growth.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\India Ancient Past By RS Sharma.pdf",
+      "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf"
+    ],
+    "live_sources": [
+      "https://pib.gov.in/PressReleasePage.aspx?PRID=2288292&reg=48&lang=1",
+      "https://culture.gov.in/ministry/our-groups/archaeology"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\ancient-indian-history-19_Complete-Learning-Session_2026-08-29.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.4"
+    },
+    "generation_date": "2026-08-29",
+    "superseded_v1": "ancient-indian-history-19:legacy-v1:g1",
+    "source_hashes": {
+      "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf": "86b9170d6fe89da5715441931fe46b0e3233f5cfef535cd03b16a52b811a63d6",
+      "books\\India Ancient Past By RS Sharma.pdf": "7f5ac4147164341682fefba935e6d00165df3894fb32133faa3b64ec09fa3e4f",
+      "notes\\Ancient-Indian-History\\19_Crafts-Commerce-Urban-Growth_Complete-Topic-Package_2026-08-14.pdf": "44695d3a0a139847a8f582456720e650ab3fa39f56df45875b4b1ee5c41571a5",
+      "notes\\Ancient-Indian-History\\19_Crafts-Commerce-Urban-Growth_Solved-Workbook_2026-08-14.pdf": "18c300b9206d28df2df49f2b90d0fa5d428c31e3537cd042887307fe62f683ad",
+      "notes\\Ancient-Indian-History\\assets\\19_Crafts-Commerce-Urban-Growth\\01_production_specialisation_chain.png": "ae3411fa2d9aa2425a764f1eab4be13d8c1cda3aef8b25accee218df0437f923",
+      "notes\\Ancient-Indian-History\\assets\\19_Crafts-Commerce-Urban-Growth\\02_guild_shreni_institutional_model.png": "e6c0aa0e94866786671f6e70bfaf3764230e974f066f61f877893b6502a4e3ff",
+      "notes\\Ancient-Indian-History\\assets\\19_Crafts-Commerce-Urban-Growth\\03_inland_maritime_route_schematic.png": "367fbba9686f7c9a0150483ce8ca7744f8c4eafb1a02368e8710b4d57cf10fa4",
+      "notes\\Ancient-Indian-History\\assets\\19_Crafts-Commerce-Urban-Growth\\04_major_urban_craft_centres_map.png": "4bbdc8855b303b52bcec765b94fb3131a5ee435ccb061f0fdf670556a21075f5",
+      "notes\\Ancient-Indian-History\\assets\\19_Crafts-Commerce-Urban-Growth\\05_coinage_exchange_matrix.png": "07b7a9f0404b1e2a615ce75886e37cd0c9bd37ce8108a0ffd441da9ca833a175",
+      "notes\\Ancient-Indian-History\\assets\\19_Crafts-Commerce-Urban-Growth\\06_port_hinterland_network.png": "a434f1e191c2643cbf939894fd1af966251e60a43966d91981d88f0a94abca48",
+      "notes\\Ancient-Indian-History\\assets\\19_Crafts-Commerce-Urban-Growth\\07_urbanisation_causal_loop.png": "a4cb2e82a7e3e874fbcd5fd53b153267172848adc8b209e38fd3b41a2536d59b",
+      "notes\\Ancient-Indian-History\\assets\\19_Crafts-Commerce-Urban-Growth\\08_evidence_chronology.png": "8bf69e80b1ee0f1d110a00ef0f1c2759f1ab0018a8814022897580a0fb931b01",
+      "notes\\Ancient-Indian-History\\assets\\19_Crafts-Commerce-Urban-Growth\\09_gs1_answer_spine.png": "9c3949fb117559fe8694d34449e8171eaca5ebc2884c77e7d9b5497936ea988d",
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md": "464741fbec0688a8a0532973cbafad1297104792edd5f7e64c604da49bbc9ecc",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\19_Crafts-Commerce-Urban-Growth_Complete-Topic-Package.md": "c295c88640ceeb2f66ebe03f6aa5cae8e6b160b236b45ce558d223792f264ce9",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\19_Crafts-Commerce-Urban-Growth.md": "25591d0e883ec5ab6476f0f8a7f2a74884119c86b9290e8f27d8b2f3b65ff561",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md": "a304a24c4a0dc27ad9076738277a3a275036ca9940b42cb255f46c777e26893b",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\19_Crafts-Commerce-Urban-Growth.md": "de9e670cb9960ca0a3e027774921acfbc273b3f4d6514db2a812688e5879e876",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-19_Learning-Session.md": "91f7fb013c534dde0b7480bf769f5693b1d248e748af51858b6b0d74d951a88b",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "e48c71bcc0d3bd787fb3a40497e16fd9a86bbae8fed9fa55a433b96d222fea44",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md": "0deaf4535fa339716d3ca478423647cd18fe3636d5b33e8e1e5d6d26a8fd55bc",
+      "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md": "550a2a6babf1a1e863bbb85697eedc372abbeb27337132c9846ce877316fbd69",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-17-21-2026-08-29-sequential.json": "21d2b83993ed38307d8b8c835240af14cb219b7b654bcc6f15907f1c879fd54d",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-19.json": "b8e8b8b7667160de520f00887b251d67a0f5053b4b5d10421bae941d3b056c23",
+      "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json": "4cac86e0b85e0b0ec175862dee7679aa9adf2d05977995210b3fe6d192c9e89a",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "4 routed Prelims PYQs; 56 learning/workbook MCQs; 9 original solved Mains questions.",
+    "current_linkage_note": "The 2026 heritage-policy search was used only to connect archaeological-site preservation with evidence recovery; no ancient trade statistic is inferred.",
+    "pyq_status_note": "Locally held papers and routing ledgers control wording and ownership; unavailable official keys remain explicitly inferred or provisional.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "a629e5995c75dd88f2ade2106c43358118feb7c539a985c0a40a0275900cf48d"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "ancient-indian-history-19:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-29",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\ancient-indian-history-19_Graphical-Spec-g2.json",
+    "graphical_spec_sha256": "eeac39ac456c56818c46c2190ea8b1a66e8160bc00334254149300268fd14923",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-17-21-2026-08-29-sequential.json",
+    "ascii_master_spec_sha256": "21d2b83993ed38307d8b8c835240af14cb219b7b654bcc6f15907f1c879fd54d"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

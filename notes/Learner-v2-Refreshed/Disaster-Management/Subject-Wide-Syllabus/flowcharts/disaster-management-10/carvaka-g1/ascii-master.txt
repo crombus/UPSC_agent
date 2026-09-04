@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Mountain-hazard taxonomy
+LANDSLIDE -> rock debris or earth movement
+ROCKFALL -> detached rock falls / bounces / rolls
+DEBRIS FLOW -> water-rich channelised mass
+AVALANCHE / GLOF -> snowpack release / lake outburst flood
+
+ASCII MASTER FLOW — PANEL 2/12: Susceptibility-hazard-risk ladder
+SUSCEPTIBILITY -> WHERE terrain may fail
+HAZARD -> probability timing intensity
+EXPOSURE + VULNERABILITY + CAPACITY
+RISK -> expected harm and disruption
+
+ASCII MASTER FLOW — PANEL 3/12: Slope-failure mechanism
+CONDITIONING -> geology slope weathering drainage land use
+TRIGGER -> rain quake erosion cutting loading
+FAILURE -> slide fall or flow
+EXPOSURE -> route settlement service consequence
+
+ASCII MASTER FLOW — PANEL 4/12: Cascade map
+EARTHQUAKE / RAIN -> LANDSLIDE
+LANDSLIDE -> RIVER BLOCKAGE
+BLOCKAGE OR LAKE-DAM FAILURE -> OUTBURST FLOOD
+CLOUD BURST -> FLASH FLOW + DEBRIS + SLOPE FAILURE
+
+ASCII MASTER FLOW — PANEL 5/12: Institutional owner matrix
+GSI -> landslide maps inventory research forecast development
+DGRE / DRDO -> snow and avalanche warnings
+NRSC / ISRO -> Earth observation and inventories
+CWC / STATE / DISTRICT -> downstream water and public action
+
+ASCII MASTER FLOW — PANEL 6/12: Glacial-lake monitoring rail
+1 REPEAT SATELLITE SCREENING
+2 LAKE DAM SLOPE ICE AND OUTFLOW CHARACTER
+3 FIELD VALIDATION + DOWNSTREAM EXPOSURE
+4 WARNING EVACUATION AND REVIEW
+
+ASCII MASTER FLOW — PANEL 7/12: Zonation-to-decision bridge
+HIGHER SUSCEPTIBILITY / HAZARD?
+AVOID OR REQUIRE SITE INVESTIGATION
+CONTROL LAND USE DRAINAGE CUTTING LOADING
+MAP ROUTE CLOSURE EVACUATION AND RESIDUAL RISK
+
+ASCII MASTER FLOW — PANEL 8/12: Slope-measure portfolio
+WATER -> surface / subsurface drainage
+GEOMETRY -> controlled excavation and toe protection
+MATERIAL -> retaining protection bioengineering
+LIMIT -> site-specific design maintenance residual risk
+
+ASCII MASTER FLOW — PANEL 9/12: Route and settlement resilience
+ALIGNMENT / SITING + SPOIL / DRAINAGE CONTROL
+ALTERNATIVE ACCESS + SAFE STOPPAGE / CLOSURE
+ASSEMBLY AREA + EVACUATION ROUTE
+HOSPITAL POWER TELECOM WATER CONTINUITY
+
+ASCII MASTER FLOW — PANEL 10/12: Warning-to-action chain
+MONITOR -> ASSESS -> FORECAST / BULLETIN
+AUTHORISE -> COMMUNICATE UNCERTAINTY
+CLOSE ROUTE / EVACUATE -> SAFE DESTINATION
+VERIFY RECEIPT ACTION AND FEEDBACK
+
+ASCII MASTER FLOW — PANEL 11/12: Development-risk balance
+CONNECTIVITY TOURISM HYDROPOWER LIVELIHOODS
+VERSUS
+SLOPE DRAINAGE GLACIAL-LAKE AND DOWNSTREAM RISK
+VERDICT -> RISK-INFORMED SITING NOT BLANKET CLAIMS
+
+ASCII MASTER FLOW — PANEL 12/12: Mountain-risk answer spine
+CLASSIFY PROCESS -> SEPARATE CONDITION FROM TRIGGER
+DISTINGUISH SUSCEPTIBILITY HAZARD AND RISK
+ASSIGN GSI DGRE NRSC CWC AND LOCAL ACTION
+COMBINE ZONING DRAINAGE ROUTES WARNING EVACUATION + LIMITS

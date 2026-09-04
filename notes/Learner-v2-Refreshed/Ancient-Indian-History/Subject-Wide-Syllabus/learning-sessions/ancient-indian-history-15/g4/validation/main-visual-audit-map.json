@@ -1,0 +1,4419 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g4\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g4\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "Significance and Decline of Mauryan Rule - Complete Topic Package",
+      "preview": "**Subject:** Ancient Indian History | **Paper:** Prelims GS-I + GS-I | **Topic:** 15 | **Date:** 13 August 2026  **Evidence key:** FACT = directly supported by the named source; TEXTUAL TRADITION = later Puranic/Buddhist/Jain memory; INTERP",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 18,
+      "heading": "Package Practice Counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 653.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 501.422
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 22,
+      "markdown_body_line_end": 28,
+      "heading": "Sources actually used",
+      "preview": "Source class | Exact source | Use and caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source class",
+          "Exact source",
+          "Use and caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 476.422
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 200.22
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 41,
+      "markdown_body_line_end": 48,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 536.29
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 71,
+      "markdown_body_line_end": 71,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g4\\assets\\ancient-indian-history-15_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 207.49
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 88,
+      "heading": "Compact visual / answer logic",
+      "preview": "MAURYAN CHANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 381.956
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 310.956
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 92,
+      "markdown_body_line_end": 97,
+      "heading": "Timeline",
+      "preview": "Date / phase | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date / phase",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 288.956
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 179.554
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 106,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 597.39
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 124,
+      "markdown_body_line_end": 124,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** D-E-L-M: Dynasty, Empire, Legacy, Memory - never use them as synonyms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 252.39
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 221.922
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 152,
+      "markdown_body_line_end": 152,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: dhamma was a political-social ethic with Buddhist roots, not a replacement constitution or compulsory conversion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 596.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 530.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 176,
+      "heading": "Compact visual / answer logic",
+      "preview": "SIGNIFICANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 301.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 230.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 186,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 587.39
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 204,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** S-R-I-D-A-M: Scale, Routes, Inscriptions, Dhamma, Art, Memory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 228.19
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 197.722
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 224,
+      "markdown_body_line_end": 241,
+      "heading": "CLOSING RECALL FLOW - SIGNIFICANCE MATRIX: SCALE, COMMUNICATION, POLITICAL ETHICS AND MATERIAL FORM",
+      "preview": "START / CONCEPT: Significance matrix: scale, communication, political ethics and material form",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 503
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 252,
+      "markdown_body_line_end": 252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Mauryas created a new scale of political integration through a metropolitan core, provincial centres, routes and frontier diplomacy, but the integration was graded rather than territorially uniform.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 293.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 226.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 282,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 682.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 534.39
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 300,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** Core -> Corridor -> Province -> Frontier -> Neighbour.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 203.59
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 173.122
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 337,
+      "heading": "CLOSING RECALL FLOW - POLITICAL INTEGRATION AND THE REGIONAL LIMITS OF THE FIRST VIRTUALLY SUBCONTINENTAL EMPIRE",
+      "preview": "START / CONCEPT: Political integration and the regional limits of the first virtually subcontinental empire",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 409
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 636.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 375.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 348,
+      "markdown_body_line_end": 348,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mauryan rule enlarged the vocabulary and ambition of governance, but administrative precedent does not mean a uniform bureaucracy or an unchanged institutional inheritance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 250.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 183.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 372,
+      "heading": "Compact visual / answer logic",
+      "preview": "FUNCTIONAL CENTRALISATION TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 700.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 629.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 376,
+      "markdown_body_line_end": 382,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 607.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 428.39
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 400,
+      "markdown_body_line_end": 400,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** F-G-C: Function, Geography, Capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 420,
+      "markdown_body_line_end": 437,
+      "heading": "CLOSING RECALL FLOW - ADMINISTRATIVE PRECEDENT VERSUS THE DIFFERENTIATED-CONTROL DEBATE",
+      "preview": "START / CONCEPT: Administrative precedent versus the differentiated-control debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 498.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 267.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 448,
+      "markdown_body_line_end": 448,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ashokan inscriptions appeared on important routes and strategic locations. monolithic pillars required quarrying, transport, finishing and erection at large distances. edicts were not one standard text mechanically copied everywhere; omissi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 156.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 60.956
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 479,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 463.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 294.99
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 497,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** R-O-A-D: Route, Object, Audience, Distance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 723.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 692.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 534,
+      "heading": "CLOSING RECALL FLOW - COMMUNICATION ROUTES, TRANSPORT AND INSCRIPTIONAL GOVERNANCE",
+      "preview": "START / CONCEPT: Communication routes, transport and inscriptional governance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 409
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 445.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 194.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 545,
+      "markdown_body_line_end": 545,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: In a fiscal answer distinguish capacity, burden and crisis; only the first two are well supported for the Mauryan peak.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 569,
+      "heading": "Compact visual / answer logic",
+      "preview": "ECONOMIC SIGNIFICANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 514.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 443.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 573,
+      "markdown_body_line_end": 579,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 421.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 200.522
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 597,
+      "markdown_body_line_end": 597,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** N-A-R-R: Norm, Assessment, Realisation, Redistribution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 640.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 609.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 617,
+      "markdown_body_line_end": 634,
+      "heading": "CLOSING RECALL FLOW - ECONOMY, FISCAL AMBITION AND THE SPREAD OF MATERIAL-STATE CAPACITY",
+      "preview": "START / CONCEPT: Economy, fiscal ambition and the spread of material-state capacity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 335.424
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 104.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 645,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "the edict corpus is the strongest contemporary archive for Ashoka's public voice. major texts vary by location; Dhauli and Jaugada use Separate Kalinga Edicts in place of part of the standard series. north-western versions use Kharoshthi, G",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 675,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 237.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 68.122
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 693,
+      "markdown_body_line_end": 693,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** T-S-A-R: Text, Script, Audience, Reception.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 433.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 713,
+      "markdown_body_line_end": 730,
+      "heading": "CLOSING RECALL FLOW - INSCRIPTIONAL PUBLIC COMMUNICATION, SCRIPTS AND LANGUAGES",
+      "preview": "START / CONCEPT: Inscriptional public communication, scripts and languages",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 440
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 741,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ashoka's dhamma was a Buddhist-inflected but supra-sectarian social ethic that made welfare, restraint and concord part of imperial legitimacy without abolishing hierarchy, punishment or political coercion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 368.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 765,
+      "heading": "Compact visual / answer logic",
+      "preview": "PERSONAL BUDDHISM -------- PUBLIC DHAMMA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 154.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 83.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 775,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 597.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 793,
+      "markdown_body_line_end": 793,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** F-E-C-W: Faith, Ethics, Concord, Welfare - with coercion retained.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 281.29
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 250.822
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 830,
+      "heading": "CLOSING RECALL FLOW - DHAMMA, SOCIAL PLURALITY AND THE POLITICAL ETHICS OF KINGSHIP",
+      "preview": "START / CONCEPT: Dhamma, social plurality and the political ethics of kingship",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 531.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "LEGACY: post-Mauryan patrons expanded Mauryan foundations rather than starting on an empty cultural landscape. polish alone is not a secure Mauryan dating criterion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 391.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 324.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 873,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 570.99
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 891,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** L-A-Y-E-R: Locate, Attribute, Year/phase, Evidence, Reuse.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 240.19
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 209.722
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 928,
+      "heading": "CLOSING RECALL FLOW - ART, ARCHITECTURE, CRAFT KNOWLEDGE AND CULTURAL LEGACY",
+      "preview": "START / CONCEPT: Art, architecture, craft knowledge and cultural legacy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 714.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 503.491
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 939,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Use external contacts as one bounded significance dimension; do not allow them to displace the central questions of integration and decline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 335.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 268.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 962,
+      "heading": "Compact visual / answer logic",
+      "preview": "ANCIENT CONTACT                    LATER MEMORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 966,
+      "markdown_body_line_end": 971,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 704.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 545.89
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 989,
+      "markdown_body_line_end": 989,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-M-R: Contact, Memory, Reinterpretation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 186.69
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 156.222
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1009,
+      "markdown_body_line_end": 1026,
+      "heading": "CLOSING RECALL FLOW - EXTERNAL CONTACTS, IMPERIAL IDEOLOGY AND LONG-TERM MEMORY",
+      "preview": "START / CONCEPT: External contacts, imperial ideology and long-term memory",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 394
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 649.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 398.891
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1037,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Chronology gains marks when uncertainty is made explicit without dissolving the broad sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 244.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 192.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1060,
+      "heading": "Timeline",
+      "preview": "Date / phase | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Date / phase",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1064,
+      "markdown_body_line_end": 1070,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 569.89
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 390.988
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1088,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** A-D-L-B: Ashoka, Dasharatha, Lists, Brihadratha.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1125,
+      "heading": "CLOSING RECALL FLOW - POST-ASHOKA CHRONOLOGY AND THE UNCERTAINTY OF SUCCESSION",
+      "preview": "START / CONCEPT: Post-Ashoka chronology and the uncertainty of succession",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 465
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 539.824
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 288.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1136,
+      "markdown_body_line_end": 1136,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: weakening is best identified through a cluster of symptoms rather than an assumed empirewide revolt. later regional inscriptions often illuminate their own rulers, not the exact moment Mauryan control ended. archaeological c",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 134.824
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 53.956
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1153,
+      "markdown_body_line_end": 1161,
+      "heading": "Compact visual / answer logic",
+      "preview": "TEXT REGIONAL TRANSITION MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 514.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1171,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 492.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 302.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1189,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** N-C-K-D-S: North-west, Centre, Kalinga, Deccan, South.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1209,
+      "markdown_body_line_end": 1226,
+      "heading": "CLOSING RECALL FLOW - SYMPTOMS AND REGIONAL PATTERN OF WEAKENING",
+      "preview": "START / CONCEPT: Symptoms and regional pattern of weakening",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 326
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 477.024
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 226.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1237,
+      "markdown_body_line_end": 1237,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Weak-successor theory has a credible evidentiary core - short reigns, sparse inscriptions and uncertain succession - but personality alone cannot explain why distant regions, fiscal systems and frontiers reacted as they did.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 114.624
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 47.956
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1262,
+      "markdown_body_line_end": 1267,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 495.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 336.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1285,
+      "markdown_body_line_end": 1285,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** S-T, not S-O: Succession is a Trigger, not a Sole cause.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1322,
+      "heading": "CLOSING RECALL FLOW - THEORY 1: WEAK SUCCESSORS, SHORT REIGNS AND DYNASTIC SUCCESSION SHOCKS",
+      "preview": "START / CONCEPT: Theory 1: weak successors, short reigns and dynastic succession shocks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 464.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 253.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1333,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Communication limits are visible in the need for tours and reporting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 99.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 46.556
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1350,
+      "markdown_body_line_end": 1357,
+      "heading": "Compact visual / answer logic",
+      "preview": "STRUCTURE + SHOCK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 524.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1366,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 502.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 354.39
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1384,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** I-S: Integration was Strained, not simply centralised.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 755.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1404,
+      "markdown_body_line_end": 1421,
+      "heading": "CLOSING RECALL FLOW - THEORY 2: OVERCENTRALISATION, OVEREXTENSION AND COMMUNICATION LIMITS",
+      "preview": "START / CONCEPT: Theory 2: overcentralisation, overextension and communication limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 495.424
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 294.424
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1432,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Maintaining a large army, officials, monuments and communication network was costly, but the hypothesis of a late-Mauryan fiscal or economy-wide crisis lacks direct evidence and must remain a qualified possibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 168.824
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 102.156
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1457,
+      "markdown_body_line_end": 1463,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 545.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 356.29
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1481,
+      "markdown_body_line_end": 1481,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-P-N: Cost is Plausible; crisis is Not proven.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1501,
+      "markdown_body_line_end": 1518,
+      "heading": "CLOSING RECALL FLOW - THEORY 3: FISCAL PRESSURE, ARMY AND OFFICIALDOM",
+      "preview": "START / CONCEPT: Theory 3: fiscal pressure, army and officialdom",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 511.424
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 290.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1529,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "VERDICT: administrative oppression and provincial assertion are credible regional mechanisms, supported unevenly and indirectly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 136.424
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 69.756
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1546,
+      "markdown_body_line_end": 1553,
+      "heading": "Compact visual / answer logic",
+      "preview": "CENTRE-AGENT PROBLEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 566.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 495.891
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1557,
+      "markdown_body_line_end": 1562,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 473.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 315.49
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1580,
+      "markdown_body_line_end": 1580,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** O-C-R: Oppression evidence -> Concern -> not automatically Revolt.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 723.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 692.824
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1600,
+      "markdown_body_line_end": 1617,
+      "heading": "CLOSING RECALL FLOW - THEORY 4: PROVINCIAL ASSERTION, ADMINISTRATIVE OPPRESSION AND REVOLT EVIDENCE",
+      "preview": "START / CONCEPT: Theory 4: provincial assertion, administrative oppression and revolt evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 418.424
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 197.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1628,
+      "markdown_body_line_end": 1628,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bactrian Greek pressure is one of the firmer external contributors to Mauryan weakening in the north-west, but it cannot explain the entire empire's regional disintegration or be projected backward as an invasion caused solely by Ashoka.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1653,
+      "markdown_body_line_end": 1658,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 400.224
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 241.822
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1676,
+      "markdown_body_line_end": 1676,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** F-R, not F-A: Frontier cause is Regional, not All-India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 657.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 627.024
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1696,
+      "markdown_body_line_end": 1713,
+      "heading": "CLOSING RECALL FLOW - THEORY 5: FRONTIER PRESSURES AND BACTRIAN GREEK INVASION",
+      "preview": "START / CONCEPT: Theory 5: frontier pressures and Bactrian Greek invasion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 266
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 394.024
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 183.024
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1724,
+      "markdown_body_line_end": 1724,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The claim that Ashoka's non-violence directly caused collapse is unsupported as a monocause: he retained army, punishment and deterrence, although a long reign with little campaigning may have affected military preparedness at the margin.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1741,
+      "markdown_body_line_end": 1748,
+      "heading": "Compact visual / answer logic",
+      "preview": "WHAT ASHOKA RENOUNCED        WHAT ASHOKA RETAINED",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 460.824
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 389.824
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1752,
+      "markdown_body_line_end": 1757,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 367.824
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 209.422
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1775,
+      "markdown_body_line_end": 1775,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** R-A: Renounced Aggression, not Army.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 671.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 641.224
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1795,
+      "markdown_body_line_end": 1812,
+      "heading": "CLOSING RECALL FLOW - THEORY 6: ASHOKA'S DHAMMA AND THE PACIFISM HYPOTHESIS",
+      "preview": "START / CONCEPT: Theory 6: Ashoka's dhamma and the pacifism hypothesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 394.024
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 173.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1823,
+      "markdown_body_line_end": 1823,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A coordinated Brahmanical revolution is not supported by Ashoka's inscriptions or the pattern of Mauryan collapse; specific ritual-economic grievances and later Brahmana dynasties may indicate tension, but not an empirewide religious overth",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1848,
+      "markdown_body_line_end": 1854,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 251.224
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 61.822
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1872,
+      "markdown_body_line_end": 1872,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** G-I-C: Grievance possible; Imperial Conspiracy unproven.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 478.491
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 448.024
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1892,
+      "markdown_body_line_end": 1909,
+      "heading": "CLOSING RECALL FLOW - THEORY 7: BRAHMANICAL REACTION AND THE PUSHYAMITRA PROBLEM",
+      "preview": "START / CONCEPT: Theory 7: Brahmanical reaction and the Pushyamitra problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1920,
+      "markdown_body_line_end": 1920,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Name archaeological indicators and their limits; do not use 'economic decline' as an unmeasured slogan.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 398.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1937,
+      "markdown_body_line_end": 1945,
+      "heading": "Compact visual / answer logic",
+      "preview": "DYNASTIC FALL             MATERIAL RECORD",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1949,
+      "markdown_body_line_end": 1955,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 473.89
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1973,
+      "markdown_body_line_end": 1973,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** S-P-I: Site, Phase, Indicator.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 171.49
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 141.022
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1993,
+      "markdown_body_line_end": 2010,
+      "heading": "CLOSING RECALL FLOW - THEORY 8: ECONOMIC DECLINE, URBAN CONTRACTION AND THE ARCHAEOLOGICAL-NUMISMATIC TEST",
+      "preview": "START / CONCEPT: Theory 8: economic decline, urban contraction and the archaeological-numismatic test",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 355
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 636.891
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 375.891
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2021,
+      "markdown_body_line_end": 2021,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "VERDICT: material diffusion is a useful background condition and regional-empowerment mechanism, not a deterministic terminal cause.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 250.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 183.624
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2046,
+      "markdown_body_line_end": 2051,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 441.89
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2069,
+      "markdown_body_line_end": 2069,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** C-E-N: Capacity enables; it does Not determine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 96.89
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 66.422
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2089,
+      "markdown_body_line_end": 2106,
+      "heading": "CLOSING RECALL FLOW - THEORY 9: MATERIAL DIFFUSION, ECOLOGICAL AND TECHNOLOGICAL HYPOTHESES",
+      "preview": "START / CONCEPT: Theory 9: material diffusion, ecological and technological hypotheses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 549.091
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 318.091
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2117,
+      "markdown_body_line_end": 2117,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "AGENCY: provincial and regional actors were not passive; they could retain revenue, troops and local legitimacy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 192.491
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 140.024
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2143,
+      "markdown_body_line_end": 2149,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 534.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 355.59
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2167,
+      "markdown_body_line_end": 2167,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** S-S-R-F-A: Structure, Succession, Region, Frontier, Amplifiers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 755.624
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2187,
+      "markdown_body_line_end": 2204,
+      "heading": "CLOSING RECALL FLOW - CAUSAL INTERACTION MODEL: STRUCTURAL VULNERABILITIES PLUS SHOCKS AND AGENCY",
+      "preview": "START / CONCEPT: Causal interaction model: structural vulnerabilities plus shocks and agency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 509.624
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 288.624
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2215,
+      "markdown_body_line_end": 2215,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: political regionalisation could intensify trade, coinage, art and religious patronage rather than simply diminish them. the label 'successor' means chronological/spatial inheritance, not direct constitutional succession. sha",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 148.824
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 67.956
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2232,
+      "markdown_body_line_end": 2239,
+      "heading": "Compact visual / answer logic",
+      "preview": "SIMULTANEOUS POST-MAURYAN WORLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 524.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2243,
+      "markdown_body_line_end": 2249,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 502.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 302.39
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2267,
+      "markdown_body_line_end": 2267,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** I-T, not I-C: Inheritance through Transformation, not Institutional Copying.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2287,
+      "markdown_body_line_end": 2304,
+      "heading": "CLOSING RECALL FLOW - SUCCESSOR POLITIES: REGIONALISATION, CONTINUITY AND TRANSFORMATION",
+      "preview": "START / CONCEPT: Successor polities: regionalisation, continuity and transformation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 344
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 464.024
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 233.024
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2315,
+      "markdown_body_line_end": 2315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: A conclusion framed as ended/persisted/transformed is more precise than 'decline but legacy remained'.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 107.424
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 40.756
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2332,
+      "markdown_body_line_end": 2338,
+      "heading": "Compact visual / answer logic",
+      "preview": "RUPTURE                CONTINUITY              TRANSFORMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 534.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2342,
+      "markdown_body_line_end": 2348,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 512.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 322.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2366,
+      "markdown_body_line_end": 2366,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** E-P-T: Ended, Persisted, Transformed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2386,
+      "markdown_body_line_end": 2403,
+      "heading": "CLOSING RECALL FLOW - CONTINUITY VERSUS RUPTURE: WHAT ENDED, WHAT PERSISTED AND WHAT CHANGED FORM",
+      "preview": "START / CONCEPT: Continuity versus rupture: what ended, what persisted and what changed form",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 291
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 498.424
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 247.424
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2414,
+      "markdown_body_line_end": 2414,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: A 20-marker can devote one paragraph to historiography after the causal body, not before the evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 102.824
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        59,
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2439,
+      "markdown_body_line_end": 2445,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 472.824
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 262.422
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2463,
+      "markdown_body_line_end": 2463,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** H-E-L: Historian, Evidence, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 688.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 658.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2483,
+      "markdown_body_line_end": 2500,
+      "heading": "CLOSING RECALL FLOW - HISTORIOGRAPHY: FROM MORAL AND MONOCAUSAL STORIES TO EVIDENCE-RANKED MULTI-CAUSALITY",
+      "preview": "START / CONCEPT: Historiography: from moral and monocausal stories to evidence-ranked multi-causality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 384.024
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 153.024
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2507,
+      "markdown_body_line_end": 2514,
+      "heading": "Compact visual / answer logic",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 729.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 658.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2518,
+      "markdown_body_line_end": 2523,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim / category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim / category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 636.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 488.99
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2541,
+      "markdown_body_line_end": 2541,
+      "heading": "Core teaching / solved analysis",
+      "preview": "**Memory hook:** D-T-E-R-V: Demand, Thesis, Evidence, Region, Verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 200.79
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 170.322
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3538,
+      "markdown_body_line_end": 3543,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 487.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 350.09
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3578,
+      "markdown_body_line_end": 3583,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 599.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 440.89
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3618,
+      "markdown_body_line_end": 3623,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 613.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 507.59
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3658,
+      "markdown_body_line_end": 3663,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 649.89
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3698,
+      "markdown_body_line_end": 3703,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 660.39
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3734,
+      "markdown_body_line_end": 3739,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 244.19
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 85.788
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3767,
+      "markdown_body_line_end": 3771,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 171.29
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3800,
+      "markdown_body_line_end": 3805,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 288.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 172.09
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3833,
+      "markdown_body_line_end": 3838,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 316.891
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 210.99
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3866,
+      "markdown_body_line_end": 3872,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 470.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 302.29
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3902,
+      "markdown_body_line_end": 3908,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 465.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 328.79
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3937,
+      "markdown_body_line_end": 3943,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 484.891
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 337.49
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3973,
+      "markdown_body_line_end": 3980,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 470.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 292.29
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4011,
+      "markdown_body_line_end": 4018,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 629.89
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4050,
+      "markdown_body_line_end": 4056,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 687.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 539.89
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4081,
+      "markdown_body_line_end": 4084,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, Ch-7 \"Power and Piety: The Maurya",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 675.091
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 587.824
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4090,
+      "markdown_body_line_end": 4096,
+      "heading": "Mini-timeline",
+      "preview": "Date / phase | Marker | Analytical significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Date / phase",
+          "Marker",
+          "Analytical significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 560.324
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 418.522
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4119,
+      "markdown_body_line_end": 4126,
+      "heading": "2. Key classification / data",
+      "preview": "Debate | Upinder-safe position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Debate",
+          "Upinder-safe position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 633.49
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4130,
+      "markdown_body_line_end": 4132,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Upinder Singh Ch-7 → decline, legacy and memory of the Maurya Empire. **Study link:** ⚠️ Compare with `advanced/14_Mauryan-Empire.md` for Dhamma as imperial ideology. **Study link:** ⚠️ Art & Culture → Sarnath capital, pil",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 608.49
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 549.622
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4145,
+      "markdown_body_line_end": 4145,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Advanced answers must separate **RS Sharma's listed causes** from **Upinder's evidentiary caution**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 396.422
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 351.754
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4179,
+      "markdown_body_line_end": 4179,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** D-E-L-M: Dynasty, Empire, Legacy, Memory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 565.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 534.824
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4198,
+      "markdown_body_line_end": 4198,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** S-R-I-D-A-M: Scale, Routes, Inscriptions, Dhamma, Art, Memory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 300.624
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 270.156
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4217,
+      "markdown_body_line_end": 4217,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** T-S-A-R: Text, Script, Audience, Reception.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4236,
+      "markdown_body_line_end": 4236,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** F-G-C and N-A-R-R: Function-Geography-Capacity; Norm-Assessment-Realisation-Redistribution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 538.624
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 508.156
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4255,
+      "markdown_body_line_end": 4255,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** L-A-Y-E-R: Locate, Attribute, Year/phase, Evidence, Reuse.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 273.956
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 243.488
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4274,
+      "markdown_body_line_end": 4274,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** A-D-L-B: Ashoka, Dasharatha, Lists, Brihadratha.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 738.424
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4293,
+      "markdown_body_line_end": 4293,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Source -> Claim -> Reach -> Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 504.224
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 473.756
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4312,
+      "markdown_body_line_end": 4312,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Claim -> Evidence -> Counterpoint -> Verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 239.556
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 209.088
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4331,
+      "markdown_body_line_end": 4331,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** S-S-R-F-A: Structure, Succession, Region, Frontier, Amplifiers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 734.491
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 704.024
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4350,
+      "markdown_body_line_end": 4350,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Simultaneous worlds, not one queue.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 469.824
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 439.356
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4369,
+      "markdown_body_line_end": 4369,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** E-P-T: Ended, Persisted, Transformed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 205.156
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 174.688
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4388,
+      "markdown_body_line_end": 4388,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** H-E-L: Historian, Evidence, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 564.824
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4407,
+      "markdown_body_line_end": 4407,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Demand first; evidence earns only when interpreted.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 330.624
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 300.156
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4415,
+      "markdown_body_line_end": 4424,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Define the three Mauryan endings",
+      "preview": "DYNASTY: Mauryan ruling line ends at Pataliputra",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4428,
+      "markdown_body_line_end": 4437,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Why Mauryan rule was historically significant",
+      "preview": "MAURYAN SIGNIFICANCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4441,
+      "markdown_body_line_end": 4450,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Post-Ashoka chronology and thin evidence",
+      "preview": "232 BCE: Ashoka dies",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4454,
+      "markdown_body_line_end": 4463,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Weak successors: useful trigger, incomplete cause",
+      "preview": "EVIDENCE: many short reigns + succession uncertainty + epigraphic thinning",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 350.891
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4467,
+      "markdown_body_line_end": 4476,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Centralisation and differentiated-control debate",
+      "preview": "OVER-CENTRALISED MODEL           DIFFERENTIATED CONTROL MODEL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 328.891
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 236.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4480,
+      "markdown_body_line_end": 4489,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Fiscal and economic crisis hypothesis",
+      "preview": "LARGE ARMY + OFFICIALDOM + MONUMENTS -> HIGH IMPERIAL COSTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4493,
+      "markdown_body_line_end": 4502,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Ashokan pacifism hypothesis under evidence test",
+      "preview": "CLAIM: dhamma and nonviolence weakened military preparedness.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4506,
+      "markdown_body_line_end": 4515,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Brahmanical reaction hypothesis under evidence test",
+      "preview": "CLAIM: sacrifice restrictions and heterodox patronage caused Brahmana revolt.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4519,
+      "markdown_body_line_end": 4528,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Regional agency and frontier pressure",
+      "preview": "NORTH-WEST: distance + Bactrian Greek pressure + changing frontier alliances",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 350.891
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4532,
+      "markdown_body_line_end": 4541,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Multi-causal decline mechanism",
+      "preview": "SUCCESSION SHOCKS ---- weak coordination ---- provincial assertion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 328.891
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 236.291
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4545,
+      "markdown_body_line_end": 4554,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Continuity through transformation",
+      "preview": "SANCHI: Ashokan brick core -> Shunga enlargement -> later gateways and shrines",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4558,
+      "markdown_body_line_end": 4567,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Examiner-ready significance and decline spine",
+      "preview": "INTRO: separate dynasty, empire and legacy; date Ashoka's death and final boundary.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    }
+  ]
+}

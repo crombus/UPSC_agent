@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Solved-Practice-Workbook_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Solved-Practice-Workbook_2026-08-30.pdf",
+  "mode": "workbook",
+  "topic_key": "ancient-indian-history-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 627,
+      "markdown_body_line_end": 627,
+      "heading": "Verified Question 1 - 2019 Prelims GS-I Q7: Non-Harappan Site",
+      "preview": "**Verified question; inferred answer/key — not officially verified.** The local paper is available but the official key is not. Use the question as a site-classification drill: test each option's period, region and diagnostic material befor",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 664.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 605.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 633,
+      "heading": "Verified Question 2 - 2021 Prelims GS-I Q32: Ancient Water Harvesting",
+      "preview": "**Verified question; inferred answer/key — not officially verified.** The paper is locally available but no official key is held. The relevant preparation route is Harappan water management, especially Dholavira's reservoirs, without silent",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 547.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 488.356
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 637,
+      "heading": "Verified Question 3 - 2025 Prelims GS-I Q72: Dancing Girl Material",
+      "preview": "**Verified question; official Set-A key available locally.** The Mohenjo-daro Dancing Girl is bronze. Use this as a material-culture distinction; it does not establish a complete social role or religious meaning.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 463.356
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 418.688
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 641,
+      "heading": "Verified Question 4 - 2026 Prelims GS-I Q8: Household Artefacts and Inference",
+      "preview": "**Verified question; provisional answer/key — not officially verified.** The routed demand tests household artefacts, weights, construction and social inference. Do not record or infer an answer letter from the provisional local key; apply ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 393.688
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 334.82
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 645,
+      "heading": "Verified Question 5 - 2025 GS-I Q1: Salient Features of Harappan Architecture",
+      "preview": "**Verified Mains question.** No official model answer is implied. A defensible 150-word response uses planning, construction, water/drainage, public works, regional variation and functional-label caution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 309.82
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 265.153
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    }
+  ]
+}

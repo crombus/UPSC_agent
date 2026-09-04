@@ -1,0 +1,3165 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-17",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "The Satavahanas & the Deccan - Complete Topic Package",
+      "preview": "**Subject:** Ancient Indian History | **Paper:** Prelims GS-I + GS-I | **Topic:** 17 | **Date:** 13 August 2026  **Evidence key:** FACT = supported directly by a named source; INTERPRETATION = analytical reading; INFERENCE = bounded reconst",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 699.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 641.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 422.222
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 44,
+      "markdown_body_line_end": 44,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\assets\\ancient-indian-history-17_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 57,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 293.554
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 61,
+      "markdown_body_line_end": 67,
+      "heading": "Sources actually used",
+      "preview": "Source class | Exact source | Use and caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source class",
+          "Exact source",
+          "Use and caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 499.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 90,
+      "markdown_body_line_end": 90,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Network polity means negotiated and layered sovereignty, not absence of kingship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 218.89
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 166.422
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 107,
+      "markdown_body_line_end": 119,
+      "heading": "Compact visual",
+      "preview": "SATAVAHANA POWER = CONNECTED NODES, NOT UNIFORM CONTROL",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 565.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 123,
+      "markdown_body_line_end": 127,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Question | Exam-safe answer | Necessary limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Question",
+          "Exam-safe answer",
+          "Necessary limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 543.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 432.49
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 171,
+      "heading": "CLOSING RECALL FLOW - SCOPE AND GOVERNING THESIS: A DECCAN NETWORK POLITY",
+      "preview": "START / CONCEPT: Scope and governing thesis: a Deccan network polity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 182,
+      "markdown_body_line_end": 182,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Naneghat is a pass joining the western coastal strip to the Deccan plateau; its royal inscription and portrait gallery turned a route into a statement of power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 215,
+      "heading": "Compact visual",
+      "preview": "TEXT MAP: DECCAN ROUTES (schematic)",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 224,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Geographic element | Political-economic use | Named anchor",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Geographic element",
+          "Political-economic use",
+          "Named anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 604.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 494.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 268,
+      "heading": "CLOSING RECALL FLOW - DECCAN GEOGRAPHY, ROUTES AND RESOURCES",
+      "preview": "START / CONCEPT: Deccan geography, routes and resources",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 279,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Use the sequence Mauryan contact - localities - Satavahana integration to explain state formation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 296,
+      "markdown_body_line_end": 301,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Evidence | What it indicates | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence",
+          "What it indicates",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 328,
+      "markdown_body_line_end": 345,
+      "heading": "CLOSING RECALL FLOW - POST-MAURYAN CONTEXT: LOCALITIES BEFORE CONSOLIDATION",
+      "preview": "START / CONCEPT: Post-Mauryan context: localities before consolidation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 260.69
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 39.69
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 356,
+      "markdown_body_line_end": 356,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Naneghat and Nashik inscriptions are central for early rulers, rituals, genealogy, Gautamiputra and grants.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 373,
+      "markdown_body_line_end": 379,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Source class | High-value information | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source class",
+          "High-value information",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 245.822
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 423,
+      "heading": "CLOSING RECALL FLOW - SOURCE MATRIX: PURANAS, INSCRIPTIONS, COINS, ARCHAEOLOGY AND TEXTS",
+      "preview": "START / CONCEPT: Source matrix: Puranas, inscriptions, coins, archaeology and texts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 651.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 440.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 434,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A genealogy diagram must not imply that missing reigns are known or that every Pulumavi and Satakarni is easily identified.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 319.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 252.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 471,
+      "heading": "Compact visual",
+      "preview": "GENEALOGY / SEQUENCE (simplified, not a complete king-list)",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 482,
+      "heading": "Timeline",
+      "preview": "Phase | Marker",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Phase",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 564.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 412.49
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 509,
+      "markdown_body_line_end": 526,
+      "heading": "CLOSING RECALL FLOW - CHRONOLOGY AND GENEALOGY DEBATES",
+      "preview": "START / CONCEPT: Chronology and genealogy debates",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 152
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 537,
+      "markdown_body_line_end": 537,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Puranas call the dynasty Andhra, whereas Satavahana inscriptions do not use Andhra as the dynastic name.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 398.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 554,
+      "markdown_body_line_end": 559,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim | Supporting evidence | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Supporting evidence",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 633.09
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 586,
+      "markdown_body_line_end": 603,
+      "heading": "CLOSING RECALL FLOW - SIMUKA, KANHA AND THE PROBLEM OF DYNASTIC BEGINNINGS",
+      "preview": "START / CONCEPT: Simuka, Kanha and the problem of dynastic beginnings",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 283.89
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 82.89
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 614,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Naneghat is not a Buddhist monastic cave in the same sense as Karla or Nashik viharas.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 721.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 669.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 636,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Naneghat feature | Historical use | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Naneghat feature",
+          "Historical use",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 328.622
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 680,
+      "heading": "CLOSING RECALL FLOW - SATAKARNI I, NAGANIKA AND NANEGHAT",
+      "preview": "START / CONCEPT: Satakarni I, Naganika and Naneghat",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 551.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 691,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The safest formulation is a realm with changing political centres rather than one undisputed capital for every reign.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 373.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 708,
+      "markdown_body_line_end": 713,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Centre/zone | Role | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Centre/zone",
+          "Role",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 655.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 757,
+      "heading": "CLOSING RECALL FLOW - POLITICAL GEOGRAPHY AND CAPITALS: A SHIFTING MULTI-CENTRED REALM",
+      "preview": "START / CONCEPT: Political geography and capitals: a shifting multi-centred realm",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 293.29
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 82.29
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 768,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Aharas and officials show governance capacity; they do not prove a fully centralized bureaucratic grid.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 785,
+      "markdown_body_line_end": 791,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Term | Exam meaning | Source caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Term",
+          "Exam meaning",
+          "Source caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 251.822
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 818,
+      "markdown_body_line_end": 835,
+      "heading": "CLOSING RECALL FLOW - ADMINISTRATION: AHARAS, OFFICERS AND PRACTICAL REACH",
+      "preview": "START / CONCEPT: Administration: aharas, officers and practical reach",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 846,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Maharathis, mahabhojas and other local ruling families were not incidental.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 337.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 285.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 880,
+      "heading": "Compact visual",
+      "preview": "LAYERED SOVEREIGNTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 907,
+      "markdown_body_line_end": 924,
+      "heading": "CLOSING RECALL FLOW - LOCAL ELITES, FEUDATORIES AND UNEVEN SOVEREIGNTY",
+      "preview": "START / CONCEPT: Local elites, feudatories and uneven sovereignty",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 138
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 267.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 46.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 935,
+      "markdown_body_line_end": 935,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ports and passes explain why the same regions recur in conflict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 960,
+      "markdown_body_line_end": 965,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Evidence | Political meaning | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence",
+          "Political meaning",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 308.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 153.822
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 1009,
+      "heading": "CLOSING RECALL FLOW - WESTERN KSHATRAPA CONFLICT: PORTS, PASSES AND REGIONAL POWER",
+      "preview": "START / CONCEPT: Western Kshatrapa conflict: ports, passes and regional power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 587.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 386.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1020,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gautami Balashri, not Gautamiputra himself, is the eulogizing donor voice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 260.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 208.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1043,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim in/around the Nashik record | Historical use | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Claim in/around the Nashik record",
+          "Historical use",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 738.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 563.29
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1070,
+      "markdown_body_line_end": 1087,
+      "heading": "CLOSING RECALL FLOW - GAUTAMIPUTRA SATAKARNI, GAUTAMI BALASHRI AND ROYAL IDEOLOGY",
+      "preview": "START / CONCEPT: Gautamiputra Satakarni, Gautami Balashri and royal ideology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1098,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Overstrikes do not independently identify the duration or exact boundaries of restored rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1123,
+      "heading": "Compact visual",
+      "preview": "OVERSTRIKE READING GUIDE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1127,
+      "markdown_body_line_end": 1131,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Observation | Safe inference | Unsafe inference",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Observation",
+          "Safe inference",
+          "Unsafe inference"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 573.69
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1158,
+      "markdown_body_line_end": 1175,
+      "heading": "CLOSING RECALL FLOW - NAHAPANA OVERSTRIKES: HOW TO READ THE COIN EVIDENCE",
+      "preview": "START / CONCEPT: Nahapana overstrikes: how to read the coin evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 267.09
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 46.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1186,
+      "markdown_body_line_end": 1186,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "BOUNDARY: Rudradaman belongs primarily to Topic 16; here he is used only for the Satavahana frontier.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1208,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Evidence | What it supports | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence",
+          "What it supports",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 270.022
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1252,
+      "heading": "CLOSING RECALL FLOW - VASISTHIPUTRA PULUMAVI, RUDRADAMAN AND NEGOTIATED RIVALRY",
+      "preview": "START / CONCEPT: Vasisthiputra Pulumavi, Rudradaman and negotiated rivalry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 725.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 514.691
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1263,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Some later rulers are known only through coins and do not occur in Puranic lists.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 403.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 350.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1280,
+      "markdown_body_line_end": 1285,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Marker | Significance | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Marker",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 644.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1329,
+      "heading": "CLOSING RECALL FLOW - YAJNA SRI SATAKARNI, LATER RULERS AND DECLINE",
+      "preview": "START / CONCEPT: Yajna Sri Satakarni, later rulers and decline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 295.09
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 74.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1340,
+      "markdown_body_line_end": 1340,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Iron tools, paddy transplantation, cotton, wells, drains and river-delta agriculture show a productive but regionally uneven agrarian landscape.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1370,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Evidence | Economic inference | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence",
+          "Economic inference",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 308.024
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 176.222
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1414,
+      "heading": "CLOSING RECALL FLOW - AGRARIAN BASE: IRON, PADDY, COTTON AND WATER",
+      "preview": "START / CONCEPT: Agrarian base: iron, paddy, cotton and water",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 593.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 382.491
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1425,
+      "markdown_body_line_end": 1425,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fiscal immunity vocabulary is more important than merely saying land was donated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 256.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 204.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1442,
+      "markdown_body_line_end": 1447,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Record | Grant or institution | Significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Record",
+          "Grant or institution",
+          "Significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 719.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 565.29
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1474,
+      "markdown_body_line_end": 1491,
+      "heading": "CLOSING RECALL FLOW - LAND GRANTS AND FISCAL IMMUNITIES: AN EARLY INSTITUTIONAL TEMPLATE",
+      "preview": "START / CONCEPT: Land grants and fiscal immunities: an early institutional template",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1502,
+      "markdown_body_line_end": 1502,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Early historic Deccan towns were production and exchange nodes, not merely royal capitals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 470.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 418.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1519,
+      "markdown_body_line_end": 1524,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Site/record | Evidence | Inference",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Site/record",
+          "Evidence",
+          "Inference"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 195.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 41.022
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1551,
+      "markdown_body_line_end": 1568,
+      "heading": "CLOSING RECALL FLOW - CRAFTS, GUILDS AND TOWNS",
+      "preview": "START / CONCEPT: Crafts, guilds and towns",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 460.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 269.091
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1579,
+      "markdown_body_line_end": 1579,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Paithana and Tagara were important inland market towns.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 157.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 105.224
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1596,
+      "markdown_body_line_end": 1613,
+      "heading": "Compact visual",
+      "preview": "TRADE FLOW",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 631.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 460.491
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1617,
+      "markdown_body_line_end": 1622,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Node | Function | Evidence type",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Node",
+          "Function",
+          "Evidence type"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 438.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 329.09
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1649,
+      "markdown_body_line_end": 1666,
+      "heading": "CLOSING RECALL FLOW - INLAND AND COASTAL TRADE: PORTS, PASSES AND MARKET TOWNS",
+      "preview": "START / CONCEPT: Inland and coastal trade: ports, passes and market towns",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 571.091
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1677,
+      "markdown_body_line_end": 1677,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Roman coins, amphorae, terra sigillata, rouletted ware and textual notices show Mediterranean-linked exchange.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1694,
+      "markdown_body_line_end": 1699,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Evidence | Safe conclusion | Do not claim",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence",
+          "Safe conclusion",
+          "Do not claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 655.49
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1726,
+      "markdown_body_line_end": 1743,
+      "heading": "CLOSING RECALL FLOW - ROMAN AND MEDITERRANEAN CONTACT: EVIDENCE WITHOUT DEPENDENCY CLAIMS",
+      "preview": "START / CONCEPT: Roman and Mediterranean contact: evidence without dependency claims",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 293.29
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 82.29
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1754,
+      "markdown_body_line_end": 1754,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lead is the signature Satavahana metal in many Prelims questions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 702.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1771,
+      "markdown_body_line_end": 1781,
+      "heading": "Compact visual",
+      "preview": "COIN READING CHECKLIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 422.224
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 321.224
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1785,
+      "markdown_body_line_end": 1790,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Feature | Use | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Use",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 299.224
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 167.422
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1817,
+      "markdown_body_line_end": 1834,
+      "heading": "CLOSING RECALL FLOW - COINAGE: METALS, SYMBOLS, PORTRAITS AND POLITICAL USE",
+      "preview": "START / CONCEPT: Coinage: metals, symbols, portraits and political use",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 593.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 392.491
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1845,
+      "markdown_body_line_end": 1845,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Royal claims to restore varna order are statements of desired hierarchy, not demographic proof that society matched normative texts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 266.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 200.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1862,
+      "markdown_body_line_end": 1867,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Evidence | What it shows | What it cannot show",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence",
+          "What it shows",
+          "What it cannot show"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 738.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 606.89
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1894,
+      "markdown_body_line_end": 1911,
+      "heading": "CLOSING RECALL FLOW - SOCIETY: VARNA IDEOLOGY, PRACTICE AND MOBILITY",
+      "preview": "START / CONCEPT: Society: varna ideology, practice and mobility",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 271.89
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 70.89
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1922,
+      "markdown_body_line_end": 1922,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Royal and donor women are unusually visible because inscription-making required resources.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1939,
+      "markdown_body_line_end": 1944,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 270.022
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1971,
+      "markdown_body_line_end": 1988,
+      "heading": "CLOSING RECALL FLOW - MATRONYMICS, ROYAL WOMEN AND DONOR AGENCY",
+      "preview": "START / CONCEPT: Matronymics, royal women and donor agency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 443.091
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1999,
+      "markdown_body_line_end": 1999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "They show inherited occupational tendencies alongside mobility, corporate organization and new routes to prestige.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 317.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 265.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2016,
+      "markdown_body_line_end": 2021,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Group/term | Evidence | Historical point",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Group/term",
+          "Evidence",
+          "Historical point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 655.49
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2048,
+      "markdown_body_line_end": 2065,
+      "heading": "CLOSING RECALL FLOW - OCCUPATIONAL GROUPS, MERCHANTS AND SOCIAL MOBILITY",
+      "preview": "START / CONCEPT: Occupational groups, merchants and social mobility",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 334.69
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 113.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2076,
+      "markdown_body_line_end": 2076,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plural patronage was a political and social practice, not a contradiction requiring one exclusive state religion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2093,
+      "markdown_body_line_end": 2098,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Patronage strand | Named evidence | Interpretation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Patronage strand",
+          "Named evidence",
+          "Interpretation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 311.422
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2125,
+      "markdown_body_line_end": 2142,
+      "heading": "CLOSING RECALL FLOW - RELIGION AND PLURAL PATRONAGE",
+      "preview": "START / CONCEPT: Religion and plural patronage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 742.891
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 521.891
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2153,
+      "markdown_body_line_end": 2153,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Satavahana inscriptions are predominantly in Prakrit or Middle Indic written in Brahmi.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 358.024
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2170,
+      "markdown_body_line_end": 2175,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Item | Correct association | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Item",
+          "Correct association",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2202,
+      "markdown_body_line_end": 2219,
+      "heading": "CLOSING RECALL FLOW - PRAKRIT, BRAHMI, INSCRIPTIONS AND GATHA SATTASAI",
+      "preview": "START / CONCEPT: Prakrit, Brahmi, inscriptions and Gatha Sattasai",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 345.89
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 144.89
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2230,
+      "markdown_body_line_end": 2230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wrong: All western Deccan caves are Satavahana royal monuments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2247,
+      "markdown_body_line_end": 2252,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Site | High-yield evidence | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Site",
+          "High-yield evidence",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 295.422
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2279,
+      "markdown_body_line_end": 2296,
+      "heading": "CLOSING RECALL FLOW - WESTERN DECCAN CAVES: NASHIK, KARLA AND JUNNAR",
+      "preview": "START / CONCEPT: Western Deccan caves: Nashik, Karla and Junnar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 742.891
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 541.891
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2307,
+      "markdown_body_line_end": 2307,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wrong: Every Andhra Buddhist monument is Satavahana.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 402.091
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 349.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2324,
+      "markdown_body_line_end": 2329,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Feature | Historical value | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Historical value",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 644.29
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2356,
+      "markdown_body_line_end": 2373,
+      "heading": "CLOSING RECALL FLOW - AMARAVATI AND THE ANDHRA BUDDHIST LANDSCAPE",
+      "preview": "START / CONCEPT: Amaravati and the Andhra Buddhist landscape",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 309.29
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 108.29
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2384,
+      "markdown_body_line_end": 2384,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Conclude with reciprocal but unequal interaction through institutions and routes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2401,
+      "markdown_body_line_end": 2406,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Interaction | Named evidence | Exam-safe conclusion",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Interaction",
+          "Named evidence",
+          "Exam-safe conclusion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 306.622
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2433,
+      "markdown_body_line_end": 2450,
+      "heading": "CLOSING RECALL FLOW - DECCAN SCHOOLS AND CULTURAL INTERACTION: BOUNDED SYNTHESIS",
+      "preview": "START / CONCEPT: Deccan schools and cultural interaction: bounded synthesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 125
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 711.491
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 490.491
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2457,
+      "markdown_body_line_end": 2472,
+      "heading": "Compact visual",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 410.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 259.091
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2476,
+      "markdown_body_line_end": 2482,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Term | Correct use | Avoid",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Term",
+          "Correct use",
+          "Avoid"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 237.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 95.29
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2523,
+      "markdown_body_line_end": 2523,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This linkage does not override the repository chronology, local book evidence, or the source limitations printed throughout the package.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2542,
+      "markdown_body_line_end": 2559,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3798,
+      "markdown_body_line_end": 3801,
+      "heading": "The Satavahanas & the Deccan - ADVANCED",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, sections on early-historic Deccan",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 217.424
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3807,
+      "markdown_body_line_end": 3812,
+      "heading": "Mini-timeline",
+      "preview": "Phase | Date | Marker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Phase",
+          "Date",
+          "Marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 189.924
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 46.922
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3834,
+      "markdown_body_line_end": 3840,
+      "heading": "2. Key classification / data",
+      "preview": "Analytical question | Upinder-safe answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Analytical question",
+          "Upinder-safe answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 375.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 211.29
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3844,
+      "markdown_body_line_end": 3845,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Upinder Singh → early historical Deccan, inscriptions, coins and donation networks. **Study link:** ⚠️ Compare with Shakas/Kushanas → `advanced/19_Crafts-Commerce-Urban-Growth.md`; land grants → `advanced/21_Life-and-Cultu",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 186.29
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 127.422
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3858,
+      "markdown_body_line_end": 3858,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Treating prashastis as neutral records is unsafe; they are evidence and royal praise at the same time.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 642.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 598.224
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4055,
+      "markdown_body_line_end": 4063,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Deccan network polity and route frame",
+      "preview": "SATAVAHANA POWER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 304.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 222.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4067,
+      "markdown_body_line_end": 4074,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Evidence hierarchy and chronology",
+      "preview": "PURANIC LISTS -> genealogy and broad sequence -> redaction limits",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4078,
+      "markdown_body_line_end": 4086,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Early rulers, Satakarni and Naneghat",
+      "preview": "SIMUKA -> conventional founder; date and first core debated",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4090,
+      "markdown_body_line_end": 4097,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Multi-centred political geography",
+      "preview": "PRATISHTHANA / PAITHAN -> western-central dynastic anchor",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4101,
+      "markdown_body_line_end": 4109,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Administration and local elites",
+      "preview": "KING / MOBILE COURT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4113,
+      "markdown_body_line_end": 4122,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Kshatrapa conflict and Gautamiputra",
+      "preview": "WESTERN PORTS + PASSES + MALWA-DECCAN ROUTES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 390.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 297.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4126,
+      "markdown_body_line_end": 4135,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Nahapana overstrikes as evidence",
+      "preview": "NAHAPANA SILVER COINS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4139,
+      "markdown_body_line_end": 4148,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Agrarian expansion and land grants",
+      "preview": "IRON + CLEARANCE + PADDY / COTTON + WATER MANAGEMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4152,
+      "markdown_body_line_end": 4161,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Crafts, guilds, towns and trade",
+      "preview": "VILLAGE RAW MATERIALS -> CRAFT CLUSTERS -> INLAND TOWNS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4165,
+      "markdown_body_line_end": 4172,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Society, matronymics and women",
+      "preview": "VARNA IDEOLOGY -> royal claims and Brahmanical legitimation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 371.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4176,
+      "markdown_body_line_end": 4183,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Religion, language, caves and Amaravati",
+      "preview": "BRAHMANICAL RITES + Prakrit royal inscriptions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 349.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 277.091
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4187,
+      "markdown_body_line_end": 4196,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Decline, legacy and answer spine",
+      "preview": "LATER RULERS + REGIONAL SUCCESSORS + SHIFTING ROUTES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    }
+  ]
+}

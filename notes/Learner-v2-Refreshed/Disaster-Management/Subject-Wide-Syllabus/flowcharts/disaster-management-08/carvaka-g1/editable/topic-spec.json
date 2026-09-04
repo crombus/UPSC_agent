@@ -1,0 +1,1035 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-08",
+  "subject": "Disaster-Management",
+  "title": "RIVERINE FLOODS AND URBAN FLOOD RESILIENCE",
+  "short_route": "FLOOD-FAMILY MATRIX → CATCHMENT-TO-CITY CHAIN → URBAN RUNOFF MECHANISM → WATER-SPACE FIREWALL → COMPOUND COASTAL FLOOD MAP → CWC FORECAST RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-08-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "9a3666f75efa74015c82d2b2bf4bb25b56181cad4f544726cb96ceaa397021d3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FLOOD-FAMILY MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FLOOD-FAMILY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "FLOODPLAIN OVERFLOW",
+          "role": "outcome"
+        },
+        {
+          "text": "RAINFALL EXCEEDS LOCAL STORAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "RAPID CONCENTRATED RUNOFF OR SUDDEN RELEASE",
+          "role": "evidence"
+        },
+        {
+          "text": "BUILT CATCHMENT OR SEA INTERACTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RIVERINE → channel / floodplain overflow",
+        "PLUVIAL → rainfall exceeds local storage / drainage",
+        "FLASH → rapid concentrated runoff or sudden release",
+        "URBAN / COASTAL → built catchment or sea interaction"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "RIVERINE → channel / floodplain overflow",
+          "FLASH → rapid concentrated runoff or sudden release",
+          "RIVERINE → channel / floodplain overflow"
+        ],
+        [
+          "PLUVIAL → rainfall exceeds local storage / drainage",
+          "URBAN / COASTAL → built catchment or sea interaction",
+          "PLUVIAL → rainfall exceeds local storage / drainage"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "RIVERINE → channel / floodplain overflow",
+            "PLUVIAL → rainfall exceeds local storage / drainage"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FLASH → rapid concentrated runoff or sudden release",
+            "URBAN / COASTAL → built catchment or sea interaction"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "RIVERINE → channel / floodplain overflow",
+            "PLUVIAL → rainfall exceeds local storage / drainage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "URBAN / COASTAL → built catchment or sea interaction.",
+      "source_references": [
+        "Flood taxonomy",
+        "Riverine flooding",
+        "Pluvial flooding",
+        "Flash flooding"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CATCHMENT-TO-CITY CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CATCHMENT-TO-CITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RAINFALL + ANTECEDENT MOISTURE + SLOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND COVER",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIBUTARY TIMING + CHANNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "SEDIMENT CONDITION",
+          "role": "primary"
+        },
+        {
+          "text": "CITY EXPOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "DRAINAGE LAND USE WARNING AND CAPACITY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RAINFALL + ANTECEDENT MOISTURE + SLOPE / LAND COVER",
+        "TRIBUTARY TIMING + CHANNEL / SEDIMENT CONDITION",
+        "FLOODPLAIN / CITY EXPOSURE",
+        "OUTCOME → drainage land use warning and capacity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "RAINFALL + ANTECEDENT MOISTURE + SLOPE / LAND COVER",
+            "TRIBUTARY TIMING + CHANNEL / SEDIMENT CONDITION"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FLOODPLAIN / CITY EXPOSURE",
+            "OUTCOME → drainage land use warning and capacity"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "RAINFALL + ANTECEDENT MOISTURE + SLOPE / LAND COVER",
+            "TRIBUTARY TIMING + CHANNEL / SEDIMENT CONDITION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → drainage land use warning and capacity.",
+      "source_references": [
+        "Basin-catchment process",
+        "Urban flooding"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "URBAN RUNOFF MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "URBAN RUNOFF MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "IMPERVIOUS SURFACE",
+          "role": "outcome"
+        },
+        {
+          "text": "FASTER RUNOFF",
+          "role": "comparison"
+        },
+        {
+          "text": "SYNCHRONISED PEAK",
+          "role": "evidence"
+        },
+        {
+          "text": "OVERBURDENED DRAIN",
+          "role": "primary"
+        },
+        {
+          "text": "DENSE EXPOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE AND LIVELIHOOD LOSS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "IMPERVIOUS SURFACE → FASTER RUNOFF",
+        "SYNCHRONISED PEAK → OVERBURDENED DRAIN",
+        "BLOCKAGE / ENCROACHMENT → BACKFLOW / WATERLOGGING",
+        "DENSE EXPOSURE → SERVICE AND LIVELIHOOD LOSS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "IMPERVIOUS SURFACE → FASTER RUNOFF",
+            "SYNCHRONISED PEAK → OVERBURDENED DRAIN"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BLOCKAGE / ENCROACHMENT → BACKFLOW / WATERLOGGING",
+            "DENSE EXPOSURE → SERVICE AND LIVELIHOOD LOSS"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPERVIOUS SURFACE → FASTER RUNOFF",
+            "SYNCHRONISED PEAK → OVERBURDENED DRAIN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BLOCKAGE / ENCROACHMENT → BACKFLOW / WATERLOGGING; DENSE EXPOSURE → SERVICE AND LIVELIHOOD LOSS.",
+      "source_references": [
+        "Imperviousness and drainage"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "WATER-SPACE FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WATER-SPACE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ROOM FOR RIVER EXPANSION",
+          "role": "outcome"
+        },
+        {
+          "text": "STORAGE AND ATTENUATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NATURAL DRAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "CONVEYANCE PATH",
+          "role": "primary"
+        },
+        {
+          "text": "EXPOSURE + LOST HYDRAULIC FUNCTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FLOODPLAIN → room for river expansion",
+        "WETLAND / LAKE → storage and attenuation",
+        "NATURAL DRAIN → conveyance path",
+        "ENCROACHMENT → exposure + lost hydraulic function"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "FLOODPLAIN → room for river expansion",
+          "NATURAL DRAIN → conveyance path",
+          "FLOODPLAIN → room for river expansion"
+        ],
+        [
+          "WETLAND / LAKE → storage and attenuation",
+          "ENCROACHMENT → exposure + lost hydraulic function",
+          "WETLAND / LAKE → storage and attenuation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "FLOODPLAIN → room for river expansion",
+            "WETLAND / LAKE → storage and attenuation"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NATURAL DRAIN → conveyance path",
+            "ENCROACHMENT → exposure + lost hydraulic function"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "FLOODPLAIN → room for river expansion",
+            "WETLAND / LAKE → storage and attenuation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NATURAL DRAIN → conveyance path; ENCROACHMENT → exposure + lost hydraulic function.",
+      "source_references": [
+        "Floodplain encroachment",
+        "Wetlands and sponge-city concepts"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COMPOUND COASTAL FLOOD MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMPOUND COASTAL FLOOD MAP",
+          "role": "primary"
+        },
+        {
+          "text": "RIVER FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "PLUVIAL RUNOFF",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN DRAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "DOWNSTREAM IMPEDANCE",
+          "role": "primary"
+        },
+        {
+          "text": "COMPOUND INUNDATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "RIVER FLOW → ESTUARY",
+        "PLUVIAL RUNOFF → URBAN DRAIN",
+        "SURGE / TIDE / WAVE → DOWNSTREAM IMPEDANCE",
+        "COMBINATION → COMPOUND INUNDATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "RIVER FLOW → ESTUARY",
+            "PLUVIAL RUNOFF → URBAN DRAIN"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SURGE / TIDE / WAVE → DOWNSTREAM IMPEDANCE",
+            "COMBINATION → COMPOUND INUNDATION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RIVER FLOW → ESTUARY",
+            "PLUVIAL RUNOFF → URBAN DRAIN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SURGE / TIDE / WAVE → DOWNSTREAM IMPEDANCE.",
+      "source_references": [
+        "Coastal flooding"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CWC FORECAST RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CWC FORECAST RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 OBSERVE LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "2 ANALYSE AND FORECAST",
+          "role": "comparison"
+        },
+        {
+          "text": "3 ISSUE SITE-SPECIFIC CATEGORY",
+          "role": "evidence"
+        },
+        {
+          "text": "4 ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECT AUTHORITY ACTS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1 OBSERVE LEVEL / DISCHARGE / INFLOW",
+        "2 ANALYSE AND FORECAST",
+        "3 ISSUE SITE-SPECIFIC CATEGORY / MESSAGE",
+        "4 ADMINISTRATION / PROJECT AUTHORITY ACTS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 OBSERVE LEVEL / DISCHARGE / INFLOW",
+            "2 ANALYSE AND FORECAST"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 ISSUE SITE-SPECIFIC CATEGORY / MESSAGE",
+            "4 ADMINISTRATION / PROJECT AUTHORITY ACTS"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 OBSERVE LEVEL / DISCHARGE / INFLOW",
+            "2 ANALYSE AND FORECAST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "3 ISSUE SITE-SPECIFIC CATEGORY / MESSAGE; 4 ADMINISTRATION / PROJECT AUTHORITY ACTS.",
+      "source_references": [
+        "CWC forecasting",
+        "Site-specific thresholds"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RESERVOIR GOVERNANCE BOUNDARY",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESERVOIR GOVERNANCE BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "INFLOW FORECAST + CURRENT STORAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATING RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "DAM CONDITION",
+          "role": "evidence"
+        },
+        {
+          "text": "DOWNSTREAM CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "GATE DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "TIMELY DOWNSTREAM WARNING",
+          "role": "comparison"
+        },
+        {
+          "text": "DAM IS NEITHER GUARANTEE NOR SINGLE CAUSE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "INFLOW FORECAST + CURRENT STORAGE",
+        "OPERATING RULE / DAM CONDITION / DOWNSTREAM CAPACITY",
+        "GATE DECISION → TIMELY DOWNSTREAM WARNING",
+        "TRAP → DAM IS NEITHER GUARANTEE NOR SINGLE CAUSE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "INFLOW FORECAST + CURRENT STORAGE",
+            "OPERATING RULE / DAM CONDITION / DOWNSTREAM CAPACITY"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GATE DECISION → TIMELY DOWNSTREAM WARNING",
+            "TRAP → DAM IS NEITHER GUARANTEE NOR SINGLE CAUSE"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "INFLOW FORECAST + CURRENT STORAGE",
+            "OPERATING RULE / DAM CONDITION / DOWNSTREAM CAPACITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → DAM IS NEITHER GUARANTEE NOR SINGLE CAUSE.",
+      "source_references": [
+        "Reservoir-operation boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "STRUCTURAL MEASURE TEST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STRUCTURAL MEASURE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "STORAGE AND OPERATION LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL PROTECTION AND BREACH",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSFER RISK",
+          "role": "caution"
+        },
+        {
+          "text": "CONVEYANCE AND DOWNSTREAM EFFECTS",
+          "role": "primary"
+        },
+        {
+          "text": "CAPACITY DEPENDS ON OUTLET AND MAINTENANCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DAM / RESERVOIR → storage and operation limits",
+        "EMBANKMENT → local protection and breach / transfer risk",
+        "CHANNEL / DIVERSION → conveyance and downstream effects",
+        "DRAINAGE → capacity depends on outlet and maintenance"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "DAM / RESERVOIR → storage and operation limits",
+          "CHANNEL / DIVERSION → conveyance and downstream effects",
+          "DAM / RESERVOIR → storage and operation limits"
+        ],
+        [
+          "EMBANKMENT → local protection and breach / transfer risk",
+          "DRAINAGE → capacity depends on outlet and maintenance",
+          "EMBANKMENT → local protection and breach / transfer risk"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "DAM / RESERVOIR → storage and operation limits",
+            "EMBANKMENT → local protection and breach / transfer risk"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CHANNEL / DIVERSION → conveyance and downstream effects",
+            "DRAINAGE → capacity depends on outlet and maintenance"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DAM / RESERVOIR → storage and operation limits",
+            "EMBANKMENT → local protection and breach / transfer risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DRAINAGE → capacity depends on outlet and maintenance.",
+      "source_references": [
+        "Structural-measure limits"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "URBAN PLANNING PORTFOLIO",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "URBAN PLANNING PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "MASTER PLAN + FLOODPLAIN ZONING",
+          "role": "outcome"
+        },
+        {
+          "text": "DRAIN INVENTORY + CATCHMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTOUR DESIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "SOLID WASTE + WATERWAY",
+          "role": "primary"
+        },
+        {
+          "text": "WETLAND PROTECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "UTILITY DEVELOPMENT CONTROL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MASTER PLAN + FLOODPLAIN ZONING",
+        "DRAIN INVENTORY + CATCHMENT / CONTOUR DESIGN",
+        "SOLID WASTE + WATERWAY / WETLAND PROTECTION",
+        "BUILDING / ROAD / UTILITY DEVELOPMENT CONTROL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "MASTER PLAN + FLOODPLAIN ZONING",
+            "DRAIN INVENTORY + CATCHMENT / CONTOUR DESIGN"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SOLID WASTE + WATERWAY / WETLAND PROTECTION",
+            "BUILDING / ROAD / UTILITY DEVELOPMENT CONTROL"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "MASTER PLAN + FLOODPLAIN ZONING",
+            "DRAIN INVENTORY + CATCHMENT / CONTOUR DESIGN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOLID WASTE + WATERWAY / WETLAND PROTECTION; BUILDING / ROAD / UTILITY DEVELOPMENT CONTROL.",
+      "source_references": [
+        "Urban planning"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SPONGE-CITY PORTFOLIO",
+      "structural_type": "layered-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SPONGE-CITY PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "CAPTURE INFILTRATE DELAY",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMEABLE AND DETENTION SPACE",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRIBUTED STORAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "MAJOR DRAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CONVEY RESIDUAL FLOWS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ROOF / PLOT → capture infiltrate delay",
+        "STREET / PARK → permeable and detention space",
+        "LAKE / WETLAND → distributed storage",
+        "MAJOR DRAIN / BASIN → convey residual flows"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "ROOF / PLOT → capture infiltrate delay",
+            "STREET / PARK → permeable and detention space"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "LAKE / WETLAND → distributed storage",
+            "MAJOR DRAIN / BASIN → convey residual flows"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ROOF / PLOT → capture infiltrate delay",
+            "STREET / PARK → permeable and detention space"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAJOR DRAIN / BASIN → convey residual flows.",
+      "source_references": [
+        "Wetlands and sponge-city concepts"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INCLUSIVE SERVICE RECOVERY LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INCLUSIVE SERVICE RECOVERY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESSIBLE WARNING",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIEF + HEALTH + GRIEVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICE RESTORATION",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSING LIVELIHOOD WETLAND AND DRAIN REPAIR",
+          "role": "primary"
+        },
+        {
+          "text": "SAFER PLAN AND INTER-JURISDICTION ACTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ACCESSIBLE WARNING → TRANSPORT → SHELTER",
+        "RELIEF + HEALTH + GRIEVANCE → SERVICE RESTORATION",
+        "HOUSING LIVELIHOOD WETLAND AND DRAIN REPAIR",
+        "FEEDBACK → SAFER PLAN AND INTER-JURISDICTION ACTION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "ACCESSIBLE WARNING → TRANSPORT → SHELTER",
+            "RELIEF + HEALTH + GRIEVANCE → SERVICE RESTORATION"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "HOUSING LIVELIHOOD WETLAND AND DRAIN REPAIR",
+            "FEEDBACK → SAFER PLAN AND INTER-JURISDICTION ACTION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ACCESSIBLE WARNING → TRANSPORT → SHELTER",
+            "RELIEF + HEALTH + GRIEVANCE → SERVICE RESTORATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RELIEF + HEALTH + GRIEVANCE → SERVICE RESTORATION.",
+      "source_references": [
+        "Resilient infrastructure",
+        "Inclusive evacuation and relief",
+        "Recovery and coordination"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FLOOD ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FLOOD ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY FLOOD",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE CATCHMENT CITY COAST MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "MAP CWC FORECAST RESERVOIR DECISION AND LOCAL ACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "COMBINE ZONING DRAINAGE WETLANDS STRUCTURES AND UFRMP",
+          "role": "primary"
+        },
+        {
+          "text": "ADD INCLUSION COORDINATION RECOVERY AND OUTCOME QUALIFICATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY FLOOD → TRACE CATCHMENT CITY COAST MECHANISM",
+        "MAP CWC FORECAST RESERVOIR DECISION AND LOCAL ACTION",
+        "COMBINE ZONING DRAINAGE WETLANDS STRUCTURES AND UFRMP",
+        "ADD INCLUSION COORDINATION RECOVERY AND OUTCOME QUALIFICATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "CLASSIFY FLOOD → TRACE CATCHMENT CITY COAST MECHANISM",
+            "MAP CWC FORECAST RESERVOIR DECISION AND LOCAL ACTION"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "COMBINE ZONING DRAINAGE WETLANDS STRUCTURES AND UFRMP",
+            "ADD INCLUSION COORDINATION RECOVERY AND OUTCOME QUALIFICATION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CLASSIFY FLOOD → TRACE CATCHMENT CITY COAST MECHANISM",
+            "MAP CWC FORECAST RESERVOIR DECISION AND LOCAL ACTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAP CWC FORECAST RESERVOIR DECISION AND LOCAL ACTION.",
+      "source_references": [
+        "Urban Flood Risk Management Programme",
+        "Forecast-outcome firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURAL MEASURES HAVE SOURCE-ACKNOWLEDGED LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "INSTITUTIONAL SPLIT WITH A COORDINATION DEPENDENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE URBAN",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERNATIONAL RIVER DIMENSION",
+          "role": "primary"
+        },
+        {
+          "text": "FLOODS IN UP, BIHAR, WEST",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGOROUS TWO-FLOOD CASE SELECTION FOR 2024 Q18",
+          "role": "comparison"
+        },
+        {
+          "text": "AN ADVANCED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Structural measures have source-acknowledged limits : VisionIAS",
+            "Institutional split with a coordination dependency : the Urban",
+            "International river dimension : floods in UP, Bihar, West",
+            "Rigorous two-flood case selection for 2024 Q18 : an advanced"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Kumbh Mela's drainage impact as an under-cited anthropogenic",
+            "CAUTION: Lead-time-to-response-capacity mismatch : Doppler-radar-based",
+            "Any current claim about forecasting-station density or lead-time",
+            "CAUTION: Urban flood vulnerability is spatially concentrated in low-lying,"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Floodplain zoning enforcement versus urban land/housing demand",
+            "CAUTION: Drainage retrofitting versus new-construction cost : redesigning",
+            "NOT: The \"Urban Flooding Cell created, therefore urban floods are",
+            "CAUTION: Investment fragmentation (\"disintegrated investment decisions,\""
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1136 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-21",
+  "subject": "Ancient-Indian-History",
+  "title": "LIFE & CULTURE IN THE GUPTA AGE",
+  "short_route": "TOPIC BOUNDARY AND SOURCE → VARNA, JATI AND EXCLUSION → FAMILY, WOMEN AND PROPERTY → VILLAGE, LABOUR, CRAFT AND → FAXIAN AND DAILY-LIFE RECONSTRUCTION → EDUCATION, SANSKRIT AND MULTILINGUALISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-21-deep-review-2026-08-30-g3.json",
+  "ascii_spec_sha256": "f9d500aa94735271f22e7d6a1df9e4db5622d3b9d350cb4d82b9d421c2ee8e1a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TOPIC BOUNDARY AND SOURCE MATRIX",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TOPIC BOUNDARY AND SOURCE MATRIX",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIETY, DAILY LIFE, KNOWLEDGE, RELIGION AND ARTS IN THE",
+          "role": "outcome"
+        },
+        {
+          "text": "TOPIC 20 RETAINS",
+          "role": "comparison"
+        },
+        {
+          "text": "RULERS, CAMPAIGNS, OFFICES, GRANTS MACHINERY AND DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "IMAGINATION; INSCRIPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTED PUBLIC ACTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "SITUATED OBSERVATION; MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "PRACTICE WITH DATING LIMITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OWNER: society, daily life, knowledge, religion and arts in the Gupta age",
+        "TOPIC 20 RETAINS: rulers, campaigns, offices, grants machinery and decline",
+        "SOURCES: Smriti",
+        "TEXT → norm / imagination; INSCRIPTION → selected public actor",
+        "TRAVELLER → situated observation; MATERIAL → practice with dating limits"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "OWNER: society, daily life, knowledge, religion and arts in the Gupta age",
+          "SOURCES: Smriti",
+          "TRAVELLER → situated observation; MATERIAL → practice with dating limits"
+        ],
+        [
+          "TOPIC 20 RETAINS: rulers, campaigns, offices, grants machinery and decline",
+          "TEXT → norm / imagination; INSCRIPTION → selected public actor",
+          "METHOD: use at least two source classes and state each limitation."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "OWNER: society, daily life, knowledge, religion and arts in the Gupta age",
+            "TOPIC 20 RETAINS: rulers, campaigns, offices, grants machinery and decline"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "SOURCES: Smriti",
+            "TEXT → norm / imagination; INSCRIPTION → selected public actor"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "TRAVELLER → situated observation; MATERIAL → practice with dating limits",
+            "METHOD: use at least two source classes and state each limitation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD: use at least two source classes and state each limitation.",
+      "source_references": [
+        "Scope",
+        "Sources",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "VARNA, JATI AND EXCLUSION",
+      "structural_type": "social-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VARNA, JATI AND EXCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "NORMATIVE FOUR-FOLD MACRO-MODEL",
+          "role": "outcome"
+        },
+        {
+          "text": "NUMEROUS LOCAL AND PROFESSIONAL IDENTITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUS CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "GENEALOGY, OFFICE, PATRONAGE AND SANSKRITIC IDIOM",
+          "role": "primary"
+        },
+        {
+          "text": "CHANDALA EVIDENCE, OCCUPATIONAL STIGMA AND SPATIAL DISTANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "MOBILITY AND HIERARCHY COEXISTED.",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SMRITI NORM OR FAXIAN PASSAGE CANNOT BECOME A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VARNA → normative four-fold macro-model",
+        "JATI / OCCUPATION → numerous local and professional identities",
+        "STATUS CLAIM → genealogy, office, patronage and Sanskritic idiom",
+        "EXCLUSION → Chandala evidence, occupational stigma and spatial distance",
+        "MOBILITY and hierarchy coexisted."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "VARNA → normative four-fold macro-model",
+          "STATUS CLAIM → genealogy, office, patronage and Sanskritic idiom",
+          "MOBILITY and hierarchy coexisted."
+        ],
+        [
+          "JATI / OCCUPATION → numerous local and professional identities",
+          "EXCLUSION → Chandala evidence, occupational stigma and spatial distance",
+          "RULE: one Smriti norm or Faxian passage cannot become a uniform all-India census."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VARNA → normative four-fold macro-model",
+            "JATI / OCCUPATION → numerous local and professional identities"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "STATUS CLAIM → genealogy, office, patronage and Sanskritic idiom",
+            "EXCLUSION → Chandala evidence, occupational stigma and spatial distance"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MOBILITY and hierarchy coexisted.",
+            "RULE: one Smriti norm or Faxian passage cannot become a uniform all-India census."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: one Smriti norm or Faxian passage cannot become a uniform all-India census.",
+      "answer_line": "one Smriti norm or Faxian passage cannot become a uniform all-India census.",
+      "source_references": [
+        "Social hierarchy",
+        "Marginal groups",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FAMILY, WOMEN AND PROPERTY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FAMILY, WOMEN AND PROPERTY",
+          "role": "primary"
+        },
+        {
+          "text": "PATRIARCHAL NORM",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMINANT PRESCRIPTIVE FRAME",
+          "role": "comparison"
+        },
+        {
+          "text": "TEXT-SPECIFIC AND SOCIALLY VARIED",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOGNIZED CATEGORY WITH DIFFERING CONTROL AND SUCCESSION RULES",
+          "role": "primary"
+        },
+        {
+          "text": "WOMEN'S AGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "QUEENS, DONORS, WORKERS AND LITERARY REPRESENTATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "ELITE VISIBILITY DOES NOT PROVE GENERAL EQUALITY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PATRILINEAL / PATRIARCHAL NORM → dominant prescriptive frame",
+        "MARRIAGE / INHERITANCE → text-specific and socially varied",
+        "STRIDHANA → recognized category with differing control and succession rules",
+        "WOMEN'S AGENCY → queens, donors, workers and literary representations",
+        "LIMIT: elite visibility does not prove general equality."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "PATRILINEAL / PATRIARCHAL NORM → dominant prescriptive frame",
+          "STRIDHANA → recognized category with differing control and succession rules",
+          "LIMIT: elite visibility does not prove general equality."
+        ],
+        [
+          "MARRIAGE / INHERITANCE → text-specific and socially varied",
+          "WOMEN'S AGENCY → queens, donors, workers and literary representations",
+          "TRAP: Mitakshara and Dayabhaga are later schools, not Gupta legal codes."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PATRILINEAL / PATRIARCHAL NORM → dominant prescriptive frame",
+            "MARRIAGE / INHERITANCE → text-specific and socially varied"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "STRIDHANA → recognized category with differing control and succession rules",
+            "WOMEN'S AGENCY → queens, donors, workers and literary representations"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: elite visibility does not prove general equality.",
+            "TRAP: Mitakshara and Dayabhaga are later schools, not Gupta legal codes."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Mitakshara and Dayabhaga are later schools, not Gupta legal codes.",
+      "source_references": [
+        "Household",
+        "Women",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "VILLAGE, LABOUR, CRAFT AND URBAN LIFE",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "VILLAGE, LABOUR, CRAFT AND URBAN LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "CULTIVATORS + LAND + TAXES + VISHTI + HOUSEHOLD",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTISANS + MERCHANTS + GUILD-LINKED GROUPS + MARKETS +",
+          "role": "comparison"
+        },
+        {
+          "text": "MANDASOR SILK WEAVERS",
+          "role": "evidence"
+        },
+        {
+          "text": "MIGRATION, CORPORATE IDENTITY AND PATRONAGE",
+          "role": "primary"
+        },
+        {
+          "text": "AGRARIAN SURPLUS AND URBAN CRAFT NETWORKS INTERACTED, BUT REGIONALLY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "VILLAGE → cultivators + land + taxes + vishti + household production food / fibre",
+        "TOWN → artisans + merchants + guild-linked groups + markets + sacred institutions",
+        "MANDASOR SILK WEAVERS → migration, corporate identity and patronage",
+        "VERDICT: agrarian surplus and urban craft networks interacted, but regionally unevenly."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VILLAGE → cultivators + land + taxes + vishti + household production food / fibre / revenue",
+            "TOWN → artisans + merchants + guild-linked groups + markets + sacred institutions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MANDASOR SILK WEAVERS → migration, corporate identity and patronage",
+            "VERDICT: agrarian surplus and urban craft networks interacted, but regionally unevenly."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VILLAGE → cultivators + land + taxes + vishti + household production food / fibre / revenue",
+            "TOWN → artisans + merchants + guild-linked groups + markets + sacred institutions"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: agrarian surplus and urban craft networks interacted, but regionally unevenly.",
+      "answer_line": "agrarian surplus and urban craft networks interacted, but regionally unevenly.",
+      "source_references": [
+        "Village life",
+        "Guild-linked urban life",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FAXIAN AND DAILY-LIFE RECONSTRUCTION",
+      "structural_type": "evidence-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FAXIAN AND DAILY-LIFE RECONSTRUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "FAXIAN C. 399-414 CE",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDDHIST PILGRIMAGE PURPOSE MONASTERIES, ROUTES, SELECTED CUSTOMS AND CHANDALA",
+          "role": "comparison"
+        },
+        {
+          "text": "ITINERARY + AUDIENCE + TRANSLATION + SILENCE + IDEALISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CORROBORATE WITH INSCRIPTIONS, TEXTS AND ARCHAEOLOGY; NEVER QUOTE AS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FAXIAN c.",
+        "399-414 CE → Buddhist pilgrimage purpose monasteries, routes, selected customs and Chandala passage valuable near-contemporary",
+        "LIMITS: itinerary + audience + translation + silence + idealisation",
+        "USE: corroborate with inscriptions, texts and archaeology; never quote as a census."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "FAXIAN c.",
+            "399-414 CE → Buddhist pilgrimage purpose monasteries, routes, selected customs and Chandala passage valuable near-contemporary social and religious"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "LIMITS: itinerary + audience + translation + silence + idealisation",
+            "USE: corroborate with inscriptions, texts and archaeology; never quote as a census."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "FAXIAN c.",
+            "399-414 CE → Buddhist pilgrimage purpose monasteries, routes, selected customs and Chandala passage valuable near-contemporary social and religious"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE: corroborate with inscriptions, texts and archaeology; never quote as a census.",
+      "source_references": [
+        "Faxian",
+        "Daily life",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EDUCATION, SANSKRIT AND MULTILINGUALISM",
+      "structural_type": "knowledge-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EDUCATION, SANSKRIT AND MULTILINGUALISM",
+          "role": "primary"
+        },
+        {
+          "text": "COURTS + BRAHMANICAL CENTRES + MONASTERIES + TEACHER-PUPIL NETWORKS",
+          "role": "outcome"
+        },
+        {
+          "text": "SANSKRIT PRESTIGE IN KAVYA, PRASHASTI, THEOLOGY AND SCIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRAKRITS, REGIONAL SPEECH AND LOCAL INSCRIPTIONS CONTINUE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADOPTION + NEGOTIATION + LOCAL ADAPTATION",
+          "role": "primary"
+        },
+        {
+          "text": "ONE ROYAL LANGUAGE LAW, UNIVERSAL LITERACY OR EXTINCTION OF",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "COURTS + BRAHMANICAL CENTRES + MONASTERIES + TEACHER-PUPIL NETWORKS",
+        "Sanskrit prestige in kavya, prashasti, theology and science",
+        "Prakrits, regional speech and local inscriptions continue",
+        "SANSKRITISATION = adoption + negotiation + local adaptation",
+        "NOT: one royal language law, universal literacy or extinction of other languages."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "COURTS + BRAHMANICAL CENTRES + MONASTERIES + TEACHER-PUPIL NETWORKS",
+            "Sanskrit prestige in kavya, prashasti, theology and science"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Prakrits, regional speech and local inscriptions continue",
+            "SANSKRITISATION = adoption + negotiation + local adaptation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "NOT: one royal language law, universal literacy or extinction of other languages.",
+            "COURTS + BRAHMANICAL CENTRES + MONASTERIES + TEACHER-PUPIL NETWORKS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT: one royal language law, universal literacy or extinction of other languages.",
+      "source_references": [
+        "Education",
+        "Sanskritisation",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LITERATURE AND GENRE MAP",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LITERATURE AND GENRE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "KALIDASA AND COURTLY AESTHETIC WORLDS",
+          "role": "outcome"
+        },
+        {
+          "text": "AMARAKOSHA TRADITION",
+          "role": "comparison"
+        },
+        {
+          "text": "PURANIC TEXTS",
+          "role": "evidence"
+        },
+        {
+          "text": "LAYERED REDACTION AND DEVOTIONAL-COSMOLOGICAL SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PRESCRIPTIVE LAW AND SOCIAL NORM",
+          "role": "outcome"
+        },
+        {
+          "text": "JAIN WRITING",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUING INTELLECTUAL PLURALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KAVYA / DRAMA → Kalidasa and courtly aesthetic worlds",
+        "LEXICOGRAPHY → Amarasimha / Amarakosha tradition",
+        "PURANIC TEXTS → layered redaction and devotional-cosmological synthesis",
+        "SMRITI → prescriptive law and social norm",
+        "BUDDHIST / JAIN WRITING → continuing intellectual plurality"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KAVYA / DRAMA → Kalidasa and courtly aesthetic worlds",
+            "LEXICOGRAPHY → Amarasimha / Amarakosha tradition"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PURANIC TEXTS → layered redaction and devotional-cosmological synthesis",
+            "SMRITI → prescriptive law and social norm"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BUDDHIST / JAIN WRITING → continuing intellectual plurality",
+            "RULE: secure work and genre are stronger than later court-biography legends."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: secure work and genre are stronger than later court-biography legends.",
+      "answer_line": "secure work and genre are stronger than later court-biography legends.",
+      "source_references": [
+        "Literature",
+        "Genre",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MATHEMATICS, ASTRONOMY AND METALLURGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MATHEMATICS, ASTRONOMY AND METALLURGY",
+          "role": "primary"
+        },
+        {
+          "text": "499 CE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPUTATION, ASTRONOMY, PI AND EARTH-ROTATION ARGUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "6TH C.",
+          "role": "evidence"
+        },
+        {
+          "text": "POST-MAIN-GUPTA CONTINUATION",
+          "role": "primary"
+        },
+        {
+          "text": "628 CE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLICITLY POST-GUPTA CHRONOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "MEHRAULI IRON PILLAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "499 CE → ARYABHATIYA: computation, astronomy, pi and earth-rotation argument",
+        "6th c. → VARAHAMIHIRA: post-main-Gupta continuation",
+        "628 CE → BRAHMAGUPTA: explicitly post-Gupta chronology",
+        "MEHRAULI IRON PILLAR → large wrought iron and corrosion resistance",
+        "CAUTION: place value != sole invention of zero; King Chandra identification debated."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "499 CE → ARYABHATIYA: computation, astronomy, pi and earth-rotation argument",
+            "6th c. → VARAHAMIHIRA: post-main-Gupta continuation"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "628 CE → BRAHMAGUPTA: explicitly post-Gupta chronology",
+            "MEHRAULI IRON PILLAR → large wrought iron and corrosion resistance"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: place value != sole invention of zero; King Chandra identification debated.",
+            "VERDICT: cumulative specialist traditions, not isolated miracle claims."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: cumulative specialist traditions, not isolated miracle claims.",
+      "source_references": [
+        "Science",
+        "Chronology cautions",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RELIGIOUS PLURALITY AND PATRONAGE",
+      "structural_type": "cultural-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RELIGIOUS PLURALITY AND PATRONAGE",
+          "role": "primary"
+        },
+        {
+          "text": "VAISHNAVA + SHAIVA + SHAKTA PURANIC FORMATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDDHIST MONASTERIES, IMAGES AND PILGRIMAGE NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "JAIN COMMUNITIES, IMAGES AND SITES",
+          "role": "evidence"
+        },
+        {
+          "text": "ROYAL COURTS + REGIONAL RULERS + GUILDS + HOUSEHOLDS",
+          "role": "primary"
+        },
+        {
+          "text": "UDAYAGIRI JOINS ROYAL VAISHNAVA IMAGERY WITH WIDER SACRED PRESENCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "PLURAL PATRONAGE WAS UNEQUAL AND STRATEGIC; IT IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VAISHNAVA + SHAIVA + SHAKTA Puranic formations",
+        "BUDDHIST monasteries, images and pilgrimage networks",
+        "JAIN communities, images and sites",
+        "ROYAL COURTS + regional rulers + guilds + households + monks → patrons",
+        "Udayagiri joins royal Vaishnava imagery with wider sacred presence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VAISHNAVA + SHAIVA + SHAKTA Puranic formations",
+            "BUDDHIST monasteries, images and pilgrimage networks"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "JAIN communities, images and sites",
+            "ROYAL COURTS + regional rulers + guilds + households + monks → patrons"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Udayagiri joins royal Vaishnava imagery with wider sacred presence.",
+            "RULE: plural patronage was unequal and strategic; it is not modern secular neutrality."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: plural patronage was unequal and strategic; it is not modern secular neutrality.",
+      "answer_line": "plural patronage was unequal and strategic; it is not modern secular neutrality.",
+      "source_references": [
+        "Religion",
+        "Patronage",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TEMPLES, SCULPTURE, PAINTING AND AJANTA",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TEMPLES, SCULPTURE, PAINTING AND AJANTA",
+          "role": "primary"
+        },
+        {
+          "text": "SANCHI 17",
+          "role": "outcome"
+        },
+        {
+          "text": "MATHURA AND SARNATH MATERIALS, MODELLING AND ROBE CONVENTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "AJANTA NARRATIVE, COURTLY, DEVOTIONAL AND WORKSHOP PRODUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "ARCHITECTURAL TREND",
+          "role": "primary"
+        },
+        {
+          "text": "GARBHAGRIHA + PORCH/MANDAPA + EMERGING SUPERSTRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "OWNERSHIP LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "MAJOR FIFTH-CENTURY AJANTA PHASE IS VAKATAKA-CONTEXT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEMPLES → Sanchi 17",
+        "SCULPTURE → Mathura and Sarnath materials, modelling and robe conventions",
+        "PAINTING → Ajanta narrative, courtly, devotional and workshop production",
+        "ARCHITECTURAL TREND → garbhagriha + porch/mandapa + emerging superstructure",
+        "OWNERSHIP LIMIT: major fifth-century Ajanta phase is Vakataka-context."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "TEMPLES → Sanchi 17",
+          "PAINTING → Ajanta narrative, courtly, devotional and workshop production",
+          "OWNERSHIP LIMIT: major fifth-century Ajanta phase is Vakataka-context."
+        ],
+        [
+          "SCULPTURE → Mathura and Sarnath materials, modelling and robe conventions",
+          "ARCHITECTURAL TREND → garbhagriha + porch/mandapa + emerging superstructure",
+          "RULE: name object/site, form, date, patronage and attribution caution."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TEMPLES → Sanchi 17",
+            "SCULPTURE → Mathura and Sarnath materials, modelling and robe conventions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PAINTING → Ajanta narrative, courtly, devotional and workshop production",
+            "ARCHITECTURAL TREND → garbhagriha + porch/mandapa + emerging superstructure"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "OWNERSHIP LIMIT: major fifth-century Ajanta phase is Vakataka-context.",
+            "RULE: name object/site, form, date, patronage and attribution caution."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: name object/site, form, date, patronage and attribution caution.",
+      "answer_line": "name object/site, form, date, patronage and attribution caution.",
+      "source_references": [
+        "Temple architecture",
+        "Sculpture and painting",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "GOLDEN AGE AND SOCIAL DISTRIBUTION",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GOLDEN AGE AND SOCIAL DISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSICAL ACHIEVEMENT LITERATURE + SCIENCE + ICONIC ART +",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST DISTRIBUTION REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXCLUSION, VISHTI, PATRIARCHAL NORMS AND ELITE ARCHIVES",
+          "role": "evidence"
+        },
+        {
+          "text": "CULTURALLY CONSEQUENTIAL AND ENDURING, BUT NEITHER UNIFORM NOR UNIVERSALLY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CLASSICAL ACHIEVEMENT literature + science + iconic art + structural temples + prestige language",
+        "TEST DISTRIBUTION region",
+        "COUNTER-EVIDENCE: exclusion, vishti, patriarchal norms and elite archives",
+        "VERDICT: culturally consequential and enduring, but neither uniform nor universally golden."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CLASSICAL ACHIEVEMENT literature + science + iconic art + structural temples + prestige language",
+            "TEST DISTRIBUTION region"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COUNTER-EVIDENCE: exclusion, vishti, patriarchal norms and elite archives",
+            "VERDICT: culturally consequential and enduring, but neither uniform nor universally golden."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLASSICAL ACHIEVEMENT literature + science + iconic art + structural temples + prestige language",
+            "TEST DISTRIBUTION region"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: culturally consequential and enduring, but neither uniform nor universally golden.",
+      "answer_line": "culturally consequential and enduring, but neither uniform nor universally golden.",
+      "source_references": [
+        "Golden Age debate",
+        "Social distribution",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CULTURE ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CULTURE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL-CULTURAL COMPANION TO GUPTA POLITY, RECONSTRUCTED THROUGH MIXED SOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 1",
+          "role": "comparison"
+        },
+        {
+          "text": "HIERARCHY + HOUSEHOLD + WOMEN + LABOUR",
+          "role": "evidence"
+        },
+        {
+          "text": "BODY 2",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE-TOWN AND PATRONAGE INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 3",
+          "role": "comparison"
+        },
+        {
+          "text": "LANGUAGE + LITERATURE + SCIENCE + RELIGION + ARTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN: social-cultural companion to Gupta polity, reconstructed through mixed sources",
+        "BODY 1: hierarchy + household + women + labour",
+        "BODY 2: village-town and patronage institutions",
+        "BODY 3: language + literature + science + religion + arts",
+        "EACH EXAMPLE: claim → named evidence → significance → limit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN: social-cultural companion to Gupta polity, reconstructed through mixed sources",
+            "BODY 1: hierarchy + household + women + labour",
+            "BODY 2: village-town and patronage institutions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BODY 3: language + literature + science + religion + arts",
+            "EACH EXAMPLE: claim → named evidence → significance → limit",
+            "QUALIFY: chronology, regional ownership, source genre and social distribution"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: classical production emerged from plural but unequal social worlds."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: classical production emerged from plural but unequal social worlds.",
+      "answer_line": "classical production emerged from plural but unequal social worlds.",
+      "source_references": [
+        "Answer architecture",
+        "PYQ ownership",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\21_Life-and-Culture-in-Gupta-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\g3\\ancient-indian-history-21_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LIFE & CULTURE IN THE GUPTA AGE — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Life & Culture in the Gupta Age — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept — Golden age with a critical note",
+            "Land grants record types of land, rights, exemptions and local authority.",
+            "Royal imagery, such as the Varaha relief at Udayagiri , expressed kingship through Vaishnava cosmic order."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

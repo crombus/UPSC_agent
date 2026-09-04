@@ -1,0 +1,1174 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-25",
+  "subject": "Ancient-Indian-History",
+  "title": "CULTURAL INTERACTION WITH ASIAN COUNTRIES",
+  "short_route": "CHRONOLOGY, GEOGRAPHY AND EVIDENCE → FROM GREATER INDIA TO → ROUTE ECOLOGY → CARRIERS AND MEDIA → GANDHARA, CENTRAL ASIA AND → TIBET AND SRI LANKA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-25-deep-review-2026-08-30-g4.json",
+  "ascii_spec_sha256": "7efc0c205097262f58d861bffbe95dede0fcb118f573897775e727a15269a819",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CHRONOLOGY, GEOGRAPHY AND EVIDENCE",
+      "structural_type": "spatial-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHRONOLOGY, GEOGRAPHY AND EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "3RD MILLENNIUM BCE",
+          "role": "outcome"
+        },
+        {
+          "text": "HARAPPAN-WEST ASIAN COMMERCIAL CONTACT",
+          "role": "comparison"
+        },
+        {
+          "text": "3RD C. BCE SETTING",
+          "role": "evidence"
+        },
+        {
+          "text": "SRI LANKAN MISSION MEMORY DEVELOPS IN LATER CHRONICLES",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY CE",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL ASIAN, CHINESE AND SOUTHEAST ASIAN LINKS WIDEN",
+          "role": "comparison"
+        },
+        {
+          "text": "3RD-6TH C. CE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "3rd millennium BCE → Harappan-West Asian commercial contact",
+        "3rd c. BCE setting → Sri Lankan mission memory develops in later chronicles",
+        "EARLY CE → Central Asian, Chinese and Southeast Asian links widen",
+        "3rd-6th c. CE → Buddhist and Shaiva networks visible across several regions",
+        "7th c. onward → Srivijaya and major trans-Asian monastic circuits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "3rd millennium BCE → Harappan-West Asian commercial contact",
+            "3rd c. BCE setting → Sri Lankan mission memory develops in later chronicles",
+            "EARLY CE → Central Asian, Chinese and Southeast Asian links widen"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "3rd-6th c. CE → Buddhist and Shaiva networks visible across several regions",
+            "7th c. onward → Srivijaya and major trans-Asian monastic circuits",
+            "SOURCES → inscriptions + texts + pilgrims + ports + monuments + objects"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE: region-specific dates outrank one diffusion timeline."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOURCES → inscriptions + texts + pilgrims + ports + monuments + objects.",
+      "source_references": [
+        "Scope",
+        "Chronology",
+        "Evidence discipline",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FROM GREATER INDIA TO CONNECTED HISTORIES",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FROM GREATER INDIA TO CONNECTED HISTORIES",
+          "role": "primary"
+        },
+        {
+          "text": "OLDER MODEL",
+          "role": "outcome"
+        },
+        {
+          "text": "GREATER INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "USEFUL OBSERVATION",
+          "role": "evidence"
+        },
+        {
+          "text": "REAL MOVEMENT OF SCRIPTS, RELIGIONS AND POLITICAL IDIOMS",
+          "role": "primary"
+        },
+        {
+          "text": "CORE PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "PASSIVE RECIPIENTS + CULTURAL OWNERSHIP + EMPIRE-LIKE LANGUAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONNECTED MODEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OLDER MODEL → Indianization / Greater India",
+        "USEFUL OBSERVATION → real movement of scripts, religions and political idioms",
+        "CORE PROBLEM → passive recipients + cultural ownership + empire-like language",
+        "CONNECTED MODEL",
+        "transmission through routes and carriers local selection and translation hybrid form and new political meaning"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OLDER MODEL → Indianization / Greater India",
+            "USEFUL OBSERVATION → real movement of scripts, religions and political idioms",
+            "CORE PROBLEM → passive recipients + cultural ownership + empire-like language"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CONNECTED MODEL",
+            "transmission through routes and carriers local selection and translation hybrid form and new political meaning",
+            "return flows to Indian institutions"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: influence and Asian agency belong in the same sentence."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: influence and Asian agency belong in the same sentence.",
+      "answer_line": "influence and Asian agency belong in the same sentence.",
+      "source_references": [
+        "Historiography",
+        "Connected histories",
+        "Localisation",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ROUTE ECOLOGY",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ROUTE ECOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "OASIS SILK ROADS",
+          "role": "outcome"
+        },
+        {
+          "text": "BAY OF BENGAL",
+          "role": "comparison"
+        },
+        {
+          "text": "EAST-COAST PORTS",
+          "role": "evidence"
+        },
+        {
+          "text": "SRI LANKA",
+          "role": "primary"
+        },
+        {
+          "text": "MALAY WORLD",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUTH CHINA SEA",
+          "role": "comparison"
+        },
+        {
+          "text": "ARABIAN SEA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORTH-WEST → Gandhara → Bactria → oasis Silk Roads → China",
+        "HIMALAYAN → Kashmir / Nepal → Tibet",
+        "BAY OF BENGAL → east-coast ports → Sri Lanka / Myanmar / Malay world",
+        "STRAITS → Kedah / Srivijaya → Java / South China Sea",
+        "ARABIAN SEA → west-coast links and wider exchange"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NORTH-WEST → Gandhara → Bactria → oasis Silk Roads → China",
+            "HIMALAYAN → Kashmir / Nepal → Tibet",
+            "BAY OF BENGAL → east-coast ports → Sri Lanka / Myanmar / Malay world"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "STRAITS → Kedah / Srivijaya → Java / South China Sea",
+            "ARABIAN SEA → west-coast links and wider exchange",
+            "MECHANISM → monsoon timing + ports + hinterlands + intermediaries"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: a route or port does not prove political control."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: a route or port does not prove political control.",
+      "source_references": [
+        "Land routes",
+        "Maritime routes",
+        "Monsoon timing",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CARRIERS AND MEDIA",
+      "structural_type": "cultural-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CARRIERS AND MEDIA",
+          "role": "primary"
+        },
+        {
+          "text": "MERCHANTS + MONKS + TRANSLATORS + DIPLOMATS + ARTISANS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUTRAS + CHRONICLES + EPICS + LEGAL AND POLITICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "RELICS + ICONS + MANUSCRIPTS + COINS + RITUAL",
+          "role": "evidence"
+        },
+        {
+          "text": "MONASTERIES + COURTS + PORTS + GUILDS + TRANSLATION",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL RULERS SELECT PORTABLE IDIOMS FOR LOCAL LEGITIMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "PILGRIMS, GIFTS AND OVERSEAS ENDOWMENTS RESHAPE INDIAN CENTRES",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY CARRIER + ROUTE + INSTITUTION + ADAPTED OUTCOME.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PEOPLE → merchants + monks + translators + diplomats + artisans",
+        "TEXTS → sutras + chronicles + epics + legal and political vocabulary",
+        "OBJECTS → relics + icons + manuscripts + coins + ritual goods",
+        "INSTITUTIONS → monasteries + courts + ports + guilds + translation bureaux",
+        "POWER → local rulers select portable idioms for local legitimacy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PEOPLE → merchants + monks + translators + diplomats + artisans",
+            "TEXTS → sutras + chronicles + epics + legal and political vocabulary",
+            "OBJECTS → relics + icons + manuscripts + coins + ritual goods"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "INSTITUTIONS → monasteries + courts + ports + guilds + translation bureaux",
+            "POWER → local rulers select portable idioms for local legitimacy",
+            "RETURN → pilgrims, gifts and overseas endowments reshape Indian centres"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: identify carrier + route + institution + adapted outcome."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: identify carrier + route + institution + adapted outcome.",
+      "answer_line": "identify carrier + route + institution + adapted outcome.",
+      "source_references": [
+        "Carriers",
+        "Texts and objects",
+        "Institutions",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GANDHARA, CENTRAL ASIA AND CHINA",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GANDHARA, CENTRAL ASIA AND CHINA",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA <→ GANDHARA HYBRID ZONE <→ CENTRAL ASIAN OASES",
+          "role": "outcome"
+        },
+        {
+          "text": "KUSHANA NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL AND COMMERCIAL CONNECTIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "BUDDHIST TRANSMISSION ACROSS CHANGING ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSLATION INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CHINESE CONCEPTUAL REMAKING, NOT WORD SUBSTITUTION",
+          "role": "caution"
+        },
+        {
+          "text": "JOURNEYS INTO INDIA AND EVIDENCE CARRIED BACK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA <→ GANDHARA HYBRID ZONE <→ CENTRAL ASIAN OASES <→ CHINA",
+        "KUSHANA NETWORKS → political and commercial connectivity",
+        "MONKS / MANUSCRIPTS → Buddhist transmission across changing routes",
+        "TRANSLATION INSTITUTIONS → Chinese conceptual remaking, not word substitution",
+        "FAXIAN / XUANZANG / YIJING → journeys into India and evidence carried back"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INDIA <→ GANDHARA HYBRID ZONE <→ CENTRAL ASIAN OASES <→ CHINA",
+            "KUSHANA NETWORKS → political and commercial connectivity",
+            "MONKS / MANUSCRIPTS → Buddhist transmission across changing routes"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TRANSLATION INSTITUTIONS → Chinese conceptual remaking, not word substitution",
+            "FAXIAN / XUANZANG / YIJING → journeys into India and evidence carried back",
+            "ART → shared vocabulary changes by material, patron and region"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: transmission repeatedly created new local Buddhist worlds."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: transmission repeatedly created new local Buddhist worlds.",
+      "source_references": [
+        "Gandhara",
+        "Central Asia",
+        "China",
+        "Pilgrims",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TIBET AND SRI LANKA",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TIBET AND SRI LANKA",
+          "role": "primary"
+        },
+        {
+          "text": "TIBET SRI LANKA",
+          "role": "outcome"
+        },
+        {
+          "text": "HIMALAYAN ROUTES MARITIME AND SHORT-SEA ROUTES TRANSLATION PROJECTS PALI",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN TEACHERS AND TEXTS MAHAVAMSA MISSION TRADITION MONASTIC INSTITUTIONALISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON RULE",
+          "role": "primary"
+        },
+        {
+          "text": "RECEPTION TRANSFORMED WHAT WAS RECEIVED",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "CHRONICLE MEMORY IS NOT THE SAME AS CONTEMPORARY INSCRIPTION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TIBET SRI LANKA",
+        "Himalayan routes maritime and short-sea routes translation projects Pali textual preservation",
+        "Indian teachers and texts Mahavamsa mission tradition monastic institutionalisation relic, monastery",
+        "and kingship links local doctrinal development Theravada consolidation and return influence",
+        "COMMON RULE: reception transformed what was received"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "TIBET SRI LANKA",
+          "Indian teachers and texts Mahavamsa mission tradition monastic institutionalisation relic, monastery",
+          "COMMON RULE: reception transformed what was received"
+        ],
+        [
+          "Himalayan routes maritime and short-sea routes translation projects Pali textual preservation",
+          "and kingship links local doctrinal development Theravada consolidation and return influence",
+          "SOURCE CAUTION: chronicle memory is not the same as contemporary inscription."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TIBET SRI LANKA",
+            "Himalayan routes maritime and short-sea routes translation projects Pali textual preservation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Indian teachers and texts Mahavamsa mission tradition monastic institutionalisation relic, monastery",
+            "and kingship links local doctrinal development Theravada consolidation and return influence"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "COMMON RULE: reception transformed what was received",
+            "SOURCE CAUTION: chronicle memory is not the same as contemporary inscription."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOURCE CAUTION: chronicle memory is not the same as contemporary inscription.",
+      "source_references": [
+        "Tibet",
+        "Sri Lanka",
+        "Chronicle memory",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SOUTHEAST ASIAN LOCALISATION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOUTHEAST ASIAN LOCALISATION",
+          "role": "primary"
+        },
+        {
+          "text": "PYU AND LATER BUDDHIST NETWORKS",
+          "role": "outcome"
+        },
+        {
+          "text": "DVARAVATI + FUNAN/CHENLA + CHAMPA + KHMER WORLDS",
+          "role": "comparison"
+        },
+        {
+          "text": "JAVA + SUMATRA + STRAITS-CENTRED SRIVIJAYA",
+          "role": "evidence"
+        },
+        {
+          "text": "BUDDHIST + SHAIVA + VAISHNAVA IDIOMS IN DIFFERENT COMBINATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "BOROBUDUR + ANGKOR + MY SON; LOCAL PLANS AND",
+          "role": "outcome"
+        },
+        {
+          "text": "SANSKRITIC TITLES AND RITUAL ADAPTED BY ASIAN COURTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SHARED VOCABULARY IS NOT A MAP OF INDIAN COLONIES.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MYANMAR → Pyu and later Buddhist networks",
+        "MAINLAND → Dvaravati + Funan/Chenla + Champa + Khmer worlds",
+        "ISLAND → Java + Sumatra + straits-centred Srivijaya",
+        "RELIGION → Buddhist + Shaiva + Vaishnava idioms in different combinations",
+        "MONUMENTS → Borobudur + Angkor + My Son; local plans and political meanings"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "MYANMAR → Pyu and later Buddhist networks",
+          "RELIGION → Buddhist + Shaiva + Vaishnava idioms in different combinations",
+          "LIMIT: shared vocabulary is not a map of Indian colonies."
+        ],
+        [
+          "MAINLAND → Dvaravati + Funan/Chenla + Champa + Khmer worlds",
+          "MONUMENTS → Borobudur + Angkor + My Son; local plans and political meanings",
+          ""
+        ],
+        [
+          "ISLAND → Java + Sumatra + straits-centred Srivijaya",
+          "POLITY → Sanskritic titles and ritual adapted by Asian courts",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MYANMAR → Pyu and later Buddhist networks",
+            "MAINLAND → Dvaravati + Funan/Chenla + Champa + Khmer worlds",
+            "ISLAND → Java + Sumatra + straits-centred Srivijaya"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RELIGION → Buddhist + Shaiva + Vaishnava idioms in different combinations",
+            "MONUMENTS → Borobudur + Angkor + My Son; local plans and political meanings",
+            "POLITY → Sanskritic titles and ritual adapted by Asian courts"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: shared vocabulary is not a map of Indian colonies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: shared vocabulary is not a map of Indian colonies.",
+      "source_references": [
+        "Mainland Southeast Asia",
+        "Island Southeast Asia",
+        "Localisation",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SCRIPTS, SANSKRIT AND LOCAL LANGUAGES",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SCRIPTS, SANSKRIT AND LOCAL LANGUAGES",
+          "role": "primary"
+        },
+        {
+          "text": "INDIC SCRIPT",
+          "role": "outcome"
+        },
+        {
+          "text": "LANGUAGE MODEL LOCAL SCRIBES SELECT SIGNS, TERMS AND FORMULAE",
+          "role": "comparison"
+        },
+        {
+          "text": "PORTABLE PRESTIGE IDIOM, NOT PROOF OF ETHNIC REPLACEMENT",
+          "role": "caution"
+        },
+        {
+          "text": "ACTIVE PARTNERS IN LOCALISATION AND COURT COMMUNICATION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "INDIC SCRIPT / LANGUAGE MODEL local scribes select signs, terms and formulae phonology +",
+        "grammar + political needs reshape the model new regional inscriptions and literary cultures",
+        "SANSKRIT → portable prestige idiom, not proof of ethnic replacement",
+        "VERNACULARS → active partners in localisation and court communication."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INDIC SCRIPT / LANGUAGE MODEL local scribes select signs, terms and formulae phonology +",
+            "grammar + political needs reshape the model new regional inscriptions and literary cultures"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SANSKRIT → portable prestige idiom, not proof of ethnic replacement",
+            "VERNACULARS → active partners in localisation and court communication."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "INDIC SCRIPT / LANGUAGE MODEL local scribes select signs, terms and formulae phonology +",
+            "grammar + political needs reshape the model new regional inscriptions and literary cultures"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERNACULARS → active partners in localisation and court communication.",
+      "source_references": [
+        "Scripts",
+        "Sanskrit",
+        "Epigraphy",
+        "Local languages",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RELIGION, EPICS AND PERFORMANCE",
+      "structural_type": "cultural-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RELIGION, EPICS AND PERFORMANCE",
+          "role": "primary"
+        },
+        {
+          "text": "RELICS + SANGHA + PILGRIMAGE + TRANSLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPLES + RITUAL SPECIALISTS + ROYAL LEGITIMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RETELLING IN LOCAL LANGUAGES AND PERFORMANCE FORMS",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL CULTS",
+          "role": "primary"
+        },
+        {
+          "text": "ABSORB, REDIRECT AND COEXIST WITH IMPORTED IDIOMS",
+          "role": "outcome"
+        },
+        {
+          "text": "EPIC VARIANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE OF CREATIVE ADAPTATION, NOT TEXTUAL CORRUPTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BUDDHISM → relics + sangha + pilgrimage + translation",
+        "SHAIVA / VAISHNAVA → temples + ritual specialists + royal legitimation",
+        "RAMAYANA / MAHABHARATA → retelling in local languages and performance forms",
+        "LOCAL CULTS → absorb, redirect and coexist with imported idioms",
+        "EPIC VARIANTS → evidence of creative adaptation, not textual corruption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BUDDHISM → relics + sangha + pilgrimage + translation",
+            "SHAIVA / VAISHNAVA → temples + ritual specialists + royal legitimation",
+            "RAMAYANA / MAHABHARATA → retelling in local languages and performance forms"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LOCAL CULTS → absorb, redirect and coexist with imported idioms",
+            "EPIC VARIANTS → evidence of creative adaptation, not textual corruption",
+            "PLURALITY → different traditions travel through overlapping networks"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: transmission succeeded through translation into local worlds."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: transmission succeeded through translation into local worlds.",
+      "source_references": [
+        "Religion across Asia",
+        "Epics",
+        "Performance",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ART AND ARCHITECTURE: SHARED FORM, LOCAL WORK",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ART AND ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED FORM, LOCAL WORK",
+          "role": "outcome"
+        },
+        {
+          "text": "HYBRID FRONTIER ART, NOT MERELY GREEK ART ABROAD",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL ASIAN BUDDHIST LANDSCAPE AND MONUMENTAL SCALE",
+          "role": "evidence"
+        },
+        {
+          "text": "JAVANESE BUDDHIST MONUMENT WITH LOCAL SPATIAL LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "KHMER POLITICAL-SACRED LANDSCAPE",
+          "role": "outcome"
+        },
+        {
+          "text": "MY SON",
+          "role": "comparison"
+        },
+        {
+          "text": "CHAM SHAIVA ARCHITECTURE AND REGIONAL TECHNIQUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GANDHARA → hybrid frontier art, not merely Greek art abroad",
+        "BAMIYAN → Central Asian Buddhist landscape and monumental scale",
+        "BOROBUDUR → Javanese Buddhist monument with local spatial logic",
+        "ANGKOR → Khmer political-sacred landscape",
+        "MY SON → Cham Shaiva architecture and regional technique"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "GANDHARA → hybrid frontier art, not merely Greek art abroad",
+          "ANGKOR → Khmer political-sacred landscape",
+          "TRAP: resemblance alone cannot establish date, route or political domination."
+        ],
+        [
+          "BAMIYAN → Central Asian Buddhist landscape and monumental scale",
+          "MY SON → Cham Shaiva architecture and regional technique",
+          ""
+        ],
+        [
+          "BOROBUDUR → Javanese Buddhist monument with local spatial logic",
+          "METHOD → form + material + patron + ritual + local environment",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GANDHARA → hybrid frontier art, not merely Greek art abroad",
+            "BAMIYAN → Central Asian Buddhist landscape and monumental scale",
+            "BOROBUDUR → Javanese Buddhist monument with local spatial logic"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ANGKOR → Khmer political-sacred landscape",
+            "MY SON → Cham Shaiva architecture and regional technique",
+            "METHOD → form + material + patron + ritual + local environment"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TRAP: resemblance alone cannot establish date, route or political domination."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "resemblance alone cannot establish date, route or political domination.",
+      "source_references": [
+        "Art",
+        "Architecture",
+        "Local form",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TRADE, POLITICAL IDIOMS AND RECIPROCITY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRADE, POLITICAL IDIOMS AND RECIPROCITY",
+          "role": "primary"
+        },
+        {
+          "text": "GOODS + SHIPPING + PORT-HINTERLAND NETWORKS MERCHANTS, GUILDS, MONASTERIES",
+          "role": "outcome"
+        },
+        {
+          "text": "RETURN FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "PILGRIMS + PALI PRESERVATION + OVERSEAS GIFTS TO NALANDA",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMERCE ENABLES CONTACT BUT DOES NOT MECHANICALLY CAUSE CULTURAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GOODS + SHIPPING + PORT-HINTERLAND NETWORKS merchants, guilds, monasteries and courts meet titles + scripts",
+        "+ rituals + images gain political value local rulers recast them for regional sovereignty",
+        "RETURN FLOW → pilgrims + Pali preservation + overseas gifts to Nalanda",
+        "LIMIT: commerce enables contact but does not mechanically cause cultural change."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GOODS + SHIPPING + PORT-HINTERLAND NETWORKS merchants, guilds, monasteries and courts meet titles + scripts",
+            "+ rituals + images gain political value local rulers recast them for regional sovereignty"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RETURN FLOW → pilgrims + Pali preservation + overseas gifts to Nalanda",
+            "LIMIT: commerce enables contact but does not mechanically cause cultural change."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "GOODS + SHIPPING + PORT-HINTERLAND NETWORKS merchants, guilds, monasteries and courts meet titles + scripts",
+            "+ rituals + images gain political value local rulers recast them for regional sovereignty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: commerce enables contact but does not mechanically cause cultural change.",
+      "source_references": [
+        "Trade goods",
+        "Kingship",
+        "Return flows",
+        "Nalanda-Srivijaya",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CONNECTED-HISTORY ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CONNECTED-HISTORY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "MULTI-DIRECTIONAL INTERACTION ACROSS LAND AND SEA",
+          "role": "outcome"
+        },
+        {
+          "text": "INFLUENCE + LOCALISATION + RECIPROCITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTE + CARRIER + INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "GANDHARA/CHINA + SRI LANKA/TIBET + SOUTHEAST ASIA",
+          "role": "primary"
+        },
+        {
+          "text": "TEXT + SCRIPT + RELIC + MONUMENT + TRADE",
+          "role": "outcome"
+        },
+        {
+          "text": "UNEVEN ARCHIVES; NO AUTOMATIC CONQUEST OR OWNERSHIP CLAIM",
+          "role": "caution"
+        },
+        {
+          "text": "A CONNECTED ASIAN WORLD THAT RETAINED REGIONAL DIVERSITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN → multi-directional interaction across land and sea",
+        "FRAME → influence + localisation + reciprocity",
+        "MECHANISM → route + carrier + institution",
+        "CASES → Gandhara/China + Sri Lanka/Tibet + Southeast Asia",
+        "MATERIAL → text + script + relic + monument + trade good"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → multi-directional interaction across land and sea",
+            "FRAME → influence + localisation + reciprocity",
+            "MECHANISM → route + carrier + institution"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CASES → Gandhara/China + Sri Lanka/Tibet + Southeast Asia",
+            "MATERIAL → text + script + relic + monument + trade good",
+            "LIMIT → uneven archives; no automatic conquest or ownership claim"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE → a connected Asian world that retained regional diversity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → a connected Asian world that retained regional diversity.",
+      "source_references": [
+        "Historical significance",
+        "Source method",
+        "Answer architecture",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\25_Cultural-Interaction-with-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g4\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CULTURAL INTERACTION WITH ASIAN COUNTRIES — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Cultural Interaction with Asian Countries — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "Buddhist and Hindu influences were visible in Southeast Asia from early centuries CE; in Cambodia they had taken firm root by the 6th century.",
+            "Sarvastivada and Mahayana Buddhism are noted in north Myanmar from the 3rd century CE.",
+            "Similar processes occurred in the Malay peninsula, Java, Sumatra and Vietnam."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3735 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g15\\ancient-indian-history-04_Solved-Practice-Workbook_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g15\\ancient-indian-history-04_Solved-Practice-Workbook_2026-09-03.pdf",
+  "mode": "workbook",
+  "topic_key": "ancient-indian-history-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 15,
+      "markdown_body_line_end": 15,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 625.691
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 559.024
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 25,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 498.624
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 477.624
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 34,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 455.624
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 346.222
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 67,
+      "markdown_body_line_end": 69,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 73,
+      "markdown_body_line_end": 78,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 103,
+      "markdown_body_line_end": 103,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 113,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 122,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 147,
+      "markdown_body_line_end": 147,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 157,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 166,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 191,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 201,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 210,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 235,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 245,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 254,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 279,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 289,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 298,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 323,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 333,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 342,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 367,
+      "markdown_body_line_end": 367,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 377,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 386,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 411,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 421,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 430,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 455,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 465,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 474,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 499,
+      "markdown_body_line_end": 499,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 507,
+      "markdown_body_line_end": 509,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 518,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 543,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 553,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 562,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 587,
+      "markdown_body_line_end": 587,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 597,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 606,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 631,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 641,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 650,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 675,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 685,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 689,
+      "markdown_body_line_end": 694,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 719,
+      "markdown_body_line_end": 719,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 729,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 733,
+      "markdown_body_line_end": 738,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 763,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 771,
+      "markdown_body_line_end": 773,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 777,
+      "markdown_body_line_end": 782,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 807,
+      "markdown_body_line_end": 807,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 817,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 821,
+      "markdown_body_line_end": 826,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 851,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 861,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 870,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 895,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 903,
+      "markdown_body_line_end": 905,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 914,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 939,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 947,
+      "markdown_body_line_end": 949,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 953,
+      "markdown_body_line_end": 958,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 983,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 993,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 997,
+      "markdown_body_line_end": 1002,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1027,
+      "markdown_body_line_end": 1027,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1037,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1041,
+      "markdown_body_line_end": 1046,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1071,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1079,
+      "markdown_body_line_end": 1081,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1085,
+      "markdown_body_line_end": 1090,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1115,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1125,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1129,
+      "markdown_body_line_end": 1134,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1159,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1169,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1178,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1203,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1211,
+      "markdown_body_line_end": 1213,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1217,
+      "markdown_body_line_end": 1222,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1247,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1255,
+      "markdown_body_line_end": 1257,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1261,
+      "markdown_body_line_end": 1266,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1291,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1299,
+      "markdown_body_line_end": 1301,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1310,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1335,
+      "markdown_body_line_end": 1335,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1343,
+      "markdown_body_line_end": 1345,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1354,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1379,
+      "markdown_body_line_end": 1379,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1387,
+      "markdown_body_line_end": 1389,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 660.224
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1393,
+      "markdown_body_line_end": 1398,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 617.224
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1423,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 287.222
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 220.554
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1433,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1437,
+      "markdown_body_line_end": 1442,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 634.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1467,
+      "markdown_body_line_end": 1467,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 414.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 347.622
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1475,
+      "markdown_body_line_end": 1477,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1481,
+      "markdown_body_line_end": 1486,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 634.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1511,
+      "markdown_body_line_end": 1511,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 414.29
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 347.622
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1519,
+      "markdown_body_line_end": 1521,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1525,
+      "markdown_body_line_end": 1530,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 634.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1555,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 414.29
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 347.622
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1563,
+      "markdown_body_line_end": 1565,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1569,
+      "markdown_body_line_end": 1574,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 634.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1599,
+      "markdown_body_line_end": 1599,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 414.29
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 347.622
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1607,
+      "markdown_body_line_end": 1609,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1613,
+      "markdown_body_line_end": 1618,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 634.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1643,
+      "markdown_body_line_end": 1643,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 414.29
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 347.622
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1651,
+      "markdown_body_line_end": 1653,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1657,
+      "markdown_body_line_end": 1662,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 634.89
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1687,
+      "markdown_body_line_end": 1687,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 414.29
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 347.622
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1695,
+      "markdown_body_line_end": 1697,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1701,
+      "markdown_body_line_end": 1706,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 634.89
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1731,
+      "markdown_body_line_end": 1731,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL UPSC-STYLE PRACTICE. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 414.29
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 347.622
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1739,
+      "markdown_body_line_end": 1741,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1745,
+      "markdown_body_line_end": 1750,
+      "heading": "Key Matrix",
+      "preview": "Option | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 634.89
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1783,
+      "markdown_body_line_end": 1783,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "VERIFIED QUESTION TEXT from the local official 2019 Prelims paper. The official 2019 key is not held locally. The answer below is prominently labelled INFERRED ANSWER - NOT OFFICIALLY VERIFIED.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 296.69
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 230.022
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1791,
+      "markdown_body_line_end": 1793,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1797,
+      "markdown_body_line_end": 1799,
+      "heading": "Key Matrix",
+      "preview": "Question demand | Answer status | Most defensible answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Question demand",
+          "Answer status",
+          "Most defensible answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 698.49
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1831,
+      "markdown_body_line_end": 1831,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL SOLVED MAINS PRACTICE. No UPSC official model answer is claimed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 276.49
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 224.022
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1839,
+      "markdown_body_line_end": 1841,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1845,
+      "markdown_body_line_end": 1849,
+      "heading": "Key Matrix",
+      "preview": "Claim | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 564.39
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1885,
+      "markdown_body_line_end": 1885,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL SOLVED MAINS PRACTICE. No UPSC official model answer is claimed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 683.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 630.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1893,
+      "markdown_body_line_end": 1895,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 556.024
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 535.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1899,
+      "markdown_body_line_end": 1903,
+      "heading": "Key Matrix",
+      "preview": "Claim | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 513.024
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 343.622
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1939,
+      "markdown_body_line_end": 1939,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL SOLVED MAINS PRACTICE. No UPSC official model answer is claimed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 440.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 388.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1947,
+      "markdown_body_line_end": 1949,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 313.424
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 292.424
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1953,
+      "markdown_body_line_end": 1959,
+      "heading": "Key Matrix",
+      "preview": "Claim | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 545.39
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1995,
+      "markdown_body_line_end": 1995,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL SOLVED MAINS PRACTICE. No UPSC official model answer is claimed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 563.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 511.224
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2003,
+      "markdown_body_line_end": 2005,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 450.824
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 429.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2009,
+      "markdown_body_line_end": 2015,
+      "heading": "Key Matrix",
+      "preview": "Claim | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 407.824
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 144.922
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2051,
+      "markdown_body_line_end": 2051,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL SOLVED MAINS PRACTICE. No UPSC official model answer is claimed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 213.691
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 161.224
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2059,
+      "markdown_body_line_end": 2061,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2065,
+      "markdown_body_line_end": 2073,
+      "heading": "Key Matrix",
+      "preview": "Claim | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 440.39
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2109,
+      "markdown_body_line_end": 2109,
+      "heading": "PRE-TEACH CHECKLIST / CURRENT ANCHOR",
+      "preview": "ORIGINAL SOLVED MAINS PRACTICE. No UPSC official model answer is claimed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 378.891
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 326.424
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2117,
+      "markdown_body_line_end": 2119,
+      "heading": "Visual",
+      "preview": "EVIDENCE -> CONTEXT -> INTERPRETATION -> QUALIFIED CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2123,
+      "markdown_body_line_end": 2131,
+      "heading": "Key Matrix",
+      "preview": "Claim | Named evidence/method | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Claim",
+          "Named evidence/method",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 744.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 429.89
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    }
+  ]
+}

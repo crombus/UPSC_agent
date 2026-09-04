@@ -1,0 +1,147 @@
+{
+  "record_id": "ancient-indian-history-09:learner-v2:g7",
+  "topic_key": "ancient-indian-history-09",
+  "variant": "learner-v2",
+  "generation": 7,
+  "supersedes": "ancient-indian-history-09:learner-v2:g6",
+  "command": "Generate learner-v2 topic: Ancient History — Subject-wide Syllabus — The Later Vedic Phase — Learner-v2 refreshed",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\ancient-indian-history-09_Complete-Learning-Session_2026-08-22.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\ancient-indian-history-09_Solved-Practice-Workbook_2026-08-22.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\ancient-indian-history-09_Complete-Learning-Session_2026-08-22.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\assets",
+  "generated_on": "2026-08-22",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-section-topic-regeneration-source-complete",
+    "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package.md",
+    "prior_learner_v2": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-09_Learning-Session.md",
+    "legacy_v1_source_package": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package.md",
+    "legacy_v1_reference_main_pdf": "notes\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package_2026-08-13.pdf",
+    "legacy_v1_reference_workbook": "notes\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Solved-Workbook_2026-08-13.pdf",
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "local_ocr_sources": [
+      "books\\India Ancient Past By RS Sharma.pdf",
+      "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf"
+    ],
+    "live_sources": [
+      "https://ich.unesco.org/en/RL/tradition-of-vedic-chanting-00062",
+      "https://media.unesco.org/sites/default/files/webform/mow001/india_rigveda.pdf",
+      "https://doi.org/10.1017/S0003598X00092590"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\ancient-indian-history-09_Complete-Learning-Session_2026-08-22.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-22",
+    "superseded_v1": "ancient-indian-history-09:legacy-v1:g1",
+    "superseded_v2": "ancient-indian-history-09:learner-v2:g2",
+    "reused_legacy_assets": [],
+    "new_asset_folder": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-09-g3",
+    "learning_spine": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-09-g3\\ancient-indian-history-09-g3-learning-spine.png",
+    "flowchart_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\ancient-indian-history-09_Complete-MultiPage-Flowchart_2026-08-21.pdf",
+    "flowchart_page_count": 20,
+    "flowchart_preview_count": 20,
+    "practice_counts": {
+      "diagnostic_core_mcqs": 48,
+      "remedial_mcqs": 12,
+      "verified_pyq_routes": 4,
+      "original_mains_10_mark": 3,
+      "original_mains_15_mark": 3,
+      "original_mains_20_mark": 3
+    },
+    "answer_line_count": 20,
+    "migration_note": "The complete legacy owner and learner-v2 g2 substantive teaching/practice were retained. G3 adds exact answer-line parity, explicit archaeology and iron chronology caveats, isolated visual assets and a new unapproved 20-page flowchart while preserving all g1/g2 artifacts.",
+    "retrofit": {
+      "id": "continuous-core-first-2026-08-22",
+      "source_record": "ancient-indian-history-09:learner-v2:g5",
+      "closure_flow": "source-derived and placed after every BASIC H3",
+      "workbook": "byte-preserved; no practice content changed",
+      "flowchart": "new continuous core-first same-master companion"
+    },
+    "refresh": {
+      "id": "learner-v2-refreshed-2026-08-22",
+      "source_record": "ancient-indian-history-09:learner-v2:g6",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-g3-core-first-g4-core-first-g5-core-first-g6\\ancient-indian-history-09_Learning-Session.md",
+      "source_hashes": {
+        "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf": "86b9170d6fe89da5715441931fe46b0e3233f5cfef535cd03b16a52b811a63d6",
+        "books\\India Ancient Past By RS Sharma.pdf": "7f5ac4147164341682fefba935e6d00165df3894fb32133faa3b64ec09fa3e4f",
+        "notes\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package_2026-08-13.pdf": "368644758f6aeffa7aae108ec40f0562deb3dc305415a51a8cee6817d19c090b",
+        "notes\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Solved-Workbook_2026-08-13.pdf": "cc5ab86cb56eedc9f0346f1578209369de0123ed13fafddd46978ce848a50ca0",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\ancient-indian-history-09_Complete-MultiPage-Flowchart_2026-08-21.pdf": "90d2a7307ef62c3a0e6635c43c21ce277cb1d2e437bfed91faef483ffe5f0a7e",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\master.png": "7a3b725e8be989fee88790254e6e96b12469e8d7d157a104182fa8c987333a46",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\poster.pdf": "0f4ea3664527f5338423b14cce3a1fe6b24eabe1d600d64638a61494cca6e70c",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\preservation-hashes-after.json": "bb636106af86b0392eca69e1c05dca2ed56283851105c9d728cc1aa41c0b6bad",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\preservation-hashes-before.json": "817a154d36bdeae9f0ff6b9b927b7b6e362ca52e2b1c0f8d31eee330455d2026",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-01.png": "788356b84a3776924c91d0368b3cf6cbeba4d80066534ffad25dd87033282771",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-02.png": "814c2cafe3f9002f0262d9871867c45645eb87751ec0eff13186854e67169a74",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-001.png": "3c6b1a59c5d1b25bfc00c7dd32e7699abb1234ca64dcdd5f2c87f95633eccefd",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-002.png": "2b1d9c1b286be33164862edefc3bcff05cf614e85cc4e464701b361c71d06a73",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-003.png": "1b50aeac75789a62db51b831e63d7f33a971b432d8b6745d8a71a81072d2d857",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-004.png": "5074476c57d8e68da0e2baab881a082df48f8ec971a5babcca45ff3d7aed5fe0",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-005.png": "e5e4e4ea029590dd4e55820c8828b5d692e79316fbc3b15bb7862057e7221a72",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-006.png": "4e098822809d9c50d4575f91c9a233e79611b89eebed12c999b47bb41ce02775",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-007.png": "de798726780cf3c4cc1d1b307089134a3d6e52d128362e8916f2c3d060fe34a4",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-008.png": "f15fcee5ec8639a86ac0cd165f71dcfbe3296d12ee1851296085ae75d15309df",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-009.png": "d9fdbe5670661b1d1010611a2500d530f9546aa7edebf5bdaa30c5858a6b9f66",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-010.png": "bdf221897a324207c0a72146665b399df4b15db926cede66c42839b80755132c",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-011.png": "481225accd466647a84ffdb6137f7d52ae3d91b23fac0a393595ad013fbac6a8",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\page-012.png": "47b9c5eaa9da6f85ee304fcae35b628c560782c7387f8e064f2abfaa8548a201",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\README.txt": "4e745383e54a4db705e2a195ca890f7d848e9179a150ae6ae8521842ee45ef60",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\tiled.pdf": "bbf3810a46a2ba30b923fb1719e55eb68f608d0c20b91ffddec7f34e42831f9d",
+        "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\validation-report.txt": "9af873b77555d22213f197b919cf6562d92c2ee766801ce3a4ff0b2b16ea7340",
+        "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-g3-core-first-g4-core-first-g5-core-first-g6\\notes\\ancient-indian-history-09_Learning-Session_2026-08-22.pdf": "ecd893d3d0096b38484e2710dbd94492cf39ff89edd962885ea9741158015d8e",
+        "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-09-g3\\ancient-indian-history-09-g3-learning-spine.png": "ffb80da64804b7d4aaa2c123e2c2a948b61668b32d38e67ac0302d0fcbac28ae",
+        "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-09-g3\\ancient-indian-history-09-g3-validation-report.json": "9ef2aad8a8e0d9cff34bb993de06a202f73d8f31ad50613ae62343c22ca474ed",
+        "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-09_Solved-Workbook_2026-08-21.pdf": "52da9d833abc6ab3310dc876a039326729ff2614e2e5fa2e696946c6aa6819c0",
+        "tools\\markdown_learning_pdf.py": "394a0e26d0f972ebaab1015cd57da26c7b24951143162d3bc43d86d7ae67ca29",
+        "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package.md": "2908bf5a3e1b0439d20719e426583b581007d58ebab478ca6326a7d27ffea6dd",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md": "85fb3ec37c4a7cb022d7fd08b7ff629dd40b15a1f627ef1fa00a8a8e2bfef7ad",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md": "93587a967451d15f33f40f3bda23af1433b92da1a93789de795be195364421d4",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-g3-core-first-g4-core-first-g5-core-first-g6\\ancient-indian-history-09_Learning-Session.md": "a63c1e3610aaee1f410a4b6ca1c36e207572b689bfb6e81964a3e796689c8be1",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-09_Learning-Session.md": "639924ca0cf87789137bb913a4722f9250324e8cbbda63f93451469d0a82631e",
+        "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+        "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+        "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "stable-topic-seed balanced deterministic non-patterned",
+      "tracker_updated": false,
+      "tracker_sha256": "2ad398cbb20ccd11c73be28a704c0e82342810bc147e19aec7d75acf8f584571"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "ancient-indian-history-09:learner-v2:g7"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-22",
+    "validator": "tools/refresh_all_v2_learning_sessions.py + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7",
+    "master_image": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7\\previews\\contact-sheet-01.png",
+      "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7\\previews\\contact-sheet-02.png"
+    ],
+    "validation_report": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7\\validation-report.txt",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g7\\ascii-master.txt"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\ancient-indian-history-09_Solved-Practice-Workbook_2026-08-22.md",
+  "refresh_profile": "learner-v2-refreshed-2026-08-22"
+}

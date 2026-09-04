@@ -1,0 +1,474 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g4\\ancient-indian-history-15_Solved-Practice-Workbook_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g4\\ancient-indian-history-15_Solved-Practice-Workbook_2026-08-30.pdf",
+  "mode": "workbook",
+  "topic_key": "ancient-indian-history-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 982,
+      "markdown_body_line_end": 987,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 487.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 350.09
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1027,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 599.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 440.89
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1067,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 613.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 507.59
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1107,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 649.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1147,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 660.39
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1183,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Option / dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Option / dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 244.19
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 85.788
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1211,
+      "markdown_body_line_end": 1215,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 171.29
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1244,
+      "markdown_body_line_end": 1249,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 288.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 172.09
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1277,
+      "markdown_body_line_end": 1282,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 316.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 210.99
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1316,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 470.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 302.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1352,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 465.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 328.79
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1381,
+      "markdown_body_line_end": 1387,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 484.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 337.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1417,
+      "markdown_body_line_end": 1424,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 470.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 292.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1462,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 629.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1494,
+      "markdown_body_line_end": 1500,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 687.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 539.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    }
+  ]
+}

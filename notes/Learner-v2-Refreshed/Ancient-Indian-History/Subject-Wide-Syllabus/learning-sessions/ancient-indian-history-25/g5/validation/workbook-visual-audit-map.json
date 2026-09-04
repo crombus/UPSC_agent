@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g5\\ancient-indian-history-25_Solved-Practice-Workbook_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\g5\\ancient-indian-history-25_Solved-Practice-Workbook_2026-09-03.pdf",
+  "mode": "workbook",
+  "topic_key": "ancient-indian-history-25",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 183,
+      "heading": "Broad topic coverage MCQs",
+      "preview": "Programmatic answer rotation for this section is strict A -> A -> B -> C with no consecutive repeats.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 652.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 621.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 451,
+      "heading": "Remedial MCQs for common confusions",
+      "preview": "These target habitual overclaims: Indianisation-as-colonisation, passive-recipient stories, script-language confusion and trade-volume exaggeration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 654.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 609.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 552,
+      "heading": "Semantic-completeness coverage drills - Topic 25",
+      "preview": "Drill | Prompt | Minimum answer route | Fatal trap",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Drill",
+          "Prompt",
+          "Minimum answer route",
+          "Fatal trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 58.99
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 561,
+      "heading": "Solved topic-specific MCQs",
+      "preview": "Objective answers without a secure local official key are labelled inferred, routed, adjacent or boundary-marked exactly as required.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 710.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Solved-Practice-Workbook_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Solved-Practice-Workbook_2026-08-30.pdf",
+  "mode": "workbook",
+  "topic_key": "ancient-indian-history-07",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 613,
+      "markdown_body_line_end": 613,
+      "heading": "Verified Question 1 - 2026 Prelims Series A Q10: Rigvedic Irrigation and Draught Power",
+      "preview": "**Verified question; provisional answer/key — not officially verified.** Do not record or infer an official answer letter. Use it to separate Rigvedic ecological/material vocabulary from a claim about migration or population identity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 682.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 638.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 617,
+      "markdown_body_line_end": 617,
+      "heading": "Verified Question 2 - 2026 Prelims Series A Q13: Vedic River Names",
+      "preview": "**Verified question; provisional answer/key — not officially verified.** The question tests close textual-geography pairings. A river-name association is not a conclusive ethnic map or universal date for the Rig Veda.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 613.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 568.356
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 621,
+      "markdown_body_line_end": 621,
+      "heading": "Verified Question 3 - 2026 Prelims Series A Q20: Kshetra-patni",
+      "preview": "**Verified question; provisional answer/key — not officially verified.** Treat the term as a textual-vocabulary route; do not convert one word into a full social chronology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 543.356
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 498.688
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 625,
+      "markdown_body_line_end": 625,
+      "heading": "Verified Question 4 - 2023 GS-I Q11: Vedic Society, Religion and Persistence",
+      "preview": "**Verified Mains question; no official model answer is implied.** Use it to practise cultural traits, text layering and selective continuity without asserting a direct Aryan-origin PYQ.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 473.688
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 429.02
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 629,
+      "markdown_body_line_end": 629,
+      "heading": "Verified Question 5 - 2024 GS-I Q1: Rig-to-Later Vedic Social/Economic Change",
+      "preview": "**Verified Mains question; no official model answer is implied.** Use chronology, material and textual change; it is a transition route, not an official migration-origin verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 404.02
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 359.353
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    }
+  ]
+}

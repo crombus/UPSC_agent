@@ -1,0 +1,5443 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "ancient-indian-history-14",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "The Mauryan Empire - Complete Topic Package",
+      "preview": "**Subject:** Ancient Indian History | **Paper:** Prelims GS-I + GS-I | **Topic:** 14 | **Date:** 13 August 2026  **Evidence key:** FACT/INSCRIPTIONAL/ARCHAEOLOGICAL EVIDENCE = directly supported by a named repository, local-book, official-p",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 685.024
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 19,
+      "heading": "Package Practice Counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 660.024
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 487.022
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 29,
+      "heading": "Sources actually used",
+      "preview": "Source class | Exact source | Use and caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source class",
+          "Exact source",
+          "Use and caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 462.022
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 208.22
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 44,
+      "markdown_body_line_end": 51,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 536.29
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\assets\\ancient-indian-history-14_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 158.89
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 94,
+      "heading": "Compact visual / answer logic",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 367.756
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 286.756
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 106,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 250.556
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 61.154
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 128,
+      "markdown_body_line_end": 128,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** S-A-M-T: Source, Audience, Material corroboration, Time gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 243.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 213.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 154,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Chronology method and ruler differentiation: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 558.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 171,
+      "markdown_body_line_end": 178,
+      "heading": "Timeline",
+      "preview": "Date/phase | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Date/phase",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 335.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 183.422
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 182,
+      "markdown_body_line_end": 188,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 587.39
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 210,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** C-B-A: Chandragupta creates, Bindusara bridges, Ashoka articulates.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 245,
+      "heading": "CLOSING RECALL FLOW - CHRONOLOGY METHOD AND RULER DIFFERENTIATION",
+      "preview": "START / CONCEPT: Chronology method and ruler differentiation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 574.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 333.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 256,
+      "markdown_body_line_end": 256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Background to the Mauryan rise: Magadha, Nandas and the north-west: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 193.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 126.756
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 273,
+      "markdown_body_line_end": 282,
+      "heading": "Compact visual / answer logic",
+      "preview": "MAGADHA-NANDA BASE ---- revenue / army / Pataliputra",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 665.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 574.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 288,
+      "markdown_body_line_end": 293,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 538.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 390.79
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 314,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** I-O-A: Inherited platform, Opportunity, Agency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 646.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 615.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 349,
+      "heading": "CLOSING RECALL FLOW - BACKGROUND TO THE MAURYAN RISE: MAGADHA, NANDAS AND THE NORTH-WEST",
+      "preview": "START / CONCEPT: Background to the Mauryan rise: Magadha, Nandas and the north-west",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 390.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 139.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 360,
+      "markdown_body_line_end": 360,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Chandragupta: foundation, expansion and the Seleucus treaty tradition: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 377,
+      "markdown_body_line_end": 383,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 195.222
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 406,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** F-D-L: Foundation, Diplomacy, Limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 367.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 337.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 424,
+      "markdown_body_line_end": 441,
+      "heading": "CLOSING RECALL FLOW - CHANDRAGUPTA: FOUNDATION, EXPANSION AND THE SELEUCUS TREATY TRADITION",
+      "preview": "START / CONCEPT: Chandragupta: foundation, expansion and the Seleucus treaty tradition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 452,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Bindusara: the evidentiary middle reign: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 426.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 360.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 475,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 608.39
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 497,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** B = Bridge, not blank.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 99.39
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 68.922
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 532,
+      "heading": "CLOSING RECALL FLOW - BINDUSARA: THE EVIDENTIARY MIDDLE REIGN",
+      "preview": "START / CONCEPT: Bindusara: the evidentiary middle reign",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 610.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 399.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 543,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Imperial geography: extent, zones and an inscription map in text: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 245.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 179.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 572,
+      "heading": "Compact visual / answer logic",
+      "preview": "NW FRONTIER: Kandahar / Shahbazgarhi / Mansehra",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 700.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 579.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 578,
+      "markdown_body_line_end": 584,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 543.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 364.19
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 606,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** F-C-C: Find-spot, Claim, Control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 555.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 524.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 641,
+      "heading": "CLOSING RECALL FLOW - IMPERIAL GEOGRAPHY: EXTENT, ZONES AND AN INSCRIPTION MAP IN TEXT",
+      "preview": "START / CONCEPT: Imperial geography: extent, zones and an inscription map in text",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 292
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 326.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 75.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 652,
+      "markdown_body_line_end": 652,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Provinces, capitals, routes and regional variation: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 675,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 205.722
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 697,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** C-R-V: Centre, Route, Variation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 433.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 403.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 715,
+      "markdown_body_line_end": 732,
+      "heading": "CLOSING RECALL FLOW - PROVINCES, CAPITALS, ROUTES AND REGIONAL VARIATION",
+      "preview": "START / CONCEPT: Provinces, capitals, routes and regional variation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 743,
+      "markdown_body_line_end": 743,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Kingship, council and central administration: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 374.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 760,
+      "markdown_body_line_end": 766,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 608.39
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 788,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** K-C-O-I: King, Council, Officers, Information.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 99.39
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 68.922
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - KINGSHIP, COUNCIL AND CENTRAL ADMINISTRATION",
+      "preview": "START / CONCEPT: Kingship, council and central administration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 596.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 385.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Provincial, district and local administration: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 236.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 169.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 857,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 719.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 540.59
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 879,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** P-D-L: Province, District, Local interface.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 914,
+      "heading": "CLOSING RECALL FLOW - PROVINCIAL, DISTRICT AND LOCAL ADMINISTRATION",
+      "preview": "START / CONCEPT: Provincial, district and local administration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 542.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 331.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 925,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Officials and portfolios: an evidence-controlled bank: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 192.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 125.356
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 942,
+      "markdown_body_line_end": 949,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 485.69
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 972,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** T-S-F-L: Title, Source, Function, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 709.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 678.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 990,
+      "markdown_body_line_end": 1007,
+      "heading": "CLOSING RECALL FLOW - OFFICIALS AND PORTFOLIOS: AN EVIDENCE-CONTROLLED BANK",
+      "preview": "START / CONCEPT: Officials and portfolios: an evidence-controlled bank",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 465.824
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 234.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1018,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Reporting, espionage, justice and punishment: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1041,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 519.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 340.522
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1063,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** P-S: Persuasion plus Surveillance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 586.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 556.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1098,
+      "heading": "CLOSING RECALL FLOW - REPORTING, ESPIONAGE, JUSTICE AND PUNISHMENT",
+      "preview": "START / CONCEPT: Reporting, espionage, justice and punishment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 371.624
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 140.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1109,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Military organisation, coercion and the limits of numerical claims: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1126,
+      "markdown_body_line_end": 1132,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 187.822
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1154,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** F-F-F: Force, Frontier, Fragile figures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1189,
+      "heading": "CLOSING RECALL FLOW - MILITARY ORGANISATION, COERCION AND THE LIMITS OF NUMERICAL CLAIMS",
+      "preview": "START / CONCEPT: Military organisation, coercion and the limits of numerical claims",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1200,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Revenue, land and taxation: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 412.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 345.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1217,
+      "markdown_body_line_end": 1223,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 618.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1245,
+      "markdown_body_line_end": 1245,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** N-D-R: Norm, Demand, Realisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 124.09
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 93.622
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1280,
+      "heading": "CLOSING RECALL FLOW - REVENUE, LAND AND TAXATION",
+      "preview": "START / CONCEPT: Revenue, land and taxation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 453.091
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1291,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The empire could support settlement, waterworks and routes, but archaeology does not show that the state created every field, town or irrigation facility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 299.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 232.424
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1308,
+      "markdown_body_line_end": 1314,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 608.39
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1336,
+      "markdown_body_line_end": 1336,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** W-S-C: Waterwork, Settlement, Continuity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 70.99
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 40.522
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1371,
+      "heading": "CLOSING RECALL FLOW - AGRICULTURE, IRRIGATION AND SETTLEMENT EXPANSION",
+      "preview": "START / CONCEPT: Agriculture, irrigation and settlement expansion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 610.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 379.691
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1382,
+      "markdown_body_line_end": 1382,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Crafts, guilds, trade, coinage and roads: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 258.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 192.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1399,
+      "markdown_body_line_end": 1405,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 738.691
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 549.29
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1427,
+      "markdown_body_line_end": 1427,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** C-R-M: Craft, Route, Money.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1445,
+      "markdown_body_line_end": 1462,
+      "heading": "CLOSING RECALL FLOW - CRAFTS, GUILDS, TRADE, COINAGE AND ROADS",
+      "preview": "START / CONCEPT: Crafts, guilds, trade, coinage and roads",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 528.624
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 297.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1473,
+      "markdown_body_line_end": 1473,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - The state-economy debate: control, facilitation and prescription: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 172.024
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 105.356
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1490,
+      "markdown_body_line_end": 1495,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 478.09
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1516,
+      "markdown_body_line_end": 1516,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** P-E-I: Prescription, Evidence, Inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 726.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 695.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1534,
+      "markdown_body_line_end": 1551,
+      "heading": "CLOSING RECALL FLOW - THE STATE-ECONOMY DEBATE: CONTROL, FACILITATION AND PRESCRIPTION",
+      "preview": "START / CONCEPT: The state-economy debate: control, facilitation and prescription",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 484.224
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 243.224
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1562,
+      "markdown_body_line_end": 1562,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Social structure and the Megasthenes seven-group problem: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 103.424
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        44,
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1579,
+      "markdown_body_line_end": 1585,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 563.624
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 374.222
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1607,
+      "markdown_body_line_end": 1607,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** D-F-C: Double filter, Compare, Correct.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 586.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 556.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1625,
+      "markdown_body_line_end": 1642,
+      "heading": "CLOSING RECALL FLOW - SOCIAL STRUCTURE AND THE MEGASTHENES SEVEN-GROUP PROBLEM",
+      "preview": "START / CONCEPT: Social structure and the Megasthenes seven-group problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 343.224
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 122.224
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1653,
+      "markdown_body_line_end": 1653,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Urban-rural relations, labour, women and dependence: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1670,
+      "markdown_body_line_end": 1676,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 195.222
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1698,
+      "markdown_body_line_end": 1698,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** A-L-L: Agency, Labour, Limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1733,
+      "heading": "CLOSING RECALL FLOW - URBAN-RURAL RELATIONS, LABOUR, WOMEN AND DEPENDENCE",
+      "preview": "START / CONCEPT: Urban-rural relations, labour, women and dependence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1744,
+      "markdown_body_line_end": 1744,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Religious plurality under the Mauryas: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1761,
+      "markdown_body_line_end": 1767,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 597.89
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1789,
+      "markdown_body_line_end": 1789,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** F-P-P: Faith, Patronage, Public policy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1807,
+      "markdown_body_line_end": 1824,
+      "heading": "CLOSING RECALL FLOW - RELIGIOUS PLURALITY UNDER THE MAURYAS",
+      "preview": "START / CONCEPT: Religious plurality under the Mauryas",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 574.224
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 343.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1835,
+      "markdown_body_line_end": 1835,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Ashoka's accession, early reign and the Kalinga war: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 217.624
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 150.956
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1852,
+      "markdown_body_line_end": 1858,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 688.091
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 509.19
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1880,
+      "markdown_body_line_end": 1880,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** C-R-R: Conquest, Remorse, Retained authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 726.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 695.824
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1898,
+      "markdown_body_line_end": 1915,
+      "heading": "CLOSING RECALL FLOW - ASHOKA'S ACCESSION, EARLY REIGN AND THE KALINGA WAR",
+      "preview": "START / CONCEPT: Ashoka's accession, early reign and the Kalinga war",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 483.024
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 242.024
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1926,
+      "markdown_body_line_end": 1926,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Kalinga causal flow and post-war policy: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 121.224
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 54.556
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1943,
+      "markdown_body_line_end": 1955,
+      "heading": "Compact visual / answer logic",
+      "preview": "CONQUEST OF KALINGA",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 581.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 460.091
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1961,
+      "markdown_body_line_end": 1967,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 423.891
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 244.99
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1989,
+      "markdown_body_line_end": 1989,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** W-S-P-D: War -> Suffering -> Policy -> Dhamma-vijaya.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 447.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 417.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2007,
+      "markdown_body_line_end": 2024,
+      "heading": "CLOSING RECALL FLOW - KALINGA CAUSAL FLOW AND POST-WAR POLICY",
+      "preview": "START / CONCEPT: Kalinga causal flow and post-war policy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2035,
+      "markdown_body_line_end": 2035,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Dhamma: principles and ethical-political content: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2052,
+      "markdown_body_line_end": 2058,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 597.89
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2080,
+      "markdown_body_line_end": 2080,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** S-R-A-C: Self-control, Relationships, Ahimsa, Concord.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2098,
+      "markdown_body_line_end": 2115,
+      "heading": "CLOSING RECALL FLOW - DHAMMA: PRINCIPLES AND ETHICAL-POLITICAL CONTENT",
+      "preview": "START / CONCEPT: Dhamma: principles and ethical-political content",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 560.024
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 339.024
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2126,
+      "markdown_body_line_end": 2126,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Dhamma machinery: mahamattas, tours, welfare and communication: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 199.224
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 132.556
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2143,
+      "markdown_body_line_end": 2149,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 670.891
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 491.99
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2171,
+      "markdown_body_line_end": 2171,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** I-O-M: Inscription, Oral reading, Movement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 694.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 664.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2189,
+      "markdown_body_line_end": 2206,
+      "heading": "CLOSING RECALL FLOW - DHAMMA MACHINERY: MAHAMATTAS, TOURS, WELFARE AND COMMUNICATION",
+      "preview": "START / CONCEPT: Dhamma machinery: mahamattas, tours, welfare and communication",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 438.624
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 197.624
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2217,
+      "markdown_body_line_end": 2217,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Personal Buddhism versus public dhamma: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2234,
+      "markdown_body_line_end": 2240,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 505.224
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 326.322
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2262,
+      "markdown_body_line_end": 2262,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** P-P-P: Personal faith, Patronage, Public ethic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 555.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 524.624
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2280,
+      "markdown_body_line_end": 2297,
+      "heading": "CLOSING RECALL FLOW - PERSONAL BUDDHISM VERSUS PUBLIC DHAMMA",
+      "preview": "START / CONCEPT: Personal Buddhism versus public dhamma",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 326.024
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 105.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2308,
+      "markdown_body_line_end": 2308,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Ashokan inscriptions: categories and chronology: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2325,
+      "markdown_body_line_end": 2331,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 219.922
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2353,
+      "markdown_body_line_end": 2353,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** M-M-S-P-C: Minor, Major, Separate, Pillar, Cave.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 433.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 403.224
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2371,
+      "markdown_body_line_end": 2388,
+      "heading": "CLOSING RECALL FLOW - ASHOKAN INSCRIPTIONS: CATEGORIES AND CHRONOLOGY",
+      "preview": "START / CONCEPT: Ashokan inscriptions: categories and chronology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2399,
+      "markdown_body_line_end": 2399,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Scripts, languages, audiences and regional adaptation: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2416,
+      "markdown_body_line_end": 2422,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 608.39
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2444,
+      "markdown_body_line_end": 2444,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** B-K-G-A: Brahmi, Kharoshthi, Greek, Aramaic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 70.99
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 40.522
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2462,
+      "markdown_body_line_end": 2479,
+      "heading": "CLOSING RECALL FLOW - SCRIPTS, LANGUAGES, AUDIENCES AND REGIONAL ADAPTATION",
+      "preview": "START / CONCEPT: Scripts, languages, audiences and regional adaptation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 300
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 610.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 369.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2490,
+      "markdown_body_line_end": 2490,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Foreign relations and mission traditions: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 263.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 196.424
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2507,
+      "markdown_body_line_end": 2513,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 584.49
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2535,
+      "markdown_body_line_end": 2535,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** E-E-T: Edict claim, Envoy notice, Tradition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2553,
+      "markdown_body_line_end": 2570,
+      "heading": "CLOSING RECALL FLOW - FOREIGN RELATIONS AND MISSION TRADITIONS",
+      "preview": "START / CONCEPT: Foreign relations and mission traditions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 282
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 574.224
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 343.224
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2581,
+      "markdown_body_line_end": 2581,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Pillars, capitals and the imperial stone programme: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 203.424
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 136.756
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2598,
+      "markdown_body_line_end": 2604,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 670.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 491.99
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2626,
+      "markdown_body_line_end": 2626,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** S-C-I: Shaft, Capital, Inscription.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 709.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 678.624
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2644,
+      "markdown_body_line_end": 2661,
+      "heading": "CLOSING RECALL FLOW - PILLARS, CAPITALS AND THE IMPERIAL STONE PROGRAMME",
+      "preview": "START / CONCEPT: Pillars, capitals and the imperial stone programme",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 480.024
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 249.024
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2672,
+      "markdown_body_line_end": 2672,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Stupas, Barabar caves and religious architecture: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 109.224
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 42.556
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2689,
+      "markdown_body_line_end": 2695,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 586.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 407.19
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2717,
+      "markdown_body_line_end": 2717,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** C-L-D: Core, Later additions, Dedication.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 632.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 601.624
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2735,
+      "markdown_body_line_end": 2752,
+      "heading": "CLOSING RECALL FLOW - STUPAS, BARABAR CAVES AND RELIGIOUS ARCHITECTURE",
+      "preview": "START / CONCEPT: Stupas, Barabar caves and religious architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 417.224
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 196.224
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2763,
+      "markdown_body_line_end": 2763,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Pataliputra, Kumrahar, palaces and wooden urban architecture: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2780,
+      "markdown_body_line_end": 2786,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 519.424
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 340.522
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2808,
+      "markdown_body_line_end": 2808,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** M-F-F: Material, Foreign account, Function caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 526.691
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 496.224
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2826,
+      "markdown_body_line_end": 2843,
+      "heading": "CLOSING RECALL FLOW - PATALIPUTRA, KUMRAHAR, PALACES AND WOODEN URBAN ARCHITECTURE",
+      "preview": "START / CONCEPT: Pataliputra, Kumrahar, palaces and wooden urban architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 270.424
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        75,
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2854,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Terracottas, yakshas, ring stones and the Mauryan polish debate: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 646.491
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 579.824
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2871,
+      "markdown_body_line_end": 2877,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 356.624
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 177.722
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2899,
+      "markdown_body_line_end": 2899,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** I-S-S-T: Inscription, Stratigraphy, Style, Technology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 447.891
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 417.424
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2917,
+      "markdown_body_line_end": 2934,
+      "heading": "CLOSING RECALL FLOW - TERRACOTTAS, YAKSHAS, RING STONES AND THE MAURYAN POLISH DEBATE",
+      "preview": "START / CONCEPT: Terracottas, yakshas, ring stones and the Mauryan polish debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2945,
+      "markdown_body_line_end": 2945,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: 'Interaction and transformation' is stronger than either pure foreign derivation or isolated indigenous genius.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 383.491
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 316.824
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2962,
+      "markdown_body_line_end": 2968,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 597.89
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2990,
+      "markdown_body_line_end": 2990,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** B-T-M: Borrowing, Transformation, Multiple meanings.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3008,
+      "markdown_body_line_end": 3025,
+      "heading": "CLOSING RECALL FLOW - FOREIGN INTERACTION AND INDIGENOUS TRANSFORMATION IN MAURYAN ART",
+      "preview": "START / CONCEPT: Foreign interaction and indigenous transformation in Mauryan art",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 301
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 561.224
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 300.224
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3036,
+      "markdown_body_line_end": 3036,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Nature of the Mauryan state: the centralisation debate: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 160.424
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 93.756
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3053,
+      "markdown_body_line_end": 3064,
+      "heading": "Compact visual / answer logic",
+      "preview": "METROPOLITAN CORE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 617.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3070,
+      "markdown_body_line_end": 3076,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 470.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 280.69
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3098,
+      "markdown_body_line_end": 3098,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** F-G-C: Function, Geography, Capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 481.091
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 450.624
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3116,
+      "markdown_body_line_end": 3133,
+      "heading": "CLOSING RECALL FLOW - NATURE OF THE MAURYAN STATE: THE CENTRALISATION DEBATE",
+      "preview": "START / CONCEPT: Nature of the Mauryan state: the centralisation debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3144,
+      "markdown_body_line_end": 3144,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Governance capacity and its practical limits: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3161,
+      "markdown_body_line_end": 3167,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 629.39
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3189,
+      "markdown_body_line_end": 3189,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** M-I-L: Mobilise, Intermediaries, Limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 148.79
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 118.322
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3207,
+      "markdown_body_line_end": 3224,
+      "heading": "CLOSING RECALL FLOW - GOVERNANCE CAPACITY AND ITS PRACTICAL LIMITS",
+      "preview": "START / CONCEPT: Governance capacity and its practical limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 649.891
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 428.891
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3235,
+      "markdown_body_line_end": 3235,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Legacy and transition: bounded to protect Topic 15: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 303.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 236.624
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3252,
+      "markdown_body_line_end": 3258,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 588.19
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3280,
+      "markdown_body_line_end": 3280,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** S-R-R: Scale, Record, Reinterpretation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 79.19
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 48.722
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3298,
+      "markdown_body_line_end": 3315,
+      "heading": "CLOSING RECALL FLOW - LEGACY AND TRANSITION: BOUNDED TO PROTECT TOPIC 15",
+      "preview": "START / CONCEPT: Legacy and transition: bounded to protect Topic 15",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 596.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 375.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3326,
+      "markdown_body_line_end": 3326,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Historiography and source criticism: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 254.691
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 188.024
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3343,
+      "markdown_body_line_end": 3349,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 705.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 505.39
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3371,
+      "markdown_body_line_end": 3371,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** M-E-L: Model, Evidence, Limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 709.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 678.624
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3389,
+      "markdown_body_line_end": 3406,
+      "heading": "CLOSING RECALL FLOW - HISTORIOGRAPHY AND SOURCE CRITICISM",
+      "preview": "START / CONCEPT: Historiography and source criticism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 480.024
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 259.024
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3417,
+      "markdown_body_line_end": 3417,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "10-MARK ROUTE - Terminology, memory hooks and integrated UPSC traps: Use a direct thesis and the three strongest named evidence units; retain one explicit qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 119.224
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 52.556
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3434,
+      "markdown_body_line_end": 3440,
+      "heading": "Compact visual / answer logic",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 581.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 520.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3446,
+      "markdown_body_line_end": 3452,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Claim/category | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Claim/category",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 483.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 304.99
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3474,
+      "markdown_body_line_end": 3474,
+      "heading": "Answer-worthiness upgrades",
+      "preview": "**Memory hook:** R-S-D-A: Rulers, State, Dhamma, Art - all through sources.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 509.491
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 479.024
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3492,
+      "markdown_body_line_end": 3509,
+      "heading": "CLOSING RECALL FLOW - TERMINOLOGY, MEMORY HOOKS AND INTEGRATED UPSC TRAPS",
+      "preview": "START / CONCEPT: Terminology, memory hooks and integrated UPSC traps",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 294.624
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 63.624
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4609,
+      "markdown_body_line_end": 4614,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Claim/option | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/option",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 583.491
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 446.09
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4649,
+      "markdown_body_line_end": 4654,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Claim/option | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/option",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 599.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 451.39
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4689,
+      "markdown_body_line_end": 4694,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Claim/option | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/option",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 599.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 461.89
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4729,
+      "markdown_body_line_end": 4734,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Claim/option | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/option",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 613.491
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 497.09
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4769,
+      "markdown_body_line_end": 4774,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Claim/option | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/option",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 619.19
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4809,
+      "markdown_body_line_end": 4814,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Claim/option | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/option",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 117,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 117,
+          "frame_y": 660.39
+        }
+      },
+      "pdf_pages": [
+        117
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4844,
+      "markdown_body_line_end": 4849,
+      "heading": "Evidence / elimination matrix",
+      "preview": "Claim/option | Named evidence | Significance | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim/option",
+          "Named evidence",
+          "Significance",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 117,
+          "frame_y": 215.79
+        },
+        "end": {
+          "page": 117,
+          "frame_y": 67.888
+        }
+      },
+      "pdf_pages": [
+        117
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4885,
+      "markdown_body_line_end": 4890,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 256.091
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 129.19
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4936,
+      "markdown_body_line_end": 4941,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 370.491
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 233.09
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4987,
+      "markdown_body_line_end": 4992,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 479.891
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 352.99
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5038,
+      "markdown_body_line_end": 5044,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 406.19
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5092,
+      "markdown_body_line_end": 5098,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 580.091
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 422.19
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5146,
+      "markdown_body_line_end": 5152,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 599.291
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 472.89
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5200,
+      "markdown_body_line_end": 5206,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 646.891
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 467.99
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5256,
+      "markdown_body_line_end": 5262,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 518.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 381.39
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5312,
+      "markdown_body_line_end": 5318,
+      "heading": "Evidence architecture",
+      "preview": "Dimension | Named evidence | What it proves | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Named evidence",
+          "What it proves",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 479.891
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 311.49
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5354,
+      "markdown_body_line_end": 5357,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** History (Ancient India) · **Tier:** Advanced (analytical + historiographical) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Upinder Singh, *A History of Ancient & Early Medieval India*, Ch-7 \"Power and Piety: The Maurya",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 392.424
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5363,
+      "markdown_body_line_end": 5369,
+      "heading": "Mini-timeline",
+      "preview": "Date | Marker | Analytical significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Date",
+          "Marker",
+          "Analytical significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 364.924
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 211.922
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5391,
+      "markdown_body_line_end": 5398,
+      "heading": "2. Key classification / data",
+      "preview": "Source / theme | Advanced reading",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Source / theme",
+          "Advanced reading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 628.491
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 476.69
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5402,
+      "markdown_body_line_end": 5404,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Upinder Singh Ch-7 → Power and Piety: Mauryas. **Study link:** ⚠️ Compare with `advanced/15_Significance-and-Decline-of-Maurya-Rule.md` for empire, art and decline. **Study link:** ⚠️ Epigraphy → Ashokan scripts and langua",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 451.69
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 392.822
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5418,
+      "markdown_body_line_end": 5418,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Advanced answers must not treat **Arthashastra = exact Mauryan constitution**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 222.422
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 191.954
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5450,
+      "markdown_body_line_end": 5450,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Date event, text, quotation and layer separately.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 129,
+          "frame_y": 433.291
+        },
+        "end": {
+          "page": 129,
+          "frame_y": 402.824
+        }
+      },
+      "pdf_pages": [
+        129
+      ]
+    },
+    {
+      "visual_id": "visual-0181",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5467,
+      "markdown_body_line_end": 5467,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Inheritance + opportunity + agency + diplomacy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 129,
+          "frame_y": 188.824
+        },
+        "end": {
+          "page": 129,
+          "frame_y": 158.356
+        }
+      },
+      "pdf_pages": [
+        129
+      ]
+    },
+    {
+      "visual_id": "visual-0182",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5484,
+      "markdown_body_line_end": 5484,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Find-spot is not a cadastral map.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 629.691
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 599.224
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0183",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5501,
+      "markdown_body_line_end": 5501,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Title + source + function + limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 385.224
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 354.756
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0184",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5518,
+      "markdown_body_line_end": 5518,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Norm, assessed demand and realisation are separate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 140.756
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 110.288
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0185",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5535,
+      "markdown_body_line_end": 5535,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** External category, lived hierarchy, scattered non-elite voices.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 629.691
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 599.224
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0186",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5552,
+      "markdown_body_line_end": 5552,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Remorse after victory, not surrender after defeat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 385.224
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 354.756
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0187",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5569,
+      "markdown_body_line_end": 5569,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Self, relations, ahimsa, concord, welfare.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 140.756
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 110.288
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0188",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5586,
+      "markdown_body_line_end": 5586,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Category + location + script + theme + audience.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 629.691
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 599.224
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0189",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5603,
+      "markdown_body_line_end": 5603,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Diplomacy is not mission; moral claim is not sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 385.224
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 354.756
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0190",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5620,
+      "markdown_body_line_end": 5620,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Date layer, name dedication, test context.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 140.756
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 110.288
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0191",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5637,
+      "markdown_body_line_end": 5637,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Function + geography + capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 629.691
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 599.224
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0192",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5654,
+      "markdown_body_line_end": 5654,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Political end, selective afterlife.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 385.224
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 354.756
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0193",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5672,
+      "markdown_body_line_end": 5672,
+      "heading": "Compressed revision notes",
+      "preview": "**Memory hook:** Demand first; evidence earns marks only when interpreted.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 123.556
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 93.088
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0194",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5680,
+      "markdown_body_line_end": 5689,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Mauryan source hierarchy",
+      "preview": "CONTEMPORARY: Ashokan edicts -> royal voice, command and self-presentation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 670.691
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0195",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5693,
+      "markdown_body_line_end": 5702,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Dynastic chronology and ruler differentiation",
+      "preview": "c. 324/321 BCE  Chandragupta: foundation after Nandas",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 556.091
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0196",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5706,
+      "markdown_body_line_end": 5715,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Imperial geography: scale with differentiated control",
+      "preview": "PATALIPUTRA / GANGA CORE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 534.091
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 441.491
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0197",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5719,
+      "markdown_body_line_end": 5728,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Administrative chain and local mediation",
+      "preview": "KING AND CENTRAL COURT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 419.491
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 326.891
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0198",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5732,
+      "markdown_body_line_end": 5741,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Revenue, army and political economy",
+      "preview": "AGRICULTURE + TRADE + MINES/FORESTS + DUES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 304.891
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 212.291
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0199",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5745,
+      "markdown_body_line_end": 5754,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Ashokan inscriptional communication",
+      "preview": "ROYAL MESSAGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0200",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5758,
+      "markdown_body_line_end": 5767,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Dhamma: ethical governance and imperial mechanism",
+      "preview": "DIVERSE EMPIRE + SOCIAL CONFLICT + ROYAL PATERNALISM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0201",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5771,
+      "markdown_body_line_end": 5780,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Kalinga: remorse without disappearance of coercion",
+      "preview": "KALINGA WAR -> deaths, deportation and suffering in Rock Edict XIII",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0202",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5784,
+      "markdown_body_line_end": 5793,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Mauryan art and monumental statecraft",
+      "preview": "PILLARS: monolithic shafts + polished stone + animal capitals + inscriptions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 350.891
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0203",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5797,
+      "markdown_body_line_end": 5806,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: External relations and frontier diplomacy",
+      "preview": "CHANDRAGUPTA <-> SELEUCUS: conflict, treaty and diplomatic tradition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 328.891
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 236.291
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0204",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5810,
+      "markdown_body_line_end": 5819,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Centralisation debate and Arthashastra trap",
+      "preview": "STRONG CENTRAL MODEL             DIFFERENTIATED MODEL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 136,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 136,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        136
+      ]
+    },
+    {
+      "visual_id": "visual-0205",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5823,
+      "markdown_body_line_end": 5832,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Examiner-ready Mauryan answer spine",
+      "preview": "INTRO: define the empire through source plurality and differentiated scale.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 136,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 136,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        136
+      ]
+    }
+  ]
+}
