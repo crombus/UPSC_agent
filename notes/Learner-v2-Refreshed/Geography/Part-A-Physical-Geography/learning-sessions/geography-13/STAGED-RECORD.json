@@ -1,0 +1,138 @@
+{
+  "record_id": "geography-13:learner-v2:g2",
+  "topic_key": "geography-13",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "geography-13:legacy-v1:g1",
+  "command": "Generate learner-v2 topic: Geography — Part A — Physical Geography — Weather Elements / India Jet Stream-Western Disturbances",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-13\\geography-13_Complete-Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-13\\geography-13_Solved-Practice-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-13\\geography-13_Complete-Learning-Session_2026-09-01.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-13\\geography-13_Solved-Practice-Workbook_2026-09-01.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-13\\assets",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\13_India-JetStream-Western-Disturbances_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\Geography\\README.md",
+      "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Geography\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\Geography\\REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md",
+      "upsc-ai-kit\\knowledge\\Geography\\ANSWER-WORTHINESS-AUDIT.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\GC Leong - Certificate Physical and human Geography.pdf",
+      "books\\Indian & World Geography - Husain, Majid_Compressed.pdf",
+      "books\\Indian-geography-majid-hussain.pdf"
+    ],
+    "live_sources": [
+      "https://mausam.imd.gov.in/responsive/servicesMetUpperAir.php",
+      "https://mausam.imd.gov.in/responsive/radar.php",
+      "https://mausam.imd.gov.in/imd_latest/contents/satmet.php"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-13\\geography-13_Complete-Learning-Session_2026-09-01.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": "geography-13:legacy-v1:g1",
+    "source_hashes": {
+      "books\\GC Leong - Certificate Physical and human Geography.pdf": "80cee21f9075731f1841cb3714645df94846f4b215ab5f0c1948aac4ab71998a",
+      "books\\Indian & World Geography - Husain, Majid_Compressed.pdf": "8770f543912124259376881085c94676d330f89d455666d46aaa22f751ba10fb",
+      "books\\Indian-geography-majid-hussain.pdf": "1d7ab9edf8779c0f3c812fe56787084f619989e4e1adaffa9f1e43f0cb182c41",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+      "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md": "e8c1a5fbe4ea76be86872d0a710e17de0827f2c59c92c850685529520d1ef649",
+      "upsc-ai-kit\\knowledge\\Geography\\13_India-JetStream-Western-Disturbances_Complete-Topic-Package.md": "560dc76d52c881d7558c9e15b87bfb279a827a72a3d7b1d36cfc287698fd6754",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md": "484761d3c6426c5040fafd404a939ba401a76f68a818b83db53f8282c6c00d8e",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md": "4762cf67e0804a3f8b48085e33c435b9d9326f3b66d181c4dd49245e87713dac",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md": "d159d97df69b160c1cc29584030c5ef89255c768ade89403f3dcbfec33e3b38a",
+      "upsc-ai-kit\\knowledge\\Geography\\ANSWER-WORTHINESS-AUDIT.md": "4fbcd7eb1b577022fa8c438111bfe0e7f76fd61c95a05e95d0c41e41cd3aa594",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md": "2fdbbb200c87d00c44fb5994f993ecce0050d4b4029acb31a34cb3108b4b4ee8",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md": "cb4bbdbca317335c30f738170148a764a70282e44b4d33656c73ffb1860f502c",
+      "upsc-ai-kit\\knowledge\\Geography\\LEARNING-SESSION-COMMAND-INDEX.md": "f8a214b669c5a13887e1e09f67969f880950dc12c5a8c54899a6dd5b40e2e51a",
+      "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-13_Learning-Session.md": "560dc76d52c881d7558c9e15b87bfb279a827a72a3d7b1d36cfc287698fd6754",
+      "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-13_Solved-Workbook.md": "078d0447c5aa5a087296d4281093ab0e9d878d89254018c9d575b32f91035b4c",
+      "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "5423e188aa0c98932e8b8bc5f9d9a465c14593fd0dee3ea3a916f04b72dc1f2b",
+      "upsc-ai-kit\\knowledge\\Geography\\README.md": "7b84c8c11f68d489f7579c037dbbd8384435bb9d64e0d64b9e352bfedc8ff008",
+      "upsc-ai-kit\\knowledge\\Geography\\REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md": "b0f24907f37596bb7af25a6680dc9d460391c5c0a605d67c4cc5d97c23ac40e1",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-12-13-2026-09-01-sequential.json": "2d656a13c74c65009dd8de0662666c5eadcde2e7ca1501c529bbb98dc86e2d4c",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-13.json": "35bfc64db6d0665a372b6becb083bc1cf6f1a01bf77945bf680ec16b0ab8ed78",
+      "upsc-ai-kit\\manifests\\v2\\geography--part-a-physical-geography.json": "49157b0c6a5158c11cb1a3e82625207e74126102784ecb5ebfc7fc0386685a24",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; verified routed PYQs only; six original solved Mains questions weighted 10,10,15,15,20,20.",
+    "current_linkage_note": "IMD's official upper-air, radar and satellite service pages are used only to establish observation and forecasting architecture. The live search found no sufficiently stable, topic-specific official September 2026 western-disturbance item, so no current event, jet trend, forecast or realised impact is claimed.",
+    "pyq_status_note": "Verified routing retains direct owner demands on weather elements and upper-air processes, including the 2021 and 2022 GS-I questions and relevant objective routes. No official answer letter is invented where the ledger withholds it, and no unrelated Disaster Management warning question is relabelled direct.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "00ba06804eefa76a49bfc21997ab9a954c05487d23ff5ee05757d12647c3a880"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "geography-13:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-13\\geography-13_Graphical-Spec-g2.json",
+    "graphical_spec_sha256": "1915d238e2478e0b4e78bfceb4d500b2f69829cac61c9ca95254696d88c3bd62",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-13\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-12-13-2026-09-01-sequential.json",
+    "ascii_master_spec_sha256": "2d656a13c74c65009dd8de0662666c5eadcde2e7ca1501c529bbb98dc86e2d4c"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

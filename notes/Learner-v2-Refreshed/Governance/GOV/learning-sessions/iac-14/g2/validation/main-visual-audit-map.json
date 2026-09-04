@@ -1,0 +1,2185 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "governance-14",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Participatory Governance - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 654.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 326.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\assets\\governance-14_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 704.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 396.556
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This topic owns participation as a governance mechanism, namely whether a citizen forum actually decides anything, and it therefore analyses the quality of participation rather than the constitutional anatomy of the forums; the composition ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 209.156
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 85.688
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 84,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT PARTICIPATION QUALITY OWNS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 610.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 129,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT PARTICIPATION QUALITY OWNS",
+      "preview": "START / CONCEPT: FOUNDATION — What participation quality owns",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 622
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Subsidiarity is an efficiency argument before it is a democratic one - Subsidiarity is a principle of the appropriate level Qualified use: Replace a moralising opening with a testable informational claim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 319.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 253.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 162,
+      "heading": "VISUAL FIRST",
+      "preview": "SUBSIDIARITY AS AN EFFICIENCY ARGUMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 208,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SUBSIDIARITY AS AN EFFICIENCY ARGUMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Subsidiarity as an efficiency argument",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 563
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 219,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Participation quality against participation frequency Qualified use: Make the distinction that a participation evaluation is actually asking for.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 332.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 266.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 234,
+      "markdown_body_line_end": 238,
+      "heading": "VISUAL FIRST",
+      "preview": "QUALITY AGAINST FREQUENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 283,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - QUALITY AGAINST FREQUENCY",
+      "preview": "START / CONCEPT: FOUNDATION — Quality against frequency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 466
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 151.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 294,
+      "markdown_body_line_end": 294,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Being told after a decision is information rather than participation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 313,
+      "heading": "VISUAL FIRST",
+      "preview": "THE PARTICIPATION LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 403.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 362.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 341,
+      "markdown_body_line_end": 358,
+      "heading": "CLOSING RECALL FLOW - CORE - THE PARTICIPATION LADDER",
+      "preview": "START / CONCEPT: CORE — The participation ladder",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 620
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 449.691
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 369,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The Indian participation paradox Qualified use: Answer a whole family of stems with one structural observation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 286.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 219.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 384,
+      "markdown_body_line_end": 388,
+      "heading": "VISUAL FIRST",
+      "preview": "THE INDIAN PARTICIPATION PARADOX",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 416,
+      "markdown_body_line_end": 433,
+      "heading": "CLOSING RECALL FLOW - CORE - THE INDIAN PARTICIPATION PARADOX",
+      "preview": "START / CONCEPT: CORE — The Indian participation paradox",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 486
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 127.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 444,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The Pre-Legislative Consultation Policy of 2014 and its exact status Qualified use: Get the legal status right before recommending a consultation reform.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 463,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSULTATION BEFORE LEGISLATION AND ITS EXACT STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 315.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 508,
+      "heading": "CLOSING RECALL FLOW - CORE - CONSULTATION BEFORE LEGISLATION AND ITS EXACT STATUS",
+      "preview": "START / CONCEPT: CORE — Consultation before legislation and its exact status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 637
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 382.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 519,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "MyGov is the Government of India's citizen-engagement platform for crowdsourcing ideas, public discussion and campaign participation, and its influence on a final decision varies by initiative and is not institutionally guaranteed; its fron",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 199.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 76.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 538,
+      "heading": "VISUAL FIRST",
+      "preview": "THE ENGAGEMENT PLATFORM AND ONE DATED WINDOW",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW - CORE - THE ENGAGEMENT PLATFORM AND ONE DATED WINDOW",
+      "preview": "START / CONCEPT: CORE — The engagement platform and one dated window",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 698
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 594,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The village assembly and the authority test - Ward Committees and the Article 243S threshold Qualified use: Supply the two named forums with their exact authority and constitutional anchor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 323.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 257.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 616,
+      "heading": "VISUAL FIRST",
+      "preview": "ASSEMBLY AUTHORITY AND THE URBAN THRESHOLD",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 662,
+      "heading": "CLOSING RECALL FLOW - CORE - ASSEMBLY AUTHORITY AND THE URBAN THRESHOLD",
+      "preview": "START / CONCEPT: CORE — Assembly authority and the urban threshold",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 480
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 673,
+      "markdown_body_line_end": 673,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Participatory budgeting allows citizens to deliberate directly and decide on the allocation of a defined share of a public budget rather than leaving the budget to representatives and administrators alone, which places it on the co-decision",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 399.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 290.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 692,
+      "heading": "VISUAL FIRST",
+      "preview": "CO-DECISION AT PILOT SCALE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 737,
+      "heading": "CLOSING RECALL FLOW - CORE - CO-DECISION AT PILOT SCALE",
+      "preview": "START / CONCEPT: CORE — Co-decision at pilot scale",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 529
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 363.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 102.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 748,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "In Fifth Schedule areas the Panchayats Extension to Scheduled Areas Act, 1996 gives the Gram Sabha powers not available elsewhere, including approval functions that place it on the co-decision rung, but the precision that decides marks is t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 767,
+      "heading": "VISUAL FIRST",
+      "preview": "SCHEDULED AREAS AND THE CONSULTATION LIMIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 315.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 812,
+      "heading": "CLOSING RECALL FLOW - CORE - SCHEDULED AREAS AND THE CONSULTATION LIMIT",
+      "preview": "START / CONCEPT: CORE — Scheduled Areas and the consultation limit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 474
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 823,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Why decisions drift upward - Information loss in transmission and outcome mismatch Qualified use: Explain centralisation causally instead of asserting that it is undesirable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 297.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 230.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 845,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY DECISIONS DRIFT UPWARD AND WHAT IT COSTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 891,
+      "heading": "CLOSING RECALL FLOW - CORE - WHY DECISIONS DRIFT UPWARD AND WHAT IT COSTS",
+      "preview": "START / CONCEPT: CORE — Why decisions drift upward and what it costs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 579
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 902,
+      "markdown_body_line_end": 902,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The demand about responsibilities not located close to the source of information and execution contains two analytically different failures, namely separation from information, where the decision-maker lacks accurate local knowledge, and se",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 274.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 136.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 921,
+      "heading": "VISUAL FIRST",
+      "preview": "TWO SEPARATIONS INSIDE ONE DEMAND",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 648.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 949,
+      "markdown_body_line_end": 966,
+      "heading": "CLOSING RECALL FLOW - CORE - TWO SEPARATIONS INSIDE ONE DEMAND",
+      "preview": "START / CONCEPT: CORE — Two separations inside one demand",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 717
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 977,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, institution, official category, dated edition or scope rule attached to Legitimate centralisation and elite capture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 366.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 299.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 999,
+      "heading": "VISUAL FIRST",
+      "preview": "LEGITIMATE CENTRALISATION AND ELITE CAPTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1028,
+      "markdown_body_line_end": 1045,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LEGITIMATE CENTRALISATION AND ELITE CAPTURE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Legitimate centralisation and elite capture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 528
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1056,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, institution, official category, dated edition or scope rule attached to Designing deliberation that is real.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 376.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 309.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1075,
+      "heading": "VISUAL FIRST",
+      "preview": "DESIGNING DELIBERATION THAT IS REAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1103,
+      "markdown_body_line_end": 1120,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DESIGNING DELIBERATION THAT IS REAL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Designing deliberation that is real",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1002
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1131,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Co-production, partnership forms and diffused accountability - Absent participants, trade-offs and honest question ownership Qualified use: Close a twenty-mark answer with partnership design, absent participants and ownershi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 308.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 227.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1153,
+      "heading": "VISUAL FIRST",
+      "preview": "CO-PRODUCTION, PARTNERSHIP AND HONEST OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1188,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** Subsidiarity, Gram Sabha/Ward Committee participation quality, participatory budgeting, pre-legislative consultation and MyGov. **Grounded in:** ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 444.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 320.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1210,
+      "heading": "1. Visual foundation",
+      "preview": "SUBSIDIARITY PRINCIPLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 298.824
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 117.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1220,
+      "markdown_body_line_end": 1226,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 432.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1347,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Genuine participatory governance requires locating decision-making authority close to those who hold the relevant information and will execute the decision — subsidiarity in practice — and its absence, not merely a shorta",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 503.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 444.224
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1371,
+      "markdown_body_line_end": 1373,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for *participation as a governance mechanism*, including the demand the 2018–2023 ledger routed to `advanced/14`, is held **in this file**. `advanced/14` is optional enrichment only.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 155.424
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 88.756
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1429,
+      "markdown_body_line_end": 1436,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 557.09
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1472,
+      "markdown_body_line_end": 1479,
+      "heading": "13.4 The participation ladder (the structuring device for this topic)",
+      "preview": "Rung | What the citizen actually gets | Indian instance | Honest limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Rung",
+          "What the citizen actually gets",
+          "Indian instance",
+          "Honest limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 503.89
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1488,
+      "markdown_body_line_end": 1507,
+      "heading": "13.5 Causal chain - why decisions drift upward, and what it costs",
+      "preview": "ADMINISTRATIVE CONVENIENCE   one design is simpler to run than 700 local variants",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 434.29
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 243.29
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1605,
+      "markdown_body_line_end": 1607,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 482.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 401.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1613,
+      "markdown_body_line_end": 1615,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 350.224
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 253.322
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1621,
+      "markdown_body_line_end": 1621,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 214.122
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 169.454
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1626,
+      "markdown_body_line_end": 1643,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CO-PRODUCTION, PARTNERSHIP AND HONEST OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Co-production, partnership and honest ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1077
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2501,
+      "markdown_body_line_end": 2503,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2509,
+      "markdown_body_line_end": 2511,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 676.824
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 579.922
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2517,
+      "markdown_body_line_end": 2517,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 540.722
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 496.054
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2530,
+      "markdown_body_line_end": 2531,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 409.254
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 342.587
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2537,
+      "markdown_body_line_end": 2540,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 290.987
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 131.585
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2547,
+      "markdown_body_line_end": 2547,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2867,
+      "markdown_body_line_end": 2872,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Subsidiarity, Gram Sabha/Ward Committee participation quality, participatory budgeting, pre-legislative consultation and MyGov. **Grounded in:** Pre-Legislat",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 231.091
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 158.024
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2876,
+      "markdown_body_line_end": 2892,
+      "heading": "1. Architecture",
+      "preview": "INFORMATION LOCATION                    DECISION-MAKING LOCATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2902,
+      "markdown_body_line_end": 2907,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 547.491
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 202.89
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3080,
+      "markdown_body_line_end": 3081,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 392.091
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 325.424
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3087,
+      "markdown_body_line_end": 3090,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 273.824
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 114.422
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3097,
+      "markdown_body_line_end": 3097,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3147,
+      "markdown_body_line_end": 3153,
+      "heading": "Participatory Governance: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 518.091
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 457.091
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3163,
+      "markdown_body_line_end": 3171,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Participation ladder",
+      "preview": "INFORMATION -> told after the decision; scheme publicity and proactive disclosure; not participation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 680.891
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3175,
+      "markdown_body_line_end": 3181,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: The Indian participation paradox",
+      "preview": "MOST INSTITUTIONALISED -> pre-legislative consultation and the citizen-engagement platform",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 658.891
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 596.891
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3185,
+      "markdown_body_line_end": 3191,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Consultation policy status card",
+      "preview": "INSTRUMENT -> Pre-Legislative Consultation Policy, 2014",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 574.891
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 512.891
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3195,
+      "markdown_body_line_end": 3200,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Named participation forums",
+      "preview": "VILLAGE ASSEMBLY -> all registered voters in a Panchayat area; test: what can it decide",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 490.891
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 439.091
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3204,
+      "markdown_body_line_end": 3211,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Why decisions drift upward",
+      "preview": "ADMINISTRATIVE CONVENIENCE -> one design is simpler to run than hundreds of local variants",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 417.091
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 344.891
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3215,
+      "markdown_body_line_end": 3220,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Two separations inside one demand",
+      "preview": "SEPARATION FROM INFORMATION -> the decision-maker lacks accurate, current local knowledge",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 322.891
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 271.091
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3224,
+      "markdown_body_line_end": 3229,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Counterweight card",
+      "preview": "LEGITIMATE CENTRALISATION -> scale in large infrastructure; inter-regional equity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3233,
+      "markdown_body_line_end": 3242,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Eight deliberation design tests",
+      "preview": "1 AUTHORITY -> is the forum deciding, or advising on a decision already taken",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3246,
+      "markdown_body_line_end": 3252,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Consultation feedback matrix",
+      "preview": "COLUMN 1 -> stakeholder category that raised the issue",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 536.891
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3256,
+      "markdown_body_line_end": 3263,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Partnership forms kept distinct",
+      "preview": "CONTRACTING -> the state buys delivery from a provider against a specification",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 514.891
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 442.691
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3267,
+      "markdown_body_line_end": 3274,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Who is absent from the forum",
+      "preview": "WOMEN -> attendance, speaking time and proxy participation are three different measures",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3278,
+      "markdown_body_line_end": 3283,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a participation demand",
+      "preview": "OPEN -> subsidiarity as an information and execution argument, not as a democratic slogan",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 274.691
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    }
+  ]
+}

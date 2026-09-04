@@ -1,0 +1,2185 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "governance-07",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Citizen-Centric Administration - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 427.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\assets\\governance-07_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Citizen-centric administration is an institutional architecture rather than a single document, combining a service-standard promise, a working grievance route, statutory service guarantees where they exist, the organisational capacity to de",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 294.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 199.088
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 84,
+      "heading": "VISUAL FIRST",
+      "preview": "CITIZEN-CENTRIC ADMINISTRATION AS AN ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 721.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 129,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CITIZEN-CENTRIC ADMINISTRATION AS AN ARCHITECTURE",
+      "preview": "START / CONCEPT: FOUNDATION — Citizen-centric administration as an architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 461
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 367.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 116.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sevottam is the service-delivery excellence model of the Department of Administrative Reforms and Public Grievances and rests on three interdependent pillars - the Citizens' Charter stating what service is provided, by when and at what stan",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 541.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 159,
+      "heading": "VISUAL FIRST",
+      "preview": "THE THREE SEVOTTAM PILLARS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 361.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 310.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 204,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE THREE SEVOTTAM PILLARS",
+      "preview": "START / CONCEPT: FOUNDATION — The three Sevottam pillars",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 561
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 402.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 215,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The charter and its administrative origin - The design-stage limitation Qualified use: Open a limitations demand with the design fact that explains every later failure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 234.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 167.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 237,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CHARTER AND ITS ADMINISTRATIVE ORIGIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 666.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 283,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE CHARTER AND ITS ADMINISTRATIVE ORIGIN",
+      "preview": "START / CONCEPT: FOUNDATION — The charter and its administrative origin",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 388
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 294,
+      "markdown_body_line_end": 294,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Right to Public Services laws are State statutes, beginning with Madhya Pradesh in 2010 and followed by several other States, that give a citizen a legally enforceable right to specified notified services within a stipulated time with a pen",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 348.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 253.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 313,
+      "heading": "VISUAL FIRST",
+      "preview": "STATUTORY SERVICE GUARANTEES AS THE ENFORCEMENT LIMB",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 341,
+      "markdown_body_line_end": 358,
+      "heading": "CLOSING RECALL FLOW - CORE - STATUTORY SERVICE GUARANTEES AS THE ENFORCEMENT LIMB",
+      "preview": "START / CONCEPT: CORE — Statutory service guarantees as the enforcement limb",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 436
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 141.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 369,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The five-element service-guarantee test Qualified use: Apply a transferable test to any new portal, helpline or single-window scheme.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 384,
+      "markdown_body_line_end": 388,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FIVE-ELEMENT SERVICE-GUARANTEE TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 329.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 416,
+      "markdown_body_line_end": 433,
+      "heading": "CLOSING RECALL FLOW - CORE - THE FIVE-ELEMENT SERVICE-GUARANTEE TEST",
+      "preview": "START / CONCEPT: CORE — The five-element service-guarantee test",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 480
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 444,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A penalty imposed on the defaulting officer and compensation paid to the aggrieved citizen are different remedies serving different purposes, and many State statutes provide the first without the second, so stating the difference is a preci",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 307.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 212.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 463,
+      "heading": "VISUAL FIRST",
+      "preview": "PENALTY AGAINST COMPENSATION AND STATE VARIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 508,
+      "heading": "CLOSING RECALL FLOW - CORE - PENALTY AGAINST COMPENSATION AND STATE VARIATION",
+      "preview": "START / CONCEPT: CORE — Penalty against compensation and State variation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 461
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 141.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 519,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Centralised Public Grievance Redress and Monitoring System is the administrative platform of the Department of Administrative Reforms and Public Grievances for lodging, routing, tracking, feedback and appeal of grievances concerning par",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 522.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 538,
+      "heading": "VISUAL FIRST",
+      "preview": "THE GRIEVANCE PLATFORM AND WHAT IT CANNOT DO",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 327.824
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 276.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW - CORE - THE GRIEVANCE PLATFORM AND WHAT IT CANNOT DO",
+      "preview": "START / CONCEPT: CORE — The grievance platform and what it cannot do",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 527
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 392.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 594,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Comprehensive Guidelines for Handling Public Grievances issued in August 2024 use a 21-day benchmark for grievance redress and 30 days for appeals, with nodal grievance officers and appellate officers in each Ministry or Department and ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 228.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 119.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 613,
+      "heading": "VISUAL FIRST",
+      "preview": "DATED GRIEVANCE BENCHMARKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 658,
+      "heading": "CLOSING RECALL FLOW - CORE - DATED GRIEVANCE BENCHMARKS",
+      "preview": "START / CONCEPT: CORE — Dated grievance benchmarks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 510
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 669,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Five reasons the promise falls short Qualified use: Structure a hindering-factors demand so that measures can be mapped one to one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 362.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 296.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 688,
+      "heading": "VISUAL FIRST",
+      "preview": "FIVE REASONS THE PROMISE FALLS SHORT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 733,
+      "heading": "CLOSING RECALL FLOW - CORE - FIVE REASONS THE PROMISE FALLS SHORT",
+      "preview": "START / CONCEPT: CORE — Five reasons the promise falls short",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 558
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 353.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 92.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 744,
+      "markdown_body_line_end": 744,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's charter problem is no longer adoption but quality, because widespread proliferation coexists with unmeasurable standards, standards expressed as administrative acknowledgements rather than resolved outcomes, no named responsible off",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 584.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 763,
+      "heading": "VISUAL FIRST",
+      "preview": "PROLIFERATION AGAINST QUALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 389.424
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 348.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 791,
+      "markdown_body_line_end": 808,
+      "heading": "CLOSING RECALL FLOW - CORE - PROLIFERATION AGAINST QUALITY",
+      "preview": "START / CONCEPT: CORE — Proliferation against quality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 421
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 819,
+      "markdown_body_line_end": 819,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The layer-mismatch diagnosis Qualified use: Diagnose the bottleneck rather than describing the architecture in an evaluative answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 316.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 249.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 838,
+      "heading": "VISUAL FIRST",
+      "preview": "THE LAYER-MISMATCH DIAGNOSIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 866,
+      "markdown_body_line_end": 883,
+      "heading": "CLOSING RECALL FLOW - CORE - THE LAYER-MISMATCH DIAGNOSIS",
+      "preview": "START / CONCEPT: CORE — The layer-mismatch diagnosis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 546
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 353.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 92.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 894,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Enforceability without capability Qualified use: Supply the counterpoint that makes a statutory-conversion recommendation credible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 913,
+      "heading": "VISUAL FIRST",
+      "preview": "ENFORCEABILITY WITHOUT CAPABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 403.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 352.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 958,
+      "heading": "CLOSING RECALL FLOW - CORE - ENFORCEABILITY WITHOUT CAPABILITY",
+      "preview": "START / CONCEPT: CORE — Enforceability without capability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 426
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 513.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 969,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Where the standard-to-remedy chain breaks - Grievance quality against disposal Qualified use: Locate the exact stage at which the architecture stops working and measure the right thing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 330.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 264.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "VISUAL FIRST",
+      "preview": "WHERE THE STANDARD-TO-REMEDY CHAIN BREAKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1037,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - WHERE THE STANDARD-TO-REMEDY CHAIN BREAKS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Where the standard-to-remedy chain breaks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 513
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1048,
+      "markdown_body_line_end": 1048,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Single-window delivery and the unchanged back end - The citizen as rights-holder rather than customer Qualified use: Test an integrated access point for real simplification and restate the citizen's standing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 319.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 253.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1070,
+      "heading": "VISUAL FIRST",
+      "preview": "SINGLE-WINDOW DELIVERY AND THE RIGHTS-HOLDER FRAME",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1116,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - SINGLE-WINDOW DELIVERY AND THE RIGHTS-HOLDER FRAME",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Single-window delivery and the rights-holder frame",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 508
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1127,
+      "markdown_body_line_end": 1127,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Public perception is produced at the counter - Stakeholder variation across the last mile - Verified question ownership and one recorded routing conflict Qualified use: Answer a legitimacy demand institutionally and record t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 262.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 181.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1152,
+      "heading": "VISUAL FIRST",
+      "preview": "PERCEPTION AT THE COUNTER AND HONEST QUESTION OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 622.691
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1188,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** Sevottam, state Right to Public Services (RTS) laws, CPGRAMS and single-window service delivery as the institutional architecture of citizen-cent",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 572.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 448.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1210,
+      "heading": "1. Visual foundation",
+      "preview": "SEVOTTAM MODEL (DARPG) — three institutional pillars of citizen-centric administration",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 426.624
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 245.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1220,
+      "markdown_body_line_end": 1227,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 366.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1334,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** A Citizens' Charter becomes citizen-centric administration only when its service promise is backed by statutory enforceability (as in RTS laws), a functioning grievance-redress channel (CPGRAMS), and genuine service-deliv",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 593.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 534.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1359,
+      "markdown_body_line_end": 1361,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for the *citizens' charters and institutional measures* clause, including the demand the 2018–2023 ledger routed to `advanced/07`, is held **in this file**. `advanced/07` is optional enrichment only.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 245.424
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 178.756
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1403,
+      "markdown_body_line_end": 1410,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 443.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 224.09
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1445,
+      "markdown_body_line_end": 1453,
+      "heading": "13.4 Evidence bank - institutions, mechanisms and limits",
+      "preview": "Anchor | What it is | Mechanism | Limitation / caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Anchor",
+          "What it is",
+          "Mechanism",
+          "Limitation / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 607.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 187.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1467,
+      "markdown_body_line_end": 1481,
+      "heading": "13.6 Causal chain - standard to remedy",
+      "preview": "STANDARD SET        consultative? measurable? outcome-expressed? officer named?",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1556,
+      "markdown_body_line_end": 1557,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 460.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 393.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1563,
+      "markdown_body_line_end": 1565,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 342.224
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 266.322
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1571,
+      "markdown_body_line_end": 1571,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 227.122
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 182.454
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1576,
+      "markdown_body_line_end": 1593,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PERCEPTION AT THE COUNTER AND HONEST QUESTION OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Perception at the counter and honest question ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 951
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 303.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2447,
+      "markdown_body_line_end": 2448,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 221.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 154.624
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2454,
+      "markdown_body_line_end": 2456,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 727.39
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2462,
+      "markdown_body_line_end": 2462,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 688.19
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 643.522
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2474,
+      "markdown_body_line_end": 2475,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 556.722
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 490.054
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2481,
+      "markdown_body_line_end": 2483,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 438.454
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 352.053
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2489,
+      "markdown_body_line_end": 2489,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 312.853
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 268.185
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2861,
+      "markdown_body_line_end": 2866,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Sevottam, state Right to Public Services (RTS) laws, CPGRAMS and single-window service delivery as the institutional architecture of citizen-centricity. **Gr",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 182.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 95.224
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2870,
+      "markdown_body_line_end": 2886,
+      "heading": "1. Architecture",
+      "preview": "VOLUNTARY LAYER                    STATUTORY LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2896,
+      "markdown_body_line_end": 2901,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 547.491
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 247.69
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3058,
+      "markdown_body_line_end": 3059,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 534.691
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 468.024
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3065,
+      "markdown_body_line_end": 3067,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 416.424
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 330.022
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3073,
+      "markdown_body_line_end": 3073,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 290.822
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 246.154
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3122,
+      "markdown_body_line_end": 3128,
+      "heading": "Citizen-Centric Administration: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 442.491
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 381.491
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3138,
+      "markdown_body_line_end": 3144,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three pillars, one architecture",
+      "preview": "CITIZENS' CHARTER -> what service, by when, at what standard, with what remedy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 701.291
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3148,
+      "markdown_body_line_end": 3153,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Promise against entitlement",
+      "preview": "CHARTER -> administrative statement adopted in India from 1997 on the United Kingdom model",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 627.491
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3157,
+      "markdown_body_line_end": 3163,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Five-element service-guarantee test",
+      "preview": "1 NOTIFIED -> an unlisted service carries no statutory timeline",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 605.491
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 543.491
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3167,
+      "markdown_body_line_end": 3172,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Two different remedies",
+      "preview": "PENALTY -> imposed on the defaulting officer; a deterrent inside the administration",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 521.491
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 469.691
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3176,
+      "markdown_body_line_end": 3181,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Grievance platform card",
+      "preview": "WHAT IT IS -> Union platform to lodge, route, track, escalate and give feedback",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 447.691
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 395.891
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3185,
+      "markdown_body_line_end": 3190,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Dated benchmarks",
+      "preview": "REDRESS BENCHMARK -> 21 days",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 373.891
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 322.091
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3194,
+      "markdown_body_line_end": 3200,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Five reasons the promise falls short",
+      "preview": "DESIGN -> non-consultative drafting and standards chosen for administrative convenience",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 300.091
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 238.091
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3204,
+      "markdown_body_line_end": 3209,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Adoption against quality",
+      "preview": "PROLIFERATION -> charters widely adopted across departments",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3213,
+      "markdown_body_line_end": 3219,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Layer mismatch",
+      "preview": "PROMISE LAYER -> relatively well built and easiest to reform",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3223,
+      "markdown_body_line_end": 3230,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Standard to remedy",
+      "preview": "STANDARD SET -> consultative, measurable, outcome-expressed, officer named",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3234,
+      "markdown_body_line_end": 3240,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Last-mile stakeholders",
+      "preview": "FRONTLINE OFFICIAL -> faces the penalty and controls intake when capability lags",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3244,
+      "markdown_body_line_end": 3249,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a charter demand",
+      "preview": "OPEN -> name the design-stage cause before any implementation cause",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    }
+  ]
+}

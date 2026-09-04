@@ -1,0 +1,2484 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "indian-art-and-culture-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Languages, Scripts, Literature and Manuscripts - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 389.624
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 160.622
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\assets\\indian-art-and-culture-11_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 517.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 210.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Classification firewall - Four major language families Qualified use: Open every language answer with the correct axis.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CLASSIFICATION FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 131,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE CLASSIFICATION FIREWALL",
+      "preview": "START / CONCEPT: FOUNDATION — The classification firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 339.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 161,
+      "heading": "VISUAL FIRST",
+      "preview": "SANSKRIT AND PRAKRIT AS COEXISTING REGISTERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 189,
+      "markdown_body_line_end": 206,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SANSKRIT AND PRAKRIT AS COEXISTING REGISTERS",
+      "preview": "START / CONCEPT: FOUNDATION — Sanskrit and Prakrit as coexisting registers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 238.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 217,
+      "markdown_body_line_end": 217,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 117.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 236,
+      "heading": "VISUAL FIRST",
+      "preview": "PALI AND THE LITERARY PRAKRITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 620.424
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 281,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PALI AND THE LITERARY PRAKRITS",
+      "preview": "START / CONCEPT: FOUNDATION — Pali and the literary Prakrits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 268.024
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 57.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 292,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are dif",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 311,
+      "heading": "VISUAL FIRST",
+      "preview": "PANINI AND THE SANSKRIT EPIGRAPHIC RECORD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 356,
+      "heading": "CLOSING RECALL FLOW - CORE - PANINI AND THE SANSKRIT EPIGRAPHIC RECORD",
+      "preview": "START / CONCEPT: CORE — Panini and the Sanskrit epigraphic record",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 286
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 367,
+      "markdown_body_line_end": 367,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 389,
+      "heading": "VISUAL FIRST",
+      "preview": "ASHOKAN SCRIPTS AND LANGUAGES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 435,
+      "heading": "CLOSING RECALL FLOW - CORE - ASHOKAN SCRIPTS AND LANGUAGES",
+      "preview": "START / CONCEPT: CORE — Ashokan scripts and languages",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 373.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 162.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 446,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Kushana coexistence Qualified use: Replace linear replacement with a coexistence model.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 461,
+      "markdown_body_line_end": 465,
+      "heading": "VISUAL FIRST",
+      "preview": "KUSHANA MULTILINGUAL COEXISTENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 474.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 433.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 510,
+      "heading": "CLOSING RECALL FLOW - CORE - KUSHANA MULTILINGUAL COEXISTENCE",
+      "preview": "START / CONCEPT: CORE — Kushana multilingual coexistence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 521,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 540,
+      "heading": "VISUAL FIRST",
+      "preview": "LAYERED VEDIC, EPIC AND PURANIC CORPORA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 568,
+      "markdown_body_line_end": 585,
+      "heading": "CLOSING RECALL FLOW - CORE - LAYERED VEDIC, EPIC AND PURANIC CORPORA",
+      "preview": "START / CONCEPT: CORE — Layered Vedic, epic and Puranic corpora",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 238.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 596,
+      "markdown_body_line_end": 596,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Buddhist and Jain textual worlds Qualified use: Compare canon, narrative and later transmission.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 131.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 79.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 611,
+      "markdown_body_line_end": 615,
+      "heading": "VISUAL FIRST",
+      "preview": "BUDDHIST AND JAIN TEXTUAL WORLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 660,
+      "heading": "CLOSING RECALL FLOW - CORE - BUDDHIST AND JAIN TEXTUAL WORLDS",
+      "preview": "START / CONCEPT: CORE — Buddhist and Jain textual worlds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 337.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 136.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 671,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 690,
+      "heading": "VISUAL FIRST",
+      "preview": "SANGAM LITERATURE AS BOUNDED EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - CORE - SANGAM LITERATURE AS BOUNDED EVIDENCE",
+      "preview": "START / CONCEPT: CORE — Sangam literature as bounded evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 765,
+      "heading": "VISUAL FIRST",
+      "preview": "CLASSICAL SANSKRIT ATTRIBUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 793,
+      "markdown_body_line_end": 810,
+      "heading": "CLOSING RECALL FLOW - CORE - CLASSICAL SANSKRIT ATTRIBUTION",
+      "preview": "START / CONCEPT: CORE — Classical Sanskrit attribution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 821,
+      "markdown_body_line_end": 821,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 840,
+      "heading": "VISUAL FIRST",
+      "preview": "PALLAVA LITERATURE AND SCRIPT CULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 868,
+      "markdown_body_line_end": 885,
+      "heading": "CLOSING RECALL FLOW - CORE - PALLAVA LITERATURE AND SCRIPT CULTURE",
+      "preview": "START / CONCEPT: CORE — Pallava literature and script culture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 896,
+      "markdown_body_line_end": 896,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Vernacular expansion - Urdu as Indian literary formation Qualified use: Connect language to audience and patronage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 918,
+      "heading": "VISUAL FIRST",
+      "preview": "VERNACULAR AND URDU LITERARY PUBLICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 947,
+      "markdown_body_line_end": 964,
+      "heading": "CLOSING RECALL FLOW - CORE - VERNACULAR AND URDU LITERARY PUBLICS",
+      "preview": "START / CONCEPT: CORE — Vernacular and Urdu literary publics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 359.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 148.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 975,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 990,
+      "markdown_body_line_end": 994,
+      "heading": "VISUAL FIRST",
+      "preview": "LANGUAGE AS STAGED HIERARCHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1039,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LANGUAGE AS STAGED HIERARCHY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Language as staged hierarchy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1050,
+      "markdown_body_line_end": 1050,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1075,
+      "heading": "VISUAL FIRST",
+      "preview": "MANUSCRIPTS AND RECOGNITION DATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1122,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MANUSCRIPTS AND RECOGNITION DATES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Manuscripts and recognition dates",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "📰 Classical languages: India has 11 after Marathi, Pali, Prakrit, Assamese and Bengali were added in October 2024 to Tamil, Sanskrit, Kannada, Telugu, Malayalam and Odia (PIB, verified 21 July 2026). ❌ This is neither Eighth Schedule nor of",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 292.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 183.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1148,
+      "markdown_body_line_end": 1155,
+      "heading": "VISUAL FIRST",
+      "preview": "VERIFIED PYQS AND FINAL LANGUAGE ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 662.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1195,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I. **Core area:** Language families and classification; Sanskrit/Prakrit registers; classical-language status; Sangam/Dravidian literature; UNESCO Memory ",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 327.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 175.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1206,
+      "markdown_body_line_end": 1213,
+      "heading": "2. Essential vocabulary",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 501.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1265,
+      "heading": "4. Foundation narrative",
+      "preview": "Corpus/tradition | Language/register | Exam-safe anchor",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Corpus/tradition",
+          "Language/register",
+          "Exam-safe anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 518.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1269,
+      "markdown_body_line_end": 1284,
+      "heading": "5. Visual map or comparison table",
+      "preview": "INDIAN LANGUAGE ECOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 345.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1286,
+      "markdown_body_line_end": 1291,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Middle Indo-Aryan register | Associated with",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Middle Indo-Aryan register",
+          "Associated with"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 345.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 224.688
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1293,
+      "markdown_body_line_end": 1297,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Script/language trap | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Script/language trap",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 224.688
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 125.287
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1398,
+      "markdown_body_line_end": 1402,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note.** This file owns the **literature half of the 2024 Pallava question** and the whole language/script/manuscript demand family, including the classical-language and Memory of the World items whose status changes over ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 471.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1415,
+      "heading": "13.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 369.024
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 74.022
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1442,
+      "markdown_body_line_end": 1446,
+      "heading": "13.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 558.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 436.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1450,
+      "markdown_body_line_end": 1457,
+      "heading": "13.4 Evidence bank A - the Pallava literature route (direct 2024 Q2 support)",
+      "preview": "Claim | ✅ Named evidence | Significance | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Claim",
+          "✅ Named evidence",
+          "Significance",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 388.39
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1466,
+      "markdown_body_line_end": 1476,
+      "heading": "13.5 Evidence bank B - corpora and their evidentiary value",
+      "preview": "Corpus | ✅ Language/register | What it evidences | Dating/attribution discipline",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Corpus",
+          "✅ Language/register",
+          "What it evidences",
+          "Dating/attribution discipline"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 323.79
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 287.39
+        }
+      },
+      "pdf_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1487,
+      "heading": "13.6 Evidence bank C - script, epigraphy and the classification firewall",
+      "preview": "Distinction | ✅ Correct statement | Common error it prevents",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Distinction",
+          "✅ Correct statement",
+          "Common error it prevents"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 411.49
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1557,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 314.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1563,
+      "markdown_body_line_end": 1565,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 262.424
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 155.022
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1571,
+      "markdown_body_line_end": 1571,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 115.822
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 71.154
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1580,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1588,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 576.222
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1594,
+      "markdown_body_line_end": 1594,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 537.022
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 492.354
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1601,
+      "markdown_body_line_end": 1603,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 492.354
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 411.487
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1609,
+      "markdown_body_line_end": 1611,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 359.887
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 273.485
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1617,
+      "markdown_body_line_end": 1617,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 234.285
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 189.617
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1622,
+      "markdown_body_line_end": 1639,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - VERIFIED PYQS AND FINAL LANGUAGE ANSWER SPINE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Verified PYQs and final language answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1307
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2560,
+      "markdown_body_line_end": 2562,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 568.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 487.224
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2568,
+      "markdown_body_line_end": 2570,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 435.624
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 328.222
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2576,
+      "markdown_body_line_end": 2576,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 289.022
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 244.354
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2583,
+      "markdown_body_line_end": 2585,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 244.354
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 149.287
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2591,
+      "markdown_body_line_end": 2593,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 716.89
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2599,
+      "markdown_body_line_end": 2599,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 677.69
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 633.022
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2606,
+      "markdown_body_line_end": 2608,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 633.022
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 552.154
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2614,
+      "markdown_body_line_end": 2616,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 500.554
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 414.153
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2622,
+      "markdown_body_line_end": 2622,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 374.953
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 330.285
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2860,
+      "markdown_body_line_end": 2871,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I. **Core area:** Language politics and register; manuscript ecology and textual criticism; inscription-versus-manuscript evidentiary distinction; cultural circulatio",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 670.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 554.424
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2891,
+      "markdown_body_line_end": 2896,
+      "heading": "2. Advanced vocabulary",
+      "preview": "Term | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 396.824
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 74.622
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2900,
+      "markdown_body_line_end": 2906,
+      "heading": "3. Comparative framework",
+      "preview": "Text/entry | Register/type | Inscription year | Composition-era vs. inscription-year gap",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Text/entry",
+          "Register/type",
+          "Inscription year",
+          "Composition-era vs. inscription-year gap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 597.89
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2945,
+      "markdown_body_line_end": 2955,
+      "heading": "5. Visual synthesis table",
+      "preview": "TEXT'S ACTUAL COMPOSITION DATE (ancient/medieval/colonial)",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 274.09
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 173.09
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3059,
+      "markdown_body_line_end": 3070,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Classification firewall",
+      "preview": "FAMILY -> genealogical relationship",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 513.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 400.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3074,
+      "markdown_body_line_end": 3079,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Register coexistence",
+      "preview": "SANSKRIT -> codified learned register",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 326.291
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3083,
+      "markdown_body_line_end": 3088,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Script geography",
+      "preview": "BRAHMI -> widespread ancestral script",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 304.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 252.491
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3092,
+      "markdown_body_line_end": 3097,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Epigraphic chronology",
+      "preview": "PANINI -> grammatical system",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3101,
+      "markdown_body_line_end": 3106,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Text-layer ladder",
+      "preview": "ORAL FORMATION -> earliest layer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3110,
+      "markdown_body_line_end": 3115,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Corpus evidence matrix",
+      "preview": "VEDIC -> ritual and cosmology",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3119,
+      "markdown_body_line_end": 3124,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Pallava literature route",
+      "preview": "KANCHIPURAM -> patronage centre",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3128,
+      "markdown_body_line_end": 3133,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Vernacular expansion",
+      "preview": "BHAKTI / COURT / TRANSLATION -> new production",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3137,
+      "markdown_body_line_end": 3142,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Stage-language hierarchy",
+      "preview": "HIGH-STATUS CHARACTERS -> Sanskrit convention",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3146,
+      "markdown_body_line_end": 3157,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Documentary heritage range",
+      "preview": "RELIGIOUS -> Rigveda and Gita manuscripts",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 231.491
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3161,
+      "markdown_body_line_end": 3172,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Survey-to-safeguarding",
+      "preview": "IDENTIFY -> locate custodians and repositories",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3176,
+      "markdown_body_line_end": 3181,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Language answer spine",
+      "preview": "DEFINE -> state the classification axis",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    }
+  ]
+}

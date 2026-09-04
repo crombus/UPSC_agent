@@ -1,0 +1,1114 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-27",
+  "subject": "Geography",
+  "title": "MIGRATION THEORIES AND PATTERNS (INDIA)",
+  "short_route": "MIGRATION CONCEPT FIREWALL → PUSH-PULL-OBSTACLE MODEL → RAVENSTEIN LAW STRIP → DISTANCE-DECAY AND STEP MIGRATION → MIGRATION STREAM MATRIX → SOURCE-DESTINATION BALANCE SHEET",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g4 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-27\\geography-27_Complete-Learning-Session_2026-08-22.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-27-2026-09-01-sequential-g3.json",
+  "ascii_spec_sha256": "5964c8c733a3fcfbf85d3cbfb538661e1b466dc155783896b94a872edf3b29aa",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MIGRATION CONCEPT FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MIGRATION CONCEPT FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CHANGE IN USUAL RESIDENCE ACROSS A MEANINGFUL BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVEMENT INTO A COUNTRY OR RECEIVING REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "MOVEMENT OUT OF A COUNTRY OR SENDING REGION",
+          "role": "evidence"
+        },
+        {
+          "text": "DATA RULE",
+          "role": "primary"
+        },
+        {
+          "text": "PLACE OF BIRTH AND LAST USUAL RESIDENCE ANSWER DIFFERENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MIGRATION → change in usual residence across a meaningful boundary",
+        "IMMIGRATION → movement into a country or receiving region",
+        "EMIGRATION → movement out of a country or sending region",
+        "DATA RULE → place of birth and last usual residence answer different questions"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "MIGRATION → change in usual residence across a meaningful boundary",
+          "EMIGRATION → movement out of a country or sending region",
+          "MIGRATION → change in usual residence across a meaningful boundary"
+        ],
+        [
+          "IMMIGRATION → movement into a country or receiving region",
+          "DATA RULE → place of birth and last usual residence answer different questions",
+          "IMMIGRATION → movement into a country or receiving region"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "MIGRATION → change in usual residence across a meaningful boundary",
+            "IMMIGRATION → movement into a country or receiving region"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EMIGRATION → movement out of a country or sending region",
+            "DATA RULE → place of birth and last usual residence answer different questions"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "MIGRATION → change in usual residence across a meaningful boundary",
+            "IMMIGRATION → movement into a country or receiving region"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DATA RULE → place of birth and last usual residence answer different questions.",
+      "source_references": [
+        "Migration definition"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PUSH-PULL-OBSTACLE MODEL",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PUSH-PULL-OBSTACLE MODEL",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGIN PUSH",
+          "role": "outcome"
+        },
+        {
+          "text": "JOB LOSS, CONFLICT, DEBT, DISASTER, SOCIAL PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DESTINATION PULL",
+          "role": "evidence"
+        },
+        {
+          "text": "WAGES, SAFETY, EDUCATION, AMENITIES, NETWORKS",
+          "role": "primary"
+        },
+        {
+          "text": "INTERVENING OBSTACLES",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTANCE, COST, BORDERS, INFORMATION GAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "AGE, GENDER, CLASS AND SKILLS SHAPE WHO ACTUALLY MOVES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ORIGIN PUSH → job loss, conflict, debt, disaster, social pressure",
+        "DESTINATION PULL → wages, safety, education, amenities, networks",
+        "INTERVENING OBSTACLES → distance, cost, borders, information gaps",
+        "SELECTIVITY → age, gender, class and skills shape who actually moves"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ORIGIN PUSH → job loss, conflict, debt, disaster, social pressure",
+            "DESTINATION PULL → wages, safety, education, amenities, networks"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTERVENING OBSTACLES → distance, cost, borders, information gaps",
+            "SELECTIVITY → age, gender, class and skills shape who actually moves"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ORIGIN PUSH → job loss, conflict, debt, disaster, social pressure",
+            "DESTINATION PULL → wages, safety, education, amenities, networks"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SELECTIVITY → age, gender, class and skills shape who actually moves.",
+      "source_references": [
+        "Push-pull logic",
+        "Lee framework"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RAVENSTEIN LAW STRIP",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RAVENSTEIN LAW STRIP",
+          "role": "primary"
+        },
+        {
+          "text": "MOST MOVES",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORT DISTANCE RATHER THAN VERY LONG DISTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP MIGRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "VILLAGE TO TOWN TO CITY TO METROPOLIS",
+          "role": "primary"
+        },
+        {
+          "text": "EACH MAJOR FLOW GENERATES SOME REVERSE MOVEMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "USE AS AN ANALYTICAL GUIDE, NOT AS AN ABSOLUTE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MOST MOVES → short distance rather than very long distance",
+        "STEP MIGRATION → village to town to city to metropolis",
+        "COUNTER-STREAM → each major flow generates some reverse movement",
+        "LIMIT → use as an analytical guide, not as an absolute rule"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "MOST MOVES → short distance rather than very long distance",
+            "STEP MIGRATION → village to town to city to metropolis"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COUNTER-STREAM → each major flow generates some reverse movement",
+            "LIMIT → use as an analytical guide, not as an absolute rule"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "MOST MOVES → short distance rather than very long distance",
+            "STEP MIGRATION → village to town to city to metropolis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → use as an analytical guide, not as an absolute rule.",
+      "source_references": [
+        "Ravenstein laws",
+        "Step migration chain"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DISTANCE-DECAY AND STEP MIGRATION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DISTANCE-DECAY AND STEP MIGRATION",
+          "role": "primary"
+        },
+        {
+          "text": "DISTANCE RISES",
+          "role": "outcome"
+        },
+        {
+          "text": "COST, UNCERTAINTY AND SOCIAL RISK RISE",
+          "role": "caution"
+        },
+        {
+          "text": "OPPORTUNITY NODES",
+          "role": "evidence"
+        },
+        {
+          "text": "NEARER TOWNS INTERCEPT PART OF THE FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "REDUCE COST AND KEEP CORRIDORS ALIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "MANY MIGRANTS MOVE IN STAGES RATHER THAN ONE LEAP",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DISTANCE RISES → cost, uncertainty and social risk rise",
+        "OPPORTUNITY NODES → nearer towns intercept part of the flow",
+        "NETWORKS → reduce cost and keep corridors alive",
+        "RESULT → many migrants move in stages rather than one leap"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DISTANCE RISES → cost, uncertainty and social risk rise",
+            "OPPORTUNITY NODES → nearer towns intercept part of the flow"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NETWORKS → reduce cost and keep corridors alive",
+            "RESULT → many migrants move in stages rather than one leap"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DISTANCE RISES → cost, uncertainty and social risk rise",
+            "OPPORTUNITY NODES → nearer towns intercept part of the flow"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → many migrants move in stages rather than one leap.",
+      "source_references": [
+        "Distance-decay principle",
+        "Step migration chain"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MIGRATION STREAM MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MIGRATION STREAM MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MARRIAGE, LOCAL FARM LABOUR, NEARBY RELOCATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LABOUR, SERVICES, EDUCATION, CONSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROFESSIONAL, BUSINESS AND HIGHER-EDUCATION MOBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "RETURN MIGRATION, RETIREMENT OR PERI-URBAN SPILLOVER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RURAL-RURAL → marriage, local farm labour, nearby relocation",
+        "RURAL-URBAN → labour, services, education, construction",
+        "URBAN-URBAN → professional, business and higher-education mobility",
+        "URBAN-RURAL → return migration, retirement or peri-urban spillover"
+      ],
+      "matrix": [
+        [
+          "CLASSIFICATION",
+          "DIAGNOSTIC BASIS",
+          "PROCESS LINK",
+          "EXAM TRAP"
+        ],
+        [
+          "RURAL-RURAL → marriage, local farm labour, nearby relocation",
+          "URBAN-URBAN → professional, business and higher-education mobility",
+          "RURAL-RURAL → marriage, local farm labour, nearby relocation",
+          "URBAN-URBAN → professional, business and higher-education mobility"
+        ],
+        [
+          "RURAL-URBAN → labour, services, education, construction",
+          "URBAN-RURAL → return migration, retirement or peri-urban spillover",
+          "RURAL-URBAN → labour, services, education, construction",
+          "URBAN-RURAL → return migration, retirement or peri-urban spillover"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "RURAL-RURAL → marriage, local farm labour, nearby relocation",
+            "RURAL-URBAN → labour, services, education, construction"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "URBAN-URBAN → professional, business and higher-education mobility",
+            "URBAN-RURAL → return migration, retirement or peri-urban spillover"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "RURAL-RURAL → marriage, local farm labour, nearby relocation",
+            "RURAL-URBAN → labour, services, education, construction"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "URBAN-URBAN → professional, business and higher-education mobility",
+            "URBAN-RURAL → return migration, retirement or peri-urban spillover"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "URBAN-RURAL → return migration, retirement or peri-urban spillover.",
+      "source_references": [
+        "Stream classification",
+        "Rural-rural dominance",
+        "Rural-urban urbanisation link"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SOURCE-DESTINATION BALANCE SHEET",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOURCE-DESTINATION BALANCE SHEET",
+          "role": "evidence"
+        },
+        {
+          "text": "REDUCED PRESSURE, REMITTANCES, BUT LOSS OF YOUNG WORKERS",
+          "role": "outcome"
+        },
+        {
+          "text": "LABOUR GAIN, MARKET EXPANSION, BUT SERVICE PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "AGE-SEX EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTIVE MIGRATION ALTERS BOTH ENDS DIFFERENTLY",
+          "role": "primary"
+        },
+        {
+          "text": "MIGRATION REDISTRIBUTES BOTH OPPORTUNITY AND VULNERABILITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SOURCE → reduced pressure, remittances, but loss of young workers",
+        "DESTINATION → labour gain, market expansion, but service pressure",
+        "AGE-SEX EFFECT → selective migration alters both ends differently",
+        "VERDICT → migration redistributes both opportunity and vulnerability"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "SOURCE → reduced pressure, remittances, but loss of young workers",
+          "AGE-SEX EFFECT → selective migration alters both ends differently",
+          "SOURCE → reduced pressure, remittances, but loss of young workers"
+        ],
+        [
+          "DESTINATION → labour gain, market expansion, but service pressure",
+          "VERDICT → migration redistributes both opportunity and vulnerability",
+          "DESTINATION → labour gain, market expansion, but service pressure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SOURCE → reduced pressure, remittances, but loss of young workers",
+            "DESTINATION → labour gain, market expansion, but service pressure"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AGE-SEX EFFECT → selective migration alters both ends differently",
+            "VERDICT → migration redistributes both opportunity and vulnerability"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SOURCE → reduced pressure, remittances, but loss of young workers",
+            "DESTINATION → labour gain, market expansion, but service pressure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → migration redistributes both opportunity and vulnerability.",
+      "source_references": [
+        "Source-destination effects",
+        "Remittance and labour restructuring"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA OFFICIAL SNAPSHOT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA OFFICIAL SNAPSHOT",
+          "role": "primary"
+        },
+        {
+          "text": "ALL-INDIA RATE",
+          "role": "outcome"
+        },
+        {
+          "text": "28.9% IN MOSPI MIGRATION IN INDIA 2020-21",
+          "role": "comparison"
+        },
+        {
+          "text": "RURAL RATE",
+          "role": "evidence"
+        },
+        {
+          "text": "URBAN RATE",
+          "role": "primary"
+        },
+        {
+          "text": "LABEL THE SOURCE-YEAR BEFORE USING ANY PERCENTAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ALL-INDIA RATE → 28.9% in MoSPI Migration in India 2020-21",
+        "RURAL RATE → 26.5%",
+        "URBAN RATE → 34.9%",
+        "INTRASTATE → 87.5%",
+        "INTERSTATE → 12.5%"
+      ],
+      "matrix": [
+        [
+          "RURAL RATE → 26.5%",
+          "URBAN RATE → 34.9%"
+        ],
+        [
+          "INTRASTATE → 87.5%",
+          "INTERSTATE → 12.5%"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ALL-INDIA RATE → 28.9% in MoSPI Migration in India 2020-21",
+            "RURAL RATE → 26.5%"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "URBAN RATE → 34.9%",
+            "INTRASTATE → 87.5%"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "INTERSTATE → 12.5%",
+            "RULE → label the source-year before using any percentage"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "ALL-INDIA RATE → 28.9% in MoSPI Migration in India 2020-21",
+            "RURAL RATE → 26.5%"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → label the source-year before using any percentage.",
+      "source_references": [
+        "MoSPI all-India migration rate",
+        "Rural and urban migration rates",
+        "Intrastate versus interstate"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MARRIAGE MIGRATION DOMINANCE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MARRIAGE MIGRATION DOMINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "FEMALE MIGRANTS DUE TO MARRIAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "86.8% IN MOSPI 2020-21",
+          "role": "comparison"
+        },
+        {
+          "text": "ANALYTICAL RESULT",
+          "role": "evidence"
+        },
+        {
+          "text": "RAW MIGRATION TOTALS ARE NOT EQUAL TO LABOUR MIGRATION",
+          "role": "caution"
+        },
+        {
+          "text": "RURAL-RURAL STREAM",
+          "role": "outcome"
+        },
+        {
+          "text": "REMAINS LARGE BECAUSE MARRIAGE MOBILITY IS LARGE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FEMALE MIGRANTS DUE TO MARRIAGE → 86.8% in MoSPI 2020-21",
+        "ANALYTICAL RESULT → raw migration totals are not equal to labour migration",
+        "RURAL-RURAL STREAM → remains large because marriage mobility is large",
+        "EXAM USE → separate social migration from labour migration explicitly"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "FEMALE MIGRANTS DUE TO MARRIAGE → 86.8% in MoSPI 2020-21",
+          "RURAL-RURAL STREAM → remains large because marriage mobility is large",
+          "FEMALE MIGRANTS DUE TO MARRIAGE → 86.8% in MoSPI 2020-21"
+        ],
+        [
+          "ANALYTICAL RESULT → raw migration totals are not equal to labour migration",
+          "EXAM USE → separate social migration from labour migration explicitly",
+          "ANALYTICAL RESULT → raw migration totals are not equal to labour migration"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "FEMALE MIGRANTS DUE TO MARRIAGE → 86.8% in MoSPI 2020-21",
+            "ANALYTICAL RESULT → raw migration totals are not equal to labour migration"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RURAL-RURAL STREAM → remains large because marriage mobility is large",
+            "EXAM USE → separate social migration from labour migration explicitly"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "FEMALE MIGRANTS DUE TO MARRIAGE → 86.8% in MoSPI 2020-21",
+            "ANALYTICAL RESULT → raw migration totals are not equal to labour migration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYTICAL RESULT → raw migration totals are not equal to labour migration.",
+      "source_references": [
+        "Marriage migration dominance",
+        "Rural-rural dominance"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIA CORRIDOR MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA CORRIDOR MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SENDING BELTS",
+          "role": "outcome"
+        },
+        {
+          "text": "BIHAR, UTTAR PRADESH, ODISHA AND EAST-CENTRAL REGIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "GAINER ZONES",
+          "role": "evidence"
+        },
+        {
+          "text": "MAHARASHTRA, GUJARAT, DELHI, HARYANA AND PUNJAB",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT LOGIC",
+          "role": "outcome"
+        },
+        {
+          "text": "LABOUR MOVES TOWARD INDUSTRIAL, FARM AND SERVICE CORRIDORS",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SAME CORRIDOR MAY MIX OPPORTUNITY AND DISTRESS MIGRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SENDING BELTS → Bihar, Uttar Pradesh, Odisha and east-central regions",
+        "GAINER ZONES → Maharashtra, Gujarat, Delhi, Haryana and Punjab",
+        "CURRENT LOGIC → labour moves toward industrial, farm and service corridors",
+        "QUALIFIER → the same corridor may mix opportunity and distress migration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SENDING BELTS → Bihar, Uttar Pradesh, Odisha and east-central regions",
+            "GAINER ZONES → Maharashtra, Gujarat, Delhi, Haryana and Punjab"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CURRENT LOGIC → labour moves toward industrial, farm and service corridors",
+            "QUALIFIER → the same corridor may mix opportunity and distress migration"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "SENDING BELTS → Bihar, Uttar Pradesh, Odisha and east-central regions",
+            "GAINER ZONES → Maharashtra, Gujarat, Delhi, Haryana and Punjab"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "CURRENT LOGIC → labour moves toward industrial, farm and service corridors",
+            "QUALIFIER → the same corridor may mix opportunity and distress migration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFIER → the same corridor may mix opportunity and distress migration.",
+      "source_references": [
+        "Net gainers and senders",
+        "Corridor logic"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CIRCULAR MIGRATION AND UNDERCOUNT",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CIRCULAR MIGRATION AND UNDERCOUNT",
+          "role": "primary"
+        },
+        {
+          "text": "SEASONAL MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "BRICK KILNS, HARVESTING, CONSTRUCTION, INFORMAL WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "USUAL-RESIDENCE DATA",
+          "role": "evidence"
+        },
+        {
+          "text": "CAN MISS REPEATED SHORT-DURATION MOBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "POLICY EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "PORTABILITY OF WELFARE BECOMES A MAJOR ISSUE",
+          "role": "comparison"
+        },
+        {
+          "text": "CITY EFFECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEASONAL MOVEMENT → brick kilns, harvesting, construction, informal work",
+        "USUAL-RESIDENCE DATA → can miss repeated short-duration mobility",
+        "POLICY EFFECT → portability of welfare becomes a major issue",
+        "CITY EFFECT → rental insecurity and service pressure stay concentrated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SEASONAL MOVEMENT → brick kilns, harvesting, construction, informal work",
+            "USUAL-RESIDENCE DATA → can miss repeated short-duration mobility"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLICY EFFECT → portability of welfare becomes a major issue",
+            "CITY EFFECT → rental insecurity and service pressure stay concentrated"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SEASONAL MOVEMENT → brick kilns, harvesting, construction, informal work",
+            "USUAL-RESIDENCE DATA → can miss repeated short-duration mobility"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CITY EFFECT → rental insecurity and service pressure stay concentrated.",
+      "source_references": [
+        "Circular and seasonal migration",
+        "Circular undercount and urban stress"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LARGE-CITY ATTRACTION LOGIC",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LARGE-CITY ATTRACTION LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "DIVERSE JOB SET",
+          "role": "outcome"
+        },
+        {
+          "text": "BIG CITIES OFFER MULTIPLE LABOUR-MARKET ENTRY POINTS",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLIER MIGRANTS LOWER COST AND RISK FOR LATER MIGRANTS",
+          "role": "caution"
+        },
+        {
+          "text": "TRANSPORT + SERVICES",
+          "role": "primary"
+        },
+        {
+          "text": "LARGE NODES COMPRESS SEARCH COSTS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOME NEARER TOWNS INTERCEPT FLOWS AS OPPORTUNITIES EXPAND",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DIVERSE JOB SET → big cities offer multiple labour-market entry points",
+        "NETWORKS → earlier migrants lower cost and risk for later migrants",
+        "TRANSPORT + SERVICES → large nodes compress search costs",
+        "COUNTERPOINT → some nearer towns intercept flows as opportunities expand"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DIVERSE JOB SET → big cities offer multiple labour-market entry points",
+            "NETWORKS → earlier migrants lower cost and risk for later migrants"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSPORT + SERVICES → large nodes compress search costs",
+            "COUNTERPOINT → some nearer towns intercept flows as opportunities expand"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DIVERSE JOB SET → big cities offer multiple labour-market entry points",
+            "NETWORKS → earlier migrants lower cost and risk for later migrants"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COUNTERPOINT → some nearer towns intercept flows as opportunities expand.",
+      "source_references": [
+        "Rural-urban urbanisation link",
+        "Corridor logic",
+        "Circular undercount and urban stress"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MIGRATION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MIGRATION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "RESIDENCE RULE, STREAM TYPE AND WHETHER MIGRATION IS INTERNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "PUSH, PULL, OBSTACLES, DISTANCE-DECAY AND STEP MIGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MARRIAGE-HEAVY RURAL-RURAL AND LABOUR-HEAVY CORRIDOR MOVEMENTS IN INDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "INTRASTATE DOMINANCE, REMITTANCES, UNDERCOUNT AND VERIFIED PYQ ROUTING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → residence rule, stream type and whether migration is internal or international",
+        "EXPLAIN → push, pull, obstacles, distance-decay and step migration",
+        "MAP → marriage-heavy rural-rural and labour-heavy corridor movements in India",
+        "QUALIFY → intrastate dominance, remittances, undercount and verified PYQ routing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE → residence rule, stream type and whether migration is internal or international",
+            "EXPLAIN → push, pull, obstacles, distance-decay and step migration"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAP → marriage-heavy rural-rural and labour-heavy corridor movements in India",
+            "QUALIFY → intrastate dominance, remittances, undercount and verified PYQ routing"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE → residence rule, stream type and whether migration is internal or international",
+            "EXPLAIN → push, pull, obstacles, distance-decay and step migration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEFINE → residence rule, stream type and whether migration is internal or international.",
+      "source_references": [
+        "Migration definition",
+        "Intrastate versus interstate",
+        "Remittance and labour restructuring"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "TODAY THE BROAD LOGIC STILL SURVIVES IN UPDATED FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTRUCTION, SERVICE AND METROPOLITAN CORRIDORS ATTRACT LABOUR FROM LOWER-INCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "DELHI NCR, THE MUMBAI-PUNE BELT, GUJARAT'S INDUSTRIAL CORRIDOR, PUNJAB-HARYANA",
+          "role": "evidence"
+        },
+        {
+          "text": "AND LOGISTICS ZONES, AND BENGALURU-LED SERVICE REGIONS REMAIN HIGH-ATTRACTION",
+          "role": "primary"
+        },
+        {
+          "text": "MIGRATION IN INDIA IS THEREFORE BOTH DEVELOPMENT-SEEKING AND DISTRESS-DRIVEN",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SAME CORRIDOR CAN CONTAIN BOTH ASPIRATION AND DISTRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE WORKER MAY MIGRATE FOR SKILL-LED MOBILITY, ANOTHER FOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "CAUTION: Today the broad logic still survives in updated form: industrial,",
+            "construction, service and metropolitan corridors attract labour from lower-income agrarian regions.",
+            "CAUTION: Delhi NCR, the Mumbai-Pune belt, Gujarat's industrial corridor, Punjab-Haryana farm",
+            "and logistics zones, and Bengaluru-led service regions remain high-attraction spaces."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Migration in India is therefore both development-seeking and distress-driven .",
+            "CAUTION: The same corridor can contain both aspiration and distress: one worker may migrate for skill-led mobility, another for survival.",
+            "CAUTION: Rural-urban migration is not automatically a sign of successful structural transformation if urban jobs remain informal and insecure.",
+            "CAUTION: Pandemic-era reverse migration made seasonal and circular labour mobility far more visible in policy debate."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "MoSPI / NSS / PLFS-based report: latest official migration survey snapshot.",
+            "Census of India: long-run migration concepts, place-of-birth and last-residence tables.",
+            "CAUTION: For answer quality, always distinguish census concept, survey concept and temporary/circular movement.",
+            "Most migrants in India are intrastate, not interstate."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

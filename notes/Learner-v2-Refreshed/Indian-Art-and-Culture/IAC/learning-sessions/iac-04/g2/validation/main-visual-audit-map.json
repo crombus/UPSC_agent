@@ -1,0 +1,2147 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "indian-art-and-culture-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Indo-Islamic and Regional Architecture - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 403.824
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 62.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\assets\\indian-art-and-culture-04_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 141.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Trabeate and arcuate systems is the source-bounded relationship among Trabeate and arcuate and Lime mortar and wide spans within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "TRABEATE AND ARCUATE SYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 136,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TRABEATE AND ARCUATE SYSTEMS",
+      "preview": "START / CONCEPT: FOUNDATION — Trabeate and arcuate systems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 147,
+      "markdown_body_line_end": 147,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: One hybrid building industry is the source-bounded relationship among and Hybrid construction industry within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 403.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 336.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 162,
+      "markdown_body_line_end": 166,
+      "heading": "VISUAL FIRST",
+      "preview": "ONE HYBRID BUILDING INDUSTRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ONE HYBRID BUILDING INDUSTRY",
+      "preview": "START / CONCEPT: FOUNDATION — One hybrid building industry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The ornamental grammar is the source-bounded relationship among and Ornamental vocabulary within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 246,
+      "heading": "VISUAL FIRST",
+      "preview": "THE ORNAMENTAL GRAMMAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 296,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE ORNAMENTAL GRAMMAR",
+      "preview": "START / CONCEPT: FOUNDATION — The ornamental grammar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 307,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Imperial and provincial classification is the source-bounded relationship among and Imperial and provincial Sultanate within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 326,
+      "heading": "VISUAL FIRST",
+      "preview": "IMPERIAL AND PROVINCIAL CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 376,
+      "heading": "CLOSING RECALL FLOW - CORE - IMPERIAL AND PROVINCIAL CLASSIFICATION",
+      "preview": "START / CONCEPT: CORE — Imperial and provincial classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 150.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 387,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Qutb complex as accretion and reuse is the source-bounded relationship among Qutb Minar accretion and Quwwat-ul-Islam spolia within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 409,
+      "heading": "VISUAL FIRST",
+      "preview": "QUTB COMPLEX AS ACCRETION AND REUSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 443,
+      "markdown_body_line_end": 460,
+      "heading": "CLOSING RECALL FLOW - CORE - QUTB COMPLEX AS ACCRETION AND REUSE",
+      "preview": "START / CONCEPT: CORE — Qutb complex as accretion and reuse",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 471,
+      "markdown_body_line_end": 471,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Why the double dome matters is the source-bounded relationship among and Double-dome development within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 379.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 312.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 490,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY THE DOUBLE DOME MATTERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 523,
+      "markdown_body_line_end": 540,
+      "heading": "CLOSING RECALL FLOW - CORE - WHY THE DOUBLE DOME MATTERS",
+      "preview": "START / CONCEPT: CORE — Why the double dome matters",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 170.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 551,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Bengal and Jaunpur is the source-bounded relationship among and Bengal and Jaunpur within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 570,
+      "heading": "VISUAL FIRST",
+      "preview": "BENGAL AND JAUNPUR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 620,
+      "heading": "CLOSING RECALL FLOW - CORE - BENGAL AND JAUNPUR",
+      "preview": "START / CONCEPT: CORE — Bengal and Jaunpur",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 631,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Malwa and Bijapur is the source-bounded relationship among and Malwa and Bijapur within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 650,
+      "heading": "VISUAL FIRST",
+      "preview": "MALWA AND BIJAPUR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 700,
+      "heading": "CLOSING RECALL FLOW - CORE - MALWA AND BIJAPUR",
+      "preview": "START / CONCEPT: CORE — Malwa and Bijapur",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 711,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Akbar's architectural phase is the source-bounded relationship among Akbar's sandstone phase and Ibadat Khana boundary within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 733,
+      "heading": "VISUAL FIRST",
+      "preview": "AKBAR'S ARCHITECTURAL PHASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 784,
+      "heading": "CLOSING RECALL FLOW - CORE - AKBAR'S ARCHITECTURAL PHASE",
+      "preview": "START / CONCEPT: CORE — Akbar's architectural phase",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 489.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 795,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Marble transition is the source-bounded relationship among and Marble and pietra dura within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 383.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 316.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 814,
+      "heading": "VISUAL FIRST",
+      "preview": "MARBLE TRANSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 864,
+      "heading": "CLOSING RECALL FLOW - CORE - MARBLE TRANSITION",
+      "preview": "START / CONCEPT: CORE — Marble transition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 170.491
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 875,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Taj authorship and workshops is the source-bounded relationship among and Taj workshop authorship within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 890,
+      "markdown_body_line_end": 894,
+      "heading": "VISUAL FIRST",
+      "preview": "TAJ AUTHORSHIP AND WORKSHOPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 944,
+      "heading": "CLOSING RECALL FLOW - CORE - TAJ AUTHORSHIP AND WORKSHOPS",
+      "preview": "START / CONCEPT: CORE — Taj authorship and workshops",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 955,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Aurangzeb and survival is the source-bounded relationship among and Aurangzeb and continuity within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 974,
+      "heading": "VISUAL FIRST",
+      "preview": "AURANGZEB AND SURVIVAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1024,
+      "heading": "CLOSING RECALL FLOW - CORE - AURANGZEB AND SURVIVAL",
+      "preview": "START / CONCEPT: CORE — Aurangzeb and survival",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 170.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1035,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Rajput, Sikh and Awadh adaptations is the source-bounded relationship among Rajput, Sikh and Awadh and Material as chronology within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1050,
+      "markdown_body_line_end": 1057,
+      "heading": "VISUAL FIRST",
+      "preview": "RAJPUT, SIKH AND AWADH ADAPTATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1108,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RAJPUT, SIKH AND AWADH ADAPTATIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Rajput, Sikh and Awadh adaptations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1119,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Terminology and routed-PYQ correction is the source-bounded relationship among Two Indo-Saracenic usages and PYQ ownership correction within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 325.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 259.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1141,
+      "heading": "VISUAL FIRST",
+      "preview": "TERMINOLOGY AND ROUTED-PYQ CORRECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1192,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - TERMINOLOGY AND ROUTED-PYQ CORRECTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Terminology and routed-PYQ correction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 74.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1203,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Maratha comparison and answer spine is the source-bounded relationship among Official Maratha-forts linkage and Hybrid construction industry within Indo-Islamic and Regional Architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 504.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 437.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1218,
+      "markdown_body_line_end": 1225,
+      "heading": "VISUAL FIRST",
+      "preview": "MARATHA COMPARISON AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1269,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I. **Core area:** Trabeate/arcuate distinction; arches, domes, minars, jaali, arabesque, charbagh, pietra dura; Delhi Sultanate (imperial/provincial), Mug",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 327.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 190.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1282,
+      "markdown_body_line_end": 1290,
+      "heading": "2. Essential vocabulary",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 491.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1359,
+      "markdown_body_line_end": 1375,
+      "heading": "5. Visual map or comparison table",
+      "preview": "TRABEATE (pre-Islamic default: lintel-and-beam)",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 671.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 510.891
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1377,
+      "markdown_body_line_end": 1381,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Basis | Trabeate emphasis | Arcuate emphasis",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Basis",
+          "Trabeate emphasis",
+          "Arcuate emphasis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 510.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 422.69
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1474,
+      "markdown_body_line_end": 1478,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note.** This topic has no direct 2024-2025 Mains question, but it owns a permanently live demand family — synthesis, technology transfer, regional adaptation, material chronology and the \"Hindu versus Muslim style\" trap. ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1482,
+      "markdown_body_line_end": 1491,
+      "heading": "13.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 706.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 377.822
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1520,
+      "markdown_body_line_end": 1524,
+      "heading": "13.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 654.29
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1528,
+      "markdown_body_line_end": 1535,
+      "heading": "13.4 Evidence bank A - technology and structural change",
+      "preview": "Element | ✅ Named evidence | Significance | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Element",
+          "✅ Named evidence",
+          "Significance",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 632.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 212.388
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1539,
+      "markdown_body_line_end": 1547,
+      "heading": "13.5 Evidence bank B - provincial adaptation (the regional-variation family)",
+      "preview": "School | ✅ Distinguishing device | Driver | Named example",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "School",
+          "✅ Distinguishing device",
+          "Driver",
+          "Named example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 546.39
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1562,
+      "heading": "13.6 Evidence bank C - Mughal chronology with material as the marker",
+      "preview": "Reign | ✅ Evidence | Analytical point",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Reign",
+          "✅ Evidence",
+          "Analytical point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 495.99
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 164.988
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1566,
+      "markdown_body_line_end": 1580,
+      "heading": "13.7 The synthesis argument, stated as a mechanism",
+      "preview": "IMPORTED STRUCTURAL KNOWLEDGE (arch, vault, dome, lime mortar)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1623,
+      "markdown_body_line_end": 1628,
+      "heading": "13.10 Routing correction - the CSE 2019 \"Kalyana Mandapas\" demand is not owned here",
+      "preview": "**Recorded correction (corrective pass, 2026-08-13).** The generated `Historical PYQ Integration (2018-2023)` block below routes the **CSE 2019 \"Kalyaana Mandapas\"** demand to this file. That block is produced mechanically from `_PYQ-ROUTIN",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 168.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 73.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1656,
+      "markdown_body_line_end": 1658,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 567.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 486.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1664,
+      "markdown_body_line_end": 1667,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 317.622
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1674,
+      "markdown_body_line_end": 1674,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 261.222
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 216.554
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1679,
+      "markdown_body_line_end": 1696,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MARATHA COMPARISON AND ANSWER SPINE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Maratha comparison and answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1360
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2618,
+      "markdown_body_line_end": 2620,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 339.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 258.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2626,
+      "markdown_body_line_end": 2629,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 206.824
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 89.422
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2636,
+      "markdown_body_line_end": 2636,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2890,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I. **Core area:** Regional adaptation and technology transfer; reuse/spolia questions; patronage and Indo-Persian synthesis without essentialism; material as a databl",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 256.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 141.024
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2909,
+      "markdown_body_line_end": 2914,
+      "heading": "2. Advanced vocabulary",
+      "preview": "Term | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 665.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 366.09
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2918,
+      "markdown_body_line_end": 2923,
+      "heading": "3. Comparative framework",
+      "preview": "Dimension | Delhi Sultanate imperial style | Provincial schools | Mughal architecture | Regional (Rajput/Sikh/Awadh)",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Delhi Sultanate imperial style",
+          "Provincial schools",
+          "Mughal architecture",
+          "Regional (Rajput/Sikh/Awadh)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 344.09
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 133.188
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2955,
+      "markdown_body_line_end": 2971,
+      "heading": "5. Visual synthesis table",
+      "preview": "PERSIAN/CENTRAL ASIAN VOCABULARY        LOCAL PRACTICE/MATERIAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 556.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 395.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3085,
+      "markdown_body_line_end": 3093,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Structural transition",
+      "preview": "TRABEATE -> post and lintel",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 625.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 542.891
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3097,
+      "markdown_body_line_end": 3102,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Synthesis mechanism",
+      "preview": "ARCUATE KNOWLEDGE -> new structural range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 520.891
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 469.091
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3106,
+      "markdown_body_line_end": 3111,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Ornament identification",
+      "preview": "JAALI -> perforated light screen",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 447.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 395.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3115,
+      "markdown_body_line_end": 3120,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Sultanate classification",
+      "preview": "IMPERIAL -> Slave, Khilji, Tughlaq, Lodi",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 373.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 321.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3124,
+      "markdown_body_line_end": 3129,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Qutb layered monument",
+      "preview": "AIBAK -> begins tower",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 299.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 247.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3133,
+      "markdown_body_line_end": 3138,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Spolia evidence boundary",
+      "preview": "INSCRIPTION -> records reused material",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3142,
+      "markdown_body_line_end": 3147,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Provincial climate map",
+      "preview": "BENGAL -> rain-responsive sloping roof",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3151,
+      "markdown_body_line_end": 3156,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Mughal material chronology",
+      "preview": "AKBAR -> red sandstone mass",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3160,
+      "markdown_body_line_end": 3165,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Fatehpur Sikri boundary",
+      "preview": "PLACE -> imperial capital and complex",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3169,
+      "markdown_body_line_end": 3177,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Workshop authorship",
+      "preview": "PATRON -> Shah Jahan",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3181,
+      "markdown_body_line_end": 3189,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Regional continuation",
+      "preview": "RAJPUT -> jharokha and court display",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3193,
+      "markdown_body_line_end": 3198,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Indo-Islamic answer spine",
+      "preview": "DEFINE -> trabeate-arcuate coexistence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Is it a geographical issue
+ASK WHERE -> can the problem be located on a basin, coast, slope or corridor
+ASK WHY THERE -> does terrain, climate, water or connectivity explain the location
+ASK SO WHAT -> is there a spatial consequence such as migration, flooding or erosion
+IF all three answer yes -> it is a geographical issue and the chain applies
+IF only the policy dispute is present -> it is a governance question, not a spatial one
+
+ASCII MASTER FLOW — PANEL 2/12: Six issue-lenses
+RESOURCE CONFLICT -> control of water, minerals, forests and coasts
+BORDERLAND -> clustering near a frontier, gateway or corridor
+HAZARD AND VULNERABILITY -> floodplain, coast, hill slope and seismic exposure
+MOBILITY AND URBAN PRIMACY -> stress migration; drainage and land-market overload
+ECOLOGICAL FRAGILITY -> coral island, wetland, delta and mountain ecosystems
+
+ASCII MASTER FLOW — PANEL 3/12: Stress to policy chain
+RESOURCE, CLIMATE OR TERRAIN STRESS -> the initiating physical condition
+UNEVEN ACCESS OR EXPOSURE -> the stress falls unequally across space and groups
+CONFLICT OR GOVERNANCE PRESSURE -> contestation becomes visible
+SPATIAL SPILLOVER -> migration, flooding, erosion or corridor shift follows
+POLICY RESPONSE -> instruments arrive, usually after the spillover
+
+ASCII MASTER FLOW — PANEL 4/12: Nine-step analytical spine
+PROCESS AND PATTERN -> name the process, then explain why there and not elsewhere
+DRIVERS AND SCALE -> separate natural from human; fix local, regional or transboundary
+EXPOSURE AND VULNERABILITY -> who is in the way; why the same hazard hurts unequally
+TRADE-OFF -> name the genuine competing interest that always exists
+INSTRUMENT AND VERDICT -> match the remedy to the mechanism, then grade the conclusion
+
+ASCII MASTER FLOW — PANEL 5/12: Exposure and vulnerability separated
+EXPOSURE -> population, assets and livelihoods physically in the hazard path
+VULNERABILITY -> capacity to absorb, cope and recover from the same hazard
+GROUNDWATER CASE -> smallholders lose access first because deeper wells need finance
+FLOOD CASE -> informal housing without insurance or alternative shelter bears the loss
+IMPLICATION -> physical protection alone leaves the distributional problem untouched
+
+ASCII MASTER FLOW — PANEL 6/12: Scale mismatch rail
+AQUIFER SCALE -> matches no administrative boundary in an irrigated plain
+CATCHMENT SCALE -> extends beyond the municipal limit of a flooding city
+BASIN SCALE -> crosses several states in a peninsular river dispute
+CONSEQUENCE -> the unit expected to act cannot govern the whole process
+ANSWER MOVE -> name the mismatch explicitly; it is the least used available insight
+
+ASCII MASTER FLOW — PANEL 7/12: Groundwater decline worked chain
+PROCESS -> abstraction exceeds recharge in an alluvial aquifer
+PATTERN -> tube-well density, water-intensive cropping and assured procurement coincide
+DRIVERS -> cropping pattern, energy pricing, procurement geography, rainfall variability
+BURDEN -> smallholders unable to finance deeper wells lose access first
+INSTRUMENT -> demand-side crop and energy reform with managed recharge at aquifer scale
+
+ASCII MASTER FLOW — PANEL 8/12: Urban flooding worked chain
+PROCESS -> runoff generation exceeds drainage conveyance capacity
+PATTERN -> low-lying land, filled tanks and wetlands, encroached natural drains
+DRIVERS -> surface sealing, undersized silted networks, floodplain construction
+TRADE-OFF -> protecting drains and floodplains forgoes valuable developable land
+INSTRUMENT -> drainage restoration, blue-green infrastructure and tenure-backed relocation
+
+ASCII MASTER FLOW — PANEL 9/12: Current-material discipline
+FORECAST vs OBSERVATION -> a prediction is not a recorded measurement
+PROJECTION vs MEASUREMENT -> a model output is not an instrument reading
+SURVEY vs CENSUS -> a sample estimate is not an enumerated count
+ANNOUNCEMENT vs IMPLEMENTATION -> approval is not delivery on the ground
+TARGET vs ACHIEVEMENT -> a stated goal is never a completed outcome
+
+ASCII MASTER FLOW — PANEL 10/12: Peninsular basin dispute geography
+UPSTREAM STORAGE -> reservoir location and timed release govern downstream availability
+INTER-STATE SPREAD -> Maharashtra, Karnataka, Telangana and Andhra Pradesh all matter
+COMMAND AREAS -> irrigated agriculture depends on predictable release windows
+LOWER BASIN -> delta and lower-riparian needs fear reduced seasonal flow
+ADMINISTRATION -> bifurcation reorganised the basin's management, not its geometry
+
+ASCII MASTER FLOW — PANEL 11/12: Fragile-edge development trade-off
+GREAT NICOBAR ADVANTAGE -> proximity to east-west routes and the Malacca-facing arc
+GREAT NICOBAR CONSTRAINT -> coral coast, tribal habitat, seismicity, coastal regulation
+NORTH-EAST ADVANTAGE -> Bay of Bengal access bypassing the narrow mainland hinge
+NORTH-EAST CONSTRAINT -> folded slopes, heavy monsoon, landslides, forest fragmentation
+RULE -> route value and ecological fragility occupy the same site, so name the trade-off
+
+ASCII MASTER FLOW — PANEL 12/12: Dated official anchors and their boundary
+21 AUG 2025 -> PIB and Lok Sabha reply on continued Krishna tribunal relevance
+29 JUL 2024 -> PIB release on urban flooding during the monsoon season
+READING -> both anchors illustrate processes already owned by core files
+AMRUT -> storm-water and water-body interventions cited in the flooding release
+BOUNDARY -> no allocation share, rainfall total or outlay is quoted from memory

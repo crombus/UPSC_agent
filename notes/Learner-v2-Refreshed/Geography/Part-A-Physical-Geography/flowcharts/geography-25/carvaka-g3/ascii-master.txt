@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Polar climate world distribution
+ICE-CAP -> Greenland and high-latitude highlands, permanent snow cover
+TUNDRA -> coastal Greenland, N. Canada, Alaska, Eurasian Arctic seaboard
+SOUTHERN POLE -> Antarctica: continent under ice, no indigenous population
+NORTHERN POLE -> Arctic: ocean basin surrounded by continental land masses
+
+ASCII MASTER FLOW — PANEL 2/12: Temperature-precipitation profile
+WARMEST MONTH -> seldom exceeds about 10 degrees C (June/July)
+MONTHS ABOVE FREEZING -> no more than about four per year
+PRECIPITATION -> low, mostly snow; polar climate = cold desert
+BLIZZARDS -> wind redistributing existing snow, not heavy snowfall events
+
+ASCII MASTER FLOW — PANEL 3/12: Tundra vegetation belt
+PERMAFROST -> prevents deep rooting, impedes drainage
+SHORT GROWING SEASON -> warmest month below 10 degrees C
+STUNTED PLANTS -> dwarf willows, birches, alders in sheltered spots
+LICHEN GROUND COVER -> reindeer moss provides grazing for reindeer herds
+
+ASCII MASTER FLOW — PANEL 4/12: Arctic-Antarctic asymmetry
+ARCTIC -> ocean surrounded by continents; mainly floating sea ice
+ANTARCTIC -> continent surrounded by ocean; vast grounded ice sheet
+WARMING -> Arctic amplification much faster; Antarctic more complex
+GOVERNANCE -> Arctic: sovereign states + forum | Antarctic: treaty regime
+
+ASCII MASTER FLOW — PANEL 5/12: Ice-albedo feedback loop
+SEA ICE AND SNOW RETREAT -> bright surface replaced by dark ocean/ground
+ALBEDO DROPS -> far more solar radiation absorbed instead of reflected
+SURFACE WARMING -> further ice and snow retreat (self-reinforcing)
+REINFORCING FACTORS -> thin polar atmosphere, ocean heat escape, poleward transport
+
+ASCII MASTER FLOW — PANEL 6/12: Permafrost carbon feedback
+WARMING -> thaws frozen ground containing ancient organic matter
+DRY CONDITIONS -> decomposition releases carbon dioxide
+WATERLOGGED CONDITIONS -> decomposition releases methane (stronger GHG)
+FEEDBACK -> released GHGs cause further warming, further thaw
+
+ASCII MASTER FLOW — PANEL 7/12: Sea-level grounded-ice rule
+FLOATING SEA ICE MELTS -> sea level does NOT rise (already displacing water)
+GROUNDED ICE MELTS -> mass transferred to ocean, sea level RISES
+ICE SHELVES LOST -> removes buttressing, accelerates grounded-ice discharge
+EXAM RULE -> always distinguish floating from grounded in any polar answer
+
+ASCII MASTER FLOW — PANEL 8/12: Arctic shipping constraints
+ADVANTAGE -> routes shorter than Suez/Panama between NE Asia and NW Europe
+MOBILE ICE -> unpredictable, hazardous despite retreat trend
+RESCUE AND CHARTING -> thin capacity, incomplete surveys
+NEAR-TERM TRAFFIC -> resource export and destination, not transit container
+
+ASCII MASTER FLOW — PANEL 9/12: India cold desert Ladakh
+RAIN-SHADOW -> Greater Himalaya blocks SW monsoon, Trans-Himalaya stays arid
+HIGH ALTITUDE -> intense insolation by day, sharp radiative cooling by night
+WINTER PRECIPITATION -> light snow from western disturbances
+BIOME CLASS -> cold desert, same as Sierra Nevada (USA) and Andes (Argentina)
+
+ASCII MASTER FLOW — PANEL 10/12: India polar stations
+DAKSHIN GANGOTRI (1983) -> first station, now decommissioned/buried in ice
+MAITRI (1989) -> Schirmacher Oasis, Antarctica; operational
+BHARATI (2012) -> Larsemann Hills, Antarctica; operational
+HIMADRI (2008) -> Ny-Alesund, Svalbard; Arctic; HIMANSH -> Spiti, HP
+
+ASCII MASTER FLOW — PANEL 11/12: India polar legal framework
+ANTARCTIC TREATY 1959 -> India acceded 1983; consultative party
+INDIAN ANTARCTIC ACT 2022 -> domestic legislation for polar activities
+ARCTIC POLICY 2022 -> six pillars; observer in Arctic forum
+RESEARCH FOCUS -> teleconnections: Arctic ice loss to Indian monsoon disruption
+
+ASCII MASTER FLOW — PANEL 12/12: Polar climate answer spine
+DEFINE -> cold desert north of Arctic Circle; ice-cap vs tundra subdivisions
+DISTINGUISH -> Arctic ocean vs Antarctic continent; floating vs grounded ice
+EXPLAIN -> ice-albedo feedback, permafrost carbon, four transmission channels
+QUALIFY -> India's Ladakh analogue, polar research, 2021 PYQ four-channel spine

@@ -1,0 +1,1175 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-03",
+  "subject": "Governance",
+  "title": "DEVELOPMENT PROCESSES AND THE DEVELOPMENT INDUSTRY",
+  "short_route": "FOUR ACTORS, ONE SYSTEM → LEGAL VEHICLE CARD → CORPORATE SOCIAL RESPONSIBILITY CARD → FOUR REGULATORY LAYERS → THE FOREIGN-CONTRIBUTION GATE → FUNDING TO OUTCOME",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-03\\governance-03_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-03-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "29beea9f68464c05d582433641d5f546bff2ac9e5d0dff3221f7b757795b502b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR ACTORS, ONE SYSTEM",
+      "structural_type": "root-axes",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOUR ACTORS, ONE SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "BILATERAL AND MULTILATERAL DONORS, FOUNDATIONS, CORPORATE PROGRAMMES",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL VEHICLES",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC CHARITABLE TRUST, SOCIETY, SECTION 8 COMPANY",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-GOVERNMENTAL ORGANISATIONS AND SELF-HELP GROUP FEDERATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE FUNDING SOURCE FROM LEGAL VEHICLE FROM LAST-MILE IMPLEMENTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FUNDERS → bilateral and multilateral donors, foundations, corporate programmes",
+        "LEGAL VEHICLES → public charitable trust, society, Section 8 company",
+        "IMPLEMENTERS → non-governmental organisations and self-help group federations",
+        "RULE → separate funding source from legal vehicle from last-mile implementer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FUNDERS → bilateral and multilateral donors, foundations, corporate programmes",
+            "LEGAL VEHICLES → public charitable trust, society, Section 8 company"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "IMPLEMENTERS → non-governmental organisations and self-help group federations",
+            "RULE → separate funding source from legal vehicle from last-mile implementer"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FUNDERS → bilateral and multilateral donors, foundations, corporate programmes",
+            "LEGAL VEHICLES → public charitable trust, society, Section 8 company"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "IMPLEMENTERS → non-governmental organisations and self-help group federations",
+            "RULE → separate funding source from legal vehicle from last-mile implementer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → separate funding source from legal vehicle from last-mile implementer.",
+      "source_references": [
+        "The development industry as a system, not a list of donors"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LEGAL VEHICLE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEGAL VEHICLE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "DEED PLUS STATE PUBLIC-TRUST LAW; THE 1882 TRUSTS ACT",
+          "role": "institution"
+        },
+        {
+          "text": "SOCIETIES REGISTRATION ACT, 1860 AND STATE VARIANTS; MEMBERSHIP-BASED ACCOUNTABILITY",
+          "role": "institution"
+        },
+        {
+          "text": "SECTION 8 COMPANY",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPANIES ACT, 2013; PROFITS MAY NOT BE DISTRIBUTED TO",
+          "role": "caution"
+        },
+        {
+          "text": "SCRUTINY LADDER",
+          "role": "outcome"
+        },
+        {
+          "text": "TRUST BELOW SOCIETY BELOW SECTION 8 COMPANY IN EXTERNAL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "TRUST → deed plus state public-trust law; the 1882 Trusts Act excludes charitable endowments",
+        "SOCIETY → Societies Registration Act, 1860 and state variants; membership-based accountability",
+        "SECTION 8 COMPANY → Companies Act, 2013; profits may not be distributed to members",
+        "SCRUTINY LADDER → trust below society below Section 8 company in external disclosure"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "TRUST → deed plus state public-trust law; the 1882 Trusts Act excludes charitable endowments",
+          "SECTION 8 COMPANY → Companies Act, 2013; profits may not be distributed to members",
+          "TRUST → deed plus state public-trust law; the 1882 Trusts Act excludes charitable endowments",
+          "SECTION 8 COMPANY → Companies Act, 2013; profits may not be distributed to members"
+        ],
+        [
+          "SOCIETY → Societies Registration Act, 1860 and state variants; membership-based accountability",
+          "SCRUTINY LADDER → trust below society below Section 8 company in external disclosure",
+          "SOCIETY → Societies Registration Act, 1860 and state variants; membership-based accountability",
+          "SCRUTINY LADDER → trust below society below Section 8 company in external disclosure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TRUST → deed plus state public-trust law; the 1882 Trusts Act excludes charitable endowments",
+            "SOCIETY → Societies Registration Act, 1860 and state variants; membership-based accountability"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SECTION 8 COMPANY → Companies Act, 2013; profits may not be distributed to members",
+            "SCRUTINY LADDER → trust below society below Section 8 company in external disclosure"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRUST → deed plus state public-trust law; the 1882 Trusts Act excludes charitable endowments",
+            "SOCIETY → Societies Registration Act, 1860 and state variants; membership-based accountability"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SECTION 8 COMPANY → Companies Act, 2013; profits may not be distributed to members",
+            "SCRUTINY LADDER → trust below society below Section 8 company in external disclosure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCRUTINY LADDER → trust below society below Section 8 company in external disclosure.",
+      "source_references": [
+        "Public charitable trusts and the 1882 exclusion",
+        "Societies and Section 8 companies"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CORPORATE SOCIAL RESPONSIBILITY CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CORPORATE SOCIAL RESPONSIBILITY CARD",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 135",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY MINIMUM SPEND OF TWO PER CENT OF AVERAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPANIES CROSSING SPECIFIED NET WORTH, TURNOVER OR NET PROFIT",
+          "role": "evidence"
+        },
+        {
+          "text": "SCHEDULE VII",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDED ACTIVITY LIST",
+          "role": "outcome"
+        },
+        {
+          "text": "HEALTH, EDUCATION, POVERTY, ENVIRONMENT, RURAL DEVELOPMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "RULES LAYER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECTION 135 → statutory minimum spend of two per cent of average net profits of",
+        "APPLICABILITY → companies crossing specified net worth, turnover or net profit thresholds",
+        "SCHEDULE VII → bounded activity list: health, education, poverty, environment, rural development",
+        "RULES LAYER → CSR-2 reporting and impact assessment come from the CSR Policy Rules, not"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "SECTION 135 → statutory minimum spend of two per cent of average net profits of preceding years",
+          "SCHEDULE VII → bounded activity list: health, education, poverty, environment, rural development",
+          "SECTION 135 → statutory minimum spend of two per cent of average net profits of preceding years",
+          "SCHEDULE VII → bounded activity list: health, education, poverty, environment, rural development"
+        ],
+        [
+          "APPLICABILITY → companies crossing specified net worth, turnover or net profit thresholds",
+          "RULES LAYER → CSR-2 reporting and impact assessment come from the CSR Policy Rules, not the section",
+          "APPLICABILITY → companies crossing specified net worth, turnover or net profit thresholds",
+          "RULES LAYER → CSR-2 reporting and impact assessment come from the CSR Policy Rules, not the section"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 135 → statutory minimum spend of two per cent of average net profits of preceding years",
+            "APPLICABILITY → companies crossing specified net worth, turnover or net profit thresholds"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULE VII → bounded activity list: health, education, poverty, environment, rural development",
+            "RULES LAYER → CSR-2 reporting and impact assessment come from the CSR Policy Rules, not the section"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SECTION 135 → statutory minimum spend of two per cent of average net profits of preceding years",
+            "APPLICABILITY → companies crossing specified net worth, turnover or net profit thresholds"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SCHEDULE VII → bounded activity list: health, education, poverty, environment, rural development",
+            "RULES LAYER → CSR-2 reporting and impact assessment come from the CSR Policy Rules, not the section"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULES LAYER → CSR-2 reporting and impact assessment come from the CSR Policy Rules, not the section.",
+      "source_references": [
+        "Corporate social responsibility as a statutory obligation"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FOUR REGULATORY LAYERS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR REGULATORY LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "STATE REGISTRAR OR REGISTRAR OF COMPANIES; LEGAL EXISTENCE ONLY",
+          "role": "institution"
+        },
+        {
+          "text": "FOREIGN FUNDING",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRY OF HOME AFFAIRS UNDER THE 2010 ACT AS",
+          "role": "institution"
+        },
+        {
+          "text": "TAX STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "INCOME TAX DEPARTMENT, SECTIONS 12A AND 80G; EXEMPTION AND",
+          "role": "outcome"
+        },
+        {
+          "text": "GRANT IDENTITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NITI AAYOG NGO DARPAN UNIQUE IDENTIFICATION; NOT PERMISSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INCORPORATION → state registrar or Registrar of Companies; legal existence only",
+        "FOREIGN FUNDING → Ministry of Home Affairs under the 2010 Act as amended in 2020",
+        "TAX STATUS → Income Tax Department, Sections 12A and 80G; exemption and donor deduction",
+        "GRANT IDENTITY → NITI Aayog NGO Darpan unique identification; not permission"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "INCORPORATION → state registrar or Registrar of Companies; legal existence only",
+          "TAX STATUS → Income Tax Department, Sections 12A and 80G; exemption and donor deduction",
+          "INCORPORATION → state registrar or Registrar of Companies; legal existence only",
+          "TAX STATUS → Income Tax Department, Sections 12A and 80G; exemption and donor deduction"
+        ],
+        [
+          "FOREIGN FUNDING → Ministry of Home Affairs under the 2010 Act as amended in 2020",
+          "GRANT IDENTITY → NITI Aayog NGO Darpan unique identification; not permission",
+          "FOREIGN FUNDING → Ministry of Home Affairs under the 2010 Act as amended in 2020",
+          "GRANT IDENTITY → NITI Aayog NGO Darpan unique identification; not permission"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INCORPORATION → state registrar or Registrar of Companies; legal existence only",
+            "FOREIGN FUNDING → Ministry of Home Affairs under the 2010 Act as amended in 2020"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TAX STATUS → Income Tax Department, Sections 12A and 80G; exemption and donor deduction",
+            "GRANT IDENTITY → NITI Aayog NGO Darpan unique identification; not permission"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "INCORPORATION → state registrar or Registrar of Companies; legal existence only",
+            "FOREIGN FUNDING → Ministry of Home Affairs under the 2010 Act as amended in 2020"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TAX STATUS → Income Tax Department, Sections 12A and 80G; exemption and donor deduction",
+            "GRANT IDENTITY → NITI Aayog NGO Darpan unique identification; not permission"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRANT IDENTITY → NITI Aayog NGO Darpan unique identification; not permission.",
+      "source_references": [
+        "Four regulatory layers kept apart"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE FOREIGN-CONTRIBUTION GATE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE FOREIGN-CONTRIBUTION GATE",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTE ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "REGISTRATION FOR ONGOING RECEIPT OF FOREIGN CONTRIBUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTE TWO",
+          "role": "evidence"
+        },
+        {
+          "text": "CASE-SPECIFIC PRIOR PERMISSION FOR A DEFINED CONTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGNATED ACCOUNT AT THE STATE BANK OF INDIA MAIN",
+          "role": "institution"
+        },
+        {
+          "text": "ADMINISTRATIVE-EXPENSE PROPORTION CAPPED; SUB-GRANTING BETWEEN ENTITIES RESTRICTED",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ROUTE ONE → registration for ongoing receipt of foreign contribution",
+        "ROUTE TWO → case-specific prior permission for a defined contribution",
+        "CONDITIONS → designated account at the State Bank of India main branch, New Delhi",
+        "LIMITS → administrative-expense proportion capped; sub-granting between entities restricted"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROUTE ONE → registration for ongoing receipt of foreign contribution",
+            "ROUTE TWO → case-specific prior permission for a defined contribution"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CONDITIONS → designated account at the State Bank of India main branch, New Delhi",
+            "LIMITS → administrative-expense proportion capped; sub-granting between entities restricted"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ROUTE ONE → registration for ongoing receipt of foreign contribution",
+            "ROUTE TWO → case-specific prior permission for a defined contribution"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONDITIONS → designated account at the State Bank of India main branch, New Delhi",
+            "LIMITS → administrative-expense proportion capped; sub-granting between entities restricted"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMITS → administrative-expense proportion capped; sub-granting between entities restricted.",
+      "source_references": [
+        "The foreign-contribution gate"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FUNDING TO OUTCOME",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FUNDING TO OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "FUNDING SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROJECT CYCLE, FOUNDER PRIORITY OR SCHEDULE VII COMPLIANCE SETS",
+          "role": "mechanism"
+        },
+        {
+          "text": "LEGAL VEHICLE",
+          "role": "evidence"
+        },
+        {
+          "text": "DETERMINES DISCLOSURE AND GOVERNANCE QUALITY AVAILABLE TO A BENEFICIARY",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL SOCIAL CAPITAL AND CAPACITY DETERMINE LAST-MILE FIDELITY",
+          "role": "outcome"
+        },
+        {
+          "text": "UPWARD TO DONOR AND REGULATOR; NEVER DOWNWARD TO THE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FUNDING SOURCE → project cycle, founder priority or Schedule VII compliance sets the frame",
+        "LEGAL VEHICLE → determines disclosure and governance quality available to a beneficiary",
+        "IMPLEMENTER → local social capital and capacity determine last-mile fidelity",
+        "ACCOUNTABILITY → upward to donor and regulator; never downward to the beneficiary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FUNDING SOURCE → project cycle, founder priority or Schedule VII compliance sets the frame",
+            "LEGAL VEHICLE → determines disclosure and governance quality available to a beneficiary"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "IMPLEMENTER → local social capital and capacity determine last-mile fidelity",
+            "ACCOUNTABILITY → upward to donor and regulator; never downward to the beneficiary"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FUNDING SOURCE → project cycle, founder priority or Schedule VII compliance sets the frame",
+            "LEGAL VEHICLE → determines disclosure and governance quality available to a beneficiary"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "IMPLEMENTER → local social capital and capacity determine last-mile fidelity",
+            "ACCOUNTABILITY → upward to donor and regulator; never downward to the beneficiary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCOUNTABILITY → upward to donor and regulator; never downward to the beneficiary.",
+      "source_references": [
+        "The funding-to-outcome causal chain",
+        "Accountability direction and its consequences"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FIVE-TEST GRID",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIVE-TEST GRID",
+          "role": "primary"
+        },
+        {
+          "text": "ADDS CAPACITY, OR SUBSTITUTES FOR A PUBLIC OBLIGATION STILL",
+          "role": "outcome"
+        },
+        {
+          "text": "CHOSEN FROM DISAGGREGATED EXCLUSION DATA, OR FROM THE FUNDER",
+          "role": "comparison"
+        },
+        {
+          "text": "CAN A BENEFICIARY OBTAIN RECORDS, COMPLAIN AND FORCE CORRECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SUSTAINABILITY AND FIT",
+          "role": "primary"
+        },
+        {
+          "text": "WHO OPERATES AFTER THE GRANT, AND IS IT CONVERGED",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ADDITIONALITY → adds capacity, or substitutes for a public obligation still owed",
+        "NEED-FIT → chosen from disaggregated exclusion data, or from the funder priority",
+        "ACCOUNTABILITY → can a beneficiary obtain records, complain and force correction",
+        "SUSTAINABILITY AND FIT → who operates after the grant, and is it converged with the"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ADDITIONALITY → adds capacity, or substitutes for a public obligation still owed",
+          "ACCOUNTABILITY → can a beneficiary obtain records, complain and force correction",
+          "ADDITIONALITY → adds capacity, or substitutes for a public obligation still owed",
+          "ACCOUNTABILITY → can a beneficiary obtain records, complain and force correction"
+        ],
+        [
+          "NEED-FIT → chosen from disaggregated exclusion data, or from the funder priority",
+          "SUSTAINABILITY AND FIT → who operates after the grant, and is it converged with the district plan",
+          "NEED-FIT → chosen from disaggregated exclusion data, or from the funder priority",
+          "SUSTAINABILITY AND FIT → who operates after the grant, and is it converged with the district plan"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ADDITIONALITY → adds capacity, or substitutes for a public obligation still owed",
+            "NEED-FIT → chosen from disaggregated exclusion data, or from the funder priority"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ACCOUNTABILITY → can a beneficiary obtain records, complain and force correction",
+            "SUSTAINABILITY AND FIT → who operates after the grant, and is it converged with the district plan"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ADDITIONALITY → adds capacity, or substitutes for a public obligation still owed",
+            "NEED-FIT → chosen from disaggregated exclusion data, or from the funder priority"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ACCOUNTABILITY → can a beneficiary obtain records, complain and force correction",
+            "SUSTAINABILITY AND FIT → who operates after the grant, and is it converged with the district plan"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUSTAINABILITY AND FIT → who operates after the grant, and is it converged with the district plan.",
+      "source_references": [
+        "The five-test evaluation grid"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SUBSTITUTION AGAINST COMPLEMENTARITY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SUBSTITUTION AGAINST COMPLEMENTARITY",
+          "role": "primary"
+        },
+        {
+          "text": "NON-STATE DELIVERY IS A SYMPTOM OF STATE FAILURE AND",
+          "role": "institution"
+        },
+        {
+          "text": "FLEXIBILITY, SPEED AND RISK-TAKING ARE STRUCTURALLY EASIER OUTSIDE PROCUREMENT",
+          "role": "caution"
+        },
+        {
+          "text": "THE ADDITIONALITY TEST DECIDES THE CASE RATHER THAN THE",
+          "role": "evidence"
+        },
+        {
+          "text": "AGGREGATE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "DUPLICATION AND VISIBLE-NEED BIAS WHERE CONVERGENCE IS ABSENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SUBSTITUTION → non-state delivery is a symptom of state failure and may entrench it",
+        "COMPLEMENTARITY → flexibility, speed and risk-taking are structurally easier outside procurement",
+        "RESOLUTION → the additionality test decides the case rather than the thesis",
+        "AGGREGATE RISK → duplication and visible-need bias where convergence is absent"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "SUBSTITUTION → non-state delivery is a symptom of state failure and may entrench it",
+          "RESOLUTION → the additionality test decides the case rather than the thesis",
+          "SUBSTITUTION → non-state delivery is a symptom of state failure and may entrench it",
+          "RESOLUTION → the additionality test decides the case rather than the thesis"
+        ],
+        [
+          "COMPLEMENTARITY → flexibility, speed and risk-taking are structurally easier outside procurement",
+          "AGGREGATE RISK → duplication and visible-need bias where convergence is absent",
+          "COMPLEMENTARITY → flexibility, speed and risk-taking are structurally easier outside procurement",
+          "AGGREGATE RISK → duplication and visible-need bias where convergence is absent"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SUBSTITUTION → non-state delivery is a symptom of state failure and may entrench it",
+            "COMPLEMENTARITY → flexibility, speed and risk-taking are structurally easier outside procurement"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "RESOLUTION → the additionality test decides the case rather than the thesis",
+            "AGGREGATE RISK → duplication and visible-need bias where convergence is absent"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUBSTITUTION → non-state delivery is a symptom of state failure and may entrench it",
+            "COMPLEMENTARITY → flexibility, speed and risk-taking are structurally easier outside procurement"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "RESOLUTION → the additionality test decides the case rather than the thesis",
+            "AGGREGATE RISK → duplication and visible-need bias where convergence is absent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AGGREGATE RISK → duplication and visible-need bias where convergence is absent.",
+      "source_references": [
+        "Substitution against complementarity"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "VISIBLE-NEED BIAS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "VISIBLE-NEED BIAS",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULE VII LIST PLUS REPUTATIONAL INCENTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "CROWDING INTO SCHOOL BUILDINGS, SANITATION HARDWARE AND OTHER LEGIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "MENTAL HEALTH, CARE WORK, LEGAL AID AND DISABILITY ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "A CONVERGENCE FAILURE, NOT A FAILURE OF GENEROSITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DRIVER → Schedule VII list plus reputational incentive",
+        "EFFECT → crowding into school buildings, sanitation hardware and other legible sectors",
+        "SHORTFALL → mental health, care work, legal aid and disability access stay underfunded",
+        "DIAGNOSIS → a convergence failure, not a failure of generosity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DRIVER → Schedule VII list plus reputational incentive",
+            "EFFECT → crowding into school buildings, sanitation hardware and other legible sectors"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SHORTFALL → mental health, care work, legal aid and disability access stay underfunded",
+            "DIAGNOSIS → a convergence failure, not a failure of generosity"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DRIVER → Schedule VII list plus reputational incentive",
+            "EFFECT → crowding into school buildings, sanitation hardware and other legible sectors"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SHORTFALL → mental health, care work, legal aid and disability access stay underfunded",
+            "DIAGNOSIS → a convergence failure, not a failure of generosity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIAGNOSIS → a convergence failure, not a failure of generosity.",
+      "source_references": [
+        "Substitution against complementarity"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MULTI-LEVEL PLANNING CARD",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MULTI-LEVEL PLANNING CARD",
+          "role": "primary"
+        },
+        {
+          "text": "UNION, STATE, DISTRICT AND LOCAL PLAN WHAT EACH IS",
+          "role": "institution"
+        },
+        {
+          "text": "DISTRICT PLANNING COMMITTEE UNDER ARTICLE 243ZD; OPERATIONALISATION UNEVEN",
+          "role": "institution"
+        },
+        {
+          "text": "FISCAL PRECONDITION",
+          "role": "evidence"
+        },
+        {
+          "text": "THE STATE FINANCE COMMISSION",
+          "role": "institution"
+        },
+        {
+          "text": "KERALA PEOPLE'S PLAN CAMPAIGN, 1996; FUNDS, FUNCTIONS AND FUNCTIONARIES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TIERS → Union, state, district and local plan what each is best placed to know",
+        "CONSOLIDATION → District Planning Committee under Article 243ZD; operationalisation uneven",
+        "FISCAL PRECONDITION → the State Finance Commission",
+        "DEMONSTRATION → Kerala People's Plan Campaign, 1996; funds, functions and functionaries together"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TIERS → Union, state, district and local plan what each is best placed to know",
+            "CONSOLIDATION → District Planning Committee under Article 243ZD; operationalisation uneven"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FISCAL PRECONDITION → the State Finance Commission",
+            "DEMONSTRATION → Kerala People's Plan Campaign, 1996; funds, functions and functionaries together"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TIERS → Union, state, district and local plan what each is best placed to know",
+            "CONSOLIDATION → District Planning Committee under Article 243ZD; operationalisation uneven"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FISCAL PRECONDITION → the State Finance Commission",
+            "DEMONSTRATION → Kerala People's Plan Campaign, 1996; funds, functions and functionaries together"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEMONSTRATION → Kerala People's Plan Campaign, 1996; funds, functions and functionaries together.",
+      "source_references": [
+        "Multi-level planning under the neo-liberal paradigm"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FOUR DONOR-DISTORTION CHANNELS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOUR DONOR-DISTORTION CHANNELS",
+          "role": "primary"
+        },
+        {
+          "text": "DONOR PRIORITY SETS THE PROBLEM BEFORE LOCAL NEED IS",
+          "role": "outcome"
+        },
+        {
+          "text": "REPORTING REWARDS COUNTABLE OUTPUTS, SO PARTICIPATORY PROCESS IS CUT",
+          "role": "mechanism"
+        },
+        {
+          "text": "PROJECT-BASED TIME-BOUND GRANTS MISMATCH A MULTI-YEAR INSTITUTION-BUILDING HORIZON",
+          "role": "institution"
+        },
+        {
+          "text": "ACCOUNTABILITY SUBSTITUTION",
+          "role": "primary"
+        },
+        {
+          "text": "UPWARD REPORTING REPLACES DOWNWARD ANSWERABILITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AGENDA → donor priority sets the problem before local need is assessed",
+        "METRIC → reporting rewards countable outputs, so participatory process is cut first",
+        "CYCLE → project-based time-bound grants mismatch a multi-year institution-building horizon",
+        "ACCOUNTABILITY SUBSTITUTION → upward reporting replaces downward answerability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "AGENDA → donor priority sets the problem before local need is assessed",
+            "METRIC → reporting rewards countable outputs, so participatory process is cut first"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CYCLE → project-based time-bound grants mismatch a multi-year institution-building horizon",
+            "ACCOUNTABILITY SUBSTITUTION → upward reporting replaces downward answerability"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "AGENDA → donor priority sets the problem before local need is assessed",
+            "METRIC → reporting rewards countable outputs, so participatory process is cut first"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CYCLE → project-based time-bound grants mismatch a multi-year institution-building horizon",
+            "ACCOUNTABILITY SUBSTITUTION → upward reporting replaces downward answerability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCOUNTABILITY SUBSTITUTION → upward reporting replaces downward answerability.",
+      "source_references": [
+        "Donor-distortion channels and decision distance"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A DISTANCE DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A DISTANCE DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "NAME DISTANCE AS AN INSTITUTIONAL PROPERTY OF THE FUNDING",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUR CHANNELS, THEN THE FIVE-TEST GRID APPLIED TO ONE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERGENCE WITH THE LOCAL PLAN, CO-DECISION, EXIT PLANNING, DISCLOSED",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT RECORDING THE ONE OPEN ROUTING CONFLICT RATHER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name distance as an institutional property of the funding chain, not only of",
+        "BUILD → four channels, then the five-test grid applied to one case",
+        "CORRECT → convergence with the local plan, co-decision, exit planning, disclosed funding and cost",
+        "CLOSE → graded verdict recording the one open routing conflict rather than concealing it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "OPEN → name distance as an institutional property of the funding chain, not only of the state",
+            "BUILD → four channels, then the five-test grid applied to one case"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → convergence with the local plan, co-decision, exit planning, disclosed funding and cost",
+            "CLOSE → graded verdict recording the one open routing conflict rather than concealing it"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name distance as an institutional property of the funding chain, not only of the state",
+            "BUILD → four channels, then the five-test grid applied to one case"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORRECT → convergence with the local plan, co-decision, exit planning, disclosed funding and cost",
+            "CLOSE → graded verdict recording the one open routing conflict rather than concealing it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict recording the one open routing conflict rather than concealing it.",
+      "source_references": [
+        "Fragmented regulation and honest question ownership"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE 2024 PYQ'S CAREFUL PHRASING (\"HAVE THE POTENTIAL TO",
+          "role": "outcome"
+        },
+        {
+          "text": "CSR'S SCHEDULE VII ACTIVITY-LIST CONSTRAINT IS A DOUBLE-EDGED DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "IT PREVENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "CROSS-BORDER DONOR FUNDING FOR INDIAN DEVELOPMENT WORK INTERSECTS DIRECTLY",
+          "role": "primary"
+        },
+        {
+          "text": "MINISTRY OF CORPORATE AFFAIRS ADMINISTERS SECTION 8 COMPANY REGISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INCOME TAX DEPARTMENT ADMINISTERS CHARITABLE-TRUST TAX-EXEMPTION COMPLIANCE (REGISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SINGLE UNIFIED REGULATOR SUPERVISES \"THE DEVELOPMENT INDUSTRY\" AS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INSTITUTIONAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The 2024 PYQ's careful phrasing (\"have the potential to make... more inclusive\") is an",
+            "CAUTION: CSR's Schedule VII activity-list constraint is a double-edged design feature: it prevents",
+            "CAUTION: Cross-border donor funding for Indian development work intersects directly with FCRA",
+            "Ministry of Corporate Affairs administers Section 8 company registration and CSR"
+          ]
+        },
+        {
+          "heading": "STATUS / DATA CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "Income Tax Department administers charitable-trust tax-exemption compliance (registration",
+            "CAUTION: No single unified regulator supervises \"the development industry\" as such — regulatory",
+            "CAUTION: A well-governed public charitable trust running a transparent, locally consulted health",
+            "CAUTION: Boundary case: a CSR programme designed purely to satisfy Schedule VII compliance with"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Disaster relief remains the clearest example where charitable-trust/CSR flexibility",
+            "CAUTION: Charitable/CSR development trades scale and universality (which the state, in",
+            "CAUTION: Donor/CSR funding cycles being project-based and time-bound can create sustainability",
+            "CAUTION: Weak, fragmented regulatory oversight (MCA/Income Tax/state registrars/MHA) leaves gaps"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

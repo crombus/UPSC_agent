@@ -1,0 +1,2515 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g2\\governance-12_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g2\\governance-12_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "governance-12",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Local Governance and Service Delivery - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 284.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g2\\assets\\governance-12_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 641.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 333.756
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The governance question is delivery rather than constitutional status Qualified use: Set the correct scope in the first sentence of any local-governance demand.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 160.556
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 93.888
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 84,
+      "heading": "VISUAL FIRST",
+      "preview": "THE GOVERNANCE QUESTION IS DELIVERY RATHER THAN STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 613.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 129,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE GOVERNANCE QUESTION IS DELIVERY RATHER THAN STATUS",
+      "preview": "START / CONCEPT: FOUNDATION — The governance question is delivery rather than status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 720
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 483.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The three functional legs of genuine devolution Qualified use: Replace a list of assigned subjects with the diagnostic frame the demand rewards.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 357.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 291.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 159,
+      "heading": "VISUAL FIRST",
+      "preview": "THE THREE FUNCTIONAL LEGS OF GENUINE DEVOLUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 204,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE THREE FUNCTIONAL LEGS OF GENUINE DEVOLUTION",
+      "preview": "START / CONCEPT: FOUNDATION — The three functional legs of genuine devolution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 498
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 363.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 102.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 215,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 243G with the Eleventh Schedule supplies the constitutional devolution frame for Panchayats across twenty-nine listed subjects and therefore supplies the rural functional domain against which actual activity mapping is tested, but t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 570.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 234,
+      "heading": "VISUAL FIRST",
+      "preview": "THE RURAL FUNCTIONAL DOMAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 389.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 348.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 279,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE RURAL FUNCTIONAL DOMAIN",
+      "preview": "START / CONCEPT: FOUNDATION — The rural functional domain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 402
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 469.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 290,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Twelfth Schedule lists eighteen municipal functions including urban planning, land-use regulation, water supply, sanitation, solid-waste management, roads, public health and slum improvement, and it supplies the urban functional domain ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 320.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 225.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 309,
+      "heading": "VISUAL FIRST",
+      "preview": "THE URBAN FUNCTIONAL DOMAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 354,
+      "heading": "CLOSING RECALL FLOW - CORE - THE URBAN FUNCTIONAL DOMAIN",
+      "preview": "START / CONCEPT: CORE — The urban functional domain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 445
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 141.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Activity mapping is the formal exercise of listing which specific activity within a devolved subject belongs to which tier of local government, and it is what makes the transfer of a subject operationally meaningful, yet it has been widely ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 570.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 384,
+      "heading": "VISUAL FIRST",
+      "preview": "ACTIVITY MAPPING COMPLETED ON PAPER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 375.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 324.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 429,
+      "heading": "CLOSING RECALL FLOW - CORE - ACTIVITY MAPPING COMPLETED ON PAPER",
+      "preview": "START / CONCEPT: CORE — Activity mapping completed on paper",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 443
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 440,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Parastatal encroachment and the work-order test Qualified use: Supply the most under-examined obstacle with a one-question test attached.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 297.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 230.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 459,
+      "heading": "VISUAL FIRST",
+      "preview": "PARASTATAL ENCROACHMENT AND THE WORK-ORDER TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 487,
+      "markdown_body_line_end": 504,
+      "heading": "CLOSING RECALL FLOW - CORE - PARASTATAL ENCROACHMENT AND THE WORK-ORDER TEST",
+      "preview": "START / CONCEPT: CORE — Parastatal encroachment and the work-order test",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 469
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 137.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 515,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Funds, own revenue and the State Finance Commission Qualified use: Explain fiscal weakness institutionally instead of asserting a revenue figure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 530,
+      "markdown_body_line_end": 534,
+      "heading": "VISUAL FIRST",
+      "preview": "FUNDS, OWN REVENUE AND THE STATE FINANCE COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 579,
+      "heading": "CLOSING RECALL FLOW - CORE - FUNDS, OWN REVENUE AND THE STATE FINANCE COMMISSION",
+      "preview": "START / CONCEPT: CORE — Funds, own revenue and the State Finance Commission",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 468
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 590,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 280(3)(bb) covers measures needed to augment the resources of Panchayats and Article 280(3)(c) the resources of Municipalities, in each case on the basis of State Finance Commission recommendations, so Union Finance Commission local",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 297.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 188.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 609,
+      "heading": "VISUAL FIRST",
+      "preview": "UNION FINANCE COMMISSION LOCAL-BODY GRANTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 654,
+      "heading": "CLOSING RECALL FLOW - CORE - UNION FINANCE COMMISSION LOCAL-BODY GRANTS",
+      "preview": "START / CONCEPT: CORE — Union Finance Commission local-body grants",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 523
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 310.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 49.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 665,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Functionary control decides whether an elected local representative can direct the staff executing a devolved function or merely request it, because field staff such as engineers, health workers and teachers frequently remain administrative",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 522.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 684,
+      "heading": "VISUAL FIRST",
+      "preview": "FUNCTIONARY CONTROL AS THE DECISIVE LEG",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 327.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 286.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 729,
+      "heading": "CLOSING RECALL FLOW - CORE - FUNCTIONARY CONTROL AS THE DECISIVE LEG",
+      "preview": "START / CONCEPT: CORE — Functionary control as the decisive leg",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 504
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 402.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 243ZD requires the consolidation of Panchayat and Municipality plans and the preparation of a draft district plan, taking account of common interests such as spatial planning, sharing of water and other physical and natural resource",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 210.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 87.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 759,
+      "heading": "VISUAL FIRST",
+      "preview": "THE DISTRICT PLANNING COMMITTEE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 804,
+      "heading": "CLOSING RECALL FLOW - CORE - THE DISTRICT PLANNING COMMITTEE",
+      "preview": "START / CONCEPT: CORE — The District Planning Committee",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 716
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 815,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The Metropolitan Planning Committee under Article 243ZE - State Election Commissions and the continuity precondition Qualified use: Cover the metropolitan and continuity gaps that most answers omit entirely.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 323.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 257.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 837,
+      "heading": "VISUAL FIRST",
+      "preview": "METROPOLITAN PLANNING AND ELECTORAL CONTINUITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 866,
+      "markdown_body_line_end": 883,
+      "heading": "CLOSING RECALL FLOW - CORE - METROPOLITAN PLANNING AND ELECTORAL CONTINUITY",
+      "preview": "START / CONCEPT: CORE — Metropolitan planning and electoral continuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 440
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 894,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The Panchayats Extension to Scheduled Areas Act, 1996 and the consultation limit Qualified use: Protect a Scheduled-Areas answer from the single commonest legal misstatement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 313.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 247.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 913,
+      "heading": "VISUAL FIRST",
+      "preview": "SCHEDULED AREAS AND THE CONSULTATION LIMIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 958,
+      "heading": "CLOSING RECALL FLOW - CORE - SCHEDULED AREAS AND THE CONSULTATION LIMIT",
+      "preview": "START / CONCEPT: CORE — Scheduled Areas and the consultation limit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 541
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 363.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 92.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 969,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Deconcentration means field offices of a higher tier operating locally, delegation means agency functions performed on behalf of a higher tier, and devolution means the transfer of authority together with resources and accountability, so mo",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "VISUAL FIRST",
+      "preview": "THE BENCHMARK CASE AND THE THREE-WAY DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 342.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 261.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1037,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE BENCHMARK CASE AND THE THREE-WAY DISTINCTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The benchmark case and the three-way distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 500
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 447.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 146.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1048,
+      "markdown_body_line_end": 1048,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Merger is a genuine trade-off decided by criteria rather than by preference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1073,
+      "heading": "VISUAL FIRST",
+      "preview": "THE DEVOLUTION GAP AND THE MERGER BALANCE SHEET",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 283.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1103,
+      "markdown_body_line_end": 1120,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE DEVOLUTION GAP AND THE MERGER BALANCE SHEET",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The devolution gap and the merger balance sheet",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 860
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1131,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, institution, official category, dated edition or scope rule attached to Urban fragmentation, capture and honest ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 248.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 181.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1153,
+      "heading": "VISUAL FIRST",
+      "preview": "URBAN FRAGMENTATION, CAPTURE AND HONEST OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 666.891
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1188,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** The service-delivery angle of local bodies — the 3Fs, District Planning Committees, rural-urban merger, and the Kerala People's Plan Campaign. **",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 718.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 595.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1214,
+      "heading": "1. Visual foundation",
+      "preview": "GOVERNANCE'S QUESTION (not Polity's): DOES DEVOLUTION ACTUALLY DELIVER SERVICES?",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 573.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1223,
+      "markdown_body_line_end": 1230,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 299.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1336,
+      "markdown_body_line_end": 1340,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Local bodies can deliver good governance only where Funds, Functions and Functionaries are devolved together, not merely where they are constitutionally recognised; structural changes like rural-urban merger can improve p",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 497.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 424.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1363,
+      "markdown_body_line_end": 1367,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for the *devolution of powers and finances to local levels* clause, including both demands the 2018–2023 ledger routed to `advanced/12`, is held **in this file**. `advanced/12` is optional enrichment onl",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 168.624
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 73.556
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1439,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 568.29
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1473,
+      "markdown_body_line_end": 1492,
+      "heading": "13.4 Evidence bank - institutions, mechanisms and limits",
+      "preview": "Anchor | What it is | Mechanism | Limitation / caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 18,
+        "headers": [
+          "Anchor",
+          "What it is",
+          "Mechanism",
+          "Limitation / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 181.29
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 508.39
+        }
+      },
+      "pdf_pages": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1496,
+      "markdown_body_line_end": 1510,
+      "heading": "13.5 Causal chain - from devolution design to service outcome",
+      "preview": "CONSTITUTIONAL RECOGNITION      permanent third tier established (Polity owns this)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 486.39
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 345.39
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1618,
+      "markdown_body_line_end": 1620,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 589.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 508.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1626,
+      "markdown_body_line_end": 1628,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 457.224
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 360.322
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1634,
+      "markdown_body_line_end": 1634,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 321.122
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 276.454
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1641,
+      "markdown_body_line_end": 1642,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 276.454
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 209.787
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1648,
+      "markdown_body_line_end": 1650,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 158.187
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 82.285
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1656,
+      "markdown_body_line_end": 1656,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1663,
+      "markdown_body_line_end": 1665,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 677.756
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1671,
+      "markdown_body_line_end": 1674,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 626.156
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 508.754
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1681,
+      "markdown_body_line_end": 1681,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 452.354
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 407.687
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1686,
+      "markdown_body_line_end": 1703,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - URBAN FRAGMENTATION, CAPTURE AND HONEST OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Urban fragmentation, capture and honest ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1027
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 373.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2558,
+      "markdown_body_line_end": 2560,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2566,
+      "markdown_body_line_end": 2568,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 676.824
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 579.922
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2574,
+      "markdown_body_line_end": 2574,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 540.722
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 496.054
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2581,
+      "markdown_body_line_end": 2582,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 496.054
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 429.387
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2588,
+      "markdown_body_line_end": 2590,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 377.787
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 301.885
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2596,
+      "markdown_body_line_end": 2596,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 262.685
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 218.017
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2603,
+      "markdown_body_line_end": 2605,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 218.017
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 137.15
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2611,
+      "markdown_body_line_end": 2614,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 685.89
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2621,
+      "markdown_body_line_end": 2621,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 629.49
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 584.822
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2633,
+      "markdown_body_line_end": 2634,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 498.022
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 431.354
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2640,
+      "markdown_body_line_end": 2643,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 379.754
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 220.353
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2650,
+      "markdown_body_line_end": 2650,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 163.953
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 119.285
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3060,
+      "markdown_body_line_end": 3066,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** The service-delivery angle of local bodies — the 3Fs, District Planning Committees, rural-urban merger, and the Kerala People's Plan Campaign. **Grounded in:",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 565.691
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 478.424
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3070,
+      "markdown_body_line_end": 3086,
+      "heading": "1. Architecture",
+      "preview": "CONSTITUTIONAL STATUS (Polity-owned)         SERVICE-DELIVERY CAPACITY (Governance-owned)",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 456.424
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 295.424
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3095,
+      "markdown_body_line_end": 3100,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 431.49
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3268,
+      "markdown_body_line_end": 3269,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 623.491
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 556.824
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3275,
+      "markdown_body_line_end": 3278,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 505.224
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 345.822
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3285,
+      "markdown_body_line_end": 3285,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 289.422
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 244.754
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3335,
+      "markdown_body_line_end": 3341,
+      "heading": "Local Governance and Service Delivery: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 301.691
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 240.691
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3351,
+      "markdown_body_line_end": 3357,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three legs of devolution",
+      "preview": "FUNDS -> own-source revenue plus predictable, formula-based transfers",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 552.491
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 490.491
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3361,
+      "markdown_body_line_end": 3366,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Two constitutional functional domains",
+      "preview": "RURAL -> Article 243G with the Eleventh Schedule; twenty-nine listed subjects",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 468.491
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 416.691
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3370,
+      "markdown_body_line_end": 3376,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: From listed subject to real control",
+      "preview": "LISTED IN THE SCHEDULE -> the enabling constitutional frame only",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 394.691
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 332.691
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3380,
+      "markdown_body_line_end": 3385,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Fiscal architecture card",
+      "preview": "OWN REVENUE -> property tax and local levies; narrow base, outdated valuation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 310.691
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 258.891
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3389,
+      "markdown_body_line_end": 3395,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Planning institutions",
+      "preview": "DISTRICT PLANNING COMMITTEE -> Article 243ZD; consolidates Panchayat and Municipality plans",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3399,
+      "markdown_body_line_end": 3404,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Scheduled Areas precision",
+      "preview": "STATUTE -> the Panchayats Extension to Scheduled Areas Act, 1996",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3408,
+      "markdown_body_line_end": 3413,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Three degrees of decentralisation",
+      "preview": "DECONCENTRATION -> field offices of a higher tier operating locally",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3417,
+      "markdown_body_line_end": 3424,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Devolution chain to service outcome",
+      "preview": "CONSTITUTIONAL RECOGNITION -> a permanent third tier is established",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3428,
+      "markdown_body_line_end": 3433,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Merger balance sheet",
+      "preview": "FOR -> unified planning across a functionally continuous settlement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3437,
+      "markdown_body_line_end": 3443,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Decision rule for reclassification",
+      "preview": "CRITERION 1 -> population density trajectory and non-agricultural employment share",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 325.691
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3447,
+      "markdown_body_line_end": 3454,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Urban fragmentation map",
+      "preview": "POLITICAL LEADERSHIP -> Mayor and council under State law",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 231.491
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3458,
+      "markdown_body_line_end": 3463,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a local-governance demand",
+      "preview": "OPEN -> the three legs, not the amendment; delivery capacity, not constitutional recital",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    }
+  ]
+}

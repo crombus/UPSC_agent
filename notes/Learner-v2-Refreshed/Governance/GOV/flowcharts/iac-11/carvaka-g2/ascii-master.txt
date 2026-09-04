@@ -1,0 +1,81 @@
+ASCII MASTER FLOW — PANEL 1/12: Why a statutory regulator is created
+TECHNICAL COMPLEXITY -> generalist departments cannot set or police detailed sector rules
+INSULATION -> individual licensing and tariff decisions removed from daily political direction
+PREDICTABILITY -> consistent rule-making that investors and users can plan against
+COST -> the same insulation creates an accountability problem and a capture risk
+MUST REMEMBER: Regulatory governance sets rules, licences, standards, monitoring,...
+
+ASCII MASTER FLOW — PANEL 2/12: Trilemma with paired design features
+AUTONOMY: fixed-term appointment -> ACCOUNTABILITY: annual report laid before Parliament
+AUTONOMY: fee or cess funding -> ACCOUNTABILITY: audit of the regulator's own accounts
+AUTONOMY: technical composition -> ACCOUNTABILITY: policy directions in specified circumstances
+AUTONOMY: statutory rule-making -> ACCOUNTABILITY: consultation with a published response
+AUTONOMY: security of tenure -> ACCOUNTABILITY: appellate tribunal and judicial review
+
+ASCII MASTER FLOW — PANEL 3/12: Independence spectrum
+LOW END -> a ministry-controlled department: strong political control, weak insulation
+HIGH END -> fixed tenure, own funding, removal for cause, technical composition
+REALITY -> no Indian regulator sits at either extreme; the statute fixes the placement
+WEDGE -> compare the formal grant with the working reality for the same body
+
+ASCII MASTER FLOW — PANEL 4/12: How capture happens lawfully
+INFORMATION ASYMMETRY -> the industry knows the sector better than the regulator
+-> dependence on industry data, expertise and personnel becomes structural
+-> revolving door, funded research and repeat-player access shape the agenda
+-> framing capture: the regulator adopts the industry's definition of the problem
+-> outcome: entry barriers described as quality standards; no illegality is needed
+
+ASCII MASTER FLOW — PANEL 5/12: Two directions of failure
+INDUSTRY CAPTURE -> rules that serve incumbents and exclude entrants
+MINISTERIAL CAPTURE -> politically timed decisions and suppressed tariffs
+SHARED CORRECTIVE -> consultation with published responses and reasoned orders
+SHARED CORRECTIVE -> cooling-off periods, in-house capacity, user representation
+
+ASCII MASTER FLOW — PANEL 6/12: Six-test design checklist
+1 STATUTORY MANDATE -> what exactly is it empowered to do, and by which Act
+2 APPOINTMENT AND REMOVAL -> who selects, on what criteria, can removal be arbitrary
+3 FUNDING -> does the money come from a source the ministry or the industry controls
+4 RULE-MAKING -> pre-consultation, published response to comments, impact appraisal
+5 ENFORCEMENT DUE PROCESS -> notice, hearing, reasoned order, proportionality, no bias
+6 REVIEW AND REPORTING -> appellate route and reporting to the legislature
+
+ASCII MASTER FLOW — PANEL 7/12: Competition regulator card
+PARENT STATUTE -> the Competition Act, 2002
+FUNCTIONS -> anti-competitive agreements, abuse of dominance, review of combinations
+APPEAL -> National Company Law Appellate Tribunal, then the Supreme Court
+OFFICIAL PURPOSE -> an enabling competition culture, consumer welfare, economic growth
+BOUNDARY -> no case, party, penalty amount or order date is asserted anywhere
+
+ASCII MASTER FLOW — PANEL 8/12: Dominance against abuse
+LAWFUL -> holding a dominant position in a defined relevant market
+UNLAWFUL -> predatory or unfair pricing; unfair or discriminatory conditions
+UNLAWFUL -> limiting production or technical development; denial of market access
+UNLAWFUL -> tying and bundling; leveraging dominance into an adjacent market
+
+ASCII MASTER FLOW — PANEL 9/12: Two regulatory clocks
+SECTOR REGULATOR -> ex-ante: licences, tariffs, technical standards, entry conditions
+COMPETITION REGULATOR -> ex-post: conduct across the whole economy after the event
+OVERLAP -> a genuine jurisdictional question, not an oversight in the design
+LIMIT -> remedies arrive after the market structure has already shifted
+
+ASCII MASTER FLOW — PANEL 10/12: Tribunal reform timeline
+2021 -> the Tribunals Reforms Act abolishes named appellate bodies, functions to High Courts
+19 NOVEMBER 2025 -> 2025 INSC 1330 invalidates four heads of re-enacted provisions
+SAME JUDGMENT -> earlier Madras Bar Association standards made controlling
+SAME JUDGMENT -> a National Tribunals Commission directed within four months
+9 MARCH 2026 -> interim extensions for specified incumbents to 8 September 2026
+13 AUGUST 2026 -> no establishment notification located; implementation unresolved
+CLOSE DISTINCTION: Independence is protection from improper direction, not immunity from...
+
+ASCII MASTER FLOW — PANEL 11/12: Architecture proposal against adoption
+PROPOSAL -> a Unified Financial Agency on a regulation-by-activity principle, 2013
+SCOPE -> subsuming most financial regulators, excluding the central bank
+SEPARATE PROPOSAL -> a draft Indian Financial Code consolidating the legislation
+OUTCOME -> neither implemented in full; a 2015 merger is a partial related step only
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use RBI, SEBI, TRAI, CERC and CCI only with...
+
+ASCII MASTER FLOW — PANEL 12/12: Answer spine for a regulatory demand
+OPEN -> statutory character first: statutory, not constitutional, not executive-created
+BUILD -> mandate, function and appellate route, then the trilemma and capture mechanism
+CORRECT -> apply the six tests and name both directions of capture with correctives
+CLOSE -> graded verdict, dated status for anything unresolved, stated question ownership

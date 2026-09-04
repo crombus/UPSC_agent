@@ -1,0 +1,2405 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "governance-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Transparency, Accountability, RTI, Grievance Redress and Social Audit - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 710.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 383.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\assets\\governance-08_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 427.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Accountability is not transparency plus good intentions but a three-part chain - transparency, meaning visibility of records, spending and decisions; answerability, meaning an identifiable authority obliged to explain; and enforceability, m",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 212.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 102.888
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 84,
+      "heading": "VISUAL FIRST",
+      "preview": "TRANSPARENCY, ANSWERABILITY AND ENFORCEABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 638.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 129,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TRANSPARENCY, ANSWERABILITY AND ENFORCEABILITY",
+      "preview": "START / CONCEPT: FOUNDATION — Transparency, answerability and enforceability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 512
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Under the Right to Information Act, 2005 a citizen seeks existing information from a public authority within ordinarily 30 days, or 48 hours where the information concerns the life or liberty of a person, with a first appeal ordinarily with",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 358.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 235.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 159,
+      "heading": "VISUAL FIRST",
+      "preview": "THE INFORMATION-REQUEST ROUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 204,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE INFORMATION-REQUEST ROUTE",
+      "preview": "START / CONCEPT: FOUNDATION — The information-request route",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 655
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 325.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 54.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 215,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Proactive disclosure and its limits Qualified use: Show why an upstream duty reduces grievance volume and where it fails in practice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 234,
+      "heading": "VISUAL FIRST",
+      "preview": "PROACTIVE DISCLOSURE AND ITS LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 376.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 279,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PROACTIVE DISCLOSURE AND ITS LIMITS",
+      "preview": "START / CONCEPT: FOUNDATION — Proactive disclosure and its limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 610
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 459.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 290,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Section 8 of the Right to Information Act, 2005 contains the exemptions and they operate subject to severability, so a document is not withheld in full because part of it is exempt, and subject to the section 8(2) public-interest override, ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 277.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 168.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 309,
+      "heading": "VISUAL FIRST",
+      "preview": "EXEMPTIONS, SEVERABILITY AND THE OVERRIDE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 354,
+      "heading": "CLOSING RECALL FLOW - CORE - EXEMPTIONS, SEVERABILITY AND THE OVERRIDE",
+      "preview": "START / CONCEPT: CORE — Exemptions, severability and the override",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 556
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 324.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 63.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Section 8(1)(j) of the Right to Information Act, 2005 stands substituted by section 44(3) of the Digital Personal Data Protection Act, 2023, which sits in the already-commenced immediate tranche of that Act, so the substituted personal-info",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 603.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 465.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 384,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SUBSTITUTED PERSONAL-INFORMATION EXEMPTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 429,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SUBSTITUTED PERSONAL-INFORMATION EXEMPTION",
+      "preview": "START / CONCEPT: CORE — The substituted personal-information exemption",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 733
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 440,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Central and State Information Commissions are statutory bodies under the Right to Information Act, 2005 that decide complaints and second appeals concerning access to information and can secure the record, compensation and statutory com",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 309.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 200.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 459,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT AN INFORMATION COMMISSION CANNOT DO",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 721.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 487,
+      "markdown_body_line_end": 504,
+      "heading": "CLOSING RECALL FLOW - CORE - WHAT AN INFORMATION COMMISSION CANNOT DO",
+      "preview": "START / CONCEPT: CORE — What an Information Commission cannot do",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 589
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 324.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 53.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 515,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Social audit defined against other audits Qualified use: Name the mechanism precisely before evaluating whether it can deliver what a stem demands.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 530,
+      "markdown_body_line_end": 534,
+      "heading": "VISUAL FIRST",
+      "preview": "SOCIAL AUDIT DEFINED AGAINST OTHER AUDITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 579,
+      "heading": "CLOSING RECALL FLOW - CORE - SOCIAL AUDIT DEFINED AGAINST OTHER AUDITS",
+      "preview": "START / CONCEPT: CORE — Social audit defined against other audits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 575
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 503.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 590,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The statutory basis in the rural employment guarantee - Community verification and independent facilitation are complementary Qualified use: Ground a social-audit answer in the exact section, rule and audit cycle rather than",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 306.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 225.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 612,
+      "heading": "VISUAL FIRST",
+      "preview": "THE STATUTORY BASIS AND ITS DUAL DESIGN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 658,
+      "heading": "CLOSING RECALL FLOW - CORE - THE STATUTORY BASIS AND ITS DUAL DESIGN",
+      "preview": "START / CONCEPT: CORE — The statutory basis and its dual design",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 575
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 669,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "One State statute is not a national model in force.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 369.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 317.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 688,
+      "heading": "VISUAL FIRST",
+      "preview": "THE GENERALISED STATE STATUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 733,
+      "heading": "CLOSING RECALL FLOW - CORE - THE GENERALISED STATE STATUTE",
+      "preview": "START / CONCEPT: CORE — The generalised State statute",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 537
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 363.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 112.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 744,
+      "markdown_body_line_end": 744,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "At a public hearing the audit findings are presented in an open forum in which officials must respond in front of the affected community, which creates a direct, on-the-record answerability event that a written information reply cannot prod",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 508.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 766,
+      "heading": "VISUAL FIRST",
+      "preview": "THE PUBLIC HEARING AND ITS ENFORCEMENT GAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 313.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 232.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 812,
+      "heading": "CLOSING RECALL FLOW - CORE - THE PUBLIC HEARING AND ITS ENFORCEMENT GAP",
+      "preview": "START / CONCEPT: CORE — The public hearing and its enforcement gap",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 515
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 460.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 189.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 823,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Where the visibility-to-correction chain breaks Qualified use: Locate the exact stage at which accountability stops instead of calling for more transparency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 842,
+      "heading": "VISUAL FIRST",
+      "preview": "WHERE THE VISIBILITY-TO-CORRECTION CHAIN BREAKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 494.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 443.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 870,
+      "markdown_body_line_end": 887,
+      "heading": "CLOSING RECALL FLOW - CORE - WHERE THE VISIBILITY-TO-CORRECTION CHAIN BREAKS",
+      "preview": "START / CONCEPT: CORE — Where the visibility-to-correction chain breaks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 623
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 898,
+      "markdown_body_line_end": 898,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The accountability typology - Why social accountability must be coupled Qualified use: Structure a 15 or 20 mark accountability answer with a typology and a coupling argument.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 328.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 262.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 920,
+      "heading": "VISUAL FIRST",
+      "preview": "THE TYPOLOGY AND ITS COUPLING RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 949,
+      "markdown_body_line_end": 966,
+      "heading": "CLOSING RECALL FLOW - CORE - THE TYPOLOGY AND ITS COUPLING RULE",
+      "preview": "START / CONCEPT: CORE — The typology and its coupling rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 617
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 977,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The institutional division of labour Qualified use: Distinguish what each accountability institution actually does from what candidates assume it does.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 251.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 184.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 996,
+      "heading": "VISUAL FIRST",
+      "preview": "THE INSTITUTIONAL DIVISION OF LABOUR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1024,
+      "markdown_body_line_end": 1041,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE INSTITUTIONAL DIVISION OF LABOUR",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The institutional division of labour",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 833
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1052,
+      "markdown_body_line_end": 1052,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The routing table - Four functions that are not interchangeable Qualified use: Solve an applied accountability problem by naming the remedy, the record and the competent authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 271.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 204.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1074,
+      "heading": "VISUAL FIRST",
+      "preview": "ROUTING THE REMEDY AND FOUR DISTINCT FUNCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 681.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1103,
+      "markdown_body_line_end": 1120,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ROUTING THE REMEDY AND FOUR DISTINCT FUNCTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Routing the remedy and four distinct functions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 832
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 436.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1131,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Appellant/RTI user: bears cost, delay and, in some contexts, personal risk — which is exactly why whistle-blower protection being uncommenced matters.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 239.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 173.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1153,
+      "heading": "VISUAL FIRST",
+      "preview": "THE UNCOMMENCED PROTECTION AND HONEST QUESTION OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 156
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 652.691
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1192,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** RTI and the wider accountability ecosystem — social audit, MGNREGA Section 17 and the 2011 Rules, the Meghalaya Community Participation and Publi",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 738.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 586.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1196,
+      "markdown_body_line_end": 1210,
+      "heading": "1. Visual foundation",
+      "preview": "TRANSPARENCY                 ANSWERABILITY              ENFORCEABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 564.824
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 423.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1227,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 289.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1371,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Genuine accountability requires more than transparency — social audit converts visibility into public, community-verified answerability, and its statutory backing under MGNREGA Section 17 and generalised state legislation",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 665.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 592.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1399,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for the *transparency and accountability, institutional and other measures* clause is held **in this file**, including the RTI demand routed here by the 2018–2023 ledger and the two 2026 Prelims demands ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 286.624
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 205.756
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1438,
+      "markdown_body_line_end": 1445,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 577.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 336.09
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1491,
+      "heading": "13.4 Evidence bank - the accountability ecosystem",
+      "preview": "Instrument | Legal character | What it can do | What it **cannot** do",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 10,
+        "headers": [
+          "Instrument",
+          "Legal character",
+          "What it can do",
+          "What it **cannot** do"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 724.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 128.09
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1495,
+      "markdown_body_line_end": 1503,
+      "heading": "13.5 Routing table - the distinction that most often decides the mark",
+      "preview": "The problem | The correct route | Why the obvious alternative fails",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "The problem",
+          "The correct route",
+          "Why the obvious alternative fails"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 547.09
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1513,
+      "markdown_body_line_end": 1522,
+      "heading": "13.6 Accountability typology (use for structure at 15 and 20 marks)",
+      "preview": "HORIZONTAL   state institution checks state institution",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 463.29
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 372.29
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1532,
+      "markdown_body_line_end": 1546,
+      "heading": "13.7 Causal chain - from visibility to correction",
+      "preview": "DISCLOSURE      s.4 proactive | RTI request | dashboard | audit report",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 288.49
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 147.49
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1621,
+      "markdown_body_line_end": 1623,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 668.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 587.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1629,
+      "markdown_body_line_end": 1632,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 536.224
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 376.822
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1639,
+      "markdown_body_line_end": 1639,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 320.422
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 275.754
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1646,
+      "markdown_body_line_end": 1647,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 275.754
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 209.087
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1653,
+      "markdown_body_line_end": 1655,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 157.487
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 71.085
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1661,
+      "markdown_body_line_end": 1661,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1668,
+      "markdown_body_line_end": 1669,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 725.424
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 658.756
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1675,
+      "markdown_body_line_end": 1677,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 607.156
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 510.254
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1683,
+      "markdown_body_line_end": 1683,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 471.054
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 426.387
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1688,
+      "markdown_body_line_end": 1705,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE UNCOMMENCED PROTECTION AND HONEST QUESTION OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The uncommenced protection and honest question ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 607
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 391.387
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 110.387
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2561,
+      "markdown_body_line_end": 2563,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 332.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 252.024
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2569,
+      "markdown_body_line_end": 2572,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 200.424
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 41.022
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2579,
+      "markdown_body_line_end": 2579,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 708.224
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2586,
+      "markdown_body_line_end": 2587,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 708.224
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 641.556
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2593,
+      "markdown_body_line_end": 2595,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 589.956
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 503.554
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2601,
+      "markdown_body_line_end": 2601,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 464.354
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 419.687
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2608,
+      "markdown_body_line_end": 2609,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 419.687
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 353.019
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2615,
+      "markdown_body_line_end": 2617,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 301.419
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 204.517
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2623,
+      "markdown_body_line_end": 2623,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 165.317
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 120.65
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3012,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** RTI, remedy routing, social audit, MGNREGA Section 17/2011 Rules, the Meghalaya Community Participation and Public Services Social Audit Act, 2017, grievance",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 117,
+          "frame_y": 370.091
+        },
+        "end": {
+          "page": 117,
+          "frame_y": 254.424
+        }
+      },
+      "pdf_pages": [
+        117
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3016,
+      "markdown_body_line_end": 3032,
+      "heading": "1. Architecture",
+      "preview": "SCHEME-SPECIFIC MANDATE          GENERALISED STATE LEGISLATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 117,
+          "frame_y": 232.424
+        },
+        "end": {
+          "page": 117,
+          "frame_y": 71.424
+        }
+      },
+      "pdf_pages": [
+        117
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3041,
+      "markdown_body_line_end": 3047,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 390.09
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3251,
+      "markdown_body_line_end": 3257,
+      "heading": "Transparency, Accountability, RTI, Grievance Redress and Social Audit: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 566.891
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 505.891
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3267,
+      "markdown_body_line_end": 3273,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Transparency to consequence",
+      "preview": "TRANSPARENCY -> visibility of records, spending and decisions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 701.291
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3277,
+      "markdown_body_line_end": 3283,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Information-request route card",
+      "preview": "ORDINARY REPLY -> 30 days from the public information officer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 617.291
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3287,
+      "markdown_body_line_end": 3292,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Exemptions and the override",
+      "preview": "EXEMPTIONS -> section 8, applied clause by clause",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 543.491
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3296,
+      "markdown_body_line_end": 3301,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: The substituted exemption",
+      "preview": "BEFORE -> the pre-substitution personal-information test, now superseded",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 521.491
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 469.691
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3305,
+      "markdown_body_line_end": 3310,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Social audit statutory basis",
+      "preview": "SECTION 17 -> the Gram Sabha holds the monitoring and social-audit function",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 447.691
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 395.891
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3314,
+      "markdown_body_line_end": 3319,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Two layers, one audit",
+      "preview": "COMMUNITY LAYER -> local knowledge, public legitimacy, presence of the affected people",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 373.891
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 322.091
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3323,
+      "markdown_body_line_end": 3328,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Two tests that decide quality",
+      "preview": "INDEPENDENCE TEST -> is the facilitator structurally separate from the audited department",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 300.091
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 248.291
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3332,
+      "markdown_body_line_end": 3338,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Visibility to correction",
+      "preview": "DISCLOSURE -> published but sometimes aggregated, technical or stale",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3342,
+      "markdown_body_line_end": 3347,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Accountability typology",
+      "preview": "HORIZONTAL -> public audit, legislative committees, vigilance, ombudsman, courts, regulators",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3351,
+      "markdown_body_line_end": 3357,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Institutional division of labour",
+      "preview": "PUBLIC AUDITOR -> Articles 148 to 151; financial, compliance and performance audit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3361,
+      "markdown_body_line_end": 3368,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Routing the remedy",
+      "preview": "INFORMATION DENIED -> public information officer, first appeal, Information Commission",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3372,
+      "markdown_body_line_end": 3377,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for an accountability demand",
+      "preview": "OPEN -> transparency, answerability and enforceability separated in sentence one",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    }
+  ]
+}

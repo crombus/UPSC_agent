@@ -1,0 +1,2748 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "indian-art-and-culture-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Indian Music - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 741.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 424.824
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 173.422
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\assets\\indian-art-and-culture-08_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 532.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 224.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Saptaswara - Thaat definition - Raga definition Qualified use: Build the foundational theory vocabulary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 88,
+      "heading": "VISUAL FIRST",
+      "preview": "SWARA, THAAT AND RAGA",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 461.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 118,
+      "markdown_body_line_end": 135,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SWARA, THAAT AND RAGA",
+      "preview": "START / CONCEPT: FOUNDATION — Swara, thaat and raga",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 146,
+      "markdown_body_line_end": 146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 165,
+      "heading": "VISUAL FIRST",
+      "preview": "MELAKARTA AND JANYA LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 210,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MELAKARTA AND JANYA LOGIC",
+      "preview": "START / CONCEPT: FOUNDATION — Melakarta and janya logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 262.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 221,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 136.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 70.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 236,
+      "markdown_body_line_end": 240,
+      "heading": "VISUAL FIRST",
+      "preview": "HINDUSTANI AND CARNATIC SHARED ROOTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 285,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - HINDUSTANI AND CARNATIC SHARED ROOTS",
+      "preview": "START / CONCEPT: FOUNDATION — Hindustani and Carnatic shared roots",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 290.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 69.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 296,
+      "markdown_body_line_end": 296,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 315,
+      "heading": "VISUAL FIRST",
+      "preview": "RAGA, RASA AND TIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 343,
+      "markdown_body_line_end": 360,
+      "heading": "CLOSING RECALL FLOW - CORE - RAGA, RASA AND TIME",
+      "preview": "START / CONCEPT: CORE — Raga, rasa and time",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 371,
+      "markdown_body_line_end": 371,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Treatise contribution chain Qualified use: Build a chronological theory spine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 390,
+      "heading": "VISUAL FIRST",
+      "preview": "TREATISES BY CONTRIBUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 435,
+      "heading": "CLOSING RECALL FLOW - CORE - TREATISES BY CONTRIBUTION",
+      "preview": "START / CONCEPT: CORE — Treatises by contribution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 446,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Modern pedagogy Qualified use: Prepare the 2025 objective route.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 159.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 107.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 461,
+      "markdown_body_line_end": 465,
+      "heading": "VISUAL FIRST",
+      "preview": "BHATKHANDE, PALUSKAR AND PEDAGOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 638.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 510,
+      "heading": "CLOSING RECALL FLOW - CORE - BHATKHANDE, PALUSKAR AND PEDAGOGY",
+      "preview": "START / CONCEPT: CORE — Bhatkhande, Paluskar and pedagogy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 139.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 521,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 540,
+      "heading": "VISUAL FIRST",
+      "preview": "GHARANA AS LABOUR AND PATRONAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 568,
+      "markdown_body_line_end": 585,
+      "heading": "CLOSING RECALL FLOW - CORE - GHARANA AS LABOUR AND PATRONAGE",
+      "preview": "START / CONCEPT: CORE — Gharana as labour and patronage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 596,
+      "markdown_body_line_end": 596,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 611,
+      "markdown_body_line_end": 615,
+      "heading": "VISUAL FIRST",
+      "preview": "NAMED GHARANA DISCRIMINATORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 660,
+      "heading": "CLOSING RECALL FLOW - CORE - NAMED GHARANA DISCRIMINATORS",
+      "preview": "START / CONCEPT: CORE — Named gharana discriminators",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 671,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 121.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 54.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 693,
+      "heading": "VISUAL FIRST",
+      "preview": "DHRUPAD, KHAYAL AND COURT CHANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - CORE - DHRUPAD, KHAYAL AND COURT CHANGE",
+      "preview": "START / CONCEPT: CORE — Dhrupad, khayal and court change",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 769,
+      "heading": "VISUAL FIRST",
+      "preview": "CARNATIC COMPOSERS AND PATRONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 814,
+      "heading": "CLOSING RECALL FLOW - CORE - CARNATIC COMPOSERS AND PATRONS",
+      "preview": "START / CONCEPT: CORE — Carnatic composers and patrons",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 232.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 825,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 125.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 59.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 844,
+      "heading": "VISUAL FIRST",
+      "preview": "KRITI AND CONCERT SEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 872,
+      "markdown_body_line_end": 889,
+      "heading": "CLOSING RECALL FLOW - CORE - KRITI AND CONCERT SEQUENCE",
+      "preview": "START / CONCEPT: CORE — Kriti and concert sequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 93.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 900,
+      "markdown_body_line_end": 900,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 922,
+      "heading": "VISUAL FIRST",
+      "preview": "INSTRUMENT FAMILIES BY MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 968,
+      "heading": "CLOSING RECALL FLOW - CORE - INSTRUMENT FAMILIES BY MECHANISM",
+      "preview": "START / CONCEPT: CORE — Instrument families by mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 979,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Modern musician precision Qualified use: Model attribution discipline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 998,
+      "heading": "VISUAL FIRST",
+      "preview": "MODERN MUSICIANS AND SOURCE LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1043,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MODERN MUSICIANS AND SOURCE LIMITS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Modern musicians and source limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 228.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1054,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 102.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1073,
+      "heading": "VISUAL FIRST",
+      "preview": "FOLK MUSIC BY OCCASION AND REGION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 620.424
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1118,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FOLK MUSIC BY OCCASION AND REGION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Folk music by occasion and region",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 282.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 61.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1130,
+      "heading": "VISUAL FIRST",
+      "preview": "SNA LINKAGE AND PYQ AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 692.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1158,
+      "markdown_body_line_end": 1169,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I. **Core area:** Swara-raga-tala vocabulary; Hindustani vs. Carnatic music; gharana system; Dhrupad/Khayal/Thumri/Tappa/Ghazal styles; instruments; folk ",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 371.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 233.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1188,
+      "heading": "2. Essential vocabulary",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 422.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1240,
+      "markdown_body_line_end": 1257,
+      "heading": "5. Visual map or comparison table",
+      "preview": "SAPTASWARA (Sa Re Ga Ma Pa Dha Ni)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 576.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1264,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Basis | Hindustani music | Carnatic music",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Basis",
+          "Hindustani music",
+          "Carnatic music"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 576.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 411.49
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1353,
+      "markdown_body_line_end": 1357,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note.** Music has no direct Mains PYQ in the audited set, but it is a dense Prelims owner and the standard supplier of the \"performing arts and patronage\" dimension in broader culture answers. This section makes `basic/08",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 149.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 54.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1371,
+      "heading": "13.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 426.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1403,
+      "heading": "13.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 333.09
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1407,
+      "markdown_body_line_end": 1414,
+      "heading": "13.4 Evidence bank A - theory spine (identification-ready)",
+      "preview": "Concept | ✅ Precise content | Exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "✅ Precise content",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 411.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1418,
+      "markdown_body_line_end": 1425,
+      "heading": "13.5 Evidence bank B - treatise chronology (who contributed what)",
+      "preview": "Treatise | ✅ Contribution",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Treatise",
+          "✅ Contribution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 389.49
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 170.488
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1438,
+      "heading": "13.6 Evidence bank C - traditions compared on named axes",
+      "preview": "Axis | ✅ Hindustani | ✅ Carnatic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "✅ Hindustani",
+          "✅ Carnatic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1446,
+      "markdown_body_line_end": 1454,
+      "heading": "13.7 Evidence bank D - gharanas and patronage as a mechanism",
+      "preview": "Gharana | ✅ Distinguishing emphasis",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Gharana",
+          "✅ Distinguishing emphasis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 550.29
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 377.288
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1471,
+      "markdown_body_line_end": 1476,
+      "heading": "13.7A Evidence bank D+ - Carnatic composers and patronage (the routed Tyagaraja/Annamacharya demands, closed)",
+      "preview": "**Why this section exists.** A hostile review found that §13.6's Hindustani-versus-Carnatic comparison had **named exponents on the Hindustani side only** (gharana founders, Sadarang, Tansen), so a 15/20-mark \"compare the two traditions thr",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 253.688
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 145.62
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1491,
+      "heading": "13.7A Evidence bank D+ - Carnatic composers and patronage (the routed Tyagaraja/Annamacharya demands, closed)",
+      "preview": "Composer | ✅ Dates | ✅ Contribution and form | ✅ Patronage / legacy | Limit",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 10,
+        "headers": [
+          "Composer",
+          "✅ Dates",
+          "✅ Contribution and form",
+          "✅ Patronage / legacy",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 126.42
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 622.89
+        }
+      },
+      "pdf_pages": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1495,
+      "markdown_body_line_end": 1500,
+      "heading": "13.7A Evidence bank D+ - Carnatic composers and patronage (the routed Tyagaraja/Annamacharya demands, closed)",
+      "preview": "Term | ✅ What the source says | Safe use | ❌ What must not be written",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "✅ What the source says",
+          "Safe use",
+          "❌ What must not be written"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 603.69
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 98.788
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1504,
+      "markdown_body_line_end": 1509,
+      "heading": "13.7A Evidence bank D+ - Carnatic composers and patronage (the routed Tyagaraja/Annamacharya demands, closed)",
+      "preview": "Axis | ✅ Carnatic evidence | ✅ Hindustani evidence | ⚠️ The analytical point",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "✅ Carnatic evidence",
+          "✅ Hindustani evidence",
+          "⚠️ The analytical point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 392.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1523,
+      "markdown_body_line_end": 1530,
+      "heading": "13.7B Evidence bank D++ - musical instruments: the four-fold classification, identification and traps",
+      "preview": "**Why this exists.** A hostile review found that **musical instruments were absent from Core altogether** — the folder taught raga, tala, gharana, treatise and composer, but a candidate could not have said which family the **ghatam** belong",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 302.69
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 193.422
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1536,
+      "markdown_body_line_end": 1541,
+      "heading": "13.7B Evidence bank D++ - musical instruments: the four-fold classification, identification and traps",
+      "preview": "✅ Sanskrit family | ✅ Western equivalent | ✅ Sound mechanism, in the source's words | ✅ Classical examples | ✅ Folk / regional examples",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 4,
+        "headers": [
+          "✅ Sanskrit family",
+          "✅ Western equivalent",
+          "✅ Sound mechanism, in the source's words",
+          "✅ Classical examples",
+          "✅ Folk / regional examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 340.39
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1543,
+      "markdown_body_line_end": 1548,
+      "heading": "13.7B Evidence bank D++ - musical instruments: the four-fold classification, identification and traps",
+      "preview": "🔑 **Mnemonic for the four families, in the source's own table order:** **A-S-G-T** — **A**vanaddha (strike a skin) · **S**ushira (blow through a hollow) · **G**hana (strike a solid) · **T**ata (pluck or bow a string). The single discriminat",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 340.39
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 267.322
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1553,
+      "markdown_body_line_end": 1570,
+      "heading": "13.7B Evidence bank D++ - musical instruments: the four-fold classification, identification and traps",
+      "preview": "✅ Instrument | ✅ Family | ✅ Tradition / region | ✅ Named association",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 16,
+        "headers": [
+          "✅ Instrument",
+          "✅ Family",
+          "✅ Tradition / region",
+          "✅ Named association"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 314.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1574,
+      "markdown_body_line_end": 1579,
+      "heading": "13.7B Evidence bank D++ - musical instruments: the four-fold classification, identification and traps",
+      "preview": "Trap | ❌ Wrong | ✅ Right",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Trap",
+          "❌ Wrong",
+          "✅ Right"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 481.09
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1599,
+      "markdown_body_line_end": 1604,
+      "heading": "13.7C Evidence bank D+++ - modern musicians, source-grounded and bounded",
+      "preview": "**Why this exists.** The same review found that Core could name **treatises, gharanas and Carnatic composers** but not a single **twentieth-century performer**, so any demand touching modern classical music, national recognition or the \"liv",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 300.89
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 205.822
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1606,
+      "markdown_body_line_end": 1614,
+      "heading": "13.7C Evidence bank D+++ - modern musicians, source-grounded and bounded",
+      "preview": "✅ Musician | ✅ Dates | ✅ Instrument / form | ✅ Tradition, gharana or association | ✅ Recognition and legacy, as sourced",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 7,
+        "headers": [
+          "✅ Musician",
+          "✅ Dates",
+          "✅ Instrument / form",
+          "✅ Tradition, gharana or association",
+          "✅ Recognition and legacy, as sourced"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 341.89
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1662,
+      "markdown_body_line_end": 1682,
+      "heading": "13.8 Evidence bank E - folk music (region · theme · marker)",
+      "preview": "Form | ✅ Region | ✅ Theme/marker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 19,
+        "headers": [
+          "Form",
+          "✅ Region",
+          "✅ Theme/marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 640.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 670.29
+        }
+      },
+      "pdf_pages": [
+        42,
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1762,
+      "markdown_body_line_end": 1764,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 524.891
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 444.024
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1770,
+      "markdown_body_line_end": 1773,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 392.424
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 170.022
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1780,
+      "markdown_body_line_end": 1780,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 113.622
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 68.954
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1787,
+      "markdown_body_line_end": 1789,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1795,
+      "markdown_body_line_end": 1797,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 565.722
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1803,
+      "markdown_body_line_end": 1803,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 526.522
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 481.854
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1810,
+      "markdown_body_line_end": 1812,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 481.854
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 400.987
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1818,
+      "markdown_body_line_end": 1821,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 349.387
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 189.985
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1828,
+      "markdown_body_line_end": 1828,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 133.585
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 88.917
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2748,
+      "markdown_body_line_end": 2750,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 647.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 566.224
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2756,
+      "markdown_body_line_end": 2759,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 514.624
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 292.222
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2766,
+      "markdown_body_line_end": 2766,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 235.822
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 191.154
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2773,
+      "markdown_body_line_end": 2775,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 191.154
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 96.087
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2781,
+      "markdown_body_line_end": 2783,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 706.39
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2789,
+      "markdown_body_line_end": 2789,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 667.19
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 622.522
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2796,
+      "markdown_body_line_end": 2798,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 622.522
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 541.654
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2804,
+      "markdown_body_line_end": 2807,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 490.054
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 330.653
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2814,
+      "markdown_body_line_end": 2814,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 274.253
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 229.585
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3054,
+      "markdown_body_line_end": 3064,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I. **Core area:** Treatises and textual authority; gharana as patronage ecology; performance ecology and transmission; claims around attributed inventions; safeguardi",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 455.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 339.624
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3083,
+      "markdown_body_line_end": 3087,
+      "heading": "2. Advanced vocabulary",
+      "preview": "Term | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 508.69
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3091,
+      "markdown_body_line_end": 3096,
+      "heading": "3. Comparative framework",
+      "preview": "Dimension | Hindustani music | Carnatic music",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Hindustani music",
+          "Carnatic music"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 486.69
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 310.088
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3121,
+      "markdown_body_line_end": 3134,
+      "heading": "5. Visual synthesis table",
+      "preview": "COURTLY/TEMPLE PATRONAGE (Mughal courts; South Indian temples/zamindars)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3229,
+      "markdown_body_line_end": 3240,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Melodic hierarchy",
+      "preview": "SAPTASWARA -> shared note base",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 349.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 236.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3244,
+      "markdown_body_line_end": 3249,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Thaat-raga firewall",
+      "preview": "THAAT -> seven-note unsung scale",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3253,
+      "markdown_body_line_end": 3258,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Two-tradition matrix",
+      "preview": "HINDUSTANI -> thaat, gharana, alap and khayal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3262,
+      "markdown_body_line_end": 3267,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Treatise contribution chain",
+      "preview": "BHARATA -> music with drama and rasa",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3271,
+      "markdown_body_line_end": 3276,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Modern pedagogy shift",
+      "preview": "HEREDITARY LINEAGE -> concentrated technique",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3280,
+      "markdown_body_line_end": 3285,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Gharana mechanism",
+      "preview": "HOUSEHOLD / LINEAGE -> specialised skill",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3289,
+      "markdown_body_line_end": 3294,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Gharana discriminator",
+      "preview": "DAGAR -> Dhrupad",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 29
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3298,
+      "markdown_body_line_end": 3303,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Aurangzeb correction rail",
+      "preview": "COURT SINGING -> curtailed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3307,
+      "markdown_body_line_end": 3312,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Carnatic composer map",
+      "preview": "ANNAMACHARYA -> Venkateswara sankirtanas",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3316,
+      "markdown_body_line_end": 3327,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Instrument mechanism test",
+      "preview": "TATA -> vibrating string",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3331,
+      "markdown_body_line_end": 3342,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Folk-function map",
+      "preview": "PANDAVANI -> epic memory, Chhattisgarh",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3346,
+      "markdown_body_line_end": 3351,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Music answer spine",
+      "preview": "DEFINE -> note, scale, raga or form",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    }
+  ]
+}

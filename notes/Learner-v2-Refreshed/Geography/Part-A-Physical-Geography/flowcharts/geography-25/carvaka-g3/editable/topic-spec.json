@@ -1,0 +1,1111 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-25",
+  "subject": "Geography",
+  "title": "ARCTIC OR POLAR CLIMATE",
+  "short_route": "POLAR CLIMATE WORLD DISTRIBUTION → TEMPERATURE-PRECIPITATION PROFILE → TUNDRA VEGETATION BELT → ARCTIC-ANTARCTIC ASYMMETRY → ICE-ALBEDO FEEDBACK LOOP → PERMAFROST CARBON FEEDBACK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g3 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-25\\geography-25_Complete-Learning-Session_2026-08-22.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-25-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "866e46e0d5e22e6b8400e828e5836e8e91a82c7de109f3c997dd58cdb5e0f1f9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "POLAR CLIMATE WORLD DISTRIBUTION",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POLAR CLIMATE WORLD DISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "GREENLAND AND HIGH-LATITUDE HIGHLANDS, PERMANENT SNOW COVER",
+          "role": "outcome"
+        },
+        {
+          "text": "COASTAL GREENLAND, N. CANADA, ALASKA, EURASIAN ARCTIC SEABOARD",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUTHERN POLE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINENT UNDER ICE, NO INDIGENOUS POPULATION",
+          "role": "caution"
+        },
+        {
+          "text": "NORTHERN POLE",
+          "role": "outcome"
+        },
+        {
+          "text": "OCEAN BASIN SURROUNDED BY CONTINENTAL LAND MASSES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ICE-CAP → Greenland and high-latitude highlands, permanent snow cover",
+        "TUNDRA → coastal Greenland, N. Canada, Alaska, Eurasian Arctic seaboard",
+        "SOUTHERN POLE → Antarctica: continent under ice, no indigenous population",
+        "NORTHERN POLE → Arctic: ocean basin surrounded by continental land masses"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ICE-CAP → Greenland and high-latitude highlands, permanent snow cover",
+            "TUNDRA → coastal Greenland, N. Canada, Alaska, Eurasian Arctic seaboard"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOUTHERN POLE → Antarctica: continent under ice, no indigenous population",
+            "NORTHERN POLE → Arctic: ocean basin surrounded by continental land masses"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "ICE-CAP → Greenland and high-latitude highlands, permanent snow cover",
+            "TUNDRA → coastal Greenland, N. Canada, Alaska, Eurasian Arctic seaboard"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "SOUTHERN POLE → Antarctica: continent under ice, no indigenous population",
+            "NORTHERN POLE → Arctic: ocean basin surrounded by continental land masses"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NORTHERN POLE → Arctic: ocean basin surrounded by continental land masses.",
+      "source_references": [
+        "Polar climate location and subdivisions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TEMPERATURE-PRECIPITATION PROFILE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TEMPERATURE-PRECIPITATION PROFILE",
+          "role": "primary"
+        },
+        {
+          "text": "WARMEST MONTH",
+          "role": "outcome"
+        },
+        {
+          "text": "SELDOM EXCEEDS ABOUT 10 DEGREES C (JUNE/JULY)",
+          "role": "comparison"
+        },
+        {
+          "text": "MONTHS ABOVE FREEZING",
+          "role": "evidence"
+        },
+        {
+          "text": "NO MORE THAN ABOUT FOUR PER YEAR",
+          "role": "caution"
+        },
+        {
+          "text": "LOW, MOSTLY SNOW; POLAR CLIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "COLD DESERT",
+          "role": "comparison"
+        },
+        {
+          "text": "WIND REDISTRIBUTING EXISTING SNOW, NOT HEAVY SNOWFALL EVENTS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WARMEST MONTH → seldom exceeds about 10 degrees C (June/July)",
+        "MONTHS ABOVE FREEZING → no more than about four per year",
+        "PRECIPITATION → low, mostly snow; polar climate = cold desert",
+        "BLIZZARDS → wind redistributing existing snow, not heavy snowfall events"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "WARMEST MONTH → seldom exceeds about 10 degrees C (June/July)",
+          "PRECIPITATION → low, mostly snow; polar climate = cold desert",
+          "WARMEST MONTH → seldom exceeds about 10 degrees C (June/July)"
+        ],
+        [
+          "MONTHS ABOVE FREEZING → no more than about four per year",
+          "BLIZZARDS → wind redistributing existing snow, not heavy snowfall events",
+          "MONTHS ABOVE FREEZING → no more than about four per year"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WARMEST MONTH → seldom exceeds about 10 degrees C (June/July)",
+            "MONTHS ABOVE FREEZING → no more than about four per year"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRECIPITATION → low, mostly snow; polar climate = cold desert",
+            "BLIZZARDS → wind redistributing existing snow, not heavy snowfall events"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WARMEST MONTH → seldom exceeds about 10 degrees C (June/July)",
+            "MONTHS ABOVE FREEZING → no more than about four per year"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BLIZZARDS → wind redistributing existing snow, not heavy snowfall events.",
+      "source_references": [
+        "Temperature and precipitation character"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TUNDRA VEGETATION BELT",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TUNDRA VEGETATION BELT",
+          "role": "primary"
+        },
+        {
+          "text": "PREVENTS DEEP ROOTING, IMPEDES DRAINAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORT GROWING SEASON",
+          "role": "comparison"
+        },
+        {
+          "text": "WARMEST MONTH BELOW 10 DEGREES C",
+          "role": "evidence"
+        },
+        {
+          "text": "STUNTED PLANTS",
+          "role": "primary"
+        },
+        {
+          "text": "DWARF WILLOWS, BIRCHES, ALDERS IN SHELTERED SPOTS",
+          "role": "outcome"
+        },
+        {
+          "text": "LICHEN GROUND COVER",
+          "role": "comparison"
+        },
+        {
+          "text": "REINDEER MOSS PROVIDES GRAZING FOR REINDEER HERDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PERMAFROST → prevents deep rooting, impedes drainage",
+        "SHORT GROWING SEASON → warmest month below 10 degrees C",
+        "STUNTED PLANTS → dwarf willows, birches, alders in sheltered spots",
+        "LICHEN GROUND COVER → reindeer moss provides grazing for reindeer herds"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "PERMAFROST → prevents deep rooting, impedes drainage",
+            "SHORT GROWING SEASON → warmest month below 10 degrees C"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STUNTED PLANTS → dwarf willows, birches, alders in sheltered spots",
+            "LICHEN GROUND COVER → reindeer moss provides grazing for reindeer herds"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "PERMAFROST → prevents deep rooting, impedes drainage",
+            "SHORT GROWING SEASON → warmest month below 10 degrees C"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LICHEN GROUND COVER → reindeer moss provides grazing for reindeer herds.",
+      "source_references": [
+        "Tundra vegetation and ecology"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ARCTIC-ANTARCTIC ASYMMETRY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARCTIC-ANTARCTIC ASYMMETRY",
+          "role": "primary"
+        },
+        {
+          "text": "OCEAN SURROUNDED BY CONTINENTS; MAINLY FLOATING SEA ICE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINENT SURROUNDED BY OCEAN; VAST GROUNDED ICE SHEET",
+          "role": "comparison"
+        },
+        {
+          "text": "ARCTIC AMPLIFICATION MUCH FASTER; ANTARCTIC MORE COMPLEX",
+          "role": "evidence"
+        },
+        {
+          "text": "SOVEREIGN STATES + FORUM",
+          "role": "primary"
+        },
+        {
+          "text": "TREATY REGIME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ARCTIC → ocean surrounded by continents; mainly floating sea ice",
+        "ANTARCTIC → continent surrounded by ocean; vast grounded ice sheet",
+        "WARMING → Arctic amplification much faster; Antarctic more complex",
+        "GOVERNANCE → Arctic: sovereign states + forum",
+        "Antarctic: treaty regime"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "ARCTIC → ocean surrounded by continents; mainly floating sea ice",
+          "WARMING → Arctic amplification much faster; Antarctic more complex",
+          "Antarctic: treaty regime"
+        ],
+        [
+          "ANTARCTIC → continent surrounded by ocean; vast grounded ice sheet",
+          "GOVERNANCE → Arctic: sovereign states + forum",
+          "ARCTIC → ocean surrounded by continents; mainly floating sea ice"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ARCTIC → ocean surrounded by continents; mainly floating sea ice",
+            "ANTARCTIC → continent surrounded by ocean; vast grounded ice sheet"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WARMING → Arctic amplification much faster; Antarctic more complex",
+            "GOVERNANCE → Arctic: sovereign states + forum"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "Antarctic: treaty regime",
+            "ARCTIC → ocean surrounded by continents; mainly floating sea ice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GOVERNANCE → Arctic: sovereign states + forum | Antarctic: treaty regime.",
+      "source_references": [
+        "Arctic-Antarctic asymmetry"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ICE-ALBEDO FEEDBACK LOOP",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ICE-ALBEDO FEEDBACK LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "SEA ICE AND SNOW RETREAT",
+          "role": "outcome"
+        },
+        {
+          "text": "BRIGHT SURFACE REPLACED BY DARK OCEAN/GROUND",
+          "role": "comparison"
+        },
+        {
+          "text": "ALBEDO DROPS",
+          "role": "evidence"
+        },
+        {
+          "text": "FAR MORE SOLAR RADIATION ABSORBED INSTEAD OF REFLECTED",
+          "role": "primary"
+        },
+        {
+          "text": "SURFACE WARMING",
+          "role": "outcome"
+        },
+        {
+          "text": "FURTHER ICE AND SNOW RETREAT (SELF-REINFORCING)",
+          "role": "comparison"
+        },
+        {
+          "text": "REINFORCING FACTORS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEA ICE AND SNOW RETREAT → bright surface replaced by dark ocean/ground",
+        "ALBEDO DROPS → far more solar radiation absorbed instead of reflected",
+        "SURFACE WARMING → further ice and snow retreat (self-reinforcing)",
+        "REINFORCING FACTORS → thin polar atmosphere, ocean heat escape, poleward transport"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SEA ICE AND SNOW RETREAT → bright surface replaced by dark ocean/ground",
+            "ALBEDO DROPS → far more solar radiation absorbed instead of reflected"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SURFACE WARMING → further ice and snow retreat (self-reinforcing)",
+            "REINFORCING FACTORS → thin polar atmosphere, ocean heat escape, poleward transport"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SEA ICE AND SNOW RETREAT → bright surface replaced by dark ocean/ground",
+            "ALBEDO DROPS → far more solar radiation absorbed instead of reflected"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REINFORCING FACTORS → thin polar atmosphere, ocean heat escape, poleward transport.",
+      "source_references": [
+        "Ice-albedo feedback mechanism"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PERMAFROST CARBON FEEDBACK",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PERMAFROST CARBON FEEDBACK",
+          "role": "primary"
+        },
+        {
+          "text": "THAWS FROZEN GROUND CONTAINING ANCIENT ORGANIC MATTER",
+          "role": "outcome"
+        },
+        {
+          "text": "DRY CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "DECOMPOSITION RELEASES CARBON DIOXIDE",
+          "role": "evidence"
+        },
+        {
+          "text": "WATERLOGGED CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "DECOMPOSITION RELEASES METHANE (STRONGER GHG)",
+          "role": "outcome"
+        },
+        {
+          "text": "RELEASED GHGS CAUSE FURTHER WARMING, FURTHER THAW",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "WARMING → thaws frozen ground containing ancient organic matter",
+        "DRY CONDITIONS → decomposition releases carbon dioxide",
+        "WATERLOGGED CONDITIONS → decomposition releases methane (stronger GHG)",
+        "FEEDBACK → released GHGs cause further warming, further thaw"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WARMING → thaws frozen ground containing ancient organic matter",
+            "DRY CONDITIONS → decomposition releases carbon dioxide"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WATERLOGGED CONDITIONS → decomposition releases methane (stronger GHG)",
+            "FEEDBACK → released GHGs cause further warming, further thaw"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WARMING → thaws frozen ground containing ancient organic matter",
+            "DRY CONDITIONS → decomposition releases carbon dioxide"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FEEDBACK → released GHGs cause further warming, further thaw.",
+      "source_references": [
+        "Permafrost carbon feedback"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SEA-LEVEL GROUNDED-ICE RULE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SEA-LEVEL GROUNDED-ICE RULE",
+          "role": "primary"
+        },
+        {
+          "text": "FLOATING SEA ICE MELTS",
+          "role": "outcome"
+        },
+        {
+          "text": "SEA LEVEL DOES NOT RISE (ALREADY DISPLACING WATER)",
+          "role": "caution"
+        },
+        {
+          "text": "GROUNDED ICE MELTS",
+          "role": "evidence"
+        },
+        {
+          "text": "MASS TRANSFERRED TO OCEAN, SEA LEVEL RISES",
+          "role": "primary"
+        },
+        {
+          "text": "ICE SHELVES LOST",
+          "role": "outcome"
+        },
+        {
+          "text": "REMOVES BUTTRESSING, ACCELERATES GROUNDED-ICE DISCHARGE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FLOATING SEA ICE MELTS → sea level does NOT rise (already displacing water)",
+        "GROUNDED ICE MELTS → mass transferred to ocean, sea level RISES",
+        "ICE SHELVES LOST → removes buttressing, accelerates grounded-ice discharge",
+        "EXAM RULE → always distinguish floating from grounded in any polar answer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "FLOATING SEA ICE MELTS → sea level does NOT rise (already displacing water)",
+            "GROUNDED ICE MELTS → mass transferred to ocean, sea level RISES"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ICE SHELVES LOST → removes buttressing, accelerates grounded-ice discharge",
+            "EXAM RULE → always distinguish floating from grounded in any polar answer"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "FLOATING SEA ICE MELTS → sea level does NOT rise (already displacing water)",
+            "GROUNDED ICE MELTS → mass transferred to ocean, sea level RISES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM RULE → always distinguish floating from grounded in any polar answer.",
+      "source_references": [
+        "Sea-level grounded-ice rule"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARCTIC SHIPPING CONSTRAINTS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARCTIC SHIPPING CONSTRAINTS",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTES SHORTER THAN SUEZ/PANAMA BETWEEN NE ASIA AND NW",
+          "role": "outcome"
+        },
+        {
+          "text": "MOBILE ICE",
+          "role": "comparison"
+        },
+        {
+          "text": "UNPREDICTABLE, HAZARDOUS DESPITE RETREAT TREND",
+          "role": "evidence"
+        },
+        {
+          "text": "RESCUE AND CHARTING",
+          "role": "primary"
+        },
+        {
+          "text": "THIN CAPACITY, INCOMPLETE SURVEYS",
+          "role": "outcome"
+        },
+        {
+          "text": "NEAR-TERM TRAFFIC",
+          "role": "comparison"
+        },
+        {
+          "text": "RESOURCE EXPORT AND DESTINATION, NOT TRANSIT CONTAINER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ADVANTAGE → routes shorter than Suez/Panama between NE Asia and NW Europe",
+        "MOBILE ICE → unpredictable, hazardous despite retreat trend",
+        "RESCUE AND CHARTING → thin capacity, incomplete surveys",
+        "NEAR-TERM TRAFFIC → resource export and destination, not transit container"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "ADVANTAGE → routes shorter than Suez/Panama between NE Asia and NW Europe",
+          "RESCUE AND CHARTING → thin capacity, incomplete surveys",
+          "ADVANTAGE → routes shorter than Suez/Panama between NE Asia and NW Europe"
+        ],
+        [
+          "MOBILE ICE → unpredictable, hazardous despite retreat trend",
+          "NEAR-TERM TRAFFIC → resource export and destination, not transit container",
+          "MOBILE ICE → unpredictable, hazardous despite retreat trend"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ADVANTAGE → routes shorter than Suez/Panama between NE Asia and NW Europe",
+            "MOBILE ICE → unpredictable, hazardous despite retreat trend"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESCUE AND CHARTING → thin capacity, incomplete surveys",
+            "NEAR-TERM TRAFFIC → resource export and destination, not transit container"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ADVANTAGE → routes shorter than Suez/Panama between NE Asia and NW Europe",
+            "MOBILE ICE → unpredictable, hazardous despite retreat trend"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEAR-TERM TRAFFIC → resource export and destination, not transit container.",
+      "source_references": [
+        "Arctic shipping and practical constraints"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIA COLD DESERT LADAKH",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA COLD DESERT LADAKH",
+          "role": "primary"
+        },
+        {
+          "text": "GREATER HIMALAYA BLOCKS SW MONSOON, TRANS-HIMALAYA STAYS ARID",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH ALTITUDE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTENSE INSOLATION BY DAY, SHARP RADIATIVE COOLING BY NIGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "WINTER PRECIPITATION",
+          "role": "primary"
+        },
+        {
+          "text": "LIGHT SNOW FROM WESTERN DISTURBANCES",
+          "role": "outcome"
+        },
+        {
+          "text": "BIOME CLASS",
+          "role": "comparison"
+        },
+        {
+          "text": "COLD DESERT, SAME AS SIERRA NEVADA (USA) AND ANDES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAIN-SHADOW → Greater Himalaya blocks SW monsoon, Trans-Himalaya stays arid",
+        "HIGH ALTITUDE → intense insolation by day, sharp radiative cooling by night",
+        "WINTER PRECIPITATION → light snow from western disturbances",
+        "BIOME CLASS → cold desert, same as Sierra Nevada (USA) and Andes (Argentina)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "RAIN-SHADOW → Greater Himalaya blocks SW monsoon, Trans-Himalaya stays arid",
+            "HIGH ALTITUDE → intense insolation by day, sharp radiative cooling by night"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WINTER PRECIPITATION → light snow from western disturbances",
+            "BIOME CLASS → cold desert, same as Sierra Nevada (USA) and Andes (Argentina)"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "RAIN-SHADOW → Greater Himalaya blocks SW monsoon, Trans-Himalaya stays arid",
+            "HIGH ALTITUDE → intense insolation by day, sharp radiative cooling by night"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "WINTER PRECIPITATION → light snow from western disturbances",
+            "BIOME CLASS → cold desert, same as Sierra Nevada (USA) and Andes (Argentina)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BIOME CLASS → cold desert, same as Sierra Nevada (USA) and Andes (Argentina).",
+      "source_references": [
+        "India cold desert Ladakh"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIA POLAR STATIONS",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA POLAR STATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "DAKSHIN GANGOTRI (1983)",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRST STATION, NOW DECOMMISSIONED/BURIED IN ICE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAITRI (1989)",
+          "role": "evidence"
+        },
+        {
+          "text": "SCHIRMACHER OASIS, ANTARCTICA; OPERATIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "BHARATI (2012)",
+          "role": "outcome"
+        },
+        {
+          "text": "LARSEMANN HILLS, ANTARCTICA; OPERATIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "HIMADRI (2008)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DAKSHIN GANGOTRI (1983) → first station, now decommissioned/buried in ice",
+        "MAITRI (1989) → Schirmacher Oasis, Antarctica; operational",
+        "BHARATI (2012) → Larsemann Hills, Antarctica; operational",
+        "HIMADRI (2008) → Ny-Alesund, Svalbard; Arctic; HIMANSH → Spiti, HP"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DAKSHIN GANGOTRI (1983) → first station, now decommissioned/buried in ice",
+            "MAITRI (1989) → Schirmacher Oasis, Antarctica; operational"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BHARATI (2012) → Larsemann Hills, Antarctica; operational",
+            "HIMADRI (2008) → Ny-Alesund, Svalbard; Arctic; HIMANSH → Spiti, HP"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "DAKSHIN GANGOTRI (1983) → first station, now decommissioned/buried in ice",
+            "MAITRI (1989) → Schirmacher Oasis, Antarctica; operational"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "BHARATI (2012) → Larsemann Hills, Antarctica; operational",
+            "HIMADRI (2008) → Ny-Alesund, Svalbard; Arctic; HIMANSH → Spiti, HP"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HIMADRI (2008) → Ny-Alesund, Svalbard; Arctic; HIMANSH → Spiti, HP.",
+      "source_references": [
+        "India polar research programme"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIA POLAR LEGAL FRAMEWORK",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDIA POLAR LEGAL FRAMEWORK",
+          "role": "primary"
+        },
+        {
+          "text": "ANTARCTIC TREATY 1959",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA ACCEDED 1983; CONSULTATIVE PARTY",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN ANTARCTIC ACT 2022",
+          "role": "institution"
+        },
+        {
+          "text": "DOMESTIC LEGISLATION FOR POLAR ACTIVITIES",
+          "role": "primary"
+        },
+        {
+          "text": "ARCTIC POLICY 2022",
+          "role": "outcome"
+        },
+        {
+          "text": "SIX PILLARS; OBSERVER IN ARCTIC FORUM",
+          "role": "comparison"
+        },
+        {
+          "text": "RESEARCH FOCUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANTARCTIC TREATY 1959 → India acceded 1983; consultative party",
+        "INDIAN ANTARCTIC ACT 2022 → domestic legislation for polar activities",
+        "ARCTIC POLICY 2022 → six pillars; observer in Arctic forum",
+        "RESEARCH FOCUS → teleconnections: Arctic ice loss to Indian monsoon disruption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ANTARCTIC TREATY 1959 → India acceded 1983; consultative party",
+            "INDIAN ANTARCTIC ACT 2022 → domestic legislation for polar activities"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARCTIC POLICY 2022 → six pillars; observer in Arctic forum",
+            "RESEARCH FOCUS → teleconnections: Arctic ice loss to Indian monsoon disruption"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "ANTARCTIC TREATY 1959 → India acceded 1983; consultative party",
+            "INDIAN ANTARCTIC ACT 2022 → domestic legislation for polar activities"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "ARCTIC POLICY 2022 → six pillars; observer in Arctic forum",
+            "RESEARCH FOCUS → teleconnections: Arctic ice loss to Indian monsoon disruption"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESEARCH FOCUS → teleconnections: Arctic ice loss to Indian monsoon disruption.",
+      "source_references": [
+        "India polar legal framework"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "POLAR CLIMATE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "POLAR CLIMATE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "COLD DESERT NORTH OF ARCTIC CIRCLE; ICE-CAP VS TUNDRA",
+          "role": "comparison"
+        },
+        {
+          "text": "ARCTIC OCEAN VS ANTARCTIC CONTINENT; FLOATING VS GROUNDED ICE",
+          "role": "comparison"
+        },
+        {
+          "text": "ICE-ALBEDO FEEDBACK, PERMAFROST CARBON, FOUR TRANSMISSION CHANNELS",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA'S LADAKH ANALOGUE, POLAR RESEARCH, 2021 PYQ FOUR-CHANNEL SPINE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → cold desert north of Arctic Circle; ice-cap vs tundra subdivisions",
+        "DISTINGUISH → Arctic ocean vs Antarctic continent; floating vs grounded ice",
+        "EXPLAIN → ice-albedo feedback, permafrost carbon, four transmission channels",
+        "QUALIFY → India's Ladakh analogue, polar research, 2021 PYQ four-channel spine"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE → cold desert north of Arctic Circle; ice-cap vs tundra subdivisions",
+            "DISTINGUISH → Arctic ocean vs Antarctic continent; floating vs grounded ice"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPLAIN → ice-albedo feedback, permafrost carbon, four transmission channels",
+            "QUALIFY → India's Ladakh analogue, polar research, 2021 PYQ four-channel spine"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE → cold desert north of Arctic Circle; ice-cap vs tundra subdivisions",
+            "DISTINGUISH → Arctic ocean vs Antarctic continent; floating vs grounded ice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → India's Ladakh analogue, polar research, 2021 PYQ four-channel spine.",
+      "source_references": [
+        "2021 PYQ demand and answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NCPOR (GOA) RUNS INDIA'S POLAR SCIENCE; INDIA ACCEDED TO",
+          "role": "outcome"
+        },
+        {
+          "text": "DAKSHIN GANGOTRI (1ST, 1983–90)",
+          "role": "comparison"
+        },
+        {
+          "text": "MAITRI (1989, SCHIRMACHER OASIS)",
+          "role": "evidence"
+        },
+        {
+          "text": "RESEARCH THEME",
+          "role": "primary"
+        },
+        {
+          "text": "TELECONNECTIONS — ARCTIC SEA-ICE LOSS IS LINKED TO DISRUPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA'S PRINCIPAL COLD-DESERT REGION; DISTINGUISH TRANS-HIMALAYAN KARAKORAM/LADAKH RANGES",
+          "role": "comparison"
+        },
+        {
+          "text": "COLD-DESERT BIOME SHARED WITH SIERRA NEVADA (USA) AND THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "CAUTION: NCPOR (Goa) runs India's polar science; India acceded to the Antarctic Treaty (1983) and has",
+            "CAUTION: Stations: Dakshin Gangotri (1st, 1983–90) → Maitri (1989, Schirmacher Oasis) → Bharati",
+            "CAUTION: Research theme: teleconnections — Arctic sea-ice loss is linked to disruption of the Indian",
+            "Ladakh = India's principal cold-desert region; distinguish Trans-Himalayan Karakoram/Ladakh ranges"
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "Cold-desert biome shared with Sierra Nevada (USA) and the Andes (Argentina) — light winter",
+            "CAUTION: India's polar/high-altitude stations: Maitri, Bharati (Antarctic), Himadri (Arctic),",
+            "CAUTION: Legal/policy: Antarctic Treaty 1959 (India 1983), Indian Antarctic Act 2022 , Arctic Policy",
+            "NOT: Ladakh is arid because it is hot → arid due to rain-shadow + high altitude (a cold desert)."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "NOT: Bharati is India's Arctic station → Bharati & Maitri are ANTARCTIC ; Himadri is the Arctic",
+            "NOT: Dakshin Gangotri is operational → it was the first station (1983), later decommissioned/buried",
+            "NOT: Ladakh gets its rain from the SW monsoon → mainly light winter snow from western disturbances .",
+            "\"The Ladakh cold desert is a fragile high-altitude ecosystem under climate and tourism stress.\" Discuss"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

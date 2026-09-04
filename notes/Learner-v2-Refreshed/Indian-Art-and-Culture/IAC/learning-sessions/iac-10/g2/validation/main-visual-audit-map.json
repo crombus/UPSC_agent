@@ -1,0 +1,1994 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-10\\g2\\indian-art-and-culture-10_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-10\\g2\\indian-art-and-culture-10_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "indian-art-and-culture-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Theatre, Puppetry and Performance Traditions - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 403.824
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 62.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-10\\g2\\assets\\indian-art-and-culture-10_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 127.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Natyashastra dramaturgy - Lokadharmi and Natyadharmi Qualified use: Establish the dramaturgical method.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "NATYASHASTRA AND DRAMATIC MODES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 131,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NATYASHASTRA AND DRAMATIC MODES",
+      "preview": "START / CONCEPT: FOUNDATION — Natyashastra and dramatic modes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Classical Sanskrit theatre joined a precise genre taxonomy to a Sutradhar-led performance threshold.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 167,
+      "heading": "VISUAL FIRST",
+      "preview": "RUPAKAS AND THE SUTRADHAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 197,
+      "markdown_body_line_end": 214,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RUPAKAS AND THE SUTRADHAR",
+      "preview": "START / CONCEPT: FOUNDATION — Rupakas and the Sutradhar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 312.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 91.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 225,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 244,
+      "heading": "VISUAL FIRST",
+      "preview": "CHARACTER AND LANGUAGE ON STAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 272,
+      "markdown_body_line_end": 289,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CHARACTER AND LANGUAGE ON STAGE",
+      "preview": "START / CONCEPT: FOUNDATION — Character and language on stage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 300,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 319,
+      "heading": "VISUAL FIRST",
+      "preview": "CONVENTION AND CLOSURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 364,
+      "heading": "CLOSING RECALL FLOW - CORE - CONVENTION AND CLOSURE",
+      "preview": "START / CONCEPT: CORE — Convention and closure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 375,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The source's causes are multiple and not mutually exclusive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 159.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 107.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 394,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY SANSKRIT THEATRE CONTRACTED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 623.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 422,
+      "markdown_body_line_end": 439,
+      "heading": "CLOSING RECALL FLOW - CORE - WHY SANSKRIT THEATRE CONTRACTED",
+      "preview": "START / CONCEPT: CORE — Why Sanskrit theatre contracted",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 139.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 450,
+      "markdown_body_line_end": 450,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 469,
+      "heading": "VISUAL FIRST",
+      "preview": "KUTIYATTAM AS LIVING CONTINUITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 514,
+      "heading": "CLOSING RECALL FLOW - CORE - KUTIYATTAM AS LIVING CONTINUITY",
+      "preview": "START / CONCEPT: CORE — Kutiyattam as living continuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 525,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 540,
+      "markdown_body_line_end": 544,
+      "heading": "VISUAL FIRST",
+      "preview": "FOLK THEATRE'S CHANGING PUBLIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 572,
+      "markdown_body_line_end": 589,
+      "heading": "CLOSING RECALL FLOW - CORE - FOLK THEATRE'S CHANGING PUBLIC",
+      "preview": "START / CONCEPT: CORE — Folk theatre's changing public",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 600,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 145.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 79.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 615,
+      "markdown_body_line_end": 619,
+      "heading": "VISUAL FIRST",
+      "preview": "COLONIAL PROSCENIUM AND CENSORSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 664,
+      "heading": "CLOSING RECALL FLOW - CORE - COLONIAL PROSCENIUM AND CENSORSHIP",
+      "preview": "START / CONCEPT: CORE — Colonial proscenium and censorship",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 323.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 102.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 675,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Parsi and political theatre - Institutional modern stage Qualified use: Build the modern-stage sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 697,
+      "heading": "VISUAL FIRST",
+      "preview": "PARSI, IPTA AND INSTITUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 389.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 743,
+      "heading": "CLOSING RECALL FLOW - CORE - PARSI, IPTA AND INSTITUTIONS",
+      "preview": "START / CONCEPT: CORE — Parsi, IPTA and institutions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 754,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 773,
+      "heading": "VISUAL FIRST",
+      "preview": "FOUR PUPPETRY MECHANISMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 818,
+      "heading": "CLOSING RECALL FLOW - CORE - FOUR PUPPETRY MECHANISMS",
+      "preview": "START / CONCEPT: CORE — Four puppetry mechanisms",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 829,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: String-puppet distinctions Qualified use: Break close options among marionettes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 121.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 69.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 848,
+      "heading": "VISUAL FIRST",
+      "preview": "STRING-PUPPET REGIONAL GRAMMAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 893,
+      "heading": "CLOSING RECALL FLOW - CORE - STRING-PUPPET REGIONAL GRAMMAR",
+      "preview": "START / CONCEPT: CORE — String-puppet regional grammar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 83.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 904,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Shadow-puppet distinctions Qualified use: Identify light-screen performance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 923,
+      "heading": "VISUAL FIRST",
+      "preview": "SHADOW-PUPPET SCREEN GRAMMAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 968,
+      "heading": "CLOSING RECALL FLOW - CORE - SHADOW-PUPPET SCREEN GRAMMAR",
+      "preview": "START / CONCEPT: CORE — Shadow-puppet screen grammar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 979,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 998,
+      "heading": "VISUAL FIRST",
+      "preview": "ROD, GLOVE AND CONTROL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1043,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ROD, GLOVE AND CONTROL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Rod, glove and control",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 262.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1054,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Puppetry as archive - Current puppetry vulnerability Qualified use: Connect transmission to current vulnerability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 136.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 70.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1076,
+      "heading": "VISUAL FIRST",
+      "preview": "PUPPETRY AS ARCHIVE AND LIVELIHOOD",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1122,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PUPPETRY AS ARCHIVE AND LIVELIHOOD",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Puppetry as archive and livelihood",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ Convention thesis: \"Sanskrit theatre is best explained through the rules it accepted — act structure, a male protagonist who succeeds, language assigned by character type, a Sutradhar-led ritual opening — because those rules, not individ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 213.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1148,
+      "markdown_body_line_end": 1155,
+      "heading": "VISUAL FIRST",
+      "preview": "MARTIAL PERFORMANCE AND TWO DECLINE TYPES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1192,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I. **Core area:** Classical Sanskrit theatre; folk and modern Indian theatre; string/shadow/glove/rod puppetry; martial and ritual-performance traditions.",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 381.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1211,
+      "heading": "2. Essential vocabulary",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 478.69
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1253,
+      "markdown_body_line_end": 1258,
+      "heading": "4. Foundation narrative",
+      "preview": "Mechanism | Examples | Distinction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Mechanism",
+          "Examples",
+          "Distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 660.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1275,
+      "markdown_body_line_end": 1287,
+      "heading": "5. Visual map or comparison table",
+      "preview": "CLASSICAL SANSKRIT THEATRE (Natya Shastra, Bharata)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 528.89
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 407.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1289,
+      "markdown_body_line_end": 1293,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Puppet tradition | Region | Distinguishing feature",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Puppet tradition",
+          "Region",
+          "Distinguishing feature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 407.89
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 319.688
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1380,
+      "markdown_body_line_end": 1383,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note.** This topic owns the Sanskrit-dramaturgy, folk-theatre, puppetry and martial/ritual-performance demand families — including the recurring Prelims form-to-region matching demand. This section makes `basic/10` suffic",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1387,
+      "markdown_body_line_end": 1395,
+      "heading": "13.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 706.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 432.622
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1422,
+      "markdown_body_line_end": 1426,
+      "heading": "13.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 162.822
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 41.02
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1430,
+      "markdown_body_line_end": 1439,
+      "heading": "13.4 Evidence bank A - classical Sanskrit theatre (convention, staging, decline)",
+      "preview": "Element | ✅ Evidence | Analytical significance | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Element",
+          "✅ Evidence",
+          "Analytical significance",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 601.39
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1462,
+      "markdown_body_line_end": 1473,
+      "heading": "13.5A Evidence bank B+ - modern Indian theatre (named and dated)",
+      "preview": "Element | ✅ Evidence | Analytical significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Element",
+          "✅ Evidence",
+          "Analytical significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 382.19
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 432.69
+        }
+      },
+      "pdf_pages": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1484,
+      "markdown_body_line_end": 1489,
+      "heading": "13.6 Evidence bank C - puppetry classified by mechanism, region and function",
+      "preview": "Mechanism | ✅ Named traditions | Construction/control | Distinguishing point",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Mechanism",
+          "✅ Named traditions",
+          "Construction/control",
+          "Distinguishing point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 353.89
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 153.488
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1507,
+      "markdown_body_line_end": 1514,
+      "heading": "13.7 Evidence bank D - martial and ritual performance",
+      "preview": "Tradition | ✅ Region | Character",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Tradition",
+          "✅ Region",
+          "Character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 604.09
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1553,
+      "markdown_body_line_end": 1570,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MARTIAL PERFORMANCE AND TWO DECLINE TYPES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Martial performance and two decline types",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1286
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2634,
+      "markdown_body_line_end": 2642,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I. **Core area:** Performance as archive; community ownership of living traditions; theatre/puppetry/martial-performance ecologies; safeguarding design for declining ",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 751.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 649.624
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2661,
+      "markdown_body_line_end": 2665,
+      "heading": "2. Advanced vocabulary",
+      "preview": "Term | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 506.224
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 294.822
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2669,
+      "markdown_body_line_end": 2674,
+      "heading": "3. Comparative framework",
+      "preview": "Dimension | Classical Sanskrit theatre | Puppetry",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Classical Sanskrit theatre",
+          "Puppetry"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 272.822
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 96.22
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2700,
+      "markdown_body_line_end": 2709,
+      "heading": "5. Visual synthesis table",
+      "preview": "CLASSICAL SANSKRIT THEATRE               PUPPETRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 584.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 493.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2811,
+      "markdown_body_line_end": 2819,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Dramatic root system",
+      "preview": "PLOT -> codified progression",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 733.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 650.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2823,
+      "markdown_body_line_end": 2828,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Dramatic-mode firewall",
+      "preview": "LOKADHARMI -> realistic daily-life representation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 628.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 577.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2832,
+      "markdown_body_line_end": 2837,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Sutradhar role chain",
+      "preview": "PRELIMINARIES -> ritual preparation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 555.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2841,
+      "markdown_body_line_end": 2846,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Character-language map",
+      "preview": "NAYAKA -> hero type",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 481.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 429.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2850,
+      "markdown_body_line_end": 2855,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Decline and survival",
+      "preview": "WRITERS SHIFT -> poetry and song",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 407.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 355.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2859,
+      "markdown_body_line_end": 2864,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Folk-theatre arc",
+      "preview": "DEVOTIONAL -> early regional themes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 333.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 281.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2868,
+      "markdown_body_line_end": 2873,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Modern theatre sequence",
+      "preview": "PROSCENIUM -> colonial city and commerce",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2877,
+      "markdown_body_line_end": 2882,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Puppetry mechanism matrix",
+      "preview": "STRING -> suspended marionette",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2886,
+      "markdown_body_line_end": 2891,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: String-puppet distinctions",
+      "preview": "KATHPUTLI -> legless Rajasthan doll",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2895,
+      "markdown_body_line_end": 2903,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Shadow, rod and glove map",
+      "preview": "THOLU BOMMALATA -> Andhra shadow",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2907,
+      "markdown_body_line_end": 2915,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Performance vulnerability test",
+      "preview": "TEXT SURVIVES? -> archive and teaching",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2919,
+      "markdown_body_line_end": 2924,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Performance answer spine",
+      "preview": "DEFINE -> mode, genre or control mechanism",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    }
+  ]
+}

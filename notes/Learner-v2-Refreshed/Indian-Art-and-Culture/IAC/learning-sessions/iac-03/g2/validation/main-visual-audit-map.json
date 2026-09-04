@@ -1,0 +1,2895 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "indian-art-and-culture-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Temple Architecture and Chandella Khajuraho - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 77.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\assets\\indian-art-and-culture-03_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 477.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 169.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Temple space and ritual movement is the source-bounded relationship among and Temple spatial lexicon within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "TEMPLE SPACE AND RITUAL MOVEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 400.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TEMPLE SPACE AND RITUAL MOVEMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Temple space and ritual movement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: From Gupta shrine to regional schools is the source-bounded relationship among Gupta developmental stages and Nagara and Dravida within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 165,
+      "heading": "VISUAL FIRST",
+      "preview": "FROM GUPTA SHRINE TO REGIONAL SCHOOLS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FROM GUPTA SHRINE TO REGIONAL SCHOOLS",
+      "preview": "START / CONCEPT: FOUNDATION — From Gupta shrine to regional schools",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 84.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: How to use Vesara is the source-bounded relationship among and Vesara caution within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 246,
+      "heading": "VISUAL FIRST",
+      "preview": "HOW TO USE VESARA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 296,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - HOW TO USE VESARA",
+      "preview": "START / CONCEPT: FOUNDATION — How to use Vesara",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 307,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Chandella sovereignty and patronage is the source-bounded relationship among and Chandella political setting within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 326,
+      "heading": "VISUAL FIRST",
+      "preview": "CHANDELLA SOVEREIGNTY AND PATRONAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 376,
+      "heading": "CLOSING RECALL FLOW - CORE - CHANDELLA SOVEREIGNTY AND PATRONAGE",
+      "preview": "START / CONCEPT: CORE — Chandella sovereignty and patronage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 387,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Khajuraho plan and massing is the source-bounded relationship among and Khajuraho axial chain within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 406,
+      "heading": "VISUAL FIRST",
+      "preview": "KHAJURAHO PLAN AND MASSING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 456,
+      "heading": "CLOSING RECALL FLOW - CORE - KHAJURAHO PLAN AND MASSING",
+      "preview": "START / CONCEPT: CORE — Khajuraho plan and massing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Material, terrace and enclosure is the source-bounded relationship among and Khajuraho material and enclosure within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 486,
+      "heading": "VISUAL FIRST",
+      "preview": "MATERIAL, TERRACE AND ENCLOSURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 536,
+      "heading": "CLOSING RECALL FLOW - CORE - MATERIAL, TERRACE AND ENCLOSURE",
+      "preview": "START / CONCEPT: CORE — Material, terrace and enclosure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 547,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Plural patronage at Khajuraho is the source-bounded relationship among and Plural sacred programme within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 566,
+      "heading": "VISUAL FIRST",
+      "preview": "PLURAL PATRONAGE AT KHAJURAHO",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 616,
+      "heading": "CLOSING RECALL FLOW - CORE - PLURAL PATRONAGE AT KHAJURAHO",
+      "preview": "START / CONCEPT: CORE — Plural patronage at Khajuraho",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 627,
+      "markdown_body_line_end": 627,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Vigour and breadth is the source-bounded relationship among Vigour and breadth of life and Kandariya Mahadeva within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 649,
+      "heading": "VISUAL FIRST",
+      "preview": "VIGOUR AND BREADTH",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 700,
+      "heading": "CLOSING RECALL FLOW - CORE - VIGOUR AND BREADTH",
+      "preview": "START / CONCEPT: CORE — Vigour and breadth",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 84.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 711,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Chausath Yogini identification is the source-bounded relationship among and Chausath Yogini distinction within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 730,
+      "heading": "VISUAL FIRST",
+      "preview": "CHAUSATH YOGINI IDENTIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 780,
+      "heading": "CLOSING RECALL FLOW - CORE - CHAUSATH YOGINI IDENTIFICATION",
+      "preview": "START / CONCEPT: CORE — Chausath Yogini identification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 791,
+      "markdown_body_line_end": 791,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Pallava transition is the source-bounded relationship among and Pallava transition within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 810,
+      "heading": "VISUAL FIRST",
+      "preview": "PALLAVA TRANSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 843,
+      "markdown_body_line_end": 860,
+      "heading": "CLOSING RECALL FLOW - CORE - PALLAVA TRANSITION",
+      "preview": "START / CONCEPT: CORE — Pallava transition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 170.491
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 871,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Chola living achievement is the source-bounded relationship among and Chola achievement within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 886,
+      "markdown_body_line_end": 890,
+      "heading": "VISUAL FIRST",
+      "preview": "CHOLA LIVING ACHIEVEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 940,
+      "heading": "CLOSING RECALL FLOW - CORE - CHOLA LIVING ACHIEVEMENT",
+      "preview": "START / CONCEPT: CORE — Chola living achievement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 951,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Deccan experiment is the source-bounded relationship among and Chalukya and Hoysala experiment within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 966,
+      "markdown_body_line_end": 970,
+      "heading": "VISUAL FIRST",
+      "preview": "DECCAN EXPERIMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1020,
+      "heading": "CLOSING RECALL FLOW - CORE - DECCAN EXPERIMENT",
+      "preview": "START / CONCEPT: CORE — Deccan experiment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 150.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1031,
+      "markdown_body_line_end": 1031,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Vijayanagara and Nayaka is the source-bounded relationship among Vijayanagara temple-secular split and Nayaka expansion within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1046,
+      "markdown_body_line_end": 1053,
+      "heading": "VISUAL FIRST",
+      "preview": "VIJAYANAGARA AND NAYAKA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1104,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - VIJAYANAGARA AND NAYAKA",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Vijayanagara and Nayaka",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1115,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Eastern material logic is the source-bounded relationship among and Pala-Sena eastern school within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 379.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 312.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1130,
+      "markdown_body_line_end": 1134,
+      "heading": "VISUAL FIRST",
+      "preview": "EASTERN MATERIAL LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1184,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - EASTERN MATERIAL LOGIC",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Eastern material logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 170.491
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1195,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: PYQ cluster and final answer spine is the source-bounded relationship among Verified temple PYQ cluster, Official Khajuraho linkage and Temple answer spine within Temple Architecture and Chandella Khajuraho.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1220,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ CLUSTER AND FINAL ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 297.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1255,
+      "markdown_body_line_end": 1266,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I. **Core area:** Temple lexicon (garbhagriha, mandapa, shikhara); Nagara, Dravida and Vesara styles; regional schools (Odisha, Solanki, Pallava, Chola, C",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 597.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 445.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1294,
+      "heading": "2. Essential vocabulary",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 14,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 344.824
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 362.69
+        }
+      },
+      "pdf_pages": [
+        30,
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1372,
+      "markdown_body_line_end": 1394,
+      "heading": "5. Visual map or comparison table",
+      "preview": "JEJABHUKTI / BUNDELKHAND (Chandella heartland)",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 448.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 227.891
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1404,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Temple | Deity/type | Group",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Temple",
+          "Deity/type",
+          "Group"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 227.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 54.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1415,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Regional school | Structural distinction | High-value comparison",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Regional school",
+          "Structural distinction",
+          "High-value comparison"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 474.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1579,
+      "markdown_body_line_end": 1585,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note.** This section makes `basic/03` independently sufficient for **all three direct PYQs routed here** — 2025 Q3 (Chandella sculpture, 10 marks), 2024 Q2 (Pallava contribution, 10 marks) and 2024 Q11 (Chola achievement,",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 241.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 146.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1589,
+      "markdown_body_line_end": 1594,
+      "heading": "13.0 Direct Mains demands owned by this Core file",
+      "preview": "**Core routing supersedes older `advanced/` pointers (final pass, 2026-08-13).** This file already owns three verbatim 2024-25 GS-I demands (§7). The row below adds the **2018-2023** demand for which this file is joint owner, and which the ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 146.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 50.956
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1596,
+      "markdown_body_line_end": 1601,
+      "heading": "13.0 Direct Mains demands owned by this Core file",
+      "preview": "Year | Verbatim routed demand | Directive · marks | ✅ Core section that answers it",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Verbatim routed demand",
+          "Directive · marks",
+          "✅ Core section that answers it"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 644.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1610,
+      "markdown_body_line_end": 1622,
+      "heading": "13.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 11,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 580.29
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 42.488
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1654,
+      "markdown_body_line_end": 1663,
+      "heading": "13.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 488.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 257.09
+        }
+      },
+      "pdf_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1667,
+      "markdown_body_line_end": 1673,
+      "heading": "13.4 Evidence bank A - Chandella/Khajuraho: vigour (how it is carved)",
+      "preview": "Element | ✅ Named evidence | Why it produces \"vigour\" | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "✅ Named evidence",
+          "Why it produces \"vigour\"",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 471.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1750,
+      "markdown_body_line_end": 1757,
+      "heading": "13.7 Evidence bank D - mature Nagara comparison (Khajuraho against its peers)",
+      "preview": "Dimension | ✅ Khajuraho (Chandella) | ✅ Odisha/Kalinga | ✅ Solanki/Maru-Gurjara | Analytical use",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "✅ Khajuraho (Chandella)",
+          "✅ Odisha/Kalinga",
+          "✅ Solanki/Maru-Gurjara",
+          "Analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 314.89
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1767,
+      "markdown_body_line_end": 1772,
+      "heading": "13.8 Evidence bank E - Pallava contribution (the direct 2024 Q2 route, answerable from Core alone)",
+      "preview": "Stage | ✅ Evidence | What changed",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "✅ Evidence",
+          "What changed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 357.89
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1894,
+      "markdown_body_line_end": 1900,
+      "heading": "13.9A Evidence bank F+ - southern and Deccan temple schools (named monument · named patron · significance · caution)",
+      "preview": "**Why this bank exists.** A hostile review found that Chalukya, Rashtrakuta, Hoysala, Vijayanagara and Nayaka were named in this file's classification and comparison tables but carried **no named monument, patron or dated case** anywhere in",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 698.891
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 590.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1905,
+      "markdown_body_line_end": 1917,
+      "heading": "13.9A Evidence bank F+ - southern and Deccan temple schools (named monument · named patron · significance · caution)",
+      "preview": "Device/form | ✅ Named monument · patron | Significance | Limitation / label caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 11,
+        "headers": [
+          "Device/form",
+          "✅ Named monument · patron",
+          "Significance",
+          "Limitation / label caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 557.424
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 612.39
+        }
+      },
+      "pdf_pages": [
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1927,
+      "markdown_body_line_end": 1931,
+      "heading": "13.9A Evidence bank F+ - southern and Deccan temple schools (named monument · named patron · significance · caution)",
+      "preview": "Device/form | ✅ Named monument · patron | Significance | Limitation / label caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Device/form",
+          "✅ Named monument · patron",
+          "Significance",
+          "Limitation / label caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 531.39
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 267.488
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1935,
+      "markdown_body_line_end": 1945,
+      "heading": "13.9A Evidence bank F+ - southern and Deccan temple schools (named monument · named patron · significance · caution)",
+      "preview": "Device/form | ✅ Named monument · patron | Significance | Limitation / label caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Device/form",
+          "✅ Named monument · patron",
+          "Significance",
+          "Limitation / label caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 248.288
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 549.39
+        }
+      },
+      "pdf_pages": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1949,
+      "markdown_body_line_end": 1960,
+      "heading": "13.9A Evidence bank F+ - southern and Deccan temple schools (named monument · named patron · significance · caution)",
+      "preview": "Device/form | ✅ Named monument · patron | Significance | Limitation / label caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 10,
+        "headers": [
+          "Device/form",
+          "✅ Named monument · patron",
+          "Significance",
+          "Limitation / label caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 530.19
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 276.89
+        }
+      },
+      "pdf_pages": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1964,
+      "markdown_body_line_end": 1974,
+      "heading": "13.9A Evidence bank F+ - southern and Deccan temple schools (named monument · named patron · significance · caution)",
+      "preview": "Device/form | ✅ Named monument · patron | Significance | Limitation / label caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Device/form",
+          "✅ Named monument · patron",
+          "Significance",
+          "Limitation / label caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 257.69
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 412.89
+        }
+      },
+      "pdf_pages": [
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1978,
+      "markdown_body_line_end": 1981,
+      "heading": "13.9A Evidence bank F+ - southern and Deccan temple schools (named monument · named patron · significance · caution)",
+      "preview": "Device/form | ✅ Named monument · patron | Significance | Limitation / label caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Device/form",
+          "✅ Named monument · patron",
+          "Significance",
+          "Limitation / label caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 339.39
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1994,
+      "markdown_body_line_end": 2000,
+      "heading": "13.9B The Kalyana Mandapa objective demand - correct ownership",
+      "preview": "**Correction recorded.** The generated 2018-2023 PYQ block in `basic/04_Indo-Islamic-and-Regional-Architecture.md` carries the **CSE 2019 \"Kalyana Mandapas\" routed demand**. That block is machine-generated from the routing ledger and is pre",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 263.39
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 154.122
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2064,
+      "markdown_body_line_end": 2078,
+      "heading": "13.10 Evidence bank G - medieval temple sculpture as social-history evidence (the direct 2022 GS-I 10-mark route)",
+      "preview": "**Direct Mains route, promoted to Core (final pass, 2026-08-13).** **CSE 2022 GS-I Q1 — \"Medieval Indian temple sculptures represent the social life of those days. How will you explain this statement?\"** (10 marks · 150 words). The controll",
+      "metadata": {
+        "line_count": 15
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 293.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 128.224
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2080,
+      "markdown_body_line_end": 2088,
+      "heading": "13.10 Evidence bank G - medieval temple sculpture as social-history evidence (the direct 2022 GS-I 10-mark route)",
+      "preview": "Register | ✅ Named evidence | What it can evidence | What it cannot evidence",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Register",
+          "✅ Named evidence",
+          "What it can evidence",
+          "What it cannot evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 478.39
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2104,
+      "markdown_body_line_end": 2109,
+      "heading": "13.9D Evidence bank F++ - the eastern school, and the regional schools this folder does not hold",
+      "preview": "**Why this exists.** A hostile review found that the folder's regional architecture stopped at the Nagara sub-schools and the southern/Deccan dynasties: the **Pala-Sena / Bengal** school was named once with no content, and **Kerala** and **",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 368.99
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 273.922
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2113,
+      "markdown_body_line_end": 2122,
+      "heading": "13.9D Evidence bank F++ - the eastern school, and the regional schools this folder does not hold",
+      "preview": "Element | ✅ Sourced content (*Nitin…pdf*, PDF pp. 120-121) | Analytical use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Element",
+          "✅ Sourced content (*Nitin…pdf*, PDF pp. 120-121)",
+          "Analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 329.09
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2136,
+      "markdown_body_line_end": 2140,
+      "heading": "13.9D Evidence bank F++ - the eastern school, and the regional schools this folder does not hold",
+      "preview": "Region | What Core **does** hold | ❌ What must **not** be written",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Region",
+          "What Core **does** hold",
+          "❌ What must **not** be written"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 390.29
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2223,
+      "markdown_body_line_end": 2225,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 194.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 113.624
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2231,
+      "markdown_body_line_end": 2233,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 706.39
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2239,
+      "markdown_body_line_end": 2239,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 667.19
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 622.522
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2246,
+      "markdown_body_line_end": 2247,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 622.522
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 555.854
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2253,
+      "markdown_body_line_end": 2256,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 504.254
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 365.853
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2263,
+      "markdown_body_line_end": 2263,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 309.453
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 264.785
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2270,
+      "markdown_body_line_end": 2272,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 264.785
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 183.917
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2278,
+      "markdown_body_line_end": 2280,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 132.317
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 45.916
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2286,
+      "markdown_body_line_end": 2286,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2291,
+      "markdown_body_line_end": 2308,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ CLUSTER AND FINAL ANSWER SPINE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ cluster and final answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 703.424
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 482.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3259,
+      "markdown_body_line_end": 3261,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 353.091
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 272.224
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3267,
+      "markdown_body_line_end": 3269,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 220.624
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 123.722
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3275,
+      "markdown_body_line_end": 3275,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 84.522
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 39.854
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3282,
+      "markdown_body_line_end": 3283,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3289,
+      "markdown_body_line_end": 3292,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 552.622
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3299,
+      "markdown_body_line_end": 3299,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 496.222
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 451.554
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3306,
+      "markdown_body_line_end": 3308,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 451.554
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 370.687
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3314,
+      "markdown_body_line_end": 3316,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 319.087
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 232.685
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3322,
+      "markdown_body_line_end": 3322,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 193.485
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 148.817
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3656,
+      "markdown_body_line_end": 3666,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I. **Core area:** Comparative temple morphology and patronage across Nagara/ Dravida/Vesara schools; **complete Chandella/Khajuraho case dossier** (political setting,",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 543.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 413.624
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3686,
+      "markdown_body_line_end": 3692,
+      "heading": "2. Advanced vocabulary",
+      "preview": "Term | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Term",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 455.09
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3696,
+      "markdown_body_line_end": 3702,
+      "heading": "3. Comparative framework",
+      "preview": "Dimension | Khajuraho (Chandella, Nagara) | Odisha/Konark (Nagara, Kalinga sub-style) | Great Living Chola Temples (Dravida) | Hoysala (Vesara) | Jain complexes (Khajuraho group)",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Khajuraho (Chandella, Nagara)",
+          "Odisha/Konark (Nagara, Kalinga sub-style)",
+          "Great Living Chola Temples (Dravida)",
+          "Hoysala (Vesara)",
+          "Jain complexes (Khajuraho group)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 433.09
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 65.188
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3762,
+      "markdown_body_line_end": 3787,
+      "heading": "5. Visual synthesis table",
+      "preview": "POLITICAL AUTONOMY (Dhanga, maharajadhiraja)",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3936,
+      "markdown_body_line_end": 3944,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Temple ritual sequence",
+      "preview": "JAGATI -> elevated sacred platform",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 348.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3948,
+      "markdown_body_line_end": 3953,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Regional morphology",
+      "preview": "NAGARA -> curvilinear shikhara",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 326.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 275.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3957,
+      "markdown_body_line_end": 3962,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Khajuraho power-to-form",
+      "preview": "CHANELLA ASSERTION -> visible patronage need",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3966,
+      "markdown_body_line_end": 3971,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Khajuraho axial chain",
+      "preview": "ARDHAMANDAPA -> entrance porch",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3975,
+      "markdown_body_line_end": 3980,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Mountain silhouette",
+      "preview": "MAIN SHIKHARA -> central vertical mass",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3984,
+      "markdown_body_line_end": 3989,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Breadth-of-life ledger",
+      "preview": "SACRED -> deities and worshippers",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3993,
+      "markdown_body_line_end": 3998,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Chausath Yogini distinction",
+      "preview": "KHAJURAHO -> Chandella landscape",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4002,
+      "markdown_body_line_end": 4007,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Pallava transition",
+      "preview": "MAHENDRAVARMAN -> rock-cut mandapas",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4011,
+      "markdown_body_line_end": 4016,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Chola achievement system",
+      "preview": "GRANITE TEMPLE -> monumental state form",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4020,
+      "markdown_body_line_end": 4028,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Deccan experiment",
+      "preview": "PATTADAKAL VIRUPAKSHA -> Dravida tower",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4032,
+      "markdown_body_line_end": 4040,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Late Dravida shift",
+      "preview": "CHOLA -> vimana-dominant imperial complex",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4044,
+      "markdown_body_line_end": 4049,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Temple answer spine",
+      "preview": "NAME -> school, dynasty and monument",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    }
+  ]
+}

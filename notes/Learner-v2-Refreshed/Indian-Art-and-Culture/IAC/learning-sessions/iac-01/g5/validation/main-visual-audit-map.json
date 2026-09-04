@@ -1,0 +1,1992 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "indian-art-and-culture-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Architecture Foundations and Harappan Urbanism - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 432.224
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 91.222
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\assets\\indian-art-and-culture-01_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 491.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 184.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: How to read architecture is the source-bounded relationship among and Architecture reading axes within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "HOW TO READ ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - HOW TO READ ARCHITECTURE",
+      "preview": "START / CONCEPT: FOUNDATION — How to read architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Grid planning and pre-planning is the source-bounded relationship among and Rectangular grid within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 162,
+      "heading": "VISUAL FIRST",
+      "preview": "GRID PLANNING AND PRE-PLANNING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 212,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - GRID PLANNING AND PRE-PLANNING",
+      "preview": "START / CONCEPT: FOUNDATION — Grid planning and pre-planning",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 223,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Citadel and lower town is the source-bounded relationship among and Citadel and lower town within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 238,
+      "markdown_body_line_end": 242,
+      "heading": "VISUAL FIRST",
+      "preview": "CITADEL AND LOWER TOWN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 292,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CITADEL AND LOWER TOWN",
+      "preview": "START / CONCEPT: FOUNDATION — Citadel and lower town",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 303,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Brick modules and coordination is the source-bounded relationship among Standardised burnt brick and Standardisation inference within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 384.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 325,
+      "heading": "VISUAL FIRST",
+      "preview": "BRICK MODULES AND COORDINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 376,
+      "heading": "CLOSING RECALL FLOW - CORE - BRICK MODULES AND COORDINATION",
+      "preview": "START / CONCEPT: CORE — Brick modules and coordination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 84.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 387,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The drainage network is the source-bounded relationship among and Maintainable drainage within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 406,
+      "heading": "VISUAL FIRST",
+      "preview": "THE DRAINAGE NETWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 456,
+      "heading": "CLOSING RECALL FLOW - CORE - THE DRAINAGE NETWORK",
+      "preview": "START / CONCEPT: CORE — The drainage network",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Water inside the house is the source-bounded relationship among and Domestic water design within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 486,
+      "heading": "VISUAL FIRST",
+      "preview": "WATER INSIDE THE HOUSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 536,
+      "heading": "CLOSING RECALL FLOW - CORE - WATER INSIDE THE HOUSE",
+      "preview": "START / CONCEPT: CORE — Water inside the house",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 547,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Great Bath and ritual inference is the source-bounded relationship among and Great Bath within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 566,
+      "heading": "VISUAL FIRST",
+      "preview": "GREAT BATH AND RITUAL INFERENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 616,
+      "heading": "CLOSING RECALL FLOW - CORE - GREAT BATH AND RITUAL INFERENCE",
+      "preview": "START / CONCEPT: CORE — Great Bath and ritual inference",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 627,
+      "markdown_body_line_end": 627,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Public buildings and labels is the source-bounded relationship among Conventional granary label and No confirmed palace or temple within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 649,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC BUILDINGS AND LABELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 700,
+      "heading": "CLOSING RECALL FLOW - CORE - PUBLIC BUILDINGS AND LABELS",
+      "preview": "START / CONCEPT: CORE — Public buildings and labels",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 74.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 711,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Dholavira's regional solution is the source-bounded relationship among Dholavira adaptation and Official Dholavira linkage within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 733,
+      "heading": "VISUAL FIRST",
+      "preview": "DHOLAVIRA'S REGIONAL SOLUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 784,
+      "heading": "CLOSING RECALL FLOW - CORE - DHOLAVIRA'S REGIONAL SOLUTION",
+      "preview": "START / CONCEPT: CORE — Dholavira's regional solution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 795,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Lothal, Harappa and Kalibangan is the source-bounded relationship among Lothal basin caution and Harappa and Kalibangan variation within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 344.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 278.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 817,
+      "heading": "VISUAL FIRST",
+      "preview": "LOTHAL, HARAPPA AND KALIBANGAN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 868,
+      "heading": "CLOSING RECALL FLOW - CORE - LOTHAL, HARAPPA AND KALIBANGAN",
+      "preview": "START / CONCEPT: CORE — Lothal, Harappa and Kalibangan",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 94.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 879,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The script and inference ceiling is the source-bounded relationship among and Undeciphered-script boundary within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 898,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SCRIPT AND INFERENCE CEILING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 948,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SCRIPT AND INFERENCE CEILING",
+      "preview": "START / CONCEPT: CORE — The script and inference ceiling",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 959,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Meluha and exchange is the source-bounded relationship among and Meluha and external contact within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 978,
+      "heading": "VISUAL FIRST",
+      "preview": "MELUHA AND EXCHANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1028,
+      "heading": "CLOSING RECALL FLOW - CORE - MELUHA AND EXCHANGE",
+      "preview": "START / CONCEPT: CORE — Meluha and exchange",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 150.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1039,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Civic versus monumental comparison is the source-bounded relationship among and Civic versus monumental priority within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1058,
+      "heading": "VISUAL FIRST",
+      "preview": "CIVIC VERSUS MONUMENTAL COMPARISON",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1108,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CIVIC VERSUS MONUMENTAL COMPARISON",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Civic versus monumental comparison",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 543.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1119,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: PYQ and water-architecture boundaries is the source-bounded relationship among Verified 2025 Mains demand and Water-architecture firewall within Architecture Foundations and Harappan Urbanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 389.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 322.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1141,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ AND WATER-ARCHITECTURE BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1192,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ AND WATER-ARCHITECTURE BOUNDARIES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ and water-architecture boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 84.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1204,
+      "heading": "VISUAL FIRST",
+      "preview": "COMPLETE ANSWER ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 692.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1238,
+      "markdown_body_line_end": 1248,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I. **Core area:** Architectural vocabulary; materials, plan and function; Harappan town planning, citadel/lower town, drains, Great Bath, standardised con",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 303.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 166.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1262,
+      "markdown_body_line_end": 1269,
+      "heading": "2. Essential vocabulary",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 501.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1314,
+      "markdown_body_line_end": 1330,
+      "heading": "5. Visual map or comparison table",
+      "preview": "HARAPPAN TOWN PLAN",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1332,
+      "markdown_body_line_end": 1338,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Feature | Harappan evidence | Exam trap it corrects",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Harappan evidence",
+          "Exam trap it corrects"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 626.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 428.49
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1433,
+      "markdown_body_line_end": 1439,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note.** This section makes `basic/01` independently sufficient for the **direct 2025 GS-I demand on the salient features of Harappan architecture** and for unfamiliar re-wordings of it (civic engineering, planning authori",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1452,
+      "heading": "13.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 692.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 307.622
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1478,
+      "markdown_body_line_end": 1483,
+      "heading": "13.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 442.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1487,
+      "markdown_body_line_end": 1495,
+      "heading": "13.4 Evidence bank A - salient features (the description/'discuss' family)",
+      "preview": "Feature | ✅ Named evidence | Analytical significance | Limitation / caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Feature",
+          "✅ Named evidence",
+          "Analytical significance",
+          "Limitation / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 346.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1499,
+      "markdown_body_line_end": 1504,
+      "heading": "13.5 Evidence bank B - the comparative demand (Harappan versus contemporary civilisations)",
+      "preview": "Dimension | ✅ Harappan | ✅ Egypt / Mesopotamia | Use in an answer",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "✅ Harappan",
+          "✅ Egypt / Mesopotamia",
+          "Use in an answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 324.89
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 134.988
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1512,
+      "markdown_body_line_end": 1522,
+      "heading": "13.6 Evidence bank C - the evidence-to-inference chain (critical / 'to what extent' family)",
+      "preview": "DIRECT EVIDENCE (form)                 SUPPORTED INFERENCE (function)",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1567,
+      "heading": "13.7A Evidence bank D - water architecture: the civic Harappan system and later ritual water buildings, kept distinct",
+      "preview": "**Why this exists.** A hostile review found that \"water architecture\" existed in this folder only as **Harappan civic engineering** on one side and scattered **temple tank** mentions on the other, with **no named stepwell**, no linking argu",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 343.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 192.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1571,
+      "markdown_body_line_end": 1577,
+      "heading": "13.7A Evidence bank D - water architecture: the civic Harappan system and later ritual water buildings, kept distinct",
+      "preview": "✅ Named evidence | ✅ Sourced content | Function",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "✅ Named evidence",
+          "✅ Sourced content",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 515.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1581,
+      "markdown_body_line_end": 1589,
+      "heading": "13.7A Evidence bank D - water architecture: the civic Harappan system and later ritual water buildings, kept distinct",
+      "preview": "✅ Named evidence | ✅ Sourced content | Function",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "✅ Named evidence",
+          "✅ Sourced content",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 204.69
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1593,
+      "markdown_body_line_end": 1601,
+      "heading": "13.7A Evidence bank D - water architecture: the civic Harappan system and later ritual water buildings, kept distinct",
+      "preview": "Step | What to write | Named evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Step",
+          "What to write",
+          "Named evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 227.09
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2748,
+      "markdown_body_line_end": 2757,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I. **Core area:** Limits of inference from archaeology; form-versus-function debates in Harappan urbanism; comparative town planning; evidentiary caution in labelling",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 223.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 107.624
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2773,
+      "markdown_body_line_end": 2778,
+      "heading": "2. Advanced vocabulary",
+      "preview": "Term | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 680.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 402.69
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2782,
+      "markdown_body_line_end": 2786,
+      "heading": "3. Comparative framework",
+      "preview": "Dimension | Harappan civilisation | Contemporary Egypt/Mesopotamia | Analytical point",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "Harappan civilisation",
+          "Contemporary Egypt/Mesopotamia",
+          "Analytical point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 380.69
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 190.288
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2813,
+      "markdown_body_line_end": 2823,
+      "heading": "5. Visual synthesis table",
+      "preview": "DIRECT EVIDENCE (form)              INFERENCE (function/meaning)",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 585.091
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2929,
+      "markdown_body_line_end": 2937,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Architecture reading method",
+      "preview": "MATERIAL -> brick, stone, mortar and finish",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 733.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 650.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2941,
+      "markdown_body_line_end": 2946,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Harappan city grid",
+      "preview": "NORTH-SOUTH STREET -> planned urban axis",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 628.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 577.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2950,
+      "markdown_body_line_end": 2955,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Two-part settlement",
+      "preview": "CITADEL -> raised western public zone",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 555.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2959,
+      "markdown_body_line_end": 2964,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Brick-to-authority chain",
+      "preview": "STANDARD BRICK -> repeatable construction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 481.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 429.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2968,
+      "markdown_body_line_end": 2973,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Drainage as a network",
+      "preview": "BATHROOM -> small household drain",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 407.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 355.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2977,
+      "markdown_body_line_end": 2982,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Great Bath evidence test",
+      "preview": "FORM -> tank with surrounding rooms",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 333.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 281.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2986,
+      "markdown_body_line_end": 2991,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Naming public structures",
+      "preview": "RAISED PLATFORM + AIR DUCTS -> storage likely",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2995,
+      "markdown_body_line_end": 3000,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Regional urban solutions",
+      "preview": "MOHENJO-DARO -> Great Bath and drains",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3009,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Evidence ladder",
+      "preview": "STRONG -> grid, brick, drain and reservoir",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3013,
+      "markdown_body_line_end": 3021,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Civic and monumental contrast",
+      "preview": "HARAPPAN -> streets, wells, baths and drains",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3025,
+      "markdown_body_line_end": 3033,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Water architecture firewall",
+      "preview": "HARAPPAN -> settlement supply and sanitation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3037,
+      "markdown_body_line_end": 3042,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Harappan answer spine",
+      "preview": "OPEN -> civic urbanism thesis",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    }
+  ]
+}

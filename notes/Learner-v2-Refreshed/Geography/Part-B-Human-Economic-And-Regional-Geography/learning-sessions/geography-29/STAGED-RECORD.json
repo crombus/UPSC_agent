@@ -1,0 +1,116 @@
+{
+  "record_id": "geography-29:learner-v2:g4",
+  "topic_key": "geography-29",
+  "variant": "learner-v2",
+  "generation": 4,
+  "supersedes": "geography-29:learner-v2:g3",
+  "command": "Generate learner-v2 topic: Geography — Part B — Human, Economic and Regional Geography — Regional Development and Five Year Plans — Learner-v2 refreshed",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Complete-Learning-Session_2026-08-22.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Solved-Practice-Workbook_2026-08-22.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Complete-Learning-Session_2026-08-22.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Solved-Practice-Workbook_2026-08-22.md",
+  "generated_on": "2026-08-22",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "geography-29:learner-v2:g4"
+  },
+  "provenance": {
+    "workflow": "geography-part-b-26-27-29-rebuild-g3",
+    "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\29_Regional-Development-and-Five-Year-Plans_Complete-Topic-Package.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Complete-Learning-Session_2026-08-22.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-08-22",
+    "superseded_v1": "geography-29:legacy-v1:g1",
+    "local_ocr_sources": [
+      "books\\GC Leong - Certificate Physical and human Geography.pdf",
+      "books\\Indian & World Geography - Husain, Majid_Compressed.pdf",
+      "books\\Indian-geography-majid-hussain.pdf"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+    ],
+    "refresh": {
+      "id": "learner-v2-refreshed-2026-08-22",
+      "source_record": "geography-29:learner-v2:g3",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-29_Learning-Session.md",
+      "source_hashes": {
+        "books\\GC Leong - Certificate Physical and human Geography.pdf": "80cee21f9075731f1841cb3714645df94846f4b215ab5f0c1948aac4ab71998a",
+        "books\\Indian & World Geography - Husain, Majid_Compressed.pdf": "8770f543912124259376881085c94676d330f89d455666d46aaa22f751ba10fb",
+        "books\\Indian-geography-majid-hussain.pdf": "1d7ab9edf8779c0f3c812fe56787084f619989e4e1adaffa9f1e43f0cb182c41",
+        "notes\\Geography\\learning-session-v2\\part-b-human-economic-and-regional-geography\\notes\\geography-29_Learning-Session_2026-09-01.pdf": "4dde4fce417ab9dbac3ecd75958cd31c70654120dbafa41f96e63efb290c4d03",
+        "notes\\Geography\\learning-session-v2\\part-b-human-economic-and-regional-geography\\workbooks\\geography-29_Solved-Workbook_2026-09-01.pdf": "07ef3fd29665b51deaae4193a0dea53d07b3e5e7c7c14833bcc1b13e2f05d62c",
+        "tools\\markdown_learning_pdf.py": "108ddedd5ca09a14d0bbdf021a94cb5ee4206f4864f268a70e7edd8ef97064d2",
+        "tools\\validate_v2_export.py": "9f47e27b6447c4b48ee86f63179f1218947e394d4fe9823dbbcc1910b544593a",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+        "upsc-ai-kit\\knowledge\\Geography\\29_Regional-Development-and-Five-Year-Plans_Complete-Topic-Package.md": "966c5e0a52aa982943d02a5dfd6a97f134fd95354e0dd18a3beae351ddc2dbca",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md": "d22882a255f29bbf4a9ee3b5a901c44ce8b397e5c2c3b321c258b56bbcc465ae",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md": "b2fceac7e2635db4b1e4290bb8eed5553464683134211155060195e86ad7b62e",
+        "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-29_Learning-Session.md": "966c5e0a52aa982943d02a5dfd6a97f134fd95354e0dd18a3beae351ddc2dbca",
+        "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-29_Solved-Workbook.md": "495f2ef84338de73bb835a5f9aaec69b86e461226077086230afd38b10480dd5"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "strict A-B-C-D rotation",
+      "tracker_updated": false,
+      "tracker_sha256": "bb634d8c71fb534bbb5e80f57bcb73c2e4a9ef69936193d4b2e3e775b177410d"
+    },
+    "graphical_renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0",
+      "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62"
+    }
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-22",
+    "validator": "tools/refresh_all_v2_learning_sessions.py + tools/validate_v2_export.py"
+  },
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\assets",
+  "refresh_profile": "learner-v2-refreshed-2026-08-22",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4",
+    "master_image": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Graphical-Spec-g4.json",
+    "graphical_spec_sha256": "f77f1cade6c6bbf054444336d48a24d486adb3ed909fdcd885d4c6de6f84ba20",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-29-2026-09-01-sequential-g3.json",
+    "ascii_master_spec_sha256": "480a2f72d66ebaa04278335cba30147eda96bfb16cff79aae8621be7c7702952"
+  }
+}

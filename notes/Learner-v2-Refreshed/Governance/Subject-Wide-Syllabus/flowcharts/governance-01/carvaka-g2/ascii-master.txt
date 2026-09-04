@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Three terms, one test
+GOVERNMENT -> legislature, executive, judiciary; the formal authority-holders
+GOVERNANCE -> state plus market plus civil society making and enforcing collective decisions
+GOOD GOVERNANCE -> the normative standard applied to the second, not a synonym for the first
+ANSWER MOVE -> name the duty-holder and the binding form before evaluating performance
+
+ASCII MASTER FLOW — PANEL 2/12: Measurement layer against normative layer
+MEASUREMENT -> Worldwide Governance Indicators, six dimensions, aggregated perception
+MEASUREMENT -> Good Governance Index, ten sectors, state and union-territory diagnostic
+NORMATIVE -> UNDP principles as a process checklist that cannot rank
+NORMATIVE -> Second Administrative Reforms Commission institutional-reform frame
+
+ASCII MASTER FLOW — PANEL 3/12: The six named dimensions
+VOICE AND ACCOUNTABILITY | POLITICAL STABILITY AND ABSENCE OF VIOLENCE
+GOVERNMENT EFFECTIVENESS | REGULATORY QUALITY
+RULE OF LAW | CONTROL OF CORRUPTION
+CAUTION -> scored separately, perception-based, reported with a margin of error
+
+ASCII MASTER FLOW — PANEL 4/12: Good Governance Index edition card
+LAUNCH -> 25 December 2019 by the Department of Administrative Reforms and Public Grievances
+LATEST LOCATED NATIONAL EDITION -> Good Governance Index 2020-21, released 25 December 2021
+GROUPING -> three groups in 2019; four in 2020-21 including North-East and Hill States
+WITHDRAWN -> the claim of a 2025 national edition, corrected on 13 August 2026
+
+ASCII MASTER FLOW — PANEL 5/12: What may not be asserted
+SAFE -> launch date, located edition, edition-specific grouping, Good Governance Day since 2014
+BOUNDED -> a rank only with its edition year attached
+PROHIBITED -> any post-2021 national edition, rank, score, indicator count or top performer
+PROHIBITED -> the District Good Governance Index treated as a national edition
+
+ASCII MASTER FLOW — PANEL 6/12: Attribution discipline
+WORLD BANK -> Worldwide Governance Indicators, six dimensions, cross-country
+WORLD JUSTICE PROJECT -> Rule of Law Index, published annually, distinct family
+DEPARTMENT OF ADMINISTRATIVE REFORMS -> Good Governance Index and Good Governance Day
+MINISTRY OF PANCHAYATI RAJ -> Devolution Index, panchayat scope only
+
+ASCII MASTER FLOW — PANEL 7/12: Four objects at four scales
+CROSS-COUNTRY -> Worldwide Governance Indicators benchmark over time
+STATE SECTORAL -> Good Governance Index, ten sectors, comparison categories
+SERVICE PORTAL -> National e-Governance Service Delivery Assessment, end-service depth
+PANCHAYAT -> Devolution Index; urban local bodies are outside its scope
+
+ASCII MASTER FLOW — PANEL 8/12: Norm to instrument, legality half
+RULE OF LAW -> Article 14 non-arbitrariness and reasoned orders; uneven below the regulator tier
+TRANSPARENCY -> Right to Information Act, 2005, Section 4 proactive disclosure; unaudited compliance
+ACCOUNTABILITY -> Comptroller and Auditor General, Articles 148 to 151; audit remedy
+ACCOUNTABILITY -> Lokpal Act, 2013 and Central Vigilance Commission Act, 2003; distinct remedies
+
+ASCII MASTER FLOW — PANEL 9/12: Norm to instrument, delivery half
+PARTICIPATION -> Section 17 Gram Sabha social audit; Pre-Legislative Consultation Policy, 2014
+RESPONSIVENESS -> state right-to-service Acts from Madhya Pradesh, 2010; notified services only
+RESPONSIVENESS -> grievance portal twenty-one-day benchmark, departmental guidelines August 2024
+EQUITY AND EFFECTIVENESS -> direct benefit transfer targeting; Output-Outcome Monitoring Framework
+
+ASCII MASTER FLOW — PANEL 10/12: Seven stages from norm to outcome
+LEGAL FORM -> Act, rule, guideline or executive policy, and who is bound
+INSTITUTION AND PROCEDURE -> identified duty-holder, timeline, officer, appeal, penalty
+CAPACITY AND CITIZEN SIDE -> staff, records, budget; awareness, distance, cost, language
+REMEDY AND FEEDBACK -> is failure correctable, and is it counted and used for redesign
+
+ASCII MASTER FLOW — PANEL 11/12: Five index tests
+INDICATOR VALIDITY -> does it measure the governed outcome or an easily counted input
+COMPARABILITY -> is the data self-reported by the entity being ranked
+OUTPUT AGAINST OUTCOME -> how much of the score is coverage rather than realised change
+ADJUSTMENT AND CONSEQUENCE -> like-for-like federal comparison; does a poor score trigger correction
+
+ASCII MASTER FLOW — PANEL 12/12: Answer spine and answered objections
+OPEN -> separate the institution set, the decision process and the normative standard
+BUILD -> norm to named instrument to mechanism to stated limitation, three to six units
+TEST -> five index tests; answer vagueness, measurement, conditionality and capacity objections
+CLOSE -> graded verdict with the edition-dated evidence and the condition that would reverse it

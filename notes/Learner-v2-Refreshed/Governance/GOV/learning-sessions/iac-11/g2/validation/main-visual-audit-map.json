@@ -1,0 +1,2053 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "governance-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Regulatory Governance and Independent Regulators - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 682.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 355.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\assets\\governance-11_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 427.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Why independent sectoral regulators exist Qualified use: Open a regulator answer with the design rationale rather than with a list of regulators.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 212.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 145.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 84,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY INDEPENDENT SECTORAL REGULATORS EXIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 675.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 129,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHY INDEPENDENT SECTORAL REGULATORS EXIST",
+      "preview": "START / CONCEPT: FOUNDATION — Why independent sectoral regulators exist",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 514
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 293.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Every regulator is a creature of its own statute Qualified use: Avoid the single commonest factual trap in a statutory-bodies answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 159,
+      "heading": "VISUAL FIRST",
+      "preview": "EVERY REGULATOR IS A CREATURE OF ITS OWN STATUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 329.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 204,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - EVERY REGULATOR IS A CREATURE OF ITS OWN STATUTE",
+      "preview": "START / CONCEPT: FOUNDATION — Every regulator is a creature of its own statute",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 616
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 412.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 215,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The autonomy, accountability and expertise trilemma Qualified use: Name the trilemma in the first sentence of any independence or reform demand.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 229.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 163.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 234,
+      "heading": "VISUAL FIRST",
+      "preview": "THE AUTONOMY, ACCOUNTABILITY AND EXPERTISE TRILEMMA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 279,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE AUTONOMY, ACCOUNTABILITY AND EXPERTISE TRILEMMA",
+      "preview": "START / CONCEPT: FOUNDATION — The autonomy, accountability and expertise trilemma",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 488
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 311.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 60.491
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 290,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Autonomy features paired with their accountability counterparts Qualified use: Earn the design mark by answering each autonomy feature with its counterweight.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 309,
+      "heading": "VISUAL FIRST",
+      "preview": "PAIRING AUTONOMY FEATURES WITH ACCOUNTABILITY COUNTERPARTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 315.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 354,
+      "heading": "CLOSING RECALL FLOW - CORE - PAIRING AUTONOMY FEATURES WITH ACCOUNTABILITY COUNTERPARTS",
+      "preview": "START / CONCEPT: CORE — Pairing autonomy features with accountability counterparts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 668
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 369.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: De jure against de facto independence Qualified use: Use the formal-against-actual wedge to evaluate a specific named regulator.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 220.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 153.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 384,
+      "heading": "VISUAL FIRST",
+      "preview": "DE JURE AGAINST DE FACTO INDEPENDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 689.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 429,
+      "heading": "CLOSING RECALL FLOW - CORE - DE JURE AGAINST DE FACTO INDEPENDENCE",
+      "preview": "START / CONCEPT: CORE — De jure against de facto independence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 446
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 335.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 94.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 440,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The independence spectrum as the analytical question Qualified use: Compare regulators by statutory design features rather than by a yes-or-no label.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 459,
+      "heading": "VISUAL FIRST",
+      "preview": "THE INDEPENDENCE SPECTRUM AS THE ANALYTICAL QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 487,
+      "markdown_body_line_end": 504,
+      "heading": "CLOSING RECALL FLOW - CORE - THE INDEPENDENCE SPECTRUM AS THE ANALYTICAL QUESTION",
+      "preview": "START / CONCEPT: CORE — The independence spectrum as the analytical question",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 462
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 515,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Regulatory capture without any illegal transaction Qualified use: Explain the mechanism instead of reducing capture to corruption.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 293.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 226.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 530,
+      "markdown_body_line_end": 534,
+      "heading": "VISUAL FIRST",
+      "preview": "REGULATORY CAPTURE WITHOUT ANY ILLEGAL TRANSACTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 579,
+      "heading": "CLOSING RECALL FLOW - CORE - REGULATORY CAPTURE WITHOUT ANY ILLEGAL TRANSACTION",
+      "preview": "START / CONCEPT: CORE — Regulatory capture without any illegal transaction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 335.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 124.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 590,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The opposite failure of ministerial capture Qualified use: Show both directions of failure and attach a procedural corrective to each.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 609,
+      "heading": "VISUAL FIRST",
+      "preview": "MINISTERIAL CAPTURE AND THE PROCEDURAL CORRECTIVES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 329.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 654,
+      "heading": "CLOSING RECALL FLOW - CORE - MINISTERIAL CAPTURE AND THE PROCEDURAL CORRECTIVES",
+      "preview": "START / CONCEPT: CORE — Ministerial capture and the procedural correctives",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 554
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 449.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 665,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The six-test regulator design checklist Qualified use: Apply a transferable checklist to a novel or unfamiliar regulator under exam pressure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 253.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 186.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 684,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SIX-TEST REGULATOR DESIGN CHECKLIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 729,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SIX-TEST REGULATOR DESIGN CHECKLIST",
+      "preview": "START / CONCEPT: CORE — The six-test regulator design checklist",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 635
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A regulator's legitimacy rests on process rather than on independence asserted in its statute, because pre-consultation, published responses, reasoned orders and effective appellate review are what make unelected rule-making defensible, and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 319.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 196.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 759,
+      "heading": "VISUAL FIRST",
+      "preview": "PROCESS LEGITIMACY AND IMPACT ASSESSMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 804,
+      "heading": "CLOSING RECALL FLOW - CORE - PROCESS LEGITIMACY AND IMPACT ASSESSMENT",
+      "preview": "START / CONCEPT: CORE — Process legitimacy and impact assessment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 589
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 339.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 68.691
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 815,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The competition regulator and its parent statute Qualified use: Answer a named-regulator demand with statute, function, appellate route and limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 834,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COMPETITION REGULATOR AND ITS PARENT STATUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 862,
+      "markdown_body_line_end": 879,
+      "heading": "CLOSING RECALL FLOW - CORE - THE COMPETITION REGULATOR AND ITS PARENT STATUTE",
+      "preview": "START / CONCEPT: CORE — The competition regulator and its parent statute",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 645
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 392.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 890,
+      "markdown_body_line_end": 890,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Dominance is not unlawful and the forms abuse takes - Ex-ante sector regulation against ex-post conduct regulation Qualified use: Separate a governance answer from a company-law answer in the opening move.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 252.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 185.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 905,
+      "markdown_body_line_end": 912,
+      "heading": "VISUAL FIRST",
+      "preview": "DOMINANCE, ABUSE AND THE TWO REGULATORY CLOCKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 676.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 958,
+      "heading": "CLOSING RECALL FLOW - CORE - DOMINANCE, ABUSE AND THE TWO REGULATORY CLOCKS",
+      "preview": "START / CONCEPT: CORE — Dominance, abuse and the two regulatory clocks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 667
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 456.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 969,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Tribunalisation with its dual rationale and dual risk - What the Tribunals Reforms Act, 2021 actually did Qualified use: State the reform's actual content before assessing its impact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 273.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 207.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "VISUAL FIRST",
+      "preview": "TRIBUNALISATION AND WHAT THE 2021 STATUTE ACTUALLY DID",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1037,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - TRIBUNALISATION AND WHAT THE 2021 STATUTE ACTUALLY DID",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Tribunalisation and what the 2021 statute actually did",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 590
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 453.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1048,
+      "markdown_body_line_end": 1048,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The 2025 judgment and its four heads of invalidation - The interim continuity order and the unresolved commission Qualified use: Date a constitutional development precisely and describe implementation as unresolved.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 242.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 161.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1070,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 2025 JUDGMENT AND THE UNRESOLVED COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 662.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1116,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE 2025 JUDGMENT AND THE UNRESOLVED COMMISSION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The 2025 judgment and the unresolved commission",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 569
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1127,
+      "markdown_body_line_end": 1127,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The financial-sector commission and regulation by activity - Trust-based regulation and proportionate decriminalisation - Verified question ownership, one recorded routing conflict and the data boundary Qualified use: Close ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 335.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 254.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1152,
+      "heading": "VISUAL FIRST",
+      "preview": "ARCHITECTURE REFORM, TRUST-BASED REGULATION AND HONEST OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1188,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** Sectoral regulators, the autonomy-accountability-expertise trilemma, regulatory capture, tribunalisation and the Tribunals Reforms Act, 2021. **G",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 543.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 420.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1216,
+      "heading": "1. Visual foundation",
+      "preview": "WHY INDEPENDENT SECTORAL REGULATORS EXIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 398.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 157.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1226,
+      "markdown_body_line_end": 1233,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 366.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1362,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Independent regulators and specialised tribunals exist to bring technical expertise and speed to complex sectoral governance, but both require continuous institutional calibration of autonomy against accountability to avo",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 287.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 214.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1394,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for the *statutory, regulatory and quasi-judicial bodies* clause, as it concerns **regulatory governance**, is held **in this file**, including the CCI demand routed here. `advanced/11` is optional enric",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 615.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 491.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1450,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 681.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 462.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1491,
+      "heading": "13.4 Evidence bank A - autonomy and accountability as design features",
+      "preview": "Autonomy feature | What it protects | Accountability feature | What it restores",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Autonomy feature",
+          "What it protects",
+          "Accountability feature",
+          "What it restores"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 597.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1514,
+      "markdown_body_line_end": 1530,
+      "heading": "13.6 Causal chain - from independence design to capture (and correction)",
+      "preview": "TECHNICAL COMPLEXITY + NEED FOR PREDICTABILITY -> statutory regulator created",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 326.29
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 165.29
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1538,
+      "markdown_body_line_end": 1546,
+      "heading": "13.7 Evidence bank B - Indian anchors",
+      "preview": "Anchor | What it is | Governance point | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Anchor",
+          "What it is",
+          "Governance point",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 241.89
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1617,
+      "markdown_body_line_end": 1619,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 136.691
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 41.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1625,
+      "markdown_body_line_end": 1629,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 561.29
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1637,
+      "markdown_body_line_end": 1637,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 487.69
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 443.022
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1642,
+      "markdown_body_line_end": 1659,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ARCHITECTURE REFORM, TRUST-BASED REGULATION AND HONEST OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Architecture reform, trust-based regulation and honest ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 293.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2520,
+      "markdown_body_line_end": 2522,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 603.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 508.024
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2528,
+      "markdown_body_line_end": 2532,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 456.424
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 266.022
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2540,
+      "markdown_body_line_end": 2540,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 192.422
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 147.754
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2869,
+      "markdown_body_line_end": 2876,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Sectoral regulators, the autonomy-accountability-expertise trilemma, regulatory capture, tribunalisation and the Tribunals Reforms Act, 2021. **Grounded in:*",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 689.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 587.824
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2897,
+      "heading": "1. Architecture",
+      "preview": "REGULATORY INDEPENDENCE SPECTRUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 565.824
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 394.824
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2906,
+      "markdown_body_line_end": 2911,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 353.09
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3142,
+      "markdown_body_line_end": 3148,
+      "heading": "Regulatory Governance and Independent Regulators: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 724.291
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3158,
+      "markdown_body_line_end": 3164,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Why a statutory regulator is created",
+      "preview": "TECHNICAL COMPLEXITY -> generalist departments cannot set or police detailed sector rules",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 320.891
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 258.891
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3168,
+      "markdown_body_line_end": 3174,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Trilemma with paired design features",
+      "preview": "AUTONOMY: fixed-term appointment -> ACCOUNTABILITY: annual report laid before Parliament",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3178,
+      "markdown_body_line_end": 3183,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Independence spectrum",
+      "preview": "LOW END -> a ministry-controlled department: strong political control, weak insulation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3187,
+      "markdown_body_line_end": 3193,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: How capture happens lawfully",
+      "preview": "INFORMATION ASYMMETRY -> the industry knows the sector better than the regulator",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3197,
+      "markdown_body_line_end": 3202,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Two directions of failure",
+      "preview": "INDUSTRY CAPTURE -> rules that serve incumbents and exclude entrants",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3206,
+      "markdown_body_line_end": 3213,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Six-test design checklist",
+      "preview": "1 STATUTORY MANDATE -> what exactly is it empowered to do, and by which Act",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3217,
+      "markdown_body_line_end": 3223,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Competition regulator card",
+      "preview": "PARENT STATUTE -> the Competition Act, 2002",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 315.491
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3227,
+      "markdown_body_line_end": 3232,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Dominance against abuse",
+      "preview": "LAWFUL -> holding a dominant position in a defined relevant market",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3236,
+      "markdown_body_line_end": 3241,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Two regulatory clocks",
+      "preview": "SECTOR REGULATOR -> ex-ante: licences, tariffs, technical standards, entry conditions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3245,
+      "markdown_body_line_end": 3253,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Tribunal reform timeline",
+      "preview": "2021 -> the Tribunals Reforms Act abolishes named appellate bodies, functions to High Courts",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3257,
+      "markdown_body_line_end": 3263,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Architecture proposal against adoption",
+      "preview": "PROPOSAL -> a Unified Financial Agency on a regulation-by-activity principle, 2013",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3267,
+      "markdown_body_line_end": 3272,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a regulatory demand",
+      "preview": "OPEN -> statutory character first: statutory, not constitutional, not executive-created",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    }
+  ]
+}
