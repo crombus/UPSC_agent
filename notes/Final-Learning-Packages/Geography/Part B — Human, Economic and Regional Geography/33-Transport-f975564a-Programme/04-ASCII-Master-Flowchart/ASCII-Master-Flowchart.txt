@@ -1,0 +1,95 @@
+ASCII MASTER FLOW — PANEL 1/12: Transport to trade chain
+MINE OR FARM -> production point with dispersed origins
+ROADHEAD -> flexible collection over short hauls
+RAIL OR WATERWAY CORRIDOR -> bulk trunk haul over long distance
+PORT OR AIRPORT -> break of bulk and interface with global routes
+WORLD MARKET -> exchange completed through connectivity, cost and time
+MUST REMEMBER: Transport geography explains networks through nodes, links, accessibility,
+  connectivity, density, hierarchy, break-of-bulk, modal cost and hinterland; trade adds
+  comparative advantage, corridors, ports, logistics and chokepoints, while India's space
+  programme links launch, satellite, application and governance institutions.
+
+ASCII MASTER FLOW — PANEL 2/12: Modal cost structure comparison
+ROAD -> low terminal cost, high per-km cost; short hauls and door-to-door delivery
+RAIL -> higher terminal cost, lower per-km cost; medium to long bulk hauls
+WATER -> highest terminal cost, lowest per-km cost; long bulky low-value cargo
+AIR -> costly throughout; justified by high value-to-weight, urgency or inaccessibility
+PIPELINE -> very high fixed cost, very low operating cost; continuous liquid or gas flow
+
+ASCII MASTER FLOW — PANEL 3/12: Modal choice decision rule
+IDENTIFY CARGO -> bulk, value density, urgency and perishability
+IF haul is short -> terminal cost dominates, road usually wins
+IF haul exceeds the road-rail break-even -> rail or water recovers its terminal cost
+IF value-to-weight is very high or access is difficult -> air becomes defensible
+ALWAYS -> treat freight as an intermodal chain, not a single modal verdict
+
+ASCII MASTER FLOW — PANEL 4/12: Network vocabulary rail
+HINTERLAND -> inland area served by a port, city or route
+NODE -> junction or terminal where flows converge
+CORRIDOR -> linear axis of intense transport and economic activity
+BREAK OF BULK -> port, railhead or dry port where cargo changes mode
+HUB AND SPOKE -> one major hub redistributes flows to smaller nodes
+
+ASCII MASTER FLOW — PANEL 5/12: Port site versus situation
+SITE -> depth, shelter, tidal range, foreshore, expansion land, siltation risk
+SITUATION -> hinterland productivity, inland connectivity, position on shipping lanes
+CORRECTABILITY -> site can be dredged and engineered; situation cannot
+GROWTH RULE -> situation normally decides which ports grow
+POLICY -> freight corridors and inland container depots are port instruments
+
+ASCII MASTER FLOW — PANEL 6/12: Port type worked comparison
+NATURAL HARBOUR -> excellent site; stays small if the hinterland is poor
+ESTUARINE PORT -> good route situation, but siltation and draught limit the site
+ARTIFICIAL DEEP-WATER PORT -> engineered site chosen for hinterland reach and rail links
+SATELLITE CONTAINER TERMINAL -> deep draught and back-up land beside a congested parent
+TRANSHIPMENT HUB -> situation is the route itself, so it lives without a local hinterland
+
+ASCII MASTER FLOW — PANEL 7/12: Containerisation hierarchy effect
+STANDARD CARGO UNIT -> handling time and cost collapse at every transfer
+INTERMODAL TRANSFER BECOMES ROUTINE -> production fragments across countries
+ADVANTAGE SHIFTS -> deep draught, crane productivity and inland rail connectivity
+TRAFFIC CONCENTRATES -> fewer, larger hubs with feeder services to the rest
+ANSWER USE -> a hierarchy argument that needs no throughput statistic
+
+ASCII MASTER FLOW — PANEL 8/12: Chokepoint vulnerability rail
+NARROW PASSAGE -> world shipping is funnelled through a small cross-section
+DISRUPTION -> voyages lengthen and rerouting begins immediately
+COST TRANSMISSION -> freight and insurance rise far beyond the affected region
+POLICY RESPONSE -> chokepoint security, alternative routes and canal capacity
+READING -> the passage is valuable as route control, not as a water body
+
+ASCII MASTER FLOW — PANEL 9/12: Transport and development two-way fork
+NEW LINK OPENS -> relative accessibility of every node changes, not only the two joined
+IF junctions, local loading and complementary investment exist -> corridor growth follows
+IF they are absent -> the tunnel effect carries benefit to the endpoints
+IF local producers are weak -> backwash exposes them and speeds out-migration
+VERDICT -> connectivity is necessary but not sufficient for regional development
+
+ASCII MASTER FLOW — PANEL 10/12: India multimodal corridor ladder
+BHARATMALA -> economic corridors, inter-corridors, border and port connectivity
+DEDICATED FREIGHT CORRIDORS -> separate freight from passenger congestion on major axes
+SAGARMALA -> port modernisation, port-led industrialisation and coastal connectivity
+PM GATI SHAKTI -> network integration replacing mode-wise sectoral planning
+TRADE MAP -> western container and petroleum gateway; eastern bulk and mineral coast
+CLOSE DISTINCTION: Road/rail density differs from effective accessibility, port capacity from
+  throughput, inland waterway declaration from operational traffic, trade balance from current
+  account, ISRO from the Department of Space and NewSpace India Limited, and
+  navigation/communication/earth-observation missions retain distinct functions.
+
+ASCII MASTER FLOW — PANEL 11/12: Space as applied geography
+EARTH OBSERVATION -> land use, crop condition, forests, water bodies, coasts, glaciers
+METEOROLOGY -> cyclone tracking and monsoon monitoring feeding warning systems
+NAVIGATION AND COMMUNICATION -> positioning, timing and remote-region connectivity
+GIS INTEGRATION -> imagery plus terrain, infrastructure and socio-economic layers
+OUTPUT -> site selection, corridor alignment, watershed planning, damage assessment
+EVIDENCE LIMIT: Golden Quadrilateral, Dedicated Freight Corridors, Bharatmala, Sagarmala,
+  major ports, National Waterway-1, Delhi–Mumbai corridor, Malacca/Hormuz/Suez and
+  PSLV/GSLV/LVM3, INSAT/GSAT, IRS/EOS and NavIC form named map-institution anchors; project
+  and mission claims require official date/status qualification.
+
+ASCII MASTER FLOW — PANEL 12/12: Space institutions and the operational-orbit caution
+ISRO -> national space architecture organised around application, not prestige
+SRIHARIKOTA -> east-coast launch site with over-sea trajectory safety advantage
+NSIL AND IN-SPACe -> commercialisation and non-governmental participation
+NavIC -> indigenous navigation supporting transport timing and positioning
+NVS-02 ON 29 JAN 2025 -> reached transfer orbit but not its intended NavIC slot

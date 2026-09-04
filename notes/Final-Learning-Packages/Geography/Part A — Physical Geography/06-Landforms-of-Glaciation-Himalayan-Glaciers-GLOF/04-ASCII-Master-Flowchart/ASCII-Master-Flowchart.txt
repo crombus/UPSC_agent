@@ -1,0 +1,81 @@
+ASCII MASTER FLOW — PANEL 1/12: Glacier budget
+ACCUMULATION -> snowfall, avalanche and refreezing
+ELA -> annual gain equals annual loss
+ABLATION -> melt, sublimation and calving where relevant
+NET BALANCE -> geometry responds with a lag
+MUST REMEMBER: Glaciation proceeds through accumulation-ablation balance, ice
+  deformation/basal motion, erosion, transport and deposition; cirque–arête–horn, U-shaped
+  valley, moraine and outwash logic must connect to Himalayan mass balance, proglacial lakes
+  and GLOF cascades.
+
+ASCII MASTER FLOW — PANEL 2/12: Retreat paradox
+ICE PARTICLES -> continue moving downslope
+TERMINUS -> receives forward ice flux
+ABLATION > DELIVERY -> snout shifts up-valley
+METRIC RULE -> flow direction differs from margin change
+
+ASCII MASTER FLOW — PANEL 3/12: Erosion suite
+PLUCKING -> jointed blocks removed
+ABRASION -> polish, striae and rock flour
+CIRQUE / ARETE / HORN -> headwall system
+U-TROUGH / HANGING VALLEY -> valley-scale overdeepening
+
+ASCII MASTER FLOW — PANEL 4/12: Fjord-ria firewall
+FJORD -> glacial trough later flooded by sea
+RIA -> river valley later drowned by sea
+FJORD CUES -> deep water, steep walls, hanging valleys
+RULE -> inundation preserves different pre-existing valleys
+
+ASCII MASTER FLOW — PANEL 5/12: Depositional sorting
+TILL / MORAINE -> direct ice, generally unsorted
+ESKER -> meltwater ridge in or under ice
+OUTWASH -> braided meltwater, relatively sorted
+DRUMLIN -> streamlined drift/till landform
+
+ASCII MASTER FLOW — PANEL 6/12: Ice-mass family
+GROUNDED -> glacier, ice cap, ice sheet
+FLOATING -> shelf, iceberg and sea ice
+SEA LEVEL -> grounded loss adds ocean mass
+BUTTRESSING -> shelf loss can accelerate inland discharge
+
+ASCII MASTER FLOW — PANEL 7/12: Himalayan map hooks
+GANGOTRI -> Bhagirathi
+ZEMU -> Teesta
+BARA SHIGRI -> Chenab system
+SIACHEN -> Nubra-Shyok-Indus system
+
+ASCII MASTER FLOW — PANEL 8/12: Water-timing sequence
+EARLY LOSS -> local melt contribution may rise
+STORED ICE DECLINES -> buffering weakens
+LEAN SEASON -> reliability risk grows locally
+QUALIFIER -> monsoon, snow and groundwater vary by basin
+
+ASCII MASTER FLOW — PANEL 9/12: Glacial-lake test
+BASIN / DAM -> how water is impounded
+SLOPE + ICE -> possible displacement trigger
+DAM CONDITION -> overtopping, piping or erosion
+DOWNSTREAM -> exposure converts hazard into risk
+
+ASCII MASTER FLOW — PANEL 10/12: GLOF cascade
+TRIGGER -> slope failure, inflow or instability
+WAVE / OVERTOPPING -> dam erosion begins
+BREACH -> sudden release + sediment
+VALLEY -> constrictions and assets shape consequences
+CLOSE DISTINCTION: Snowline, equilibrium-line altitude, firn line and glacier terminus are
+  distinct; till is unsorted ice-laid sediment while outwash is meltwater-sorted, and a fjord
+  is a drowned glacial trough rather than any steep inlet.
+
+ASCII MASTER FLOW — PANEL 11/12: Risk-reduction stack
+SATELLITE INVENTORY -> changing lakes and slopes
+FIELD ASSESSMENT -> dam material and thresholds
+WARNING + DRILLS -> last-mile action
+LAND USE + DESIGN -> reduce exposure and fragility
+EVIDENCE LIMIT: Retreat varies by glacier and period; lake growth alone does not prove
+  imminent outburst, while dam material, freeboard, slope instability, ice/rock avalanches and
+  downstream exposure condition risk.
+
+ASCII MASTER FLOW — PANEL 12/12: Cryosphere answer spine
+DEFINE -> glacier, lake, GLOF and risk
+MAP -> glacier-basin relation
+EXPLAIN -> budget, trigger and breach
+QUALIFY -> heterogeneity, attribution and data date

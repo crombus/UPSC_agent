@@ -1,0 +1,95 @@
+ASCII MASTER FLOW — PANEL 1/12: Frames of regional analysis
+CONTINENT -> first-order landmass frame used to open the answer
+REGION -> area with internal physical, cultural or economic coherence
+SUB-REGION -> differentiated part such as mainland versus maritime South-East Asia
+TRANSITION BELT -> gradient zone such as the Sahel, belonging fully to neither side
+LABEL -> Middle East, Latin America, Nordic: regional shorthand, never a continent
+MUST REMEMBER: World regional geography synthesises location, physiography, drainage, climate,
+  biomes, resources, population and economy rather than memorising country lists; every
+  continent is reconstructed through plate-relief belts, wind/current controls, river basins,
+  settlement cores and strategic interfaces.
+
+ASCII MASTER FLOW — PANEL 2/12: Continental pattern anchors
+ASIA -> largest in area and population in the source framework; greatest sub-regional variety
+AFRICA -> plateaux, rift valley and the desert-savanna-rainforest sequence
+EUROPE -> peninsular, river-linked, densely urbanised interaction space
+AMERICAS -> Cordillera with interior plains north; Andes, Amazon and Pampas south
+ANTARCTICA AND AUSTRALIA -> polar desert under ice; smallest continent with arid interior
+
+ASCII MASTER FLOW — PANEL 3/12: Macro-region organising logic
+SOUTH-WEST ASIA -> arid plateau, desert and chokepoint interfaces
+SOUTH ASIA -> monsoon domain framed by the Himalaya and the Indian Ocean
+SOUTH-EAST ASIA -> mainland river basins plus a maritime archipelagic world
+CENTRAL ASIA -> interior steppe, basin and mountain knotlands with transit dependence
+AFRICA SPLIT -> Sahara divides, but the Sahel is the transition belt between the halves
+
+ASCII MASTER FLOW — PANEL 4/12: Physical frame to economic association
+SAHARA, ATLAS, NILE -> oasis belts, Mediterranean coast and the Suez gateway
+CONGO BASIN AND PLATEAUX -> mining, plantation belts and pastoral margins
+NORTH EUROPEAN PLAIN AND RIVERS -> dense transport, manufacturing and port economy
+CORDILLERA AND GREAT PLAINS -> wheat belt, industrial corridor and energy basins
+ANDES, AMAZON, PAMPAS -> copper west, rainforest core, temperate farming south
+
+ASCII MASTER FLOW — PANEL 5/12: Left-to-right locating chain
+ATLANTIC WORLD -> Europe with its plains, peninsulas and Alpine spine
+WEST ASIA -> Arabian and Iranian core with desert-plateau geography
+SOUTH ASIA -> Himalayan-monsoon core opening on the Indian Ocean
+SOUTH-EAST ASIA -> Malacca-facing archipelagic and mainland passage world
+RULE -> place the feature in a region first, then inside its continent
+
+ASCII MASTER FLOW — PANEL 6/12: Eight comparison axes
+LOCATION AND SITUATION -> latitude, coastal or landlocked, proximity to routes
+STRUCTURE AND CLIMATE -> shield, fold belt, basin; regime and reliability of water
+RESOURCES AND PEOPLE -> accessibility and processing; density and urbanisation
+ECONOMY AND CONNECTIVITY -> sectoral composition; ports, corridors and chokepoints
+CONSTRAINTS -> hazard, water stress, fragmentation and resource dependence
+
+ASCII MASTER FLOW — PANEL 7/12: Comparison versus description fork
+QUESTION ASKS FOR A COMPARISON -> select four or five relevant axes
+IF each axis is applied to both regions in one paragraph -> it reads as comparison
+IF the regions are described one after the other -> it is marked as description
+THEN -> name the decisive axis on which the two differ most
+FINALLY -> give the counter-case axis on which they are alike, then a graded verdict
+
+ASCII MASTER FLOW — PANEL 8/12: Landlocked penalty and route position
+INTERIOR LOCATION -> dependence on a neighbour's ports, roads and goodwill
+CONSEQUENCE -> higher freight cost, longer transit, no independent trade guarantee
+RESPONSE -> transit agreements and corridor projects gain disproportionate weight
+CONTRAST -> route position on a lane or land bridge often outweighs endowment
+CAUTION -> situation is relative; a new canal, corridor or closure rewrites it
+
+ASCII MASTER FLOW — PANEL 9/12: Seven-step regional method
+LOCATE AND DELIMIT -> state what bounds the region and what it excludes
+PHYSICAL BASE -> structure, relief, climate regime and hazard exposure
+ACCESSIBILITY -> corridor, coast or interior position and its cost consequence
+RESOURCES, PEOPLE, OUTCOME -> endowment, settlement pattern, economic result
+SYNTHESIS AND QUALIFICATION -> compound causation, then internal non-uniformity
+
+ASCII MASTER FLOW — PANEL 10/12: Two worked regions compared
+DELIMITATION -> hill-and-valley corridor region; east-west rainfall-gradient belt
+PHYSICAL BASE -> fold ranges, very high rainfall, seismicity; semi-arid, variable rainfall
+ACCESS -> narrow land corridor raising cost; interior location far from any port
+ECONOMY -> primary activity and out-migration; rain-fed cereals and pastoralism
+SHARED LESSON -> distinctiveness is compound, and neither region is internally uniform
+CLOSE DISTINCTION: Europe is not coterminous with the EU, Middle East with West Asia, Latin
+  America with South America, Sahel with Sahara, mainland with maritime Southeast Asia, and a
+  continent, cultural region, economic bloc and political boundary answer different map
+  questions.
+
+ASCII MASTER FLOW — PANEL 11/12: India outward arcs
+WEST -> Arabian Sea to Gulf and Red Sea approaches to the Suez corridor
+EAST -> Bay of Bengal to Andaman Sea toward Malacca-oriented passages
+NORTH -> Himalaya and Karakoram barrier with transit-constrained Central Asia
+LAND BRIDGE -> Myanmar is the only overland entry to mainland South-East Asia
+READING -> maritime-heavy west and east, barrier-heavy north
+EVIDENCE LIMIT: Andes–Amazon–Pampas, Rockies–Great Lakes–Mississippi, Alps–North European
+  Plain, Atlas–Sahara–Sahel–Congo–Rift, West Siberian Plain–Central Asian basins–monsoon Asia,
+  and Australian interior/eastern rim provide comparable regional spines; country data and
+  geopolitical status remain source-dated.
+
+ASCII MASTER FLOW — PANEL 12/12: Kaladan corridor and mapwork revival
+KOLKATA -> sea leg across the Bay of Bengal to the Rakhine coast
+SITTWE -> port node where the maritime leg meets the Kaladan river route
+PALETWA -> river terminus and start of the road segment still under construction
+ZORINPUI -> border crossing into Mizoram completing the multimodal chain
+STATUS RULE -> state the 2027 official target, never an achieved completion

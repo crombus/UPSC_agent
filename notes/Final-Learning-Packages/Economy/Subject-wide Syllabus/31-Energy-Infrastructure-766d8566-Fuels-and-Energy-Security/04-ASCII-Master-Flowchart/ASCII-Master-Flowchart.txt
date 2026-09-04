@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Energy-service value rail
+PRIMARY RESOURCE / IMPORT
+-> CONVERSION + NETWORK
+-> DISTRIBUTION + END USE
+-> RELIABLE AFFORDABLE SERVICE
+MUST REMEMBER: Energy infrastructure connects primary energy, conversion, generation,...
+
+ASCII MASTER FLOW — PANEL 2/12: Power-energy distinction
+MW / GW -> power capacity
+MWh / GWh -> energy flow
+CAPACITY SHARE != generation share
+ELECTRICITY != total energy
+
+ASCII MASTER FLOW — PANEL 3/12: Electricity-layer map
+GENERATION
+TRANSMISSION + SYSTEM OPERATION
+DISTRIBUTION + RETAIL
+MARKET + REGULATION
+
+ASCII MASTER FLOW — PANEL 4/12: Real-time balance board
+GENERATION + IMPORT + DISCHARGE
+=
+DEMAND + EXPORT + CHARGE + LOSS
+RESERVE + FLEXIBILITY protect balance
+
+ASCII MASTER FLOW — PANEL 5/12: Institutional perimeter
+CEA -> technical planning
+CERC / SERC -> regulation
+GRID-INDIA / SLDC -> operation
+DISCOM -> retail service
+
+ASCII MASTER FLOW — PANEL 6/12: Tariff-finance split
+EXPLICIT STATE SUBSIDY
+CROSS-SUBSIDY
+REGULATORY ASSET
+DISCOM DEBT / UNDER-RECOVERY
+
+ASCII MASTER FLOW — PANEL 7/12: DISCOM diagnostic
+AT&C -> energy recovery
+ACS-ARR -> revenue-cost gap
+PPA + SUBSIDY + COLLECTION
+ONE RATIO cannot diagnose all stress
+
+ASCII MASTER FLOW — PANEL 8/12: Petroleum perimeter
+UPSTREAM -> production
+MIDSTREAM -> pipeline + storage
+DOWNSTREAM -> refining + marketing
+PNGRB excludes crude + gas production
+
+ASCII MASTER FLOW — PANEL 9/12: Energy-security dimensions and resilience pentagon
+PHYSICAL AVAILABILITY
+INFRASTRUCTURE ACCESSIBILITY
+USER AFFORDABILITY
+SOCIAL ACCEPTABILITY + SYSTEM RESILIENCE
+
+ASCII MASTER FLOW — PANEL 10/12: Renewable-integration chain
+VARIABLE CAPACITY
+-> GRID + FORECAST
+-> FLEXIBILITY + STORAGE
+-> RELIABLE GENERATION VALUE
+CLOSE DISTINCTION: Capacity in MW is not generation in MWh, plant load factor is not...
+
+ASCII MASTER FLOW — PANEL 11/12: Status and unit ladder
+ANNOUNCED / BILL
+APPROVED / SANCTIONED / OUTLAY
+INSTALLED CAPACITY
+GENERATION + SERVICE OUTCOME
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State fuel/technology, stock or flow, unit,...
+
+ASCII MASTER FLOW — PANEL 12/12: Energy-economics answer spine
+DEFINE carrier + unit + layer
+TRACE network + tariff + regulator
+TEST security + transition
+CONCLUDE service, not headline capacity

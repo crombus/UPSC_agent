@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Policy signal versus implementation
+MPC -> repo-rate signal
+RBI OPERATIONS -> liquidity alignment
+WACR -> operating target
+TRAP -> stance and quantity are distinct
+MUST REMEMBER: RBI monetary policy works through the policy rate, liquidity framework,...
+
+ASCII MASTER FLOW — PANEL 2/12: Liquidity corridor
+MSF -> overnight backstop
+REPO -> collateralised injection
+WACR -> market operating rate
+SDF -> uncollateralised absorption
+
+ASCII MASTER FLOW — PANEL 3/12: CRR versus OMO
+CRR -> reserve impounding ratio
+OMO -> outright G-sec transaction
+CRR -> broad bank-resource effect
+OMO -> durable liquidity + yield effect
+
+ASCII MASTER FLOW — PANEL 4/12: MPC institution map
+RBI GOVERNOR
+MONETARY-POLICY DEPUTY GOVERNOR
+ONE RBI OFFICER + THREE EXTERNAL MEMBERS
+SIX MEMBERS -> repo decision
+
+ASCII MASTER FLOW — PANEL 5/12: Inflation target frame
+NOMINAL ANCHOR -> headline CPI
+TARGET -> 4 per cent
+TOLERANCE -> plus/minus 2 percentage points
+MANDATE -> price stability while mindful of growth
+
+ASCII MASTER FLOW — PANEL 6/12: Transmission chain
+REPO + COMMUNICATION
+-> WACR + funding + deposit rates
+-> lending rates + credit + demand
+-> output and inflation with lags
+
+ASCII MASTER FLOW — PANEL 7/12: Pandemic package
+REPO REDUCTIONS
+CRR EASING
+OMO PURCHASES
+TARGETED LONGER-TERM LIQUIDITY
+
+ASCII MASTER FLOW — PANEL 8/12: Pass-through frictions
+EBLR LOANS -> faster response
+DEPOSITS / LEGACY LOANS -> slower response
+FRICTIONS -> funding + competition + risk
+RESULT -> uneven burden
+
+ASCII MASTER FLOW — PANEL 9/12: Forex-liquidity bridge
+FOREX INTERVENTION
+-> domestic liquidity changes
+-> OMO / absorption offset
+LIMIT -> volatility smoothing, not a fixed rate
+
+ASCII MASTER FLOW — PANEL 10/12: Money multiplier
+RESERVE MONEY
+-> bank deposits and lending
+LOWER CRR / LEAKAGE -> higher potential multiplier
+LIMIT -> banks may hold reserves or avoid risk
+CLOSE DISTINCTION: Repo policy rate is not every liquidity operation, liquidity surplus...
+
+ASCII MASTER FLOW — PANEL 11/12: RBI balance-sheet traps
+NOTES ISSUED -> liability
+G-SEC / FX INTEREST -> income source
+PAYMENT STORAGE -> supervisory direction
+COMMITTEES -> match sponsor and subject
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Preserve RBI Act, MPC, operating target and...
+
+ASCII MASTER FLOW — PANEL 12/12: Monetary-policy answer spine
+DIAGNOSE inflation and output
+STATE MPC signal
+MAP liquidity implementation
+TEST transmission, growth and external limits

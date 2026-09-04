@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Jobs quality dashboard
+QUANTITY + HOURS
+PRODUCTIVITY + REAL EARNINGS
+SECURITY + CONDITIONS
+MOBILITY + PROTECTION
+MUST REMEMBER: Employment analysis separates labour force, workforce, unemployment,...
+
+ASCII MASTER FLOW — PANEL 2/12: Labour indicators matrix
+LFPR = labour force / specified population
+WPR = employed / specified population
+UR = unemployed / labour force
+DENOMINATOR must be named
+
+ASCII MASTER FLOW — PANEL 3/12: PLFS reference-period clock
+USUAL STATUS -> longer reference
+CURRENT WEEKLY STATUS -> seven-day reference
+AGE + RURAL/URBAN -> always state
+ONE headline cannot replace disaggregation
+
+ASCII MASTER FLOW — PANEL 4/12: Unemployment mechanism tree
+FRICTIONAL -> transition
+STRUCTURAL -> mismatch
+SEASONAL / CYCLICAL -> timing + demand
+DISGUISED -> surplus labour
+
+ASCII MASTER FLOW — PANEL 5/12: Human-capital chain
+HEALTH + FOUNDATION LEARNING
+-> SKILL + EXPERIENCE
+-> PRODUCTIVE MATCH
+-> EARNINGS + ADAPTABILITY
+
+ASCII MASTER FLOW — PANEL 6/12: Certification-to-outcome ladder
+ENROLLED
+-> TRAINED
+-> CERTIFIED
+-> PLACED -> RETAINED -> WAGE GAIN
+
+ASCII MASTER FLOW — PANEL 7/12: Demographic dividend converter
+WORKING-AGE SHARE
+x HEALTH + EDUCATION
+x PARTICIPATION + JOBS
+x PRODUCTIVITY -> DIVIDEND
+
+ASCII MASTER FLOW — PANEL 8/12: Care-economy constraint map
+UNPAID CARE -> time constraint
+CARE SERVICES -> participation support
+GDP BOUNDARY -> not value judgement
+3R -> recognise + reduce + redistribute
+
+ASCII MASTER FLOW — PANEL 9/12: Labour Codes map
+WAGES 2019
+INDUSTRIAL RELATIONS 2020
+SOCIAL SECURITY 2020
+OSHWC 2020
+
+ASCII MASTER FLOW — PANEL 10/12: Implementation status rail
+ENACTED 2019-20
+-> COMMENCEMENT 21 NOV 2025
+-> FINAL CENTRAL RULES MAY 2026
+-> STATE RULES + ENFORCEMENT vary
+CLOSE DISTINCTION: Unemployment rate denominator is labour force, not population; labour-...
+
+ASCII MASTER FLOW — PANEL 11/12: New-work boundary
+FIXED-TERM
+CASUAL / CONTRACT
+GIG / PLATFORM
+TEST wages + security + bargaining separately
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name PLFS status, reference period,...
+
+ASCII MASTER FLOW — PANEL 12/12: Employment answer spine
+DEFINE indicator + denominator
+DIAGNOSE unemployment type
+LINK skills to demand
+CONCLUDE jobs + earnings + portable protection

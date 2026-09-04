@@ -1,0 +1,221 @@
+ASCII MASTER FLOW — PANEL 1/12: Exogenic source-transfer-storage system
++-------------- EXOGENIC LANDSCAPE SYSTEM --------------+
+| CENTRAL QUESTION: How is rock converted into landform? |
++---------------------------------------------------------+
+                         |
+                ROCK EXPOSED AT SURFACE
+                         |
+                 weathering in place
+                         |
+            regolith and loose material supplied
+              /                         \
+ gravity-driven transfer          agent-driven transfer
+ mass wasting downslope           water, wind, ice, waves
+              \                         /
+                 erosion + transport
+                         |
+                     deposition
+                         |
+                 temporary storage
+                         |
+                    remobilisation
+
+Denudation is collective lowering; weathering, erosion and mass wasting
+are linked but distinct processes.
+MUST REMEMBER: Weathering prepares material in situ, mass movement transfers it downslope,
+  running water removes it, and groundwater follows infiltration, percolation, aquifer storage
+  and discharge; Indian analysis links lithology, slope, rainfall, land use and pumping.
+
+ASCII MASTER FLOW — PANEL 2/12: Weathering taxonomy, controls, regolith and soil formation
+                       WEATHERING
+              +------------+------------+
+              |            |            |
+          MECHANICAL     CHEMICAL     BIOLOGICAL
+          thermal        solution     roots/burrows
+          unloading      carbonation  organic acids
+          frost          hydration    human exposure
+          salt           hydrolysis
+          wet-dry        oxidation
+              \            |            /
+               +------ REGOLITH -------+
+                         |
+ organic inputs + organisms + translocation + time
+                         |
+                       SOIL
+                 O -> A/E -> B -> C -> R
+                 removal    gain     parent rock
+
+CONTROLS CONVERGE: mineralogy + joints/bedding + climate + relief
+                   + drainage + organisms + time + land use
+
+Black soil link: Deccan basalt parent, shrink-swell clay, deep dry cracks;
+parent material does not alone determine every soil property.
+
+ASCII MASTER FLOW — PANEL 3/12: Soil erosion sequence and watershed control logic
+RAINDROP IMPACT + BARE SOIL + RUNOFF CONCENTRATION
+                         |
+                 diffuse sheet removal
+                         |
+                  small rill channels
+                         |
+                 entrenched gullies
+                         |
+             ravine landscape: Chambal cue
+
+WATERSHED RESPONSE
+cover soil -> slow runoff -> shorten slope length -> contour/terrace
+-> protect drainage -> treat gully head -> rehabilitate catchment
+
+WIND BRANCH
+surface creep -> saltation -> suspension
+
+COASTAL BRANCH
+wave erosion belongs to the coastal-process system; use only when asked.
+
+A check dam alone cannot replace upstream cover, drainage and maintenance.
+
+ASCII MASTER FLOW — PANEL 4/12: Mass-movement taxonomy and slope-stability mechanism
+                     MASS MOVEMENT
+       +------------------+------------------+
+       |                  |                  |
+     SLOW               SLIDE/FALL          FLOW/AVALANCHE
+ creep, solifluction    rockfall            debris flow
+                       translational slide  earth or mud flow
+                       rotational slump     rock/debris avalanche
+                                            snow avalanche
+
+SLOPE BALANCE
+resisting strength = cohesion + friction + structural support
+                         versus
+driving stress = gravity component + loading + toe loss
+                         |
+rain infiltration -> added weight + pore pressure -> lower effective strength
+road or river cut -> steepening / undercutting -> support loss
+quake / quarry / leakage / drainage change -> trigger or amplification
+                         |
+                 FAILURE WHEN DRIVE > RESISTANCE
+
+Material, movement and water define the event; speed alone does not.
+
+ASCII MASTER FLOW — PANEL 5/12: India landslide geography, risk production and mitigation stack
+INDIA LANDSLIDE GEOGRAPHY
+Himalaya / NE : young relief + fractures + incision + rain + seismicity
+Western Ghats : escarpment + deep weathering + orographic rain + cuts
+Nilgiris      : weathered slopes + roads + settlements + drainage change
+                         |
+PREDISPOSITION -> TRIGGER -> MOVEMENT -> EXPOSURE -> LOSS
+ geology/slope    rain/quake   slide/flow   road/town    disaster
+                         |
+GSI LADDER
+inventory -> susceptibility/hazard study -> post-event diagnosis
+-> monitoring / NLFC support -> decision communication
+                         |
+MITIGATION STACK
+avoid unsafe siting -> manage drainage -> protect toe
+-> stabilise slope -> bioengineer -> control spoil/quarrying
+-> maintain works -> warn/close routes -> evacuate and prepare
+
+Inventory maps past events; susceptibility maps relative likelihood;
+neither is a deterministic event prediction.
+Joshimath is a multi-causal subsidence case, not a synonym for landslide.
+
+ASCII MASTER FLOW — PANEL 6/12: Groundwater architecture from recharge to wells
+rain -> infiltration -> soil moisture -> percolation -> recharge
+
+GROUND SURFACE      recharge area                 spring at slope
+-------------------------v------------------------------->
+ZONE OF AERATION       perched water on local aquitard
+-------------------- capillary fringe -------------------
+WATER TABLE       UNCONFINED AQUIFER        pumping well
+~~~~~~~~~~~~~~~~~~~~~~~\________________ cone of depression
+AQUITARD          slow transmission
+---------------------------------------------------------
+CONFINED AQUIFER   pressure; water rises to potentiometric level
+=========================================================
+AQUICLUDE          practically no transmission
+
+porosity = fraction of voids | permeability = connected flow capacity
+aquifer stores and transmits | aquitard transmits slowly
+artesian water rises under pressure; it flows only if head exceeds ground
+
+Budget: change in storage = recharge + inflow - discharge - pumping - outflow.
+
+ASCII MASTER FLOW — PANEL 7/12: India groundwater depletion, quality and subsidence geography
++----------------+----------------------+-------------------------+
+| REGION         | AQUIFER FORM         | MAJOR PRESSURE          |
++----------------+----------------------+-------------------------+
+| Indo-Gangetic  | layered alluvium     | depletion, As, nitrate  |
+| Peninsular     | weathered fractures  | discontinuous storage   |
+| Deccan basalt  | contacts + fractures | uneven well yield       |
+| Arid hard rock | limited recharge     | fluoride, salinity      |
+| Coastal belt   | fresh-saline wedge   | intrusion and upconing  |
++----------------+----------------------+-------------------------+
+
+crop-water demand + cheap energy + private wells + urban growth
++ weak aquifer regulation + limited recharge
+                         |
+falling head -> lower yield -> higher lift cost -> unequal access
+                         |
+compressible sediment: pore-pressure loss -> compaction -> subsidence
+
+Quality paths differ: arsenic redox | fluoride rock-water interaction
+nitrate sewage/fertiliser | salinity coastal or inland
+Quantity and quality require separate evidence, though each limits usable water.
+
+ASCII MASTER FLOW — PANEL 8/12: Recharge, demand governance and integrated Mains answer spine
+GROUNDWATER SECURITY REQUIRES TWO CONVERGING ARMS
+
+SUPPLY / RECHARGE                    DEMAND / GOVERNANCE
+roof and runoff capture              crop-water alignment
+managed aquifer recharge             efficient irrigation
+watershed treatment                  well registration/metering
+spring-shed restoration              conjunctive use and reuse
+quality-safe source water            community water budgets
+maintenance and monitoring           enforceable state/local rules
+              \                         /
+               +---- AQUIFER PLAN ----+
+                         |
+CGWB assessment + NAQUIM mapping + state regulation
++ Atal Bhujal learning + local institutions + public data
+                         |
+ANSWER SPINE
+1 define stock-flow-quality system | 2 draw aquifer or India map
+3 diagnose regional mechanism       | 4 use dated evidence carefully
+5 match intervention to cause       | 6 qualify limits and equity
+
+Recharge structures are inputs, not proof of water-table recovery.
+Desalination supplies water but does not restore freshwater aquifer head.
+
+ASCII MASTER FLOW — PANEL 9/12: Evidence ladder and confidence control
+EVIDENCE LADDER
+1. = from source book = inference / standard knowledge = current affairs.
+2. Agriculture.md uses "chernozem", "alluvial" and "black soil" as...
+3. Evidence units available in this file
+VERDICT: Source type controls the strength and limits of the historical claim.
+
+ASCII MASTER FLOW — PANEL 10/12: Examiner traps and contested boundaries
+CLOSE DISTINCTIONS
+1. Causal method Initial condition -> energy/force or driver ->...
+2. SCALE, INTERACTING CONTROL OR EVIDENCE LIMIT
+3. UPSC TRAP / ANSWER-USE: A landslide can deliver sediment to a river,...
+VERDICT: Qualification earns marks; false certainty is a hard failure.
+CLOSE DISTINCTION: Weathering differs from erosion, porosity from permeability, water table
+  from piezometric surface, aquifer from aquitard, and slump/slide/flow/creep require
+  movement-specific geometry rather than the generic label landslide.
+
+ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
+ANSWER SPINE
+1. Original solved Mains questions 6
+2. Local official papers/keys checked: 2018, 2019, 2020, 2021, 2023,...
+3. Practice contract Every solved item has demand decoding, a detailed...
+VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+EVIDENCE LIMIT: A trigger such as intense rain is not the complete cause: antecedent moisture,
+  discontinuities, toe cutting, drainage and construction condition failure; groundwater
+  trends and notified areas require dated official status.
+
+ASCII MASTER FLOW — PANEL 12/12: Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2
+EVIDENCE LADDER
+1. = from source book = inference / standard knowledge = current affairs.
+2. Agriculture.md uses "chernozem", "alluvial" and "black soil" as...
+3. Evidence units available in this file
+VERDICT: Source type controls the strength and limits of the historical claim.

@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Territory before arithmetic
+DOMESTIC TERRITORY -> GDP
+NORMAL RESIDENCE -> GNP
+NFIA BRIDGE -> GDP + NFIA
+TRAP -> location and ownership are not the same boundary
+MUST REMEMBER: National accounts measure production, income and expenditure consistently:...
+
+ASCII MASTER FLOW — PANEL 2/12: Gross-to-net ladder
+GDP -> minus depreciation -> NDP
+GNP -> minus depreciation -> NNP
+GROSS -> capital consumption retained
+NET -> capital consumption deducted
+
+ASCII MASTER FLOW — PANEL 3/12: Three-method convergence
+PRODUCTION -> value added
+INCOME -> wages + profits + rent + mixed income
+EXPENDITURE -> C + I + G + (X - M)
+IDENTITY -> one output, three measurement routes
+
+ASCII MASTER FLOW — PANEL 4/12: GDP-GVA tax bridge
+GVA AT BASIC PRICES
++ PRODUCT TAXES
+- PRODUCT SUBSIDIES
+= GDP AT MARKET PRICES
+
+ASCII MASTER FLOW — PANEL 5/12: Nominal-real decoder
+NOMINAL -> current prices -> size and ratios
+REAL -> base-year prices -> volume growth
+DEFLATOR -> nominal / real x 100
+LIMIT -> base revision changes the comparison frame
+
+ASCII MASTER FLOW — PANEL 6/12: Production-boundary gate
+IN -> current final goods and services
+IN -> permitted imputations and government services
+OUT -> embedded intermediate inputs and pure transfers
+OUT -> old assets except current brokerage
+
+ASCII MASTER FLOW — PANEL 7/12: Informal-sector estimation
+MISSING COMPLETE ACCOUNTS
+-> surveys + administrative sources
+-> benchmark-indicator extrapolation
+LIMIT -> shocks can break historical ratios
+
+ASCII MASTER FLOW — PANEL 8/12: Base-year revision timeline
+2015 -> shift to 2011-12 base
+27 FEB 2026 -> release of 2022-23-base series
+19 JUL 2026 CUTOFF -> full back series pending
+RULE -> never splice unsupported series
+
+ASCII MASTER FLOW — PANEL 9/12: Capacity diagnosis
+ACTUAL < POTENTIAL -> negative output gap
+ACTUAL NEAR CAPACITY -> demand stimulus meets supply limits
+POTENTIAL -> labour + capital + productivity
+LIMIT -> capacity is estimated, not observed
+
+ASCII MASTER FLOW — PANEL 10/12: Saving-to-growth conversion
+SAVING -> INVESTMENT
+INVESTMENT -> capital formation
+ICOR -> capital needed per extra output
+HIGH ICOR -> weak conversion efficiency
+CLOSE DISTINCTION: Nominal is current-price value, real is constant-price volume, a level...
+
+ASCII MASTER FLOW — PANEL 11/12: Cross-country comparison fork
+PPP -> common basket -> purchasing power
+MARKET RATE -> external value -> trade and debt
+SAME OUTPUT, DIFFERENT PRICE BASIS
+RULE -> quote source and reference year
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State factor cost/basic/market-price...
+
+ASCII MASTER FLOW — PANEL 12/12: Examiner closing spine
+DEFINE -> boundary + formula
+VERIFY -> base year + period + vintage
+ANALYSE -> coverage + method + efficiency
+QUALIFY -> distribution + unpaid work + ecology

@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Tax-incidence fork
+DIRECT TAX -> legal incidence on income/profit base
+INDIRECT TAX -> transaction/consumption levy
+BURDEN may shift through prices
+PROGRESSIVITY requires incidence and base analysis
+MUST REMEMBER: Tax design balances revenue, equity, efficiency, certainty and compliance;...
+
+ASCII MASTER FLOW — PANEL 2/12: GST value-add chain
+OUTPUT TAX
+minus ELIGIBLE INPUT TAX CREDIT
+-> TAX ON VALUE ADDITION
+-> DESTINATION-JURISDICTION REVENUE
+
+ASCII MASTER FLOW — PANEL 3/12: Subsumed-tax map
+UNION -> excise on covered items + service tax + CVD/SAD
+STATE -> VAT/CST + entry + luxury + specified entertainment
+RESULT -> reduced cascading through ITC
+VERIFY item and legal vintage
+
+ASCII MASTER FLOW — PANEL 4/12: Outside-GST boundary
+BASIC CUSTOMS DUTY
+STAMP / PROPERTY / ELECTRICITY DUTIES
+ALCOHOL FOR HUMAN CONSUMPTION
+SPECIFIED PETROLEUM PRODUCTS -> owner-vintage status
+
+ASCII MASTER FLOW — PANEL 5/12: GST Council voting board
+ARTICLE 279A
+CENTRE -> 1/3 weighted votes
+STATES -> 2/3 weighted votes
+DECISION -> at least 3/4 weighted votes
+
+ASCII MASTER FLOW — PANEL 6/12: Inter-state settlement rail
+INTER-STATE SUPPLY
+-> IGST COLLECTION
+-> INPUT-CREDIT ADJUSTMENT
+-> DESTINATION SETTLEMENT
+
+ASCII MASTER FLOW — PANEL 7/12: Compensation timeline
+2015-16 -> protected-revenue base
+2017-2022 -> five-year guarantee
+14% -> stated annual protected growth
+TRANSITIONAL -> not permanent entitlement
+
+ASCII MASTER FLOW — PANEL 8/12: Finance Commission map
+VERTICAL -> Union versus states share
+HORIZONTAL -> distribution among states
+XV-FC -> owner records 41%
+XVI-FC -> 2026-27 to 2030-31; accepted 41%
+
+ASCII MASTER FLOW — PANEL 9/12: Divisible-pool boundary
+ORDINARY SHAREABLE UNION TAXES
+-> DIVISIBLE POOL
+CESSES / SURCHARGES -> distinct treatment
+FEDERAL EFFECT -> state untied-space concern
+
+ASCII MASTER FLOW — PANEL 10/12: Administration and enforcement
+CBDT -> Union direct taxes
+CBIC + STATE ADMIN -> indirect tax / GST
+ED / DRI / DGGI -> Revenue Department agencies
+FUNCTIONS remain legally distinct
+CLOSE DISTINCTION: Direct is not always progressive, GST rate recommendation is not levy...
+
+ASCII MASTER FLOW — PANEL 11/12: Tax-base edge cases
+ALLIED RURAL ACTIVITY != automatic agricultural income
+RURAL AGRICULTURAL LAND -> statutory conditions
+EQUALISATION LEVY -> specified digital-service history
+INDIRECT TRANSFER -> offshore form, Indian-value link
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate Constitution, statute, Council...
+
+ASCII MASTER FLOW — PANEL 12/12: Fiscal-federal answer spine
+DEFINE base, incidence and destination
+MAP collection, ITC and settlement
+SEPARATE devolution, grants and cesses
+BALANCE harmonisation, autonomy and trust
