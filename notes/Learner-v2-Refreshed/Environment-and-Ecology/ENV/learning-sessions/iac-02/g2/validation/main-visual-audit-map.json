@@ -1,0 +1,1974 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g2\\environment-and-ecology-02_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g2\\environment-and-ecology-02_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Biogeochemical Cycles and Ecological Pyramids - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 415.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 72,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g2\\assets\\environment-and-ecology-02_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 538.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 231.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A biogeochemical cycle is movement of an element or compound between organisms and physical reservoirs; the analysis must identify the reservoir, the transfer process and the boundary within which a balance is claimed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 108,
+      "heading": "VISUAL FIRST",
+      "preview": "CYCLE BOUNDARY, RESERVOIRS AND TRANSFERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CYCLE BOUNDARY, RESERVOIRS AND TRANSFERS",
+      "preview": "START / CONCEPT: FOUNDATION — Cycle boundary, reservoirs and transfers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gaseous cycles have a major atmosphere or ocean reservoir and sedimentary cycles are centred in crust, soil or sediment; this is a reservoir classification, not a claim that every transfer is fast or reversible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 184,
+      "heading": "VISUAL FIRST",
+      "preview": "GASEOUS AND SEDIMENTARY CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 229,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - GASEOUS AND SEDIMENTARY CLASSIFICATION",
+      "preview": "START / CONCEPT: FOUNDATION — Gaseous and sedimentary classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 240,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Photosynthesis transfers carbon into biomass, while respiration, decomposition and combustion return carbon to environmental reservoirs; a carbon stock and an annual carbon flux are different quantities.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 259,
+      "heading": "VISUAL FIRST",
+      "preview": "CARBON STOCKS AND FLUXES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 304,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CARBON STOCKS AND FLUXES",
+      "preview": "START / CONCEPT: FOUNDATION — Carbon stocks and fluxes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nitrogen fixation converts atmospheric nitrogen into biologically usable forms through biological, atmospheric or industrial pathways; plants do not perform symbiotic bacterial fixation by themselves.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 334,
+      "heading": "VISUAL FIRST",
+      "preview": "NITROGEN FIXATION PATHWAYS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 362,
+      "markdown_body_line_end": 379,
+      "heading": "CLOSING RECALL FLOW - CORE - NITROGEN FIXATION PATHWAYS",
+      "preview": "START / CONCEPT: CORE — Nitrogen fixation pathways",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 390,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ammonification releases ammonia from organic nitrogen, nitrification oxidises ammonia through nitrite to nitrate, and denitrification reduces nitrate toward atmospheric nitrogen; these are distinct microbial processes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 409,
+      "heading": "VISUAL FIRST",
+      "preview": "AMMONIFICATION, NITRIFICATION AND DENITRIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 454,
+      "heading": "CLOSING RECALL FLOW - CORE - AMMONIFICATION, NITRIFICATION AND DENITRIFICATION",
+      "preview": "START / CONCEPT: CORE — Ammonification, nitrification and denitrification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 465,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Nitrogen-cycle organism routes - Phosphorus-cycle boundary Qualified use: Use named nitrogen organisms only for their assigned step and keep phosphorus in its reservoir frame.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 480,
+      "markdown_body_line_end": 487,
+      "heading": "VISUAL FIRST",
+      "preview": "NITROGEN ORGANISMS AND PHOSPHORUS-CYCLE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 533,
+      "heading": "CLOSING RECALL FLOW - CORE - NITROGEN ORGANISMS AND PHOSPHORUS-CYCLE BOUNDARY",
+      "preview": "START / CONCEPT: CORE — Nitrogen organisms and phosphorus-cycle boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 316.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 85.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Human acceleration is cycle-specific Qualified use: Match combustion, fertiliser and mining to different cycle disruptions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 563,
+      "heading": "VISUAL FIRST",
+      "preview": "HUMAN ACCELERATION BY CYCLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 608,
+      "heading": "CLOSING RECALL FLOW - CORE - HUMAN ACCELERATION BY CYCLE",
+      "preview": "START / CONCEPT: CORE — Human acceleration by cycle",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 619,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eutrophication can describe gradual natural enrichment and ageing of a water body, whereas cultural eutrophication is human-accelerated nutrient enrichment from sources such as sewage or fertiliser runoff.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 374.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 638,
+      "heading": "VISUAL FIRST",
+      "preview": "NATURAL AND CULTURAL EUTROPHICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 683,
+      "heading": "CLOSING RECALL FLOW - CORE - NATURAL AND CULTURAL EUTROPHICATION",
+      "preview": "START / CONCEPT: CORE — Natural and cultural eutrophication",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 694,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nutrient enrichment can stimulate algal production; decomposition of the resulting organic material raises oxygen demand and can lower dissolved oxygen, but no universal bloom or fish-kill threshold is asserted.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 713,
+      "heading": "VISUAL FIRST",
+      "preview": "ALGAL PRODUCTION AND OXYGEN DEPLETION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 758,
+      "heading": "CLOSING RECALL FLOW - CORE - ALGAL PRODUCTION AND OXYGEN DEPLETION",
+      "preview": "START / CONCEPT: CORE — Algal production and oxygen depletion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 769,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An ecological pyramid represents number, biomass or energy across successive trophic levels; its shape is meaningless unless the parameter, ecosystem and time basis are named.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 784,
+      "markdown_body_line_end": 788,
+      "heading": "VISUAL FIRST",
+      "preview": "ECOLOGICAL PYRAMID PARAMETERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 833,
+      "heading": "CLOSING RECALL FLOW - CORE - ECOLOGICAL PYRAMID PARAMETERS",
+      "preview": "START / CONCEPT: CORE — Ecological pyramid parameters",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 844,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Pyramid of numbers - Pyramid of biomass Qualified use: Separate organism count from standing biomass and explain context-dependent inversion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 866,
+      "heading": "VISUAL FIRST",
+      "preview": "NUMBER AND BIOMASS PYRAMIDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 912,
+      "heading": "CLOSING RECALL FLOW - CORE - NUMBER AND BIOMASS PYRAMIDS",
+      "preview": "START / CONCEPT: CORE — Number and biomass pyramids",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A small standing crop can support consumers when producer turnover and productivity are high; an inverted biomass pyramid therefore does not prove low production or ecosystem dysfunction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 942,
+      "heading": "VISUAL FIRST",
+      "preview": "STANDING CROP AND PRODUCER TURNOVER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 987,
+      "heading": "CLOSING RECALL FLOW - CORE - STANDING CROP AND PRODUCER TURNOVER",
+      "preview": "START / CONCEPT: CORE — Standing crop and producer turnover",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 998,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Pyramid of energy Qualified use: Explain why the energy pyramid remains upright.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 93.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1017,
+      "heading": "VISUAL FIRST",
+      "preview": "ENERGY PYRAMIDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1062,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ENERGY PYRAMIDS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Energy pyramids",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 262.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 41.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1073,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Ecological-efficiency caution - Pyramid simplification limit Qualified use: Treat the transfer heuristic as non-universal and pyramids as simplified models.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1095,
+      "heading": "VISUAL FIRST",
+      "preview": "EFFICIENCY AND PYRAMID-MODEL LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1141,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - EFFICIENCY AND PYRAMID-MODEL LIMITS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Efficiency and pyramid-model limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1152,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Verified objective PYQ routes - Governance and evidence boundary Qualified use: Close with verified route, answer-key and quantitative evidence limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1174,
+      "heading": "VISUAL FIRST",
+      "preview": "VERIFIED PYQ ROUTES AND GOVERNANCE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1206,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Matter cycling and energy quantification. **Grounded in:** NCERT Class XII Biology, Ch. \"Ecosystem\"; NIOS E",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 367.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1222,
+      "heading": "1. Visual foundation",
+      "preview": "GASEOUS CYCLES (large atmospheric reservoir)        SEDIMENTARY CYCLES (reservoir in crust/soil)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 235.824
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 114.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1230,
+      "markdown_body_line_end": 1238,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 468.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1343,
+      "markdown_body_line_end": 1343,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Distinguish gaseous from sedimentary cycles by reservoir and reversibility, and use trophic-level pyramids only as one point-in-time snapshot of a continuously flowing system.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 539.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 495.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1373,
+      "markdown_body_line_end": 1377,
+      "heading": "13.2 Reusable evidence units",
+      "preview": "Claim | Named evidence/example → significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Named evidence/example → significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 553.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1391,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 423.09
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 342.222
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1401,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 290.622
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 89.72
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1409,
+      "markdown_body_line_end": 1409,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1414,
+      "markdown_body_line_end": 1431,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - VERIFIED PYQ ROUTES AND GOVERNANCE BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Verified PYQ routes and governance boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 702.224
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 461.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2352,
+      "markdown_body_line_end": 2354,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 225.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 145.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2360,
+      "markdown_body_line_end": 2364,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 602.39
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2372,
+      "markdown_body_line_end": 2372,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 528.79
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 484.122
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2612,
+      "markdown_body_line_end": 2616,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Matter cycling and energy quantification. **Grounded in:** NCERT Class XII Biology; IPCC AR6 Synthesis Report (2023) ca",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 693.024
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2627,
+      "markdown_body_line_end": 2632,
+      "heading": "2. Cycle-by-cycle analytical depth",
+      "preview": "Cycle | Natural regulator | Human acceleration pathway | Resulting problem",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Cycle",
+          "Natural regulator",
+          "Human acceleration pathway",
+          "Resulting problem"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 606.424
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 437.522
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2701,
+      "markdown_body_line_end": 2705,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 350.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 206.29
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2738,
+      "markdown_body_line_end": 2741,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 559.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 414.49
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2841,
+      "markdown_body_line_end": 2849,
+      "heading": "Biogeochemical Cycles and Ecological Pyramids: ANSWER-WRITING SPINE",
+      "preview": "FIX THE SYSTEM BOUNDARY, ECOLOGICAL LEVEL AND QUESTION PARAMETER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2859,
+      "markdown_body_line_end": 2866,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Cycle accounting frame",
+      "preview": "SYSTEM BOUNDARY -> atmosphere, water, soil, sediment and living biomass included",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 556.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 484.291
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2870,
+      "markdown_body_line_end": 2876,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Reservoir classification",
+      "preview": "GASEOUS -> major atmosphere or ocean reservoir",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 462.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 400.291
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2886,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Carbon movement",
+      "preview": "ATMOSPHERIC OR DISSOLVED CARBON -> photosynthetic fixation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 378.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 316.291
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2896,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Nitrogen transformation rail",
+      "preview": "ATMOSPHERIC NITROGEN -> fixation -> ammonia or usable nitrogen forms",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2900,
+      "markdown_body_line_end": 2906,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Nitrogen organism map",
+      "preview": "RHIZOBIUM -> symbiotic fixation associated with legume roots",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2910,
+      "markdown_body_line_end": 2916,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Phosphorus path",
+      "preview": "PHOSPHATE ROCK -> weathering -> soil or water phosphate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2920,
+      "markdown_body_line_end": 2926,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Cycle-specific human pressure",
+      "preview": "CARBON -> fossil-fuel combustion and land-cover change",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2930,
+      "markdown_body_line_end": 2936,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Eutrophication mechanism",
+      "preview": "NUTRIENT ENRICHMENT -> increased algal or plant production",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2940,
+      "markdown_body_line_end": 2946,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Three pyramid parameters",
+      "preview": "NUMBERS -> count of organisms at each trophic level",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2950,
+      "markdown_body_line_end": 2957,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Aquatic biomass inversion",
+      "preview": "SMALL PHYTOPLANKTON STANDING CROP -> rapid replacement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2961,
+      "markdown_body_line_end": 2968,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Heuristic and model firewall",
+      "preview": "ENERGY LOSS -> qualitative thermodynamic direction is robust",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2972,
+      "markdown_body_line_end": 2978,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and evidence boundary",
+      "preview": "ROUTED CONCEPTS -> agricultural nitrogen, rock-weathered phosphorus, fixation links",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 536.891
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    }
+  ]
+}

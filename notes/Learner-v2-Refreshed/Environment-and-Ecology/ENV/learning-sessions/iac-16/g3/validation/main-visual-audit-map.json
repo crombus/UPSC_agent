@@ -1,0 +1,2330 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-16\\g3\\environment-and-ecology-16_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-16\\g3\\environment-and-ecology-16_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Environmental Impact Assessment and NGT - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 30,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 385.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-16\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 428.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 120.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 88,
+      "markdown_body_line_end": 88,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 103,
+      "markdown_body_line_end": 110,
+      "heading": "VISUAL FIRST",
+      "preview": "PRIOR ENVIRONMENTAL CLEARANCE AND STARTING-POINT RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 156,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PRIOR ENVIRONMENTAL CLEARANCE AND STARTING-POINT RULE",
+      "preview": "START / CONCEPT: FOUNDATION — Prior environmental clearance and starting-point rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 697.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 476.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 167,
+      "markdown_body_line_end": 167,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat environmental clearance as forest, wildlife or coastal clearance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 322.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 270.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 182,
+      "markdown_body_line_end": 186,
+      "heading": "VISUAL FIRST",
+      "preview": "EC CONSENT FOREST WILDLIFE AND COASTAL BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 231,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - EC CONSENT FOREST WILDLIFE AND COASTAL BOUNDARIES",
+      "preview": "START / CONCEPT: FOUNDATION — EC consent forest wildlife and coastal boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 242,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 257,
+      "markdown_body_line_end": 261,
+      "heading": "VISUAL FIRST",
+      "preview": "SCHEDULE APPLICABILITY AND PROJECT CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 306,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SCHEDULE APPLICABILITY AND PROJECT CLASSIFICATION",
+      "preview": "START / CONCEPT: FOUNDATION — Schedule applicability and project classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 317,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 336,
+      "heading": "VISUAL FIRST",
+      "preview": "CATEGORY A AND CATEGORY B APPRAISAL LEVEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 364,
+      "markdown_body_line_end": 381,
+      "heading": "CLOSING RECALL FLOW - CORE - CATEGORY A AND CATEGORY B APPRAISAL LEVEL",
+      "preview": "START / CONCEPT: CORE — Category A and Category B appraisal level",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 392,
+      "markdown_body_line_end": 392,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: B1 and B2 boundary Qualified use: Treat B1 and B2 as notification-specific assessment routes, never intuition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 107.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 407,
+      "markdown_body_line_end": 411,
+      "heading": "VISUAL FIRST",
+      "preview": "B1 B2 AND CURRENT-SCHEDULE DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 456,
+      "heading": "CLOSING RECALL FLOW - CORE - B1 B2 AND CURRENT-SCHEDULE DISCIPLINE",
+      "preview": "START / CONCEPT: CORE — B1 B2 and current-schedule discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 156
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 276.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 75.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Screening boundary - Scoping and terms of reference Qualified use: Explain screening as route determination rather than final approval.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 489,
+      "heading": "VISUAL FIRST",
+      "preview": "SCREENING AND ROUTE DETERMINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 535,
+      "heading": "CLOSING RECALL FLOW - CORE - SCREENING AND ROUTE DETERMINATION",
+      "preview": "START / CONCEPT: CORE — Screening and route determination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 546,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Assessment evidence Qualified use: Connect scoping to terms of reference and significant-impact selection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 565,
+      "heading": "VISUAL FIRST",
+      "preview": "SCOPING TERMS OF REFERENCE AND STUDY DESIGN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 610,
+      "heading": "CLOSING RECALL FLOW - CORE - SCOPING TERMS OF REFERENCE AND STUDY DESIGN",
+      "preview": "START / CONCEPT: CORE — Scoping terms of reference and study design",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 621,
+      "markdown_body_line_end": 621,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Public-consultation boundary Qualified use: Test baseline, alternatives, prediction, mitigation and management as one evidence chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 636,
+      "markdown_body_line_end": 640,
+      "heading": "VISUAL FIRST",
+      "preview": "BASELINE ALTERNATIVES IMPACTS MITIGATION AND EMP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 685,
+      "heading": "CLOSING RECALL FLOW - CORE - BASELINE ALTERNATIVES IMPACTS MITIGATION AND EMP",
+      "preview": "START / CONCEPT: CORE — Baseline alternatives impacts mitigation and EMP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 696,
+      "markdown_body_line_end": 696,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Appraisal and decision Qualified use: State consultation applicability, access and response without inventing exemptions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 715,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC CONSULTATION APPLICABILITY AND QUALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 743,
+      "markdown_body_line_end": 760,
+      "heading": "CLOSING RECALL FLOW - CORE - PUBLIC CONSULTATION APPLICABILITY AND QUALITY",
+      "preview": "START / CONCEPT: CORE — Public consultation applicability and quality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 771,
+      "markdown_body_line_end": 771,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 790,
+      "heading": "VISUAL FIRST",
+      "preview": "APPRAISAL RECOMMENDATION AND CLEARANCE DECISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 818,
+      "markdown_body_line_end": 835,
+      "heading": "CLOSING RECALL FLOW - CORE - APPRAISAL RECOMMENDATION AND CLEARANCE DECISION",
+      "preview": "START / CONCEPT: CORE — Appraisal recommendation and clearance decision",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 846,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: NGT statutory identity - Original-jurisdiction boundary Qualified use: Move from condition to monitoring, compliance evidence and corrective action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 861,
+      "markdown_body_line_end": 868,
+      "heading": "VISUAL FIRST",
+      "preview": "POST-CLEARANCE CONDITIONS AND COMPLIANCE MONITORING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 914,
+      "heading": "CLOSING RECALL FLOW - CORE - POST-CLEARANCE CONDITIONS AND COMPLIANCE MONITORING",
+      "preview": "START / CONCEPT: CORE — Post-clearance conditions and compliance monitoring",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 104.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 925,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 944,
+      "heading": "VISUAL FIRST",
+      "preview": "NGT STATUTORY IDENTITY AND ORIGINAL JURISDICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 989,
+      "heading": "CLOSING RECALL FLOW - CORE - NGT STATUTORY IDENTITY AND ORIGINAL JURISDICTION",
+      "preview": "START / CONCEPT: CORE — NGT statutory identity and original jurisdiction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1000,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1019,
+      "heading": "VISUAL FIRST",
+      "preview": "NGT APPELLATE JURISDICTION AND REMEDIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1064,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - NGT APPELLATE JURISDICTION AND REMEDIES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — NGT appellate jurisdiction and remedies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1075,
+      "markdown_body_line_end": 1075,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1090,
+      "markdown_body_line_end": 1097,
+      "heading": "VISUAL FIRST",
+      "preview": "PRINCIPLES LIMITATION AND CONSTITUTIONAL COURTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1126,
+      "markdown_body_line_end": 1143,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PRINCIPLES LIMITATION AND CONSTITUTIONAL COURTS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Principles limitation and constitutional courts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1154,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Constitutional-court boundary - Instrument and evidence boundary Qualified use: Close by ranking statute, notification, amendment, order, memorandum and judgment correctly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1176,
+      "heading": "VISUAL FIRST",
+      "preview": "INSTRUMENT HIERARCHY AND EVIDENCE-SAFE SYNTHESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1208,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims, with GS-II judicial-governance linkage. **Core area:** Project-clearance and environmental-litigation architecture. **Grou",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 229.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1223,
+      "heading": "1. Visual foundation",
+      "preview": "EIA NOTIFICATION, 2006 - PROJECT CATEGORY LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 207.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 96.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1243,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 79.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1398,
+      "markdown_body_line_end": 1398,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Treat the EIA process as India's preventive environmental-clearance mechanism and the NGT as its corrective, specialised judicial-enforcement mechanism, and judge both by the integrity of their implementation (genuine pub",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 261.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1422,
+      "markdown_body_line_end": 1423,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 716.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 649.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1429,
+      "markdown_body_line_end": 1432,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 598.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 459.622
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1439,
+      "markdown_body_line_end": 1439,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 403.222
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 358.554
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1448,
+      "markdown_body_line_end": 1453,
+      "heading": "13.1 Direct demand A - NGOs/activists and EIA outcomes (2024 GS-III, 10 marks)",
+      "preview": "Case / participation route | Documented influence on the project process | Precise status discipline",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Case / participation route",
+          "Documented influence on the project process",
+          "Precise status discipline"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 447.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1461,
+      "markdown_body_line_end": 1466,
+      "heading": "13.2 Direct demand B - mining as environmental hazard (2025 GS-III, 15 marks)",
+      "preview": "Remedy | Why it answers the hazard",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Remedy",
+          "Why it answers the hazard"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 321.09
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 166.888
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1478,
+      "markdown_body_line_end": 1480,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1486,
+      "markdown_body_line_end": 1493,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 263.722
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1504,
+      "markdown_body_line_end": 1504,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 138.522
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 93.854
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1509,
+      "markdown_body_line_end": 1526,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INSTRUMENT HIERARCHY AND EVIDENCE-SAFE SYNTHESIS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Instrument hierarchy and evidence-safe synthesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2358,
+      "markdown_body_line_end": 2359,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 534.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 468.224
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2365,
+      "markdown_body_line_end": 2368,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 416.624
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 278.222
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2375,
+      "markdown_body_line_end": 2375,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 221.822
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 177.154
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2382,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 177.154
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 82.087
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2388,
+      "markdown_body_line_end": 2395,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 387.19
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2406,
+      "markdown_body_line_end": 2406,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 261.99
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 217.322
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2425,
+      "markdown_body_line_end": 2426,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2432,
+      "markdown_body_line_end": 2437,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 637.424
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 353.022
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2446,
+      "markdown_body_line_end": 2446,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 262.222
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 217.554
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2695,
+      "markdown_body_line_end": 2699,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims, with GS-II judicial-governance linkage. **Core area:** Project-clearance and environmental-litigation architecture. **Grounded in:** E",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 352.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 251.224
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2733,
+      "markdown_body_line_end": 2737,
+      "heading": "3. NGT's institutional design: strengths and jurisdictional limitations",
+      "preview": "Feature | Design strength | Documented limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Feature",
+          "Design strength",
+          "Documented limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 637.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 403.69
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2773,
+      "markdown_body_line_end": 2777,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 654.29
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2808,
+      "markdown_body_line_end": 2813,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 498.69
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2877,
+      "markdown_body_line_end": 2878,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 478.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 397.224
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2884,
+      "markdown_body_line_end": 2889,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 345.624
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 61.222
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2898,
+      "markdown_body_line_end": 2898,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 718.491
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 673.824
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2946,
+      "markdown_body_line_end": 2954,
+      "heading": "Environmental Impact Assessment and NGT: EIA-NGT GOVERNANCE ANSWER SPINE",
+      "preview": "TEST EIA SCHEDULE APPLICABILITY BEFORE CLASSIFYING THE PROJECT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 372.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 291.891
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2964,
+      "markdown_body_line_end": 2971,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Prior-clearance firewall",
+      "preview": "PROJECT CONCEPT -> test EIA schedule applicability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2975,
+      "markdown_body_line_end": 2981,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Approval matrix",
+      "preview": "ENVIRONMENTAL CLEARANCE -> project impact appraisal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2985,
+      "markdown_body_line_end": 2991,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Classification gate",
+      "preview": "PROJECT OR ACTIVITY -> read current schedule",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2995,
+      "markdown_body_line_end": 3001,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Four-process distinction",
+      "preview": "SCREENING -> determine applicable route where required",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3005,
+      "markdown_body_line_end": 3011,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: EIA evidence chain",
+      "preview": "BASELINE -> existing environmental and social condition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3015,
+      "markdown_body_line_end": 3021,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Consultation quality gate",
+      "preview": "APPLICABILITY -> read current notification",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3025,
+      "markdown_body_line_end": 3031,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Recommendation-decision ladder",
+      "preview": "PROJECT RECORD -> EIA, EMP and consultation material",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3035,
+      "markdown_body_line_end": 3041,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Grant-to-outcome chain",
+      "preview": "CLEARANCE GRANTED -> legal decision",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3045,
+      "markdown_body_line_end": 3051,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: NGT identity map",
+      "preview": "NGT -> specialised statutory tribunal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3055,
+      "markdown_body_line_end": 3062,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Jurisdiction fork",
+      "preview": "SUBSTANTIAL ENVIRONMENTAL QUESTION -> test Schedule I boundary",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3066,
+      "markdown_body_line_end": 3073,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Remedy and limitation matrix",
+      "preview": "RELIEF OR COMPENSATION -> person or damage claim",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3077,
+      "markdown_body_line_end": 3083,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Instrument and answer spine",
+      "preview": "PREVENT -> applicability, category, study and consultation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    }
+  ]
+}

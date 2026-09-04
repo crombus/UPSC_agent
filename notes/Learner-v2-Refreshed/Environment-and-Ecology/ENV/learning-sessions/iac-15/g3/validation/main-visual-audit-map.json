@@ -1,0 +1,2272 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Solid Plastic and E-Waste Rules - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 433.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 72,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 538.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 231.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Municipal solid waste, plastic waste and e-waste have separate rule frameworks, materials, actors and processing chains; a common parent statute does not make them one waste stream.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 108,
+      "heading": "VISUAL FIRST",
+      "preview": "THREE WASTE STREAMS AND PARENT-STATUTE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THREE WASTE STREAMS AND PARENT-STATUTE BOUNDARY",
+      "preview": "START / CONCEPT: FOUNDATION — Three waste streams and parent-statute boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not state an obligation without checking the rule and amendment vintage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 184,
+      "heading": "VISUAL FIRST",
+      "preview": "RULE AMENDMENT GUIDELINE AND PORTAL VINTAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 229,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RULE AMENDMENT GUIDELINE AND PORTAL VINTAGE",
+      "preview": "START / CONCEPT: FOUNDATION — Rule amendment guideline and portal vintage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 240,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: ULB solid-waste role Qualified use: Assign generator, local-body, operator and regulator duties one by one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 259,
+      "heading": "VISUAL FIRST",
+      "preview": "GENERATOR ULB OPERATOR AND REGULATOR DUTIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 304,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - GENERATOR ULB OPERATOR AND REGULATOR DUTIES",
+      "preview": "START / CONCEPT: FOUNDATION — Generator ULB operator and regulator duties",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat source segregation as completed recycling.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 334,
+      "heading": "VISUAL FIRST",
+      "preview": "SOURCE SEGREGATION AND PROCESSING HIERARCHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 362,
+      "markdown_body_line_end": 379,
+      "heading": "CLOSING RECALL FLOW - CORE - SOURCE SEGREGATION AND PROCESSING HIERARCHY",
+      "preview": "START / CONCEPT: CORE — Source segregation and processing hierarchy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 390,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Processing hierarchy Qualified use: Map producer, importer and brand owner before discussing compliance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 409,
+      "heading": "VISUAL FIRST",
+      "preview": "PLASTIC PRODUCER IMPORTER AND BRAND-OWNER MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 454,
+      "heading": "CLOSING RECALL FLOW - CORE - PLASTIC PRODUCER IMPORTER AND BRAND-OWNER MAP",
+      "preview": "START / CONCEPT: CORE — Plastic producer importer and brand-owner map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 465,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Restrictions on identified single-use items and EPR for plastic packaging are separate control approaches; an item-specific restriction is not a blanket ban on all plastic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 480,
+      "markdown_body_line_end": 487,
+      "heading": "VISUAL FIRST",
+      "preview": "SINGLE-USE ITEM RESTRICTIONS AND PACKAGING EPR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 533,
+      "heading": "CLOSING RECALL FLOW - CORE - SINGLE-USE ITEM RESTRICTIONS AND PACKAGING EPR",
+      "preview": "START / CONCEPT: CORE — Single-use item restrictions and packaging EPR",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 114.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A product may contain plastic without falling within the same banned-item list, packaging category or EPR obligation; material identification and legal classification are separate questions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 563,
+      "heading": "VISUAL FIRST",
+      "preview": "PLASTIC CONTENT LEGAL CATEGORY AND PRODUCT SCOPE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 608,
+      "heading": "CLOSING RECALL FLOW - CORE - PLASTIC CONTENT LEGAL CATEGORY AND PRODUCT SCOPE",
+      "preview": "START / CONCEPT: CORE — Plastic content legal category and product scope",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 619,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Extended Producer Responsibility creates an end-of-life compliance obligation; an assigned target or certificate liability is not proof that physical recycling occurred.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 638,
+      "heading": "VISUAL FIRST",
+      "preview": "EPR OBLIGATION TARGET AND VERIFIED RECYCLING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 683,
+      "heading": "CLOSING RECALL FLOW - CORE - EPR OBLIGATION TARGET AND VERIFIED RECYCLING",
+      "preview": "START / CONCEPT: CORE — EPR obligation target and verified recycling",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 694,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Registration, EPR certificate generation or transfer, reported recycling throughput and independently verified material recovery are different records.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 713,
+      "heading": "VISUAL FIRST",
+      "preview": "REGISTRATION CERTIFICATES AND MATERIAL THROUGHPUT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 758,
+      "heading": "CLOSING RECALL FLOW - CORE - REGISTRATION CERTIFICATES AND MATERIAL THROUGHPUT",
+      "preview": "START / CONCEPT: CORE — Registration certificates and material throughput",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 769,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Plastic processor role Qualified use: Treat authorisation as entry to regulation, not proof of outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 784,
+      "markdown_body_line_end": 788,
+      "heading": "VISUAL FIRST",
+      "preview": "PLASTIC PROCESSOR AUTHORISATION AND AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 833,
+      "heading": "CLOSING RECALL FLOW - CORE - PLASTIC PROCESSOR AUTHORISATION AND AUDIT",
+      "preview": "START / CONCEPT: CORE — Plastic processor authorisation and audit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 844,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Manufacturer, producer, importer, consumer, bulk consumer, refurbisher and recycler have different roles; the product-market actor and end-of-life processor must not be merged.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 103.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 866,
+      "heading": "VISUAL FIRST",
+      "preview": "E-WASTE ACTOR AND RESPONSIBILITY MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 620.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 549.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 912,
+      "heading": "CLOSING RECALL FLOW - CORE - E-WASTE ACTOR AND RESPONSIBILITY MAP",
+      "preview": "START / CONCEPT: CORE — E-waste actor and responsibility map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: E-waste EPR verification Qualified use: Route e-waste through safer authorised processing while preserving collection reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 942,
+      "heading": "VISUAL FIRST",
+      "preview": "AUTHORISED CHANNELISATION REFURBISHMENT AND RECYCLING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 987,
+      "heading": "CLOSING RECALL FLOW - CORE - AUTHORISED CHANNELISATION REFURBISHMENT AND RECYCLING",
+      "preview": "START / CONCEPT: CORE — Authorised channelisation refurbishment and recycling",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 998,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Importing covered products can create producer-side responsibility under the applicable rule; importing, manufacturing, branding and recycling are not interchangeable roles.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1017,
+      "heading": "VISUAL FIRST",
+      "preview": "IMPORTER ROLE AND INFORMAL-SECTOR INTEGRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1062,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - IMPORTER ROLE AND INFORMAL-SECTOR INTEGRATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Importer role and informal-sector integration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1073,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Contaminated sites and accumulated dumps are legacy stocks, while EPR principally governs current product and waste flows; remediation and flow control need different instruments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1095,
+      "heading": "VISUAL FIRST",
+      "preview": "LEGACY CONTAMINATION AND TREATMENT TECHNOLOGIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1141,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LEGACY CONTAMINATION AND TREATMENT TECHNOLOGIES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Legacy contamination and treatment technologies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 332.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 91.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1152,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CORE SYNTHESIS — Evidence-safe exam synthesis comprises CORE SYNTHESIS, Evidence-safe exam synthesis and Mechanism chain as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1174,
+      "heading": "VISUAL FIRST",
+      "preview": "EVIDENCE-SAFE EXAM SYNTHESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1206,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Waste-management legal framework. **Grounded in:** Solid Waste Management Rules, 2016; Plastic Waste Manage",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 609.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1222,
+      "heading": "1. Visual foundation",
+      "preview": "THREE PARALLEL WASTE-STREAM RULE FRAMEWORKS (all under Environment (Protection) Act, 1986)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 587.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 466.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1242,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 224.69
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1392,
+      "markdown_body_line_end": 1392,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Treat Extended Producer Responsibility as India's central emerging waste-governance mechanism across plastic and e-waste, and judge its real effectiveness by verified collection/recycling outcomes and informal-sector inte",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 553.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 495.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1415,
+      "markdown_body_line_end": 1417,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 239.624
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 144.556
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1426,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 664.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1433,
+      "markdown_body_line_end": 1433,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 608.49
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 563.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1445,
+      "markdown_body_line_end": 1449,
+      "heading": "13.2 Reusable evidence units",
+      "preview": "Claim | Named evidence/example → significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Named evidence/example → significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 441.022
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 252.02
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1461,
+      "markdown_body_line_end": 1463,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 150.02
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 54.953
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1469,
+      "markdown_body_line_end": 1477,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 7,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 412.49
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1489,
+      "markdown_body_line_end": 1489,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 270.09
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 225.422
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1494,
+      "markdown_body_line_end": 1511,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - EVIDENCE-SAFE EXAM SYNTHESIS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Evidence-safe exam synthesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 314
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2337,
+      "markdown_body_line_end": 2339,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 343.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 248.224
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2348,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 196.624
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 58.222
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2355,
+      "markdown_body_line_end": 2355,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 708.224
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2360,
+      "markdown_body_line_end": 2362,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 708.224
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 613.156
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2368,
+      "markdown_body_line_end": 2376,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 7,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 561.556
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 205.154
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2388,
+      "markdown_body_line_end": 2388,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2403,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 635.424
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 568.756
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2409,
+      "markdown_body_line_end": 2411,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 517.156
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 441.254
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2417,
+      "markdown_body_line_end": 2417,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 402.054
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 357.387
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2660,
+      "markdown_body_line_end": 2664,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Waste-management legal framework. **Grounded in:** Plastic Waste Management Rules, 2016 (as amended 2021/2022); E-Waste",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 352.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 265.424
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2739,
+      "markdown_body_line_end": 2743,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 620.69
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2780,
+      "markdown_body_line_end": 2785,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 503.49
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2836,
+      "markdown_body_line_end": 2837,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 660.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 594.224
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2843,
+      "markdown_body_line_end": 2845,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 542.624
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 466.722
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2851,
+      "markdown_body_line_end": 2851,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 427.522
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 382.854
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2899,
+      "markdown_body_line_end": 2907,
+      "heading": "Solid Plastic and E-Waste Rules: WASTE-GOVERNANCE ANSWER SPINE",
+      "preview": "CLASSIFY THE SOLID, PLASTIC OR E-WASTE STREAM",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2917,
+      "markdown_body_line_end": 2924,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three-stream firewall",
+      "preview": "SOLID WASTE -> municipal generation, segregation and local services",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 498.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2928,
+      "markdown_body_line_end": 2934,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Rule-vintage ladder",
+      "preview": "BASE RULE -> identify notification",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 476.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 414.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2938,
+      "markdown_body_line_end": 2944,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Municipal responsibility map",
+      "preview": "GENERATOR -> segregate and hand over",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 392.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 330.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2948,
+      "markdown_body_line_end": 2954,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Segregation-to-disposal chain",
+      "preview": "PREVENT OR REDUCE -> avoid waste",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 308.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 246.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2958,
+      "markdown_body_line_end": 2964,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Plastic actor matrix",
+      "preview": "PRODUCER -> covered product or packaging responsibility",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2968,
+      "markdown_body_line_end": 2974,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Ban-versus-EPR gate",
+      "preview": "IDENTIFIED ITEM -> test the exact restriction and vintage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2978,
+      "markdown_body_line_end": 2984,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: EPR evidence ladder",
+      "preview": "OBLIGATION OR TARGET -> legal requirement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2988,
+      "markdown_body_line_end": 2994,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Processor audit gate",
+      "preview": "REGISTRATION -> formal eligibility",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2998,
+      "markdown_body_line_end": 3004,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: E-waste actor chain",
+      "preview": "MANUFACTURER OR IMPORTER -> product enters market",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3008,
+      "markdown_body_line_end": 3015,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Formal-informal integration map",
+      "preview": "INFORMAL COLLECTOR -> reach and livelihood",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3019,
+      "markdown_body_line_end": 3026,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Stock-flow and technology matrix",
+      "preview": "CURRENT WASTE FLOW -> EPR and collection controls",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3030,
+      "markdown_body_line_end": 3036,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Waste-governance answer spine",
+      "preview": "CLASSIFY -> stream, material and rule vintage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2431 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Growth, Development, HDI, IHDI and MPI - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 37,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\assets\\economy-02_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 743.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 435.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 262.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 196.088
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 96,
+      "heading": "VISUAL FIRST",
+      "preview": "GROWTH, DEVELOPMENT AND SUBSTANTIVE FREEDOM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 142,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - GROWTH, DEVELOPMENT AND SUBSTANTIVE FREEDOM",
+      "preview": "START / CONCEPT: FOUNDATION — Growth, development and substantive freedom",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 124.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 153,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 172,
+      "heading": "VISUAL FIRST",
+      "preview": "HDI DIMENSIONS AND GEOMETRIC AGGREGATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 217,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - HDI DIMENSIONS AND GEOMETRIC AGGREGATION",
+      "preview": "START / CONCEPT: FOUNDATION — HDI dimensions and geometric aggregation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 228,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 247,
+      "heading": "VISUAL FIRST",
+      "preview": "HOW IHDI EXPOSES INEQUALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 292,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - HOW IHDI EXPOSES INEQUALITY",
+      "preview": "START / CONCEPT: FOUNDATION — How IHDI exposes inequality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 303,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not reduce MPI to an income poverty-line headcount.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 322,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT MULTIDIMENSIONAL POVERTY MEASURES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 576.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 535.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 367,
+      "heading": "CLOSING RECALL FLOW - CORE - WHAT MULTIDIMENSIONAL POVERTY MEASURES",
+      "preview": "START / CONCEPT: CORE — What multidimensional poverty measures",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 378,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 397,
+      "heading": "VISUAL FIRST",
+      "preview": "SOCIAL CAPITAL AS A DEVELOPMENT RESOURCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 442,
+      "heading": "CLOSING RECALL FLOW - CORE - SOCIAL CAPITAL AS A DEVELOPMENT RESOURCE",
+      "preview": "START / CONCEPT: CORE — Social capital as a development resource",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 199.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 453,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 475,
+      "heading": "VISUAL FIRST",
+      "preview": "GROWTH RESOURCES, COMPOSITION AND JOBS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 521,
+      "heading": "CLOSING RECALL FLOW - CORE - GROWTH RESOURCES, COMPOSITION AND JOBS",
+      "preview": "START / CONCEPT: CORE — Growth resources, composition and jobs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 532,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Public-service conversion Qualified use: Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 551,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC SERVICES AS CONVERSION CHANNELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 596,
+      "heading": "CLOSING RECALL FLOW - CORE - PUBLIC SERVICES AS CONVERSION CHANNELS",
+      "preview": "START / CONCEPT: CORE — Public services as conversion channels",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 209.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 607,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 626,
+      "heading": "VISUAL FIRST",
+      "preview": "WHO PRODUCES EACH DEVELOPMENT INDEX",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 671,
+      "heading": "CLOSING RECALL FLOW - CORE - WHO PRODUCES EACH DEVELOPMENT INDEX",
+      "preview": "START / CONCEPT: CORE — Who produces each development index",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 682,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 701,
+      "heading": "VISUAL FIRST",
+      "preview": "STATE VARIATION AND THE KERALA-BIHAR LESSON",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 746,
+      "heading": "CLOSING RECALL FLOW - CORE - STATE VARIATION AND THE KERALA-BIHAR LESSON",
+      "preview": "START / CONCEPT: CORE — State variation and the Kerala-Bihar lesson",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 193.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 757,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: National MPI targeting Qualified use: Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 776,
+      "heading": "VISUAL FIRST",
+      "preview": "NATIONAL MPI AND HOUSEHOLD TARGETING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 511.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 821,
+      "heading": "CLOSING RECALL FLOW - CORE - NATIONAL MPI AND HOUSEHOLD TARGETING",
+      "preview": "START / CONCEPT: CORE — National MPI and household targeting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 832,
+      "markdown_body_line_end": 832,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 854,
+      "heading": "VISUAL FIRST",
+      "preview": "DISTRICT TARGETING AND MGNREGA PROTECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 883,
+      "markdown_body_line_end": 900,
+      "heading": "CLOSING RECALL FLOW - CORE - DISTRICT TARGETING AND MGNREGA PROTECTION",
+      "preview": "START / CONCEPT: CORE — District targeting and MGNREGA protection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 89.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 911,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 930,
+      "heading": "VISUAL FIRST",
+      "preview": "NUTRITION AND SCHOOLING CAPABILITY CHANNELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 975,
+      "heading": "CLOSING RECALL FLOW - CORE - NUTRITION AND SCHOOLING CAPABILITY CHANNELS",
+      "preview": "START / CONCEPT: CORE — Nutrition and schooling capability channels",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 986,
+      "markdown_body_line_end": 986,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1001,
+      "markdown_body_line_end": 1005,
+      "heading": "VISUAL FIRST",
+      "preview": "WOMEN'S NETWORKS AND COLLECTIVE AGENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1033,
+      "markdown_body_line_end": 1050,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - WOMEN'S NETWORKS AND COLLECTIVE AGENCY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Women's networks and collective agency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 199.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1061,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1083,
+      "heading": "VISUAL FIRST",
+      "preview": "MPI INCIDENCE AND INTENSITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 481.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1112,
+      "markdown_body_line_end": 1129,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MPI INCIDENCE AND INTENSITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — MPI incidence and intensity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1155,
+      "markdown_body_line_end": 1162,
+      "heading": "VISUAL FIRST",
+      "preview": "INCOME POVERTY, COMPOSITE LIMITS AND PPP VINTAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1194,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Inclusive growth and human development. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy P",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 342.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 233.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1198,
+      "markdown_body_line_end": 1212,
+      "heading": "1. Visual foundation",
+      "preview": "1. REAL GROWTH",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 211.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 70.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1227,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 558.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1341,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Treat growth as the resource base, employment and public services as conversion channels, and IHDI/MPI as tests of distribution and deprivation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 312.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 267.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1383,
+      "markdown_body_line_end": 1385,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 388.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 307.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1391,
+      "markdown_body_line_end": 1393,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 256.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 159.122
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1399,
+      "markdown_body_line_end": 1399,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 119.922
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 75.254
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1407,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1413,
+      "markdown_body_line_end": 1415,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 604.622
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1421,
+      "markdown_body_line_end": 1421,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 565.422
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 520.754
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1430,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 520.754
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 425.687
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1436,
+      "markdown_body_line_end": 1441,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 374.087
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 152.685
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1450,
+      "markdown_body_line_end": 1450,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1472,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INCOME POVERTY, COMPOSITE LIMITS AND PPP VINTAGE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Income poverty, composite limits and PPP vintage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 2067
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 723.624
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 272.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2301,
+      "markdown_body_line_end": 2303,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2309,
+      "markdown_body_line_end": 2311,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 676.824
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 579.922
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2317,
+      "markdown_body_line_end": 2317,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 540.722
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 496.054
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2324,
+      "markdown_body_line_end": 2325,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 496.054
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 429.387
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2331,
+      "markdown_body_line_end": 2333,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 377.787
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 291.385
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2339,
+      "markdown_body_line_end": 2339,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 252.185
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 207.517
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2346,
+      "markdown_body_line_end": 2348,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 207.517
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 112.45
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2354,
+      "markdown_body_line_end": 2359,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 581.89
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2368,
+      "markdown_body_line_end": 2368,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 491.09
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 446.422
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2381,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 351.622
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 284.954
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2387,
+      "markdown_body_line_end": 2389,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 233.354
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 157.453
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2395,
+      "markdown_body_line_end": 2395,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 118.253
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 73.585
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2713,
+      "markdown_body_line_end": 2717,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Inclusive growth and human development. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-20",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 253.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 166.024
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2721,
+      "markdown_body_line_end": 2735,
+      "heading": "1. Architecture",
+      "preview": "1. real growth",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2742,
+      "markdown_body_line_end": 2748,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 595.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 454.09
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2836,
+      "markdown_body_line_end": 2840,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 597.69
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2883,
+      "markdown_body_line_end": 2884,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2892,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 615.122
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2898,
+      "markdown_body_line_end": 2898,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 575.922
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 531.254
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2943,
+      "markdown_body_line_end": 2951,
+      "heading": "Growth, Development, HDI, IHDI and MPI: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 270.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 189.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2961,
+      "markdown_body_line_end": 2967,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Growth is the input, not the verdict",
+      "preview": "REAL OUTPUT GROWTH",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 701.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2971,
+      "markdown_body_line_end": 2976,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Capability conversion",
+      "preview": "RESOURCES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 627.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2980,
+      "markdown_body_line_end": 2985,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: HDI three-dimension frame",
+      "preview": "HEALTH -> life expectancy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 605.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 553.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2989,
+      "markdown_body_line_end": 2994,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: HDI-to-IHDI discount",
+      "preview": "HDI -> average achievement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 531.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2998,
+      "markdown_body_line_end": 3003,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: MPI household lens",
+      "preview": "HEALTH | EDUCATION | LIVING STANDARDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 457.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 406.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3007,
+      "markdown_body_line_end": 3012,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: H times A formula",
+      "preview": "H -> incidence: how many are poor",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 384.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 332.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3016,
+      "markdown_body_line_end": 3021,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Income line versus MPI",
+      "preview": "INCOME LINE -> monetary threshold",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 310.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 258.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3025,
+      "markdown_body_line_end": 3030,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Institutions map",
+      "preview": "UNDP -> HDI and IHDI",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3034,
+      "markdown_body_line_end": 3039,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Below-state diagnosis",
+      "preview": "NATIONAL AVERAGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3043,
+      "markdown_body_line_end": 3049,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Protection versus transformation",
+      "preview": "MGNREGA -> wage floor + rural assets",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3053,
+      "markdown_body_line_end": 3059,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Composite-index limits",
+      "preview": "AVERAGE -> can hide distribution",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3063,
+      "markdown_body_line_end": 3068,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Inclusive-growth answer spine",
+      "preview": "DEFINE growth and development",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 419.891
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    }
+  ]
+}

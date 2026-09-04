@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Animal-economy value rail
+BIOLOGICAL ASSET
+-> INPUT + HEALTH SYSTEM
+-> PRODUCT FLOW
+-> MARKET + HOUSEHOLD WELFARE
+
+ASCII MASTER FLOW — PANEL 2/12: Stock-flow-statistics split
+LIVESTOCK CENSUS -> stock
+ISS -> annual production flow
+BAHS -> compiled publication
+YEAR + instrument must match
+
+ASCII MASTER FLOW — PANEL 3/12: Lifetime-return board
+OUTPUT + OFFSPRING + ASSET VALUE
+- FEED + HEALTH + LABOUR
+- MORTALITY + FINANCE + LOSS
+= NET ENTERPRISE RETURN
+
+ASCII MASTER FLOW — PANEL 4/12: Productivity complement chain
+GENETICS
+x FEED
+x HEALTH + MANAGEMENT
+x CLIMATE + MARKET
+
+ASCII MASTER FLOW — PANEL 5/12: Dairy collection chain
+MILKING HOUSEHOLD
+-> TESTING + PAYMENT
+-> CHILLING + PROCESSING
+-> CONSUMER + PRODUCER SHARE
+
+ASCII MASTER FLOW — PANEL 6/12: Operation Flood institution map
+VILLAGE SOCIETY
+-> DISTRICT UNION
+-> STATE FEDERATION
+COOPERATIVE != automatic good governance
+
+ASCII MASTER FLOW — PANEL 7/12: Poultry risk allocation
+INTEGRATOR -> chick + feed + market
+FARMER -> shed + labour + utilities
+CONTRACT -> mortality + quality rules
+RISK REALLOCATED, not erased
+
+ASCII MASTER FLOW — PANEL 8/12: Disease externality loop
+UNDER-VACCINATION
+-> NETWORK TRANSMISSION
+-> ASSET + PUBLIC-HEALTH LOSS
+SURVEILLANCE + COMPENSATION + BIOSECURITY
+
+ASCII MASTER FLOW — PANEL 9/12: Aquatic-system split
+CAPTURE -> common-pool stock
+AQUACULTURE -> managed farming
+MSY != MEY
+EFFLUENT + DISEASE boundaries
+
+ASCII MASTER FLOW — PANEL 10/12: IFS circular flow
+CROP RESIDUE -> FEED
+MANURE -> SOIL / BIOGAS
+POND -> NUTRIENT + INCOME
+ABSORPTIVE LIMIT prevents waste transfer
+
+ASCII MASTER FLOW — PANEL 11/12: Inclusion and value board
+LANDLESS + SMALLHOLDER
+WOMEN + PASTORALIST
+OWNERSHIP + INCOME CONTROL
+MARKET POWER + TIME BURDEN
+
+ASCII MASTER FLOW — PANEL 12/12: Animal-economy answer spine
+DEFINE asset + production system
+TRACE feed + health + market
+TEST inclusion + biosecurity
+CONCLUDE lifetime net social value

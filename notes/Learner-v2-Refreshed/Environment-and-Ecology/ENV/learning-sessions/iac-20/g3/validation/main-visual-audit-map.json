@@ -1,0 +1,2138 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-20",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "India Climate Policy NAPCC Panchamrit LTLEDS - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 30,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 385.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 385.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 78.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 88,
+      "markdown_body_line_end": 88,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: NAPCC identity - Original eight missions Qualified use: Define NAPCC as domestic policy and list the original missions exactly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 103,
+      "markdown_body_line_end": 110,
+      "heading": "VISUAL FIRST",
+      "preview": "NAPCC IDENTITY AND ORIGINAL EIGHT MISSIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 156,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NAPCC IDENTITY AND ORIGINAL EIGHT MISSIONS",
+      "preview": "START / CONCEPT: FOUNDATION — NAPCC identity and original eight missions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 167,
+      "markdown_body_line_end": 167,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The NAPCC missions combine mitigation, adaptation, knowledge and development co-benefits; no mission label should be assumed to represent only one response category.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 380.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 313.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 182,
+      "markdown_body_line_end": 186,
+      "heading": "VISUAL FIRST",
+      "preview": "MITIGATION ADAPTATION KNOWLEDGE AND CO-BENEFITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 231,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MITIGATION ADAPTATION KNOWLEDGE AND CO-BENEFITS",
+      "preview": "START / CONCEPT: FOUNDATION — Mitigation adaptation knowledge and co-benefits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 242,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State Action Plans on Climate Change translate climate priorities into state contexts; a state plan is not proof of implementation, finance or achieved resilience.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 257,
+      "markdown_body_line_end": 261,
+      "heading": "VISUAL FIRST",
+      "preview": "SAPCC STATE TRANSLATION AND IMPLEMENTATION BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 306,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SAPCC STATE TRANSLATION AND IMPLEMENTATION BOUNDARY",
+      "preview": "START / CONCEPT: FOUNDATION — SAPCC state translation and implementation boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 317,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Panchamrit is the five-part political announcement made by India at COP26; announcement, later NDC communication, domestic implementation and verified achievement are distinct stages.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 336,
+      "heading": "VISUAL FIRST",
+      "preview": "PANCHAMRIT ANNOUNCEMENT AND FIVE ELEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 364,
+      "markdown_body_line_end": 381,
+      "heading": "CLOSING RECALL FLOW - CORE - PANCHAMRIT ANNOUNCEMENT AND FIVE ELEMENTS",
+      "preview": "START / CONCEPT: CORE — Panchamrit announcement and five elements",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 392,
+      "markdown_body_line_end": 392,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not merge a Panchamrit announcement with a communicated NDC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 93.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 407,
+      "markdown_body_line_end": 411,
+      "heading": "VISUAL FIRST",
+      "preview": "PANCHAMRIT TARGET-TYPE CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 456,
+      "heading": "CLOSING RECALL FLOW - CORE - PANCHAMRIT TARGET-TYPE CLASSIFICATION",
+      "preview": "START / CONCEPT: CORE — Panchamrit target-type classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 247.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Updated NDC quantified terms - Forest-sink continuity Qualified use: Quote only the two strengthened quantified 2030 terms in the updated NDC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 489,
+      "heading": "VISUAL FIRST",
+      "preview": "UPDATED NDC QUANTIFIED TERMS AND FOREST-SINK CONTINUITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 535,
+      "heading": "CLOSING RECALL FLOW - CORE - UPDATED NDC QUANTIFIED TERMS AND FOREST-SINK CONTINUITY",
+      "preview": "START / CONCEPT: CORE — Updated NDC quantified terms and forest-sink continuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 546,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Not every Panchamrit phrase became a separately quantified term in the 2022 updated NDC; the political announcement and communicated contribution must be read as separate official instruments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 339.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 273.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 565,
+      "heading": "VISUAL FIRST",
+      "preview": "POLITICAL PLEDGE VERSUS COMMUNICATED NDC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 610,
+      "heading": "CLOSING RECALL FLOW - CORE - POLITICAL PLEDGE VERSUS COMMUNICATED NDC",
+      "preview": "START / CONCEPT: CORE — Political pledge versus communicated NDC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 621,
+      "markdown_body_line_end": 621,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: LT-LEDS identity Qualified use: Separate speech announcement, formal communication and domestic action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 636,
+      "markdown_body_line_end": 640,
+      "heading": "VISUAL FIRST",
+      "preview": "LT-LEDS IDENTITY AND LEGAL STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 685,
+      "heading": "CLOSING RECALL FLOW - CORE - LT-LEDS IDENTITY AND LEGAL STATUS",
+      "preview": "START / CONCEPT: CORE — LT-LEDS identity and legal status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 696,
+      "markdown_body_line_end": 696,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: LT-LEDS pathway families Qualified use: Define LT-LEDS as a long-term strategy rather than a binding domestic statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 715,
+      "heading": "VISUAL FIRST",
+      "preview": "LT-LEDS SECTORAL PATHWAY FAMILIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 743,
+      "markdown_body_line_end": 760,
+      "heading": "CLOSING RECALL FLOW - CORE - LT-LEDS SECTORAL PATHWAY FAMILIES",
+      "preview": "START / CONCEPT: CORE — LT-LEDS sectoral pathway families",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 195.491
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 771,
+      "markdown_body_line_end": 771,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The announced net-zero year states a long-term destination, while LT-LEDS discusses pathways and enabling conditions; neither proves a linear trajectory or achieved net-zero balance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 790,
+      "heading": "VISUAL FIRST",
+      "preview": "NET-ZERO DESTINATION AND PATHWAY BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 818,
+      "markdown_body_line_end": 835,
+      "heading": "CLOSING RECALL FLOW - CORE - NET-ZERO DESTINATION AND PATHWAY BOUNDARY",
+      "preview": "START / CONCEPT: CORE — Net-zero destination and pathway boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 846,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Emissions intensity measures emissions per unit of economic output, whereas absolute emissions measure total emissions; intensity can fall while total emissions follow a different path.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 861,
+      "markdown_body_line_end": 868,
+      "heading": "VISUAL FIRST",
+      "preview": "INTENSITY AND ENERGY-DENOMINATOR ACCOUNTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 914,
+      "heading": "CLOSING RECALL FLOW - CORE - INTENSITY AND ENERGY-DENOMINATOR ACCOUNTING",
+      "preview": "START / CONCEPT: CORE — Intensity and energy-denominator accounting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 89.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 925,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A target states an intended future result, while achievement requires source-dated measured evidence against the same metric, boundary, baseline and target year.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 944,
+      "heading": "VISUAL FIRST",
+      "preview": "TARGET VERSUS ACHIEVEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 989,
+      "heading": "CLOSING RECALL FLOW - CORE - TARGET VERSUS ACHIEVEMENT",
+      "preview": "START / CONCEPT: CORE — Target versus achievement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1000,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gross emissions, gross removals and net emissions balance are separate quantities; a net-zero claim requires a defined boundary and cannot be inferred from one sectoral capacity milestone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1019,
+      "heading": "VISUAL FIRST",
+      "preview": "GROSS AND NET EMISSIONS BALANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1064,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - GROSS AND NET EMISSIONS BALANCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Gross and net emissions balance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1075,
+      "markdown_body_line_end": 1075,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A Biennial Update Report is backward-looking reporting, an NDC is a forward nationally determined contribution, and LT-LEDS is a long-term strategy; none is a substitute for the others.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1090,
+      "markdown_body_line_end": 1097,
+      "heading": "VISUAL FIRST",
+      "preview": "BUR REPORTING AND CO-BENEFITS DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1126,
+      "markdown_body_line_end": 1143,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BUR REPORTING AND CO-BENEFITS DISTINCTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — BUR reporting and co-benefits distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1154,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Sector-interdependency - Current-status evidence boundary Qualified use: Conclude with equity and co-benefits while auditing current status and cross-sector constraints.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1176,
+      "heading": "VISUAL FIRST",
+      "preview": "EQUITY INTERDEPENDENCY AND CURRENT EVIDENCE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1208,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** India's domestic climate-policy architecture. **Grounded in:** National Action Plan on Climate Change (NAPC",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 229.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1224,
+      "heading": "1. Visual foundation",
+      "preview": "INDIA'S CLIMATE-POLICY TIMELINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 207.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 86.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1234,
+      "markdown_body_line_end": 1243,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 248.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1395,
+      "markdown_body_line_end": 1395,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Treat India's climate-policy evolution (NAPCC to Panchamrit to LT-LEDS/updated NDC) as a coherent, escalating domestic-to-international commitment architecture grounded in a co-benefits (not narrow emissions-only) approac",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 495.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 422.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1419,
+      "markdown_body_line_end": 1421,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 133.224
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 52.356
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1427,
+      "markdown_body_line_end": 1429,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 671.99
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1435,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 632.79
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 588.122
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1442,
+      "markdown_body_line_end": 1443,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 588.122
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 521.454
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1449,
+      "markdown_body_line_end": 1451,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 469.854
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 393.953
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1457,
+      "markdown_body_line_end": 1457,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 354.753
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 310.085
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1466,
+      "markdown_body_line_end": 1471,
+      "heading": "13.1 Direct demand - Paris commitments, COP26 and the 2022 NDC update (2025 GS-III, 15 marks)",
+      "preview": "Stage | Claim → named evidence → significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Claim → named evidence → significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 514.69
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1493,
+      "markdown_body_line_end": 1510,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - EQUITY INTERDEPENDENCY AND CURRENT EVIDENCE BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Equity interdependency and current evidence boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 372
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2342,
+      "markdown_body_line_end": 2344,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 223.824
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2350,
+      "markdown_body_line_end": 2352,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 172.224
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 75.322
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2358,
+      "markdown_body_line_end": 2358,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2365,
+      "markdown_body_line_end": 2366,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 691.956
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2372,
+      "markdown_body_line_end": 2374,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 640.356
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 564.454
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2380,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 525.254
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 480.587
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2682,
+      "markdown_body_line_end": 2686,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** India's domestic climate-policy architecture. **Grounded in:** LT-LEDS full document (submitted to UNFCCC, 2022); India",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 689.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 602.024
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2705,
+      "markdown_body_line_end": 2710,
+      "heading": "2. LT-LEDS: sectoral pathway logic and its analytical structure",
+      "preview": "Sector (from LT-LEDS) | Core strategic direction | Advanced nuance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Sector (from LT-LEDS)",
+          "Core strategic direction",
+          "Advanced nuance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 416.024
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 149.822
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2766,
+      "markdown_body_line_end": 2770,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 287.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 120.89
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2806,
+      "markdown_body_line_end": 2811,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 432.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 98.89
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2914,
+      "markdown_body_line_end": 2922,
+      "heading": "India Climate Policy NAPCC Panchamrit LTLEDS: INDIA CLIMATE-POLICY ANSWER SPINE",
+      "preview": "MAP NAPCC, SAPCC, PANCHAMRIT, UPDATED NDC AND LT-LEDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 387.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 306.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2932,
+      "markdown_body_line_end": 2939,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: India climate-policy timeline",
+      "preview": "2008 NAPCC -> domestic mission-based framework",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2943,
+      "markdown_body_line_end": 2949,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Original mission map",
+      "preview": "MITIGATION-HEAVY -> solar and enhanced energy efficiency",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2953,
+      "markdown_body_line_end": 2959,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Centre-state implementation rail",
+      "preview": "NAPCC MISSION -> national direction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2963,
+      "markdown_body_line_end": 2969,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Panchamrit five-part board",
+      "preview": "500 GW -> non-fossil capacity by 2030",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2973,
+      "markdown_body_line_end": 2979,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Target-type classifier",
+      "preview": "CAPACITY -> installed power quantity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2983,
+      "markdown_body_line_end": 2989,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Pledge-to-NDC firewall",
+      "preview": "COP26 SPEECH -> announced Panchamrit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2993,
+      "markdown_body_line_end": 2999,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: LT-LEDS pathway map",
+      "preview": "ELECTRICITY -> lower-carbon supply and system transition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3003,
+      "markdown_body_line_end": 3009,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Net-zero status ladder",
+      "preview": "ANNOUNCED YEAR -> political long-term destination",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3013,
+      "markdown_body_line_end": 3019,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Climate-accounting matrix",
+      "preview": "ABSOLUTE EMISSIONS -> total flow",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3023,
+      "markdown_body_line_end": 3030,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Energy-denominator firewall",
+      "preview": "INSTALLED CAPACITY -> rated power-system capacity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3034,
+      "markdown_body_line_end": 3041,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Reporting-instrument matrix",
+      "preview": "NDC -> forward nationally determined contribution",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3045,
+      "markdown_body_line_end": 3051,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: India climate answer spine",
+      "preview": "MAP -> NAPCC, SAPCC, Panchamrit, NDC and LT-LEDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    }
+  ]
+}

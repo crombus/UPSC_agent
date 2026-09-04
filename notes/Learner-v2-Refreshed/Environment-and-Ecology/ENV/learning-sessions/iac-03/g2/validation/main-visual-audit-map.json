@@ -1,0 +1,1973 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Ecological Succession and Biomes - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 415.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 72,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\assets\\environment-and-ecology-03_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 538.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 231.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ecological succession is directional change in community composition and ecosystem structure through time after formation or disturbance; directional does not mean deterministic, irreversible or forest-bound.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 108,
+      "heading": "VISUAL FIRST",
+      "preview": "SUCCESSION AS DIRECTIONAL BUT CONTINGENT CHANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 522.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 451.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SUCCESSION AS DIRECTIONAL BUT CONTINGENT CHANGE",
+      "preview": "START / CONCEPT: FOUNDATION — Succession as directional but contingent change",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Secondary succession Qualified use: Use retained soil and propagules to explain faster secondary recovery.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 184,
+      "heading": "VISUAL FIRST",
+      "preview": "SECONDARY SUCCESSION AND BIOLOGICAL LEGACIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 229,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SECONDARY SUCCESSION AND BIOLOGICAL LEGACIES",
+      "preview": "START / CONCEPT: FOUNDATION — Secondary succession and biological legacies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 240,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pioneer organisms tolerate the starting substrate and begin modifying it; lichens are the classic routed example for exposed surfaces without soil, but pioneer identity depends on the actual substrate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 259,
+      "heading": "VISUAL FIRST",
+      "preview": "PIONEER ORGANISMS AND SUBSTRATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 304,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PIONEER ORGANISMS AND SUBSTRATE",
+      "preview": "START / CONCEPT: FOUNDATION — Pioneer organisms and substrate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A sere is the complete succession sequence at a site, while a seral stage is one intermediate community within that sequence; the whole sequence and one phase are not synonyms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 334,
+      "heading": "VISUAL FIRST",
+      "preview": "SERE, SERAL STAGES AND NAMED SERES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 362,
+      "markdown_body_line_end": 379,
+      "heading": "CLOSING RECALL FLOW - CORE - SERE, SERAL STAGES AND NAMED SERES",
+      "preview": "START / CONCEPT: CORE — Sere, seral stages and named seres",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 390,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Named seres Qualified use: State the initial moisture condition and show how organisms alter later establishment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 409,
+      "heading": "VISUAL FIRST",
+      "preview": "HYDRARCH DIRECTION AND AUTOGENIC MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 454,
+      "heading": "CLOSING RECALL FLOW - CORE - HYDRARCH DIRECTION AND AUTOGENIC MECHANISM",
+      "preview": "START / CONCEPT: CORE — Hydrarch direction and autogenic mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 465,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Hydrarch and xerarch direction - Autogenic mechanism Qualified use: Identify the external disturbance or material input driving the trajectory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 480,
+      "markdown_body_line_end": 487,
+      "heading": "VISUAL FIRST",
+      "preview": "ALLOGENIC EXTERNAL FORCING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 533,
+      "heading": "CLOSING RECALL FLOW - CORE - ALLOGENIC EXTERNAL FORCING",
+      "preview": "START / CONCEPT: CORE — Allogenic external forcing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 124.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Allogenic succession is driven by external forces such as flooding, sediment deposition, fire regime, erosion, climate variation or land use; it must not be attributed to community modification alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 563,
+      "heading": "VISUAL FIRST",
+      "preview": "FACILITATION, INHIBITION AND TOLERANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 608,
+      "heading": "CLOSING RECALL FLOW - CORE - FACILITATION, INHIBITION AND TOLERANCE",
+      "preview": "START / CONCEPT: CORE — Facilitation, inhibition and tolerance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 619,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Facilitation, inhibition and tolerance Qualified use: Present climax as relatively stable but disturbance- and history-dependent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 638,
+      "heading": "VISUAL FIRST",
+      "preview": "CLIMAX THEORY AND MULTIPLE STABLE STATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 683,
+      "heading": "CLOSING RECALL FLOW - CORE - CLIMAX THEORY AND MULTIPLE STABLE STATES",
+      "preview": "START / CONCEPT: CORE — Climax theory and multiple stable states",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 694,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The classical climax model emphasises a relatively stable community under regional climate, while modern ecology recognises disturbance history, species availability and chance can produce multiple plausible states.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 713,
+      "heading": "VISUAL FIRST",
+      "preview": "DISTURBANCE, RESET AND DYNAMIC STABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 758,
+      "heading": "CLOSING RECALL FLOW - CORE - DISTURBANCE, RESET AND DYNAMIC STABILITY",
+      "preview": "START / CONCEPT: CORE — Disturbance, reset and dynamic stability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 769,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Disturbance and reset Qualified use: Sequence restoration and fix spatial scale before using biome, ecosystem or habitat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 784,
+      "markdown_body_line_end": 788,
+      "heading": "VISUAL FIRST",
+      "preview": "RESTORATION STAGING AND BIOME SCALE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 833,
+      "heading": "CLOSING RECALL FLOW - CORE - RESTORATION STAGING AND BIOME SCALE",
+      "preview": "START / CONCEPT: CORE — Restoration staging and biome scale",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 844,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Restoration staging - Biome versus ecosystem and habitat Qualified use: Use climate for the broad pattern and local modifiers for deviations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 866,
+      "heading": "VISUAL FIRST",
+      "preview": "CLIMATE CONTROLS AND LOCAL MODIFIERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 912,
+      "heading": "CLOSING RECALL FLOW - CORE - CLIMATE CONTROLS AND LOCAL MODIFIERS",
+      "preview": "START / CONCEPT: CORE — Climate controls and local modifiers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Temperature and precipitation organise broad biome patterns, while soil, fire, herbivory, topography and land-use history modify local vegetation; climate is a broad control, not a complete deterministic map.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 942,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOME BOUNDARIES AND ECOTONES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 987,
+      "heading": "CLOSING RECALL FLOW - CORE - BIOME BOUNDARIES AND ECOTONES",
+      "preview": "START / CONCEPT: CORE — Biome boundaries and ecotones",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 998,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Biome boundaries and ecotones Qualified use: Use Indian biome examples while protecting natural open ecosystems from default afforestation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1017,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN BIOME DIVERSITY AND OPEN ECOSYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1062,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INDIAN BIOME DIVERSITY AND OPEN ECOSYSTEMS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Indian biome diversity and open ecosystems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1073,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Indian biome diversity - Open Natural Ecosystems Qualified use: Separate administrative, legal and ecological labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1095,
+      "heading": "VISUAL FIRST",
+      "preview": "ADMINISTRATIVE, LEGAL AND ECOLOGICAL LABELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1141,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ADMINISTRATIVE, LEGAL AND ECOLOGICAL LABELS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Administrative, legal and ecological labels",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 114.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1152,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Administrative, legal and ecological labels - PYQ, monitoring and current boundary Qualified use: Close with monitoring limits, current evidence and verified PYQ routes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1174,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ, MONITORING AND CURRENT BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1206,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims, with Geography linkage. **Core area:** Ecosystem development and global classification. **Grounded in:** NCERT Class XII B",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 643.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1219,
+      "heading": "1. Visual foundation",
+      "preview": "PRIMARY SUCCESSION (bare rock/new land, no soil)",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 621.624
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 530.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1227,
+      "markdown_body_line_end": 1236,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 466.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 148.622
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1344,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Succession is the time axis and biomes are the space axis of ecosystem classification; sound restoration and conservation policy must respect both — the correct successional stage and the correct native biome for the site",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 136.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 77.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1372,
+      "markdown_body_line_end": 1376,
+      "heading": "13.2 Reusable evidence units",
+      "preview": "Claim | Named evidence/example → significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Named evidence/example → significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 488.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 288.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1388,
+      "markdown_body_line_end": 1390,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 129.49
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 48.622
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1398,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 675.79
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1404,
+      "markdown_body_line_end": 1404,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 636.59
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 591.922
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1409,
+      "markdown_body_line_end": 1426,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ, MONITORING AND CURRENT BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ, monitoring and current boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 569.922
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 338.922
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2348,
+      "markdown_body_line_end": 2350,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 132.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 51.824
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2356,
+      "markdown_body_line_end": 2358,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 692.99
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2364,
+      "markdown_body_line_end": 2364,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 653.79
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 609.122
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2638,
+      "markdown_body_line_end": 2642,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims, with Geography linkage. **Core area:** Ecosystem development and global classification. **Grounded in:** NCERT Class XII Biology; FSI ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 523.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 435.824
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2656,
+      "markdown_body_line_end": 2660,
+      "heading": "2. Succession as a restoration-ecology design tool",
+      "preview": "Stage | Ecological function | Restoration design implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Stage",
+          "Ecological function",
+          "Restoration design implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 320.824
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 176.622
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2739,
+      "markdown_body_line_end": 2743,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 643.09
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2776,
+      "markdown_body_line_end": 2779,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 202.69
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 68.488
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2888,
+      "markdown_body_line_end": 2896,
+      "heading": "Ecological Succession and Biomes: ANSWER-WRITING SPINE",
+      "preview": "FIX THE SYSTEM BOUNDARY, ECOLOGICAL LEVEL AND QUESTION PARAMETER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 286.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 205.891
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2906,
+      "markdown_body_line_end": 2913,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Succession decision tree",
+      "preview": "START -> newly exposed substrate or disturbed former community",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2917,
+      "markdown_body_line_end": 2923,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Primary succession rail",
+      "preview": "BARE OR NEW SUBSTRATE -> pioneer establishment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 669.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 607.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2927,
+      "markdown_body_line_end": 2933,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Secondary succession rail",
+      "preview": "DISTURBANCE -> prior vegetation reduced or removed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 523.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2937,
+      "markdown_body_line_end": 2943,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Sere vocabulary map",
+      "preview": "SERE -> complete sequence at one site",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 501.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 439.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2947,
+      "markdown_body_line_end": 2953,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Hydrarch and xerarch comparison",
+      "preview": "HYDRARCH -> begins in water or very wet substrate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 417.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 355.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2957,
+      "markdown_body_line_end": 2963,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Mechanism fork",
+      "preview": "AUTOGENIC -> organisms alter litter, soil, shade or microclimate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 333.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 271.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2967,
+      "markdown_body_line_end": 2973,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Climax theory pressure test",
+      "preview": "CLASSICAL CLAIM -> regional climate favours a relatively stable climax",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2977,
+      "markdown_body_line_end": 2983,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Restoration staging ladder",
+      "preview": "1 STABILISE -> erosion, substrate and hydrology",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2987,
+      "markdown_body_line_end": 2993,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Scale vocabulary",
+      "preview": "HABITAT -> place used by a species",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2997,
+      "markdown_body_line_end": 3004,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Biome control matrix",
+      "preview": "BROAD CLIMATE -> temperature and precipitation pattern",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3008,
+      "markdown_body_line_end": 3015,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Open ecosystem firewall",
+      "preview": "GRASSLAND, SAVANNA, SCRUB -> may be natural ecological states",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3019,
+      "markdown_body_line_end": 3025,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and monitoring boundary",
+      "preview": "2021 ROUTE -> pioneers surviving on surfaces without soil",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    }
+  ]
+}

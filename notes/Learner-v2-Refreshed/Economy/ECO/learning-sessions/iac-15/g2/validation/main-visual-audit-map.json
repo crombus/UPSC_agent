@@ -1,0 +1,2268 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g2\\economy-15_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g2\\economy-15_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Food Processing, Cold Chains and Value Addition - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 62,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g2\\assets\\economy-15_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 712.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 404.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A cold chain is temperature-controlled handling and movement across linked stages from first-mile cooling to consumption; a standalone warehouse is not a complete chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 250.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 183.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 98,
+      "heading": "VISUAL FIRST",
+      "preview": "FOOD-PROCESSING DEFINITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 676.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 144,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FOOD-PROCESSING DEFINITION",
+      "preview": "START / CONCEPT: FOUNDATION — Food-processing definition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 305.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 84.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 155,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Value addition is an increase in utility or market value through grading, processing, packaging, branding or services; higher final price does not prove the farmer captured the gain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 174,
+      "heading": "VISUAL FIRST",
+      "preview": "COLD-CHAIN DEFINITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 219,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - COLD-CHAIN DEFINITION",
+      "preview": "START / CONCEPT: FOUNDATION — Cold-chain definition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Post-harvest management Qualified use: Evaluate standards, employment and farmer income through competition and contract design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 249,
+      "heading": "VISUAL FIRST",
+      "preview": "VALUE ADDITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 294,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - VALUE ADDITION",
+      "preview": "START / CONCEPT: FOUNDATION — Value addition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 305,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Traceability tracks origin, processing and movement through the chain and supports recall, quality assurance and export compliance; it is not the same as food-safety regulation itself.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 103.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 324,
+      "heading": "VISUAL FIRST",
+      "preview": "POST-HARVEST MANAGEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 606.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 555.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 352,
+      "markdown_body_line_end": 369,
+      "heading": "CLOSING RECALL FLOW - CORE - POST-HARVEST MANAGEMENT",
+      "preview": "START / CONCEPT: CORE — Post-harvest management",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 380,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pradhan Mantri Kisan SAMPADA Yojana is an umbrella for food-processing and value-chain infrastructure; component status, eligibility and outlay require the applicable dated guideline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 399,
+      "heading": "VISUAL FIRST",
+      "preview": "TRACEABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 444,
+      "heading": "CLOSING RECALL FLOW - CORE - TRACEABILITY",
+      "preview": "START / CONCEPT: CORE — Traceability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 455,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Operation Greens links price stabilisation and value-chain support for specified perishables, but commodity coverage and assistance windows are status-sensitive and not universal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 477,
+      "heading": "VISUAL FIRST",
+      "preview": "PM KISAN SAMPADA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 523,
+      "heading": "CLOSING RECALL FLOW - CORE - PM KISAN SAMPADA",
+      "preview": "START / CONCEPT: CORE — PM Kisan SAMPADA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 534,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: PLISFPI boundary Qualified use: Map every chain node from farm aggregation to final market and identify the missing link.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 553,
+      "heading": "VISUAL FIRST",
+      "preview": "INTEGRATED COLD-CHAIN NODES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 598,
+      "heading": "CLOSING RECALL FLOW - CORE - INTEGRATED COLD-CHAIN NODES",
+      "preview": "START / CONCEPT: CORE — Integrated cold-chain nodes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 609,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Mega Food Park model links collection and primary-processing centres with common central infrastructure, but sanction or constructed capacity does not prove occupancy, throughput or commercial viability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 628,
+      "heading": "VISUAL FIRST",
+      "preview": "OPERATION GREENS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 656,
+      "markdown_body_line_end": 673,
+      "heading": "CLOSING RECALL FLOW - CORE - OPERATION GREENS",
+      "preview": "START / CONCEPT: CORE — Operation Greens",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 684,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Processing viability depends on throughput, seasonality, energy, logistics, working capital and capacity utilisation; installed capacity is a stock while actual processed output is a flow.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 703,
+      "heading": "VISUAL FIRST",
+      "preview": "PLISFPI",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 748,
+      "heading": "CLOSING RECALL FLOW - CORE - PLISFPI",
+      "preview": "START / CONCEPT: CORE — PLISFPI",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 759,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "FSSAI regulates domestic food-safety standards within its mandate, while APEDA supports agricultural and processed-food export development and market access; their functions are not interchangeable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 778,
+      "heading": "VISUAL FIRST",
+      "preview": "MEGA FOOD PARK MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - MEGA FOOD PARK MODEL",
+      "preview": "START / CONCEPT: CORE — Mega Food Park model",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Standards and SPS - Backward and forward links Qualified use: Separate sanction, installed capacity, operational throughput, sales, disbursal and value added.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 856,
+      "heading": "VISUAL FIRST",
+      "preview": "CAPACITY UTILISATION AND STOCK-FLOW DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 902,
+      "heading": "CLOSING RECALL FLOW - CORE - CAPACITY UTILISATION AND STOCK-FLOW DISTINCTION",
+      "preview": "START / CONCEPT: CORE — Capacity utilisation and stock-flow distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 104.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Contract and margin distribution Qualified use: Evaluate standards, employment and farmer income through competition and contract design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 932,
+      "heading": "VISUAL FIRST",
+      "preview": "FSSAI AND APEDA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 960,
+      "markdown_body_line_end": 977,
+      "heading": "CLOSING RECALL FLOW - CORE - FSSAI AND APEDA",
+      "preview": "START / CONCEPT: CORE — FSSAI and APEDA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 988,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Food processing creates work in aggregation, grading, cold logistics, factories, packaging, testing, maintenance and retail, but job quality, formality and seasonality must be assessed separately.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1007,
+      "heading": "VISUAL FIRST",
+      "preview": "STANDARDS AND SPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1052,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - STANDARDS AND SPS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Standards and SPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1063,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Small-processor constraints - By-product use Qualified use: Separate sanction, installed capacity, operational throughput, sales, disbursal and value added.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1085,
+      "heading": "VISUAL FIRST",
+      "preview": "BACKWARD AND FORWARD LINKAGES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 481.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1131,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BACKWARD AND FORWARD LINKAGES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Backward and forward linkages",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Food processing links agriculture with manufacturing, logistics, retail and exports. ✅ Cold storage is only one node; pre-cooling, reefer transport, pack houses and reliable power are also needed. ✅ Processing can reduce seasonal gluts an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 274.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1164,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTRACTS, EMPLOYMENT, SMALL PROCESSORS AND REALISED VALUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1196,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Agriculture-industry linkage. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 367.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1214,
+      "heading": "1. Visual foundation",
+      "preview": "1. FARM OUTPUT",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 235.824
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 94.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1222,
+      "markdown_body_line_end": 1228,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1394,
+      "markdown_body_line_end": 1394,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Food processing is a chain-coordination industry: throughput, temperature, standards, finance and fair contracting matter more than plant construction alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 697.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 652.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1457,
+      "markdown_body_line_end": 1458,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 593.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 526.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1464,
+      "markdown_body_line_end": 1466,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 474.824
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 388.422
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1472,
+      "markdown_body_line_end": 1472,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 349.222
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 304.554
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1479,
+      "markdown_body_line_end": 1481,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 304.554
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 209.487
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1487,
+      "markdown_body_line_end": 1492,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 508.39
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1501,
+      "markdown_body_line_end": 1501,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 417.59
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 372.922
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1523,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CONTRACTS, EMPLOYMENT, SMALL PROCESSORS AND REALISED VALUE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Contracts, employment, small processors and realised value",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 333.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2470,
+      "markdown_body_line_end": 2471,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 403.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 336.424
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2477,
+      "markdown_body_line_end": 2479,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 284.824
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 198.422
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2485,
+      "markdown_body_line_end": 2485,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 159.222
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 114.554
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2492,
+      "markdown_body_line_end": 2494,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2500,
+      "markdown_body_line_end": 2505,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 367.722
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2514,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 276.922
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 232.254
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2529,
+      "markdown_body_line_end": 2530,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 106.054
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 39.387
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2536,
+      "markdown_body_line_end": 2540,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 561.29
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2548,
+      "markdown_body_line_end": 2548,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 487.69
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 443.022
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2901,
+      "markdown_body_line_end": 2905,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Agriculture-industry linkage. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 452.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 364.824
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2909,
+      "markdown_body_line_end": 2923,
+      "heading": "1. Architecture",
+      "preview": "1. farm output",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 342.824
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 201.824
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2931,
+      "markdown_body_line_end": 2937,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3027,
+      "markdown_body_line_end": 3031,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 643.09
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3080,
+      "markdown_body_line_end": 3081,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 752.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 686.024
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3087,
+      "markdown_body_line_end": 3091,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 634.424
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 444.022
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3099,
+      "markdown_body_line_end": 3099,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 370.422
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 325.754
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3142,
+      "markdown_body_line_end": 3150,
+      "heading": "Food Processing, Cold Chains and Value Addition: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3160,
+      "markdown_body_line_end": 3166,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Farm-to-value rail",
+      "preview": "FARM OUTPUT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 584.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 522.891
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3170,
+      "markdown_body_line_end": 3175,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Cold-chain continuity",
+      "preview": "PACK HOUSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 500.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 449.091
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3179,
+      "markdown_body_line_end": 3184,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Capacity accounting fork",
+      "preview": "INSTALLED CAPACITY -> stock",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 427.091
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 375.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3188,
+      "markdown_body_line_end": 3193,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: PMKSY umbrella",
+      "preview": "COMMON / CLUSTER INFRASTRUCTURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 353.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 301.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3197,
+      "markdown_body_line_end": 3202,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Scheme-stage ladder",
+      "preview": "APPROVAL / SANCTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 30
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3206,
+      "markdown_body_line_end": 3211,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Operation Greens boundary",
+      "preview": "PERISHABLE PRICE STRESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3215,
+      "markdown_body_line_end": 3220,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Food Park cluster",
+      "preview": "COLLECTION CENTRE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3224,
+      "markdown_body_line_end": 3229,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Regulatory-export fork",
+      "preview": "FSSAI -> food-safety regulation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3233,
+      "markdown_body_line_end": 3238,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Value-capture board",
+      "preview": "FARMER / FPO -> raw material + aggregation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3242,
+      "markdown_body_line_end": 3248,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Employment chain",
+      "preview": "FARM-GATE SORTING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3252,
+      "markdown_body_line_end": 3258,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Small-processor constraint wheel",
+      "preview": "WORKING CAPITAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 272.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3262,
+      "markdown_body_line_end": 3267,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Processing answer spine",
+      "preview": "DEFINE chain and accounting units",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    }
+  ]
+}

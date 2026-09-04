@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Price-to-food rail
+CACP RECOMMENDATION
+-> CCEA MSP ANNOUNCEMENT
+-> AGENCY PROCUREMENT
+-> STOCK / PDS / MARKET RELEASE
+
+ASCII MASTER FLOW — PANEL 2/12: Cost-concept ladder
+A2 -> paid-out cultivation expense
+A2+FL -> A2 + imputed family labour
+C2 -> A2+FL + owned-land rent + fixed-capital interest
+MARGIN CLAIM -> always name the base
+
+ASCII MASTER FLOW — PANEL 3/12: Announcement-procurement fork
+MSP -> announced signal
+PROCUREMENT -> actual eligible purchase
+SCOPE -> crop + grade + season + place
+REALISATION -> agency access + arrivals
+
+ASCII MASTER FLOW — PANEL 4/12: FCI cost chain
+PURCHASE PRICE
++ PROCUREMENT INCIDENTALS
++ MOVEMENT + STORAGE + CARRYING
+-> ECONOMIC COST; not MSP alone
+
+ASCII MASTER FLOW — PANEL 5/12: Public-stock board
+BUFFER NORM -> desired benchmark
+ACTUAL STOCK -> dated inventory
+OPERATIONAL -> distribution need
+STRATEGIC -> emergency / stabilisation reserve
+
+ASCII MASTER FLOW — PANEL 6/12: Release-channel fork
+PDS -> entitled household access
+OMSS -> wider market supply
+PROCUREMENT -> stock inflow
+OFFTAKE / RELEASE -> stock outflow
+
+ASCII MASTER FLOW — PANEL 7/12: NFSA architecture
+NFSA -> legal entitlement
+TPDS -> delivery network
+PHH -> person-based entitlement unit
+AAY -> household-based entitlement unit
+
+ASCII MASTER FLOW — PANEL 8/12: Delivery-outcome ladder
+ENTITLEMENT
+-> ALLOCATION
+-> OFFTAKE
+-> HOUSEHOLD RECEIPT -> NUTRITIONAL USE
+
+ASCII MASTER FLOW — PANEL 9/12: Portability and authentication
+ONORC -> portable entitlement
+ePoS -> transaction record
+AADHAAR MATCH -> identity check
+FAILURE RISK -> connectivity / device / seeding
+
+ASCII MASTER FLOW — PANEL 10/12: Farmer-consumer balance
+FARMER -> price assurance + purchase access
+CONSUMER -> affordable access + stability
+STATE -> fiscal + storage cost
+ECOLOGY -> crop / water incentive
+
+ASCII MASTER FLOW — PANEL 11/12: Nutrition diversification
+AVAILABILITY
+ACCESS
+UTILISATION / NUTRITION
+STABILITY -> cereals alone are insufficient
+
+ASCII MASTER FLOW — PANEL 12/12: Food-policy answer spine
+SEPARATE announcement, purchase and stock
+TRACE inflow, carrying and release
+TEST entitlement against actual delivery
+BALANCE farm, consumer, fiscal and ecology

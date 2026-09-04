@@ -1,0 +1,2432 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-18",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Infrastructure, PPPs, Logistics and Public Investment - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\assets\\economy-18_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 344.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 78,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Infrastructure is valuable when a planned asset is completed, connected, operated and maintained as a usable service; sanctioned spending or physical capacity alone is not the outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 171.556
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 104.888
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 100,
+      "heading": "VISUAL FIRST",
+      "preview": "INFRASTRUCTURE AS A COMPLETED SERVICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 583.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 146,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INFRASTRUCTURE AS A COMPLETED SERVICE",
+      "preview": "START / CONCEPT: FOUNDATION — Infrastructure as a completed service",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 157,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Demand, engineering, land, environmental, social, financial and institutional appraisal precede financing and determine whether later construction risk is manageable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 329.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 176,
+      "heading": "VISUAL FIRST",
+      "preview": "ECONOMIC AND SOCIAL INFRASTRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 221,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ECONOMIC AND SOCIAL INFRASTRUCTURE",
+      "preview": "START / CONCEPT: FOUNDATION — Economic and social infrastructure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 232,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not define PPP as free infrastructure or complete privatisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 93.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 251,
+      "heading": "VISUAL FIRST",
+      "preview": "PROJECT-CYCLE APPRAISAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 296,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PROJECT-CYCLE APPRAISAL",
+      "preview": "START / CONCEPT: FOUNDATION — Project-cycle appraisal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 262.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 51.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 307,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Public investment can crowd in private investment by lowering logistics cost and uncertainty, but poorly selected or delayed projects can crowd out finance or create stranded assets.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 326,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC INVESTMENT AND MULTIPLIER CAUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 371,
+      "heading": "CLOSING RECALL FLOW - CORE - PUBLIC INVESTMENT AND MULTIPLIER CAUTIONS",
+      "preview": "START / CONCEPT: CORE — Public investment and multiplier cautions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 382,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A PPP is a long-term arrangement allocating project functions, performance obligations and risks between public and private parties; it is not free infrastructure or complete privatisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 401,
+      "heading": "VISUAL FIRST",
+      "preview": "CROWDING IN AND STRANDED ASSETS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 429,
+      "markdown_body_line_end": 446,
+      "heading": "CLOSING RECALL FLOW - CORE - CROWDING IN AND STRANDED ASSETS",
+      "preview": "START / CONCEPT: CORE — Crowding in and stranded assets",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 457,
+      "markdown_body_line_end": 457,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "BOT toll and BOT annuity structures allocate demand and payment risk differently; the label BOT alone is insufficient to identify who bears traffic risk.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 103.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 479,
+      "heading": "VISUAL FIRST",
+      "preview": "PPP DEFINITION AND FUNDING BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 620.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 549.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 525,
+      "heading": "CLOSING RECALL FLOW - CORE - PPP DEFINITION AND FUNDING BOUNDARY",
+      "preview": "START / CONCEPT: CORE — PPP definition and funding boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 536,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Under the road-sector HAM described by the owner, government provides about 40 per cent through construction-linked payments and the balance is serviced through annuities, moving traffic risk to government while private construction and ope",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 350.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 555,
+      "heading": "VISUAL FIRST",
+      "preview": "RISK ALLOCATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 583,
+      "markdown_body_line_end": 600,
+      "heading": "CLOSING RECALL FLOW - CORE - RISK ALLOCATION",
+      "preview": "START / CONCEPT: CORE — Risk allocation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 295
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 185.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 611,
+      "markdown_body_line_end": 611,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "TOT monetises completed toll-road operating rights for a concession period against an upfront payment; it is a brownfield-operation model, not construction of a new road under BOT.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 626,
+      "markdown_body_line_end": 630,
+      "heading": "VISUAL FIRST",
+      "preview": "BOT TOLL AND ANNUITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 511.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 658,
+      "markdown_body_line_end": 675,
+      "heading": "CLOSING RECALL FLOW - CORE - BOT TOLL AND ANNUITY",
+      "preview": "START / CONCEPT: CORE — BOT toll and annuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 686,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Viability Gap Funding is grant support for an economically justified PPP that is not fully commercially viable, subject to notified eligibility and ceilings; support does not cure weak demand, land or contract design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 701,
+      "markdown_body_line_end": 705,
+      "heading": "VISUAL FIRST",
+      "preview": "HYBRID ANNUITY MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 733,
+      "markdown_body_line_end": 750,
+      "heading": "CLOSING RECALL FLOW - CORE - HYBRID ANNUITY MODEL",
+      "preview": "START / CONCEPT: CORE — Hybrid Annuity Model",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 199.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 761,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not infer objective answer letters from routed or provisional-key PYQs.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 93.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 776,
+      "markdown_body_line_end": 780,
+      "heading": "VISUAL FIRST",
+      "preview": "TOLL-OPERATE-TRANSFER AND VGF",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 825,
+      "heading": "CLOSING RECALL FLOW - CORE - TOLL-OPERATE-TRANSFER AND VGF",
+      "preview": "START / CONCEPT: CORE — Toll-Operate-Transfer and VGF",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 276.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 55.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 836,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The National Infrastructure Pipeline is a multi-year project and investment planning pipeline; a listed estimate is not proof that finance, land, approval or completion has occurred.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 858,
+      "heading": "VISUAL FIRST",
+      "preview": "KELKAR COMMITTEE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 351.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 887,
+      "markdown_body_line_end": 904,
+      "heading": "CLOSING RECALL FLOW - CORE - KELKAR COMMITTEE",
+      "preview": "START / CONCEPT: CORE — Kelkar Committee",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 915,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PM GatiShakti is a GIS-based whole-of-government platform for integrated multimodal infrastructure planning; planning visibility does not itself complete land, clearance, finance or construction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 369.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 302.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 930,
+      "markdown_body_line_end": 934,
+      "heading": "VISUAL FIRST",
+      "preview": "NIP AND NMP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 962,
+      "markdown_body_line_end": 979,
+      "heading": "CLOSING RECALL FLOW - CORE - NIP AND NMP",
+      "preview": "START / CONCEPT: CORE — NIP and NMP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 209.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 990,
+      "markdown_body_line_end": 990,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not define PPP as free infrastructure or complete privatisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 103.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 50.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1009,
+      "heading": "VISUAL FIRST",
+      "preview": "PM GATISHAKTI",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1054,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PM GATISHAKTI",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PM GatiShakti",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 276.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 65.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1065,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Multimodal logistics - Rail-station PPP model Qualified use: Compare financing models through risk, payment, ownership, stage and contingent liability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1087,
+      "heading": "VISUAL FIRST",
+      "preview": "NATIONAL LOGISTICS POLICY AND MULTIMODALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1116,
+      "markdown_body_line_end": 1133,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - NATIONAL LOGISTICS POLICY AND MULTIMODALITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — National Logistics Policy and multimodality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1144,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Economic and social infrastructure both raise capabilities, though revenue models differ. ✅ PPP is not free infrastructure: users, taxpayers or future public payments ultimately fund the service. ✅ Risk should be allocated to the party be",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 401.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1166,
+      "heading": "VISUAL FIRST",
+      "preview": "STATION, PORT, MAINTENANCE AND LIABILITY DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1198,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Infrastructure. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims a",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 243.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1216,
+      "heading": "1. Visual foundation",
+      "preview": "1. PROJECT IDENTIFICATION AND APPRAISAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 221.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 80.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1223,
+      "markdown_body_line_end": 1229,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 623.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1512,
+      "markdown_body_line_end": 1512,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Infrastructure value arises from a completed, connected and maintained service; financing structure cannot compensate for weak appraisal or execution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 427.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 382.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1583,
+      "markdown_body_line_end": 1585,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 195.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 114.224
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1591,
+      "markdown_body_line_end": 1594,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 643.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1601,
+      "markdown_body_line_end": 1601,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 587.49
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 542.822
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1608,
+      "markdown_body_line_end": 1609,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 542.822
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 476.154
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1615,
+      "markdown_body_line_end": 1617,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 424.554
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 348.653
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1623,
+      "markdown_body_line_end": 1623,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 309.453
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 264.785
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1630,
+      "markdown_body_line_end": 1632,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 264.785
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 169.717
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1638,
+      "markdown_body_line_end": 1647,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 300.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1660,
+      "markdown_body_line_end": 1660,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 140.79
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 96.122
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1665,
+      "markdown_body_line_end": 1682,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - STATION, PORT, MAINTENANCE AND LIABILITY DISTINCTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Station, port, maintenance and liability distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 2819
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 83.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2545,
+      "markdown_body_line_end": 2547,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 237.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 157.024
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2553,
+      "markdown_body_line_end": 2556,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 643.89
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2563,
+      "markdown_body_line_end": 2563,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 587.49
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 542.822
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2570,
+      "markdown_body_line_end": 2571,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 542.822
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 476.154
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2577,
+      "markdown_body_line_end": 2579,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 424.554
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 348.653
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2585,
+      "markdown_body_line_end": 2585,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 309.453
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 264.785
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2592,
+      "markdown_body_line_end": 2594,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 264.785
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 169.717
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2600,
+      "markdown_body_line_end": 2609,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 300.39
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2622,
+      "markdown_body_line_end": 2622,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 140.79
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 96.122
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2636,
+      "markdown_body_line_end": 2637,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 671.824
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2643,
+      "markdown_body_line_end": 2645,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 620.224
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 523.322
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2651,
+      "markdown_body_line_end": 2651,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 484.122
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 439.454
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3074,
+      "markdown_body_line_end": 3078,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Infrastructure. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 480.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 393.224
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3082,
+      "markdown_body_line_end": 3096,
+      "heading": "1. Architecture",
+      "preview": "1. project identification and appraisal",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 371.224
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 230.224
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3103,
+      "markdown_body_line_end": 3109,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 623.09
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3204,
+      "markdown_body_line_end": 3208,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 628.09
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3253,
+      "markdown_body_line_end": 3254,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3260,
+      "markdown_body_line_end": 3262,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 594.122
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3268,
+      "markdown_body_line_end": 3268,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 554.922
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 510.254
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3311,
+      "markdown_body_line_end": 3319,
+      "heading": "Infrastructure, PPPs, Logistics and Public Investment: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 227.891
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 146.891
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3329,
+      "markdown_body_line_end": 3335,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Infrastructure service chain",
+      "preview": "IDENTIFY + APPRAISE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 676.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 614.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3339,
+      "markdown_body_line_end": 3344,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Infrastructure effects",
+      "preview": "DEMAND CHANNEL -> construction activity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 592.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 540.891
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3348,
+      "markdown_body_line_end": 3353,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Project appraisal gate",
+      "preview": "DEMAND + ENGINEERING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 29
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 518.891
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 467.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3357,
+      "markdown_body_line_end": 3362,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: PPP risk matrix",
+      "preview": "PUBLIC -> land / policy where controllable",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 445.091
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 393.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3366,
+      "markdown_body_line_end": 3371,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Road-model comparison",
+      "preview": "BOT TOLL -> private traffic exposure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 371.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 319.491
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3375,
+      "markdown_body_line_end": 3380,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: VGF decision route",
+      "preview": "ECONOMICALLY JUSTIFIED?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3384,
+      "markdown_body_line_end": 3389,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: PPP stress and correction",
+      "preview": "POST-2012 -> BOT-toll stress",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3393,
+      "markdown_body_line_end": 3398,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Infrastructure financing fork",
+      "preview": "NIP -> planning pipeline",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3402,
+      "markdown_body_line_end": 3407,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: GatiShakti and NLP",
+      "preview": "GATISHAKTI -> GIS planning coordination",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3411,
+      "markdown_body_line_end": 3417,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Port logistics distinction",
+      "preview": "VIZHINJAM -> trans-shipment project",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3421,
+      "markdown_body_line_end": 3427,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Station redevelopment logic",
+      "preview": "COMMERCIAL LAND / LEASE VALUE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 346.091
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3431,
+      "markdown_body_line_end": 3436,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Infrastructure answer spine",
+      "preview": "DEFINE service and project stage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 272.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    }
+  ]
+}

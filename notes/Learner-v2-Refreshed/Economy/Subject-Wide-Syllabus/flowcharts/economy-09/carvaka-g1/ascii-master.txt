@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Budget receipt fork
+REVENUE RECEIPT -> no liability / no asset reduction
+CAPITAL RECEIPT -> liability or asset reduction
+BORROWING -> debt capital receipt
+DISINVESTMENT / LOAN RECOVERY -> non-debt capital receipt
+
+ASCII MASTER FLOW — PANEL 2/12: Expenditure classification
+REVENUE EXPENDITURE -> current service / transfer
+CAPITAL EXPENDITURE -> asset or liability reduction
+ACCOUNTING CLASS is not a moral verdict
+QUALITY depends on design and outcomes
+
+ASCII MASTER FLOW — PANEL 3/12: Deficit identity board
+REVENUE DEFICIT = RE - RR
+FISCAL DEFICIT = TOTAL EXPENDITURE - NON-DEBT RECEIPTS
+PRIMARY DEFICIT = FD - INTEREST
+KEEP flow, period and government perimeter
+
+ASCII MASTER FLOW — PANEL 4/12: Effective measures
+ERD = REVENUE DEFICIT - CAPITAL-ASSET GRANTS
+EFFECTIVE CAPEX = CENTRE CAPEX + CAPITAL-ASSET GRANTS
+TRANSFER accounting is refined
+OUTCOME quality still needs verification
+
+ASCII MASTER FLOW — PANEL 5/12: Estimate-vintage rail
+BUDGET ESTIMATE -> authorisation / projection
+REVISED ESTIMATE -> updated in-year expectation
+ACTUAL -> realised account
+NEVER compare without labels
+
+ASCII MASTER FLOW — PANEL 6/12: Constitutional document stack
+ARTICLE 112 -> Annual Financial Statement
+FRBM ACT -> medium-term fiscal discipline
+MEFS -> macro assumptions
+PARLIAMENT + CAG -> authorisation and scrutiny
+
+ASCII MASTER FLOW — PANEL 7/12: Debt-dynamics chain
+PRIMARY BALANCE + INTEREST
+-> FISCAL DEFICIT
+-> DEBT STOCK
+-> FUTURE INTEREST FEEDBACK
+
+ASCII MASTER FLOW — PANEL 8/12: Crowding fork
+BORROWING DURING TIGHT FINANCE
+-> rates / savings pressure -> crowding out
+CAPEX REMOVES BOTTLENECKS
+-> productivity / demand -> crowding in
+
+ASCII MASTER FLOW — PANEL 9/12: Hidden-risk perimeter
+HEADLINE DEFICIT
++ GUARANTEES
++ EXTRA-BUDGETARY BORROWING
++ DELAYED PAYMENTS -> wider fiscal risk
+
+ASCII MASTER FLOW — PANEL 10/12: State fiscal quality
+OWN-REVENUE MOBILISATION
+EXPENDITURE QUALITY
+FISCAL PRUDENCE
+DEBT SUSTAINABILITY
+
+ASCII MASTER FLOW — PANEL 11/12: Budget 2026-27 status card
+2026-27 BE -> fiscal deficit 4.3% GDP
+2026-27 BE -> capex Rs 12.22 lakh crore
+2025-26 RE -> fiscal deficit 4.4% GDP
+STATUS -> BE / RE, not Actuals
+
+ASCII MASTER FLOW — PANEL 12/12: Fiscal-policy answer spine
+DEFINE identities and coverage
+CHECK BE / RE / Actual vintage
+ASSESS composition and multiplier
+CONCLUDE on debt path and transparency

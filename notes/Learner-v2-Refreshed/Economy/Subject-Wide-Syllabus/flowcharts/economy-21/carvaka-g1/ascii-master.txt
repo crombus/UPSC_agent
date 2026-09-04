@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Institution comparison grid
+MANDATE -> stabilisation or development purpose
+CLIENT -> sovereign or private counterparty
+INSTRUMENT -> loan, guarantee, surveillance or advice
+GOVERNANCE + CONDITIONALITY -> voice and implementation rules
+
+ASCII MASTER FLOW — PANEL 2/12: IMF function rail
+SURVEILLANCE
+-> EXTERNAL FINANCING NEED
+-> FACILITY + CONDITIONALITY
+-> REVIEWS + REPAYMENT
+
+ASCII MASTER FLOW — PANEL 3/12: Quota and SDR map
+QUOTA -> contribution
+QUOTA -> voting + access
+QUOTA -> general SDR allocation share
+SDR -> reserve asset; not loan
+
+ASCII MASTER FLOW — PANEL 4/12: Reserve tranche trap
+RESERVE TRANCHE POSITION -> liquid IMF claim
+GOLD TRANCHE -> historical name
+PROGRAMME CREDIT -> separate borrowing
+RESERVE ASSET != fiscal receipt
+
+ASCII MASTER FLOW — PANEL 5/12: IMF facility ladder
+RFI -> urgent one-off support
+SBA -> shorter stabilisation arrangement
+EFF -> medium-term structural need
+VERIFY current access limits separately
+
+ASCII MASTER FLOW — PANEL 6/12: World Bank Group map
+IBRD -> eligible sovereign borrowers
+IDA -> concessional sovereign window
+IFC -> private sector
+MIGA -> political-risk guarantees
+
+ASCII MASTER FLOW — PANEL 7/12: Development-bank family
+ADB -> Asia-Pacific regional bank
+AIIB -> sustainable infrastructure + connectivity
+NDB -> BRICS-founded development bank
+MANDATES overlap but governance differs
+
+ASCII MASTER FLOW — PANEL 8/12: ADB PYQ anchor
+NATURE SOLUTIONS FINANCE HUB
+LAUNCHED BY ADB
+ASIA AND THE PACIFIC
+DO NOT invent current finance totals
+
+ASCII MASTER FLOW — PANEL 9/12: Lending-window distinction
+PROJECT LOAN -> asset + appraisal
+POLICY LOAN -> reform programme
+GUARANTEE -> defined risk
+CO-FINANCE -> shared funding structure
+
+ASCII MASTER FLOW — PANEL 10/12: Foreign-currency risk chain
+FOREIGN-CURRENCY LIABILITY
+DOMESTIC-CURRENCY REVENUE
+DEPRECIATION -> repayment burden
+CONCESSIONAL TERMS do not erase mismatch
+
+ASCII MASTER FLOW — PANEL 11/12: Debt-treatment timeline
+DSSI -> temporary suspension
+COMMON FRAMEWORK -> treatment beyond DSSI
+OFFICIAL + PRIVATE creditor coordination
+CASE STATUS -> verify by date
+
+ASCII MASTER FLOW — PANEL 12/12: Global-governance answer spine
+COMPARE mandate + window
+TEST voice + ownership
+ASSESS additionality + debt
+CONCLUDE reformed plural multilateralism

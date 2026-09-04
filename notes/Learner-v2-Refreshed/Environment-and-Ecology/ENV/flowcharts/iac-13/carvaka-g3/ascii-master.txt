@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Ambient-emission firewall
+AMBIENT STANDARD -> concentration in outdoor receiving air
+SOURCE STANDARD -> release from a named stack, vehicle or process
+CONSENT CONDITION -> source-specific legal control
+AQI -> public communication index
+RULE -> never substitute one instrument for another
+MUST REMEMBER: Air pollution analysis separates source, primary or secondary pollutant,...
+
+ASCII MASTER FLOW — PANEL 2/12: Concentration-to-exposure chain
+MONITOR -> pollutant concentration at place and time
+AVERAGING PERIOD -> fixes the measurement window
+PERSON LOCATION -> determines contact opportunity
+DURATION AND ROUTE -> shape exposure
+HEALTH CLAIM -> needs separate epidemiological evidence
+
+ASCII MASTER FLOW — PANEL 3/12: Pollutant formation map
+PRIMARY EMISSION -> released directly
+PRECURSOR -> enters atmospheric reaction
+SUNLIGHT OR OXIDATION -> transformation pathway
+SECONDARY POLLUTANT -> formed in air
+CONTROL -> address direct emissions and precursors
+
+ASCII MASTER FLOW — PANEL 4/12: PM classification gate
+PM2.5 OR PM10 -> aerodynamic size fraction
+SIZE -> affects transport and deposition
+COMPOSITION -> requires chemical evidence
+SOURCE -> requires apportionment evidence
+TRAP -> size label alone proves neither composition nor source
+
+ASCII MASTER FLOW — PANEL 5/12: Smog and acid-deposition matrix
+SMOG -> precursor emissions plus sunlight-driven chemistry
+SURFACE OZONE -> secondary oxidant
+ACID DEPOSITION -> sulphur and nitrogen precursor pathway
+WET OR DRY -> deposition routes
+RULE -> precursor is not the final atmospheric product
+
+ASCII MASTER FLOW — PANEL 6/12: NAAQS data gate
+POLLUTANT -> identify exact substance or fraction
+UNIT -> preserve the notified unit
+AVERAGING PERIOD -> annual, daily or shorter only if sourced
+AREA AND COMPLIANCE RULE -> read notification
+NO TABLE -> no invented limit
+
+ASCII MASTER FLOW — PANEL 7/12: AQI statutory boundary
+INPUT -> monitored pollutant concentrations
+OUTPUT -> public-facing category
+NAAQS -> notified ambient standard
+SOURCE LIMIT -> separate emission control
+VERDICT -> AQI category is not either standard table
+
+ASCII MASTER FLOW — PANEL 8/12: Institution and clearance ladder
+CPCB -> national coordination and framework
+SPCB OR PCC -> consent, monitoring and enforcement
+CTE OR CTO -> source-operation permission layer
+ENVIRONMENTAL CLEARANCE -> prior project-appraisal layer
+RULE -> approvals remain legally distinct
+
+ASCII MASTER FLOW — PANEL 9/12: Monitoring evidence ladder
+STATION -> one location
+NETWORK -> spatial coverage
+DATA COMPLETENESS -> usable time record
+METEOROLOGY -> dispersion and accumulation context
+INFERENCE -> scale only as far as evidence supports
+
+ASCII MASTER FLOW — PANEL 10/12: Source-apportionment cube
+CITY -> source mix changes by location
+SEASON -> activity and meteorology change
+POLLUTANT -> PM, ozone and gases have different pathways
+METHOD -> model and sampling assumptions matter
+NO UNIVERSAL SHARE -> date and scope every estimate
+CLOSE DISTINCTION: Emission is not ambient concentration or exposure, AQI is not an...
+
+ASCII MASTER FLOW — PANEL 11/12: Programme-response architecture
+NCAP -> long-run structural planning
+NON-ATTAINMENT -> standards-based classification over a period
+GRAP -> episodic graded response
+CAQM -> statutory Delhi-NCR regional coordination
+NO SUBSTITUTION -> each serves a different function
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State pollutant, averaging time, unit,...
+
+ASCII MASTER FLOW — PANEL 12/12: Evidence and answer spine
+DEFINE -> ambient, emission, concentration and exposure
+TRACE -> source, precursor, atmospheric formation and receptor
+GOVERN -> NAAQS, AQI, consent, NCAP, GRAP and CAQM
+MEASURE -> station, averaging period and apportionment boundary
+AUDIT -> target, attainment, current data and PYQ key stay distinct

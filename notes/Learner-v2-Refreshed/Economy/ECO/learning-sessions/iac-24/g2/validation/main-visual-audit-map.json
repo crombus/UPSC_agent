@@ -1,0 +1,2432 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-24",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Services, Digital Economy, Fintech and Platform Markets - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 62,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\assets\\economy-24_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 726.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 418.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Services are not one homogeneous sector: tradability, productivity, skill intensity, formality and simultaneity of production and consumption differ across IT, finance, transport, tourism, health, education and personal services.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 231.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 164.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 98,
+      "heading": "VISUAL FIRST",
+      "preview": "SERVICES HETEROGENEITY AND MEASUREMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 666.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 144,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SERVICES HETEROGENEITY AND MEASUREMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Services heterogeneity and measurement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 281.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 155,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not equate a public digital rail with government ownership of every application.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 174,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGITAL PUBLIC INFRASTRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 219,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DIGITAL PUBLIC INFRASTRUCTURE",
+      "preview": "START / CONCEPT: FOUNDATION — Digital public infrastructure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not merge RBI's regulatory role with NPCI's operating role.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 249,
+      "heading": "VISUAL FIRST",
+      "preview": "RBI AND NPCI ROLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 294,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RBI AND NPCI ROLES",
+      "preview": "START / CONCEPT: FOUNDATION — RBI and NPCI roles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 305,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not call UPI a currency or the digital rupee a commercial-bank liability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 103.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 50.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 324,
+      "heading": "VISUAL FIRST",
+      "preview": "UPI AND THE DIGITAL RUPEE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 352,
+      "markdown_body_line_end": 369,
+      "heading": "CLOSING RECALL FLOW - CORE - UPI AND THE DIGITAL RUPEE",
+      "preview": "START / CONCEPT: CORE — UPI and the digital rupee",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 262.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 41.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 380,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not turn ONDC into one government marketplace or infer platform share from interoperability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 399,
+      "heading": "VISUAL FIRST",
+      "preview": "ONDC AND OPEN COMMERCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 409.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 444,
+      "heading": "CLOSING RECALL FLOW - CORE - ONDC AND OPEN COMMERCE",
+      "preview": "START / CONCEPT: CORE — ONDC and open commerce",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 455,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not infer competition merely from low entry costs when network effects and switching costs persist.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 477,
+      "heading": "VISUAL FIRST",
+      "preview": "PLATFORM MARKETS AND NETWORK EFFECTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 523,
+      "heading": "CLOSING RECALL FLOW - CORE - PLATFORM MARKETS AND NETWORK EFFECTS",
+      "preview": "START / CONCEPT: CORE — Platform markets and network effects",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 320.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 89.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 534,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not let a fintech or lending-service provider obscure the regulated principal's obligations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 553,
+      "heading": "VISUAL FIRST",
+      "preview": "FINTECH UNBUNDLING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 409.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 598,
+      "heading": "CLOSING RECALL FLOW - CORE - FINTECH UNBUNDLING",
+      "preview": "START / CONCEPT: CORE — Fintech unbundling",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 609,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Interoperability, portability, transparent ranking, limits on self-preferencing and competition enforcement can reduce platform gatekeeping, but none by itself guarantees a competitive outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 628,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGITAL-LENDING RESPONSIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 656,
+      "markdown_body_line_end": 673,
+      "heading": "CLOSING RECALL FLOW - CORE - DIGITAL-LENDING RESPONSIBILITY",
+      "preview": "START / CONCEPT: CORE — Digital-lending responsibility",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 183.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 684,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Internet or account access is not digital capability: language, disability, device control, literacy, fraud awareness, assisted access and grievance resolution determine effective inclusion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 703,
+      "heading": "VISUAL FIRST",
+      "preview": "ACCOUNT AGGREGATORS AND CONSENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 496.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 748,
+      "heading": "CLOSING RECALL FLOW - CORE - ACCOUNT AGGREGATORS AND CONSENT",
+      "preview": "START / CONCEPT: CORE — Account Aggregators and consent",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 759,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not infer PYQ answer letters or current platform, payment or adoption figures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 778,
+      "heading": "VISUAL FIRST",
+      "preview": "COMPETITION TOOLS FOR PLATFORMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - COMPETITION TOOLS FOR PLATFORMS",
+      "preview": "START / CONCEPT: CORE — Competition tools for platforms",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 189.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Digital Personal Data Protection Act, 2023 establishes a consent-or-legitimate-use framework and a Data Protection Board, while the owner's dated account records phased implementation after the November 2025 Rules rather than one fully ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 856,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGITAL ACCESS AND CAPABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 452.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 902,
+      "heading": "CLOSING RECALL FLOW - CORE - DIGITAL ACCESS AND CAPABILITY",
+      "preview": "START / CONCEPT: CORE — Digital access and capability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 295
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Virtual digital asset perimeter Qualified use: Judge digital inclusion by effective capability, safety and remedy rather than connection counts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 415.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 348.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 932,
+      "heading": "VISUAL FIRST",
+      "preview": "GIG-PLATFORM ECONOMICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 960,
+      "markdown_body_line_end": 977,
+      "heading": "CLOSING RECALL FLOW - CORE - GIG-PLATFORM ECONOMICS",
+      "preview": "START / CONCEPT: CORE — Gig-platform economics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 219.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 988,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: NFT and metaverse boundary Qualified use: Separate the shared rail, application, operator, regulator and legal principal before evaluating scale.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1007,
+      "heading": "VISUAL FIRST",
+      "preview": "DPDP IMPLEMENTATION BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1052,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DPDP IMPLEMENTATION BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — DPDP implementation boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1063,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Merchant Discount Rate is a merchant-side transaction-processing fee shared within the payment chain; it is not the payer's authentication credential or a universal customer charge.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1085,
+      "heading": "VISUAL FIRST",
+      "preview": "BLOCKCHAIN, CRYPTO, VDA AND NFT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1131,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BLOCKCHAIN, CRYPTO, VDA AND NFT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Blockchain, crypto, VDA and NFT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 134.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Services include trade, transport, finance, communication, public services and professional activities. ✅ UPI transfers bank money; the digital rupee is a direct RBI liability like sovereign currency. ✅ ONDC seeks interoperable digital co",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 560.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 110.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1164,
+      "heading": "VISUAL FIRST",
+      "preview": "PAYMENTS, CROWDFUNDING AND DROPSHIPPING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 615.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1196,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Services and digital transformation. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 266.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 156.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1214,
+      "heading": "1. Visual foundation",
+      "preview": "1. DIGITAL IDENTITY, CONNECTIVITY AND DATA",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1228,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 595.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 365.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1573,
+      "markdown_body_line_end": 1573,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Keep public digital rails open and interoperable while assigning clear liability to competing applications and regulating market power, data use and cyber risk.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 646.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 602.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1646,
+      "markdown_body_line_end": 1648,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 264.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1654,
+      "markdown_body_line_end": 1659,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 518.89
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1668,
+      "markdown_body_line_end": 1668,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 428.09
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 383.422
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1675,
+      "markdown_body_line_end": 1677,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 383.422
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 288.354
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1683,
+      "markdown_body_line_end": 1687,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 236.754
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 46.353
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1695,
+      "markdown_body_line_end": 1695,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 735.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 691.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1702,
+      "markdown_body_line_end": 1704,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 595.956
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1710,
+      "markdown_body_line_end": 1719,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 544.356
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 72.954
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1732,
+      "markdown_body_line_end": 1732,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 649.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 605.024
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1737,
+      "markdown_body_line_end": 1754,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PAYMENTS, CROWDFUNDING AND DROPSHIPPING",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Payments, crowdfunding and dropshipping",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 3173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 166.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2596,
+      "markdown_body_line_end": 2598,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 640.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 559.424
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2604,
+      "markdown_body_line_end": 2609,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 507.824
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 223.422
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2618,
+      "markdown_body_line_end": 2618,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 132.622
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 87.954
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2625,
+      "markdown_body_line_end": 2627,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2633,
+      "markdown_body_line_end": 2637,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 472.222
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2645,
+      "markdown_body_line_end": 2645,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 398.622
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 353.954
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2652,
+      "markdown_body_line_end": 2654,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 353.954
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 258.887
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2660,
+      "markdown_body_line_end": 2669,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 331.89
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2682,
+      "markdown_body_line_end": 2682,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 172.29
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 127.622
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2700,
+      "markdown_body_line_end": 2701,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 694.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 627.424
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2707,
+      "markdown_body_line_end": 2709,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 575.824
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 478.922
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2715,
+      "markdown_body_line_end": 2715,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 439.722
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 395.054
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3010,
+      "markdown_body_line_end": 3014,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Services and digital transformation. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 452.091
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 364.824
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3018,
+      "markdown_body_line_end": 3032,
+      "heading": "1. Architecture",
+      "preview": "1. digital identity, connectivity and data",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 342.824
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 201.824
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3039,
+      "markdown_body_line_end": 3045,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3135,
+      "markdown_body_line_end": 3139,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 654.29
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3190,
+      "markdown_body_line_end": 3191,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 730.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 663.824
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3197,
+      "markdown_body_line_end": 3199,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 612.224
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 515.322
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3205,
+      "markdown_body_line_end": 3205,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 476.122
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 431.454
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3248,
+      "markdown_body_line_end": 3256,
+      "heading": "Services, Digital Economy, Fintech and Platform Markets: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3266,
+      "markdown_body_line_end": 3272,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Digital-economy transmission rail",
+      "preview": "IDENTITY + CONNECTIVITY + DATA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 508.691
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3276,
+      "markdown_body_line_end": 3281,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Services heterogeneity map",
+      "preview": "TRADABLE -> IT + professional services",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3285,
+      "markdown_body_line_end": 3290,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Rail and application split",
+      "preview": "DPI RAIL -> common protocol",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 412.891
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3294,
+      "markdown_body_line_end": 3299,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: UPI versus digital rupee",
+      "preview": "UPI -> instruction moving bank deposit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 339.091
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3303,
+      "markdown_body_line_end": 3308,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: ONDC interoperability chain",
+      "preview": "BUYER APP",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3312,
+      "markdown_body_line_end": 3317,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Platform power loop",
+      "preview": "MORE USERS -> MORE MATCHES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3321,
+      "markdown_body_line_end": 3326,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Digital-lending responsibility",
+      "preview": "REGULATED ENTITY -> principal duty",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3330,
+      "markdown_body_line_end": 3335,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Data-governance chain",
+      "preview": "LAWFUL PURPOSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3339,
+      "markdown_body_line_end": 3344,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Digital-asset taxonomy",
+      "preview": "BLOCKCHAIN -> ledger architecture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3348,
+      "markdown_body_line_end": 3354,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Payment-system distinctions",
+      "preview": "MDR -> merchant processing fee",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3358,
+      "markdown_body_line_end": 3364,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Platform-work risk board",
+      "preview": "MATCHING + FLEXIBILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 272.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3368,
+      "markdown_body_line_end": 3373,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Digital-economy answer spine",
+      "preview": "DEFINE rail + actor + liability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    }
+  ]
+}

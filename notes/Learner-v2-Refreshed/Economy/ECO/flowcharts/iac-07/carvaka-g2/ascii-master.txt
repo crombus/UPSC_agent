@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Market maturity fork
+MONEY MARKET -> short-term funds + liquidity
+CAPITAL MARKET -> medium/long debt + equity
+CLASSIFY BY -> tenor + claim + function
+NOT BY -> issuer name alone
+MUST REMEMBER: Money markets fund short maturities and liquidity; capital markets fund...
+
+ASCII MASTER FLOW — PANEL 2/12: Issue-to-trade rail
+SAVER FUNDS
+-> PRIMARY ISSUE -> fresh issuer finance
+-> SECONDARY TRADE -> investor liquidity
+-> PRICE DISCOVERY -> future financing signal
+
+ASCII MASTER FLOW — PANEL 3/12: Government borrowing ladder
+TREASURY BILL -> short tenor
+DATED G-SEC -> longer maturity
+RBI -> auction and market architecture
+ROLLOVER RISK persists at short tenor
+
+ASCII MASTER FLOW — PANEL 4/12: Overnight market map
+CALL MONEY -> unsecured overnight
+REPO -> collateralised bilateral funding
+TREPS -> tri-party collateral platform
+CBLO -> older mechanism replaced by TREPS
+
+ASCII MASTER FLOW — PANEL 5/12: Corporate and bank funding
+CORPORATE -> Commercial Paper
+BANK / ELIGIBLE INSTITUTION -> Certificate of Deposit
+CP -> unsecured + rollover-sensitive
+CD -> negotiable short-term liability
+
+ASCII MASTER FLOW — PANEL 6/12: Regulatory division
+RBI -> money market + G-Secs + payment rails
+SEBI -> securities issuance + exchanges
+IFSCA -> unified IFSC perimeter
+KEEP instrument, venue and regulator distinct
+
+ASCII MASTER FLOW — PANEL 7/12: G-Sec trading infrastructure
+NDS-OM -> electronic G-Sec trading
+CCIL -> clearing and settlement
+SGL / DEMAT -> ownership records
+DIRECT / INDIRECT / BROKER CONNECT -> access modes
+
+ASCII MASTER FLOW — PANEL 8/12: Liquidity quality board
+DEPTH -> absorb order size
+BREADTH -> participant and instrument range
+IMMEDIACY -> transact quickly
+RESILIENCE -> recover after shocks
+
+ASCII MASTER FLOW — PANEL 9/12: Risk and return dimensions
+MATURITY is not LIQUIDITY
+LIQUIDITY is not SAFETY
+RATING is not GUARANTEE
+YIELD reflects expectations + premia + risk
+
+ASCII MASTER FLOW — PANEL 10/12: Payment-system fork
+RTGS -> real time + gross + transaction-wise
+NEFT -> batch settlement
+BOTH -> owner records continuous operation
+PAYMENT RAIL is not a capital-market security
+CLOSE DISTINCTION: Primary is not secondary, money market is not merely cash, yield is...
+
+ASCII MASTER FLOW — PANEL 11/12: Receivables and physical assets
+TReDS -> accepted MSME receivable discounting
+ETF / SWAP -> financial instruments
+MOTOR VEHICLE -> physical asset
+COLLATERAL status does not change asset class
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State issuer, maturity, claim, quotation,...
+
+ASCII MASTER FLOW — PANEL 12/12: Financial-market answer spine
+CLASSIFY tenor, issuer and claim
+MAP primary versus secondary function
+TRACE trading, clearing and settlement
+BALANCE depth with disclosure and resilience

@@ -1,0 +1,1064 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-14",
+  "subject": "Economy",
+  "title": "IRRIGATION, INPUTS, CREDIT, INSURANCE AND SUSTAINABLE AGRICULTURE",
+  "short_route": "IRRIGATION ACCOUNTING LADDER → PMKSY DISTINCTION BOARD → MICRO-IRRIGATION REBOUND → WATER-ENERGY-CROP NEXUS → WATERSHED RAIL → GROUNDWATER GOVERNANCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-14-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "6dbf6cc5abfedf3f0ee9e099c48b6b8db2864127d0c5892c128255c02f217967",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "IRRIGATION ACCOUNTING LADDER",
+      "structural_type": "measurement-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "IRRIGATION ACCOUNTING LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CREATED POTENTIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "UTILISED POTENTIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "RELIABLE FIELD DELIVERY",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER PRODUCTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "FARM OUTCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "AGRICULTURAL PRODUCTIVITY AND RESILIENCE DEPEND ON WATER, SOIL, SEED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CREATED POTENTIAL",
+        "UTILISED POTENTIAL",
+        "RELIABLE FIELD DELIVERY",
+        "WATER PRODUCTIVITY / FARM OUTCOME",
+        "MUST REMEMBER: Agricultural productivity and resilience depend on water, soil, seed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CREATED POTENTIAL",
+            "UTILISED POTENTIAL"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RELIABLE FIELD DELIVERY",
+            "WATER PRODUCTIVITY / FARM OUTCOME"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Agricultural productivity and resilience depend on water, soil, seed,...",
+            "CREATED POTENTIAL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Agricultural productivity and resilience depend on water, soil, seed,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PMKSY DISTINCTION BOARD",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PMKSY DISTINCTION BOARD",
+          "role": "comparison"
+        },
+        {
+          "text": "HAR KHET KO PANI",
+          "role": "outcome"
+        },
+        {
+          "text": "PER DROP MORE CROP",
+          "role": "comparison"
+        },
+        {
+          "text": "APPLICATION EFFICIENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE PLAN",
+          "role": "institution"
+        },
+        {
+          "text": "DECENTRALISED PROJECT CHOICE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE TO FIELD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HAR KHET KO PANI → access",
+        "PER DROP MORE CROP → application efficiency",
+        "STATE PLAN → decentralised project choice",
+        "CONVERGENCE → source to field"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HAR KHET KO PANI → access",
+          "STATE PLAN → decentralised project choice",
+          "HAR KHET KO PANI → access"
+        ],
+        [
+          "PER DROP MORE CROP → application efficiency",
+          "CONVERGENCE → source to field",
+          "PER DROP MORE CROP → application efficiency"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HAR KHET KO PANI → access",
+            "PER DROP MORE CROP → application efficiency"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATE PLAN → decentralised project choice",
+            "CONVERGENCE → source to field"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HAR KHET KO PANI → access",
+            "PER DROP MORE CROP → application efficiency"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE PLAN → decentralised project choice; CONVERGENCE → source to field.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MICRO-IRRIGATION REBOUND",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MICRO-IRRIGATION REBOUND",
+          "role": "primary"
+        },
+        {
+          "text": "LESS WATER PER UNIT",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWER PRIVATE COST",
+          "role": "comparison"
+        },
+        {
+          "text": "MORE AREA",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER-INTENSIVE CROP MAY PERSIST",
+          "role": "primary"
+        },
+        {
+          "text": "BASIN SAVING NOT AUTOMATIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LESS WATER PER UNIT",
+        "LOWER PRIVATE COST / MORE AREA",
+        "WATER-INTENSIVE CROP MAY PERSIST",
+        "BASIN SAVING NOT AUTOMATIC"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LESS WATER PER UNIT",
+            "LOWER PRIVATE COST / MORE AREA"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WATER-INTENSIVE CROP MAY PERSIST",
+            "BASIN SAVING NOT AUTOMATIC"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LESS WATER PER UNIT",
+            "LOWER PRIVATE COST / MORE AREA"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WATER-INTENSIVE CROP MAY PERSIST; BASIN SAVING NOT AUTOMATIC.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "WATER-ENERGY-CROP NEXUS",
+      "structural_type": "causal-triangle",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WATER-ENERGY-CROP NEXUS",
+          "role": "primary"
+        },
+        {
+          "text": "CHEAP POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "PROCUREMENT INCENTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "GROUNDWATER ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINT EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "EXTRACTION + CROP LOCK-IN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CHEAP POWER",
+        "PROCUREMENT INCENTIVE",
+        "GROUNDWATER ACCESS",
+        "JOINT EFFECT → extraction + crop lock-in"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHEAP POWER",
+            "PROCUREMENT INCENTIVE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GROUNDWATER ACCESS",
+            "JOINT EFFECT → extraction + crop lock-in"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHEAP POWER",
+            "PROCUREMENT INCENTIVE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GROUNDWATER ACCESS; JOINT EFFECT → extraction + crop lock-in.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WATERSHED RAIL",
+      "structural_type": "ridge-valley-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WATERSHED RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "VEGETATION + CONTOUR TREATMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "BUNDS + MOISTURE RETENTION",
+          "role": "comparison"
+        },
+        {
+          "text": "RECHARGE STRUCTURES",
+          "role": "evidence"
+        },
+        {
+          "text": "PRODUCTIVE USE + MAINTENANCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RIDGE → vegetation + contour treatment",
+        "MID-SLOPE → bunds + moisture retention",
+        "DRAINAGE → check / recharge structures",
+        "VALLEY → productive use + maintenance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RIDGE → vegetation + contour treatment",
+            "MID-SLOPE → bunds + moisture retention"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRAINAGE → check / recharge structures",
+            "VALLEY → productive use + maintenance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RIDGE → vegetation + contour treatment",
+            "MID-SLOPE → bunds + moisture retention"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DRAINAGE → check / recharge structures; VALLEY → productive use + maintenance.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GROUNDWATER GOVERNANCE",
+      "structural_type": "common-pool-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GROUNDWATER GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVATE PUMP",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED AQUIFER",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL WATER BUDGET",
+          "role": "evidence"
+        },
+        {
+          "text": "CROP + EXTRACTION RULES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRIVATE PUMP",
+        "SHARED AQUIFER",
+        "LOCAL WATER BUDGET",
+        "CROP + EXTRACTION RULES"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRIVATE PUMP",
+            "SHARED AQUIFER"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOCAL WATER BUDGET",
+            "CROP + EXTRACTION RULES"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRIVATE PUMP",
+            "SHARED AQUIFER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHARED AQUIFER; LOCAL WATER BUDGET; CROP + EXTRACTION RULES.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CREDIT-INSURANCE FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CREDIT-INSURANCE FORK",
+          "role": "primary"
+        },
+        {
+          "text": "PRE-HARVEST LIQUIDITY",
+          "role": "outcome"
+        },
+        {
+          "text": "COVERED-LOSS TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE ARCHITECTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "TRIGGER + ASSESSMENT + SETTLEMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "KCC → pre-harvest liquidity",
+        "INSURANCE → covered-loss transfer",
+        "NABARD / BANK → finance architecture",
+        "CLAIM → trigger + assessment + settlement"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "KCC → pre-harvest liquidity",
+          "NABARD / BANK → finance architecture",
+          "KCC → pre-harvest liquidity"
+        ],
+        [
+          "INSURANCE → covered-loss transfer",
+          "CLAIM → trigger + assessment + settlement",
+          "INSURANCE → covered-loss transfer"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KCC → pre-harvest liquidity",
+            "INSURANCE → covered-loss transfer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NABARD / BANK → finance architecture",
+            "CLAIM → trigger + assessment + settlement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KCC → pre-harvest liquidity",
+            "INSURANCE → covered-loss transfer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NABARD / BANK → finance architecture; CLAIM → trigger + assessment + settlement.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INSURANCE OUTCOME CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INSURANCE OUTCOME CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PREMIUM + NOTIFIED SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOSS ASSESSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMISSIBLE CLAIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PREMIUM + NOTIFIED SCOPE",
+        "LOSS ASSESSMENT",
+        "ADMISSIBLE CLAIM → SETTLEMENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PREMIUM + NOTIFIED SCOPE",
+            "LOSS ASSESSMENT"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADMISSIBLE CLAIM → SETTLEMENT",
+            "PREMIUM + NOTIFIED SCOPE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOSS ASSESSMENT",
+            "ADMISSIBLE CLAIM → SETTLEMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PREMIUM + NOTIFIED SCOPE; LOSS ASSESSMENT; ADMISSIBLE CLAIM → SETTLEMENT.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BASIS-RISK BOARD",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BASIS-RISK BOARD",
+          "role": "caution"
+        },
+        {
+          "text": "AREA YIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWER VERIFICATION COST",
+          "role": "comparison"
+        },
+        {
+          "text": "FARM LOSS",
+          "role": "evidence"
+        },
+        {
+          "text": "MAY DIVERGE",
+          "role": "primary"
+        },
+        {
+          "text": "WEATHER INDEX",
+          "role": "outcome"
+        },
+        {
+          "text": "PROXY TRIGGER",
+          "role": "comparison"
+        },
+        {
+          "text": "DATA + TIMELINESS DECIDE TRUST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AREA YIELD → lower verification cost",
+        "FARM LOSS → may diverge",
+        "WEATHER INDEX → proxy trigger",
+        "DATA + TIMELINESS decide trust"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AREA YIELD → lower verification cost",
+          "WEATHER INDEX → proxy trigger",
+          "AREA YIELD → lower verification cost"
+        ],
+        [
+          "FARM LOSS → may diverge",
+          "DATA + TIMELINESS decide trust",
+          "FARM LOSS → may diverge"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AREA YIELD → lower verification cost",
+            "FARM LOSS → may diverge"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WEATHER INDEX → proxy trigger",
+            "DATA + TIMELINESS decide trust"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AREA YIELD → lower verification cost",
+            "FARM LOSS → may diverge"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WEATHER INDEX → proxy trigger; DATA + TIMELINESS decide trust.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SUSTAINABLE-PRACTICE MAP",
+      "structural_type": "practice-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SUSTAINABLE-PRACTICE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MINIMUM DISTURBANCE + RESIDUE + ROTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DRIP + FERTIGATION + TENSIOMETER",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATED FARMING",
+          "role": "evidence"
+        },
+        {
+          "text": "CERTIFICATION AND TRANSITION CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "IRRIGATION POTENTIAL IS NOT UTILISED IRRIGATION, CREDIT SANCTION IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONSERVATION → minimum disturbance + residue + rotation",
+        "PRECISION → drip + fertigation + tensiometer",
+        "DIVERSIFICATION → integrated farming",
+        "ORGANIC → certification and transition context",
+        "CLOSE DISTINCTION: Irrigation potential is not utilised irrigation, credit sanction is"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONSERVATION → minimum disturbance + residue + rotation",
+            "PRECISION → drip + fertigation + tensiometer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIVERSIFICATION → integrated farming",
+            "ORGANIC → certification and transition context"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Irrigation potential is not utilised irrigation, credit sanction is...",
+            "CONSERVATION → minimum disturbance + residue + rotation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Irrigation potential is not utilised irrigation, credit sanction is.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TENANT-ACCESS GATE",
+      "structural_type": "eligibility-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TENANT-ACCESS GATE",
+          "role": "primary"
+        },
+        {
+          "text": "ACTUAL CULTIVATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "LEASE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "INSURANCE ELIGIBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "COVERAGE OR EXCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "STATE UNIT, SEASON, BENEFICIARY DENOMINATOR",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ACTUAL CULTIVATOR",
+        "RECORD / LEASE EVIDENCE",
+        "CREDIT / INSURANCE ELIGIBILITY",
+        "COVERAGE OR EXCLUSION",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State unit, season, beneficiary denominator"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ACTUAL CULTIVATOR",
+            "RECORD / LEASE EVIDENCE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CREDIT / INSURANCE ELIGIBILITY",
+            "COVERAGE OR EXCLUSION"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State unit, season, beneficiary denominator...",
+            "ACTUAL CULTIVATOR"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State unit, season, beneficiary denominator.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "RESILIENCE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "RESILIENCE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE POTENTIAL, USE AND EFFICIENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "LINK WATER, ENERGY, CROP AND CREDIT",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACE ENROLMENT TO CLAIM SETTLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUDE WITH AQUIFER + TENANT GOVERNANCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SEPARATE potential, use and efficiency",
+        "LINK water, energy, crop and credit",
+        "TRACE enrolment to claim settlement",
+        "CONCLUDE with aquifer + tenant governance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SEPARATE potential, use and efficiency",
+            "LINK water, energy, crop and credit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE enrolment to claim settlement",
+            "CONCLUDE with aquifer + tenant governance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEPARATE potential, use and efficiency",
+            "LINK water, energy, crop and credit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRACE enrolment to claim settlement; CONCLUDE with aquifer + tenant governance.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "WATER PRICING, ELECTRICITY PRICING, PROCUREMENT INCENTIVES AND CROP CHOICE",
+          "role": "outcome"
+        },
+        {
+          "text": "MICRO-IRRIGATION SAVES WATER AT PLOT LEVEL, BUT BASIN-LEVEL SAVINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMAL TENANTS MAY GAIN CREDIT AND INSURANCE ACCESS, YET",
+          "role": "evidence"
+        },
+        {
+          "text": "AREA-YIELD INSURANCE REDUCES INDIVIDUAL VERIFICATION COSTS BUT INTRODUCES BASIS",
+          "role": "primary"
+        },
+        {
+          "text": "CLIMATE ADAPTATION REQUIRES STRESS-TOLERANT SEEDS, ADVISORIES, WATER MANAGEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC EXTENSION IS A KNOWLEDGE INFRASTRUCTURE CONNECTING RESEARCH WITH",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL AND STATE IRRIGATION DEPARTMENTS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Water pricing, electricity pricing, procurement incentives and crop choice form one",
+            "CAUTION: Micro-irrigation saves water at plot level, but basin-level savings require limits on",
+            "CAUTION: Formal tenants may gain credit and insurance access, yet insecure records create",
+            "CAUTION: Area-yield insurance reduces individual verification costs but introduces basis risk."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Climate adaptation requires stress-tolerant seeds, advisories, water management,",
+            "CAUTION: Public extension is a knowledge infrastructure connecting research with local decision",
+            "Central and state irrigation departments: build and manage major, medium and minor",
+            "NABARD, banks and co-operatives: finance agricultural investment and seasonal"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Agricultural Insurance Company and empanelled insurers: implement crop-insurance",
+            "ICAR, KVKs and state extension systems: provide research, advisories and farm-level",
+            "CAUTION: Drip irrigation can reduce water applied per crop, but total aquifer extraction may",
+            "CAUTION: Free power lowers the pumping cost seen by an individual farmer while accelerating"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1749 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Indian Legal and Institutional Architecture - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 367.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 67,
+      "markdown_body_line_end": 67,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\assets\\disaster-management-02_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 584.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 276.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 81,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read DM Act and amendment chronology as a sequence: identify DM Act foundation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 96,
+      "markdown_body_line_end": 103,
+      "heading": "VISUAL FIRST",
+      "preview": "DM ACT AND AMENDMENT CHRONOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 157,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DM ACT AND AMENDMENT CHRONOLOGY",
+      "preview": "START / CONCEPT: FOUNDATION — DM Act and amendment chronology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 168,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 187,
+      "heading": "VISUAL FIRST",
+      "preview": "NDMA POLICY AND PLAN AUTHORITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 240,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NDMA POLICY AND PLAN AUTHORITY",
+      "preview": "START / CONCEPT: FOUNDATION — NDMA policy and plan authority",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 137.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 251,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NEC coordination and implementation as a sequence: identify NEC, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 270,
+      "heading": "VISUAL FIRST",
+      "preview": "NEC COORDINATION AND IMPLEMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 323,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NEC COORDINATION AND IMPLEMENTATION",
+      "preview": "START / CONCEPT: FOUNDATION — NEC coordination and implementation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 334,
+      "markdown_body_line_end": 334,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: SDMA Qualified use: Show how the State tier adapts national direction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 399.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 346.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 353,
+      "heading": "VISUAL FIRST",
+      "preview": "SDMA AND STATE POLICY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 406,
+      "heading": "CLOSING RECALL FLOW - CORE - SDMA AND STATE POLICY",
+      "preview": "START / CONCEPT: CORE — SDMA and State policy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 417,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 436,
+      "heading": "VISUAL FIRST",
+      "preview": "SEC IMPLEMENTATION LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 381.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 489,
+      "heading": "CLOSING RECALL FLOW - CORE - SEC IMPLEMENTATION LAYER",
+      "preview": "START / CONCEPT: CORE — SEC implementation layer",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 500,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read DDMA and district operational planning as a sequence: identify DDMA, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 370.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 303.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 522,
+      "heading": "VISUAL FIRST",
+      "preview": "DDMA AND DISTRICT OPERATIONAL PLANNING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 576,
+      "heading": "CLOSING RECALL FLOW - CORE - DDMA AND DISTRICT OPERATIONAL PLANNING",
+      "preview": "START / CONCEPT: CORE — DDMA and district operational planning",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 258.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 47.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 587,
+      "markdown_body_line_end": 587,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Local authorities and subsidiarity as a sequence: identify NDRF force, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 602,
+      "markdown_body_line_end": 606,
+      "heading": "VISUAL FIRST",
+      "preview": "LOCAL AUTHORITIES AND SUBSIDIARITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 659,
+      "heading": "CLOSING RECALL FLOW - CORE - LOCAL AUTHORITIES AND SUBSIDIARITY",
+      "preview": "START / CONCEPT: CORE — Local authorities and subsidiarity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 670,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NDRF force architecture as a sequence: identify NDRF fund, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 399.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 332.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 689,
+      "heading": "VISUAL FIRST",
+      "preview": "NDRF FORCE ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 742,
+      "heading": "CLOSING RECALL FLOW - CORE - NDRF FORCE ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — NDRF force architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 753,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NDRF force versus fund as a sequence: identify NIDM, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 772,
+      "heading": "VISUAL FIRST",
+      "preview": "NDRF FORCE VERSUS FUND",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 825,
+      "heading": "CLOSING RECALL FLOW - CORE - NDRF FORCE VERSUS FUND",
+      "preview": "START / CONCEPT: CORE — NDRF force versus fund",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 836,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NIDM capacity-building mandate as a sequence: identify NCMC and HLC, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 855,
+      "heading": "VISUAL FIRST",
+      "preview": "NIDM CAPACITY-BUILDING MANDATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 908,
+      "heading": "CLOSING RECALL FLOW - CORE - NIDM CAPACITY-BUILDING MANDATE",
+      "preview": "START / CONCEPT: CORE — NIDM capacity-building mandate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 919,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NCMC and High Level Committee as a sequence: identify Urban authority, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 934,
+      "markdown_body_line_end": 941,
+      "heading": "VISUAL FIRST",
+      "preview": "NCMC AND HIGH LEVEL COMMITTEE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 995,
+      "heading": "CLOSING RECALL FLOW - CORE - NCMC AND HIGH LEVEL COMMITTEE",
+      "preview": "START / CONCEPT: CORE — NCMC and High Level Committee",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1006,
+      "markdown_body_line_end": 1006,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Urban authority and State response force as a sequence: identify Plan responsibility, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 268.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 201.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1021,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "URBAN AUTHORITY AND STATE RESPONSE FORCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1078,
+      "heading": "CLOSING RECALL FLOW - CORE - URBAN AUTHORITY AND STATE RESPONSE FORCE",
+      "preview": "START / CONCEPT: CORE — Urban authority and State response force",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1089,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1104,
+      "markdown_body_line_end": 1108,
+      "heading": "VISUAL FIRST",
+      "preview": "NATIONAL STATE AND DISTRICT PLANS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1161,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - NATIONAL STATE AND DISTRICT PLANS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — National State and District plans",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1172,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 370.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 303.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1187,
+      "markdown_body_line_end": 1194,
+      "heading": "VISUAL FIRST",
+      "preview": "RESPONSE AND MITIGATION FUNDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1248,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RESPONSE AND MITIGATION FUNDS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Response and mitigation funds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1259,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Federal coordination and mandate-outcome proof as a sequence: identify Federal cascade, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1281,
+      "heading": "VISUAL FIRST",
+      "preview": "FEDERAL COORDINATION AND MANDATE-OUTCOME PROOF",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1325,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Disaster Management Act, 2005; NDMA, SDMA, DDMA, NEC, NIDM, NDRF; the National Disaster Management Plan; disaster-finance architecture ",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 270.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 147.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1329,
+      "markdown_body_line_end": 1346,
+      "heading": "1. Visual foundation",
+      "preview": "DISASTER MANAGEMENT ACT, 2005",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1369,
+      "heading": "2. Essential definitions",
+      "preview": "Institution | Exam-ready mandate",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Institution",
+          "Exam-ready mandate"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 537.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 502.29
+        }
+      },
+      "pdf_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1582,
+      "markdown_body_line_end": 1585,
+      "heading": "13. Core-only answer architecture - law, tiers and implementation",
+      "preview": "**Core firewall:** this is the complete Core route for the 2020 proactive-versus-reactive DM question and the institutional limb of any hazard answer. Do not send a candidate to `advanced/02` for the 2025-amendment, funding or local-capacit",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 327.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1589,
+      "markdown_body_line_end": 1594,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Why it supports the claim | Limitation / qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Why it supports the claim",
+          "Limitation / qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 408.39
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1624,
+      "markdown_body_line_end": 1641,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FEDERAL COORDINATION AND MANDATE-OUTCOME PROOF",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Federal coordination and mandate-outcome proof",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2804,
+      "markdown_body_line_end": 2811,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** The 2025 amendment's significance; disaster database, Urban Disaster Management Authority and NCMC/HLC statutory status; federal capacity and distr",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 409.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 308.024
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2827,
+      "markdown_body_line_end": 2844,
+      "heading": "2. Risk-system analysis",
+      "preview": "NATIONAL POLICY/PLAN LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3103,
+      "markdown_body_line_end": 3111,
+      "heading": "Indian Legal and Institutional Architecture: FEDERAL COORDINATION AND CAPACITY ANSWER SPINE",
+      "preview": "CITE THE 2005 ACT AS AMENDED IN 2025",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 490.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 409.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3121,
+      "markdown_body_line_end": 3126,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Statutory chronology",
+      "preview": "2005 -> DISASTER MANAGEMENT ACT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3130,
+      "markdown_body_line_end": 3135,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: National tier",
+      "preview": "NDMA -> policy, plans, guidelines",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3139,
+      "markdown_body_line_end": 3144,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: State tier",
+      "preview": "SDMA -> state policy and State Plan",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3148,
+      "markdown_body_line_end": 3153,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: District-local cascade",
+      "preview": "DDMA -> District Plan and coordination",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3157,
+      "markdown_body_line_end": 3162,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: NDRF acronym firewall",
+      "preview": "FORCE -> specialist personnel and response teams",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3166,
+      "markdown_body_line_end": 3171,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: NIDM knowledge chain",
+      "preview": "RESEARCH -> DOCUMENTATION -> TRAINING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3175,
+      "markdown_body_line_end": 3180,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: 2025 amendment map",
+      "preview": "8A NCMC | 8B HLC",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3184,
+      "markdown_body_line_end": 3189,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Plan responsibility matrix",
+      "preview": "NATIONAL PLAN -> NDMA preparation / approval architecture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3193,
+      "markdown_body_line_end": 3198,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Fund architecture",
+      "preview": "NATIONAL -> response s46 | mitigation s47",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3202,
+      "markdown_body_line_end": 3208,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Federal operating chain",
+      "preview": "NATIONAL GUIDANCE -> STATE ADAPTATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3212,
+      "markdown_body_line_end": 3218,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Evidence-rung ladder",
+      "preview": "ACT -> RULE / NOTIFICATION -> AUTHORITY / PLAN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3222,
+      "markdown_body_line_end": 3228,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Institutional answer spine",
+      "preview": "CITE CURRENT LAW -> NAME TIER -> STATE MANDATE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    }
+  ]
+}

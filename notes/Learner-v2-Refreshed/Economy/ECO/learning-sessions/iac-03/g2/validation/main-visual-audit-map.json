@@ -1,0 +1,2267 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Inflation, Price Indices and Business Cycles - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 62,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\assets\\economy-03_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 712.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 404.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 231.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 164.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 98,
+      "heading": "VISUAL FIRST",
+      "preview": "INFLATION STATES, HEADLINE AND CORE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 676.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 144,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INFLATION STATES, HEADLINE AND CORE",
+      "preview": "START / CONCEPT: FOUNDATION — Inflation states, headline and core",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 88.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 155,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 174,
+      "heading": "VISUAL FIRST",
+      "preview": "CPI AS THE HOUSEHOLD AND POLICY BASKET",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 219,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CPI AS THE HOUSEHOLD AND POLICY BASKET",
+      "preview": "START / CONCEPT: FOUNDATION — CPI as the household and policy basket",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 249,
+      "heading": "VISUAL FIRST",
+      "preview": "WPI AS THE WHOLESALE-GOODS BASKET",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 294,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WPI AS THE WHOLESALE-GOODS BASKET",
+      "preview": "START / CONCEPT: FOUNDATION — WPI as the wholesale-goods basket",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 209.691
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 305,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 324,
+      "heading": "VISUAL FIRST",
+      "preview": "GDP DEFLATOR AND DOMESTIC OUTPUT PRICES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 352,
+      "markdown_body_line_end": 369,
+      "heading": "CLOSING RECALL FLOW - CORE - GDP DEFLATOR AND DOMESTIC OUTPUT PRICES",
+      "preview": "START / CONCEPT: CORE — GDP deflator and domestic output prices",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 380,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Demand-pull inflation Qualified use: Separate measurement from mechanism and assign each policy tool to the shock it can influence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 399,
+      "heading": "VISUAL FIRST",
+      "preview": "DEMAND-PULL INFLATION AND AVAILABLE OUTPUT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 444,
+      "heading": "CLOSING RECALL FLOW - CORE - DEMAND-PULL INFLATION AND AVAILABLE OUTPUT",
+      "preview": "START / CONCEPT: CORE — Demand-pull inflation and available output",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 455,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 477,
+      "heading": "VISUAL FIRST",
+      "preview": "COST-PUSH SHOCKS, OUTPUT GAPS AND STAGFLATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 523,
+      "heading": "CLOSING RECALL FLOW - CORE - COST-PUSH SHOCKS, OUTPUT GAPS AND STAGFLATION",
+      "preview": "START / CONCEPT: CORE — Cost-push shocks, output gaps and stagflation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 534,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Expectations and persistence Qualified use: Diagnose the source, breadth, persistence and expectations channel before prescribing policy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 553,
+      "heading": "VISUAL FIRST",
+      "preview": "EXPECTATIONS, WAGES AND PERSISTENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 598,
+      "heading": "CLOSING RECALL FLOW - CORE - EXPECTATIONS, WAGES AND PERSISTENCE",
+      "preview": "START / CONCEPT: CORE — Expectations, wages and persistence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 609,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Policy assignment Qualified use: Separate measurement from mechanism and assign each policy tool to the shock it can influence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 628,
+      "heading": "VISUAL FIRST",
+      "preview": "MONETARY AND SUPPLY-SIDE POLICY ASSIGNMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 656,
+      "markdown_body_line_end": 673,
+      "heading": "CLOSING RECALL FLOW - CORE - MONETARY AND SUPPLY-SIDE POLICY ASSIGNMENT",
+      "preview": "START / CONCEPT: CORE — Monetary and supply-side policy assignment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 684,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 703,
+      "heading": "VISUAL FIRST",
+      "preview": "THE LOCKDOWN SUPPLY-SHOCK LESSON",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 748,
+      "heading": "CLOSING RECALL FLOW - CORE - THE LOCKDOWN SUPPLY-SHOCK LESSON",
+      "preview": "START / CONCEPT: CORE — The lockdown supply-shock lesson",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 189.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 759,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Imported commodity pass-through Qualified use: Diagnose the source, breadth, persistence and expectations channel before prescribing policy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 778,
+      "heading": "VISUAL FIRST",
+      "preview": "IMPORTED COMMODITY PASS-THROUGH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - IMPORTED COMMODITY PASS-THROUGH",
+      "preview": "START / CONCEPT: CORE — Imported commodity pass-through",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Food-price administration - Index divergence Qualified use: Separate measurement from mechanism and assign each policy tool to the shock it can influence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 856,
+      "heading": "VISUAL FIRST",
+      "preview": "FOOD-PRICE TOOLS AND INDEX DIVERGENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 902,
+      "heading": "CLOSING RECALL FLOW - CORE - FOOD-PRICE TOOLS AND INDEX DIVERGENCE",
+      "preview": "START / CONCEPT: CORE — Food-price tools and index divergence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 359.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 128.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Inflation targeting framework Qualified use: Conclude with price stability as protection for real income without ignoring growth and producer incentives.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 932,
+      "heading": "VISUAL FIRST",
+      "preview": "FLEXIBLE INFLATION TARGETING AND THE MPC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 960,
+      "markdown_body_line_end": 977,
+      "heading": "CLOSING RECALL FLOW - CORE - FLEXIBLE INFLATION TARGETING AND THE MPC",
+      "preview": "START / CONCEPT: CORE — Flexible inflation targeting and the MPC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 988,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Distributional incidence Qualified use: Diagnose the source, breadth, persistence and expectations channel before prescribing policy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1007,
+      "heading": "VISUAL FIRST",
+      "preview": "DISTRIBUTIONAL INCIDENCE OF INFLATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1052,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DISTRIBUTIONAL INCIDENCE OF INFLATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Distributional incidence of inflation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1063,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1085,
+      "heading": "VISUAL FIRST",
+      "preview": "PHILLIPS-CURVE LIMITS AND BUSINESS CYCLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1131,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PHILLIPS-CURVE LIMITS AND BUSINESS CYCLES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Phillips-curve limits and business cycles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands r",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 398.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 317.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1164,
+      "heading": "VISUAL FIRST",
+      "preview": "DEMAND TRAPS, MONETISATION AND PRICE-SERIES BREAKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1196,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Macroeconomic stability. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 310.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 201.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1214,
+      "heading": "1. Visual foundation",
+      "preview": "1. SHOCK TO DEMAND, COSTS OR SUPPLY",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1230,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 595.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 345.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1375,
+      "markdown_body_line_end": 1375,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Diagnose inflation by source, breadth, persistence and expectations; assign demand management to monetary policy and physical bottlenecks to supply-side action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1426,
+      "markdown_body_line_end": 1427,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 733.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 666.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1433,
+      "markdown_body_line_end": 1435,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 615.224
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 528.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1441,
+      "markdown_body_line_end": 1441,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 489.622
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 444.954
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1448,
+      "markdown_body_line_end": 1450,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 444.954
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 349.887
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1456,
+      "markdown_body_line_end": 1463,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 477.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1474,
+      "markdown_body_line_end": 1474,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 352.69
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 308.022
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1479,
+      "markdown_body_line_end": 1496,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DEMAND TRAPS, MONETISATION AND PRICE-SERIES BREAKS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Demand traps, monetisation and price-series breaks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1725
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 273.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2321,
+      "markdown_body_line_end": 2322,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 183.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 116.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2328,
+      "markdown_body_line_end": 2330,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 716.89
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2336,
+      "markdown_body_line_end": 2336,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 677.69
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 633.022
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2343,
+      "markdown_body_line_end": 2345,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 633.022
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 537.954
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2351,
+      "markdown_body_line_end": 2358,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 486.354
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 160.953
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2369,
+      "markdown_body_line_end": 2369,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2381,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 683.024
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 616.356
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2387,
+      "markdown_body_line_end": 2389,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 564.756
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 467.854
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2395,
+      "markdown_body_line_end": 2395,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 428.654
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 383.987
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2709,
+      "markdown_body_line_end": 2713,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Macroeconomic stability. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 523.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 435.824
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2717,
+      "markdown_body_line_end": 2731,
+      "heading": "1. Architecture",
+      "preview": "1. shock to demand, costs or supply",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 413.824
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 272.824
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2738,
+      "markdown_body_line_end": 2744,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 222.424
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 91.822
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2835,
+      "markdown_body_line_end": 2839,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 322.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 200.69
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2889,
+      "markdown_body_line_end": 2890,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 340.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 274.024
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2896,
+      "markdown_body_line_end": 2898,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 222.424
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 125.522
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2904,
+      "markdown_body_line_end": 2904,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 86.322
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 41.654
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2949,
+      "markdown_body_line_end": 2957,
+      "heading": "Inflation, Price Indices and Business Cycles: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 539.891
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 458.891
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2967,
+      "markdown_body_line_end": 2973,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three price-level states",
+      "preview": "INFLATION -> prices rise",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 325.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 263.291
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2977,
+      "markdown_body_line_end": 2982,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: CPI-WPI-deflator matrix",
+      "preview": "CPI -> retail basket + services",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2986,
+      "markdown_body_line_end": 2991,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Demand-pull chain",
+      "preview": "SPENDING > AVAILABLE OUTPUT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2995,
+      "markdown_body_line_end": 3000,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Supply-shock chain",
+      "preview": "CROP / OIL / LOGISTICS SHOCK",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3009,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Output gap fork",
+      "preview": "NEGATIVE GAP -> weak demand",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3013,
+      "markdown_body_line_end": 3018,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Expectations loop",
+      "preview": "PRICE SHOCK",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3022,
+      "markdown_body_line_end": 3027,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Policy assignment board",
+      "preview": "RBI -> rates + liquidity + communication",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3031,
+      "markdown_body_line_end": 3036,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: India shock timeline",
+      "preview": "2020 -> lockdown logistics shock",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3040,
+      "markdown_body_line_end": 3045,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Distributional incidence",
+      "preview": "POOR -> high food and fuel share",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3049,
+      "markdown_body_line_end": 3055,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Business-cycle rail",
+      "preview": "TROUGH -> RECOVERY -> EXPANSION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3059,
+      "markdown_body_line_end": 3065,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Index-series break",
+      "preview": "CPI 2024=100 -> releases from JAN 2026",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3069,
+      "markdown_body_line_end": 3074,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Inflation answer spine",
+      "preview": "IDENTIFY index + component",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    }
+  ]
+}

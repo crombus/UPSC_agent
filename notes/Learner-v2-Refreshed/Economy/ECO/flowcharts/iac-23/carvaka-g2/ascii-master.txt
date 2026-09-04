@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Poverty and inequality map
+POVERTY -> threshold shortfall
+INEQUALITY -> distributional dispersion
+BOTH can move differently
+STATE metric + data base
+MUST REMEMBER: Poverty, inequality and inclusion require distinct incidence, depth,...
+
+ASCII MASTER FLOW — PANEL 2/12: Poverty-measure ladder
+HEADCOUNT -> incidence
+POVERTY GAP -> depth
+SEVERITY -> distribution among poor
+MPI -> multiple deprivations
+
+ASCII MASTER FLOW — PANEL 3/12: Methodology clock
+LINE + BASKET
+PRICE BASIS + SURVEY
+REFERENCE PERIOD
+COMPARABILITY before trend
+
+ASCII MASTER FLOW — PANEL 4/12: Committee distinction
+TENDULKAR -> one methodology vintage
+RANGARAJAN -> revised basket + threshold
+NO TIMELESS current line
+ATTRIBUTE every estimate
+
+ASCII MASTER FLOW — PANEL 5/12: Lorenz and Gini map
+PERFECT-EQUALITY LINE
+LORENZ CURVE
+AREA -> GINI summary
+INCOME / CONSUMPTION / WEALTH differ
+
+ASCII MASTER FLOW — PANEL 6/12: MPI construction rail
+12 INDICATORS
+-> deprivation score
+-> H headcount + A intensity
+-> MPI = H x A
+
+ASCII MASTER FLOW — PANEL 7/12: MPI vintage boundary
+NFHS-5 2019-21 -> observed base
+2022-23 -> projected estimate
+NOT fresh survey
+COMPARE editions cautiously
+
+ASCII MASTER FLOW — PANEL 8/12: Inclusive-growth engine
+PRODUCTIVE JOBS + ASSETS
+QUALITY HEALTH + EDUCATION
+REDISTRIBUTION + PROTECTION
+CAPABILITY + MOBILITY
+
+ASCII MASTER FLOW — PANEL 9/12: Social-spending results chain
+ALLOCATION
+-> RELEASE -> SPENDING
+-> SERVICE ACCESS + QUALITY
+-> HOUSEHOLD OUTCOME
+
+ASCII MASTER FLOW — PANEL 10/12: Protection architecture
+ASSISTANCE -> need/category
+INSURANCE -> pooled risk
+UNIVERSAL SERVICES -> broad access
+TARGETING -> exclusion risk
+CLOSE DISTINCTION: Poverty headcount is not poverty gap, income is not consumption, Gini...
+
+ASCII MASTER FLOW — PANEL 11/12: Named instrument boundary
+MGNREGA -> work guarantee
+NFSA -> food entitlement
+HEALTH INSURANCE -> hospitalisation protection
+FINANCE -> access + usage + quality
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State survey, line/method, unit, price...
+
+ASCII MASTER FLOW — PANEL 12/12: Inclusive-growth answer spine
+FIX metric + vintage
+TRACE jobs + services + transfers
+DISAGGREGATE groups + places
+CONCLUDE capability + resilience

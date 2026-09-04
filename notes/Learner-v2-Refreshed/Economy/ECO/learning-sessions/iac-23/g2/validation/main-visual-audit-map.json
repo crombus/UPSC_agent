@@ -1,0 +1,2268 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-23\\g2\\economy-23_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-23\\g2\\economy-23_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-23",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Poverty, Inequality, Social Sector and Inclusive Growth - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 62,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-23\\g2\\assets\\economy-23_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 712.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 404.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 236.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 169.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 98,
+      "heading": "VISUAL FIRST",
+      "preview": "POVERTY AND INEQUALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 676.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 144,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - POVERTY AND INEQUALITY",
+      "preview": "START / CONCEPT: FOUNDATION — Poverty and inequality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 291.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 80.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 155,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 174,
+      "heading": "VISUAL FIRST",
+      "preview": "ABSOLUTE AND RELATIVE POVERTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 219,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ABSOLUTE AND RELATIVE POVERTY",
+      "preview": "START / CONCEPT: FOUNDATION — Absolute and relative poverty",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 249,
+      "heading": "VISUAL FIRST",
+      "preview": "HEADCOUNT RATIO AND POVERTY GAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 294,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - HEADCOUNT RATIO AND POVERTY GAP",
+      "preview": "START / CONCEPT: FOUNDATION — Headcount ratio and poverty gap",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 199.691
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 305,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 324,
+      "heading": "VISUAL FIRST",
+      "preview": "POVERTY-LINE METHOD AND VINTAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 352,
+      "markdown_body_line_end": 369,
+      "heading": "CLOSING RECALL FLOW - CORE - POVERTY-LINE METHOD AND VINTAGE",
+      "preview": "START / CONCEPT: CORE — Poverty-line method and vintage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 380,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 399,
+      "heading": "VISUAL FIRST",
+      "preview": "TENDULKAR AND RANGARAJAN METHODS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 444,
+      "heading": "CLOSING RECALL FLOW - CORE - TENDULKAR AND RANGARAJAN METHODS",
+      "preview": "START / CONCEPT: CORE — Tendulkar and Rangarajan methods",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 455,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: MPI architecture - MPI formula Qualified use: Combine productive participation, universal basics, targeted protection and disaggregated accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 477,
+      "heading": "VISUAL FIRST",
+      "preview": "LORENZ CURVE AND GINI COEFFICIENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 523,
+      "heading": "CLOSING RECALL FLOW - CORE - LORENZ CURVE AND GINI COEFFICIENT",
+      "preview": "START / CONCEPT: CORE — Lorenz curve and Gini coefficient",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 534,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 379.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 553,
+      "heading": "VISUAL FIRST",
+      "preview": "NATIONAL MULTIDIMENSIONAL POVERTY INDEX",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 598,
+      "heading": "CLOSING RECALL FLOW - CORE - NATIONAL MULTIDIMENSIONAL POVERTY INDEX",
+      "preview": "START / CONCEPT: CORE — National Multidimensional Poverty Index",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 175.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 609,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 628,
+      "heading": "VISUAL FIRST",
+      "preview": "MPI HEADCOUNT, INTENSITY AND FORMULA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 656,
+      "markdown_body_line_end": 673,
+      "heading": "CLOSING RECALL FLOW - CORE - MPI HEADCOUNT, INTENSITY AND FORMULA",
+      "preview": "START / CONCEPT: CORE — MPI headcount, intensity and formula",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 684,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Growth elasticity of poverty Qualified use: Combine productive participation, universal basics, targeted protection and disaggregated accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 703,
+      "heading": "VISUAL FIRST",
+      "preview": "OBSERVED AND PROJECTED MPI ESTIMATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 748,
+      "heading": "CLOSING RECALL FLOW - CORE - OBSERVED AND PROJECTED MPI ESTIMATES",
+      "preview": "START / CONCEPT: CORE — Observed and projected MPI estimates",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 219.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 759,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 98.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 778,
+      "heading": "VISUAL FIRST",
+      "preview": "INCLUSIVE GROWTH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - INCLUSIVE GROWTH",
+      "preview": "START / CONCEPT: CORE — Inclusive growth",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not use poverty and inequality as synonyms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 413.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 856,
+      "heading": "VISUAL FIRST",
+      "preview": "GROWTH ELASTICITY OF POVERTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 902,
+      "heading": "CLOSING RECALL FLOW - CORE - GROWTH ELASTICITY OF POVERTY",
+      "preview": "START / CONCEPT: CORE — Growth elasticity of poverty",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 114.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: MGNREGA boundary Qualified use: Combine productive participation, universal basics, targeted protection and disaggregated accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 932,
+      "heading": "VISUAL FIRST",
+      "preview": "SOCIAL-SECTOR SPENDING RESULTS CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 960,
+      "markdown_body_line_end": 977,
+      "heading": "CLOSING RECALL FLOW - CORE - SOCIAL-SECTOR SPENDING RESULTS CHAIN",
+      "preview": "START / CONCEPT: CORE — Social-sector spending results chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 988,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1007,
+      "heading": "VISUAL FIRST",
+      "preview": "UNIVERSAL PROVISION AND TARGETING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1052,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - UNIVERSAL PROVISION AND TARGETING",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Universal provision and targeting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 185.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1063,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1085,
+      "heading": "VISUAL FIRST",
+      "preview": "SOCIAL ASSISTANCE, INSURANCE AND PUBLIC SERVICES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1131,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - SOCIAL ASSISTANCE, INSURANCE AND PUBLIC SERVICES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Social assistance, insurance and public services",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ Poverty can fall on a chosen line while inequality (Gini) rises if growth disproportionately benefits upper deciles, so headline poverty-decline claims must be paired with an inequality check. ⚠️ Unresolved Tendulkar-versus-Rangarajan (a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 487.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1164,
+      "heading": "VISUAL FIRST",
+      "preview": "MGNREGA, NFSA, HEALTH PROTECTION, FINANCE AND SHOCK RESPONSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 306.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 235.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1196,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Poverty and inclusion. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Pr",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 511.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1214,
+      "heading": "1. Visual foundation",
+      "preview": "1. PRODUCTIVE GROWTH AND PUBLIC REVENUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 489.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 348.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1222,
+      "markdown_body_line_end": 1228,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 298.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 156.222
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1484,
+      "markdown_body_line_end": 1484,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Inclusive growth combines market participation, quality public services, redistribution and protection against shocks; no single instrument can perform all four roles.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 716.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 671.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1556,
+      "markdown_body_line_end": 1557,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 499.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 433.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1563,
+      "markdown_body_line_end": 1565,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 381.624
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 305.722
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1571,
+      "markdown_body_line_end": 1571,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 266.522
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 221.854
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1580,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 221.854
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 126.787
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1592,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 477.39
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1602,
+      "markdown_body_line_end": 1602,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 369.39
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 324.722
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1607,
+      "markdown_body_line_end": 1624,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MGNREGA, NFSA, HEALTH PROTECTION, FINANCE AND SHOCK RESPONSE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — MGNREGA, NFSA, health protection, finance and shock response",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 2141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 313.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2506,
+      "markdown_body_line_end": 2507,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 283.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 216.824
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2513,
+      "markdown_body_line_end": 2515,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 165.224
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 89.322
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2521,
+      "markdown_body_line_end": 2521,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2528,
+      "markdown_body_line_end": 2530,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 663.556
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2536,
+      "markdown_body_line_end": 2542,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 611.956
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 286.054
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2552,
+      "markdown_body_line_end": 2552,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 178.054
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 133.387
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2565,
+      "markdown_body_line_end": 2566,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2572,
+      "markdown_body_line_end": 2577,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 651.624
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 409.222
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2586,
+      "markdown_body_line_end": 2586,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 318.422
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 273.754
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2974,
+      "markdown_body_line_end": 2978,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Poverty and inclusion. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 20",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 708.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 621.224
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2982,
+      "markdown_body_line_end": 2996,
+      "heading": "1. Architecture",
+      "preview": "1. productive growth and public revenue",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 599.224
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 458.224
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3010,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 407.824
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 266.022
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3096,
+      "markdown_body_line_end": 3100,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 568.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 423.89
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3146,
+      "markdown_body_line_end": 3147,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 609.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 542.624
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3153,
+      "markdown_body_line_end": 3158,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 491.024
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 248.622
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3167,
+      "markdown_body_line_end": 3167,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 157.822
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 113.154
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3210,
+      "markdown_body_line_end": 3218,
+      "heading": "Poverty, Inequality, Social Sector and Inclusive Growth: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 574.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3228,
+      "markdown_body_line_end": 3234,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Poverty and inequality map",
+      "preview": "POVERTY -> threshold shortfall",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 359.691
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 297.691
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3238,
+      "markdown_body_line_end": 3243,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Poverty-measure ladder",
+      "preview": "HEADCOUNT -> incidence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3247,
+      "markdown_body_line_end": 3252,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Methodology clock",
+      "preview": "LINE + BASKET",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 26
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3256,
+      "markdown_body_line_end": 3261,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Committee distinction",
+      "preview": "TENDULKAR -> one methodology vintage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3265,
+      "markdown_body_line_end": 3270,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Lorenz and Gini map",
+      "preview": "PERFECT-EQUALITY LINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3274,
+      "markdown_body_line_end": 3279,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: MPI construction rail",
+      "preview": "12 INDICATORS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3283,
+      "markdown_body_line_end": 3288,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: MPI vintage boundary",
+      "preview": "NFHS-5 2019-21 -> observed base",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3292,
+      "markdown_body_line_end": 3297,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Inclusive-growth engine",
+      "preview": "PRODUCTIVE JOBS + ASSETS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3301,
+      "markdown_body_line_end": 3306,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Social-spending results chain",
+      "preview": "ALLOCATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3310,
+      "markdown_body_line_end": 3316,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Protection architecture",
+      "preview": "ASSISTANCE -> need/category",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3320,
+      "markdown_body_line_end": 3326,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Named instrument boundary",
+      "preview": "MGNREGA -> work guarantee",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3330,
+      "markdown_body_line_end": 3335,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Inclusive-growth answer spine",
+      "preview": "FIX metric + vintage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    }
+  ]
+}

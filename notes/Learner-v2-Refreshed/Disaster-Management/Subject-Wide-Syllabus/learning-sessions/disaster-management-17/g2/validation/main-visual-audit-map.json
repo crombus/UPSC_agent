@@ -1,0 +1,1748 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-17\\g2\\disaster-management-17_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-17\\g2\\disaster-management-17_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-17",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Humanitarian Logistics, Relief, Rehabilitation and Recovery - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 319.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 69,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-17\\g2\\assets\\disaster-management-17_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 434.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 126.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 83,
+      "markdown_body_line_end": 83,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Response is the immediate operational effort, relief meets urgent survival needs, rehabilitation restores basic functioning, reconstruction restores or replaces systems more fully, and recovery is the wider process across these phases.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 98,
+      "markdown_body_line_end": 105,
+      "heading": "VISUAL FIRST",
+      "preview": "RESPONSE RELIEF REHABILITATION RECONSTRUCTION AND RECOVERY DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 303.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 159,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RESPONSE RELIEF REHABILITATION RECONSTRUCTION AND RECOVERY DISTINCTIONS",
+      "preview": "START / CONCEPT: FOUNDATION — Response relief rehabilitation reconstruction and recovery distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 310
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 518.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 257.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Rapid and iterative needs assessment as a sequence: identify Humanitarian principles, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 117.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 50.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 189,
+      "heading": "VISUAL FIRST",
+      "preview": "RAPID AND ITERATIVE NEEDS ASSESSMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 242,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RAPID AND ITERATIVE NEEDS ASSESSMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Rapid and iterative needs assessment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 253,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Humanity impartiality neutrality and operational independence as a sequence: identify Preparedness and pre-positioning, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 272,
+      "heading": "VISUAL FIRST",
+      "preview": "HUMANITY IMPARTIALITY NEUTRALITY AND OPERATIONAL INDEPENDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 325,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - HUMANITY IMPARTIALITY NEUTRALITY AND OPERATIONAL INDEPENDENCE",
+      "preview": "START / CONCEPT: FOUNDATION — Humanity impartiality neutrality and operational independence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 285
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 292.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 71.691
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Anticipatory pre-positioning and sudden-onset readiness as a sequence: identify Procurement, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 355,
+      "heading": "VISUAL FIRST",
+      "preview": "ANTICIPATORY PRE-POSITIONING AND SUDDEN-ONSET READINESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 408,
+      "heading": "CLOSING RECALL FLOW - CORE - ANTICIPATORY PRE-POSITIONING AND SUDDEN-ONSET READINESS",
+      "preview": "START / CONCEPT: CORE — Anticipatory pre-positioning and sudden-onset readiness",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 469.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 419,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Emergency procurement supplier quality and audit trail as a sequence: identify Warehousing and inventory, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stag",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 315.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 234.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 438,
+      "heading": "VISUAL FIRST",
+      "preview": "EMERGENCY PROCUREMENT SUPPLIER QUALITY AND AUDIT TRAIL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 491,
+      "heading": "CLOSING RECALL FLOW - CORE - EMERGENCY PROCUREMENT SUPPLIER QUALITY AND AUDIT TRAIL",
+      "preview": "START / CONCEPT: CORE — Emergency procurement supplier quality and audit trail",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 113.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 502,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Warehousing inventory rotation security and replenishment as a sequence: identify Transport and routing, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 524,
+      "heading": "VISUAL FIRST",
+      "preview": "WAREHOUSING INVENTORY ROTATION SECURITY AND REPLENISHMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 578,
+      "heading": "CLOSING RECALL FLOW - CORE - WAREHOUSING INVENTORY ROTATION SECURITY AND REPLENISHMENT",
+      "preview": "START / CONCEPT: CORE — Warehousing inventory rotation security and replenishment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 579.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 358.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 589,
+      "markdown_body_line_end": 589,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Transport hubs routing alternates and access constraints as a sequence: identify Information and coordination, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 204.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 123.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 608,
+      "heading": "VISUAL FIRST",
+      "preview": "TRANSPORT HUBS ROUTING ALTERNATES AND ACCESS CONSTRAINTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 661,
+      "heading": "CLOSING RECALL FLOW - CORE - TRANSPORT HUBS ROUTING ALTERNATES AND ACCESS CONSTRAINTS",
+      "preview": "START / CONCEPT: CORE — Transport hubs routing alternates and access constraints",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 276
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 672,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Last-mile distribution queues outreach and receipt verification as a sequence: identify Cash versus in-kind, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 691,
+      "heading": "VISUAL FIRST",
+      "preview": "LAST-MILE DISTRIBUTION QUEUES OUTREACH AND RECEIPT VERIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 744,
+      "heading": "CLOSING RECALL FLOW - CORE - LAST-MILE DISTRIBUTION QUEUES OUTREACH AND RECEIPT VERIFICATION",
+      "preview": "START / CONCEPT: CORE — Last-mile distribution queues outreach and receipt verification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 100.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 755,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Information coordination common operating picture and privacy as a sequence: identify Shelter WASH health and protection, follow the named mechanism to its institutional response, and stop at the last verified status rather than assumi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 770,
+      "markdown_body_line_end": 774,
+      "heading": "VISUAL FIRST",
+      "preview": "INFORMATION COORDINATION COMMON OPERATING PICTURE AND PRIVACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 827,
+      "heading": "CLOSING RECALL FLOW - CORE - INFORMATION COORDINATION COMMON OPERATING PICTURE AND PRIVACY",
+      "preview": "START / CONCEPT: CORE — Information coordination common operating picture and privacy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 429.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 838,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Cash in-kind and local-market choice as a sequence: identify Protection and inclusion, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 294.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 227.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 853,
+      "markdown_body_line_end": 857,
+      "heading": "VISUAL FIRST",
+      "preview": "CASH IN-KIND AND LOCAL-MARKET CHOICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 910,
+      "heading": "CLOSING RECALL FLOW - CORE - CASH IN-KIND AND LOCAL-MARKET CHOICE",
+      "preview": "START / CONCEPT: CORE — Cash in-kind and local-market choice",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 921,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Shelter WASH health nutrition and protection integration as a sequence: identify Grievance and anti-diversion controls, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 943,
+      "heading": "VISUAL FIRST",
+      "preview": "SHELTER WASH HEALTH NUTRITION AND PROTECTION INTEGRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 303.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 997,
+      "heading": "CLOSING RECALL FLOW - CORE - SHELTER WASH HEALTH NUTRITION AND PROTECTION INTEGRATION",
+      "preview": "START / CONCEPT: CORE — Shelter WASH health nutrition and protection integration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 285
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 532.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 291.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1008,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Grievance anti-diversion and community accountability as a sequence: identify Displacement and durable solutions, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the n",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 137.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 56.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1027,
+      "heading": "VISUAL FIRST",
+      "preview": "GRIEVANCE ANTI-DIVERSION AND COMMUNITY ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1080,
+      "heading": "CLOSING RECALL FLOW - CORE - GRIEVANCE ANTI-DIVERSION AND COMMUNITY ACCOUNTABILITY",
+      "preview": "START / CONCEPT: CORE — Grievance anti-diversion and community accountability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1091,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Livelihood restoration displacement and durable solutions as a sequence: identify Debris and environmental recovery, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1110,
+      "heading": "VISUAL FIRST",
+      "preview": "LIVELIHOOD RESTORATION DISPLACEMENT AND DURABLE SOLUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1163,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LIVELIHOOD RESTORATION DISPLACEMENT AND DURABLE SOLUTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Livelihood restoration displacement and durable solutions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 282
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 100.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1174,
+      "markdown_body_line_end": 1174,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Debris environment recovery sequencing and handover as a sequence: identify Recovery sequencing, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1196,
+      "heading": "VISUAL FIRST",
+      "preview": "DEBRIS ENVIRONMENT RECOVERY SEQUENCING AND HANDOVER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1250,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DEBRIS ENVIRONMENT RECOVERY SEQUENCING AND HANDOVER",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Debris environment recovery sequencing and handover",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 275
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 518.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 277.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1261,
+      "markdown_body_line_end": 1261,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read PYQ synthesis Build Back Better and delivery-outcome firewall as a sequence: identify Build Back Better, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1283,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ SYNTHESIS BUILD BACK BETTER AND DELIVERY-OUTCOME FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 437.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Incident response, evacuation, search and rescue, shelter, relief, logistics, rehabilitation, livelihoods and Build Back Better recover",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 609.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1349,
+      "heading": "1. Visual foundation",
+      "preview": "DURING DISASTER: search & rescue -> basic needs (food, clothing,",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 587.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 406.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1362,
+      "markdown_body_line_end": 1369,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 299.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1531,
+      "heading": "13. Core-only answer architecture - survival to safer recovery",
+      "preview": "**Core firewall:** Core distinguishes relief, rehabilitation, reconstruction and recovery; it also distinguishes India’s Incident Response System from the generic Incident Command System.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 733.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 666.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1535,
+      "markdown_body_line_end": 1540,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Significance | Limitation/qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Significance",
+          "Limitation/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 644.824
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 286.922
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1560,
+      "markdown_body_line_end": 1577,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ SYNTHESIS BUILD BACK BETTER AND DELIVERY-OUTCOME FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ synthesis Build Back Better and delivery-outcome firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2740,
+      "markdown_body_line_end": 2747,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Anticipatory/pre-positioned logistics; equitable needs assessment; the relief-to-recovery transition; accountability and service continuity. **Grou",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 208.624
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2766,
+      "markdown_body_line_end": 2785,
+      "heading": "2. Risk-system analysis",
+      "preview": "FORECAST/WARNING (cyclone track, flood forecast, etc.)",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3008,
+      "markdown_body_line_end": 3016,
+      "heading": "Humanitarian Logistics, Relief, Rehabilitation and Recovery: ASSESS PRE-POSITION DELIVER ACCOUNT RESTORE AND BBB SPINE",
+      "preview": "DISTINGUISH RESPONSE RELIEF REHABILITATION RECONSTRUCTION AND RECOVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 462.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 381.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3026,
+      "markdown_body_line_end": 3031,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Post-impact phase rail",
+      "preview": "1 RESPONSE -> LIFE-SAVING OPERATIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3035,
+      "markdown_body_line_end": 3040,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Needs-assessment loop",
+      "preview": "WHO / WHERE / SEVERITY / PRIORITY NEED",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3044,
+      "markdown_body_line_end": 3049,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Humanitarian principles compass",
+      "preview": "HUMANITY -> LIFE AND DIGNITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3053,
+      "markdown_body_line_end": 3058,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Anticipatory logistics split",
+      "preview": "FORECASTABLE -> PRE-POSITION TEAMS STOCK SHELTER TRANSPORT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3062,
+      "markdown_body_line_end": 3067,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Supply-chain rail",
+      "preview": "NEED -> PROCURE -> WAREHOUSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3071,
+      "markdown_body_line_end": 3076,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Information board",
+      "preview": "VERIFIED NEED | REQUEST | COMMITMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3080,
+      "markdown_body_line_end": 3085,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Cash or in-kind gate",
+      "preview": "ARE GOODS AVAILABLE AND MARKETS FUNCTIONING?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3089,
+      "markdown_body_line_end": 3094,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Minimum-service web",
+      "preview": "SHELTER <-> WASH <-> HEALTH / NUTRITION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3098,
+      "markdown_body_line_end": 3103,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Accountability controls",
+      "preview": "PUBLIC CRITERIA + SEGREGATED DUTIES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3107,
+      "markdown_body_line_end": 3113,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Recovery choices",
+      "preview": "LIVELIHOOD ASSETS SKILLS CREDIT MARKET SOCIAL PROTECTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3117,
+      "markdown_body_line_end": 3123,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Sequencing and handover",
+      "preview": "LIFE + CONTINUITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3127,
+      "markdown_body_line_end": 3133,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Humanitarian answer spine",
+      "preview": "ASSESS ITERATIVELY -> PRE-POSITION / PROCURE / STORE / MOVE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    }
+  ]
+}

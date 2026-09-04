@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: BoP accounting spine
+RESIDENT <-> NON-RESIDENT TRANSACTIONS
+CURRENT + CAPITAL + FINANCIAL ACCOUNTS
+DOUBLE ENTRY + ERRORS / OMISSIONS
+RESERVE-ASSET CHANGE closes recorded financing
+MUST REMEMBER: The balance of payments records resident–non-resident transactions across...
+
+ASCII MASTER FLOW — PANEL 2/12: Current-account map
+GOODS
+SERVICES
+PRIMARY INCOME
+SECONDARY INCOME -> personal remittances
+
+ASCII MASTER FLOW — PANEL 3/12: Capital-financial fork
+CAPITAL -> capital transfers
+CAPITAL -> non-produced non-financial assets
+FINANCIAL -> FDI + portfolio + loans
+FINANCIAL -> derivatives + reserve assets
+
+ASCII MASTER FLOW — PANEL 4/12: CAD financing identity
+CURRENT-ACCOUNT DEFICIT
+-> NET FINANCIAL INFLOWS
+OR -> RESERVE USE
+PLUS -> ERRORS / OMISSIONS; quality matters
+
+ASCII MASTER FLOW — PANEL 5/12: Trade-deficit offsets
+MERCHANDISE DEFICIT
++ NET SERVICES
++ PRIMARY INCOME
++ SECONDARY INCOME -> CURRENT ACCOUNT
+
+ASCII MASTER FLOW — PANEL 6/12: Currency quote board
+QUOTE -> RUPEES PER US DOLLAR
+NUMBER RISES -> dollar costs more
+RUPEE -> DEPRECIATES
+ALWAYS state quote before direction
+
+ASCII MASTER FLOW — PANEL 7/12: Rate-change vocabulary
+MARKET -> depreciation / appreciation
+OFFICIAL PARITY -> devaluation / revaluation
+NOMINAL -> observed currency price
+REAL -> relative-price adjusted
+
+ASCII MASTER FLOW — PANEL 8/12: Managed-float rail
+MARKET DEMAND + SUPPLY
+-> RUPEE RATE MOVES
+RBI -> may smooth excessive volatility
+NO DECLARED FIXED TARGET LEVEL
+
+ASCII MASTER FLOW — PANEL 9/12: Intervention-liquidity matrix
+RBI SELLS DOLLARS -> rupees absorbed
+RBI BUYS DOLLARS -> rupees injected
+STERILISATION -> offsets liquidity effect
+LIMIT -> costs + underlying pressure
+
+ASCII MASTER FLOW — PANEL 10/12: NEER-REER ladder
+BILATERAL RATE
+-> TRADE-WEIGHTED NEER
+-> RELATIVE-PRICE ADJUSTED REER
+INTERPRET -> use RBI convention + base + weights
+CLOSE DISTINCTION: Current-account deficit is not trade deficit, BOP accounting balance...
+
+ASCII MASTER FLOW — PANEL 11/12: Reserve-adequacy dashboard
+IMPORT COVER
+SHORT-TERM DEBT
+BROAD MONEY / FINANCING NEED
+MATURITY + CURRENCY + HEDGING + STRESS
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State period, currency/unit, stock or flow...
+
+ASCII MASTER FLOW — PANEL 12/12: External-sector answer spine
+CLASSIFY transaction by account
+STATE sign / quote / stock-flow convention
+TRACE financing + intervention + liquidity
+JUDGE resilience through composition, not headline

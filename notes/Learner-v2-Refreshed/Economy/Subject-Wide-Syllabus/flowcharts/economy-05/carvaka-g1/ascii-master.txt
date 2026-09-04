@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Banking legal perimeter
+SCHEDULED BANK -> Second Schedule status
+COMMERCIAL BANK -> deposits + payments + credit
+CO-OPERATIVE BANK -> member form + banking oversight
+NBFC -> financial company, not full bank powers
+
+ASCII MASTER FLOW — PANEL 2/12: Maturity transformation
+WITHDRAWABLE DEPOSITS
+-> pooled bank funding
+-> longer loans and investments
+RISK -> liquidity + credit + interest-rate mismatch
+
+ASCII MASTER FLOW — PANEL 3/12: Multi-tier architecture
+PSB / PRIVATE / FOREIGN
+RRB / CO-OPERATIVE
+SMALL FINANCE BANK
+PAYMENTS BANK
+
+ASCII MASTER FLOW — PANEL 4/12: Differentiated-bank fork
+SFB -> deposits + lending
+PAYMENTS BANK -> deposits + payments
+PAYMENTS BANK -> no own-balance-sheet lending
+RULE -> similar licence family, different powers
+
+ASCII MASTER FLOW — PANEL 5/12: Rural-credit map
+RRB -> rural intermediary
+LEAD BANK -> district coordination
+SERVICE AREA -> local responsibility
+LIMIT -> coverage does not ensure viable credit
+
+ASCII MASTER FLOW — PANEL 6/12: PSL target board
+MOST DOMESTIC BANKS -> 40 per cent overall
+AGRICULTURE -> 18 per cent
+SMALL/MARGINAL FARMERS -> 10 per cent
+WEAKER SECTIONS -> 12 per cent
+
+ASCII MASTER FLOW — PANEL 7/12: PSL status gate
+TARGETS COME FROM RBI MASTER DIRECTIONS
+CATEGORIES AND SUB-TARGETS CAN CHANGE
+QUOTE THE EFFECTIVE DIRECTION
+DO NOT CALL A RATIO PERMANENT
+
+ASCII MASTER FLOW — PANEL 8/12: NBFC contagion chain
+WHOLESALE FUNDING + MATURITY MISMATCH
+-> IL&FS / DHFL stress
+-> mutual funds + banks + markets
+LESSON -> non-bank stress can be systemic
+
+ASCII MASTER FLOW — PANEL 9/12: Depositor protection boundary
+DICGC -> eligible bank deposits
+OWNER CAP -> Rs 5 lakh per depositor per bank
+OUT -> securities + insurance + ordinary NBFC claims
+PCA -> prevention, not payout
+
+ASCII MASTER FLOW — PANEL 10/12: Regulatory perimeter
+RBI -> banks + NBFCs + payments
+SEBI -> securities
+IRDAI / PFRDA -> insurance / pensions
+FSDC -> cross-sector coordination
+
+ASCII MASTER FLOW — PANEL 11/12: Balance-sheet and inclusion traps
+LOANS / INVESTMENTS -> assets
+DEPOSITS -> liabilities
+FI-INDEX -> Access + Usage + Quality
+SYNDICATION -> shared exposure, not zero risk
+
+ASCII MASTER FLOW — PANEL 12/12: Financial-regulation answer spine
+CLASSIFY institution and powers
+MAP funding + leverage + safety net
+TRACE contagion and supervision
+BALANCE inclusion, diversity and stability

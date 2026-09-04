@@ -1,0 +1,2267 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Securities, Bonds, Equity, Derivatives and Investment Funds - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 37,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\assets\\economy-08_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 715.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 407.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 234.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 167.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 96,
+      "heading": "VISUAL FIRST",
+      "preview": "BONDHOLDER AND EQUITY-HOLDER CLAIMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 676.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 142,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BONDHOLDER AND EQUITY-HOLDER CLAIMS",
+      "preview": "START / CONCEPT: FOUNDATION — Bondholder and equity-holder claims",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 113.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 153,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 172,
+      "heading": "VISUAL FIRST",
+      "preview": "COUPON AND MARKET YIELD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 217,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - COUPON AND MARKET YIELD",
+      "preview": "START / CONCEPT: FOUNDATION — Coupon and market yield",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 228,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Price-yield relationship Qualified use: Balance wider access with suitability, disclosure, margining and liquidity-risk controls.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 247,
+      "heading": "VISUAL FIRST",
+      "preview": "BOND PRICE-YIELD MOVEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 292,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BOND PRICE-YIELD MOVEMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Bond price-yield movement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 303,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Duration and convexity Qualified use: Classify each product by legal claim, cash flow, priority, liquidity and leverage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 131.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 64.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 322,
+      "heading": "VISUAL FIRST",
+      "preview": "DURATION AND CONVEXITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 367,
+      "heading": "CLOSING RECALL FLOW - CORE - DURATION AND CONVEXITY",
+      "preview": "START / CONCEPT: CORE — Duration and convexity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 103.691
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 378,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Credit spread Qualified use: Distinguish the contract's form from the user's hedging, speculative or arbitrage purpose.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 397,
+      "heading": "VISUAL FIRST",
+      "preview": "CREDIT SPREADS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 442,
+      "heading": "CLOSING RECALL FLOW - CORE - CREDIT SPREADS",
+      "preview": "START / CONCEPT: CORE — Credit spreads",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 453,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 475,
+      "heading": "VISUAL FIRST",
+      "preview": "FUTURES AND OPTIONS OBLIGATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 521,
+      "heading": "CLOSING RECALL FLOW - CORE - FUTURES AND OPTIONS OBLIGATIONS",
+      "preview": "START / CONCEPT: CORE — Futures and options obligations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 359.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 148.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 532,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Swaps Qualified use: Classify each product by legal claim, cash flow, priority, liquidity and leverage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 551,
+      "heading": "VISUAL FIRST",
+      "preview": "SWAPS AND CASH-FLOW EXCHANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 596,
+      "heading": "CLOSING RECALL FLOW - CORE - SWAPS AND CASH-FLOW EXCHANGE",
+      "preview": "START / CONCEPT: CORE — Swaps and cash-flow exchange",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 607,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 626,
+      "heading": "VISUAL FIRST",
+      "preview": "HEDGING VERSUS SPECULATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 671,
+      "heading": "CLOSING RECALL FLOW - CORE - HEDGING VERSUS SPECULATION",
+      "preview": "START / CONCEPT: CORE — Hedging versus speculation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 233.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 682,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 113.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 46.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 701,
+      "heading": "VISUAL FIRST",
+      "preview": "MARGINS, CLEARING AND LEVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 746,
+      "heading": "CLOSING RECALL FLOW - CORE - MARGINS, CLEARING AND LEVERAGE",
+      "preview": "START / CONCEPT: CORE — Margins, clearing and leverage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 276.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 75.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 757,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 776,
+      "heading": "VISUAL FIRST",
+      "preview": "MUTUAL FUNDS AND ETFS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 821,
+      "heading": "CLOSING RECALL FLOW - CORE - MUTUAL FUNDS AND ETFS",
+      "preview": "START / CONCEPT: CORE — Mutual funds and ETFs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 832,
+      "markdown_body_line_end": 832,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 854,
+      "heading": "VISUAL FIRST",
+      "preview": "AIFS, REITS AND INVITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 883,
+      "markdown_body_line_end": 900,
+      "heading": "CLOSING RECALL FLOW - CORE - AIFS, REITS AND INVITS",
+      "preview": "START / CONCEPT: CORE — AIFs, REITs and InvITs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 359.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 128.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 911,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 930,
+      "heading": "VISUAL FIRST",
+      "preview": "PARTICIPATORY NOTES AND OFFSHORE ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 975,
+      "heading": "CLOSING RECALL FLOW - CORE - PARTICIPATORY NOTES AND OFFSHORE ACCESS",
+      "preview": "START / CONCEPT: CORE — Participatory Notes and offshore access",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 986,
+      "markdown_body_line_end": 986,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Inflation-Indexed Bonds Qualified use: Classify each product by legal claim, cash flow, priority, liquidity and leverage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1001,
+      "markdown_body_line_end": 1005,
+      "heading": "VISUAL FIRST",
+      "preview": "INFLATION-INDEXED BONDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1033,
+      "markdown_body_line_end": 1050,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INFLATION-INDEXED BONDS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Inflation-Indexed Bonds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1061,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Convertible bonds - Beta Qualified use: Distinguish the contract's form from the user's hedging, speculative or arbitrage purpose.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1083,
+      "heading": "VISUAL FIRST",
+      "preview": "CONVERTIBLE BONDS AND BETA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1112,
+      "markdown_body_line_end": 1129,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CONVERTIBLE BONDS AND BETA",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Convertible bonds and beta",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Tokenisation and sustainability bonds - Investor protection and liquidity mismatch Qualified use: Balance wider access with suitability, disclosure, margining and liquidity-risk controls.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 322.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 256.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1155,
+      "markdown_body_line_end": 1162,
+      "heading": "VISUAL FIRST",
+      "preview": "TOKENISATION, SUSTAINABILITY BONDS AND INVESTOR PROTECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1194,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Securities and investment products. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 367.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1198,
+      "markdown_body_line_end": 1212,
+      "heading": "1. Visual foundation",
+      "preview": "1. ISSUER OR UNDERLYING EXPOSURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 235.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 94.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1229,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 538.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1321,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Classify products by legal claim, cash-flow priority, leverage, liquidity promise and underlying exposure before comparing return.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 666.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 622.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1353,
+      "markdown_body_line_end": 1355,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 691.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1363,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 639.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 542.522
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1369,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 503.322
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 458.654
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1376,
+      "markdown_body_line_end": 1378,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 458.654
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 363.587
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1388,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 311.987
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 121.585
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1396,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1403,
+      "markdown_body_line_end": 1405,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 677.756
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1411,
+      "markdown_body_line_end": 1417,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 626.156
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 331.754
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1427,
+      "markdown_body_line_end": 1427,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 223.754
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 179.087
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1449,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - TOKENISATION, SUSTAINABILITY BONDS AND INVESTOR PROTECTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Tokenisation, sustainability bonds and investor protection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 987
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 323.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2274,
+      "markdown_body_line_end": 2276,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 404.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 324.024
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2282,
+      "markdown_body_line_end": 2284,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 272.424
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 175.522
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2290,
+      "markdown_body_line_end": 2290,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 136.322
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 91.654
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2297,
+      "markdown_body_line_end": 2299,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2305,
+      "markdown_body_line_end": 2309,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 472.222
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2317,
+      "markdown_body_line_end": 2317,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 398.622
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 353.954
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2324,
+      "markdown_body_line_end": 2326,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 353.954
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 273.087
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2332,
+      "markdown_body_line_end": 2338,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 508.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2348,
+      "markdown_body_line_end": 2348,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 400.89
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 356.222
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2589,
+      "markdown_body_line_end": 2593,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Securities and investment products. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 P",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 584.891
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 497.624
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2597,
+      "markdown_body_line_end": 2611,
+      "heading": "1. Architecture",
+      "preview": "1. issuer or underlying exposure",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 475.624
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 334.624
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2618,
+      "markdown_body_line_end": 2624,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 284.224
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 153.622
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2712,
+      "markdown_body_line_end": 2716,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 393.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 271.49
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2793,
+      "markdown_body_line_end": 2801,
+      "heading": "Securities, Bonds, Equity, Derivatives and Investment Funds: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 319.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 238.091
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2811,
+      "markdown_body_line_end": 2817,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Claim-priority waterfall",
+      "preview": "ISSUER CASH FLOW",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 701.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2826,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Bond pricing board",
+      "preview": "COUPON -> contractual rate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 627.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2830,
+      "markdown_body_line_end": 2835,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Credit-risk decomposition",
+      "preview": "BENCHMARK YIELD",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 605.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 553.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2844,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Derivative obligation fork",
+      "preview": "FUTURE -> symmetric buyer/seller obligations",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 531.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2848,
+      "markdown_body_line_end": 2853,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Purpose test",
+      "preview": "PRE-EXISTING EXPOSURE?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 457.891
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 406.091
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2857,
+      "markdown_body_line_end": 2862,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Clearing and leverage rail",
+      "preview": "POSITION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 384.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 332.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2866,
+      "markdown_body_line_end": 2871,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Pooled-vehicle map",
+      "preview": "MUTUAL FUND -> pooled mandate + NAV",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 310.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 258.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2875,
+      "markdown_body_line_end": 2880,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Access instruments board",
+      "preview": "P-NOTE -> offshore instrument via registered FPI",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2884,
+      "markdown_body_line_end": 2889,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Tokenisation boundary",
+      "preview": "UNDERLYING REAL-WORLD ASSET",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2893,
+      "markdown_body_line_end": 2899,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Use-of-proceeds taxonomy",
+      "preview": "GREEN BOND -> environmental projects",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2903,
+      "markdown_body_line_end": 2909,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Investor-protection stack",
+      "preview": "DISCLOSURE + PRODUCT LABELLING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2913,
+      "markdown_body_line_end": 2918,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Securities answer spine",
+      "preview": "CLASSIFY claim and cash-flow priority",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 419.891
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    }
+  ]
+}

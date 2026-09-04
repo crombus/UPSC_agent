@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Tracker entry template
+TAXON -> scientific name and rank
+CLAIM TYPE -> status range population law or event
+SOURCE AND DATE -> authoritative issuer and publication
+STATUS VERB -> assessed listed notified observed or proposed
+STATIC LINK AND RECHECK -> concept owner plus expiry trigger
+MUST REMEMBER: A species/current-affairs tracker must bind taxonomic identity, range,...
+
+ASCII MASTER FLOW — PANEL 2/12: Taxonomic identity ladder
+SCIENTIFIC NAME -> primary identity anchor
+RANK -> species subspecies population or other unit
+COMMON NAME -> secondary discovery label
+TAXONOMIC AUTHORITY -> accepted identity evidence
+RULE -> never transfer claims between units
+
+ASCII MASTER FLOW — PANEL 3/12: Five-status firewall
+IUCN -> extinction-risk assessment
+WPA SCHEDULE -> domestic legal protection classification
+CITES APPENDIX -> international trade-control listing
+CMS APPENDIX OR INSTRUMENT -> migratory cooperation
+TAXONOMY -> organism identity, not conservation status
+
+ASCII MASTER FLOW — PANEL 4/12: IUCN assessment card
+TAXON -> exact assessed unit
+GEOGRAPHIC SCOPE -> global or stated regional assessment
+CATEGORY -> assessment outcome
+VERSION OR DATE -> currency boundary
+RECHECK -> later assessment can supersede the claim
+
+ASCII MASTER FLOW — PANEL 5/12: Legal and treaty date rail
+DOMESTIC SCHEDULE -> Act and applicable amendment date
+CITES LISTING -> Appendix and effective trade date
+CMS LISTING -> Appendix or instrument and decision date
+SEPARATE DATABASES -> answer different questions
+RULE -> no cross-system automatic conversion
+
+ASCII MASTER FLOW — PANEL 6/12: Range vocabulary map
+ENDEMIC -> naturally restricted to defined geography
+NATIVE -> naturally occurs there and may occur elsewhere
+RESIDENT -> present through relevant annual cycle
+MIGRATORY -> regular movement across areas or seasons
+SIGHTING -> occurrence record, not full range proof
+
+ASCII MASTER FLOW — PANEL 7/12: Habitat and population screen
+HABITAT ASSOCIATION -> ecological use
+GEOGRAPHIC RANGE -> distribution envelope
+POPULATION SIZE -> estimate for stated unit and date
+POPULATION TREND -> direction across a period
+RISK CATEGORY -> assessment, not a census
+
+ASCII MASTER FLOW — PANEL 8/12: Trigger-static bridge
+STATIC ANCHOR -> taxonomy ecology law or treaty concept
+DATED TRIGGER -> assessment notification decision or survey
+SOURCE VERB -> observed assessed listed notified or adopted
+EXAM USE -> one current example with its limit
+UPDATE RULE -> recheck when source changes
+
+ASCII MASTER FLOW — PANEL 9/12: News-to-proof decision tree
+NEWS OR PRESS RELEASE -> discovery lead
+LEGAL CLAIM -> find official notification or decision
+STATUS CLAIM -> find authoritative assessment database
+RANGE OR POPULATION CLAIM -> find dated study or database
+NO PRIMARY SUPPORT -> omit and record failure
+
+ASCII MASTER FLOW — PANEL 10/12: Rediscovery firewall
+NEW OBSERVATION -> possible rediscovery or locality record
+IDENTITY VALIDATION -> taxonomic confirmation
+RANGE INTERPRETATION -> evidence synthesis
+FORMAL REASSESSMENT OR LISTING -> separate process
+RULE -> observation alone changes no status automatically
+CLOSE DISTINCTION: Common name is not secure taxonomic identity, rediscovery is not...
+
+ASCII MASTER FLOW — PANEL 11/12: Cross-source reconciliation
+IDENTITY QUESTION -> taxonomic source
+EXTINCTION-RISK QUESTION -> IUCN assessment
+DOMESTIC LEGAL QUESTION -> WPA text
+TRADE OR MIGRATION QUESTION -> CITES or CMS
+CURRENT TRIGGER -> dated official decision or study
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use source, publication/event date,...
+
+ASCII MASTER FLOW — PANEL 12/12: Species tracker answer spine
+IDENTIFY -> scientific name rank and claim unit
+SEPARATE -> IUCN WPA CITES CMS range and population
+DATE -> assessment legal listing and trigger independently
+PAIR -> dated verified item with static anchor
+RECHECK OR OMIT -> prevent stale-current claims

@@ -1,0 +1,2575 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "National Income: GDP, GVA, GNP, NDP and Measurement - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 62,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\assets\\economy-01_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 683.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 376.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 202.956
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 136.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 98,
+      "heading": "VISUAL FIRST",
+      "preview": "DOMESTIC PRODUCTION AND RESIDENT INCOME",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 632.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 144,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DOMESTIC PRODUCTION AND RESIDENT INCOME",
+      "preview": "START / CONCEPT: FOUNDATION — Domestic production and resident income",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 261.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 155,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 174,
+      "heading": "VISUAL FIRST",
+      "preview": "FINAL EXPENDITURE IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 409.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 219,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FINAL EXPENDITURE IDENTITY",
+      "preview": "START / CONCEPT: FOUNDATION — Final expenditure identity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 249,
+      "heading": "VISUAL FIRST",
+      "preview": "PRODUCER VALUE ADDED AND PURCHASER PRICES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 294,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PRODUCER VALUE ADDED AND PURCHASER PRICES",
+      "preview": "START / CONCEPT: FOUNDATION — Producer value added and purchaser prices",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 305,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 324,
+      "heading": "VISUAL FIRST",
+      "preview": "GROSS OUTPUT AND DEPRECIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 511.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 352,
+      "markdown_body_line_end": 369,
+      "heading": "CLOSING RECALL FLOW - CORE - GROSS OUTPUT AND DEPRECIATION",
+      "preview": "START / CONCEPT: CORE — Gross output and depreciation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 380,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not use nominal GDP growth as proof of volume growth or welfare improvement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 399,
+      "heading": "VISUAL FIRST",
+      "preview": "THREE ROUTES TO THE SAME AGGREGATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 444,
+      "heading": "CLOSING RECALL FLOW - CORE - THREE ROUTES TO THE SAME AGGREGATE",
+      "preview": "START / CONCEPT: CORE — Three routes to the same aggregate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 455,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 477,
+      "heading": "VISUAL FIRST",
+      "preview": "VALUE ADDED, INCOME COVERAGE AND INFORMALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 125
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 481.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 523,
+      "heading": "CLOSING RECALL FLOW - CORE - VALUE ADDED, INCOME COVERAGE AND INFORMALITY",
+      "preview": "START / CONCEPT: CORE — Value added, income coverage and informality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 534,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 553,
+      "heading": "VISUAL FIRST",
+      "preview": "FINAL EXPENDITURE AND INTERMEDIATE EXCLUSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 598,
+      "heading": "CLOSING RECALL FLOW - CORE - FINAL EXPENDITURE AND INTERMEDIATE EXCLUSION",
+      "preview": "START / CONCEPT: CORE — Final expenditure and intermediate exclusion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 609,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 628,
+      "heading": "VISUAL FIRST",
+      "preview": "NOMINAL OUTPUT, REAL OUTPUT AND THE DEFLATOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 656,
+      "markdown_body_line_end": 673,
+      "heading": "CLOSING RECALL FLOW - CORE - NOMINAL OUTPUT, REAL OUTPUT AND THE DEFLATOR",
+      "preview": "START / CONCEPT: CORE — Nominal output, real output and the deflator",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 684,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 703,
+      "heading": "VISUAL FIRST",
+      "preview": "INSIDE THE PRODUCTION BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 748,
+      "heading": "CLOSING RECALL FLOW - CORE - INSIDE THE PRODUCTION BOUNDARY",
+      "preview": "START / CONCEPT: CORE — Inside the production boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 759,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 778,
+      "heading": "VISUAL FIRST",
+      "preview": "TRANSFERS, RESALES AND CURRENT SERVICES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 511.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - TRANSFERS, RESALES AND CURRENT SERVICES",
+      "preview": "START / CONCEPT: CORE — Transfers, resales and current services",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 856,
+      "heading": "VISUAL FIRST",
+      "preview": "UNPAID WORK, WELFARE AND THE 2015 REVISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 902,
+      "heading": "CLOSING RECALL FLOW - CORE - UNPAID WORK, WELFARE AND THE 2015 REVISION",
+      "preview": "START / CONCEPT: CORE — Unpaid work, welfare and the 2015 revision",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 124.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 932,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 2022-23-BASE NATIONAL-ACCOUNTS SERIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 960,
+      "markdown_body_line_end": 977,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 2022-23-BASE NATIONAL-ACCOUNTS SERIES",
+      "preview": "START / CONCEPT: CORE — The 2022-23-base national-accounts series",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 988,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1007,
+      "heading": "VISUAL FIRST",
+      "preview": "POTENTIAL GDP AND THE OUTPUT GAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1052,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - POTENTIAL GDP AND THE OUTPUT GAP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Potential GDP and the output gap",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 193.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1063,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1085,
+      "heading": "VISUAL FIRST",
+      "preview": "ICOR, PPP AND CAPITAL PRODUCTIVITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 481.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1131,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ICOR, PPP AND CAPITAL PRODUCTIVITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — ICOR, PPP and capital productivity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1164,
+      "heading": "VISUAL FIRST",
+      "preview": "INTANGIBLES, SECTOR CLASSIFICATION AND ESTIMATE VINTAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1195,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Grounded in:** Ramesh Singh, Ch. 1; Economic Survey 2025-26, Ch. 1. ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey hook. *Companio",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 342.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 262.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1199,
+      "markdown_body_line_end": 1208,
+      "heading": "1. Visual foundation",
+      "preview": "DOMESTIC output",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 240.024
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 149.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1222,
+      "heading": "2. Essential definitions",
+      "preview": "Measure | Definition | Formula",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Measure",
+          "Definition",
+          "Formula"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 624.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1225,
+      "heading": "2. Essential definitions",
+      "preview": "🔑 **Mnemonic:** **D = Domestic territory; N = Net of depreciation; National = residents.**",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 624.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 593.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1234,
+      "heading": "3. GDP and GVA",
+      "preview": "GVA at basic prices",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 23
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 571.822
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 520.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1242,
+      "markdown_body_line_end": 1246,
+      "heading": "4. Three methods of measurement",
+      "preview": "Method | Adds | Main caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Method",
+          "Adds",
+          "Main caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 450.222
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 350.82
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1253,
+      "markdown_body_line_end": 1257,
+      "heading": "5. Nominal and real GDP",
+      "preview": "Measure | Prices used | Best use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Measure",
+          "Prices used",
+          "Best use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 300.42
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 212.219
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1403,
+      "markdown_body_line_end": 1409,
+      "heading": "9. CURRENT: Economic Survey 2025-26 anchor",
+      "preview": "Indicator | Survey figure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Indicator",
+          "Survey figure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 174.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 44.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1439,
+      "markdown_body_line_end": 1441,
+      "heading": "11. Mains angles",
+      "preview": "**Answer thesis:** GDP measures the value of domestic production; a sound growth assessment must then separate prices from volumes, GDP from GVA, and aggregate output from distribution, jobs and ecological sustainability.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 449.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1482,
+      "markdown_body_line_end": 1484,
+      "heading": "12A. Answer architecture (10/15/20-mark support)",
+      "preview": "**Reasoned verdict:** GDP is indispensable for measuring production, but its interpretation is marks-worthy only when the series, price basis, estimate vintage, coverage and welfare limits are stated explicitly.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 643.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 598.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1498,
+      "markdown_body_line_end": 1500,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 469.424
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 374.356
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1509,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 322.756
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 173.854
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1516,
+      "markdown_body_line_end": 1516,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 117.454
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 72.787
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1523,
+      "markdown_body_line_end": 1525,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1531,
+      "markdown_body_line_end": 1538,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 337.222
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1549,
+      "markdown_body_line_end": 1549,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 212.022
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 167.354
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1554,
+      "markdown_body_line_end": 1571,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INTANGIBLES, SECTOR CLASSIFICATION AND ESTIMATE VINTAGE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Intangibles, sector classification and estimate vintage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 333
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2398,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 160.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 65.224
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2404,
+      "markdown_body_line_end": 2407,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 619.99
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2414,
+      "markdown_body_line_end": 2414,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 563.59
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 518.922
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2421,
+      "markdown_body_line_end": 2423,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 518.922
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 423.854
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2429,
+      "markdown_body_line_end": 2436,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 372.254
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 46.853
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2447,
+      "markdown_body_line_end": 2447,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 684.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 639.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2457,
+      "markdown_body_line_end": 2458,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 581.024
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 514.356
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2464,
+      "markdown_body_line_end": 2467,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 462.756
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 345.354
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2474,
+      "markdown_body_line_end": 2474,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 288.954
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 244.287
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2759,
+      "markdown_body_line_end": 2763,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Grounded in:** Ramesh Singh, Ch. 1; Economic Survey 2025-26, Ch. 1; System of National Accounts concepts used in India's national accounting. ✅ = source-grounded ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 707.224
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2767,
+      "markdown_body_line_end": 2776,
+      "heading": "1. Measurement Architecture",
+      "preview": "Production account          Income account          Expenditure account",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 685.224
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 594.224
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2783,
+      "markdown_body_line_end": 2787,
+      "heading": "2. Domestic territory vs normal residence",
+      "preview": "Test | Domestic measure | National measure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Test",
+          "Domestic measure",
+          "National measure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 543.824
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 455.622
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2796,
+      "markdown_body_line_end": 2800,
+      "heading": "3. Gross, net, basic and market prices",
+      "preview": "Distinction | Adjustment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Distinction",
+          "Adjustment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 386.022
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 297.82
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2810,
+      "markdown_body_line_end": 2817,
+      "heading": "4. Expenditure-side components",
+      "preview": "Component | Meaning | Analytical use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Component",
+          "Meaning",
+          "Analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 624.29
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2819,
+      "markdown_body_line_end": 2821,
+      "heading": "4. Expenditure-side components",
+      "preview": "🔑 **Trap:** Government capital expenditure is not the same as GFCE. Capital expenditure can create assets and enters capital formation; GFCE measures government consumption of current services.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 624.29
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 579.622
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2827,
+      "markdown_body_line_end": 2832,
+      "heading": "5. Value added and double counting",
+      "preview": "Stage | Sale value | Intermediate input | Value added",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Sale value",
+          "Intermediate input",
+          "Value added"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 538.422
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 432.52
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2851,
+      "markdown_body_line_end": 2855,
+      "heading": "7. GDP deflator vs CPI/WPI",
+      "preview": "Index | Coverage | Imports | Weights",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Index",
+          "Coverage",
+          "Imports",
+          "Weights"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 216.52
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 131.119
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2862,
+      "markdown_body_line_end": 2870,
+      "heading": "8. Limits of GDP as a welfare measure",
+      "preview": "GDP growth",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2959,
+      "markdown_body_line_end": 2960,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 329.824
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2966,
+      "markdown_body_line_end": 2969,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 278.224
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 160.822
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2976,
+      "markdown_body_line_end": 2976,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 104.422
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 59.754
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3021,
+      "markdown_body_line_end": 3029,
+      "heading": "National Income: GDP, GVA, GNP, NDP and Measurement: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 441.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 360.691
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3039,
+      "markdown_body_line_end": 3045,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Territory before arithmetic",
+      "preview": "DOMESTIC TERRITORY -> GDP",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3049,
+      "markdown_body_line_end": 3054,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Gross-to-net ladder",
+      "preview": "GDP -> minus depreciation -> NDP",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3058,
+      "markdown_body_line_end": 3063,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Three-method convergence",
+      "preview": "PRODUCTION -> value added",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3067,
+      "markdown_body_line_end": 3072,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: GDP-GVA tax bridge",
+      "preview": "GVA AT BASIC PRICES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 22
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3076,
+      "markdown_body_line_end": 3081,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Nominal-real decoder",
+      "preview": "NOMINAL -> current prices -> size and ratios",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3085,
+      "markdown_body_line_end": 3090,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Production-boundary gate",
+      "preview": "IN -> current final goods and services",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3094,
+      "markdown_body_line_end": 3099,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Informal-sector estimation",
+      "preview": "MISSING COMPLETE ACCOUNTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 282.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3103,
+      "markdown_body_line_end": 3108,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Base-year revision timeline",
+      "preview": "2015 -> shift to 2011-12 base",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3112,
+      "markdown_body_line_end": 3117,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Capacity diagnosis",
+      "preview": "ACTUAL < POTENTIAL -> negative output gap",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3121,
+      "markdown_body_line_end": 3127,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Saving-to-growth conversion",
+      "preview": "SAVING -> INVESTMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3131,
+      "markdown_body_line_end": 3137,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Cross-country comparison fork",
+      "preview": "PPP -> common basket -> purchasing power",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3141,
+      "markdown_body_line_end": 3146,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Examiner closing spine",
+      "preview": "DEFINE -> boundary + formula",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 419.891
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    }
+  ]
+}

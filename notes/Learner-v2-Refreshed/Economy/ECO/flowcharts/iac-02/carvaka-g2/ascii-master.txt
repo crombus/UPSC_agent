@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Growth is the input, not the verdict
+REAL OUTPUT GROWTH
+-> income + profits + fiscal capacity
+-> jobs + public services + household investment
+DEVELOPMENT ONLY IF capabilities broaden
+MUST REMEMBER: Development expands capabilities, health, education, income security,...
+
+ASCII MASTER FLOW — PANEL 2/12: Capability conversion
+RESOURCES
+-> health + education + nutrition
+-> substantive freedoms
+LIMIT -> income can rise without conversion
+
+ASCII MASTER FLOW — PANEL 3/12: HDI three-dimension frame
+HEALTH -> life expectancy
+EDUCATION -> expected + mean years of schooling
+LIVING STANDARD -> GNI per capita
+AGGREGATION -> geometric mean
+
+ASCII MASTER FLOW — PANEL 4/12: HDI-to-IHDI discount
+HDI -> average achievement
+INEQUALITY WITHIN EACH DIMENSION
+-> achievement discounted
+ZERO INEQUALITY -> IHDI equals HDI
+
+ASCII MASTER FLOW — PANEL 5/12: MPI household lens
+HEALTH | EDUCATION | LIVING STANDARDS
+HOUSEHOLD -> overlapping deficits
+NOT AN INCOME-ONLY CLASSIFICATION
+USE -> composition and targeting
+
+ASCII MASTER FLOW — PANEL 6/12: H times A formula
+H -> incidence: how many are poor
+A -> intensity: how deprived the poor are
+MPI = H x A
+TRAP -> H and A can move differently
+
+ASCII MASTER FLOW — PANEL 7/12: Income line versus MPI
+INCOME LINE -> monetary threshold
+MPI -> weighted deprivation overlap
+INCOME -> transfer adequacy
+MPI -> sectoral composition of deprivation
+
+ASCII MASTER FLOW — PANEL 8/12: Institutions map
+UNDP -> HDI and IHDI
+UNDP + OPHI -> global MPI
+NITI AAYOG -> national MPI
+GOVERNMENTS -> service delivery
+
+ASCII MASTER FLOW — PANEL 9/12: Below-state diagnosis
+NATIONAL AVERAGE
+-> STATE DIVERGENCE
+-> DISTRICT DIVERGENCE
+RULE -> ranking change is not transformation
+
+ASCII MASTER FLOW — PANEL 10/12: Protection versus transformation
+MGNREGA -> wage floor + rural assets
+ICDS / PM POSHAN -> nutrition + schooling
+SHGs -> savings + agency + networks
+LIMIT -> productivity and decent jobs remain necessary
+CLOSE DISTINCTION: Growth is not development, per-capita average is not distribution, HDI...
+
+ASCII MASTER FLOW — PANEL 11/12: Composite-index limits
+AVERAGE -> can hide distribution
+WEIGHTS -> shape results
+SURVEY TIMING -> misses sudden shocks
+QUALITY -> may differ from access
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name publisher, edition/release date,...
+
+ASCII MASTER FLOW — PANEL 12/12: Inclusive-growth answer spine
+DEFINE growth and development
+TRACE jobs + services + capabilities
+COMPARE HDI / IHDI / MPI
+QUALIFY with inequality, quality and ecology

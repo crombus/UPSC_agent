@@ -1,0 +1,2332 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Ecosystem Structure and Function - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 385.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 72,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\assets\\environment-and-ecology-01_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 519.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 212.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not discuss an ecosystem without fixing a defensible spatial and functional boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 108,
+      "heading": "VISUAL FIRST",
+      "preview": "SYSTEM BOUNDARY AND THE STRUCTURE-FUNCTION QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SYSTEM BOUNDARY AND THE STRUCTURE-FUNCTION QUESTION",
+      "preview": "START / CONCEPT: FOUNDATION — System boundary and the structure-function question",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 697.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 456.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat biotic structure and ecosystem function as interchangeable descriptions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 321.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 269.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 184,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOTIC AND ABIOTIC COMPONENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 229,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BIOTIC AND ABIOTIC COMPONENTS",
+      "preview": "START / CONCEPT: FOUNDATION — Biotic and abiotic components",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 240,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not describe green plants as the only possible producers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 259,
+      "heading": "VISUAL FIRST",
+      "preview": "PRODUCER ENTRY AND AUTOTROPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 576.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 535.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 304,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PRODUCER ENTRY AND AUTOTROPHY",
+      "preview": "START / CONCEPT: FOUNDATION — Producer entry and autotrophy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not turn trophic position into a permanent taxonomic rank.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 334,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSUMERS, OMNIVORY AND TROPHIC POSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 362,
+      "markdown_body_line_end": 379,
+      "heading": "CLOSING RECALL FLOW - CORE - CONSUMERS, OMNIVORY AND TROPHIC POSITION",
+      "preview": "START / CONCEPT: CORE — Consumers, omnivory and trophic position",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 390,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 409,
+      "heading": "VISUAL FIRST",
+      "preview": "DETRITIVORES, DECOMPOSERS AND NUTRIENT RETURN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 454,
+      "heading": "CLOSING RECALL FLOW - CORE - DETRITIVORES, DECOMPOSERS AND NUTRIENT RETURN",
+      "preview": "START / CONCEPT: CORE — Detritivores, decomposers and nutrient return",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 465,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Food chain versus food web - Habitat, niche and niche dimensions Qualified use: Write the decisive contrast: energy is dissipative, matter is recyclable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 480,
+      "markdown_body_line_end": 487,
+      "heading": "VISUAL FIRST",
+      "preview": "ENERGY FLOW AND MATTER CYCLING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 533,
+      "heading": "CLOSING RECALL FLOW - CORE - ENERGY FLOW AND MATTER CYCLING",
+      "preview": "START / CONCEPT: CORE — Energy flow and matter cycling",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 134.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Ecotone and edge effect Qualified use: Use a web to explain alternative pathways, then qualify the resilience claim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 563,
+      "heading": "VISUAL FIRST",
+      "preview": "FOOD CHAINS, FOOD WEBS AND RESILIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 608,
+      "heading": "CLOSING RECALL FLOW - CORE - FOOD CHAINS, FOOD WEBS AND RESILIENCE",
+      "preview": "START / CONCEPT: CORE — Food chains, food webs and resilience",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 619,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not collapse habitat into niche or omit niche dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 638,
+      "heading": "VISUAL FIRST",
+      "preview": "HABITAT, NICHE AND COMPETITIVE SEPARATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 683,
+      "heading": "CLOSING RECALL FLOW - CORE - HABITAT, NICHE AND COMPETITIVE SEPARATION",
+      "preview": "START / CONCEPT: CORE — Habitat, niche and competitive separation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 694,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Gross and net primary productivity Qualified use: Separate the transition zone from the possible edge pattern.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 713,
+      "heading": "VISUAL FIRST",
+      "preview": "ECOTONES, EDGE EFFECTS AND TRANSITION ZONES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 758,
+      "heading": "CLOSING RECALL FLOW - CORE - ECOTONES, EDGE EFFECTS AND TRANSITION ZONES",
+      "preview": "START / CONCEPT: CORE — Ecotones, edge effects and transition zones",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 769,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not infer stability or biodiversity from stratification alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 784,
+      "markdown_body_line_end": 788,
+      "heading": "VISUAL FIRST",
+      "preview": "STRATIFICATION AND NICHE DIFFERENTIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 833,
+      "heading": "CLOSING RECALL FLOW - CORE - STRATIFICATION AND NICHE DIFFERENTIATION",
+      "preview": "START / CONCEPT: CORE — Stratification and niche differentiation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 844,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not confuse gross productivity, net productivity and standing biomass.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 866,
+      "heading": "VISUAL FIRST",
+      "preview": "GROSS PRODUCTIVITY, NET PRODUCTIVITY AND RATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 576.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 505.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 912,
+      "heading": "CLOSING RECALL FLOW - CORE - GROSS PRODUCTIVITY, NET PRODUCTIVITY AND RATES",
+      "preview": "START / CONCEPT: CORE — Gross productivity, net productivity and rates",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not confuse standing crop with standing state or either with a rate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 942,
+      "heading": "VISUAL FIRST",
+      "preview": "STANDING CROP VERSUS STANDING STATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 987,
+      "heading": "CLOSING RECALL FLOW - CORE - STANDING CROP VERSUS STANDING STATE",
+      "preview": "START / CONCEPT: CORE — Standing crop versus standing state",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 199.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 998,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Interaction and coevolution PYQ routes Qualified use: Distinguish resistance, recovery and the service category actually affected.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1017,
+      "heading": "VISUAL FIRST",
+      "preview": "RESISTANCE, RESILIENCE AND ECOSYSTEM SERVICES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1062,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RESISTANCE, RESILIENCE AND ECOSYSTEM SERVICES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Resistance, resilience and ecosystem services",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1073,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Ocean producers, filter feeders and detritivores - Wetland filtering as structure-function evidence Qualified use: Treat carrying capacity as conditional and route verified PYQ concepts without inventing keys.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1095,
+      "heading": "VISUAL FIRST",
+      "preview": "CARRYING CAPACITY AND ROUTED INTERACTION CONCEPTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1141,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CARRYING CAPACITY AND ROUTED INTERACTION CONCEPTS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Carrying capacity and routed interaction concepts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 317.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 66.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1152,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "20 marks / carrying capacity: organise under regenerative supply, assimilative capacity, habitat connectivity and institutional safeguards (EIA, protected-area/forest law); compare a resilient mangrove/wetland system with a simplified plant",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1174,
+      "heading": "VISUAL FIRST",
+      "preview": "WETLAND FUNCTION, EXTENT-QUALITY LIMITS AND INSTITUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 299.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1206,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Ecological fundamentals. **Grounded in:** NCERT Class XII Biology, Ch. \"Ecosystem\"; NIOS Environmental Stud",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 671.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 547.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1224,
+      "heading": "1. Visual foundation",
+      "preview": "1. ABIOTIC COMPONENT (soil, climate, water, nutrients)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 525.624
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 384.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1242,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 314.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1348,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Treat structure (components and their arrangement) and function (energy flow, matter cycling, resilience) as two faces of the same ecosystem, and evaluate any disturbance by asking whether it breaks a structural link that",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 356.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 297.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1371,
+      "markdown_body_line_end": 1373,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1379,
+      "markdown_body_line_end": 1383,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 472.222
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1391,
+      "markdown_body_line_end": 1391,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 398.622
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 353.954
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1404,
+      "markdown_body_line_end": 1408,
+      "heading": "13.2 Reusable evidence units",
+      "preview": "Claim | Named evidence/example → significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Named evidence/example → significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 609.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1420,
+      "markdown_body_line_end": 1422,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 464.89
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 369.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1437,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 415.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1450,
+      "markdown_body_line_end": 1450,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 256.29
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 211.622
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1472,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - WETLAND FUNCTION, EXTENT-QUALITY LIMITS AND INSTITUTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Wetland function, extent-quality limits and institutions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 420
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2393,
+      "markdown_body_line_end": 2395,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 694.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 599.424
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2401,
+      "markdown_body_line_end": 2405,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 357.422
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2413,
+      "markdown_body_line_end": 2413,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 283.822
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 239.154
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2418,
+      "markdown_body_line_end": 2420,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 239.154
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 144.087
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2426,
+      "markdown_body_line_end": 2435,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 415.89
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2448,
+      "markdown_body_line_end": 2448,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 256.29
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 211.622
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2460,
+      "markdown_body_line_end": 2461,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 116.822
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 50.154
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2467,
+      "markdown_body_line_end": 2469,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 675.79
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2475,
+      "markdown_body_line_end": 2475,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 636.59
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 591.922
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2733,
+      "markdown_body_line_end": 2737,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Ecological fundamentals. **Grounded in:** NCERT Class XII Biology, Ch. \"Ecosystem\"; MoEFCC/ISFR data; Economic Survey 2",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 295.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 194.424
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2749,
+      "markdown_body_line_end": 2754,
+      "heading": "2. The ecosystem-services lens (analytical upgrade)",
+      "preview": "Service category | Definition | Loss example if degraded",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Service category",
+          "Definition",
+          "Loss example if degraded"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 621.89
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2773,
+      "markdown_body_line_end": 2777,
+      "heading": "2A. Ecosystem function as adaptation infrastructure (the current policy frame)",
+      "preview": "Instrument | Ecosystem structure protected | Function purchased | Verified anchor",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Instrument",
+          "Ecosystem structure protected",
+          "Function purchased",
+          "Verified anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 433.69
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 232.788
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2822,
+      "markdown_body_line_end": 2826,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 429.491
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 285.29
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2859,
+      "markdown_body_line_end": 2863,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 604.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 426.69
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2915,
+      "markdown_body_line_end": 2916,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 567.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 501.224
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2922,
+      "markdown_body_line_end": 2924,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 449.624
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 373.722
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2930,
+      "markdown_body_line_end": 2930,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 334.522
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 289.854
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2983,
+      "markdown_body_line_end": 2991,
+      "heading": "Ecosystem Structure and Function: ANSWER-WRITING SPINE",
+      "preview": "FIX THE SYSTEM BOUNDARY, ECOLOGICAL LEVEL AND QUESTION PARAMETER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 321.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3001,
+      "markdown_body_line_end": 3008,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Ecosystem boundary card",
+      "preview": "BOUNDARY -> state the pond, forest patch, wetland or landscape being analysed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3012,
+      "markdown_body_line_end": 3018,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Energy and matter split",
+      "preview": "SOLAR OR CHEMICAL INPUT -> producer fixation -> consumer transfer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3022,
+      "markdown_body_line_end": 3028,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Functional guild ladder",
+      "preview": "PRODUCERS -> create organic matter from inorganic inputs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3032,
+      "markdown_body_line_end": 3038,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Chain and web comparison",
+      "preview": "FOOD CHAIN -> one selected linear route",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3042,
+      "markdown_body_line_end": 3048,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Habitat and niche matrix",
+      "preview": "HABITAT -> physical address",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3052,
+      "markdown_body_line_end": 3058,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Ecotone logic",
+      "preview": "ECOSYSTEM A -> transition zone of variable width -> ECOSYSTEM B",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3062,
+      "markdown_body_line_end": 3068,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Forest stratification section",
+      "preview": "CANOPY -> high light, wind exposure and arboreal niches",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3072,
+      "markdown_body_line_end": 3078,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Productivity accounting",
+      "preview": "GROSS PRIMARY PRODUCTIVITY -> total producer fixation per unit time",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3082,
+      "markdown_body_line_end": 3088,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Resistance and resilience",
+      "preview": "RESISTANCE -> limited departure from prior condition during a disturbance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3092,
+      "markdown_body_line_end": 3099,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Services and contributions",
+      "preview": "PROVISIONING -> material outputs such as food, fibre and water",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3103,
+      "markdown_body_line_end": 3110,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Carrying-capacity answer spine",
+      "preview": "DEFINE -> sustained load without erosion of regenerative functions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3114,
+      "markdown_body_line_end": 3120,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Evidence and institution firewall",
+      "preview": "BASIC OWNER -> definitions, mechanisms and verified PYQ concepts",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2168 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-12\\g2\\environment-and-ecology-12_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-12\\g2\\environment-and-ecology-12_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-12",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Forest Governance CAMPA and Green India Mission - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 415.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 72,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-12\\g2\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 524.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 217.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat CAMPA payment as the legal approval for diversion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 108,
+      "heading": "VISUAL FIRST",
+      "preview": "FOREST DIVERSION APPROVAL AND PAYMENT TRIGGER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 522.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 451.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FOREST DIVERSION APPROVAL AND PAYMENT TRIGGER",
+      "preview": "START / CONCEPT: FOUNDATION — Forest diversion approval and payment trigger",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 184,
+      "heading": "VISUAL FIRST",
+      "preview": "NPV AND COMPENSATORY-AFFORESTATION COST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 229,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NPV AND COMPENSATORY-AFFORESTATION COST",
+      "preview": "START / CONCEPT: FOUNDATION — NPV and compensatory-afforestation cost",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 185.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 240,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 259,
+      "heading": "VISUAL FIRST",
+      "preview": "COMPENSATORY AFFORESTATION FUND ACT ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 467.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 304,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - COMPENSATORY AFFORESTATION FUND ACT ARCHITECTURE",
+      "preview": "START / CONCEPT: FOUNDATION — Compensatory Afforestation Fund Act architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 351.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 334,
+      "heading": "VISUAL FIRST",
+      "preview": "NATIONAL AUTHORITY AND FUND",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 362,
+      "markdown_body_line_end": 379,
+      "heading": "CLOSING RECALL FLOW - CORE - NATIONAL AUTHORITY AND FUND",
+      "preview": "START / CONCEPT: CORE — National Authority and Fund",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 390,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 409,
+      "heading": "VISUAL FIRST",
+      "preview": "STATE AUTHORITIES AND FUNDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 454,
+      "heading": "CLOSING RECALL FLOW - CORE - STATE AUTHORITIES AND FUNDS",
+      "preview": "START / CONCEPT: CORE — State Authorities and Funds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 465,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 350.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 480,
+      "markdown_body_line_end": 487,
+      "heading": "VISUAL FIRST",
+      "preview": "FUND FLOW AND PERMITTED CAMPA USES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 533,
+      "heading": "CLOSING RECALL FLOW - CORE - FUND FLOW AND PERMITTED CAMPA USES",
+      "preview": "START / CONCEPT: CORE — Fund flow and permitted CAMPA uses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 119.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 563,
+      "heading": "VISUAL FIRST",
+      "preview": "ECOLOGICAL NON-EQUIVALENCE OF MATURE FOREST AND PLANTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 608,
+      "heading": "CLOSING RECALL FLOW - CORE - ECOLOGICAL NON-EQUIVALENCE OF MATURE FOREST AND PLANTATION",
+      "preview": "START / CONCEPT: CORE — Ecological non-equivalence of mature forest and plantation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 751.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 530.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 619,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Site and tenure due diligence Qualified use: Test ecology, land tenure and pending rights before site selection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 376.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 309.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 638,
+      "heading": "VISUAL FIRST",
+      "preview": "SITE QUALITY NATIVE BIOME AND TENURE DUE DILIGENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 683,
+      "heading": "CLOSING RECALL FLOW - CORE - SITE QUALITY NATIVE BIOME AND TENURE DUE DILIGENCE",
+      "preview": "START / CONCEPT: CORE — Site quality native biome and tenure due diligence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 199.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 694,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Output versus outcome Qualified use: Separate accrual, expenditure, physical output and ecological outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 713,
+      "heading": "VISUAL FIRST",
+      "preview": "OUTPUT VERSUS OUTCOME METRICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 758,
+      "heading": "CLOSING RECALL FLOW - CORE - OUTPUT VERSUS OUTCOME METRICS",
+      "preview": "START / CONCEPT: CORE — Output versus outcome metrics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 769,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 784,
+      "markdown_body_line_end": 788,
+      "heading": "VISUAL FIRST",
+      "preview": "GREEN INDIA MISSION IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 833,
+      "heading": "CLOSING RECALL FLOW - CORE - GREEN INDIA MISSION IDENTITY",
+      "preview": "START / CONCEPT: CORE — Green India Mission identity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 844,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: GIM official targets - GIM ecosystem scope Qualified use: Quote official targets as targets and connect them to ecosystem services.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 866,
+      "heading": "VISUAL FIRST",
+      "preview": "OFFICIAL GIM TARGETS AND ECOSYSTEM SCOPE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 912,
+      "heading": "CLOSING RECALL FLOW - CORE - OFFICIAL GIM TARGETS AND ECOSYSTEM SCOPE",
+      "preview": "START / CONCEPT: CORE — Official GIM targets and ecosystem scope",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 306
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 942,
+      "heading": "VISUAL FIRST",
+      "preview": "GIM CAMPA MGNREGS CONVERGENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 987,
+      "heading": "CLOSING RECALL FLOW - CORE - GIM CAMPA MGNREGS CONVERGENCE",
+      "preview": "START / CONCEPT: CORE — GIM CAMPA MGNREGS convergence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 998,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Mission-versus-CAMPA Qualified use: Distinguish CAMPA and GIM while stating the statute-court sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1017,
+      "heading": "VISUAL FIRST",
+      "preview": "CAMPA GIM DISTINCTION AND FOREST-LAW VINTAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1062,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CAMPA GIM DISTINCTION AND FOREST-LAW VINTAGE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — CAMPA GIM distinction and forest-law vintage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1073,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Forest-law vintage - Green-credit boundary Qualified use: Keep green credit separate from carbon accounting and restoration proof.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1095,
+      "heading": "VISUAL FIRST",
+      "preview": "GREEN-CREDIT BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1141,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - GREEN-CREDIT BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Green-credit boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 275
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 316.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 85.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1152,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Audited PYQ ownership - Live-data boundary Qualified use: Close with answer-free PYQs and failed current fund-data attempts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1174,
+      "heading": "VISUAL FIRST",
+      "preview": "AUDITED PYQS AND LIVE-DATA BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1206,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Compensatory afforestation and national forest-restoration policy. **Grounded in:** Compensatory Afforestat",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 629.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1230,
+      "heading": "1. Visual foundation",
+      "preview": "FOREST LAND DIVERTED FOR NON-FOREST (DEVELOPMENT) USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 607.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 406.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1240,
+      "markdown_body_line_end": 1249,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 212.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1394,
+      "markdown_body_line_end": 1394,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Distinguish CAMPA's diversion-triggered compensatory-financing role from the Green India Mission's broader climate-and-ecosystem restoration mandate, and judge both by ecological restoration quality and independently veri",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 559.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 501.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1418,
+      "markdown_body_line_end": 1420,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 212.224
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 131.356
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1426,
+      "markdown_body_line_end": 1428,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 706.39
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1434,
+      "markdown_body_line_end": 1434,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 667.19
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 622.522
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1446,
+      "markdown_body_line_end": 1450,
+      "heading": "13.2 Reusable evidence units",
+      "preview": "Claim | Named evidence/example → significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Named evidence/example → significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 499.722
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 299.52
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1470,
+      "markdown_body_line_end": 1472,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 116.72
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1478,
+      "markdown_body_line_end": 1482,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 749.424
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 580.022
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1490,
+      "markdown_body_line_end": 1490,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 506.422
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 461.754
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1495,
+      "markdown_body_line_end": 1512,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - AUDITED PYQS AND LIVE-DATA BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Audited PYQs and live-data boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 310
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 439.754
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 208.754
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2432,
+      "markdown_body_line_end": 2434,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 452.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2440,
+      "markdown_body_line_end": 2442,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 320.424
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 223.522
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2448,
+      "markdown_body_line_end": 2448,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 184.322
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 139.654
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2453,
+      "markdown_body_line_end": 2455,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 139.654
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 58.787
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2461,
+      "markdown_body_line_end": 2465,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 599.49
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2473,
+      "markdown_body_line_end": 2473,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 525.89
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 481.222
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2722,
+      "markdown_body_line_end": 2726,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Compensatory afforestation and national forest-restoration policy. **Grounded in:** Compensatory Afforestation Fund Act",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 579.891
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 478.424
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2741,
+      "markdown_body_line_end": 2744,
+      "heading": "2. Fund architecture and the fund-utilisation gap",
+      "preview": "Layer | Statutory function | Documented performance concern",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Layer",
+          "Statutory function",
+          "Documented performance concern"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 335.024
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 178.422
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2775,
+      "markdown_body_line_end": 2779,
+      "heading": "3A. The 2023 amendment and the 2024 judicial correction: a two-step legal shift",
+      "preview": "Step | What changed | Analytical reading",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Step",
+          "What changed",
+          "Analytical reading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 263.29
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2817,
+      "markdown_body_line_end": 2821,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 590.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 434.69
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2853,
+      "markdown_body_line_end": 2857,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 587.09
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2957,
+      "markdown_body_line_end": 2965,
+      "heading": "Forest Governance CAMPA and Green India Mission: FOREST-GOVERNANCE ANSWER SPINE",
+      "preview": "START WITH THE FOREST-DIVERSION APPROVAL OR EXEMPTION QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2975,
+      "markdown_body_line_end": 2982,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Diversion-to-finance firewall",
+      "preview": "PROJECT PROPOSAL -> forest-conservation legal scrutiny",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 556.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 484.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2986,
+      "markdown_body_line_end": 2992,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Payment distinction",
+      "preview": "NPV -> specified ecosystem-service value in the approval framework",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 462.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 400.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2996,
+      "markdown_body_line_end": 3002,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Fund architecture",
+      "preview": "CAF ACT 2016 -> statutory framework",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 378.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 316.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3006,
+      "markdown_body_line_end": 3012,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: National-State authority matrix",
+      "preview": "NATIONAL -> coordination, national functions and oversight",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3016,
+      "markdown_body_line_end": 3022,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Performance chain",
+      "preview": "ACCRUAL -> money received",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3026,
+      "markdown_body_line_end": 3032,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Permitted-use gate",
+      "preview": "PROPOSED ACTIVITY -> locate Act, Rules and annual plan authority",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3036,
+      "markdown_body_line_end": 3042,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Ecological equivalence test",
+      "preview": "DIVERTED MATURE FOREST -> layered structure and accumulated history",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3046,
+      "markdown_body_line_end": 3052,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Site and rights gate",
+      "preview": "LAND IDENTIFIED -> verify legal and recorded status",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3056,
+      "markdown_body_line_end": 3062,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: GIM identity and scope",
+      "preview": "NAPCC -> original eight-mission architecture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3066,
+      "markdown_body_line_end": 3073,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Target-versus-achievement gate",
+      "preview": "OFFICIAL TARGET -> 5 mha cover increase",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3077,
+      "markdown_body_line_end": 3084,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Convergence matrix",
+      "preview": "GIM -> ecosystem-service mission objectives",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3088,
+      "markdown_body_line_end": 3094,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Law metric and PYQ spine",
+      "preview": "LAW -> 2023 statute plus February 2024 interim direction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 536.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    }
+  ]
+}

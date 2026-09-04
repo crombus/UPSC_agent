@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Cycle accounting frame
+SYSTEM BOUNDARY -> atmosphere, water, soil, sediment and living biomass included
+POOL -> amount held in one reservoir at a stated time
+FLUX -> transfer between reservoirs per stated time
+PROCESS -> biological, chemical or geological transformation
+BALANCE -> inputs minus outputs; never assumed from one isolated stock
+MUST REMEMBER: Biogeochemical cycles move elements among reservoirs through biological,...
+
+ASCII MASTER FLOW — PANEL 2/12: Reservoir classification
+GASEOUS -> major atmosphere or ocean reservoir
+SEDIMENTARY -> major crust, soil or sediment reservoir
+CARBON AND NITROGEN -> prominent atmospheric exchange
+PHOSPHORUS -> rock-weathering and sediment pathway
+CAUTION -> class does not set one universal cycling speed
+
+ASCII MASTER FLOW — PANEL 3/12: Carbon movement
+ATMOSPHERIC OR DISSOLVED CARBON -> photosynthetic fixation
+PRODUCER BIOMASS -> consumers and detrital pathways
+RESPIRATION -> carbon returned during metabolism
+DECOMPOSITION AND COMBUSTION -> additional return pathways
+RULE -> stored carbon and annual transfer are different measures
+
+ASCII MASTER FLOW — PANEL 4/12: Nitrogen transformation rail
+ATMOSPHERIC NITROGEN -> fixation -> ammonia or usable nitrogen forms
+ORGANIC NITROGEN -> ammonification -> ammonia
+AMMONIA -> nitrification -> nitrite -> nitrate
+NITRATE -> plant uptake or denitrification
+DENITRIFICATION -> return toward atmospheric nitrogen
+
+ASCII MASTER FLOW — PANEL 5/12: Nitrogen organism map
+RHIZOBIUM -> symbiotic fixation associated with legume roots
+AZOTOBACTER -> free-living fixation example in the owner
+NITROSOMONAS -> ammonia to nitrite step
+NITROBACTER -> nitrite to nitrate step
+PSEUDOMONAS-TYPE -> denitrification route
+
+ASCII MASTER FLOW — PANEL 6/12: Phosphorus path
+PHOSPHATE ROCK -> weathering -> soil or water phosphate
+PLANT UPTAKE -> consumer transfer -> detrital return
+RUNOFF -> aquatic loading -> sedimentation
+MINING AND FERTILISER -> accelerate extraction and dispersal
+BOUNDARY -> no significant atmospheric phase in the owner
+
+ASCII MASTER FLOW — PANEL 7/12: Cycle-specific human pressure
+CARBON -> fossil-fuel combustion and land-cover change
+NITROGEN -> synthetic fertiliser and combustion-related reactive nitrogen
+PHOSPHORUS -> mining, fertiliser application and runoff
+OUTCOMES -> climate forcing, nutrient pollution and resource loss differ
+POLICY -> source control must match the cycle and reservoir
+
+ASCII MASTER FLOW — PANEL 8/12: Eutrophication mechanism
+NUTRIENT ENRICHMENT -> increased algal or plant production
+ORGANIC MATERIAL ACCUMULATES -> decomposer activity rises
+OXYGEN DEMAND RISES -> dissolved oxygen may decline
+ECOLOGICAL STRESS -> composition changes and mortality may occur
+CLASSIFY -> natural ageing versus human-accelerated cultural eutrophication
+
+ASCII MASTER FLOW — PANEL 9/12: Three pyramid parameters
+NUMBERS -> count of organisms at each trophic level
+BIOMASS -> standing living material at a stated time
+ENERGY -> transfer through trophic levels over time
+SHAPE -> depends on parameter and ecosystem
+RULE -> only the energy pyramid is always upright
+
+ASCII MASTER FLOW — PANEL 10/12: Aquatic biomass inversion
+SMALL PHYTOPLANKTON STANDING CROP -> rapid replacement
+HIGH TURNOVER -> continued production over the measurement period
+CONSUMER STANDING BIOMASS -> may exceed producer biomass at one instant
+ENERGY TRANSFER -> still declines upward
+VERDICT -> biomass inversion is not energy inversion
+CLOSE DISTINCTION: Reservoir stock is not flux, residence time is not turnover rate,...
+
+ASCII MASTER FLOW — PANEL 11/12: Heuristic and model firewall
+ENERGY LOSS -> qualitative thermodynamic direction is robust
+TEN-PER-CENT RULE -> owner labels it an average heuristic
+OMNIVORY -> weakens a rigid one-level assignment
+SEASONALITY -> changes standing stocks and feeding relations
+PYRAMID -> useful summary, not a complete food web
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name pool, process, direction, limiting...
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ and evidence boundary
+ROUTED CONCEPTS -> agricultural nitrogen, rock-weathered phosphorus, fixation links
+BASIC PRACTICE -> reservoir, process and organism distinctions
+OFFICIAL PAPER -> demand wording only
+NO KEY -> no option or answer inferred
+LIVE CHECK -> no rate, pool, efficiency or status imported from a stub

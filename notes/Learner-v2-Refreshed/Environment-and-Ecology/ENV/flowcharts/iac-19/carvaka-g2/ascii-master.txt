@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Climate-treaty hierarchy
+UNFCCC -> framework convention, principles and institutions
+KYOTO PROTOCOL -> commitment-period instrument under Convention
+PARIS AGREEMENT -> universal NDC-cycle agreement
+COP CMP CMA DECISIONS -> implementation and governance
+NATIONAL INSTRUMENTS -> domestic communication and action
+MUST REMEMBER: UNFCCC supplies principles and institutions, Kyoto created differentiated...
+
+ASCII MASTER FLOW — PANEL 2/12: Governing-body matrix
+COP -> Parties to the Convention
+CMP -> Parties to the Kyoto Protocol
+CMA -> Parties to the Paris Agreement
+DECISION LABEL -> identifies the governing body and session
+RULE -> never detach a decision from its instrument
+
+ASCII MASTER FLOW — PANEL 3/12: Legal-status ladder
+ADOPTION -> text agreed by the competent conference
+SIGNATURE -> political authentication where applicable
+RATIFICATION OR ACCESSION -> consent to be bound
+ENTRY INTO FORCE -> treaty conditions satisfied
+IMPLEMENTATION -> domestic and international operation
+
+ASCII MASTER FLOW — PANEL 4/12: Kyoto coverage map
+ANNEX I COVERED GROUP -> quantified commitment architecture
+NON-ANNEX I -> no Kyoto-style quantified commitment
+COMMITMENT PERIOD -> time-bounded obligation
+CBDR-RC -> developed-country lead in historical design
+BOUNDARY -> do not project Kyoto's binary onto every Paris duty
+
+ASCII MASTER FLOW — PANEL 5/12: Kyoto mechanism matrix
+EMISSIONS TRADING -> unit transfer across covered entities
+JOINT IMPLEMENTATION -> project pathway within Annex I setting
+CDM -> project pathway hosted in a developing country
+ACCOUNTING -> mechanism-specific units and rules
+NO MERGER -> participation and credit origins differ
+
+ASCII MASTER FLOW — PANEL 6/12: Kyoto-to-Paris replacement logic
+KYOTO -> top-down quantified commitments for covered group
+PARTICIPATION LIMIT -> narrower substantive target coverage
+PARIS -> nationally determined contributions by all Parties
+TRANSPARENCY PLUS CYCLE -> iterative accountability design
+TRADE-OFF -> universality does not guarantee adequacy
+
+ASCII MASTER FLOW — PANEL 7/12: Paris obligation split
+PROCEDURE -> prepare, communicate and maintain successive NDCs
+DOMESTIC MEASURES -> pursue implementation action
+SUBSTANTIVE NUMBER -> nationally determined
+PROGRESSION -> next contribution expected to advance ambition
+NO UNIVERSAL CUT -> Agreement does not assign one percentage
+
+ASCII MASTER FLOW — PANEL 8/12: Transparency-to-stocktake rail
+NATIONAL REPORTING -> inventory and progress information
+TECHNICAL REVIEW -> methods and consistency examined
+MULTILATERAL CONSIDERATION -> transparency dialogue
+GLOBAL STOCKTAKE -> collective progress assessment
+NEXT NDC -> nationally determined response informed by cycle
+
+ASCII MASTER FLOW — PANEL 9/12: Differentiation compass
+COMMON RESPONSIBILITY -> all Parties participate
+DIFFERENTIATED RESPONSIBILITY -> historical and contextual equity
+CAPABILITY -> resources and institutional capacity matter
+NATIONAL CIRCUMSTANCES -> Paris application is contextual
+FINANCE AND TECHNOLOGY -> distinct support questions
+
+ASCII MASTER FLOW — PANEL 10/12: Article 6 fork
+6.2 -> cooperative approaches and transferred outcomes
+6.4 -> central mechanism under Paris governance
+6.8 -> non-market approaches
+ACCOUNTING -> authorisation and double-counting safeguards
+OUTCOME CLAIM -> requires verified delivery evidence
+CLOSE DISTINCTION: Convention membership is not Annex status, Kyoto commitment is not...
+
+ASCII MASTER FLOW — PANEL 11/12: Response-and-finance matrix
+MITIGATION -> limit sources or enhance sinks
+ADAPTATION -> reduce vulnerability and manage impacts
+LOSS AND DAMAGE -> residual harms
+GOAL OR PLEDGE -> stated commitment
+DELIVERY -> verified contribution or disbursement
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, article/decision,...
+
+ASCII MASTER FLOW — PANEL 12/12: Treaty answer spine
+IDENTIFY -> Convention, Protocol, Agreement or decision
+DATE -> adoption, ratification and entry into force separately
+COMPARE -> coverage, obligation, cycle and mechanism
+EVALUATE -> transparency, equity, finance and delivery
+AUDIT -> final adopted text, not draft or roadmap

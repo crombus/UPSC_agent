@@ -1,0 +1,1151 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-21",
+  "subject": "Environment-and-Ecology",
+  "title": "CARBON MARKETS CCUS AND DIRECT AIR CAPTURE",
+  "short_route": "CARBON-UNIT IDENTITY FORK → MARKET ARCHITECTURE MATRIX → CLAIM-TYPE LADDER → INTEGRITY GATE → CREDIT LIFECYCLE RAIL → ACCOUNTING-RISK FIREWALL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-21-deep-review-2026-09-03-g3.json",
+  "ascii_spec_sha256": "d68dd6f9404cf33cfe6c02e1be0685d26e33ae8ef2f4c2255f99e6200b702f5b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CARBON-UNIT IDENTITY FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CARBON-UNIT IDENTITY FORK",
+          "role": "primary"
+        },
+        {
+          "text": "PERMISSION UNIT INSIDE A COMPLIANCE CONSTRAINT",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFIED OUTCOME AGAINST AN APPROVED BASELINE",
+          "role": "comparison"
+        },
+        {
+          "text": "ALLOCATION OR AUCTION VERSUS METHODOLOGY AND ISSUANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SURRENDER OR RETIREMENT UNDER THE APPLICABLE RULE",
+          "role": "primary"
+        },
+        {
+          "text": "TRADABILITY DOES NOT ERASE DIFFERENT UNIT ORIGINS",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "CARBON PRICING AND MARKETS ASSIGN TRADABLE OR FISCAL INCENTIVES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ALLOWANCE → permission unit inside a compliance constraint",
+        "CREDIT → verified outcome against an approved baseline",
+        "ORIGIN → allocation or auction versus methodology and issuance",
+        "USE → surrender or retirement under the applicable rule",
+        "TRAP → tradability does not erase different unit origins"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ALLOWANCE → permission unit inside a compliance constraint",
+            "CREDIT → verified outcome against an approved baseline"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ORIGIN → allocation or auction versus methodology and issuance",
+            "USE → surrender or retirement under the applicable rule"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → tradability does not erase different unit origins",
+            "MUST REMEMBER: Carbon pricing and markets assign tradable or fiscal incentives to..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → tradability does not erase different unit origins.",
+      "source_references": [
+        "Allowance-credit distinction",
+        "Issuance-transfer-retirement",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MARKET ARCHITECTURE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MARKET ARCHITECTURE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CAP AND TRADE",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSOLUTE COVERED-EMISSIONS CEILING",
+          "role": "comparison"
+        },
+        {
+          "text": "BASELINE AND CREDIT",
+          "role": "evidence"
+        },
+        {
+          "text": "PERFORMANCE AGAINST TARGET OR BASELINE",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL OBLIGATION AND SURRENDER REQUIREMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-MANDATED PURCHASE OR CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT CONSTRAINS EMISSIONS AND WHO MUST ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CAP AND TRADE → absolute covered-emissions ceiling",
+        "BASELINE AND CREDIT → performance against target or baseline",
+        "COMPLIANCE → legal obligation and surrender requirement",
+        "VOLUNTARY → non-mandated purchase or claim",
+        "QUESTION → what constrains emissions and who must act"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CAP AND TRADE → absolute covered-emissions ceiling",
+          "COMPLIANCE → legal obligation and surrender requirement",
+          "QUESTION → what constrains emissions and who must act"
+        ],
+        [
+          "BASELINE AND CREDIT → performance against target or baseline",
+          "VOLUNTARY → non-mandated purchase or claim",
+          "CAP AND TRADE → absolute covered-emissions ceiling"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAP AND TRADE → absolute covered-emissions ceiling",
+            "BASELINE AND CREDIT → performance against target or baseline"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPLIANCE → legal obligation and surrender requirement",
+            "VOLUNTARY → non-mandated purchase or claim"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUESTION → what constrains emissions and who must act",
+            "CAP AND TRADE → absolute covered-emissions ceiling"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUESTION → what constrains emissions and who must act.",
+      "source_references": [
+        "Cap-and-trade boundary",
+        "Baseline-and-credit boundary",
+        "Compliance-voluntary boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CLAIM-TYPE LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLAIM-TYPE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTERFACTUAL SOURCE DOES NOT ARISE",
+          "role": "caution"
+        },
+        {
+          "text": "EXISTING SOURCE EMITS LESS",
+          "role": "evidence"
+        },
+        {
+          "text": "CARBON LEAVES AMBIENT ATMOSPHERE",
+          "role": "evidence"
+        },
+        {
+          "text": "DURATION AND REVERSAL RISK DETERMINE DURABILITY",
+          "role": "caution"
+        },
+        {
+          "text": "NO MERGER",
+          "role": "caution"
+        },
+        {
+          "text": "EACH SUPPORTS A DIFFERENT CLIMATE CLAIM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "AVOIDANCE → counterfactual source does not arise",
+        "REDUCTION → existing source emits less",
+        "REMOVAL → carbon leaves ambient atmosphere",
+        "STORAGE → duration and reversal risk determine durability",
+        "NO MERGER → each supports a different climate claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AVOIDANCE → counterfactual source does not arise",
+            "REDUCTION → existing source emits less"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REMOVAL → carbon leaves ambient atmosphere",
+            "STORAGE → duration and reversal risk determine durability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO MERGER → each supports a different climate claim",
+            "AVOIDANCE → counterfactual source does not arise"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO MERGER → each supports a different climate claim.",
+      "source_references": [
+        "Avoidance-reduction-removal",
+        "BECCS boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INTEGRITY GATE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTEGRITY GATE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE THE COUNTERFACTUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST BUSINESS-AS-USUAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "QUANTIFY BOUNDARY PERIOD AND OUTCOME",
+          "role": "evidence"
+        },
+        {
+          "text": "INDEPENDENT EVIDENCE CHECK",
+          "role": "evidence"
+        },
+        {
+          "text": "UNIT CREATED ONLY AFTER RULE-DEFINED GATES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BASELINE → define the counterfactual",
+        "ADDITIONALITY → test business-as-usual risk",
+        "MRV → quantify boundary period and outcome",
+        "VERIFICATION → independent evidence check",
+        "ISSUANCE → unit created only after rule-defined gates"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BASELINE → define the counterfactual",
+            "ADDITIONALITY → test business-as-usual risk"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MRV → quantify boundary period and outcome",
+            "VERIFICATION → independent evidence check"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ISSUANCE → unit created only after rule-defined gates",
+            "BASELINE → define the counterfactual"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ISSUANCE → unit created only after rule-defined gates.",
+      "source_references": [
+        "Additionality and baseline",
+        "MRV and verification",
+        "Issuance-transfer-retirement",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CREDIT LIFECYCLE RAIL",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CREDIT LIFECYCLE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGN OR VALIDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "METHOD AND PROJECT ACCEPTED",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTIVITY AND OUTCOME RECORDED",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE EXAMINED",
+          "role": "evidence"
+        },
+        {
+          "text": "ISSUANCE AND TRANSFER",
+          "role": "outcome"
+        },
+        {
+          "text": "TRADABLE UNIT ENTERS REGISTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIT REMOVED FROM CIRCULATION FOR A CLAIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DESIGN OR VALIDATION → method and project accepted",
+        "MONITORING → activity and outcome recorded",
+        "VERIFICATION → evidence examined",
+        "ISSUANCE AND TRANSFER → tradable unit enters registry",
+        "RETIREMENT → unit removed from circulation for a claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DESIGN OR VALIDATION → method and project accepted",
+            "MONITORING → activity and outcome recorded"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VERIFICATION → evidence examined",
+            "ISSUANCE AND TRANSFER → tradable unit enters registry"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RETIREMENT → unit removed from circulation for a claim",
+            "DESIGN OR VALIDATION → method and project accepted"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RETIREMENT → unit removed from circulation for a claim.",
+      "source_references": [
+        "MRV and verification",
+        "Issuance-transfer-retirement",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ACCOUNTING-RISK FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACCOUNTING-RISK FIREWALL",
+          "role": "caution"
+        },
+        {
+          "text": "DOUBLE ISSUANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MORE THAN ONE UNIT FOR ONE OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "DOUBLE USE",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE UNIT USED MORE THAN ONCE",
+          "role": "primary"
+        },
+        {
+          "text": "DOUBLE CLAIMING",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME OUTCOME CLAIMED BY MULTIPLE ACTORS",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRESPONDING ADJUSTMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DOUBLE ISSUANCE → more than one unit for one outcome",
+        "DOUBLE USE → one unit used more than once",
+        "DOUBLE CLAIMING → same outcome claimed by multiple actors",
+        "CORRESPONDING ADJUSTMENT → international accounting treatment",
+        "RULE → adjustment is not issuance transfer or retirement"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DOUBLE ISSUANCE → more than one unit for one outcome",
+          "DOUBLE CLAIMING → same outcome claimed by multiple actors",
+          "RULE → adjustment is not issuance transfer or retirement"
+        ],
+        [
+          "DOUBLE USE → one unit used more than once",
+          "CORRESPONDING ADJUSTMENT → international accounting treatment",
+          "DOUBLE ISSUANCE → more than one unit for one outcome"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DOUBLE ISSUANCE → more than one unit for one outcome",
+            "DOUBLE USE → one unit used more than once"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DOUBLE CLAIMING → same outcome claimed by multiple actors",
+            "CORRESPONDING ADJUSTMENT → international accounting treatment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → adjustment is not issuance transfer or retirement",
+            "DOUBLE ISSUANCE → more than one unit for one outcome"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → adjustment is not issuance transfer or retirement.",
+      "source_references": [
+        "Double counting boundary",
+        "Article 6 accounting boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA CCTS STAGE LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA CCTS STAGE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL BASIS",
+          "role": "outcome"
+        },
+        {
+          "text": "ENABLING FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEME DESIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPLIANCE AND OFFSET PATHWAYS",
+          "role": "primary"
+        },
+        {
+          "text": "TARGET OR METHODOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "OBLIGATION AND CREDIT RULES",
+          "role": "comparison"
+        },
+        {
+          "text": "ISSUANCE AND TRADING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEGAL BASIS → enabling framework",
+        "SCHEME DESIGN → compliance and offset pathways",
+        "TARGET OR METHODOLOGY → obligation and credit rules",
+        "ISSUANCE AND TRADING → operational transactions",
+        "PRICE AND VOLUME → dated market evidence only"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEGAL BASIS → enabling framework",
+            "SCHEME DESIGN → compliance and offset pathways"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TARGET OR METHODOLOGY → obligation and credit rules",
+            "ISSUANCE AND TRADING → operational transactions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRICE AND VOLUME → dated market evidence only",
+            "LEGAL BASIS → enabling framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRICE AND VOLUME → dated market evidence only.",
+      "source_references": [
+        "India CCTS status boundary",
+        "Current evidence boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CCUS CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CCUS CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CONCENTRATED CARBON DIOXIDE STREAM",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPTURE AND CONDITIONING",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATION AND PREPARATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PIPELINE SHIP ROAD OR OTHER ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "UTILISATION OR STORAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "DESTINATION DETERMINES DURABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MONITORING AND CLOSURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE → concentrated carbon dioxide stream",
+        "CAPTURE AND CONDITIONING → separation and preparation",
+        "TRANSPORT → pipeline ship road or other route",
+        "UTILISATION OR STORAGE → destination determines durability",
+        "MONITORING AND CLOSURE → permanence and responsibility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCE → concentrated carbon dioxide stream",
+            "CAPTURE AND CONDITIONING → separation and preparation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSPORT → pipeline ship road or other route",
+            "UTILISATION OR STORAGE → destination determines durability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MONITORING AND CLOSURE → permanence and responsibility",
+            "SOURCE → concentrated carbon dioxide stream"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSPORT → pipeline ship road or other route.",
+      "source_references": [
+        "CCUS chain",
+        "Point-source capture",
+        "Utilisation-storage boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "UTILISATION-STORAGE TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "UTILISATION-STORAGE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCT USE",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW LONG IS CARBON RETAINED",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCESS USE",
+          "role": "mechanism"
+        },
+        {
+          "text": "DOES LATER RELEASE OCCUR",
+          "role": "primary"
+        },
+        {
+          "text": "GEOLOGICAL STORAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTAINMENT AND MONITORING",
+          "role": "comparison"
+        },
+        {
+          "text": "REVERSAL RISK AND REMEDIATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRODUCT USE → how long is carbon retained",
+        "PROCESS USE → does later release occur",
+        "GEOLOGICAL STORAGE → containment and monitoring",
+        "LEAKAGE → reversal risk and remediation",
+        "NET BENEFIT → full lifecycle accounting required"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRODUCT USE → how long is carbon retained",
+            "PROCESS USE → does later release occur"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GEOLOGICAL STORAGE → containment and monitoring",
+            "LEAKAGE → reversal risk and remediation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NET BENEFIT → full lifecycle accounting required",
+            "PRODUCT USE → how long is carbon retained"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRODUCT USE → how long is carbon retained.",
+      "source_references": [
+        "Utilisation-storage boundary",
+        "Permanence and leakage",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CAPTURE TECHNOLOGY COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CAPTURE TECHNOLOGY COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "POINT SOURCE CCUS",
+          "role": "evidence"
+        },
+        {
+          "text": "CARBON INTERCEPTED BEFORE RELEASE",
+          "role": "comparison"
+        },
+        {
+          "text": "CARBON SEPARATED FROM AMBIENT AIR",
+          "role": "evidence"
+        },
+        {
+          "text": "BIOGENIC CARBON PLUS CAPTURE AND STORAGE",
+          "role": "primary"
+        },
+        {
+          "text": "REMOVAL TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "ATMOSPHERIC ORIGIN PLUS DURABLE STORAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIFECYCLE TEST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POINT SOURCE CCUS → carbon intercepted before release",
+        "DAC → carbon separated from ambient air",
+        "BECCS → biogenic carbon plus capture and storage",
+        "REMOVAL TEST → atmospheric origin plus durable storage",
+        "LIFECYCLE TEST → energy land transport and reversal"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "POINT SOURCE CCUS → carbon intercepted before release",
+          "BECCS → biogenic carbon plus capture and storage",
+          "LIFECYCLE TEST → energy land transport and reversal"
+        ],
+        [
+          "DAC → carbon separated from ambient air",
+          "REMOVAL TEST → atmospheric origin plus durable storage",
+          "CLOSE DISTINCTION: Allowance is not offset, avoidance is not removal, capture is not..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POINT SOURCE CCUS → carbon intercepted before release",
+            "DAC → carbon separated from ambient air"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BECCS → biogenic carbon plus capture and storage",
+            "REMOVAL TEST → atmospheric origin plus durable storage"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIFECYCLE TEST → energy land transport and reversal",
+            "CLOSE DISTINCTION: Allowance is not offset, avoidance is not removal, capture is not..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Allowance is not offset, avoidance is not removal, capture is not.",
+      "source_references": [
+        "DAC identity",
+        "DAC versus point-source CCUS",
+        "BECCS boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "NET-ZERO MITIGATION HIERARCHY",
+      "structural_type": "layered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NET-ZERO MITIGATION HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "PREVENT UNNECESSARY EMISSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "DECARBONISE EXISTING ACTIVITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "ADDRESS HARD-TO-ABATE POINT SOURCES",
+          "role": "evidence"
+        },
+        {
+          "text": "COUNTERBALANCE GENUINELY RESIDUAL EMISSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "NET BALANCE NEEDS ONE BOUNDARY AND PERIOD",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "FIX SYSTEM BOUNDARY, BASELINE, UNIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AVOID → prevent unnecessary emissions",
+        "REDUCE → decarbonise existing activities",
+        "CAPTURE → address hard-to-abate point sources",
+        "REMOVE → counterbalance genuinely residual emissions",
+        "VERIFY → net balance needs one boundary and period"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AVOID → prevent unnecessary emissions",
+            "REDUCE → decarbonise existing activities"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPTURE → address hard-to-abate point sources",
+            "REMOVE → counterbalance genuinely residual emissions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → net balance needs one boundary and period",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix system boundary, baseline, unit,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix system boundary, baseline, unit,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix system boundary, baseline, unit,.",
+      "source_references": [
+        "Residual-emissions role",
+        "Avoidance-reduction-removal",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CARBON INSTRUMENTS ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CARBON INSTRUMENTS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "UNIT MARKET AND CLAIM TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "BASELINE MRV ISSUANCE TRANSFER RETIREMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPTURE TRANSPORT UTILISATION OR STORAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "PERMANENCE LEAKAGE LIFECYCLE AND DOUBLE COUNTING",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT RULE PRICE VOLUME COST AND CAPACITY SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY → unit market and claim type",
+        "TRACE → baseline MRV issuance transfer retirement",
+        "FOLLOW → capture transport utilisation or storage",
+        "TEST → permanence leakage lifecycle and double counting",
+        "AUDIT → current rule price volume cost and capacity source"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSIFY → unit market and claim type",
+            "TRACE → baseline MRV issuance transfer retirement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FOLLOW → capture transport utilisation or storage",
+            "TEST → permanence leakage lifecycle and double counting"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AUDIT → current rule price volume cost and capacity source",
+            "CLASSIFY → unit market and claim type"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUDIT → current rule price volume cost and capacity source.",
+      "source_references": [
+        "Current evidence boundary",
+        "India CCTS status boundary",
+        "Permanence and leakage",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g3\\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DAC'S FUNDAMENTAL TECHNICAL CHALLENGE IS THERMODYNAMIC",
+          "role": "outcome"
+        },
+        {
+          "text": "ATMOSPHERIC CO₂ CONCENTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY IMPLICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "BECAUSE DAC DELIVERS GENUINE ATMOSPHERIC REMOVAL (UNLIKE",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBAL CCUS AND DAC DEPLOYMENT CAPACITY REMAINS SMALL RELATIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE INDIAN CARBON MARKET'S SPECIFIC SECTORAL COVERAGE, TARGET-SETTING METHODOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "MRV-SYSTEM ROBUSTNESS FOR BOTH INDIA'S DOMESTIC CARBON MARKET AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: DAC's fundamental technical challenge is thermodynamic: atmospheric CO₂ concentration",
+            "CAUTION: Policy implication: because DAC delivers genuine atmospheric removal (unlike",
+            "CAUTION: Global CCUS and DAC deployment capacity remains small relative to the scale IPCC",
+            "CAUTION: The Indian Carbon Market's specific sectoral coverage, target-setting methodology and"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: MRV-system robustness for both India's domestic carbon market and international",
+            "India's carbon market has a two-track design: a compliance mechanism (building on PAT,",
+            "Standard fossil-source CCUS is an emissions-avoidance technology; genuine atmospheric",
+            "DAC's higher cost/energy-intensity relative to CCUS stems from the much lower CO₂"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Net-zero frameworks require genuine removal technologies (DAC/BECCS/nature-based sinks)",
+            "NOT: All CCUS applications, including standard fossil-power-plant CCUS, deliver negative",
+            "NOT: India's carbon market is a single-track, purely compliance-based system. - It has a",
+            "NOT: DAC is currently deployed at a scale comparable to global CCUS capacity. - DAC remains"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Infrastructure service chain
+IDENTIFY + APPRAISE
+-> FINANCE + ALLOCATE RISK
+-> BUILD + COMMISSION
+-> OPERATE + MAINTAIN -> USABLE SERVICE
+
+ASCII MASTER FLOW — PANEL 2/12: Infrastructure effects
+DEMAND CHANNEL -> construction activity
+SUPPLY CHANNEL -> lower cost + reliability
+CAPABILITY CHANNEL -> health / education / water
+OUTCOME DEPENDS -> completion + connection + use
+
+ASCII MASTER FLOW — PANEL 3/12: Project appraisal gate
+DEMAND + ENGINEERING
+LAND + ENVIRONMENT + SOCIAL
+FINANCE + INSTITUTION
+PASS BEFORE bankability claim
+
+ASCII MASTER FLOW — PANEL 4/12: PPP risk matrix
+PUBLIC -> land / policy where controllable
+PRIVATE -> construction / operation where controllable
+DEMAND -> toll or government-payment design
+SHARED -> force majeure + renegotiation rules
+
+ASCII MASTER FLOW — PANEL 5/12: Road-model comparison
+BOT TOLL -> private traffic exposure
+BOT ANNUITY -> public payment stream
+HAM -> milestone support + annuity
+TOT -> brownfield operating rights
+
+ASCII MASTER FLOW — PANEL 6/12: VGF decision route
+ECONOMICALLY JUSTIFIED?
+COMMERCIALLY SUB-VIABLE?
+COMPETITIVE PRIVATE SELECTION?
+NOTIFIED SUPPORT -> still test demand + land + contract
+
+ASCII MASTER FLOW — PANEL 7/12: PPP stress and correction
+POST-2012 -> BOT-toll stress
+2015 -> Kelkar Committee
+2016 ONWARD -> HAM correction
+LIMIT -> risk shifts; it does not disappear
+
+ASCII MASTER FLOW — PANEL 8/12: Infrastructure financing fork
+NIP -> planning pipeline
+PUBLIC CAPEX -> new investment spending
+NMP -> brownfield monetisation
+PPP -> contract + risk allocation
+
+ASCII MASTER FLOW — PANEL 9/12: GatiShakti and NLP
+GATISHAKTI -> GIS planning coordination
+NLP -> process + digital + standards + skills
+BOTH -> multimodal efficiency
+NEITHER -> automatic project completion
+
+ASCII MASTER FLOW — PANEL 10/12: Port logistics distinction
+VIZHINJAM -> trans-shipment project
+SAGARMALA -> port-led programme
+PORT VALUE -> berth + evacuation + customs
+STATUS -> verify actual ramp-up
+
+ASCII MASTER FLOW — PANEL 11/12: Station redevelopment logic
+COMMERCIAL LAND / LEASE VALUE
+-> CROSS-SUBSIDISE station upgrade
+RISKS -> footfall + title + coordination
+DUTY -> passenger access + safety + affordability
+
+ASCII MASTER FLOW — PANEL 12/12: Infrastructure answer spine
+DEFINE service and project stage
+APPRAISE demand + land + finance
+ALLOCATE risks by controllability
+TEST completion + maintenance + contingent liability

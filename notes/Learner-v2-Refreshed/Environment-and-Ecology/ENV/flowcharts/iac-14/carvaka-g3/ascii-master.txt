@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Source-pathway map
+POINT SOURCE -> identifiable pipe, drain or outfall
+NON-POINT SOURCE -> diffuse catchment runoff
+PATHWAY -> source to receiving water
+MONITORING -> source sample versus catchment evidence
+CONTROL -> tool must match the pathway
+MUST REMEMBER: Water pollution links pollutant load, concentration, dissolved oxygen,...
+
+ASCII MASTER FLOW — PANEL 2/12: Standard firewall
+EFFLUENT STANDARD -> controls discharge from a source
+WATER-QUALITY CRITERION -> describes receiving water
+USE CLASS -> intended-water-use framework
+UNIT AND SAMPLING -> belong to the exact indicator
+RULE -> never exchange these values
+
+ASCII MASTER FLOW — PANEL 3/12: Organic-pollution diagnostic
+ORGANIC LOAD -> microbial decomposition
+BOD -> oxygen demand during decomposition
+DO -> oxygen remaining for aquatic life
+FAECAL INDICATOR -> contamination warning
+DIAGNOSIS -> use indicators together, not interchangeably
+
+ASCII MASTER FLOW — PANEL 4/12: Eutrophication chain
+NUTRIENT INPUT -> nitrogen or phosphorus enrichment
+ALGAL GROWTH -> biomass increase
+DECOMPOSITION -> oxygen demand
+LOW OXYGEN -> ecological stress
+BOUNDARY -> not identical to toxic industrial discharge
+
+ASCII MASTER FLOW — PANEL 5/12: Institution and approval ladder
+WATER ACT -> statutory pollution-control framework
+CPCB -> national coordination and framework
+SPCB OR PCC -> consent, monitoring and enforcement
+CTE OR CTO -> source permission layer
+ENVIRONMENTAL CLEARANCE -> separate prior-appraisal layer
+
+ASCII MASTER FLOW — PANEL 6/12: Sewage quantity ledger
+GENERATED -> total wastewater produced
+SEWERED -> flow reaching a network
+INSTALLED -> nameplate treatment capacity
+ACTUALLY TREATED -> operating inflow and performance
+REUSED OR DISCHARGED -> final pathway and quality
+
+ASCII MASTER FLOW — PANEL 7/12: Treatment-plant matrix
+STP -> municipal or domestic sewage
+ETP -> one establishment's industrial effluent
+CETP -> common treatment for a group of units
+INSTALLATION -> infrastructure output
+COMPLIANT OPERATION -> separately verified performance
+
+ASCII MASTER FLOW — PANEL 8/12: Regulator-mission firewall
+CPCB OR SPCB -> statutory pollution-control role
+RIVER MISSION -> project and basin coordination
+NMCG -> Ganga mission implementation architecture
+ULB -> sewerage service and local operation
+RULE -> one actor never substitutes for all others
+
+ASCII MASTER FLOW — PANEL 9/12: River-mission component wheel
+SEWAGE INFRASTRUCTURE -> intercept and treat flow
+INDUSTRIAL MONITORING -> source compliance
+ECOLOGY -> biodiversity and riverbank measures
+PUBLIC PARTICIPATION -> behaviour and accountability
+VISIBLE WORK -> not itself a water-quality outcome
+
+ASCII MASTER FLOW — PANEL 10/12: Programme-scope gate
+GANGA QUESTION -> use notified Ganga architecture
+OTHER RIVER -> identify applicable programme and state actors
+NRCP -> wider river-conservation programme context
+RESULT -> retain river, stretch and date
+NO TRANSFER -> never move one mission result to another river
+CLOSE DISTINCTION: BOD is not COD, sewage generation is not treatment capacity or actual...
+
+ASCII MASTER FLOW — PANEL 11/12: Performance and evidence chain
+OUTLAY OR SANCTION -> input
+EXPENDITURE -> financial activity
+ASSET COMPLETED -> physical output
+FLOW TREATED OR LOAD REDUCED -> operational result
+RIVER QUALITY -> stretch-season-indicator outcome
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix parameter, unit, sampling...
+
+ASCII MASTER FLOW — PANEL 12/12: Water answer spine
+DIAGNOSE -> source, pathway and pollutant
+MEASURE -> indicator, unit, location, season and sampling
+REGULATE -> consent, effluent control and enforcement
+TREAT -> sewer network, STP, ETP or CETP operation
+JUDGE -> load and river outcome, with PYQ and live-data limits

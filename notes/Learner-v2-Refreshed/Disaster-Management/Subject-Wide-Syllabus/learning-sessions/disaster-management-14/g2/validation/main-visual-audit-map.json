@@ -1,0 +1,1749 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-14",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Urban and Critical Infrastructure Resilience - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 319.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 69,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\assets\\disaster-management-14_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 382.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 75.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 83,
+      "markdown_body_line_end": 83,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Urban risk density exposure vulnerability and systemic character as a sequence: identify Urban disaster risk, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 98,
+      "markdown_body_line_end": 105,
+      "heading": "VISUAL FIRST",
+      "preview": "URBAN RISK DENSITY EXPOSURE VULNERABILITY AND SYSTEMIC CHARACTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 299.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 159,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - URBAN RISK DENSITY EXPOSURE VULNERABILITY AND SYSTEMIC CHARACTER",
+      "preview": "START / CONCEPT: FOUNDATION — Urban risk density exposure vulnerability and systemic character",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 275
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 532.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 291.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not owner",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 123.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 42.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 189,
+      "heading": "VISUAL FIRST",
+      "preview": "CRITICAL INFRASTRUCTURE LIFELINES AND CONSEQUENCE-BASED CRITICALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 242,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CRITICAL INFRASTRUCTURE LIFELINES AND CONSEQUENCE-BASED CRITICALITY",
+      "preview": "START / CONCEPT: FOUNDATION — Critical infrastructure lifelines and consequence-based criticality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 289
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 253,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Cascading failure and physical digital geographic dependencies as a sequence: identify Interdependency mapping, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the nex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 272,
+      "heading": "VISUAL FIRST",
+      "preview": "CASCADING FAILURE AND PHYSICAL DIGITAL GEOGRAPHIC DEPENDENCIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 325,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CASCADING FAILURE AND PHYSICAL DIGITAL GEOGRAPHIC DEPENDENCIES",
+      "preview": "START / CONCEPT: FOUNDATION — Cascading failure and physical digital geographic dependencies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 100.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 355,
+      "heading": "VISUAL FIRST",
+      "preview": "ROBUSTNESS REDUNDANCY DIVERSITY AND RAPID RECOVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 408,
+      "heading": "CLOSING RECALL FLOW - CORE - ROBUSTNESS REDUNDANCY DIVERSITY AND RAPID RECOVERY",
+      "preview": "START / CONCEPT: CORE — Robustness redundancy diversity and rapid recovery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 275
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 469.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 419,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Continuity planning minimum service and restoration priorities as a sequence: identify Service continuity, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 315.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 234.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 438,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTINUITY PLANNING MINIMUM SERVICE AND RESTORATION PRIORITIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 491,
+      "heading": "CLOSING RECALL FLOW - CORE - CONTINUITY PLANNING MINIMUM SERVICE AND RESTORATION PRIORITIES",
+      "preview": "START / CONCEPT: CORE — Continuity planning minimum service and restoration priorities",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 311.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 80.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 502,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Risk-informed land use drainage and water-sensitive planning as a sequence: identify Risk-informed land use, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 524,
+      "heading": "VISUAL FIRST",
+      "preview": "RISK-INFORMED LAND USE DRAINAGE AND WATER-SENSITIVE PLANNING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 578,
+      "heading": "CLOSING RECALL FLOW - CORE - RISK-INFORMED LAND USE DRAINAGE AND WATER-SENSITIVE PLANNING",
+      "preview": "START / CONCEPT: CORE — Risk-informed land use drainage and water-sensitive planning",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 565.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 324.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 589,
+      "markdown_body_line_end": 589,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Building codes enforcement maintenance and existing-stock retrofit as a sequence: identify Urban drainage governance, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 170.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 89.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 608,
+      "heading": "VISUAL FIRST",
+      "preview": "BUILDING CODES ENFORCEMENT MAINTENANCE AND EXISTING-STOCK RETROFIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 596.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 661,
+      "heading": "CLOSING RECALL FLOW - CORE - BUILDING CODES ENFORCEMENT MAINTENANCE AND EXISTING-STOCK RETROFIT",
+      "preview": "START / CONCEPT: CORE — Building codes enforcement maintenance and existing-stock retrofit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 283
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 672,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Hospitals EOCs utilities and emergency-service continuity as a sequence: identify Criticality-based prioritisation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 691,
+      "heading": "VISUAL FIRST",
+      "preview": "HOSPITALS EOCS UTILITIES AND EMERGENCY-SERVICE CONTINUITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 744,
+      "heading": "CLOSING RECALL FLOW - CORE - HOSPITALS EOCS UTILITIES AND EMERGENCY-SERVICE CONTINUITY",
+      "preview": "START / CONCEPT: CORE — Hospitals EOCs utilities and emergency-service continuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 83.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 755,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Resilience audits single points of failure and recovery time as a sequence: identify Hospitals and emergency facilities, follow the named mechanism to its institutional response, and stop at the last verified status rather than assumin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 770,
+      "markdown_body_line_end": 774,
+      "heading": "VISUAL FIRST",
+      "preview": "RESILIENCE AUDITS SINGLE POINTS OF FAILURE AND RECOVERY TIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 827,
+      "heading": "CLOSING RECALL FLOW - CORE - RESILIENCE AUDITS SINGLE POINTS OF FAILURE AND RECOVERY TIME",
+      "preview": "START / CONCEPT: CORE — Resilience audits single points of failure and recovery time",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 286
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 697.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 476.691
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 838,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read ULBs utilities districts regulators and cross-system coordination as a sequence: identify Informal settlements and equity, follow the named mechanism to its institutional response, and stop at the last verified status rather than assum",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 322.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 241.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 853,
+      "markdown_body_line_end": 857,
+      "heading": "VISUAL FIRST",
+      "preview": "ULBS UTILITIES DISTRICTS REGULATORS AND CROSS-SYSTEM COORDINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 910,
+      "heading": "CLOSING RECALL FLOW - CORE - ULBS UTILITIES DISTRICTS REGULATORS AND CROSS-SYSTEM COORDINATION",
+      "preview": "START / CONCEPT: CORE — ULBs utilities districts regulators and cross-system coordination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 268.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 37.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 921,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Informal settlements vulnerable groups and equitable lifeline access as a sequence: identify Accessible lifelines, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 943,
+      "heading": "VISUAL FIRST",
+      "preview": "INFORMAL SETTLEMENTS VULNERABLE GROUPS AND EQUITABLE LIFELINE ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 997,
+      "heading": "CLOSING RECALL FLOW - CORE - INFORMAL SETTLEMENTS VULNERABLE GROUPS AND EQUITABLE LIFELINE ACCESS",
+      "preview": "START / CONCEPT: CORE — Informal settlements vulnerable groups and equitable lifeline access",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 280
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 579.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 338.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1008,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Smart sensors command platforms privacy and cyber resilience as a sequence: identify Urban Flooding Cell status, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the ne",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 184.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 103.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1027,
+      "heading": "VISUAL FIRST",
+      "preview": "SMART SENSORS COMMAND PLATFORMS PRIVACY AND CYBER RESILIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 623.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1080,
+      "heading": "CLOSING RECALL FLOW - CORE - SMART SENSORS COMMAND PLATFORMS PRIVACY AND CYBER RESILIENCE",
+      "preview": "START / CONCEPT: CORE — Smart sensors command platforms privacy and cyber resilience",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1091,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Resilience versus efficiency buffers and just-in-time trade-offs as a sequence: identify Urban Disaster Management Authority status, follow the named mechanism to its institutional response, and stop at the last verified status rather ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1110,
+      "heading": "VISUAL FIRST",
+      "preview": "RESILIENCE VERSUS EFFICIENCY BUFFERS AND JUST-IN-TIME TRADE-OFFS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1163,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RESILIENCE VERSUS EFFICIENCY BUFFERS AND JUST-IN-TIME TRADE-OFFS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Resilience versus efficiency buffers and just-in-time trade-offs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 298
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 70.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1174,
+      "markdown_body_line_end": 1174,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read CDRI urban institutions finance and Build Back Better as a sequence: identify CDRI boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1196,
+      "heading": "VISUAL FIRST",
+      "preview": "CDRI URBAN INSTITUTIONS FINANCE AND BUILD BACK BETTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 299.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1250,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CDRI URBAN INSTITUTIONS FINANCE AND BUILD BACK BETTER",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — CDRI urban institutions finance and Build Back Better",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 503.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 252.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1261,
+      "markdown_body_line_end": 1261,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read PYQ synthesis audits continuity and outcome firewall as a sequence: identify Resilience versus efficiency, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1283,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ SYNTHESIS AUDITS CONTINUITY AND OUTCOME FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 452.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Risk-informed urban planning; lifeline protection (water, power, transport, hospitals, telecom); resilient codes and service continuity",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 629.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1344,
+      "heading": "1. Visual foundation",
+      "preview": "URBAN GROWTH WITHOUT RISK-INFORMED PLANNING",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 607.424
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 476.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1356,
+      "markdown_body_line_end": 1363,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 397.624
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 367.89
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1547,
+      "markdown_body_line_end": 1549,
+      "heading": "13. Core-only answer architecture - lifelines, crowds and city systems",
+      "preview": "**Core firewall:** Core treats a city as an interdependent system. CDRI membership, a guideline or a newly enabled authority cannot be used as shorthand for an achieved resilience outcome.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 570.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 504.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1553,
+      "markdown_body_line_end": 1558,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Significance | Limitation/qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Significance",
+          "Limitation/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 482.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 155.822
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1579,
+      "markdown_body_line_end": 1596,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ SYNTHESIS AUDITS CONTINUITY AND OUTCOME FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ synthesis audits continuity and outcome firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 453.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2757,
+      "markdown_body_line_end": 2763,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Systemic/cascading urban risk; criticality mapping; recovery standards and urban-authority institutional design. **Grounded in:** *VisionIAS Value ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 409.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 322.224
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2782,
+      "markdown_body_line_end": 2800,
+      "heading": "2. Risk-system analysis",
+      "preview": "MULTIPLE, SEPARATELY GOVERNED LIFELINE SYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3025,
+      "markdown_body_line_end": 3033,
+      "heading": "Urban and Critical Infrastructure Resilience: ROBUST REDUNDANT CONTINUOUS EQUITABLE RAPID-RECOVERY SPINE",
+      "preview": "DEFINE URBAN SYSTEMIC RISK AND CONSEQUENCE-BASED CRITICAL INFRASTRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 370.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 289.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3043,
+      "markdown_body_line_end": 3048,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Urban risk system",
+      "preview": "HAZARD + DENSITY + EXPOSED ASSETS + UNEQUAL VULNERABILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3052,
+      "markdown_body_line_end": 3057,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Criticality test",
+      "preview": "ASSET / NETWORK / SERVICE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3061,
+      "markdown_body_line_end": 3066,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Interdependency web",
+      "preview": "POWER -> WATER PUMPS / HOSPITALS / TELECOM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3070,
+      "markdown_body_line_end": 3075,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Resilience triad",
+      "preview": "ROBUSTNESS -> RESIST",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3079,
+      "markdown_body_line_end": 3084,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Continuity plan",
+      "preview": "DEFINE MINIMUM SERVICE + PRIORITY USERS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3088,
+      "markdown_body_line_end": 3093,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Urban planning stack",
+      "preview": "LAND USE / FLOODPLAIN / DRAINAGE PATH",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3097,
+      "markdown_body_line_end": 3102,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Resilience audit",
+      "preview": "1 CRITICAL FUNCTION AND USERS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3106,
+      "markdown_body_line_end": 3111,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Essential facility shell",
+      "preview": "STRUCTURE / FIRE / FLOOD SAFETY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3115,
+      "markdown_body_line_end": 3120,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Equity access test",
+      "preview": "WHO LIVES IN HIGHEST EXPOSURE?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3124,
+      "markdown_body_line_end": 3130,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Governance map",
+      "preview": "ULB / UTILITY / DEVELOPMENT AUTHORITY / DISTRICT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3134,
+      "markdown_body_line_end": 3140,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Smart resilience firewall",
+      "preview": "SENSORS / DIGITAL TWIN / COMMAND PLATFORM -> AWARENESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3144,
+      "markdown_body_line_end": 3150,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Urban resilience answer spine",
+      "preview": "DEFINE SYSTEMIC URBAN RISK AND CRITICAL LIFELINES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    }
+  ]
+}

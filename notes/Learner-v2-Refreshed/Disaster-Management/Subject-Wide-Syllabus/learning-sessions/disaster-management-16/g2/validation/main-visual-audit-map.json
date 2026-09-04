@@ -1,0 +1,1809 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Disaster Finance, Risk Transfer and Build Back Better - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 367.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 67,
+      "markdown_body_line_end": 67,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\assets\\disaster-management-16_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 541.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 234.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 81,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Ex-ante ex-post and retained fiscal risk as a sequence: identify Ex-ante finance, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 96,
+      "markdown_body_line_end": 103,
+      "heading": "VISUAL FIRST",
+      "preview": "EX-ANTE EX-POST AND RETAINED FISCAL RISK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 157,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - EX-ANTE EX-POST AND RETAINED FISCAL RISK",
+      "preview": "START / CONCEPT: FOUNDATION — Ex-ante ex-post and retained fiscal risk",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 168,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read DM Act response mitigation and statutory fund categories as a sequence: identify Four-fund statutory grid, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 187,
+      "heading": "VISUAL FIRST",
+      "preview": "DM ACT RESPONSE MITIGATION AND STATUTORY FUND CATEGORIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 240,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DM ACT RESPONSE MITIGATION AND STATUTORY FUND CATEGORIES",
+      "preview": "START / CONCEPT: FOUNDATION — DM Act response mitigation and statutory fund categories",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 292.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 61.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 251,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Budget provisions contingency reserves and liquidity as a sequence: identify Response versus mitigation funds, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 270,
+      "heading": "VISUAL FIRST",
+      "preview": "BUDGET PROVISIONS CONTINGENCY RESERVES AND LIQUIDITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 323,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BUDGET PROVISIONS CONTINGENCY RESERVES AND LIQUIDITY",
+      "preview": "START / CONCEPT: FOUNDATION — Budget provisions contingency reserves and liquidity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 276
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 409.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 334,
+      "markdown_body_line_end": 334,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Pre-arranged finance trigger rules and rapid access as a sequence: identify Budgetary and contingency reserves, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the nex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 255.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 174.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 353,
+      "heading": "VISUAL FIRST",
+      "preview": "PRE-ARRANGED FINANCE TRIGGER RULES AND RAPID ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 406,
+      "heading": "CLOSING RECALL FLOW - CORE - PRE-ARRANGED FINANCE TRIGGER RULES AND RAPID ACCESS",
+      "preview": "START / CONCEPT: CORE — Pre-arranged finance trigger rules and rapid access",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 280.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 49.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 417,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Risk layering frequent medium and catastrophic losses as a sequence: identify Pre-arranged finance, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 436,
+      "heading": "VISUAL FIRST",
+      "preview": "RISK LAYERING FREQUENT MEDIUM AND CATASTROPHIC LOSSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 489,
+      "heading": "CLOSING RECALL FLOW - CORE - RISK LAYERING FREQUENT MEDIUM AND CATASTROPHIC LOSSES",
+      "preview": "START / CONCEPT: CORE — Risk layering frequent medium and catastrophic losses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 500,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Sovereign subnational utility and household protection layers as a sequence: identify Risk layering, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 268.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 187.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 522,
+      "heading": "VISUAL FIRST",
+      "preview": "SOVEREIGN SUBNATIONAL UTILITY AND HOUSEHOLD PROTECTION LAYERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 662.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 576,
+      "heading": "CLOSING RECALL FLOW - CORE - SOVEREIGN SUBNATIONAL UTILITY AND HOUSEHOLD PROTECTION LAYERS",
+      "preview": "START / CONCEPT: CORE — Sovereign subnational utility and household protection layers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 266
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 587,
+      "markdown_body_line_end": 587,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 312.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 602,
+      "markdown_body_line_end": 606,
+      "heading": "VISUAL FIRST",
+      "preview": "INDEMNITY INSURANCE COVERED LOSS ASSESSMENT AND SETTLEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 659,
+      "heading": "CLOSING RECALL FLOW - CORE - INDEMNITY INSURANCE COVERED LOSS ASSESSMENT AND SETTLEMENT",
+      "preview": "START / CONCEPT: CORE — Indemnity insurance covered loss assessment and settlement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 90.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 670,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Parametric triggers basis risk and payout mismatch as a sequence: identify Parametric insurance, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 689,
+      "heading": "VISUAL FIRST",
+      "preview": "PARAMETRIC TRIGGERS BASIS RISK AND PAYOUT MISMATCH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 742,
+      "heading": "CLOSING RECALL FLOW - CORE - PARAMETRIC TRIGGERS BASIS RISK AND PAYOUT MISMATCH",
+      "preview": "START / CONCEPT: CORE — Parametric triggers basis risk and payout mismatch",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 753,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Risk pools diversification correlation and governance as a sequence: identify Basis risk, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 278.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 211.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 772,
+      "heading": "VISUAL FIRST",
+      "preview": "RISK POOLS DIVERSIFICATION CORRELATION AND GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 825,
+      "heading": "CLOSING RECALL FLOW - CORE - RISK POOLS DIVERSIFICATION CORRELATION AND GOVERNANCE",
+      "preview": "START / CONCEPT: CORE — Risk pools diversification correlation and governance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 836,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Catastrophe bonds as a conceptual capital-market layer as a sequence: identify Risk pools, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 855,
+      "heading": "VISUAL FIRST",
+      "preview": "CATASTROPHE BONDS AS A CONCEPTUAL CAPITAL-MARKET LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 908,
+      "heading": "CLOSING RECALL FLOW - CORE - CATASTROPHE BONDS AS A CONCEPTUAL CAPITAL-MARKET LAYER",
+      "preview": "START / CONCEPT: CORE — Catastrophe bonds as a conceptual capital-market layer",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 919,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 311.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 230.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 934,
+      "markdown_body_line_end": 941,
+      "heading": "VISUAL FIRST",
+      "preview": "MORAL HAZARD ADVERSE SELECTION PRICING AND SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 995,
+      "heading": "CLOSING RECALL FLOW - CORE - MORAL HAZARD ADVERSE SELECTION PRICING AND SAFEGUARDS",
+      "preview": "START / CONCEPT: CORE — Moral hazard adverse selection pricing and safeguards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 266
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1006,
+      "markdown_body_line_end": 1006,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Fiscal protection essential services debt and transparency as a sequence: identify Fiscal protection, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1021,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "FISCAL PROTECTION ESSENTIAL SERVICES DEBT AND TRANSPARENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1078,
+      "heading": "CLOSING RECALL FLOW - CORE - FISCAL PROTECTION ESSENTIAL SERVICES DEBT AND TRANSPARENCY",
+      "preview": "START / CONCEPT: CORE — Fiscal protection essential services debt and transparency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 90.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1089,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Damage loss and needs assessment for financing decisions as a sequence: identify Damage loss and needs assessment, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1104,
+      "markdown_body_line_end": 1108,
+      "heading": "VISUAL FIRST",
+      "preview": "DAMAGE LOSS AND NEEDS ASSESSMENT FOR FINANCING DECISIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1161,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DAMAGE LOSS AND NEEDS ASSESSMENT FOR FINANCING DECISIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Damage loss and needs assessment for financing decisions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 280
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 409.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1172,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Build Back Better safeguards and rebuilding-risk prevention as a sequence: identify Build Back Better, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 255.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 174.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1187,
+      "markdown_body_line_end": 1194,
+      "heading": "VISUAL FIRST",
+      "preview": "BUILD BACK BETTER SAFEGUARDS AND REBUILDING-RISK PREVENTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 662.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1248,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BUILD BACK BETTER SAFEGUARDS AND REBUILDING-RISK PREVENTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Build Back Better safeguards and rebuilding-risk prevention",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1259,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read PYQ synthesis finance instruments and outcome firewall as a sequence: identify Incentive and affordability balance, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1281,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ SYNTHESIS FINANCE INSTRUMENTS AND OUTCOME FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1324,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** SDRF/NDRF financial logic; mitigation investment; insurance/risk-transfer instruments; recovery and Build Back Better. **Grounded in:**",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 252.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 128.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1344,
+      "heading": "1. Visual foundation",
+      "preview": "RISK ACCEPTANCE | RISK AVOIDANCE | RISK REDUCTION | RISK TRANSFER",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1353,
+      "markdown_body_line_end": 1363,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 561.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 514.69
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1405,
+      "markdown_body_line_end": 1408,
+      "heading": "5. Institutions and policy tools",
+      "preview": "Corpus | Total | Response (80%) | Mitigation (20%)",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Corpus",
+          "Total",
+          "Response (80%)",
+          "Mitigation (20%)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 727.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1421,
+      "markdown_body_line_end": 1427,
+      "heading": "5. Institutions and policy tools",
+      "preview": "Fund | FC16 recommendation, 2026-31",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Fund",
+          "FC16 recommendation, 2026-31"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 615.49
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 484.888
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1584,
+      "markdown_body_line_end": 1587,
+      "heading": "13. Core-only answer architecture - finance must change risk",
+      "preview": "**Core firewall:** a finance answer must separate post-event relief, ex-ante mitigation and contractual risk transfer, then test whether money became safer assets, services and livelihoods. Advanced instruments are optional, not a Core depe",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 148.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 67.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1591,
+      "markdown_body_line_end": 1596,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Significance | Limitation/qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Significance",
+          "Limitation/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 429.39
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1618,
+      "markdown_body_line_end": 1635,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ SYNTHESIS FINANCE INSTRUMENTS AND OUTCOME FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ synthesis finance instruments and outcome firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 440
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2792,
+      "markdown_body_line_end": 2799,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Financing gaps; contingent finance instruments; resilience-investment appraisal; compensation versus recovery; transparent damage/loss assessment. ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 678.824
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2833,
+      "heading": "2. Risk-system analysis",
+      "preview": "EX-ANTE (BEFORE DISASTER)         EX-POST (AFTER DISASTER)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 487.824
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 366.824
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3093,
+      "markdown_body_line_end": 3101,
+      "heading": "Disaster Finance, Risk Transfer and Build Back Better: RETAIN PRE-ARRANGE TRANSFER PROTECT AND BUILD-BACK-BETTER SPINE",
+      "preview": "CLASSIFY EX-ANTE / EX-POST FINANCE BY PURPOSE TRIGGER AND RISK BEARER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 771.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 690.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3111,
+      "markdown_body_line_end": 3116,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Finance timing map",
+      "preview": "EX-ANTE -> MITIGATION PREPAREDNESS RESERVE PRE-ARRANGED COVER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 556.691
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 504.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3120,
+      "markdown_body_line_end": 3125,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Statutory fund grid",
+      "preview": "s.46 NATIONAL RESPONSE FUND",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 482.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 431.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3129,
+      "markdown_body_line_end": 3134,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Liquidity ladder",
+      "preview": "ANNUAL BUDGET / CONTINGENCY RESERVE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 409.091
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 357.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3138,
+      "markdown_body_line_end": 3143,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Risk-bearer map",
+      "preview": "UNION <-> STATE <-> LOCAL BODY / UTILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 335.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 283.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3147,
+      "markdown_body_line_end": 3152,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Insurance split",
+      "preview": "INDEMNITY -> VERIFIED COVERED LOSS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3156,
+      "markdown_body_line_end": 3161,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Risk-pool test",
+      "preview": "POOL PARTICIPANTS / EXPOSURES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3165,
+      "markdown_body_line_end": 3170,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Cat-bond boundary",
+      "preview": "DEFINED RISK LAYER + TRIGGER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3174,
+      "markdown_body_line_end": 3179,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Insurance incentives",
+      "preview": "MORAL HAZARD -> BEHAVIOUR AFTER PROTECTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3183,
+      "markdown_body_line_end": 3188,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Fiscal protection spine",
+      "preview": "ASSESS FISCAL EXPOSURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3192,
+      "markdown_body_line_end": 3198,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Assessment firewall",
+      "preview": "DAMAGE -> PHYSICAL ASSET EFFECT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3202,
+      "markdown_body_line_end": 3208,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Build Back Better gate",
+      "preview": "SAFER SITE / STANDARD / SERVICE DESIGN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 272.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3212,
+      "markdown_body_line_end": 3218,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Disaster-finance answer spine",
+      "preview": "CLASSIFY TIMING PURPOSE TRIGGER AND RISK BEARER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    }
+  ]
+}

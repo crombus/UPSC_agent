@@ -1,0 +1,1081 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-18",
+  "subject": "Economy",
+  "title": "INFRASTRUCTURE, PPPS, LOGISTICS AND PUBLIC INVESTMENT",
+  "short_route": "INFRASTRUCTURE SERVICE CHAIN → INFRASTRUCTURE EFFECTS → PROJECT APPRAISAL GATE → PPP RISK MATRIX → ROAD-MODEL COMPARISON → VGF DECISION ROUTE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-18-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "29ac9c09216ad3bf9ea16e4f7cf4351da771bcdb372c4e40f833c07a8ae5346d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INFRASTRUCTURE SERVICE CHAIN",
+      "structural_type": "lifecycle-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INFRASTRUCTURE SERVICE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY + APPRAISE",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCE + ALLOCATE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "BUILD + COMMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATE + MAINTAIN",
+          "role": "primary"
+        },
+        {
+          "text": "USABLE SERVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "INFRASTRUCTURE COMBINES NETWORK ASSETS AND SERVICES WITH LARGE SUNK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY + APPRAISE",
+        "FINANCE + ALLOCATE RISK",
+        "BUILD + COMMISSION",
+        "OPERATE + MAINTAIN → USABLE SERVICE",
+        "MUST REMEMBER: Infrastructure combines network assets and services with large sunk costs"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDENTIFY + APPRAISE",
+            "FINANCE + ALLOCATE RISK"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BUILD + COMMISSION",
+            "OPERATE + MAINTAIN → USABLE SERVICE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Infrastructure combines network assets and services with large sunk costs,...",
+            "IDENTIFY + APPRAISE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Infrastructure combines network assets and services with large sunk costs,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INFRASTRUCTURE EFFECTS",
+      "structural_type": "two-channel-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INFRASTRUCTURE EFFECTS",
+          "role": "primary"
+        },
+        {
+          "text": "DEMAND CHANNEL",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTRUCTION ACTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPLY CHANNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "LOWER COST + RELIABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "CAPABILITY CHANNEL",
+          "role": "outcome"
+        },
+        {
+          "text": "OUTCOME DEPENDS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPLETION + CONNECTION + USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEMAND CHANNEL → construction activity",
+        "SUPPLY CHANNEL → lower cost + reliability",
+        "CAPABILITY CHANNEL → health / education / water",
+        "OUTCOME DEPENDS → completion + connection + use"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEMAND CHANNEL → construction activity",
+            "SUPPLY CHANNEL → lower cost + reliability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPABILITY CHANNEL → health / education / water",
+            "OUTCOME DEPENDS → completion + connection + use"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEMAND CHANNEL → construction activity",
+            "SUPPLY CHANNEL → lower cost + reliability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME DEPENDS → completion + connection + use.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PROJECT APPRAISAL GATE",
+      "structural_type": "decision-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROJECT APPRAISAL GATE",
+          "role": "primary"
+        },
+        {
+          "text": "DEMAND + ENGINEERING",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND + ENVIRONMENT + SOCIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE + INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "PASS BEFORE BANKABILITY CLAIM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEMAND + ENGINEERING",
+        "LAND + ENVIRONMENT + SOCIAL",
+        "FINANCE + INSTITUTION",
+        "PASS BEFORE bankability claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEMAND + ENGINEERING",
+            "LAND + ENVIRONMENT + SOCIAL"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FINANCE + INSTITUTION",
+            "PASS BEFORE bankability claim"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEMAND + ENGINEERING",
+            "LAND + ENVIRONMENT + SOCIAL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LAND + ENVIRONMENT + SOCIAL; FINANCE + INSTITUTION; PASS BEFORE bankability claim.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PPP RISK MATRIX",
+      "structural_type": "risk-allocation-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PPP RISK MATRIX",
+          "role": "caution"
+        },
+        {
+          "text": "POLICY WHERE CONTROLLABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATION WHERE CONTROLLABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "TOLL OR GOVERNMENT-PAYMENT DESIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "FORCE MAJEURE + RENEGOTIATION RULES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PUBLIC → land / policy where controllable",
+        "PRIVATE → construction / operation where controllable",
+        "DEMAND → toll or government-payment design",
+        "SHARED → force majeure + renegotiation rules"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PUBLIC → land / policy where controllable",
+          "DEMAND → toll or government-payment design",
+          "PUBLIC → land / policy where controllable"
+        ],
+        [
+          "PRIVATE → construction / operation where controllable",
+          "SHARED → force majeure + renegotiation rules",
+          "PRIVATE → construction / operation where controllable"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PUBLIC → land / policy where controllable",
+            "PRIVATE → construction / operation where controllable"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEMAND → toll or government-payment design",
+            "SHARED → force majeure + renegotiation rules"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PUBLIC → land / policy where controllable",
+            "PRIVATE → construction / operation where controllable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEMAND → toll or government-payment design; SHARED → force majeure + renegotiation rules.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ROAD-MODEL COMPARISON",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ROAD-MODEL COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "BOT TOLL",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIVATE TRAFFIC EXPOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "BOT ANNUITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC PAYMENT STREAM",
+          "role": "primary"
+        },
+        {
+          "text": "MILESTONE SUPPORT + ANNUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "BROWNFIELD OPERATING RIGHTS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BOT TOLL → private traffic exposure",
+        "BOT ANNUITY → public payment stream",
+        "HAM → milestone support + annuity",
+        "TOT → brownfield operating rights"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BOT TOLL → private traffic exposure",
+          "HAM → milestone support + annuity",
+          "BOT TOLL → private traffic exposure"
+        ],
+        [
+          "BOT ANNUITY → public payment stream",
+          "TOT → brownfield operating rights",
+          "BOT ANNUITY → public payment stream"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BOT TOLL → private traffic exposure",
+            "BOT ANNUITY → public payment stream"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HAM → milestone support + annuity",
+            "TOT → brownfield operating rights"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOT TOLL → private traffic exposure",
+            "BOT ANNUITY → public payment stream"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HAM → milestone support + annuity; TOT → brownfield operating rights.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "VGF DECISION ROUTE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "VGF DECISION ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "ECONOMICALLY JUSTIFIED?",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMERCIALLY SUB-VIABLE?",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPETITIVE PRIVATE SELECTION?",
+          "role": "evidence"
+        },
+        {
+          "text": "NOTIFIED SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "STILL TEST DEMAND + LAND + CONTRACT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ECONOMICALLY JUSTIFIED?",
+        "COMMERCIALLY SUB-VIABLE?",
+        "COMPETITIVE PRIVATE SELECTION?",
+        "NOTIFIED SUPPORT → still test demand + land + contract"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ECONOMICALLY JUSTIFIED?",
+            "COMMERCIALLY SUB-VIABLE?"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPETITIVE PRIVATE SELECTION?",
+            "NOTIFIED SUPPORT → still test demand + land + contract"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ECONOMICALLY JUSTIFIED?",
+            "COMMERCIALLY SUB-VIABLE?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOTIFIED SUPPORT → still test demand + land + contract.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PPP STRESS AND CORRECTION",
+      "structural_type": "timeline-strip",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PPP STRESS AND CORRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "BOT-TOLL STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "KELKAR COMMITTEE",
+          "role": "comparison"
+        },
+        {
+          "text": "2016 ONWARD",
+          "role": "evidence"
+        },
+        {
+          "text": "HAM CORRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "RISK SHIFTS; IT DOES NOT DISAPPEAR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POST-2012 → BOT-toll stress",
+        "2015 → Kelkar Committee",
+        "2016 ONWARD → HAM correction",
+        "LIMIT → risk shifts; it does not disappear"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POST-2012 → BOT-toll stress",
+            "2015 → Kelkar Committee"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2016 ONWARD → HAM correction",
+            "LIMIT → risk shifts; it does not disappear"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POST-2012 → BOT-toll stress",
+            "2015 → Kelkar Committee"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → risk shifts; it does not disappear.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INFRASTRUCTURE FINANCING FORK",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INFRASTRUCTURE FINANCING FORK",
+          "role": "primary"
+        },
+        {
+          "text": "PLANNING PIPELINE",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC CAPEX",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW INVESTMENT SPENDING",
+          "role": "evidence"
+        },
+        {
+          "text": "BROWNFIELD MONETISATION",
+          "role": "primary"
+        },
+        {
+          "text": "CONTRACT + RISK ALLOCATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NIP → planning pipeline",
+        "PUBLIC CAPEX → new investment spending",
+        "NMP → brownfield monetisation",
+        "PPP → contract + risk allocation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NIP → planning pipeline",
+            "PUBLIC CAPEX → new investment spending"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NMP → brownfield monetisation",
+            "PPP → contract + risk allocation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NIP → planning pipeline",
+            "PUBLIC CAPEX → new investment spending"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NMP → brownfield monetisation; PPP → contract + risk allocation.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GATISHAKTI AND NLP",
+      "structural_type": "paired-process-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GATISHAKTI AND NLP",
+          "role": "primary"
+        },
+        {
+          "text": "GIS PLANNING COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCESS + DIGITAL + STANDARDS + SKILLS",
+          "role": "mechanism"
+        },
+        {
+          "text": "MULTIMODAL EFFICIENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTOMATIC PROJECT COMPLETION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GATISHAKTI → GIS planning coordination",
+        "NLP → process + digital + standards + skills",
+        "BOTH → multimodal efficiency",
+        "NEITHER → automatic project completion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GATISHAKTI → GIS planning coordination",
+            "NLP → process + digital + standards + skills"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOTH → multimodal efficiency",
+            "NEITHER → automatic project completion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GATISHAKTI → GIS planning coordination",
+            "NLP → process + digital + standards + skills"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NLP → process + digital + standards + skills.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PORT LOGISTICS DISTINCTION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PORT LOGISTICS DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANS-SHIPMENT PROJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "PORT-LED PROGRAMME",
+          "role": "comparison"
+        },
+        {
+          "text": "PORT VALUE",
+          "role": "evidence"
+        },
+        {
+          "text": "BERTH + EVACUATION + CUSTOMS",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFY ACTUAL RAMP-UP",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PPP IS NOT PRIVATISATION, PROJECT COST IS NOT ANNUAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VIZHINJAM → trans-shipment project",
+        "SAGARMALA → port-led programme",
+        "PORT VALUE → berth + evacuation + customs",
+        "STATUS → verify actual ramp-up",
+        "CLOSE DISTINCTION: PPP is not privatisation, project cost is not annual expenditure"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "VIZHINJAM → trans-shipment project",
+          "PORT VALUE → berth + evacuation + customs",
+          "CLOSE DISTINCTION: PPP is not privatisation, project cost is not annual expenditure,..."
+        ],
+        [
+          "SAGARMALA → port-led programme",
+          "STATUS → verify actual ramp-up",
+          "VIZHINJAM → trans-shipment project"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VIZHINJAM → trans-shipment project",
+            "SAGARMALA → port-led programme"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PORT VALUE → berth + evacuation + customs",
+            "STATUS → verify actual ramp-up"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: PPP is not privatisation, project cost is not annual expenditure,...",
+            "VIZHINJAM → trans-shipment project"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: PPP is not privatisation, project cost is not annual expenditure,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "STATION REDEVELOPMENT LOGIC",
+      "structural_type": "cash-flow-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "STATION REDEVELOPMENT LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "COMMERCIAL LAND",
+          "role": "outcome"
+        },
+        {
+          "text": "LEASE VALUE",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSS-SUBSIDISE STATION UPGRADE",
+          "role": "evidence"
+        },
+        {
+          "text": "FOOTFALL + TITLE + COORDINATION",
+          "role": "primary"
+        },
+        {
+          "text": "PASSENGER ACCESS + SAFETY + AFFORDABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "IDENTIFY MODEL, CONCESSION TERM, RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMMERCIAL LAND / LEASE VALUE",
+        "CROSS-SUBSIDISE station upgrade",
+        "RISKS → footfall + title + coordination",
+        "DUTY → passenger access + safety + affordability",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify model, concession term, risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMERCIAL LAND / LEASE VALUE",
+            "CROSS-SUBSIDISE station upgrade"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RISKS → footfall + title + coordination",
+            "DUTY → passenger access + safety + affordability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify model, concession term, risk...",
+            "COMMERCIAL LAND / LEASE VALUE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify model, concession term, risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INFRASTRUCTURE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INFRASTRUCTURE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE SERVICE AND PROJECT STAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "APPRAISE DEMAND + LAND + FINANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ALLOCATE RISKS BY CONTROLLABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST COMPLETION + MAINTENANCE + CONTINGENT LIABILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE service and project stage",
+        "APPRAISE demand + land + finance",
+        "ALLOCATE risks by controllability",
+        "TEST completion + maintenance + contingent liability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE service and project stage",
+            "APPRAISE demand + land + finance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ALLOCATE risks by controllability",
+            "TEST completion + maintenance + contingent liability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE service and project stage",
+            "APPRAISE demand + land + finance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ALLOCATE risks by controllability; TEST completion + maintenance + contingent liability.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g2\\economy-18_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECT PREPARATION QUALITY DETERMINES LATER LAND, DEMAND, ENGINEERING, ENVIRONMENTAL",
+          "role": "outcome"
+        },
+        {
+          "text": "USER-CHARGE PROJECTS REQUIRE AFFORDABILITY DESIGN; AVAILABILITY-PAYMENT PROJECTS SHIFT",
+          "role": "comparison"
+        },
+        {
+          "text": "RENEGOTIATION MAY REFLECT INCOMPLETE CONTRACTS BUT CAN ALSO CONCEAL",
+          "role": "evidence"
+        },
+        {
+          "text": "INDEPENDENT REGULATION IS CRUCIAL WHERE PRIVATE OPERATION MEETS MONOPOLY",
+          "role": "primary"
+        },
+        {
+          "text": "MAINTENANCE FUNDING PROTECTS LIFECYCLE VALUE AND IS OFTEN MORE",
+          "role": "outcome"
+        },
+        {
+          "text": "GATISHAKTI-STYLE INTEGRATED PLANNING SEEKS TO REVEAL NETWORK CONFLICTS BEFORE",
+          "role": "comparison"
+        },
+        {
+          "text": "INFRASTRUCTURE LINE MINISTRIES AND STATE AGENCIES",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Project preparation quality determines later land, demand, engineering, environmental",
+            "CAUTION: User-charge projects require affordability design; availability-payment projects shift",
+            "CAUTION: Renegotiation may reflect incomplete contracts but can also conceal opportunistic",
+            "CAUTION: Independent regulation is crucial where private operation meets monopoly network"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Maintenance funding protects lifecycle value and is often more efficient than repeated",
+            "CAUTION: GatiShakti-style integrated planning seeks to reveal network conflicts before",
+            "Infrastructure line ministries and state agencies: sponsor, procure and monitor",
+            "Department of Economic Affairs PPP Cell: supports appraisal and PPP policy at the"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "National Infrastructure Pipeline and PM GatiShakti systems: coordinate project",
+            "Sector regulators, lenders and concession authorities: oversee tariffs, finance,",
+            "CAUTION: A toll-road concession transfers demand risk differently from an availability-payment",
+            "CAUTION: The lowest construction bid can become expensive if land, design and traffic risks were"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

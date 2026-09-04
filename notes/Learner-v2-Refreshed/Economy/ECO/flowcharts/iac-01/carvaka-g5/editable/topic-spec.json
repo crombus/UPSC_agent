@@ -1,0 +1,1049 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-01",
+  "subject": "Economy",
+  "title": "NATIONAL INCOME: GDP, GVA, GNP, NDP AND MEASUREMENT",
+  "short_route": "TERRITORY BEFORE ARITHMETIC → GROSS-TO-NET LADDER → THREE-METHOD CONVERGENCE → GDP-GVA TAX BRIDGE → NOMINAL-REAL DECODER → PRODUCTION-BOUNDARY GATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-01-deep-review-2026-09-03-g5.json",
+  "ascii_spec_sha256": "7336cd4e635b44210736d2bf7b5b0e5ee27b02fa11e44e63ddf27906e459f3b0",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TERRITORY BEFORE ARITHMETIC",
+      "structural_type": "boundary-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TERRITORY BEFORE ARITHMETIC",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC TERRITORY",
+          "role": "outcome"
+        },
+        {
+          "text": "NORMAL RESIDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "NFIA BRIDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "GDP + NFIA",
+          "role": "primary"
+        },
+        {
+          "text": "LOCATION AND OWNERSHIP ARE NOT THE SAME BOUNDARY",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL ACCOUNTS MEASURE PRODUCTION, INCOME AND EXPENDITURE CONSISTENTLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DOMESTIC TERRITORY → GDP",
+        "NORMAL RESIDENCE → GNP",
+        "NFIA BRIDGE → GDP + NFIA",
+        "TRAP → location and ownership are not the same boundary",
+        "MUST REMEMBER: National accounts measure production, income and expenditure consistently"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DOMESTIC TERRITORY → GDP",
+            "NORMAL RESIDENCE → GNP"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NFIA BRIDGE → GDP + NFIA",
+            "TRAP → location and ownership are not the same boundary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: National accounts measure production, income and expenditure consistently:...",
+            "DOMESTIC TERRITORY → GDP"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → location and ownership are not the same boundary.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GROSS-TO-NET LADDER",
+      "structural_type": "replacement-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GROSS-TO-NET LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "MINUS DEPRECIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPITAL CONSUMPTION RETAINED",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPITAL CONSUMPTION DEDUCTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GDP → minus depreciation → NDP",
+        "GNP → minus depreciation → NNP",
+        "GROSS → capital consumption retained",
+        "NET → capital consumption deducted"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GDP → minus depreciation → NDP",
+            "GNP → minus depreciation → NNP"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GROSS → capital consumption retained",
+            "NET → capital consumption deducted"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GDP → minus depreciation → NDP",
+            "GNP → minus depreciation → NNP"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GROSS → capital consumption retained; NET → capital consumption deducted.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THREE-METHOD CONVERGENCE",
+      "structural_type": "triangular-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE-METHOD CONVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "VALUE ADDED",
+          "role": "outcome"
+        },
+        {
+          "text": "WAGES + PROFITS + RENT + MIXED INCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "C + I + G + (X - M)",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE OUTPUT, THREE MEASUREMENT ROUTES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRODUCTION → value added",
+        "INCOME → wages + profits + rent + mixed income",
+        "EXPENDITURE → C + I + G + (X - M)",
+        "IDENTITY → one output, three measurement routes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRODUCTION → value added",
+            "INCOME → wages + profits + rent + mixed income"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPENDITURE → C + I + G + (X - M)",
+            "IDENTITY → one output, three measurement routes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRODUCTION → value added",
+            "INCOME → wages + profits + rent + mixed income"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXPENDITURE → C + I + G + (X - M).",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GDP-GVA TAX BRIDGE",
+      "structural_type": "equation-band",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "GDP-GVA TAX BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "GVA AT BASIC PRICES",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCT TAXES",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCT SUBSIDIES",
+          "role": "evidence"
+        },
+        {
+          "text": "= GDP AT MARKET PRICES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GVA AT BASIC PRICES",
+        "PRODUCT TAXES",
+        "PRODUCT SUBSIDIES",
+        "= GDP AT MARKET PRICES"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GVA AT BASIC PRICES",
+            "PRODUCT TAXES"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRODUCT SUBSIDIES",
+            "= GDP AT MARKET PRICES"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GVA AT BASIC PRICES",
+            "PRODUCT TAXES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRODUCT TAXES; PRODUCT SUBSIDIES; = GDP AT MARKET PRICES.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NOMINAL-REAL DECODER",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NOMINAL-REAL DECODER",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT PRICES",
+          "role": "outcome"
+        },
+        {
+          "text": "SIZE AND RATIOS",
+          "role": "comparison"
+        },
+        {
+          "text": "BASE-YEAR PRICES",
+          "role": "evidence"
+        },
+        {
+          "text": "VOLUME GROWTH",
+          "role": "primary"
+        },
+        {
+          "text": "REAL X 100",
+          "role": "outcome"
+        },
+        {
+          "text": "BASE REVISION CHANGES THE COMPARISON FRAME",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NOMINAL → current prices → size and ratios",
+        "REAL → base-year prices → volume growth",
+        "DEFLATOR → nominal / real x 100",
+        "LIMIT → base revision changes the comparison frame"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NOMINAL → current prices → size and ratios",
+          "DEFLATOR → nominal / real x 100",
+          "NOMINAL → current prices → size and ratios"
+        ],
+        [
+          "REAL → base-year prices → volume growth",
+          "LIMIT → base revision changes the comparison frame",
+          "REAL → base-year prices → volume growth"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NOMINAL → current prices → size and ratios",
+            "REAL → base-year prices → volume growth"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEFLATOR → nominal / real x 100",
+            "LIMIT → base revision changes the comparison frame"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOMINAL → current prices → size and ratios",
+            "REAL → base-year prices → volume growth"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → base revision changes the comparison frame.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PRODUCTION-BOUNDARY GATE",
+      "structural_type": "inclusion-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRODUCTION-BOUNDARY GATE",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT FINAL GOODS AND SERVICES",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMITTED IMPUTATIONS AND GOVERNMENT SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "EMBEDDED INTERMEDIATE INPUTS AND PURE TRANSFERS",
+          "role": "evidence"
+        },
+        {
+          "text": "OLD ASSETS EXCEPT CURRENT BROKERAGE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "IN → current final goods and services",
+        "IN → permitted imputations and government services",
+        "OUT → embedded intermediate inputs and pure transfers",
+        "OUT → old assets except current brokerage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IN → current final goods and services",
+            "IN → permitted imputations and government services"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUT → embedded intermediate inputs and pure transfers",
+            "OUT → old assets except current brokerage"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IN → current final goods and services",
+            "IN → permitted imputations and government services"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUT → embedded intermediate inputs and pure transfers.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INFORMAL-SECTOR ESTIMATION",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INFORMAL-SECTOR ESTIMATION",
+          "role": "primary"
+        },
+        {
+          "text": "MISSING COMPLETE ACCOUNTS",
+          "role": "outcome"
+        },
+        {
+          "text": "SURVEYS + ADMINISTRATIVE SOURCES",
+          "role": "comparison"
+        },
+        {
+          "text": "BENCHMARK-INDICATOR EXTRAPOLATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SHOCKS CAN BREAK HISTORICAL RATIOS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MISSING COMPLETE ACCOUNTS",
+        "surveys + administrative sources",
+        "benchmark-indicator extrapolation",
+        "LIMIT → shocks can break historical ratios"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MISSING COMPLETE ACCOUNTS",
+            "surveys + administrative sources"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "benchmark-indicator extrapolation",
+            "LIMIT → shocks can break historical ratios"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MISSING COMPLETE ACCOUNTS",
+            "surveys + administrative sources"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "benchmark-indicator extrapolation; LIMIT → shocks can break historical ratios.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BASE-YEAR REVISION TIMELINE",
+      "structural_type": "timeline-strip",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BASE-YEAR REVISION TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "SHIFT TO 2011-12 BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "27 FEB 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "RELEASE OF 2022-23-BASE SERIES",
+          "role": "evidence"
+        },
+        {
+          "text": "19 JUL 2026 CUTOFF",
+          "role": "primary"
+        },
+        {
+          "text": "FULL BACK SERIES PENDING",
+          "role": "outcome"
+        },
+        {
+          "text": "NEVER SPLICE UNSUPPORTED SERIES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "2015 → shift to 2011-12 base",
+        "27 FEB 2026 → release of 2022-23-base series",
+        "19 JUL 2026 CUTOFF → full back series pending",
+        "RULE → never splice unsupported series"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2015 → shift to 2011-12 base",
+            "27 FEB 2026 → release of 2022-23-base series"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "19 JUL 2026 CUTOFF → full back series pending",
+            "RULE → never splice unsupported series"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "2015 → shift to 2011-12 base",
+            "27 FEB 2026 → release of 2022-23-base series"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "19 JUL 2026 CUTOFF → full back series pending.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CAPACITY DIAGNOSIS",
+      "structural_type": "gap-diagram",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CAPACITY DIAGNOSIS",
+          "role": "primary"
+        },
+        {
+          "text": "ACTUAL < POTENTIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "NEGATIVE OUTPUT GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTUAL NEAR CAPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DEMAND STIMULUS MEETS SUPPLY LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "LABOUR + CAPITAL + PRODUCTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPACITY IS ESTIMATED, NOT OBSERVED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ACTUAL < POTENTIAL → negative output gap",
+        "ACTUAL NEAR CAPACITY → demand stimulus meets supply limits",
+        "POTENTIAL → labour + capital + productivity",
+        "LIMIT → capacity is estimated, not observed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ACTUAL < POTENTIAL → negative output gap",
+            "ACTUAL NEAR CAPACITY → demand stimulus meets supply limits"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POTENTIAL → labour + capital + productivity",
+            "LIMIT → capacity is estimated, not observed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACTUAL < POTENTIAL → negative output gap",
+            "ACTUAL NEAR CAPACITY → demand stimulus meets supply limits"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACTUAL NEAR CAPACITY → demand stimulus meets supply limits.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SAVING-TO-GROWTH CONVERSION",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SAVING-TO-GROWTH CONVERSION",
+          "role": "primary"
+        },
+        {
+          "text": "CAPITAL FORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPITAL NEEDED PER EXTRA OUTPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH ICOR",
+          "role": "evidence"
+        },
+        {
+          "text": "WEAK CONVERSION EFFICIENCY",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOMINAL IS CURRENT-PRICE VALUE, REAL IS CONSTANT-PRICE VOLUME, A",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SAVING → INVESTMENT",
+        "INVESTMENT → capital formation",
+        "ICOR → capital needed per extra output",
+        "HIGH ICOR → weak conversion efficiency",
+        "CLOSE DISTINCTION: Nominal is current-price value, real is constant-price volume, a level"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SAVING → INVESTMENT",
+            "INVESTMENT → capital formation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ICOR → capital needed per extra output",
+            "HIGH ICOR → weak conversion efficiency"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Nominal is current-price value, real is constant-price volume, a level...",
+            "SAVING → INVESTMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Nominal is current-price value, real is constant-price volume, a level.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CROSS-COUNTRY COMPARISON FORK",
+      "structural_type": "purpose-fork",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CROSS-COUNTRY COMPARISON FORK",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON BASKET",
+          "role": "outcome"
+        },
+        {
+          "text": "PURCHASING POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "MARKET RATE",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTERNAL VALUE",
+          "role": "primary"
+        },
+        {
+          "text": "TRADE AND DEBT",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME OUTPUT, DIFFERENT PRICE BASIS",
+          "role": "comparison"
+        },
+        {
+          "text": "QUOTE SOURCE AND REFERENCE YEAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PPP → common basket → purchasing power",
+        "MARKET RATE → external value → trade and debt",
+        "SAME OUTPUT, DIFFERENT PRICE BASIS",
+        "RULE → quote source and reference year",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State factor cost/basic/market-price"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PPP → common basket → purchasing power",
+          "SAME OUTPUT, DIFFERENT PRICE BASIS",
+          "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State factor cost/basic/market-price..."
+        ],
+        [
+          "MARKET RATE → external value → trade and debt",
+          "RULE → quote source and reference year",
+          "PPP → common basket → purchasing power"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PPP → common basket → purchasing power",
+            "MARKET RATE → external value → trade and debt"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SAME OUTPUT, DIFFERENT PRICE BASIS",
+            "RULE → quote source and reference year"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State factor cost/basic/market-price...",
+            "PPP → common basket → purchasing power"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State factor cost/basic/market-price.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER CLOSING SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER CLOSING SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDARY + FORMULA",
+          "role": "outcome"
+        },
+        {
+          "text": "BASE YEAR + PERIOD + VINTAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "COVERAGE + METHOD + EFFICIENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTRIBUTION + UNPAID WORK + ECOLOGY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → boundary + formula",
+        "VERIFY → base year + period + vintage",
+        "ANALYSE → coverage + method + efficiency",
+        "QUALIFY → distribution + unpaid work + ecology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → boundary + formula",
+            "VERIFY → base year + period + vintage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSE → coverage + method + efficiency",
+            "QUALIFY → distribution + unpaid work + ecology"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → boundary + formula",
+            "VERIFY → base year + period + vintage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → distribution + unpaid work + ecology.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-01\\g5\\economy-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INTERMEDIATE INPUTS + OPERATING SURPLUS + GFCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCTION TAXES/SUBSIDIES RELATE TO PRODUCTION ACTIVITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCT TAXES/SUBSIDIES RELATE TO UNITS OF GOODS/SERVICES AND BRIDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "A TAX CUT CAN NARROW GDP GROWTH RELATIVE TO",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTANT-PRICE ESTIMATES SEPARATE OUTPUT-VOLUME CHANGE FROM PRICE CHANGE.",
+          "role": "outcome"
+        },
+        {
+          "text": "DIFFERENT SECTORS REQUIRE SUITABLE DEFLATORS; ONE ECONOMY-WIDE PRICE INDEX",
+          "role": "comparison"
+        },
+        {
+          "text": "BASE-YEAR REVISION UPDATES PRICES, WEIGHTS, DATABASES, CLASSIFICATIONS AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "intermediate inputs + operating surplus + GFCE",
+            "Production taxes/subsidies relate to production activity.",
+            "Product taxes/subsidies relate to units of goods/services and bridge GVA",
+            "CAUTION: A tax cut can narrow GDP growth relative to GVA growth even when underlying"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Constant-price estimates separate output-volume change from price change.",
+            "Different sectors require suitable deflators; one economy-wide price index",
+            "Base-year revision updates prices, weights, databases, classifications and",
+            "CAUTION: A new series can alter levels and growth rates because both the base and"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Informal-sector estimation, rapidly changing digital services and quality",
+            "CAUTION: Per-capita GDP corrects for population size but not inequality.",
+            "CAUTION: Disaster reconstruction can add to GDP although the original welfare loss",
+            "CAUTION: Resource depletion may raise current output while reducing future wealth."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2103 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-26",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Economic Survey Synthesis and Current Macro Dashboard - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 37,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\assets\\economy-26_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 464.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 310.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 243.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 96,
+      "heading": "VISUAL FIRST",
+      "preview": "FIRST ADVANCE ESTIMATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 142,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FIRST ADVANCE ESTIMATES",
+      "preview": "START / CONCEPT: FOUNDATION — First Advance Estimates",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 335.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 94.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 153,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not merge GDP with GVA or nominal values with real growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 172,
+      "heading": "VISUAL FIRST",
+      "preview": "GDP AND GVA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 217,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - GDP AND GVA",
+      "preview": "START / CONCEPT: FOUNDATION — GDP and GVA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 228,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 247,
+      "heading": "VISUAL FIRST",
+      "preview": "REAL AND NOMINAL MEASUREMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 292,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - REAL AND NOMINAL MEASUREMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Real and nominal measurement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 195.491
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 303,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat headline CPI as every household's inflation experience.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 322,
+      "heading": "VISUAL FIRST",
+      "preview": "DEMAND COMPOSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 576.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 535.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 367,
+      "heading": "CLOSING RECALL FLOW - CORE - DEMAND COMPOSITION",
+      "preview": "START / CONCEPT: CORE — Demand composition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 378,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 397,
+      "heading": "VISUAL FIRST",
+      "preview": "ESTIMATE-VINTAGE SEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 442,
+      "heading": "CLOSING RECALL FLOW - CORE - ESTIMATE-VINTAGE SEQUENCE",
+      "preview": "START / CONCEPT: CORE — Estimate-vintage sequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 453,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 475,
+      "heading": "VISUAL FIRST",
+      "preview": "BUDGET ESTIMATE, REVISED ESTIMATE AND ACTUAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 521,
+      "heading": "CLOSING RECALL FLOW - CORE - BUDGET ESTIMATE, REVISED ESTIMATE AND ACTUAL",
+      "preview": "START / CONCEPT: CORE — Budget Estimate, Revised Estimate and actual",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 532,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 551,
+      "heading": "VISUAL FIRST",
+      "preview": "HEADLINE AND CORE INFLATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 596,
+      "heading": "CLOSING RECALL FLOW - CORE - HEADLINE AND CORE INFLATION",
+      "preview": "START / CONCEPT: CORE — Headline and core inflation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 199.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 607,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 626,
+      "heading": "VISUAL FIRST",
+      "preview": "HIGH-FREQUENCY INDICATORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 671,
+      "heading": "CLOSING RECALL FLOW - CORE - HIGH-FREQUENCY INDICATORS",
+      "preview": "START / CONCEPT: CORE — High-frequency indicators",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 682,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 701,
+      "heading": "VISUAL FIRST",
+      "preview": "RESERVE STOCK AND CURRENT-ACCOUNT FLOW",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 746,
+      "heading": "CLOSING RECALL FLOW - CORE - RESERVE STOCK AND CURRENT-ACCOUNT FLOW",
+      "preview": "START / CONCEPT: CORE — Reserve stock and current-account flow",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 185.491
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 757,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 776,
+      "heading": "VISUAL FIRST",
+      "preview": "EXTERNAL DEBT STOCK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 511.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 821,
+      "heading": "CLOSING RECALL FLOW - CORE - EXTERNAL DEBT STOCK",
+      "preview": "START / CONCEPT: CORE — External debt stock",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 832,
+      "markdown_body_line_end": 832,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 854,
+      "heading": "VISUAL FIRST",
+      "preview": "PLFS METHOD AND DENOMINATOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 883,
+      "markdown_body_line_end": 900,
+      "heading": "CLOSING RECALL FLOW - CORE - PLFS METHOD AND DENOMINATOR",
+      "preview": "START / CONCEPT: CORE — PLFS method and denominator",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 335.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 94.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 911,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not merge GDP with GVA or nominal values with real growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 930,
+      "heading": "VISUAL FIRST",
+      "preview": "DASHBOARD UNIT AND DENOMINATOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 975,
+      "heading": "CLOSING RECALL FLOW - CORE - DASHBOARD UNIT AND DENOMINATOR",
+      "preview": "START / CONCEPT: CORE — Dashboard unit and denominator",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 986,
+      "markdown_body_line_end": 986,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: V-shaped recovery boundary Qualified use: Attach unit, denominator, reference period, release date and estimate vintage to every dashboard claim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 379.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1001,
+      "markdown_body_line_end": 1005,
+      "heading": "VISUAL FIRST",
+      "preview": "SURVEY, BUDGET AND OUTTURN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1033,
+      "markdown_body_line_end": 1050,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - SURVEY, BUDGET AND OUTTURN",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Survey, Budget and outturn",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 209.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1061,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CORE SYNTHESIS — Forecast, potential and stability comprises CORE SYNTHESIS, Forecast and potential as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1083,
+      "heading": "VISUAL FIRST",
+      "preview": "FORECAST, POTENTIAL AND STABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1112,
+      "markdown_body_line_end": 1129,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FORECAST, POTENTIAL AND STABILITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Forecast, potential and stability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Survey data must be quoted with period, estimate type and source chapter. ✅ Advance estimates are revised as fuller information becomes available. ✅ The Global Competitiveness Report (Global Competitiveness Index) was published annually b",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 379.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 142.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1155,
+      "markdown_body_line_end": 1162,
+      "heading": "VISUAL FIRST",
+      "preview": "RECOVERY, COMPARABILITY AND STRATEGIC CAPACITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 659.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1194,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Current macroeconomy. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Pre",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 282.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 172.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1198,
+      "markdown_body_line_end": 1212,
+      "heading": "1. Visual foundation",
+      "preview": "1. GROWTH AND DEMAND",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1225,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 595.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 431.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1464,
+      "markdown_body_line_end": 1464,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Read the Survey as a connected balance sheet of growth, prices, fiscal quality, finance, external resilience and future productive capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 320.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 275.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1533,
+      "markdown_body_line_end": 1535,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 183.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 88.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1541,
+      "markdown_body_line_end": 1544,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 664.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1551,
+      "markdown_body_line_end": 1551,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 608.49
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 563.822
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1556,
+      "markdown_body_line_end": 1573,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RECOVERY, COMPARABILITY AND STRATEGIC CAPACITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Recovery, comparability and strategic capacity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1480
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 541.822
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 110.822
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2406,
+      "markdown_body_line_end": 2408,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 282.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 187.424
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2414,
+      "markdown_body_line_end": 2417,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 664.89
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2424,
+      "markdown_body_line_end": 2424,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 608.49
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 563.822
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2436,
+      "markdown_body_line_end": 2437,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 469.022
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 402.354
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2443,
+      "markdown_body_line_end": 2445,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 350.754
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 264.353
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2451,
+      "markdown_body_line_end": 2451,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 225.153
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 180.485
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2723,
+      "markdown_body_line_end": 2727,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Current macroeconomy. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 202",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 641.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 554.424
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2731,
+      "markdown_body_line_end": 2745,
+      "heading": "1. Architecture",
+      "preview": "1. growth and demand",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 532.424
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 391.424
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2752,
+      "markdown_body_line_end": 2758,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 341.024
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 176.822
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2850,
+      "markdown_body_line_end": 2856,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 361.891
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 175.29
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2899,
+      "markdown_body_line_end": 2900,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 336.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 269.824
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2906,
+      "markdown_body_line_end": 2908,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 218.224
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 131.822
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2914,
+      "markdown_body_line_end": 2914,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 92.622
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 47.954
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2957,
+      "markdown_body_line_end": 2965,
+      "heading": "Economic Survey Synthesis and Current Macro Dashboard: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 521.691
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 440.691
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2975,
+      "markdown_body_line_end": 2981,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Six-box macro dashboard",
+      "preview": "GROWTH + DEMAND",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 307.091
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 245.091
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2985,
+      "markdown_body_line_end": 2990,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Estimate-vintage ladder",
+      "preview": "FAE / SAE -> early estimate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2994,
+      "markdown_body_line_end": 2999,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: GDP-GVA-price boundary",
+      "preview": "GDP -> market prices",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3003,
+      "markdown_body_line_end": 3008,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Demand-composition map",
+      "preview": "PFCE + GFCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3012,
+      "markdown_body_line_end": 3017,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Fiscal evidence ladder",
+      "preview": "BE -> forward plan",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3021,
+      "markdown_body_line_end": 3026,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Inflation reading board",
+      "preview": "HEADLINE CPI",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3030,
+      "markdown_body_line_end": 3035,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Stock-flow external map",
+      "preview": "RESERVES -> stock at date",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3039,
+      "markdown_body_line_end": 3044,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Labour-data boundary",
+      "preview": "PLFS PERIOD",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3048,
+      "markdown_body_line_end": 3053,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Survey-budget-outturn split",
+      "preview": "SURVEY -> diagnosis / projection",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3057,
+      "markdown_body_line_end": 3063,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: V-to-K recovery test",
+      "preview": "GDP PATH -> contraction then rebound",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3067,
+      "markdown_body_line_end": 3073,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Cross-box synthesis loop",
+      "preview": "HEADLINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3077,
+      "markdown_body_line_end": 3082,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Macro-dashboard answer spine",
+      "preview": "LABEL value + unit + vintage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    }
+  ]
+}

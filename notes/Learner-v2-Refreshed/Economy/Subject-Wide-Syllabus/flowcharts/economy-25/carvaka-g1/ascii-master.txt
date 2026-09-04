@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Externality-to-transition rail
+RESOURCE USE + EMISSIONS
+-> UNPRICED SOCIAL COST
+-> PRICE + RULE + FINANCE
+-> LOW-CARBON RESILIENT OUTCOME
+
+ASCII MASTER FLOW — PANEL 2/12: Mitigation-adaptation split
+MITIGATION -> emissions + sinks
+ADAPTATION -> exposure + vulnerability
+FINANCE MODELS differ
+BOTH required; neither substitutes
+
+ASCII MASTER FLOW — PANEL 3/12: Carbon-value triangle
+SCC -> damage valuation
+CARBON TAX -> statutory price
+TRADING PRICE -> market outcome
+THREE VALUES may diverge
+
+ASCII MASTER FLOW — PANEL 4/12: PAT-to-CCTS boundary
+PAT -> energy intensity
+CCTS -> GHG compliance architecture
+SECTOR + YEAR -> dated notification
+PHASED STATUS != economy-wide market
+
+ASCII MASTER FLOW — PANEL 5/12: Climate-risk channels
+PHYSICAL -> hazard exposure
+TRANSITION -> policy + technology
+CREDIT + MARKET + OPERATIONAL
+HOUSEHOLD + FISCAL transmission
+
+ASCII MASTER FLOW — PANEL 6/12: Green-finance credibility chain
+ELIGIBILITY / TAXONOMY
+-> ALLOCATION
+-> OUTPUT + OUTCOME METRIC
+-> ASSURANCE + ADDITIONALITY
+
+ASCII MASTER FLOW — PANEL 7/12: Bond-use boundary
+GREEN BOND -> environmental uses
+SUSTAINABILITY BOND -> green + social
+SOVEREIGN ISSUE -> earmarked borrowing
+LABEL != completed verified outcome
+
+ASCII MASTER FLOW — PANEL 8/12: Circular-value ladder
+REDUCE + REDESIGN
+REUSE + REPAIR
+REFURBISH + REMANUFACTURE
+RECYCLE residual materials
+
+ASCII MASTER FLOW — PANEL 9/12: EPR results chain
+PRODUCER OBLIGATION
+-> COLLECTION / PROCESSING
+-> CERTIFICATE + VERIFICATION
+-> ACTUAL MATERIAL OUTCOME
+
+ASCII MASTER FLOW — PANEL 10/12: Just-transition map
+WORKERS + SKILLS
+REGIONS + REVENUE
+CONSUMERS + AFFORDABILITY
+ENERGY ACCESS + SOCIAL PROTECTION
+
+ASCII MASTER FLOW — PANEL 11/12: Trade-climate boundary
+EU CBAM -> external import rule
+INDIA CCTS / MRV -> domestic system
+RECOGNITION -> unsettled unless verified
+TRADE PRESSURE != policy identity
+
+ASCII MASTER FLOW — PANEL 12/12: Climate-economics answer spine
+DEFINE metric + status
+TRACE price + finance + innovation
+TEST distribution + additionality
+CONCLUDE credible just transition

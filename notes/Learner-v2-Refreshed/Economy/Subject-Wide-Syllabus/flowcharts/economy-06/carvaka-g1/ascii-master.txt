@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Stress recognition rail
+WEAK CASH FLOW
+-> OVERDUE UNDER RBI TEST
+-> NPA RECOGNITION
+-> PROVISIONING + CAPITAL PRESSURE
+
+ASCII MASTER FLOW — PANEL 2/12: Loan-accounting fork
+PROVISION -> expected loss charged to income
+WRITE-OFF -> removed from active loan book
+WAIVER -> liability legally relinquished
+RECOVERY RIGHTS may survive a write-off
+
+ASCII MASTER FLOW — PANEL 3/12: Risk-weighted capital board
+BASEL GLOBAL -> CET1 4.5 | TIER 1 6 | TOTAL 8
+RBI INDIA -> CET1 5.5 | TIER 1 7 | CRAR 9
+CCB -> 2.5 CET1
+VINTAGE -> RBI Master Circular, 1 Apr 2025
+
+ASCII MASTER FLOW — PANEL 4/12: Twin-balance-sheet loop
+CORPORATE OVER-LEVERAGE
+-> WEAK DEBT SERVICE
+-> BANK NPAs + CAPITAL LOSS
+-> WEAKER FRESH CREDIT
+
+ASCII MASTER FLOW — PANEL 5/12: Recovery-resolution ladder
+SARFAESI -> secured-asset enforcement
+DRT -> specialised debt recovery
+IBC / NCLT -> collective insolvency
+ICA -> lender coordination, not a tribunal
+
+ASCII MASTER FLOW — PANEL 6/12: Stressed-asset transfer
+BANK BALANCE SHEET
+-> ARC / NARCL TRANSFER
+-> SPECIALISED RECOVERY OR SALE
+LOSS REMAINS -> valuation and buyer interest decide
+
+ASCII MASTER FLOW — PANEL 7/12: Supervisory repair sequence
+AQR -> RECOGNITION
+PCA -> GRADUATED SUPERVISION
+RECAPITALISATION -> LOSS ABSORPTION
+4R -> RECOGNITION + RESOLUTION + RECAP + REFORMS
+
+ASCII MASTER FLOW — PANEL 8/12: Stress indicators board
+NPA -> prudential loan classification
+ICR -> earnings / interest-service indicator
+EVERGREENING -> concealed stress
+FORBEARANCE -> temporary relief, not permanent concealment
+
+ASCII MASTER FLOW — PANEL 9/12: Inclusion quality triangle
+ACCESS -> account or service availability
+USAGE -> active and suitable use
+QUALITY -> protection + grievance + suitability
+FI-INDEX -> all three; no base year
+
+ASCII MASTER FLOW — PANEL 10/12: Inclusion delivery map
+PMJDY -> transaction-account platform
+SHG-BANK LINKAGE -> group savings to formal bank
+BUSINESS CORRESPONDENT -> last-mile access
+WATERCREDIT -> targeted water/sanitation finance
+
+ASCII MASTER FLOW — PANEL 11/12: Credit-cleanup trade-offs
+EARLY RECOGNITION -> credibility / short-run ratio shock
+HIGHER CAPITAL -> resilience / lending constraint
+FAST RECOVERY -> discipline / viability risk
+DIGITAL ACCESS -> lower cost / exclusion and mis-selling risk
+
+ASCII MASTER FLOW — PANEL 12/12: NPA answer spine
+DEFINE stress and classification
+ABSORB loss through provisions and capital
+CHOOSE recovery, resolution or transfer
+RESTORE governance and useful inclusion

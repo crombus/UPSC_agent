@@ -1,0 +1,1015 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-12",
+  "subject": "Economy",
+  "title": "MSP, PROCUREMENT, BUFFER STOCKS, PDS AND FOOD SECURITY",
+  "short_route": "PRICE-TO-FOOD RAIL → COST-CONCEPT LADDER → ANNOUNCEMENT-PROCUREMENT FORK → FCI COST CHAIN → PUBLIC-STOCK BOARD → RELEASE-CHANNEL FORK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-12-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "15a2468bf92a005eca51c77bd35ff9734554a8a8d9ccde717d4c7cf8a7928841",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PRICE-TO-FOOD RAIL",
+      "structural_type": "policy-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRICE-TO-FOOD RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "CACP RECOMMENDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CCEA MSP ANNOUNCEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "AGENCY PROCUREMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "MARKET RELEASE",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "MSP IS AN ANNOUNCED PRICE POLICY, PROCUREMENT IS AN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CACP RECOMMENDATION",
+        "CCEA MSP ANNOUNCEMENT",
+        "AGENCY PROCUREMENT",
+        "STOCK / PDS / MARKET RELEASE",
+        "MUST REMEMBER: MSP is an announced price policy, procurement is an actual purchase"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CACP RECOMMENDATION",
+            "CCEA MSP ANNOUNCEMENT"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AGENCY PROCUREMENT",
+            "STOCK / PDS / MARKET RELEASE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: MSP is an announced price policy, procurement is an actual purchase...",
+            "CACP RECOMMENDATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: MSP is an announced price policy, procurement is an actual purchase.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COST-CONCEPT LADDER",
+      "structural_type": "cost-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COST-CONCEPT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "PAID-OUT CULTIVATION EXPENSE",
+          "role": "outcome"
+        },
+        {
+          "text": "A2 + IMPUTED FAMILY LABOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "A2+FL + OWNED-LAND RENT + FIXED-CAPITAL INTEREST",
+          "role": "evidence"
+        },
+        {
+          "text": "MARGIN CLAIM",
+          "role": "primary"
+        },
+        {
+          "text": "ALWAYS NAME THE BASE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "A2 → paid-out cultivation expense",
+        "A2+FL → A2 + imputed family labour",
+        "C2 → A2+FL + owned-land rent + fixed-capital interest",
+        "MARGIN CLAIM → always name the base"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "A2 → paid-out cultivation expense",
+            "A2+FL → A2 + imputed family labour"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "C2 → A2+FL + owned-land rent + fixed-capital interest",
+            "MARGIN CLAIM → always name the base"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "A2 → paid-out cultivation expense",
+            "A2+FL → A2 + imputed family labour"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "C2 → A2+FL + owned-land rent + fixed-capital interest.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ANNOUNCEMENT-PROCUREMENT FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ANNOUNCEMENT-PROCUREMENT FORK",
+          "role": "primary"
+        },
+        {
+          "text": "ANNOUNCED SIGNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ACTUAL ELIGIBLE PURCHASE",
+          "role": "comparison"
+        },
+        {
+          "text": "CROP + GRADE + SEASON + PLACE",
+          "role": "evidence"
+        },
+        {
+          "text": "AGENCY ACCESS + ARRIVALS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MSP → announced signal",
+        "PROCUREMENT → actual eligible purchase",
+        "SCOPE → crop + grade + season + place",
+        "REALISATION → agency access + arrivals"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MSP → announced signal",
+          "SCOPE → crop + grade + season + place",
+          "MSP → announced signal"
+        ],
+        [
+          "PROCUREMENT → actual eligible purchase",
+          "REALISATION → agency access + arrivals",
+          "PROCUREMENT → actual eligible purchase"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MSP → announced signal",
+            "PROCUREMENT → actual eligible purchase"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCOPE → crop + grade + season + place",
+            "REALISATION → agency access + arrivals"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MSP → announced signal",
+            "PROCUREMENT → actual eligible purchase"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE → crop + grade + season + place.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FCI COST CHAIN",
+      "structural_type": "accounting-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FCI COST CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PURCHASE PRICE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCUREMENT INCIDENTALS",
+          "role": "comparison"
+        },
+        {
+          "text": "MOVEMENT + STORAGE + CARRYING",
+          "role": "evidence"
+        },
+        {
+          "text": "ECONOMIC COST; NOT MSP ALONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PURCHASE PRICE",
+        "PROCUREMENT INCIDENTALS",
+        "MOVEMENT + STORAGE + CARRYING",
+        "ECONOMIC COST; not MSP alone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PURCHASE PRICE",
+            "PROCUREMENT INCIDENTALS"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOVEMENT + STORAGE + CARRYING",
+            "ECONOMIC COST; not MSP alone"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PURCHASE PRICE",
+            "PROCUREMENT INCIDENTALS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MOVEMENT + STORAGE + CARRYING; ECONOMIC COST; not MSP alone.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PUBLIC-STOCK BOARD",
+      "structural_type": "stock-flow-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PUBLIC-STOCK BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "BUFFER NORM",
+          "role": "outcome"
+        },
+        {
+          "text": "DESIRED BENCHMARK",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTUAL STOCK",
+          "role": "evidence"
+        },
+        {
+          "text": "DATED INVENTORY",
+          "role": "primary"
+        },
+        {
+          "text": "DISTRIBUTION NEED",
+          "role": "outcome"
+        },
+        {
+          "text": "STABILISATION RESERVE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BUFFER NORM → desired benchmark",
+        "ACTUAL STOCK → dated inventory",
+        "OPERATIONAL → distribution need",
+        "STRATEGIC → emergency / stabilisation reserve"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BUFFER NORM → desired benchmark",
+            "ACTUAL STOCK → dated inventory"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OPERATIONAL → distribution need",
+            "STRATEGIC → emergency / stabilisation reserve"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BUFFER NORM → desired benchmark",
+            "ACTUAL STOCK → dated inventory"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OPERATIONAL → distribution need; STRATEGIC → emergency / stabilisation reserve.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RELEASE-CHANNEL FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RELEASE-CHANNEL FORK",
+          "role": "primary"
+        },
+        {
+          "text": "ENTITLED HOUSEHOLD ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDER MARKET SUPPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "STOCK INFLOW",
+          "role": "evidence"
+        },
+        {
+          "text": "STOCK OUTFLOW",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PDS → entitled household access",
+        "OMSS → wider market supply",
+        "PROCUREMENT → stock inflow",
+        "OFFTAKE / RELEASE → stock outflow"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PDS → entitled household access",
+          "PROCUREMENT → stock inflow",
+          "PDS → entitled household access"
+        ],
+        [
+          "OMSS → wider market supply",
+          "OFFTAKE / RELEASE → stock outflow",
+          "OMSS → wider market supply"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PDS → entitled household access",
+            "OMSS → wider market supply"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCUREMENT → stock inflow",
+            "OFFTAKE / RELEASE → stock outflow"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PDS → entitled household access",
+            "OMSS → wider market supply"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROCUREMENT → stock inflow; OFFTAKE / RELEASE → stock outflow.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NFSA ARCHITECTURE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NFSA ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL ENTITLEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "DELIVERY NETWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "PERSON-BASED ENTITLEMENT UNIT",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSEHOLD-BASED ENTITLEMENT UNIT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NFSA → legal entitlement",
+        "TPDS → delivery network",
+        "PHH → person-based entitlement unit",
+        "AAY → household-based entitlement unit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NFSA → legal entitlement",
+            "TPDS → delivery network"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PHH → person-based entitlement unit",
+            "AAY → household-based entitlement unit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NFSA → legal entitlement",
+            "TPDS → delivery network"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PHH → person-based entitlement unit; AAY → household-based entitlement unit.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DELIVERY-OUTCOME LADDER",
+      "structural_type": "outcome-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DELIVERY-OUTCOME LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "HOUSEHOLD RECEIPT",
+          "role": "outcome"
+        },
+        {
+          "text": "NUTRITIONAL USE",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSEHOLD RECEIPT → NUTRITIONAL USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOUSEHOLD RECEIPT → NUTRITIONAL USE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HOUSEHOLD RECEIPT → NUTRITIONAL USE",
+            "HOUSEHOLD RECEIPT → NUTRITIONAL USE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HOUSEHOLD RECEIPT → NUTRITIONAL USE",
+            "HOUSEHOLD RECEIPT → NUTRITIONAL USE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HOUSEHOLD RECEIPT → NUTRITIONAL USE",
+            "HOUSEHOLD RECEIPT → NUTRITIONAL USE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ENTITLEMENT; ALLOCATION; OFFTAKE; HOUSEHOLD RECEIPT → NUTRITIONAL USE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PORTABILITY AND AUTHENTICATION",
+      "structural_type": "trade-off-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PORTABILITY AND AUTHENTICATION",
+          "role": "primary"
+        },
+        {
+          "text": "PORTABLE ENTITLEMENT EPOS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSACTION RECORD",
+          "role": "comparison"
+        },
+        {
+          "text": "AADHAAR MATCH",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTITY CHECK",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ONORC → portable entitlement ePoS → transaction record",
+        "AADHAAR MATCH → identity check",
+        "FAILURE RISK → connectivity / device / seeding"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ONORC → portable entitlement ePoS → transaction record",
+            "AADHAAR MATCH → identity check"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FAILURE RISK → connectivity / device / seeding",
+            "ONORC → portable entitlement ePoS → transaction record"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AADHAAR MATCH → identity check",
+            "FAILURE RISK → connectivity / device / seeding"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FAILURE RISK → connectivity / device / seeding.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FARMER-CONSUMER BALANCE",
+      "structural_type": "two-lens-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FARMER-CONSUMER BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "PRICE ASSURANCE + PURCHASE ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "AFFORDABLE ACCESS + STABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL + STORAGE COST",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER INCENTIVE",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MSP COVERAGE IS NOT PROCUREMENT COVERAGE, RECOMMENDATION IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FARMER → price assurance + purchase access",
+        "CONSUMER → affordable access + stability",
+        "STATE → fiscal + storage cost",
+        "ECOLOGY → crop / water incentive",
+        "CLOSE DISTINCTION: MSP coverage is not procurement coverage, recommendation is not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FARMER → price assurance + purchase access",
+            "CONSUMER → affordable access + stability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATE → fiscal + storage cost",
+            "ECOLOGY → crop / water incentive"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: MSP coverage is not procurement coverage, recommendation is not...",
+            "FARMER → price assurance + purchase access"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: MSP coverage is not procurement coverage, recommendation is not.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "NUTRITION DIVERSIFICATION",
+      "structural_type": "dimension-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NUTRITION DIVERSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "CEREALS ALONE ARE INSUFFICIENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "STATE CROP, SEASON, AGENCY, UNIT, DATE AND",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "UTILISATION / NUTRITION",
+        "STABILITY → cereals alone are insufficient",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State crop, season, agency, unit, date and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UTILISATION / NUTRITION",
+            "STABILITY → cereals alone are insufficient"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State crop, season, agency, unit, date and...",
+            "UTILISATION / NUTRITION"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STABILITY → cereals alone are insufficient",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State crop, season, agency, unit, date and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State crop, season, agency, unit, date and.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FOOD-POLICY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FOOD-POLICY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE ANNOUNCEMENT, PURCHASE AND STOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE INFLOW, CARRYING AND RELEASE",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST ENTITLEMENT AGAINST ACTUAL DELIVERY",
+          "role": "evidence"
+        },
+        {
+          "text": "BALANCE FARM, CONSUMER, FISCAL AND ECOLOGY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SEPARATE announcement, purchase and stock",
+        "TRACE inflow, carrying and release",
+        "TEST entitlement against actual delivery",
+        "BALANCE farm, consumer, fiscal and ecology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SEPARATE announcement, purchase and stock",
+            "TRACE inflow, carrying and release"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST entitlement against actual delivery",
+            "BALANCE farm, consumer, fiscal and ecology"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEPARATE announcement, purchase and stock",
+            "TRACE inflow, carrying and release"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST entitlement against actual delivery; BALANCE farm, consumer, fiscal and ecology.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MSP INFLUENCES EXPECTATIONS EVEN BEYOND PROCURED QUANTITIES, BUT STRENGTH",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCUREMENT CONCENTRATION CAN LOCK CROPPING PATTERNS INTO WATER-INTENSIVE CEREALS.",
+          "role": "comparison"
+        },
+        {
+          "text": "BUFFER OPTIMISATION BALANCES STRATEGIC NEEDS, SEASONAL OPERATIONS, PDS DEMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "PRICE STABILISATION REQUIRES TRANSPARENT RELEASE RULES SO PRIVATE STORAGE",
+          "role": "primary"
+        },
+        {
+          "text": "NUTRITIONAL SECURITY REQUIRES PULSES, MILLETS, EDIBLE OILS AND DIVERSE",
+          "role": "outcome"
+        },
+        {
+          "text": "END-TO-END DIGITISATION CAN REDUCE DIVERSION BUT AUTHENTICATION FAILURES REQUIRE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMISSION FOR AGRICULTURAL COSTS AND PRICES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: MSP influences expectations even beyond procured quantities, but strength varies with",
+            "CAUTION: Procurement concentration can lock cropping patterns into water-intensive cereals.",
+            "CAUTION: Buffer optimisation balances strategic needs, seasonal operations, PDS demand and",
+            "CAUTION: Price stabilisation requires transparent release rules so private storage is not"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Nutritional security requires pulses, millets, edible oils and diverse diets alongside",
+            "CAUTION: End-to-end digitisation can reduce diversion but authentication failures require robust",
+            "Commission for Agricultural Costs and Prices: recommends MSPs using cost, demand,",
+            "Union government: announces MSPs and sets broad food-management policy."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "FCI and state agencies: procure, store, move and release foodgrains.",
+            "State PDS systems and fair-price shops: identify or serve beneficiaries and deliver",
+            "CAUTION: An MSP announcement without a nearby buyer may offer little effective protection to a",
+            "CAUTION: Stocks above operational and strategic needs can raise carrying cost and crowd private"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

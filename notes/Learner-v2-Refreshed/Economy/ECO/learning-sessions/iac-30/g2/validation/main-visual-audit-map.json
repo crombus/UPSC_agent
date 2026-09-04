@@ -1,0 +1,3545 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-30",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 40,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\assets\\economy-30_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 327.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 80,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Scope and sector boundary - Biological stock and annual flow Qualified use: Begin with the biological asset, production flow and full cost boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 140.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 73.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 95,
+      "markdown_body_line_end": 102,
+      "heading": "VISUAL FIRST",
+      "preview": "ANIMAL-REARING AND AQUATIC-SECTOR BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 576.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 131,
+      "markdown_body_line_end": 148,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ANIMAL-REARING AND AQUATIC-SECTOR BOUNDARY",
+      "preview": "START / CONCEPT: FOUNDATION — Animal-rearing and aquatic-sector boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 159,
+      "markdown_body_line_end": 159,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not use a livestock stock count as an annual milk, egg, meat or fish flow.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 354.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 178,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOLOGICAL STOCK AND ANNUAL PRODUCTION FLOW",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 223,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BIOLOGICAL STOCK AND ANNUAL PRODUCTION FLOW",
+      "preview": "START / CONCEPT: FOUNDATION — Biological stock and annual production flow",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 234,
+      "markdown_body_line_end": 234,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 253,
+      "heading": "VISUAL FIRST",
+      "preview": "ANIMAL AS ASSET AND PRODUCTION UNIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 281,
+      "markdown_body_line_end": 298,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ANIMAL AS ASSET AND PRODUCTION UNIT",
+      "preview": "START / CONCEPT: FOUNDATION — Animal as asset and production unit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 309,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Productivity complementarity Qualified use: Begin with the biological asset, production flow and full cost boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 328,
+      "heading": "VISUAL FIRST",
+      "preview": "NET ENTERPRISE-INCOME ACCOUNTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 356,
+      "markdown_body_line_end": 373,
+      "heading": "CLOSING RECALL FLOW - CORE - NET ENTERPRISE-INCOME ACCOUNTING",
+      "preview": "START / CONCEPT: CORE — Net enterprise-income accounting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 384,
+      "markdown_body_line_end": 384,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Feed and fodder economics Qualified use: Trace producer margin through feed, health, mortality, collection, processing and market power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 399,
+      "markdown_body_line_end": 403,
+      "heading": "VISUAL FIRST",
+      "preview": "GENETICS, FEED, HEALTH AND MARKET COMPLEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 431,
+      "markdown_body_line_end": 448,
+      "heading": "CLOSING RECALL FLOW - CORE - GENETICS, FEED, HEALTH AND MARKET COMPLEMENTS",
+      "preview": "START / CONCEPT: CORE — Genetics, feed, health and market complements",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 459,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Disease and One Health - Dairy value chain Qualified use: Qualify growth with One Health, welfare, gender, commons and carrying-capacity limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 481,
+      "heading": "VISUAL FIRST",
+      "preview": "FEED AND FODDER COST SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 527,
+      "heading": "CLOSING RECALL FLOW - CORE - FEED AND FODDER COST SYSTEM",
+      "preview": "START / CONCEPT: CORE — Feed and fodder cost system",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 129.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 538,
+      "markdown_body_line_end": 538,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 553,
+      "markdown_body_line_end": 557,
+      "heading": "VISUAL FIRST",
+      "preview": "DISEASE EXTERNALITY AND ONE HEALTH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 602,
+      "heading": "CLOSING RECALL FLOW - CORE - DISEASE EXTERNALITY AND ONE HEALTH",
+      "preview": "START / CONCEPT: CORE — Disease externality and One Health",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 613,
+      "markdown_body_line_end": 613,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CORE — Dairy value-chain economics comprises Dairy value-chain economics, Mechanism chain and Qualified use as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 628,
+      "markdown_body_line_end": 632,
+      "heading": "VISUAL FIRST",
+      "preview": "DAIRY VALUE-CHAIN ECONOMICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 677,
+      "heading": "CLOSING RECALL FLOW - CORE - DAIRY VALUE-CHAIN ECONOMICS",
+      "preview": "START / CONCEPT: CORE — Dairy value-chain economics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 688,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 707,
+      "heading": "VISUAL FIRST",
+      "preview": "OPERATION FLOOD AND COOPERATIVE GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 752,
+      "heading": "CLOSING RECALL FLOW - CORE - OPERATION FLOOD AND COOPERATIVE GOVERNANCE",
+      "preview": "START / CONCEPT: CORE — Operation Flood and cooperative governance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 763,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Fisheries production systems Qualified use: Begin with the biological asset, production flow and full cost boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 782,
+      "heading": "VISUAL FIRST",
+      "preview": "POULTRY INTEGRATION AND CONTRACTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 827,
+      "heading": "CLOSING RECALL FLOW - CORE - POULTRY INTEGRATION AND CONTRACTS",
+      "preview": "START / CONCEPT: CORE — Poultry integration and contracts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 838,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 853,
+      "markdown_body_line_end": 860,
+      "heading": "VISUAL FIRST",
+      "preview": "SMALL RUMINANTS AND COMMON RESOURCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 906,
+      "heading": "CLOSING RECALL FLOW - CORE - SMALL RUMINANTS AND COMMON RESOURCES",
+      "preview": "START / CONCEPT: CORE — Small ruminants and common resources",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 334.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 936,
+      "heading": "VISUAL FIRST",
+      "preview": "CAPTURE FISHERIES AND AQUACULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 964,
+      "markdown_body_line_end": 981,
+      "heading": "CLOSING RECALL FLOW - CORE - CAPTURE FISHERIES AND AQUACULTURE",
+      "preview": "START / CONCEPT: CORE — Capture fisheries and aquaculture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 992,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CORE SYNTHESIS — MSY, MEY and fishery governance comprises CORE SYNTHESIS, MSY and MEY as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1011,
+      "heading": "VISUAL FIRST",
+      "preview": "MSY, MEY AND FISHERY GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1056,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MSY, MEY AND FISHERY GOVERNANCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — MSY, MEY and fishery governance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1067,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 341.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1089,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOFILTERS AND INTEGRATED FARMING SYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1135,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BIOFILTERS AND INTEGRATED FARMING SYSTEMS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Biofilters and Integrated Farming Systems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 89.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Any claimed sectoral benefit (employment, nutrition, inclusion, diversification) must be paired with its net-income, governance or ecological caveat from §28-29 in the same paragraph — this is what converts a livestock \"potential\" answer in",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1161,
+      "markdown_body_line_end": 1168,
+      "heading": "VISUAL FIRST",
+      "preview": "EMPLOYMENT, INCLUSION, INSTITUTIONS AND ECOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1196,
+      "markdown_body_line_end": 1205,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (exam-complete Core) | **GS Paper:** GS-III + Prelims. **Official clause:** “Economics of animal-rearing.” **Core rule:** This file independently covers production economics, livelihoods, inputs, pro",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 595.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1255,
+      "heading": "2. Visual foundation",
+      "preview": "BIOLOGICAL ASSET",
+      "metadata": {
+        "language": "text",
+        "line_count": 22,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1275,
+      "heading": "3. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 491.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 133.09
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1281,
+      "markdown_body_line_end": 1286,
+      "heading": "4.1 Animals are both assets and production units",
+      "preview": "ANIMAL STOCK",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 717.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1323,
+      "markdown_body_line_end": 1333,
+      "heading": "5. Farm-level profitability",
+      "preview": "NET ANIMAL-ENTERPRISE INCOME",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 291.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 190.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1337,
+      "markdown_body_line_end": 1345,
+      "heading": "Productivity equation",
+      "preview": "Realised output",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 26
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 168.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 87.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1357,
+      "markdown_body_line_end": 1363,
+      "heading": "6.1 Feed and fodder",
+      "preview": "Constraint | Economic effect | Reform",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Constraint",
+          "Economic effect",
+          "Reform"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 562.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1366,
+      "heading": "6.1 Feed and fodder",
+      "preview": "🔑 **Trap:** A breed-improvement programme cannot deliver its genetic potential if feed, water, heat management and disease control are binding constraints.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 562.49
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 517.822
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1423,
+      "heading": "7.1 Value chain",
+      "preview": "feed/breeding/health",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 597.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1462,
+      "markdown_body_line_end": 1467,
+      "heading": "7.3 Other dairy market models",
+      "preview": "Model | Strength | Risk",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Model",
+          "Strength",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 655.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1539,
+      "markdown_body_line_end": 1540,
+      "heading": "10. Meat, hides and by-product value chains",
+      "preview": "🔑 Welfare and productivity are not opposites: heat stress, injury, overcrowding and poor handling reduce output, quality and market access while creating ethical harm.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 593.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 548.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1560,
+      "markdown_body_line_end": 1566,
+      "heading": "12.1 Essential classification",
+      "preview": "Dimension | Categories",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Categories"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 352.824
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 222.222
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1572,
+      "markdown_body_line_end": 1577,
+      "heading": "12.2 Capture fisheries",
+      "preview": "one fisher's catch",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 181.022
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 130.022
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1627,
+      "markdown_body_line_end": 1635,
+      "heading": "12.5 Fisheries value chain",
+      "preview": "seed/broodstock or fishing effort",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 257.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 176.691
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1639,
+      "markdown_body_line_end": 1649,
+      "heading": "13. Integrated Farming Systems",
+      "preview": "CROP RESIDUE --------> LIVESTOCK FEED",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1673,
+      "markdown_body_line_end": 1682,
+      "heading": "14.1 Employment chain",
+      "preview": "breeding/seed/feed",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 397.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 306.891
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1725,
+      "heading": "15. Market failures and policy rationale",
+      "preview": "Failure | Animal-sector example | Policy response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Failure",
+          "Animal-sector example",
+          "Policy response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 648.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 398.69
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1729,
+      "markdown_body_line_end": 1739,
+      "heading": "16. Institutions and policy architecture",
+      "preview": "Institution | Core role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Institution",
+          "Core role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 376.69
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 116.488
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1743,
+      "markdown_body_line_end": 1753,
+      "heading": "Major schemes - mechanism, not slogan",
+      "preview": "Scheme/programme | Economic function",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Scheme/programme",
+          "Economic function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 459.89
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1759,
+      "markdown_body_line_end": 1763,
+      "heading": "Official data architecture",
+      "preview": "Instrument | What it is | Main output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Instrument",
+          "What it is",
+          "Main output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 418.89
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 297.088
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1839,
+      "markdown_body_line_end": 1852,
+      "heading": "20. Reform framework",
+      "preview": "Constraint | Reform",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Constraint",
+          "Reform"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 508.29
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1856,
+      "markdown_body_line_end": 1864,
+      "heading": "Sequence",
+      "preview": "health and feed security",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 486.29
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 405.29
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1870,
+      "markdown_body_line_end": 1871,
+      "heading": "21.1 2015 GS-III - direct syllabus question",
+      "preview": "“Livestock rearing has a big potential for providing non-farm employment and income in rural areas. Discuss suggesting suitable measures to promote this sector in India.”",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 383.29
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 316.622
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1966,
+      "markdown_body_line_end": 1976,
+      "heading": "E-C-O-N-O-M-I-C-S",
+      "preview": "E  Employment and equity",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 543.891
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 442.891
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1980,
+      "markdown_body_line_end": 1982,
+      "heading": "Thesis",
+      "preview": "India’s animal economy should shift from headcount-led expansion to healthy lifetime productivity, feed and disease security, producer-owned/competitive value chains and One-Health-compatible intensification.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 442.891
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 376.224
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2079,
+      "markdown_body_line_end": 2091,
+      "heading": "27.2 Relevance to this file's syllabus scope",
+      "preview": "FAO Blue Transformation objectives",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 618.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 497.491
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2179,
+      "markdown_body_line_end": 2186,
+      "heading": "29. Core limitations and trade-offs",
+      "preview": "# | Trade-off | Why it is genuinely double-edged",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "#",
+          "Trade-off",
+          "Why it is genuinely double-edged"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 377.89
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2192,
+      "markdown_body_line_end": 2197,
+      "heading": "30.1 Directive decoder",
+      "preview": "Directive word | What the examiner is actually asking for",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Directive word",
+          "What the examiner is actually asking for"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 336.89
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 216.288
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2216,
+      "markdown_body_line_end": 2235,
+      "heading": "30.4 10/15/20 mark-scaling template",
+      "preview": "10 MARKS (150 words)",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 717.691
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2239,
+      "markdown_body_line_end": 2245,
+      "heading": "30.5 Reasoned-verdict template",
+      "preview": "\"[Sub-sector/scheme] shows genuine potential through [named evidence from §28], supported by [dated anchor from §26]; however, [trade-off from §29] means the gain is [qualified — partial/governance-dependent/ecologically contingent]. India'",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 526.691
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 417.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2251,
+      "markdown_body_line_end": 2253,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 417.424
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 336.556
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2259,
+      "markdown_body_line_end": 2261,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 284.956
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 188.054
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2267,
+      "markdown_body_line_end": 2267,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 148.854
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 104.187
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2274,
+      "markdown_body_line_end": 2276,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2282,
+      "markdown_body_line_end": 2284,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 576.222
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2290,
+      "markdown_body_line_end": 2290,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 537.022
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 492.354
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2297,
+      "markdown_body_line_end": 2299,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 492.354
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 397.287
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2305,
+      "markdown_body_line_end": 2310,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 345.687
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 71.785
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2319,
+      "markdown_body_line_end": 2319,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 718.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 673.824
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2324,
+      "markdown_body_line_end": 2341,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - EMPLOYMENT, INCLUSION, INSTITUTIONS AND ECOLOGY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Employment, inclusion, institutions and ecology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 546
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 651.824
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 380.824
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3162,
+      "markdown_body_line_end": 3163,
+      "heading": "21.1 2015 GS-III - direct syllabus question",
+      "preview": "“Livestock rearing has a big potential for providing non-farm employment and income in rural areas. Discuss suggesting suitable measures to promote this sector in India.”",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 222.891
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 156.224
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3252,
+      "markdown_body_line_end": 3254,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3260,
+      "markdown_body_line_end": 3262,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 676.824
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 579.922
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3268,
+      "markdown_body_line_end": 3268,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 540.722
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 496.054
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3275,
+      "markdown_body_line_end": 3277,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 496.054
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 400.987
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3283,
+      "markdown_body_line_end": 3285,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 349.387
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 262.985
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3291,
+      "markdown_body_line_end": 3291,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 223.785
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 179.117
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3298,
+      "markdown_body_line_end": 3300,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 179.117
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 84.05
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3306,
+      "markdown_body_line_end": 3311,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 512.19
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3320,
+      "markdown_body_line_end": 3320,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 421.39
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 376.722
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3325,
+      "markdown_body_line_end": 3326,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 376.722
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 310.054
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3332,
+      "markdown_body_line_end": 3335,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 258.454
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 99.053
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3342,
+      "markdown_body_line_end": 3342,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3637,
+      "markdown_body_line_end": 3641,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced optional enrichment | **GS Paper:** GS-III. **Firewall:** All indispensable definitions, sectors, schemes, traps and PYQ answer architecture are contained in Core. *Core owner: `../basic/30_Economic",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 721.424
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3655,
+      "markdown_body_line_end": 3665,
+      "heading": "1. Household portfolio model",
+      "preview": "HOUSEHOLD WELFARE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 575.024
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 474.024
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3672,
+      "markdown_body_line_end": 3678,
+      "heading": "2. Asset accumulation and poverty dynamics",
+      "preview": "healthy productive animal",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 418.624
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 357.624
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3682,
+      "markdown_body_line_end": 3688,
+      "heading": "2. Asset accumulation and poverty dynamics",
+      "preview": "disease/feed-price shock",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 338.424
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 277.424
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3708,
+      "markdown_body_line_end": 3712,
+      "heading": "Intertemporal rule",
+      "preview": "present value of future output + offspring + terminal value",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3719,
+      "markdown_body_line_end": 3722,
+      "heading": "4. Genetics-by-environment interaction",
+      "preview": "observed productivity != genetics alone",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 725.091
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 694.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3738,
+      "markdown_body_line_end": 3741,
+      "heading": "5. Feed economics",
+      "preview": "Marginal feed cost < marginal output value -> additional feed may pay",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 550.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 519.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3790,
+      "markdown_body_line_end": 3796,
+      "heading": "7. Cooperative versus investor-owned dairy",
+      "preview": "Question | Producer cooperative | Investor-owned firm",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "Producer cooperative",
+          "Investor-owned firm"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 602.09
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3803,
+      "markdown_body_line_end": 3809,
+      "heading": "8. Poultry vertical integration",
+      "preview": "Integrator:",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 546.69
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 485.69
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3832,
+      "markdown_body_line_end": 3839,
+      "heading": "9. Cobweb and biological-cycle volatility",
+      "preview": "high price",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 217.29
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 146.29
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3853,
+      "markdown_body_line_end": 3856,
+      "heading": "10. Disease as a network externality",
+      "preview": "private vaccination benefit",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 737.891
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3907,
+      "markdown_body_line_end": 3912,
+      "heading": "13. Integrated farming as industrial ecology",
+      "preview": "crop residue -> feed",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 173.691
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 122.691
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3916,
+      "markdown_body_line_end": 3920,
+      "heading": "Economic condition for beneficial integration",
+      "preview": "value of recovered nutrient/energy + diversification benefit",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3936,
+      "markdown_body_line_end": 3940,
+      "heading": "14. Fisheries bioeconomics",
+      "preview": "high profit -> more effort enters",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 547.691
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4007,
+      "markdown_body_line_end": 4010,
+      "heading": "Intensity versus absolute emissions",
+      "preview": "emissions intensity = emissions / unit of output",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 499.491
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 468.491
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4045,
+      "markdown_body_line_end": 4056,
+      "heading": "19. Evaluation dashboard",
+      "preview": "Dimension | Metric family",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Dimension",
+          "Metric family"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 550.69
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4062,
+      "markdown_body_line_end": 4069,
+      "heading": "A-N-I-M-A-L",
+      "preview": "A  Asset and household livelihood",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 509.69
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 438.69
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4073,
+      "markdown_body_line_end": 4075,
+      "heading": "Advanced thesis",
+      "preview": "The aim is not maximum biological output at any cost, but maximum durable social value from healthy animals and aquatic stocks after accounting for household labour, disease, market power, food safety, welfare and ecological carrying capaci",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 438.69
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 357.822
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4088,
+      "markdown_body_line_end": 4089,
+      "heading": "21. Study links",
+      "preview": "**Historical-route firewall:** The generated IFS routes below identify optional analytical enrichment only. Core contains the complete answer architecture; no PYQ depends on this file.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 196.222
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 151.554
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4095,
+      "markdown_body_line_end": 4096,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 151.554
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 84.887
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4102,
+      "markdown_body_line_end": 4105,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 626.69
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4112,
+      "markdown_body_line_end": 4112,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 570.29
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 525.622
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4155,
+      "markdown_body_line_end": 4163,
+      "heading": "Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4173,
+      "markdown_body_line_end": 4179,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Animal-economy value rail",
+      "preview": "BIOLOGICAL ASSET",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 508.691
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4183,
+      "markdown_body_line_end": 4188,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Stock-flow-statistics split",
+      "preview": "LIVESTOCK CENSUS -> stock",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 29
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4192,
+      "markdown_body_line_end": 4197,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Lifetime-return board",
+      "preview": "OUTPUT + OFFSPRING + ASSET VALUE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 412.891
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4201,
+      "markdown_body_line_end": 4206,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Productivity complement chain",
+      "preview": "GENETICS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 21
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 339.091
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4210,
+      "markdown_body_line_end": 4215,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Dairy collection chain",
+      "preview": "MILKING HOUSEHOLD",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4219,
+      "markdown_body_line_end": 4224,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Operation Flood institution map",
+      "preview": "VILLAGE SOCIETY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4228,
+      "markdown_body_line_end": 4233,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Poultry risk allocation",
+      "preview": "INTEGRATOR -> chick + feed + market",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4237,
+      "markdown_body_line_end": 4242,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Disease externality loop",
+      "preview": "UNDER-VACCINATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4246,
+      "markdown_body_line_end": 4251,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Aquatic-system split",
+      "preview": "CAPTURE -> common-pool stock",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 30
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4255,
+      "markdown_body_line_end": 4261,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: IFS circular flow",
+      "preview": "CROP RESIDUE -> FEED",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4265,
+      "markdown_body_line_end": 4271,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Inclusion and value board",
+      "preview": "LANDLESS + SMALLHOLDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 272.291
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4275,
+      "markdown_body_line_end": 4280,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Animal-economy answer spine",
+      "preview": "DEFINE asset + production system",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    }
+  ]
+}

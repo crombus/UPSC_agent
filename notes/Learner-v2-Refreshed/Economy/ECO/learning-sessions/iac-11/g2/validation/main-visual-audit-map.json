@@ -1,0 +1,2220 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g2\\economy-11_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g2\\economy-11_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Land Reforms, Green Revolution and Cropping Systems - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 37,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g2\\assets\\economy-11_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 757.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 450.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Land-reform breadth - State implementation Qualified use: Sequence rights, records, holding structure, inputs, markets, risk and sustainability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 276.956
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 210.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 96,
+      "heading": "VISUAL FIRST",
+      "preview": "LAND-REFORM INSTRUMENTS AND STATE IMPLEMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 142,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LAND-REFORM INSTRUMENTS AND STATE IMPLEMENTATION",
+      "preview": "START / CONCEPT: FOUNDATION — Land-reform instruments and state implementation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 359.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 138.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 153,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not merge intermediary abolition, tenancy regulation, ceilings, consolidation and records.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 172,
+      "heading": "VISUAL FIRST",
+      "preview": "INTERMEDIARY ABOLITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 409.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 217,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INTERMEDIARY ABOLITION",
+      "preview": "START / CONCEPT: FOUNDATION — Intermediary abolition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 228,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Tenancy reform Qualified use: Judge crop transitions through water, demand, logistics, farmer risk and ecological cost.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 247,
+      "heading": "VISUAL FIRST",
+      "preview": "TENANCY REGULATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 292,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TENANCY REGULATION",
+      "preview": "START / CONCEPT: FOUNDATION — Tenancy regulation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 303,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ceiling laws limit permissible holdings and identify surplus land for redistribution, but exemptions, benami adjustment, litigation and weak detection can separate statutory intent from field outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 103.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 322,
+      "heading": "VISUAL FIRST",
+      "preview": "LAND CEILINGS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 620.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 367,
+      "heading": "CLOSING RECALL FLOW - CORE - LAND CEILINGS",
+      "preview": "START / CONCEPT: CORE — Land ceilings",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 268.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 57.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 378,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Consolidation reorganises fragmented parcels into more workable holdings without necessarily changing aggregate ownership, while secure leasing separates ownership from cultivation under safeguards.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 397,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSOLIDATION AND LEASING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 442,
+      "heading": "CLOSING RECALL FLOW - CORE - CONSOLIDATION AND LEASING",
+      "preview": "START / CONCEPT: CORE — Consolidation and leasing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 453,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Survey, settlement and updated land records are rights, credit, planning and dispute-resolution infrastructure; a legal reform cannot reach the actual cultivator if records remain inaccurate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 475,
+      "heading": "VISUAL FIRST",
+      "preview": "LAND RECORDS AND OPERATION BARGA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 521,
+      "heading": "CLOSING RECALL FLOW - CORE - LAND RECORDS AND OPERATION BARGA",
+      "preview": "START / CONCEPT: CORE — Land records and Operation Barga",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 104.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 532,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Kerala Land Reforms Act is a named example of comparatively thorough tenancy abolition and ceiling implementation, while later smallholding and employment constraints remained.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 551,
+      "heading": "VISUAL FIRST",
+      "preview": "KERALA REFORM EXPERIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 596,
+      "heading": "CLOSING RECALL FLOW - CORE - KERALA REFORM EXPERIENCE",
+      "preview": "START / CONCEPT: CORE — Kerala reform experience",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 607,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Big Landed Estates Abolition Act, 1950 in Jammu and Kashmir is a distinct early ceiling and estate-restructuring episode whose political-legal setting should not be generalised mechanically.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 626,
+      "heading": "VISUAL FIRST",
+      "preview": "EARLY JAMMU AND KASHMIR REFORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 671,
+      "heading": "CLOSING RECALL FLOW - CORE - EARLY JAMMU AND KASHMIR REFORM",
+      "preview": "START / CONCEPT: CORE — Early Jammu and Kashmir reform",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 680,
+      "heading": "VISUAL FIRST",
+      "preview": "GREEN-REVOLUTION PACKAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 715,
+      "markdown_body_line_end": 715,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Regional and crop concentration Qualified use: Sequence rights, records, holding structure, inputs, markets, risk and sustainability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 336.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 269.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 734,
+      "heading": "VISUAL FIRST",
+      "preview": "REGIONAL AND CROP CONCENTRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 762,
+      "markdown_body_line_end": 779,
+      "heading": "CLOSING RECALL FLOW - CORE - REGIONAL AND CROP CONCENTRATION",
+      "preview": "START / CONCEPT: CORE — Regional and crop concentration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 790,
+      "markdown_body_line_end": 790,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Technology and institutions - Cropping pattern Qualified use: Compare reform outcomes through political backing, record quality and implementation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 812,
+      "heading": "VISUAL FIRST",
+      "preview": "TECHNOLOGY, INSTITUTIONS AND CROPPING PATTERN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 858,
+      "heading": "CLOSING RECALL FLOW - CORE - TECHNOLOGY, INSTITUTIONS AND CROPPING PATTERN",
+      "preview": "START / CONCEPT: CORE — Technology, institutions and cropping pattern",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 869,
+      "markdown_body_line_end": 869,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Cropping intensity Qualified use: Judge crop transitions through water, demand, logistics, farmer risk and ecological cost.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 888,
+      "heading": "VISUAL FIRST",
+      "preview": "CROPPING INTENSITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 933,
+      "heading": "CLOSING RECALL FLOW - CORE - CROPPING INTENSITY",
+      "preview": "START / CONCEPT: CORE — Cropping intensity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 944,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Diversification conditions Qualified use: Sequence rights, records, holding structure, inputs, markets, risk and sustainability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 963,
+      "heading": "VISUAL FIRST",
+      "preview": "DIVERSIFICATION CONDITIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 1008,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DIVERSIFICATION CONDITIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Diversification conditions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1019,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Water-intensive path dependence - Millet route Qualified use: Compare reform outcomes through political backing, record quality and implementation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1034,
+      "markdown_body_line_end": 1041,
+      "heading": "VISUAL FIRST",
+      "preview": "WATER-INTENSIVE PATH DEPENDENCE AND MILLETS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1070,
+      "markdown_body_line_end": 1087,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - WATER-INTENSIVE PATH DEPENDENCE AND MILLETS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Water-intensive path dependence and millets",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 124.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1098,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "❌ Land reform means only redistribution. - Tenancy security, records, ceilings and consolidation are equally central. ❌ A good statute automatically means successful reform. - Field outcomes depend on records, mobilisation, local administra",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 504.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 281.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1113,
+      "markdown_body_line_end": 1120,
+      "heading": "VISUAL FIRST",
+      "preview": "VISVESVARAYA AND SWAMINATHAN DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1148,
+      "markdown_body_line_end": 1152,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Agrarian structure and productivity. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 367.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1156,
+      "markdown_body_line_end": 1170,
+      "heading": "1. Visual foundation",
+      "preview": "1. SECURE AND WORKABLE HOLDINGS",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 235.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 94.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1177,
+      "markdown_body_line_end": 1183,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1287,
+      "markdown_body_line_end": 1287,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Agrarian reform must connect rights and records with technology, water, prices and markets; changing only one link rarely changes farm outcomes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 212.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 167.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1326,
+      "markdown_body_line_end": 1327,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 157.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 91.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1335,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 727.39
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1341,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 688.19
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 643.522
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1350,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 643.522
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 548.454
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1356,
+      "markdown_body_line_end": 1371,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 496.854
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 435.89
+        }
+      },
+      "pdf_pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1390,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 173.09
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 128.422
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1395,
+      "markdown_body_line_end": 1412,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - VISVESVARAYA AND SWAMINATHAN DISTINCTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Visvesvaraya and Swaminathan distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1579
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 186.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2261,
+      "markdown_body_line_end": 2262,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 688.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 622.224
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2268,
+      "markdown_body_line_end": 2270,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 570.624
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 494.722
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2276,
+      "markdown_body_line_end": 2276,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 455.522
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 410.854
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2283,
+      "markdown_body_line_end": 2285,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 410.854
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 315.787
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2291,
+      "markdown_body_line_end": 2306,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 264.187
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 165.39
+        }
+      },
+      "pdf_pages": [
+        60,
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2325,
+      "markdown_body_line_end": 2325,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 665.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 621.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2339,
+      "markdown_body_line_end": 2340,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 514.024
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 447.356
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2346,
+      "markdown_body_line_end": 2355,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 352.89
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2368,
+      "markdown_body_line_end": 2368,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 193.29
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 148.622
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2696,
+      "markdown_body_line_end": 2700,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Agrarian structure and productivity. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 627.491
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 540.224
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2704,
+      "markdown_body_line_end": 2718,
+      "heading": "1. Architecture",
+      "preview": "1. secure and workable holdings",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 518.224
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 377.224
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2725,
+      "markdown_body_line_end": 2731,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 326.824
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 151.422
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2823,
+      "markdown_body_line_end": 2827,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 337.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 215.89
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2875,
+      "markdown_body_line_end": 2876,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 361.691
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 295.024
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2882,
+      "markdown_body_line_end": 2891,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 352.89
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2904,
+      "markdown_body_line_end": 2904,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 193.29
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 148.622
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2947,
+      "markdown_body_line_end": 2955,
+      "heading": "Land Reforms, Green Revolution and Cropping Systems: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 574.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2965,
+      "markdown_body_line_end": 2971,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Land-reform instrument map",
+      "preview": "INTERMEDIARY ABOLITION -> cultivator-state link",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 373.891
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 311.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2975,
+      "markdown_body_line_end": 2980,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Law-to-outcome rail",
+      "preview": "STATE LAW",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2984,
+      "markdown_body_line_end": 2989,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: State reform comparison",
+      "preview": "OPERATION BARGA -> sharecropper recording",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2993,
+      "markdown_body_line_end": 2998,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Green-Revolution package",
+      "preview": "HYV SEED + ASSURED WATER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3002,
+      "markdown_body_line_end": 3007,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Concentration legacy",
+      "preview": "IRRIGATED NORTHWEST",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3011,
+      "markdown_body_line_end": 3016,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Cropping metrics fork",
+      "preview": "PATTERN -> crop-area distribution",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3020,
+      "markdown_body_line_end": 3025,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Diversification decision board",
+      "preview": "AGRO-CLIMATE + WATER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3029,
+      "markdown_body_line_end": 3034,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Millet transition rail",
+      "preview": "DRYLAND SUITABILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3038,
+      "markdown_body_line_end": 3043,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Water-crop lock-in",
+      "preview": "PROCUREMENT + CHEAP PUMPING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3047,
+      "markdown_body_line_end": 3053,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Scientist-engineer distinction",
+      "preview": "VISVESVARAYA -> sluice gates + block irrigation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3057,
+      "markdown_body_line_end": 3063,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Agrarian trade-offs",
+      "preview": "SECURE TENURE -> investment / owner concerns",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3067,
+      "markdown_body_line_end": 3072,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Agrarian answer spine",
+      "preview": "DEFINE rights, records and holding structure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    }
+  ]
+}

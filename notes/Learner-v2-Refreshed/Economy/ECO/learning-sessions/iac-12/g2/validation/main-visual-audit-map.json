@@ -1,0 +1,2268 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\economy-12_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "economy-12",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "MSP, Procurement, Buffer Stocks, PDS and Food Security - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-12\\g2\\assets\\economy-12_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 680.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 373.156
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 78,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 199.956
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 133.288
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 100,
+      "heading": "VISUAL FIRST",
+      "preview": "MSP RECOMMENDATION AND ANNOUNCEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 642.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 146,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MSP RECOMMENDATION AND ANNOUNCEMENT",
+      "preview": "START / CONCEPT: FOUNDATION — MSP recommendation and announcement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 271.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 40.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 157,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not quote a margin over cost without naming A2, A2+FL or C2.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 176,
+      "heading": "VISUAL FIRST",
+      "preview": "CACP COST CONCEPTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 221,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CACP COST CONCEPTS",
+      "preview": "START / CONCEPT: FOUNDATION — CACP cost concepts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 232,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 251,
+      "heading": "VISUAL FIRST",
+      "preview": "PROCUREMENT DEFINITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 296,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PROCUREMENT DEFINITION",
+      "preview": "START / CONCEPT: FOUNDATION — Procurement definition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 307,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Uneven procurement access Qualified use: Map food policy as announcement, purchase, storage, release and household outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 326,
+      "heading": "VISUAL FIRST",
+      "preview": "UNEVEN PROCUREMENT ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 371,
+      "heading": "CLOSING RECALL FLOW - CORE - UNEVEN PROCUREMENT ACCESS",
+      "preview": "START / CONCEPT: CORE — Uneven procurement access",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 382,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 401,
+      "heading": "VISUAL FIRST",
+      "preview": "FCI ECONOMIC COST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 429,
+      "markdown_body_line_end": 446,
+      "heading": "CLOSING RECALL FLOW - CORE - FCI ECONOMIC COST",
+      "preview": "START / CONCEPT: CORE — FCI economic cost",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 457,
+      "markdown_body_line_end": 457,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 479,
+      "heading": "VISUAL FIRST",
+      "preview": "BUFFER NORMS AND ACTUAL STOCKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 525,
+      "heading": "CLOSING RECALL FLOW - CORE - BUFFER NORMS AND ACTUAL STOCKS",
+      "preview": "START / CONCEPT: CORE — Buffer norms and actual stocks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 536,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: NFSA and TPDS Qualified use: Map food policy as announcement, purchase, storage, release and household outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 555,
+      "heading": "VISUAL FIRST",
+      "preview": "OPEN-MARKET RELEASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 583,
+      "markdown_body_line_end": 600,
+      "heading": "CLOSING RECALL FLOW - CORE - OPEN-MARKET RELEASE",
+      "preview": "START / CONCEPT: CORE — Open-market release",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 611,
+      "markdown_body_line_end": 611,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: NFSA entitlement units Qualified use: Keep stock norms, actual inventory, releases and offtake on separate accounting lines.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 626,
+      "markdown_body_line_end": 630,
+      "heading": "VISUAL FIRST",
+      "preview": "NFSA AND TPDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 658,
+      "markdown_body_line_end": 675,
+      "heading": "CLOSING RECALL FLOW - CORE - NFSA AND TPDS",
+      "preview": "START / CONCEPT: CORE — NFSA and TPDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 686,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 701,
+      "markdown_body_line_end": 705,
+      "heading": "VISUAL FIRST",
+      "preview": "ENTITLEMENT ACCOUNTING UNITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 733,
+      "markdown_body_line_end": 750,
+      "heading": "CLOSING RECALL FLOW - CORE - ENTITLEMENT ACCOUNTING UNITS",
+      "preview": "START / CONCEPT: CORE — Entitlement accounting units",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 761,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not infer objective PYQ answer letters for MSP, economic cost or niger seed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 776,
+      "markdown_body_line_end": 780,
+      "heading": "VISUAL FIRST",
+      "preview": "COVERAGE CEILINGS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 576.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 535.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 825,
+      "heading": "CLOSING RECALL FLOW - CORE - COVERAGE CEILINGS",
+      "preview": "START / CONCEPT: CORE — Coverage ceilings",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 836,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: PMGKAY status - ONORC portability Qualified use: Keep stock norms, actual inventory, releases and offtake on separate accounting lines.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 858,
+      "heading": "VISUAL FIRST",
+      "preview": "ENTITLEMENT, ALLOCATION AND OFFTAKE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 887,
+      "markdown_body_line_end": 904,
+      "heading": "CLOSING RECALL FLOW - CORE - ENTITLEMENT, ALLOCATION AND OFFTAKE",
+      "preview": "START / CONCEPT: CORE — Entitlement, allocation and offtake",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 114.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 915,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 930,
+      "markdown_body_line_end": 934,
+      "heading": "VISUAL FIRST",
+      "preview": "PMGKAY STATUS DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 962,
+      "markdown_body_line_end": 979,
+      "heading": "CLOSING RECALL FLOW - CORE - PMGKAY STATUS DISCIPLINE",
+      "preview": "START / CONCEPT: CORE — PMGKAY status discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 990,
+      "markdown_body_line_end": 990,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Decentralised procurement Qualified use: Map food policy as announcement, purchase, storage, release and household outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1009,
+      "heading": "VISUAL FIRST",
+      "preview": "ONORC PORTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1054,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ONORC PORTABILITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — ONORC portability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 223.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1065,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Price stabilisation - Nutrition dimensions Qualified use: Keep stock norms, actual inventory, releases and offtake on separate accounting lines.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1087,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGITISATION AND DECENTRALISED PROCUREMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1116,
+      "markdown_body_line_end": 1133,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DIGITISATION AND DECENTRALISED PROCUREMENT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Digitisation and decentralised procurement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1144,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ Open-ended procurement can stabilise farm incentives, but it also concentrates public spending and storage on a few crops and regions. ⚠️ Large buffer stocks help price stabilisation and emergency distribution, yet they raise carrying, s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 515.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1166,
+      "heading": "VISUAL FIRST",
+      "preview": "PRICE STABILISATION, NUTRITION AND CROP BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 334.824
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 263.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1198,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Food management. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 671.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 561.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1216,
+      "heading": "1. Visual foundation",
+      "preview": "1. PRICE ANNOUNCEMENT AND PRODUCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 539.824
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1223,
+      "markdown_body_line_end": 1232,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 348.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 120.622
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1347,
+      "markdown_body_line_end": 1347,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Separate price assurance, physical procurement, strategic storage and household distribution before evaluating food policy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 709.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 664.424
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1383,
+      "markdown_body_line_end": 1384,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1393,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 573.622
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1400,
+      "markdown_body_line_end": 1400,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 517.222
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 472.554
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1407,
+      "markdown_body_line_end": 1409,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 472.554
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 377.487
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1415,
+      "markdown_body_line_end": 1425,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 9,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 311.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1439,
+      "markdown_body_line_end": 1439,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 134.59
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 89.922
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1444,
+      "markdown_body_line_end": 1461,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PRICE STABILISATION, NUTRITION AND CROP BOUNDARIES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Price stabilisation, nutrition and crop boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 3240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2312,
+      "markdown_body_line_end": 2313,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 343.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 276.624
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2319,
+      "markdown_body_line_end": 2322,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 225.024
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 107.622
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2329,
+      "markdown_body_line_end": 2329,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2336,
+      "markdown_body_line_end": 2338,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 663.556
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2344,
+      "markdown_body_line_end": 2354,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 9,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 611.956
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 120.054
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2368,
+      "markdown_body_line_end": 2368,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 700.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 655.424
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2383,
+      "markdown_body_line_end": 2384,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 529.224
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 462.556
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2390,
+      "markdown_body_line_end": 2395,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 410.956
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 210.554
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2404,
+      "markdown_body_line_end": 2404,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 119.754
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 75.087
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2811,
+      "markdown_body_line_end": 2815,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Food management. **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-202",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 423.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 336.424
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2819,
+      "markdown_body_line_end": 2833,
+      "heading": "1. Architecture",
+      "preview": "1. price announcement and production",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 314.424
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 173.424
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2840,
+      "markdown_body_line_end": 2846,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 645.49
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2934,
+      "markdown_body_line_end": 2938,
+      "heading": "9. CURRENT: Survey 2025-26 analytical application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 643.09
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2987,
+      "markdown_body_line_end": 2988,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2994,
+      "markdown_body_line_end": 2999,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 665.824
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 465.422
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3008,
+      "markdown_body_line_end": 3008,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 374.622
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 329.954
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3051,
+      "markdown_body_line_end": 3059,
+      "heading": "MSP, Procurement, Buffer Stocks, PDS and Food Security: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3069,
+      "markdown_body_line_end": 3075,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Price-to-food rail",
+      "preview": "CACP RECOMMENDATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 508.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3079,
+      "markdown_body_line_end": 3084,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Cost-concept ladder",
+      "preview": "A2 -> paid-out cultivation expense",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3088,
+      "markdown_body_line_end": 3093,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Announcement-procurement fork",
+      "preview": "MSP -> announced signal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 412.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3097,
+      "markdown_body_line_end": 3102,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: FCI cost chain",
+      "preview": "PURCHASE PRICE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 339.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3106,
+      "markdown_body_line_end": 3111,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Public-stock board",
+      "preview": "BUFFER NORM -> desired benchmark",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3115,
+      "markdown_body_line_end": 3120,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Release-channel fork",
+      "preview": "PDS -> entitled household access",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3124,
+      "markdown_body_line_end": 3129,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: NFSA architecture",
+      "preview": "NFSA -> legal entitlement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3133,
+      "markdown_body_line_end": 3138,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Delivery-outcome ladder",
+      "preview": "ENTITLEMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3142,
+      "markdown_body_line_end": 3147,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Portability and authentication",
+      "preview": "ONORC -> portable entitlement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3151,
+      "markdown_body_line_end": 3157,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Farmer-consumer balance",
+      "preview": "FARMER -> price assurance + purchase access",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3161,
+      "markdown_body_line_end": 3167,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Nutrition diversification",
+      "preview": "AVAILABILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 272.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3171,
+      "markdown_body_line_end": 3176,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Food-policy answer spine",
+      "preview": "SEPARATE announcement, purchase and stock",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    }
+  ]
+}

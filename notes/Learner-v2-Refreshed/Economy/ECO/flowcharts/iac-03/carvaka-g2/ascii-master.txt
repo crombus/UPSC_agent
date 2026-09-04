@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Three price-level states
+INFLATION -> prices rise
+DISINFLATION -> prices rise more slowly
+DEFLATION -> general price level falls
+TRAP -> rate change is not level change
+MUST REMEMBER: Inflation is a sustained increase in a chosen price index; distinguish...
+
+ASCII MASTER FLOW — PANEL 2/12: CPI-WPI-deflator matrix
+CPI -> retail basket + services
+WPI -> wholesale goods, no services
+GDP DEFLATOR -> domestic final output
+POLICY ANCHOR -> headline CPI
+
+ASCII MASTER FLOW — PANEL 3/12: Demand-pull chain
+SPENDING > AVAILABLE OUTPUT
+-> inventories and spare capacity shrink
+-> firms raise prices
+POLICY -> demand restraint can work
+
+ASCII MASTER FLOW — PANEL 4/12: Supply-shock chain
+CROP / OIL / LOGISTICS SHOCK
+-> costs or availability worsen
+-> prices rise despite weak demand
+POLICY -> repair supply + anchor expectations
+
+ASCII MASTER FLOW — PANEL 5/12: Output gap fork
+NEGATIVE GAP -> weak demand
+POSITIVE GAP -> overheating risk
+SUPPLY SHOCK -> inflation can coexist with negative gap
+STAGFLATION -> inflation + weak growth
+
+ASCII MASTER FLOW — PANEL 6/12: Expectations loop
+PRICE SHOCK
+-> wage and price expectations
+-> second-round adjustments
+-> persistence beyond initial shock
+
+ASCII MASTER FLOW — PANEL 7/12: Policy assignment board
+RBI -> rates + liquidity + communication
+GOVERNMENT -> buffers + tax + trade
+STATES -> logistics + enforcement
+RULE -> tool must match shock
+
+ASCII MASTER FLOW — PANEL 8/12: India shock timeline
+2020 -> lockdown logistics shock
+2021-22 -> global commodity surge
+2016 -> formal CPI-targeting framework
+LESSON -> demand and supply can conflict
+
+ASCII MASTER FLOW — PANEL 9/12: Distributional incidence
+POOR -> high food and fuel share
+FIXED INCOME -> real purchasing power falls
+INDEXED WORKERS -> partial protection
+TIGHTENING -> borrowers and MSMEs bear costs
+
+ASCII MASTER FLOW — PANEL 10/12: Business-cycle rail
+TROUGH -> RECOVERY -> EXPANSION
+-> PEAK -> SLOWDOWN / RECESSION
+POLICY DEPENDS ON output gap and shock
+PHILLIPS CURVE -> guide, not law
+CLOSE DISTINCTION: Price level is not inflation rate, falling inflation is not falling...
+
+ASCII MASTER FLOW — PANEL 11/12: Index-series break
+CPI 2024=100 -> releases from JAN 2026
+WPI 2022-23 base -> MAY 2026 onward
+NEW BASKET != NEW INFLATION
+RULE -> no casual level splicing
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State index, weights/base, month or year...
+
+ASCII MASTER FLOW — PANEL 12/12: Inflation answer spine
+IDENTIFY index + component
+DIAGNOSE demand / cost / supply
+TRACE expectations + distribution
+PRESCRIBE coordinated policy mix

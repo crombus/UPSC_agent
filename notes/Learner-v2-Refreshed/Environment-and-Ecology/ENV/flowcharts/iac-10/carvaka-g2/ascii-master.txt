@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Migratory-species gate
+MOVEMENT OBSERVED -> ask whether it crosses national jurisdiction
+PATTERN -> significant proportion crosses cyclically and predictably
+YES -> CMS migratory-species test may be met
+NO -> mobility alone does not establish CMS status
+VERIFY -> use the taxon and current Appendix record
+MUST REMEMBER: CMS conserves migratory species across range states through appendices and...
+
+ASCII MASTER FLOW — PANEL 2/12: Range geography
+BREEDING SITE -> life-cycle stage
+PASSAGE AND STOPOVER -> temporary habitat and route link
+WINTERING OR FEEDING SITE -> another life-cycle stage
+OVERFLIGHT OR WATER ROUTE -> also within Convention range
+RULE -> conserve the connected circuit, not only endpoints
+
+ASCII MASTER FLOW — PANEL 3/12: Range State map
+STATE A -> breeding jurisdiction
+STATE B -> passage or stopover jurisdiction
+STATE C -> wintering jurisdiction
+FLAG STATE -> relevant taking beyond national limits where applicable
+CMS TASK -> coordinate every material jurisdiction
+
+ASCII MASTER FLOW — PANEL 4/12: Appendix I duty chain
+ENDANGERED MIGRATORY SPECIES -> Appendix I
+HABITAT -> conserve and restore where feasible and appropriate
+OBSTACLES -> prevent, remove, compensate for or minimize
+TAKING -> prohibit subject to narrow Convention exceptions
+EXCEPTION -> precise content plus space-and-time limits
+
+ASCII MASTER FLOW — PANEL 5/12: Appendix II cooperation chain
+UNFAVOURABLE STATUS OR SIGNIFICANT BENEFIT -> Appendix II
+RANGE STATES -> endeavour to conclude AGREEMENTS
+WHOLE RANGE -> agreement design objective
+COORDINATION -> habitat, monitoring, information and threats
+RULE -> cooperation route is not Appendix I duplication
+
+ASCII MASTER FLOW — PANEL 6/12: Dual-listing matrix
+APPENDIX I -> endangered status and immediate protection duties
+APPENDIX II -> international-cooperation and agreement route
+BOTH -> expressly possible under Article IV
+NOT HIERARCHY -> functions overlap without cancelling each other
+ANSWER -> state each consequence separately
+
+ASCII MASTER FLOW — PANEL 7/12: Instrument-status ladder
+APPENDIX -> Convention listing status
+AGREEMENT -> identify exact binding instrument
+MOU -> identify exact non-binding instrument
+ACTION PLAN -> planned measures under its adopting authority
+CONCERTED ACTION -> priority cooperative work between COPs
+
+ASCII MASTER FLOW — PANEL 8/12: AGREEMENT design rail
+SCOPE -> whole migratory range
+ACCESS -> open to relevant Range States
+SCIENCE -> status review, research and information exchange
+HABITAT -> network, restoration and obstacle response
+GOVERNANCE -> authority, monitoring, reporting and coordination
+
+ASCII MASTER FLOW — PANEL 9/12: Central Asian Flyway firewall
+FLYWAY -> ecological migration geography
+INITIATIVE -> COP14 cooperation arrangement
+COORDINATING UNIT -> official release locates it in India
+AGREEMENT OR MOU -> not inferred
+OUTCOME -> not inferred from institutional adoption
+
+ASCII MASTER FLOW — PANEL 10/12: Plan-versus-outcome gate
+COP14 -> Samarkand, February 2024
+STRATEGIC PLAN -> 2024-2032 direction and targets
+INITIATIVE -> Central Asian Flyway coordination step
+MONITORING -> needed for implementation evidence
+RULE -> adoption is an output, not species recovery
+CLOSE DISTINCTION: Appendix I and II have distinct consequences, CMS is not CITES, range...
+
+ASCII MASTER FLOW — PANEL 11/12: Threat-location matrix
+ROUTE-WIDE -> habitat network, taking and shared data
+DOMESTIC -> power line, wetland loss or local enforcement
+LOCAL SUCCESS -> Doyang or Pangti stopover protection
+LIMIT -> one repaired link does not prove whole-route safety
+RESPONSE -> match institution to threat location
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify membership, appendix, taxon, range...
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ and convention spine
+DEFINE -> migratory species, range and Range State
+CLASSIFY -> Appendix I, II or both
+NAME -> Agreement, MOU, Action Plan or Concerted Action
+APPLY -> Amur Falcon answer-free route-and-community concept
+SEPARATE -> CMS, CITES, Ramsar and current-listing evidence

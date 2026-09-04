@@ -1,0 +1,919 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-27",
+  "subject": "Economy",
+  "title": "DIGITAL AGRICULTURE, AGRITECH AND E-TECHNOLOGY FOR FARMERS",
+  "short_route": "FARM DATA-TO-OUTCOME RAIL → TECHNOLOGY-FAMILY MAP → FARM-CYCLE APPLICATION CHAIN → DIGITAL AGRICULTURE MISSION MAP → AGRISTACK LAYERS → KRISHI-DSS DECISION BOUNDARY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-27\\economy-27_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-27-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "8c942be19ab8a9f3c0c050ab4a2364d7dc95ecd8eaaf24dd69ab5378e60bbae6",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FARM DATA-TO-OUTCOME RAIL",
+      "structural_type": "cause-effect-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FARM DATA-TO-OUTCOME RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "SENSE + CONNECT",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYSE + ADVISE + ACT",
+          "role": "institution"
+        },
+        {
+          "text": "INCOME + RISK + RESOURCE OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SENSE + CONNECT",
+        "ANALYSE + ADVISE + ACT",
+        "INCOME + RISK + RESOURCE OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "SENSE + CONNECT",
+            "ANALYSE + ADVISE + ACT"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "INCOME + RISK + RESOURCE OUTCOME",
+            "SENSE + CONNECT"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "ANALYSE + ADVISE + ACT",
+            "INCOME + RISK + RESOURCE OUTCOME"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYSE + ADVISE + ACT; INCOME + RISK + RESOURCE OUTCOME.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TECHNOLOGY-FAMILY MAP",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TECHNOLOGY-FAMILY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "REMOTE SENSING",
+          "role": "outcome"
+        },
+        {
+          "text": "SPATIAL ANALYSIS",
+          "role": "comparison"
+        },
+        {
+          "text": "IOT + AI + CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE LAYERS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "REMOTE SENSING → observation",
+        "GIS → spatial analysis",
+        "GNSS / NAVIC → positioning",
+        "IOT + AI + CONTROL → separate layers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "REMOTE SENSING → observation",
+            "GIS → spatial analysis"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GNSS / NAVIC → positioning",
+            "IOT + AI + CONTROL → separate layers"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "REMOTE SENSING → observation",
+            "GIS → spatial analysis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IOT + AI + CONTROL → separate layers.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FARM-CYCLE APPLICATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FARM-CYCLE APPLICATION CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "PLAN + SOW",
+          "role": "outcome"
+        },
+        {
+          "text": "MONITOR + APPLY INPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "INSURE + HARVEST",
+          "role": "evidence"
+        },
+        {
+          "text": "STORE + ASSAY + SELL",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PLAN + SOW",
+        "MONITOR + APPLY INPUT",
+        "INSURE + HARVEST",
+        "STORE + ASSAY + SELL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "PLAN + SOW",
+            "MONITOR + APPLY INPUT"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "INSURE + HARVEST",
+            "STORE + ASSAY + SELL"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "PLAN + SOW",
+            "MONITOR + APPLY INPUT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSURE + HARVEST; STORE + ASSAY + SELL.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DIGITAL AGRICULTURE MISSION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DIGITAL AGRICULTURE MISSION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "UMBRELLA MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "ADOPTION OR OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "APPROVAL != ADOPTION OR OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UMBRELLA MISSION",
+        "APPROVAL != adoption or outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "UMBRELLA MISSION",
+            "APPROVAL != adoption or outcome"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "UMBRELLA MISSION",
+            "APPROVAL != adoption or outcome"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "UMBRELLA MISSION",
+            "APPROVAL != adoption or outcome"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UMBRELLA MISSION; AGRISTACK; KRISHI-DSS; APPROVAL != adoption or outcome.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AGRISTACK LAYERS",
+      "structural_type": "layer-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AGRISTACK LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "FARMER REGISTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "GEO-REFERENCED VILLAGE MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "CROP-SOWN INFORMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "FEDERATED SERVICE INTERFACE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "FARMER REGISTRY",
+        "GEO-REFERENCED VILLAGE MAP",
+        "CROP-SOWN INFORMATION",
+        "FEDERATED SERVICE INTERFACE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "FARMER REGISTRY",
+            "GEO-REFERENCED VILLAGE MAP"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "CROP-SOWN INFORMATION",
+            "FEDERATED SERVICE INTERFACE"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "FARMER REGISTRY",
+            "GEO-REFERENCED VILLAGE MAP"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GEO-REFERENCED VILLAGE MAP; CROP-SOWN INFORMATION; FEDERATED SERVICE INTERFACE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "KRISHI-DSS DECISION BOUNDARY",
+      "structural_type": "decision-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KRISHI-DSS DECISION BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "GEOSPATIAL + ADMIN DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "MAP + MONITOR + MODEL",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL DECISION",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTONOMOUS AUTHORITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GEOSPATIAL + ADMIN DATA",
+        "MAP + MONITOR + MODEL",
+        "HUMAN / OFFICIAL DECISION",
+        "SUPPORT != autonomous authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "GEOSPATIAL + ADMIN DATA",
+            "MAP + MONITOR + MODEL"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HUMAN / OFFICIAL DECISION",
+            "SUPPORT != autonomous authority"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "GEOSPATIAL + ADMIN DATA",
+            "MAP + MONITOR + MODEL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HUMAN / OFFICIAL DECISION; SUPPORT != autonomous authority.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "E-NAM COMPLETION CHAIN",
+      "structural_type": "market-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "E-NAM COMPLETION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ONLINE DISCOVERY + BID",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSAYING + AGGREGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LOGISTICS + SETTLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPLETED TRADE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ONLINE DISCOVERY + BID",
+        "ASSAYING + AGGREGATION",
+        "LOGISTICS + SETTLEMENT",
+        "ENFORCEMENT = COMPLETED TRADE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "ONLINE DISCOVERY + BID",
+            "ASSAYING + AGGREGATION"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "LOGISTICS + SETTLEMENT",
+            "ENFORCEMENT = COMPLETED TRADE"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "ONLINE DISCOVERY + BID",
+            "ASSAYING + AGGREGATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSAYING + AGGREGATION; LOGISTICS + SETTLEMENT; ENFORCEMENT = COMPLETED TRADE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DRONE CAPABILITY MATRIX",
+      "structural_type": "capability-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DRONE CAPABILITY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "AIRCRAFT PLATFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATOR + CALIBRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RULE + WEATHER + MAINTENANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AIRCRAFT PLATFORM",
+        "PAYLOAD → camera / sensor / sprayer",
+        "OPERATOR + CALIBRATION",
+        "RULE + WEATHER + MAINTENANCE"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "AIRCRAFT PLATFORM",
+          "OPERATOR + CALIBRATION",
+          "AIRCRAFT PLATFORM"
+        ],
+        [
+          "PAYLOAD → camera / sensor / sprayer",
+          "RULE + WEATHER + MAINTENANCE",
+          "PAYLOAD → camera / sensor / sprayer"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "AIRCRAFT PLATFORM",
+            "PAYLOAD → camera / sensor / sprayer"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "OPERATOR + CALIBRATION",
+            "RULE + WEATHER + MAINTENANCE"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "AIRCRAFT PLATFORM",
+            "PAYLOAD → camera / sensor / sprayer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OPERATOR + CALIBRATION; RULE + WEATHER + MAINTENANCE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SHARED-SERVICE ECONOMICS",
+      "structural_type": "cost-sharing-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SHARED-SERVICE ECONOMICS",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH FIXED COST",
+          "role": "outcome"
+        },
+        {
+          "text": "CUSTOM HIRING",
+          "role": "comparison"
+        },
+        {
+          "text": "COST SHARED ACROSS USERS",
+          "role": "evidence"
+        },
+        {
+          "text": "DEMAND + REPAIR DETERMINE VIABILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HIGH FIXED COST",
+        "FPO / SHG / CUSTOM HIRING",
+        "COST SHARED ACROSS USERS",
+        "DEMAND + REPAIR determine viability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "HIGH FIXED COST",
+            "FPO / SHG / CUSTOM HIRING"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "COST SHARED ACROSS USERS",
+            "DEMAND + REPAIR determine viability"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "HIGH FIXED COST",
+            "FPO / SHG / CUSTOM HIRING"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COST SHARED ACROSS USERS; DEMAND + REPAIR determine viability.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INCLUSION AND CORRECTION BOARD",
+      "structural_type": "rights-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INCLUSION AND CORRECTION BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "ASSISTED + OFFLINE ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "DATA CORRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "HUMAN APPEAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OWNER != CULTIVATOR",
+        "ASSISTED + OFFLINE ACCESS",
+        "DATA CORRECTION",
+        "HUMAN APPEAL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "OWNER != CULTIVATOR",
+            "ASSISTED + OFFLINE ACCESS"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "DATA CORRECTION",
+            "HUMAN APPEAL"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "OWNER != CULTIVATOR",
+            "ASSISTED + OFFLINE ACCESS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSISTED + OFFLINE ACCESS; DATA CORRECTION; HUMAN APPEAL.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ACTIVITY-TO-OUTCOME LADDER",
+      "structural_type": "results-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ACTIVITY-TO-OUTCOME LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ACTIVE ADOPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CORRECT DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "NET INCOME + RESILIENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REGISTRATION / DEVICE / MESSAGE",
+        "ACTIVE ADOPTION",
+        "CORRECT DECISION",
+        "NET INCOME + RESILIENCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "REGISTRATION / DEVICE / MESSAGE",
+            "ACTIVE ADOPTION"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "CORRECT DECISION",
+            "NET INCOME + RESILIENCE"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "REGISTRATION / DEVICE / MESSAGE",
+            "ACTIVE ADOPTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACTIVE ADOPTION; CORRECT DECISION; NET INCOME + RESILIENCE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DIGITAL-AGRICULTURE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DIGITAL-AGRICULTURE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NAME FARM-STAGE PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE DATA",
+          "role": "comparison"
+        },
+        {
+          "text": "ADD PHYSICAL + INSTITUTIONAL COMPLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST INCLUSION + OUTCOME + REMEDY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NAME farm-stage problem",
+        "TRACE data → decision → action",
+        "ADD physical + institutional complement",
+        "TEST inclusion + outcome + remedy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "NAME farm-stage problem",
+            "TRACE data → decision → action"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "ADD physical + institutional complement",
+            "TEST inclusion + outcome + remedy"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "NAME farm-stage problem",
+            "TRACE data → decision → action"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADD physical + institutional complement; TEST inclusion + outcome + remedy.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FARMER IDENTITY AND CULTIVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CROP CONDITION AND LIKELY OUTPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "PREVAILING PRICES AND BUYER RELIABILITY.",
+          "role": "evidence"
+        },
+        {
+          "text": "MORE BUYERS AND SELLERS MAY IMPROVE MATCHING AND PRICE",
+          "role": "primary"
+        },
+        {
+          "text": "MORE TRANSACTIONS CREATE DATA THAT CAN IMPROVE SERVICES.",
+          "role": "outcome"
+        },
+        {
+          "text": "BUT DATA, SWITCHING COSTS AND NETWORK EFFECTS MAY ENTRENCH",
+          "role": "comparison"
+        },
+        {
+          "text": "A DOMINANT PLATFORM MAY BECOME A NEW INTERMEDIARY CAPABLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL MODEL / MEASUREMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "farmer identity and cultivation;",
+            "crop condition and likely output;",
+            "prevailing prices and buyer reliability.",
+            "More buyers and sellers may improve matching and price discovery."
+          ]
+        },
+        {
+          "heading": "VINTAGE, BASKET OR LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "More transactions create data that can improve services.",
+            "But data, switching costs and network effects may entrench a platform.",
+            "A dominant platform may become a new intermediary capable of setting terms, ranking",
+            "expand farmer capability through better information, access and coordination; or"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE POLICY NUANCE",
+          "role": "comparison",
+          "items": [
+            "reduce autonomy through opaque recommendations, locked ecosystems and dependence on one",
+            "purchase or service fee",
+            "learning and switching cost",
+            "larger or commercially oriented farms;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}
