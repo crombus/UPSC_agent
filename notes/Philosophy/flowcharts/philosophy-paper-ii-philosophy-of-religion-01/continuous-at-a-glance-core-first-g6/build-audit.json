@@ -1,0 +1,236 @@
+{
+  "generation": "philosophy-paper-ii-philosophy-of-religion-01:continuous-at-a-glance-core-first:g6",
+  "master_size": [
+    4800,
+    22079
+  ],
+  "master_dpi": [
+    299.9994,
+    299.9994
+  ],
+  "overflow_events": [],
+  "recorded_boxes": [
+    {
+      "name": "header",
+      "box": [
+        110,
+        42,
+        4690,
+        602
+      ],
+      "stage": "HEADER"
+    },
+    {
+      "name": "stage-01",
+      "box": [
+        520,
+        652,
+        4690,
+        2412
+      ],
+      "stage": "01"
+    },
+    {
+      "name": "stage-02",
+      "box": [
+        520,
+        2470,
+        4690,
+        4280
+      ],
+      "stage": "02"
+    },
+    {
+      "name": "stage-03",
+      "box": [
+        520,
+        4338,
+        4690,
+        6458
+      ],
+      "stage": "03"
+    },
+    {
+      "name": "stage-04",
+      "box": [
+        520,
+        6516,
+        4690,
+        8356
+      ],
+      "stage": "04"
+    },
+    {
+      "name": "stage-05",
+      "box": [
+        520,
+        8414,
+        4690,
+        10554
+      ],
+      "stage": "05"
+    },
+    {
+      "name": "stage-06",
+      "box": [
+        520,
+        10612,
+        4690,
+        12792
+      ],
+      "stage": "06"
+    },
+    {
+      "name": "stage-07",
+      "box": [
+        520,
+        12850,
+        4690,
+        15090
+      ],
+      "stage": "07"
+    },
+    {
+      "name": "stage-08",
+      "box": [
+        520,
+        15148,
+        4690,
+        17438
+      ],
+      "stage": "08"
+    },
+    {
+      "name": "stage-09",
+      "box": [
+        520,
+        17496,
+        4690,
+        19736
+      ],
+      "stage": "09"
+    },
+    {
+      "name": "stage-10",
+      "box": [
+        520,
+        19794,
+        4690,
+        21994
+      ],
+      "stage": "10"
+    }
+  ],
+  "preservation_mismatches_after_build": [],
+  "artifact_hashes": {
+    "Notions-of-God_Continuous-At-a-Glance_g6_Master.png": "ecb155e734f820927700c06f7e7c201172362931c03e5b36be1606e34542c1a8",
+    "Notions-of-God_Continuous-At-a-Glance_g6_Poster_2026-08-22.pdf": "7d3c311f42154ee8b209cc0c0f69fd8734b936825d575f9b6afa1be55a367dc8",
+    "Notions-of-God_Continuous-At-a-Glance_g6_Tiled_2026-08-22.pdf": "b60db741966ccbbcb5267733bb767d136a672e9878a29339c03f73e42c3b90fe",
+    "design-spec.json": "9e18df895a7cbb8d606a7c7e4ceb33a44e82738e6f73da68982bd93c0d4eb570",
+    "README.txt": "526fcf8dd3707b0dff44ce2ae12eb86e8dd7f70f90e21a736d8db74b169aaf3c",
+    "content_spec.py": "90b03975aece6d2a4cdf9607d81b6cdd6fdb602bf52b17897f7fe4f4a0fcc3b1",
+    "render_lib.py": "c364f92bbff5339fec8f68e20d90ef93fca3a9ecdca0ee3c9e4404062efb3c99",
+    "build_g6.py": "d5ac0113eaff7204925e4fa1e14432f614d6956d6d624d10d65130009c893006",
+    "validate_g6.py": "10327b33da7498abe273f66553c8c19dc7cc37a6f02c0ada8eb00a514849da09",
+    "previews\\page-001.png": "a62c89e769f1eea0c424cf38a1e73d0b829fca65564c76de336ea2f0d9e39dd5",
+    "previews\\page-002.png": "f00ac3bef59a1847445d1999a7c196844da4c945b2e22022fe4a30e6d7b70e41",
+    "previews\\page-003.png": "93e83dff9da5002829dafda577d52def2b5bbd8f6d6075fa8b631f3315d2bb6c",
+    "previews\\page-004.png": "11ca21774909d2ff4ea437b82e4217c1e1b02a3ddd95d8cc46ae9a77187ba1bf",
+    "previews\\page-005.png": "93624ec56341b21bf7566ad89f13bc821351617c20e1cca1da21b913262fc478",
+    "previews\\page-006.png": "2b734e40cee4bf51baabfab1bc204be9366f772f39919aac08b20d5e92803b0a",
+    "previews\\page-007.png": "66eef74fa7b7934507136a3a50982e46a51cfe6005e82293ec1c8f4792cd4b55",
+    "previews\\page-008.png": "3bf130c2d6196674468c4ee20ec5eef010058c8f6a092ac6ac52aacb4c6a7738",
+    "previews\\contact-sheet-01.png": "c049aa00037c5bca1ab111cca22f6e83dbeb6f168ea1a08b0632b428ffeb1ba2",
+    "previews\\contact-sheet-02.png": "9bf0f3bb05dab0fd4180429bbc93ba5714e0b3e46aae4b0fed63c3f2e5e3a12d"
+  },
+  "tile_crops": [
+    {
+      "tile": 1,
+      "box": [
+        0,
+        0,
+        4800,
+        3049
+      ],
+      "overlap_with_previous_px": 0,
+      "png_sha256": "627021db140d8fcbcd22b73016b87c3d4826405854199f64f9eda406a20e2bae"
+    },
+    {
+      "tile": 2,
+      "box": [
+        0,
+        2719,
+        4800,
+        5768
+      ],
+      "overlap_with_previous_px": 330,
+      "png_sha256": "93b204359b1961e3e50825bbb069c96c7d130ac9baf0bef797abea887f3d1b9c"
+    },
+    {
+      "tile": 3,
+      "box": [
+        0,
+        5437,
+        4800,
+        8486
+      ],
+      "overlap_with_previous_px": 331,
+      "png_sha256": "e93e0b20a330c33d1393a30865d43c242de84e711f42015af8832dec306d92ba"
+    },
+    {
+      "tile": 4,
+      "box": [
+        0,
+        8156,
+        4800,
+        11205
+      ],
+      "overlap_with_previous_px": 330,
+      "png_sha256": "2541d19fdc6d64d3597e3ade815dd4d5ec743468fb323e00f447fe731065d567"
+    },
+    {
+      "tile": 5,
+      "box": [
+        0,
+        10874,
+        4800,
+        13923
+      ],
+      "overlap_with_previous_px": 331,
+      "png_sha256": "8a37a258f06fae09901b99383851ca3ea30caa055a4a8cd8e673056ff3692070"
+    },
+    {
+      "tile": 6,
+      "box": [
+        0,
+        13593,
+        4800,
+        16642
+      ],
+      "overlap_with_previous_px": 330,
+      "png_sha256": "2020957a634c59565880aa25144d10cb0de3ddf67d833fd739e0662e8d728d76"
+    },
+    {
+      "tile": 7,
+      "box": [
+        0,
+        16311,
+        4800,
+        19360
+      ],
+      "overlap_with_previous_px": 331,
+      "png_sha256": "115e5e99ee2bc8014dc2ba98f5d89498de46fd7d6ae9bb654e99fc6b1b435aa8"
+    },
+    {
+      "tile": 8,
+      "box": [
+        0,
+        19030,
+        4800,
+        22079
+      ],
+      "overlap_with_previous_px": 330,
+      "png_sha256": "f06654e349c772d841efd4d41adb3e8d89b0feaa249449f23ebdb141f376d907"
+    }
+  ]
+}

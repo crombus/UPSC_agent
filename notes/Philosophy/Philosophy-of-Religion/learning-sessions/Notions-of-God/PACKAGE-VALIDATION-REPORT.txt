@@ -1,0 +1,70 @@
+NOTIONS OF GOD — REVISED COMPLETE PACKAGE VALIDATION
+generated 2026-08-22T21:40:17
+========================================================================================================
+
+1. FILES, PAGE COUNTS AND PDF GEOMETRY
+[PASS] main PDF exists
+[PASS] main PDF nontrivial size — 1.79 MB
+[PASS] main PDF nontrivial page count — 109
+[PASS] main PDF has no blank pages — []
+[PASS] main PDF has no near-empty pages — []
+[PASS] main PDF has no out-of-bounds text blocks — []
+[PASS] main PDF has no replacement glyphs — []
+[PASS] main PDF remains substantively complete and searchable — 306,862 extracted characters
+
+2. NAMED SESSION NAVIGATION AND PER-SESSION AIDS
+[PASS] named major-session count — 13
+[PASS] named sessions use one continuous numbered sequence — [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+[PASS] all 13 sessions contain definition, exam opening, keywords, usage guidance and closing recall flow
+[PASS] all body session headings are visually prominent — 15 pt session bands: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+[PASS] Spinoza has an explicit searchable full-topic heading — SESSION 4 - SPINOZA'S NOTION OF GOD on page 17
+
+3. COMPLETE-TOPIC ASCII MASTER FLOW
+[PASS] ASCII master is divided into consecutive readable panels — 10
+[PASS] embedded ASCII master exactly preserves the supplied conceptual content and order
+[PASS] standalone ASCII master is byte-identical to the supplied source
+[PASS] ASCII master appears in the main PDF — [101, 102, 103, 104, 105, 106, 107, 108, 109]
+[PASS] ASCII master is placed near the end inside final revision material — pages 101-109
+[PASS] all master-flow conceptual stages survive PDF rendering
+[PASS] ASCII master panels do not clip or exceed page bounds
+
+4. GRAPHICAL FLOWCHART PRESERVATION
+[PASS] distinct embedded graphical navigation asset retained
+[PASS] separate Cārvāka-standard graphical flowchart package retained
+[PASS] graphical navigation remains embedded near the beginning
+
+5. BASIC / ADVANCED STRUCTURE AND FINAL REGISTER PLACEMENT
+[PASS] canonical Basic/practice/Advanced/register H2 order retained
+[PASS] consolidated register/revision material remains the final H2
+[PASS] PDF bookmarks finish inside final register material — [3, 'COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM', 101]
+[PASS] final PDF page completes the qualified conclusion and high-yield formula
+
+6. VERIFIED PYQS AND PRACTICE PRESERVATION
+[PASS] main contains all 13 verified PYQs — 13
+[PASS] workbook contains all 13 verified PYQs — 13
+[PASS] all 13 exact PYQ wordings remain aligned with the unchanged workbook
+[PASS] all 13 PYQ sections remain searchable in the main PDF
+[PASS] hard and remedial MCQ count retained — 32 hard + 12 remedial
+[PASS] hard non-patterned answer keys unchanged — CBDDACCAABCCBBCDDBBCAADDABBDCAAD
+[PASS] remedial non-patterned answer keys unchanged — BDACBADCADBC
+[PASS] hard answer-key distribution remains balanced — {'C': 8, 'B': 8, 'D': 8, 'A': 8}
+[PASS] original solved Mains count retained — 10
+
+7. WORKBOOK PRESERVATION
+[PASS] workbook artifacts retained at their existing paths
+[PASS] workbook remains substantively unchanged — 40 pages
+[PASS] workbook has no blank pages — []
+[PASS] workbook has no near-empty content pages — []
+[PASS] workbook has no out-of-bounds text blocks — []
+[PASS] workbook has no replacement glyphs — []
+
+========================================================================================================
+RESULT: ALL CHECKS PASSED
+Main PDF: 109 pages; 1.79 MB
+Workbook PDF: 40 pages; 0.66 MB
+Named major sessions: 13
+Spinoza named-session heading: page 17; 15 pt full-width session band
+ASCII master: 10 consecutive panels on pages 101–109
+Verified PYQs: 13
+MCQs: 32 hard + 12 remedial; answer keys unchanged
+Original Mains: 10

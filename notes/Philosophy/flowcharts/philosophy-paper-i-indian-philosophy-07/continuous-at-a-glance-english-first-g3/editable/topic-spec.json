@@ -1,0 +1,704 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-indian-philosophy-07",
+  "subject": "Philosophy",
+  "title": "MIMAMSA (MĪMĀṂSĀ)",
+  "short_route": "VEDIC DUTY AND INJUNCTION → VALIDITY AND KNOWLEDGE SOURCES → POSTULATION AND NON-COGNITION → SELF-AWARENESS AND ERROR → WORD AND SENTENCE MEANING → VEDIC AUTHORLESSNESS AND GOD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-07_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+  "ascii_spec_sha256": "1ca48c3ac5583519d5d971a83c1d8b3213c7525f9e43ac0d254cb5191b8f268d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "VEDIC DUTY AND INJUNCTION",
+      "structural_type": "normative mechanism",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VEDIC DUTY AND INJUNCTION",
+          "role": "primary"
+        },
+        {
+          "text": "KNOWING WHAT OUGHT TO BE DONE",
+          "role": "outcome"
+        },
+        {
+          "text": "VEDIC DUTY (DHARMA) IS KNOWN THROUGH INJUNCTION (CODANĀ), NOT",
+          "role": "caution"
+        },
+        {
+          "text": "IMPELLING FORCE (BHĀVANĀ)",
+          "role": "evidence"
+        },
+        {
+          "text": "RITUAL ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "UNSEEN RITUAL POTENCY (APŪRVA)",
+          "role": "outcome"
+        },
+        {
+          "text": "DELAYED RESULT CORE CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTIVE NORMATIVITY DOES NOT REQUIRE A DIVINE COMMANDER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MIMAMSA: KNOWING WHAT OUGHT TO BE DONE",
+        "Vedic duty (dharma) is known through injunction (codanā), not perception prescriptive sentence → impelling force",
+        "unseen ritual potency (apūrva) → delayed result core claim: objective normativity does not require a"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "MIMAMSA: KNOWING WHAT OUGHT TO BE DONE",
+            "Vedic duty (dharma) is known through injunction (codanā), not perception prescriptive sentence → impelling force (bhāvanā) → ritual action"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "unseen ritual potency (apūrva) → delayed result core claim: objective normativity does not require a divine commander",
+            "MIMAMSA: KNOWING WHAT OUGHT TO BE DONE"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Vedic duty (dharma) is known through injunction (codanā), not perception prescriptive sentence → impelling force (bhāvanā) → ritual action",
+            "unseen ritual potency (apūrva) → delayed result core claim: objective normativity does not require a divine commander"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "objective normativity does not require a divine commander.",
+      "source_references": [
+        "Vedic duty and injunction"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "VALIDITY AND KNOWLEDGE SOURCES",
+      "structural_type": "epistemic comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VALIDITY AND KNOWLEDGE SOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "INTRINSIC VALIDITY (SVATAḤ-PRĀMĀṆYA) COGNITION PRESENTS ITSELF AS TRUE UNLESS",
+          "role": "outcome"
+        },
+        {
+          "text": "BHATTA ACCEPTS SIX SOURCES; PRABHAKARA DOES NOT TREAT NON-COGNITION",
+          "role": "caution"
+        },
+        {
+          "text": "NYAYA CONTRAST",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTERNAL VALIDATION (PARATAḤ-PRĀMĀṆYA) REGRESS PRESSURE SUPPORTS FIRST-TRUST, BUT CORRECTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INTRINSIC VALIDITY (SVATAḤ-PRĀMĀṆYA) cognition presents itself as true unless a later defeater establishes error",
+        "Bhatta accepts six sources; Prabhakara does not treat non-cognition independently",
+        "Nyaya contrast → external validation (parataḥ-prāmāṇya) regress pressure supports first-trust, but correction still requires defeat"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "INTRINSIC VALIDITY (SVATAḤ-PRĀMĀṆYA) cognition presents itself as true unless a later defeater establishes error",
+          "Nyaya contrast → external validation (parataḥ-prāmāṇya) regress pressure supports first-trust, but correction still requires defeat",
+          "Bhatta accepts six sources; Prabhakara does not treat non-cognition independently"
+        ],
+        [
+          "Bhatta accepts six sources; Prabhakara does not treat non-cognition independently",
+          "INTRINSIC VALIDITY (SVATAḤ-PRĀMĀṆYA) cognition presents itself as true unless a later defeater establishes error",
+          "Nyaya contrast → external validation (parataḥ-prāmāṇya) regress pressure supports first-trust, but correction still requires defeat"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "INTRINSIC VALIDITY (SVATAḤ-PRĀMĀṆYA) cognition presents itself as true unless a later defeater establishes error",
+            "Bhatta accepts six sources; Prabhakara does not treat non-cognition independently"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Nyaya contrast → external validation (parataḥ-prāmāṇya) regress pressure supports first-trust, but correction still requires defeat",
+            "INTRINSIC VALIDITY (SVATAḤ-PRĀMĀṆYA) cognition presents itself as true unless a later defeater establishes error"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "Bhatta accepts six sources; Prabhakara does not treat non-cognition independently",
+            "Nyaya contrast → external validation (parataḥ-prāmāṇya) regress pressure supports first-trust, but correction still requires defeat"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Nyaya contrast → external validation (parataḥ-prāmāṇya) regress pressure supports first-trust, but correction still requires defeat.",
+      "source_references": [
+        "Validity and knowledge sources"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "POSTULATION AND NON-COGNITION",
+      "structural_type": "two-route comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POSTULATION AND NON-COGNITION",
+          "role": "primary"
+        },
+        {
+          "text": "POSTULATION (ARTHĀPATTI)",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLANATORY FACT REQUIRED BY OTHERWISE CONFLICTING FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVADATTA IS STOUT + DOES NOT EAT BY DAY",
+          "role": "caution"
+        },
+        {
+          "text": "HE EATS AT NIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "NON-COGNITION (ANUPALABDHI)",
+          "role": "outcome"
+        },
+        {
+          "text": "KNOWLEDGE OF AN ELIGIBLE ABSENCE EMPTY FLOOR IS SEEN",
+          "role": "comparison"
+        },
+        {
+          "text": "POSTULATION IS NOT LOOSE GUESSING; NON-COGNITION IS NOT SIMPLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POSTULATION (ARTHĀPATTI): EXPLANATORY FACT REQUIRED BY OTHERWISE CONFLICTING FACTS",
+        "Devadatta is stout + does not eat by day → he eats at night",
+        "NON-COGNITION (ANUPALABDHI): KNOWLEDGE OF AN ELIGIBLE ABSENCE empty floor is seen under conditions in which",
+        "non-cognition is not simple inattention"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "POSTULATION (ARTHĀPATTI): EXPLANATORY FACT REQUIRED BY OTHERWISE CONFLICTING FACTS",
+          "NON-COGNITION (ANUPALABDHI): KNOWLEDGE OF AN ELIGIBLE ABSENCE empty floor is seen under conditions in which the pot would",
+          "POSTULATION (ARTHĀPATTI): EXPLANATORY FACT REQUIRED BY OTHERWISE CONFLICTING FACTS"
+        ],
+        [
+          "Devadatta is stout + does not eat by day → he eats at night",
+          "non-cognition is not simple inattention",
+          "Devadatta is stout + does not eat by day → he eats at night"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "POSTULATION (ARTHĀPATTI): EXPLANATORY FACT REQUIRED BY OTHERWISE CONFLICTING FACTS",
+            "Devadatta is stout + does not eat by day → he eats at night"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NON-COGNITION (ANUPALABDHI): KNOWLEDGE OF AN ELIGIBLE ABSENCE empty floor is seen under conditions in which the pot would",
+            "non-cognition is not simple inattention"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "POSTULATION (ARTHĀPATTI): EXPLANATORY FACT REQUIRED BY OTHERWISE CONFLICTING FACTS",
+            "Devadatta is stout + does not eat by day → he eats at night"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "KNOWLEDGE OF AN ELIGIBLE ABSENCE empty floor is seen under conditions in which the pot would have been seen trap: postulation is not loose guessing; non-cognition is not simple inattention.",
+      "source_references": [
+        "Postulation and non-cognition"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SELF-AWARENESS AND ERROR",
+      "structural_type": "school dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SELF-AWARENESS AND ERROR",
+          "role": "primary"
+        },
+        {
+          "text": "THREEFOLD AWARENESS (TRIPUṬĪ-SAṂVIT) ONE COGNITION DISCLOSES KNOWER, KNOWN AND",
+          "role": "outcome"
+        },
+        {
+          "text": "KNOWNNESS (JÑĀTATĀ) REVEALS THAT COGNITION OCCURRED ERROR",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-DISCRIMINATION THEORY VERSUS CONTRARY-COGNITION THEORY BOTH AVOID AN INFINITE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PRABHAKARA: THREEFOLD AWARENESS (TRIPUṬĪ-SAṂVIT) one cognition discloses knower, known and knowing together",
+        "BHATTA: KNOWNNESS (JÑĀTATĀ) REVEALS THAT COGNITION OCCURRED error → non-discrimination theory versus",
+        "contrary-cognition theory both avoid an infinite second-cognition regress by different strategies"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PRABHAKARA: THREEFOLD AWARENESS (TRIPUṬĪ-SAṂVIT) one cognition discloses knower, known and knowing together",
+            "BHATTA: KNOWNNESS (JÑĀTATĀ) REVEALS THAT COGNITION OCCURRED error → non-discrimination theory versus"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "contrary-cognition theory both avoid an infinite second-cognition regress by different strategies",
+            "PRABHAKARA: THREEFOLD AWARENESS (TRIPUṬĪ-SAṂVIT) one cognition discloses knower, known and knowing together"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "BHATTA: KNOWNNESS (JÑĀTATĀ) REVEALS THAT COGNITION OCCURRED error → non-discrimination theory versus",
+            "contrary-cognition theory both avoid an infinite second-cognition regress by different strategies"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BHATTA: KNOWNNESS (JÑĀTATĀ) REVEALS THAT COGNITION OCCURRED error → non-discrimination theory versus contrary-cognition theory both avoid an infinite second-cognition regress by different strategies.",
+      "source_references": [
+        "Self-awareness and error"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WORD AND SENTENCE MEANING",
+      "structural_type": "semantic flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WORD AND SENTENCE MEANING",
+          "role": "primary"
+        },
+        {
+          "text": "SENTENCE UNITY NEEDS EXPECTANCY + COMPATIBILITY + PROXIMITY DESIGNATION-THEN-CONNECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WORDS FIRST DENOTE, THEN MEANINGS COMBINE CONNECTED-DESIGNATION",
+          "role": "comparison"
+        },
+        {
+          "text": "WORDS DIRECTLY PRESENT MEANINGS ALREADY RELATED",
+          "role": "evidence"
+        },
+        {
+          "text": "VEDIC HERMENEUTICS RANKS INJUNCTION, EXPLANATORY PRAISE AND CONTEXTUAL INDICATORS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SENTENCE UNITY NEEDS EXPECTANCY + COMPATIBILITY + PROXIMITY designation-then-connection: words first",
+        "denote, then meanings combine connected-designation: words directly present meanings already related",
+        "Vedic hermeneutics ranks injunction, explanatory praise and contextual indicators semantic theory protects action-guiding scripture without"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SENTENCE UNITY NEEDS EXPECTANCY + COMPATIBILITY + PROXIMITY designation-then-connection: words first",
+            "denote, then meanings combine connected-designation: words directly present meanings already related"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Vedic hermeneutics ranks injunction, explanatory praise and contextual indicators semantic theory protects action-guiding scripture without an original speaker",
+            "SENTENCE UNITY NEEDS EXPECTANCY + COMPATIBILITY + PROXIMITY designation-then-connection: words first"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "denote, then meanings combine connected-designation: words directly present meanings already related",
+            "Vedic hermeneutics ranks injunction, explanatory praise and contextual indicators semantic theory protects action-guiding scripture without an original speaker"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Vedic hermeneutics ranks injunction, explanatory praise and contextual indicators semantic theory protects action-guiding scripture without an original speaker.",
+      "source_references": [
+        "Word and sentence meaning"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "VEDIC AUTHORLESSNESS AND GOD",
+      "structural_type": "authority argument",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VEDIC AUTHORLESSNESS AND GOD",
+          "role": "primary"
+        },
+        {
+          "text": "VEDIC AUTHORLESSNESS (APAURUṢEYATVA) BLOCKS HUMAN ERROR AT THE SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NYAYA GROUNDS SCRIPTURE IN A TRUSTWORTHY DIVINE SPEAKER; MIMAMSA",
+          "role": "comparison"
+        },
+        {
+          "text": "GOD IS UNNECESSARY FOR VEDIC AUTHORITY, RITUAL EFFICACY OR",
+          "role": "evidence"
+        },
+        {
+          "text": "REMOVING AN AUTHOR SECURES AUTONOMY BUT COMPLICATES SEMANTIC INTENTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "VEDIC AUTHORLESSNESS (APAURUṢEYATVA) BLOCKS HUMAN ERROR AT THE SOURCE eternity of word supports an uncreated",
+        "Nyaya grounds scripture in a trustworthy divine speaker; Mimamsa does not",
+        "God is unnecessary for Vedic authority, ritual efficacy or karmic distribution",
+        "pressure: removing an author secures autonomy but complicates semantic intention"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "VEDIC AUTHORLESSNESS (APAURUṢEYATVA) BLOCKS HUMAN ERROR AT THE SOURCE eternity of word supports an uncreated relation between word and meaning",
+            "Nyaya grounds scripture in a trustworthy divine speaker; Mimamsa does not"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "God is unnecessary for Vedic authority, ritual efficacy or karmic distribution",
+            "pressure: removing an author secures autonomy but complicates semantic intention"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VEDIC AUTHORLESSNESS (APAURUṢEYATVA) BLOCKS HUMAN ERROR AT THE SOURCE eternity of word supports an uncreated relation between word and meaning",
+            "Nyaya grounds scripture in a trustworthy divine speaker; Mimamsa does not"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "God is unnecessary for Vedic authority, ritual efficacy or karmic distribution pressure: removing an author secures autonomy but complicates semantic intention.",
+      "source_references": [
+        "Vedic authorlessness and God"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SELF, LIBERATION AND CRITICISM",
+      "structural_type": "critical synthesis",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SELF, LIBERATION AND CRITICISM",
+          "role": "primary"
+        },
+        {
+          "text": "ENDURING SELF SUPPORTS MEMORY, AGENCY, DESERT AND REBIRTH LIBERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CESSATION OF EMBODIMENT, PAIN AND ACTION-PRODUCING CONDITIONS STRENGTH",
+          "role": "comparison"
+        },
+        {
+          "text": "SOPHISTICATED EPISTEMOLOGY, SEMANTICS AND NON-THEISTIC NORMATIVITY LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "RITUAL CENTRALITY AND UNSEEN POTENCY INVITE VERIFICATION OBJECTIONS REPLY",
+          "role": "primary"
+        },
+        {
+          "text": "DUTY IS KNOWN FROM THE VEDA BECAUSE ORDINARY SOURCES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ENDURING SELF SUPPORTS MEMORY, AGENCY, DESERT AND REBIRTH liberation = cessation of embodiment, pain and",
+        "conditions strength: sophisticated epistemology, semantics and non-theistic normativity limit: ritual centrality and unseen potency invite",
+        "objections reply: duty is known from the Veda because ordinary sources cannot disclose it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ENDURING SELF SUPPORTS MEMORY, AGENCY, DESERT AND REBIRTH liberation = cessation of embodiment, pain and action-producing",
+            "conditions strength: sophisticated epistemology, semantics and non-theistic normativity limit: ritual centrality and unseen potency invite verification"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "objections reply: duty is known from the Veda because ordinary sources cannot disclose it",
+            "ENDURING SELF SUPPORTS MEMORY, AGENCY, DESERT AND REBIRTH liberation = cessation of embodiment, pain and action-producing"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "conditions strength: sophisticated epistemology, semantics and non-theistic normativity limit: ritual centrality and unseen potency invite verification",
+            "objections reply: duty is known from the Veda because ordinary sources cannot disclose it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ENDURING SELF SUPPORTS MEMORY, AGENCY, DESERT AND REBIRTH liberation = cessation of embodiment, pain and action-producing conditions strength: sophisticated epistemology, semantics and non-theistic normativity limit: ritual centrality and unseen potency invite verification objections reply: duty is known from the Veda because ordinary sources cannot disclose it.",
+      "source_references": [
+        "Self, liberation and criticism"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SYNTHESIS",
+      "structural_type": "answer route",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY BHATTA",
+          "role": "outcome"
+        },
+        {
+          "text": "PRABHAKARA BEFORE WRITING STATE DOCTRINE",
+          "role": "institution"
+        },
+        {
+          "text": "GIVE CANONICAL EXAMPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTRAST NYAYA",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESS RESIDUAL ISSUE LINK INTRINSIC VALIDITY TO POSTULATION, NON-COGNITION",
+          "role": "outcome"
+        },
+        {
+          "text": "POWERFUL THEORY OF KNOWLEDGE AND DUTY, CONTESTED RITUAL METAPHYSICS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY BHATTA / PRABHAKARA BEFORE WRITING state doctrine → give canonical example → contrast Nyaya",
+        "assess residual issue link intrinsic validity to postulation, non-cognition and Vedic authority use exact terminology",
+        "after the English concept verdict: powerful theory of knowledge and duty, contested ritual metaphysics"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "IDENTIFY BHATTA / PRABHAKARA BEFORE WRITING state doctrine → give canonical example → contrast Nyaya →",
+            "assess residual issue link intrinsic validity to postulation, non-cognition and Vedic authority use exact terminology only"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "after the English concept verdict: powerful theory of knowledge and duty, contested ritual metaphysics",
+            "IDENTIFY BHATTA / PRABHAKARA BEFORE WRITING state doctrine → give canonical example → contrast Nyaya →"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "assess residual issue link intrinsic validity to postulation, non-cognition and Vedic authority use exact terminology only",
+            "after the English concept verdict: powerful theory of knowledge and duty, contested ritual metaphysics"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "powerful theory of knowledge and duty, contested ritual metaphysics.",
+      "source_references": [
+        "PYQ answer synthesis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPTIONAL DEPTH 1 — THE MIMAMSA PROJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "KNOWLEDGE IN THE SERVICE OF VEDIC DUTY (DHARMA)",
+          "role": "comparison"
+        },
+        {
+          "text": "OPTIONAL DEPTH 2 — INTRINSIC VALIDITY AND THE MEANS",
+          "role": "evidence"
+        },
+        {
+          "text": "OPTIONAL DEPTH 3 — POSTULATION (ARTHĀPATTI) AND NON-COGNITION (ANUPALABDHI)",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLANATORY NECESSITY AND ABSENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPTIONAL DEPTH 4 — SELF-AWARENESS AND ERROR",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIPUTI, KNOWNNESS (JÑĀTATĀ) AND TWO MIMAMSA THEORIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "OPTIONAL DEPTH 1 — The Mimamsa Project: Knowledge in the Service of Vedic duty (dharma)",
+            "OPTIONAL DEPTH 2 — Intrinsic Validity and the Means of valid knowledge (pramāṇa) Architecture",
+            "OPTIONAL DEPTH 3 — Postulation (arthāpatti) and Non-cognition (anupalabdhi): Explanatory Necessity and Absence",
+            "OPTIONAL DEPTH 4 — Self-Awareness and Error: Triputi, Knownness (jñātatā) and Two Mimamsa Theories"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "OPTIONAL DEPTH 5 — Word Meaning, Sentence Meaning and Ritual Hermeneutics",
+            "OPTIONAL DEPTH 6 — Authorless Veda, Anti-Theism, Action and moral consequence (karma) and Later Liberation (mokṣa)",
+            "OPTIONAL DEPTH 7 — Comparisons, Criticisms, Traps and the Contemporary Sanskrit Context",
+            "OPTIONAL DEPTH 8 — PYQ Routing, Answer Architecture and Complete Exam Deployment"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "OPTIONAL DEPTH 1 — The Mimamsa Project: Knowledge in the Service of Vedic duty",
+            "(dharma) Advanced normativity without divine command The school's unity lies in its governing problem.",
+            "Vedic duty (dharma) cannot be perceived, while ordinary inference cannot independently establish ritual obligation.",
+            "Vedic injunction therefore supplies normative knowledge, semantics explains sentence-unity, and unseen ritual potency (apūrva) explains delayed efficacy."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

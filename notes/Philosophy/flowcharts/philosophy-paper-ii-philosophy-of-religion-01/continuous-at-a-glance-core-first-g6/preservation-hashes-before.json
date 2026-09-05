@@ -1,0 +1,223 @@
+{
+  "generation": "philosophy-paper-ii-philosophy-of-religion-01:continuous-at-a-glance-core-first:g6",
+  "snapshot": "before g6 artifact build",
+  "root": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent",
+  "groups": {
+    "canonical_sources": {
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Notions-of-God.md": {
+        "sha256": "72fa7002018ec09cb4a3f1a63b84bfce69212fd606913bf4b3603bf2b1a6e226",
+        "bytes": 46430
+      },
+      "upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\Notions-of-God_Uncompressed-Complete-Learning-Session_2026-08-22.md": {
+        "sha256": "caeb112ecbfb800fd52957b765f9cc23dbbf115ca232a840ea314a332f19fa98",
+        "bytes": 269023
+      },
+      "upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\Notions-of-God_Solved-Practice-Workbook_2026-08-22.md": {
+        "sha256": "31168d986cec026cfd356e44c5ab20f2fc78b0c0177222406630f875c3c00ea0",
+        "bytes": 116703
+      }
+    },
+    "approved_carvaka": {
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": {
+        "sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "bytes": 2869891
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": {
+        "sha256": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+        "bytes": 3571684
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": {
+        "sha256": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+        "bytes": 4119505
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\preservation-hashes-after.json": {
+        "sha256": "106755568bf1dc39afa352cfb922af0dfb10761505c489b105a948ff078d9e70",
+        "bytes": 18326
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\preservation-hashes-before.json": {
+        "sha256": "ffc4c6fd5afe60ab50749cd8e61db4af4b4d42b5edfaa487b0ae6c5ab9562b45",
+        "bytes": 18329
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\contact-sheet-01.png": {
+        "sha256": "25b565a4484eac9346b62ca1bc235d77062d1791d64dd6566ab05dc526814ecf",
+        "bytes": 1521757
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\contact-sheet-02.png": {
+        "sha256": "79837711c4d908a334e487a430ff8d8d7d25c867f99e4daef6cad9188f0ab33e",
+        "bytes": 793963
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-001.png": {
+        "sha256": "588f7528a9c63324a348d2e609bfa7c916947a1740ea60acce6fb25cdcd1f236",
+        "bytes": 822990
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-002.png": {
+        "sha256": "31273137fb36fb3002717556e23dfe80681109a911c8fd7864c2d088bdd7443b",
+        "bytes": 877732
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-003.png": {
+        "sha256": "69429b72393f24b74586207753de5df650d0cb391ea07d1b1e636489276106f0",
+        "bytes": 924858
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-004.png": {
+        "sha256": "cb0f3258c93e033db6b3d722dcb7f7abb28aae0fd9234e917b58941deeca0f64",
+        "bytes": 924551
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-005.png": {
+        "sha256": "e1af2c8583a37e585a08bd64f04aab2d6cb6186490a57de94dd98d5a6ce40b8f",
+        "bytes": 892200
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-006.png": {
+        "sha256": "94eea8cb7ff639e60254ae985e727590259ed032637324689cf8dbb8d1168d86",
+        "bytes": 906588
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": {
+        "sha256": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+        "bytes": 1356
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": {
+        "sha256": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989",
+        "bytes": 9293
+      }
+    },
+    "polity_g9_design_intelligence": {
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\bespoke-design-spec.json": {
+        "sha256": "605e78446e67a66deb7dc4bfcd21db9d9979e94fb60cda4bca41f61c77e4bfec",
+        "bytes": 84663
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\build-audit.json": {
+        "sha256": "904b453e5991f86e2a9fc4cd6ed167eb98bd4394b2d4c906c6b8869a1794bfd4",
+        "bytes": 5469
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\build_g9.py": {
+        "sha256": "ed4e1ee639df01df6bb689c50aa656bf14282713b144866728f2fb0920f6b66e",
+        "bytes": 20176
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\master.png": {
+        "sha256": "4efcecbe67ab50e82f82f59f2f754cbad2804c027992de103528f88061ba2eca",
+        "bytes": 6235327
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\Polity01_Continuous-At-a-Glance_g9_Poster_2026-08-22.pdf": {
+        "sha256": "98c259f12949059d66b384a3d753bc3c5bce6e7d7499808d8525bcbbd0637332",
+        "bytes": 6851699
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\Polity01_Continuous-At-a-Glance_g9_Tiled_2026-08-22.pdf": {
+        "sha256": "600eac14958e28b5e53ea2ec0a07bd850c90dc4ed7fe460538398ab4ba32ec38",
+        "bytes": 8243591
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\preservation-hashes.json": {
+        "sha256": "0273a0c013fcb94f5e89af5be84274f764c87cfc87e39b11f48c9cf3283ca5fd",
+        "bytes": 4794
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\contact-sheet-01.png": {
+        "sha256": "1e6553667cd8d88ad25857d32fb0733742f81fbc0e1cb08d441780d43376e702",
+        "bytes": 4422909
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\contact-sheet-02.png": {
+        "sha256": "3645d1e138aaff59c3518163b38e166a2ac88c0c3a095fd4dea7782bc4c5a046",
+        "bytes": 2234861
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\page-001.png": {
+        "sha256": "f55aced76e0937211f82ea152394b5c2af480e4380e479d8c0cfa94a70a5f3d5",
+        "bytes": 556077
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\page-002.png": {
+        "sha256": "5db96aba8ab7faa7366401e297385a3ce754c2c0dabb35c50fe59a901131f23e",
+        "bytes": 615767
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\page-003.png": {
+        "sha256": "34d32b80fe445b6876593a7a6d78de661a4dbb1b7691afad5ef7c48274c51af6",
+        "bytes": 639870
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\page-004.png": {
+        "sha256": "56ac540f1319d9c468312befddcbe77464fa02b3ecf2a201a55ea97c2ab9c60a",
+        "bytes": 600272
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\page-005.png": {
+        "sha256": "d3e942a72f84fce4f21c921b5cf450a0e320c94881805fafc694046bdc3f58c8",
+        "bytes": 655921
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\page-006.png": {
+        "sha256": "1bf7ca8589b3c0a96fc7284e19026c795ffb5e6aee8f187648bac8b23f1cf488",
+        "bytes": 658139
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\page-007.png": {
+        "sha256": "4b0ef19db6760ca0a96ad1512f1827794faa6887b5d2d99408f6ff1d03eb6550",
+        "bytes": 650688
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\page-008.png": {
+        "sha256": "8105374569f7a8e7c81ee1dfa18c1f257fe5209e89de73434050e640d5d36f2f",
+        "bytes": 590595
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\previews\\page-009.png": {
+        "sha256": "44b13d713e2cedf0949458183dbbc5dcc0d0c30069c1ed373e963f23419d17a1",
+        "bytes": 645652
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\README.txt": {
+        "sha256": "b15f503ae4dc4075bee4db587a777cb0b4dddc74516d6e016627e31b1e4a55e9",
+        "bytes": 8075
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\render_lib.py": {
+        "sha256": "2194b19b33ae70ca75e5e382ee11b466e48521c46c0a3d79aa51ba8301ac81ac",
+        "bytes": 25880
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\spec_content.py": {
+        "sha256": "a1fd46f2ff7da40cc4fdedcedc1d9717343c8e65c93c6cf279891cce14c7bba8",
+        "bytes": 82516
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\validate_g9.py": {
+        "sha256": "8ae44fab7ccfed3f2621257654a80fa76d1f9aa93e04d486e34e0209ea1d1c7c",
+        "bytes": 14177
+      },
+      "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9\\validation-report.txt": {
+        "sha256": "ab1a0cf5aafabd05c86df517299e6631be8618f5d5cb5ad9b680792e98cff850",
+        "bytes": 8249
+      }
+    },
+    "notions_g5_anti_example": {
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\master.png": {
+        "sha256": "aab3e3a8cc1f11a170708b10deeebe0344df111361a9e4996de066c62c65ae37",
+        "bytes": 449542
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\poster.pdf": {
+        "sha256": "ff045cf6b00eb15a93619ef3f992306c5131b288ab284f949ba7a6571ec28f39",
+        "bytes": 505618
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\preservation-hashes-after.json": {
+        "sha256": "2c3fe8d553515f11128b852cca207a009af8f66c83932413fc4e4f05ec02f470",
+        "bytes": 869
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\preservation-hashes-before.json": {
+        "sha256": "c0f004aa348104079ba48081a8df8373d12aa45cdcbe7b16885c7f3174daed06",
+        "bytes": 760
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png": {
+        "sha256": "3ccc0827eb5c1e2d09dca7f11ff0249977003d8e8153ba9002cfc561a9f80218",
+        "bytes": 262222
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\previews\\page-001.png": {
+        "sha256": "b5c7b732cc4f5638b5d7b5d1b6c1466ae346c7bcae2383ed3b6c0ea750df47b2",
+        "bytes": 217745
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\previews\\page-002.png": {
+        "sha256": "f0dff6b4af6a81dcd0d349a3c590f7e220cd97bff4c49f197765711eba558e33",
+        "bytes": 221038
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\previews\\page-003.png": {
+        "sha256": "e57ced2d7c92d372b33bdf7cb9dfbb2664449039bb30fcc808100b8af1e20d64",
+        "bytes": 168850
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\README.txt": {
+        "sha256": "28b0d99644e3456a512b5d1dacbf2cbd0bb0e285cefd2b8cde424d6f8762b69c",
+        "bytes": 714
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\tiled.pdf": {
+        "sha256": "d8d7d13f4c3a951b5391351344bc0f7e85c0c3f72a2b9816df90255571372808",
+        "bytes": 720248
+      },
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\validation-report.txt": {
+        "sha256": "af316f9ff7911729036ed6f679b0207499e45a735570e2ab3486e58dad7cfa37",
+        "bytes": 1195
+      }
+    }
+  }
+}

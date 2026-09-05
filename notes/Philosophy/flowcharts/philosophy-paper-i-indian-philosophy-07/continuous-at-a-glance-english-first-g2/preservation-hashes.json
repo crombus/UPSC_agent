@@ -1,0 +1,62 @@
+{
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "topic_key": "philosophy-paper-i-indian-philosophy-07",
+  "reference_expected": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "reference_after": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "preexisting_before": {
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\preservation-hashes-after.json": "106755568bf1dc39afa352cfb922af0dfb10761505c489b105a948ff078d9e70",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\preservation-hashes-before.json": "ffc4c6fd5afe60ab50749cd8e61db4af4b4d42b5edfaa487b0ae6c5ab9562b45",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\contact-sheet-01.png": "25b565a4484eac9346b62ca1bc235d77062d1791d64dd6566ab05dc526814ecf",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\contact-sheet-02.png": "79837711c4d908a334e487a430ff8d8d7d25c867f99e4daef6cad9188f0ab33e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-001.png": "588f7528a9c63324a348d2e609bfa7c916947a1740ea60acce6fb25cdcd1f236",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-002.png": "31273137fb36fb3002717556e23dfe80681109a911c8fd7864c2d088bdd7443b",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-003.png": "69429b72393f24b74586207753de5df650d0cb391ea07d1b1e636489276106f0",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-004.png": "cb0f3258c93e033db6b3d722dcb7f7abb28aae0fd9234e917b58941deeca0f64",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-005.png": "e1af2c8583a37e585a08bd64f04aab2d6cb6186490a57de94dd98d5a6ce40b8f",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-006.png": "94eea8cb7ff639e60254ae985e727590259ed032637324689cf8dbb8d1168d86",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Mimamsa\\Mimamsa_Layered-Complete-Learning-Session_2026-08-18.md": "7090762e232d2834a2555e7699bdc7d37652b3d8371edb017fa156ad9e881ec3",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Mimamsa\\Mimamsa_Layered-Solved-Practice-Workbook_2026-08-18.md": "134a45bfd7fed663072405a8455df7f5abc09147918dfa4a07f1606ee626109b",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md": "ba401dde672f4bab8a9dc4580a434be6ced246e9a81b5150b45cbeded9079fd1",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Mimamsa.md": "cc577a1735a0c334850ed6c9e02b53d46309177fcc04b704790b585ce95bc075"
+  },
+  "preexisting_after": {
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\preservation-hashes-after.json": "106755568bf1dc39afa352cfb922af0dfb10761505c489b105a948ff078d9e70",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\preservation-hashes-before.json": "ffc4c6fd5afe60ab50749cd8e61db4af4b4d42b5edfaa487b0ae6c5ab9562b45",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\contact-sheet-01.png": "25b565a4484eac9346b62ca1bc235d77062d1791d64dd6566ab05dc526814ecf",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\contact-sheet-02.png": "79837711c4d908a334e487a430ff8d8d7d25c867f99e4daef6cad9188f0ab33e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-001.png": "588f7528a9c63324a348d2e609bfa7c916947a1740ea60acce6fb25cdcd1f236",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-002.png": "31273137fb36fb3002717556e23dfe80681109a911c8fd7864c2d088bdd7443b",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-003.png": "69429b72393f24b74586207753de5df650d0cb391ea07d1b1e636489276106f0",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-004.png": "cb0f3258c93e033db6b3d722dcb7f7abb28aae0fd9234e917b58941deeca0f64",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-005.png": "e1af2c8583a37e585a08bd64f04aab2d6cb6186490a57de94dd98d5a6ce40b8f",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-006.png": "94eea8cb7ff639e60254ae985e727590259ed032637324689cf8dbb8d1168d86",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Mimamsa\\Mimamsa_Layered-Complete-Learning-Session_2026-08-18.md": "7090762e232d2834a2555e7699bdc7d37652b3d8371edb017fa156ad9e881ec3",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Mimamsa\\Mimamsa_Layered-Solved-Practice-Workbook_2026-08-18.md": "134a45bfd7fed663072405a8455df7f5abc09147918dfa4a07f1606ee626109b",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md": "ba401dde672f4bab8a9dc4580a434be6ced246e9a81b5150b45cbeded9079fd1",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Mimamsa.md": "cc577a1735a0c334850ed6c9e02b53d46309177fcc04b704790b585ce95bc075"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

@@ -1,0 +1,23 @@
+VALIDATION REPORT — NOTIONS OF GOD — CONTINUOUS AT-A-GLANCE CARVAKA-STANDARD g9
+generated 2026-08-22T20:34:49
+====================================================================================================
+[PASS] master width — 4800px
+[PASS] master DPI metadata — (299.9994, 299.9994)
+[PASS] nontrivial continuous canvas height — 16701px
+[PASS] no measured text overflow — []
+[PASS] stage order 0..14 plus enrichment — 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 E
+[PASS] layout diversity — 12 signatures
+[PASS] all required doctrine terms present — 50 terms
+[PASS] standalone poster is one page — 1
+[PASS] poster preserves master aspect ratio
+[PASS] tiled page count — 6
+[PASS] all tiled images are pixel-identical master crops
+[PASS] tile overlap — 550px
+[PASS] one preview per tile — 6
+[PASS] contact sheet created — 1
+[PASS] no replacement glyphs in PDF text layer
+[PASS] master PNG nontrivial size — 2969.2KB
+[PASS] poster PDF nontrivial size — 3378.2KB
+====================================================================================================
+RESULT: ALL CHECKS PASSED
+Approval: FALSE — pending explicit user review.

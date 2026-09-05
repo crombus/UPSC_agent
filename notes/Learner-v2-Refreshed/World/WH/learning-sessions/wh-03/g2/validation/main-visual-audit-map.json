@@ -1,0 +1,2313 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "world-history-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "French Revolution and Napoleon - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 144.222
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\assets\\world-history-03_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 520.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 212.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The old regime and its estates is the source-bounded relationship among and Three Estates and privilege within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "THE OLD REGIME AND ITS ESTATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE OLD REGIME AND ITS ESTATES",
+      "preview": "START / CONCEPT: FOUNDATION — The old regime and its estates",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Fiscal breakdown, bread and ideas is the source-bounded relationship among Estates-General, May 1789 and Bread and fiscal crisis within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 165,
+      "heading": "VISUAL FIRST",
+      "preview": "FISCAL BREAKDOWN, BREAD AND IDEAS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FISCAL BREAKDOWN, BREAD AND IDEAS",
+      "preview": "START / CONCEPT: FOUNDATION — Fiscal breakdown, bread and ideas",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 94.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: National Assembly and constituent power is the source-bounded relationship among National Assembly, 17 June 1789 and Tennis Court Oath, 20 June 1789 within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 249,
+      "heading": "VISUAL FIRST",
+      "preview": "NATIONAL ASSEMBLY AND CONSTITUENT POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 300,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NATIONAL ASSEMBLY AND CONSTITUENT POWER",
+      "preview": "START / CONCEPT: FOUNDATION — National Assembly and constituent power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Bastille and the mass turn is the source-bounded relationship among and Bastille, 14 July 1789 within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 389.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 322.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 326,
+      "markdown_body_line_end": 330,
+      "heading": "VISUAL FIRST",
+      "preview": "BASTILLE AND THE MASS TURN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 380,
+      "heading": "CLOSING RECALL FLOW - CORE - BASTILLE AND THE MASS TURN",
+      "preview": "START / CONCEPT: CORE — Bastille and the mass turn",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 391,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Rights declaration and legal equality is the source-bounded relationship among and Rights of Man, August 1789 within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 410,
+      "heading": "VISUAL FIRST",
+      "preview": "RIGHTS DECLARATION AND LEGAL EQUALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 443,
+      "markdown_body_line_end": 460,
+      "heading": "CLOSING RECALL FLOW - CORE - RIGHTS DECLARATION AND LEGAL EQUALITY",
+      "preview": "START / CONCEPT: CORE — Rights declaration and legal equality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 471,
+      "markdown_body_line_end": 471,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Constitutional monarchy and unresolved crisis is the source-bounded relationship among and Constitutional monarchy, 1791 within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 490,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSTITUTIONAL MONARCHY AND UNRESOLVED CRISIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 523,
+      "markdown_body_line_end": 540,
+      "heading": "CLOSING RECALL FLOW - CORE - CONSTITUTIONAL MONARCHY AND UNRESOLVED CRISIS",
+      "preview": "START / CONCEPT: CORE — Constitutional monarchy and unresolved crisis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 551,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Republic and wartime radicalisation is the source-bounded relationship among and Republic, 1792 within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 570,
+      "heading": "VISUAL FIRST",
+      "preview": "REPUBLIC AND WARTIME RADICALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 620,
+      "heading": "CLOSING RECALL FLOW - CORE - REPUBLIC AND WARTIME RADICALISATION",
+      "preview": "START / CONCEPT: CORE — Republic and wartime radicalisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 631,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Jacobins, democracy and Terror is the source-bounded relationship among Jacobins and Terror, 1793-94 and Jacobin social constitution within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 653,
+      "heading": "VISUAL FIRST",
+      "preview": "JACOBINS, DEMOCRACY AND TERROR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 704,
+      "heading": "CLOSING RECALL FLOW - CORE - JACOBINS, DEMOCRACY AND TERROR",
+      "preview": "START / CONCEPT: CORE — Jacobins, democracy and Terror",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 94.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 715,
+      "markdown_body_line_end": 715,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Directory and military ascendancy is the source-bounded relationship among and Directory, 1795-99 within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 734,
+      "heading": "VISUAL FIRST",
+      "preview": "DIRECTORY AND MILITARY ASCENDANCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 784,
+      "heading": "CLOSING RECALL FLOW - CORE - DIRECTORY AND MILITARY ASCENDANCY",
+      "preview": "START / CONCEPT: CORE — Directory and military ascendancy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 795,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Napoleon's seizure and codification is the source-bounded relationship among Napoleon's coup, 1799 and Napoleonic Code, 1804 within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 817,
+      "heading": "VISUAL FIRST",
+      "preview": "NAPOLEON'S SEIZURE AND CODIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 868,
+      "heading": "CLOSING RECALL FLOW - CORE - NAPOLEON'S SEIZURE AND CODIFICATION",
+      "preview": "START / CONCEPT: CORE — Napoleon's seizure and codification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 320.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 89.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 879,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Waterloo and the survival of 1789 is the source-bounded relationship among and Waterloo, 1815 within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 898,
+      "heading": "VISUAL FIRST",
+      "preview": "WATERLOO AND THE SURVIVAL OF 1789",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 948,
+      "heading": "CLOSING RECALL FLOW - CORE - WATERLOO AND THE SURVIVAL OF 1789",
+      "preview": "START / CONCEPT: CORE — Waterloo and the survival of 1789",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 959,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Class coalition and shifting leadership is the source-bounded relationship among and Bourgeois, peasant and crowd roles within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 978,
+      "heading": "VISUAL FIRST",
+      "preview": "CLASS COALITION AND SHIFTING LEADERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1028,
+      "heading": "CLOSING RECALL FLOW - CORE - CLASS COALITION AND SHIFTING LEADERSHIP",
+      "preview": "START / CONCEPT: CORE — Class coalition and shifting leadership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1039,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Women, workers and unfinished equality is the source-bounded relationship among Women and revolutionary citizenship and Jacobin social constitution within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "VISUAL FIRST",
+      "preview": "WOMEN, WORKERS AND UNFINISHED EQUALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1095,
+      "markdown_body_line_end": 1112,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - WOMEN, WORKERS AND UNFINISHED EQUALITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Women, workers and unfinished equality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 677.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 446.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1123,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Slavery and colonial contradiction is the source-bounded relationship among and Slavery contradiction within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 320.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 254.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1142,
+      "heading": "VISUAL FIRST",
+      "preview": "SLAVERY AND COLONIAL CONTRADICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1192,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - SLAVERY AND COLONIAL CONTRADICTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Slavery and colonial contradiction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1203,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Nation, sovereignty and Napoleonic verdict is the source-bounded relationship among Nation and popular sovereignty and Napoleon: heir and gravedigger within French Revolution and Napoleon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1218,
+      "markdown_body_line_end": 1225,
+      "heading": "VISUAL FIRST",
+      "preview": "NATION, SOVEREIGNTY AND NAPOLEONIC VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1262,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** History (World History) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (World History) **Grounded in:** NCERT Class IX, Ch. 1 *The French Revolution* + Old NCERT (Arjun Dev, *The Story of Civilization*, Vol. I, Ch. 8, Fr",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 699.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 590.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1266,
+      "markdown_body_line_end": 1279,
+      "heading": "1. Mini-timeline",
+      "preview": "Date | Event | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Date",
+          "Event",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 568.224
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 222.022
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1283,
+      "markdown_body_line_end": 1292,
+      "heading": "2. NCERT chapter spine: what the Class IX chapter teaches",
+      "preview": "NCERT Class IX section | Core point | Why UPSC should care",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "NCERT Class IX section",
+          "Core point",
+          "Why UPSC should care"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 559.49
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1296,
+      "markdown_body_line_end": 1303,
+      "heading": "3. Crisis of the Old Regime",
+      "preview": "Estate / force | ✅ Source-grounded fact | Historical role",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Estate / force",
+          "✅ Source-grounded fact",
+          "Historical role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 537.49
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 352.088
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1315,
+      "heading": "4. Ideas and phases of the Revolution",
+      "preview": "Phase | What happened | What to remember",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Phase",
+          "What happened",
+          "What to remember"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 284.488
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 163.887
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1327,
+      "heading": "4. Ideas and phases of the Revolution",
+      "preview": "fiscal crisis + unequal estates + bread stress",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1344,
+      "heading": "6. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: Do not present the French Revolution as a single-stage event of 1789 only; UPSC expects phases.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 467.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 437.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1363,
+      "markdown_body_line_end": 1366,
+      "heading": "8. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note:** this section makes `basic/03` independently sufficient for every plausible French Revolution demand, including the **exact 2025 GS-I question** routed to this file by `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 205.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 109.956
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1370,
+      "markdown_body_line_end": 1378,
+      "heading": "8.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 535.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1393,
+      "heading": "8.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 355.09
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 244.488
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1402,
+      "heading": "8.4 Evidence bank A - causes and the crisis of the old regime",
+      "preview": "Claim | Named evidence | Analytical significance | Limitation / caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "Analytical significance",
+          "Limitation / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 544.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1408,
+      "heading": "8.5 Evidence bank B - enduring relevance to the contemporary world (2025 GS-I owner)",
+      "preview": "⚠️ **Frame the answer as transmission of principles, not survival of institutions.** The claim to prove is that modern political argument still uses categories the Revolution forced into use — and that the Revolution's own failures are part",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 544.89
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 464.022
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1410,
+      "markdown_body_line_end": 1417,
+      "heading": "8.5 Evidence bank B - enduring relevance to the contemporary world (2025 GS-I owner)",
+      "preview": "Enduring principle | What 1789–94 actually established (✅) | Why it still structures politics (⚠️) | Built-in qualification (⚠️)",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Enduring principle",
+          "What 1789–94 actually established (✅)",
+          "Why it still structures politics (⚠️)",
+          "Built-in qualification (⚠️)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 464.022
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 75.62
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1435,
+      "heading": "8.5 Evidence bank B - enduring relevance to the contemporary world (2025 GS-I owner)",
+      "preview": "1789 rights claim",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 601.691
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1448,
+      "heading": "8.6 Evidence bank C - phases, coalitions and the Terror",
+      "preview": "Phase | Dominant social coalition (✅/⚠️) | What it achieved | Why it gave way",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Phase",
+          "Dominant social coalition (✅/⚠️)",
+          "What it achieved",
+          "Why it gave way"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 551.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 382.39
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1494,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - NATION, SOVEREIGNTY AND NAPOLEONIC VERDICT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Nation, sovereignty and Napoleonic verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 726
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 711.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 390.691
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2307,
+      "markdown_body_line_end": 2308,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 480.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 413.424
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2314,
+      "markdown_body_line_end": 2316,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 361.824
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 285.922
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2322,
+      "markdown_body_line_end": 2322,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 246.722
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 202.054
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2327,
+      "markdown_body_line_end": 2328,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 202.054
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 135.387
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2334,
+      "markdown_body_line_end": 2336,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 706.39
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2342,
+      "markdown_body_line_end": 2342,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 667.19
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 622.522
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2538,
+      "markdown_body_line_end": 2541,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** History (World History) · **Tier:** Advanced (debate + answer-writing) · **GS Paper:** GS-I (World History) **Grounded in:** NCERT Class IX, Ch. 1 *The French Revolution* + Old NCERT (Arjun Dev, *The Story of Civilization*, Vol",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 404.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 317.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2545,
+      "markdown_body_line_end": 2550,
+      "heading": "1. Debate matrix",
+      "preview": "Debate | One side | Other side | Best UPSC synthesis",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Debate",
+          "One side",
+          "Other side",
+          "Best UPSC synthesis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 295.424
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 137.022
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2554,
+      "markdown_body_line_end": 2560,
+      "heading": "2. Social forces inside the Revolution",
+      "preview": "Group | What it wanted | What it achieved / lost",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Group",
+          "What it wanted",
+          "What it achieved / lost"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2574,
+      "markdown_body_line_end": 2579,
+      "heading": "4. Napoleon: son of the Revolution or destroyer of it?",
+      "preview": "Revolutionary inheritance preserved | Revolutionary inheritance curtailed",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Revolutionary inheritance preserved",
+          "Revolutionary inheritance curtailed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 388.49
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 267.888
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2596,
+      "markdown_body_line_end": 2596,
+      "heading": "6. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: Never say the French Revolution achieved full social equality. Old NCERT itself says workers and artisans still lacked economic equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 740.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 695.824
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2604,
+      "markdown_body_line_end": 2611,
+      "heading": "7. Mains-answer framework",
+      "preview": "Part | What to write",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Part",
+          "What to write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 582.624
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 430.822
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2615,
+      "markdown_body_line_end": 2615,
+      "heading": "Exact PYQ support route (2025 GS-I)",
+      "preview": "**Verified from the local UPSC paper:** “The French Revolution has enduring relevance to the contemporary world. Explain. (Answer in 250 words)”",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 430.822
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 364.154
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2640,
+      "markdown_body_line_end": 2648,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Old-regime pressure system",
+      "preview": "LEGAL PRIVILEGE -> clergy and nobility hold exemptions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 680.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2652,
+      "markdown_body_line_end": 2657,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: June-July 1789 rupture",
+      "preview": "17 JUNE -> Third Estate becomes National Assembly",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 658.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 607.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2661,
+      "markdown_body_line_end": 2666,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Revolutionary phase ladder",
+      "preview": "1789-91 -> National Assembly and constitutional monarchy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2670,
+      "markdown_body_line_end": 2675,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Rights claim and boundary",
+      "preview": "CLAIM -> equality before law and citizenship",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 511.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 459.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2679,
+      "markdown_body_line_end": 2684,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Jacobin emergency triangle",
+      "preview": "WAR -> external invasion and national defence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 437.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 385.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2688,
+      "markdown_body_line_end": 2693,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Social coalition matrix",
+      "preview": "BOURGEOISIE -> office, property and legal equality",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 363.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 311.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2697,
+      "markdown_body_line_end": 2702,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Napoleon's inheritance ledger",
+      "preview": "PRESERVED -> anti-feudal reform and legal rationalisation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2706,
+      "markdown_body_line_end": 2711,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Abolition and reversal",
+      "preview": "REVOLUTIONARY PHASE -> slavery abolished in French colonies",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2715,
+      "markdown_body_line_end": 2720,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Nation and citizenship",
+      "preview": "SUBJECT OF KING -> inherited obedience",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2724,
+      "markdown_body_line_end": 2732,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Why moderate settlement failed",
+      "preview": "1791 CONSTITUTION -> legal old regime broken",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2736,
+      "markdown_body_line_end": 2744,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Non-linear revolutionary legacy",
+      "preview": "1789 -> rights and legal rupture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2748,
+      "markdown_body_line_end": 2753,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: French Revolution answer spine",
+      "preview": "CAUSE -> privilege + fiscal crisis + bread + ideas",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

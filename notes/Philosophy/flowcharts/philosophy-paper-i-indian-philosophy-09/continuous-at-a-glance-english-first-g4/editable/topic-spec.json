@@ -1,0 +1,717 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-indian-philosophy-09",
+  "subject": "Philosophy",
+  "title": "AUROBINDO",
+  "short_route": "SOURCES AND DYNAMIC ABSOLUTE → TRUTH-CONSCIOUSNESS BRIDGE → INVOLUTION AND IGNORANCE → EVOLUTION AND TRIPLE TRANSFORMATION → INTEGRAL YOGA → PSYCHIC AND GNOSTIC BEING",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-09_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+  "ascii_spec_sha256": "8c9d99ba754e0ebb0ac83fa3bf6fb085df6b82605bff51c5494b584453c197e7",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SOURCES AND DYNAMIC ABSOLUTE",
+      "structural_type": "source-to-system map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SOURCES AND DYNAMIC ABSOLUTE",
+          "role": "primary"
+        },
+        {
+          "text": "LIFE DIVINE",
+          "role": "outcome"
+        },
+        {
+          "text": "METAPHYSICS; SYNTHESIS/LETTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRAL YOGA",
+          "role": "evidence"
+        },
+        {
+          "text": "EXISTENCE-CONSCIOUSNESS-BLISS (SAT-CIT-ĀNANDA) IS DYNAMIC, NOT WORLD-NEGATING THE WORLD IS",
+          "role": "caution"
+        },
+        {
+          "text": "AUROBINDO REVISES CLASSICAL ADVAITA THROUGH EVOLUTIONARY WORLD-AFFIRMATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LIFE DIVINE → METAPHYSICS; SYNTHESIS/LETTERS → INTEGRAL YOGA",
+        "EXISTENCE-CONSCIOUSNESS-BLISS (SAT-CIT-ĀNANDA) IS DYNAMIC, NOT WORLD-NEGATING the world is a real self-manifestation",
+        "not an absolutely unreal appearance transcendence and immanence are held together",
+        "Aurobindo revises classical Advaita through evolutionary world-affirmation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "LIFE DIVINE → METAPHYSICS; SYNTHESIS/LETTERS → INTEGRAL YOGA",
+            "EXISTENCE-CONSCIOUSNESS-BLISS (SAT-CIT-ĀNANDA) IS DYNAMIC, NOT WORLD-NEGATING the world is a real self-manifestation,"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "not an absolutely unreal appearance transcendence and immanence are held together",
+            "Aurobindo revises classical Advaita through evolutionary world-affirmation"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "LIFE DIVINE → METAPHYSICS; SYNTHESIS/LETTERS → INTEGRAL YOGA",
+            "EXISTENCE-CONSCIOUSNESS-BLISS (SAT-CIT-ĀNANDA) IS DYNAMIC, NOT WORLD-NEGATING the world is a real self-manifestation,"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIFE DIVINE → METAPHYSICS; SYNTHESIS/LETTERS → INTEGRAL YOGA.",
+      "source_references": [
+        "Sources and Dynamic Absolute"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TRUTH-CONSCIOUSNESS BRIDGE",
+      "structural_type": "unity-multiplicity bridge",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRUTH-CONSCIOUSNESS BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "TRUTH-CONSCIOUSNESS (VIJÑĀNA) MEDIATES UNITY AND MULTIPLICITY IT KNOWS BY",
+          "role": "outcome"
+        },
+        {
+          "text": "OVERMIND DISTRIBUTES TRUTH-POWERS; ORDINARY MIND KNOWS BY DIVISION THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE HIERARCHY IS COHERENT INTERNALLY BUT DIFFICULT TO VERIFY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRUTH-CONSCIOUSNESS (VIJÑĀNA) MEDIATES UNITY AND MULTIPLICITY it knows by identity and deploys Real-Idea without fragmenting",
+        "Overmind distributes truth-powers",
+        "ordinary mind knows by division the bridge explains how the One becomes genuinely many pressure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "TRUTH-CONSCIOUSNESS (VIJÑĀNA) MEDIATES UNITY AND MULTIPLICITY it knows by identity and deploys Real-Idea without fragmenting truth",
+            "Overmind distributes truth-powers"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ordinary mind knows by division the bridge explains how the One becomes genuinely many pressure: the hierarchy is",
+            "TRUTH-CONSCIOUSNESS (VIJÑĀNA) MEDIATES UNITY AND MULTIPLICITY it knows by identity and deploys Real-Idea without fragmenting truth"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Overmind distributes truth-powers",
+            "ordinary mind knows by division the bridge explains how the One becomes genuinely many pressure: the hierarchy is"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Overmind distributes truth-powers; ordinary mind knows by division the bridge explains how the One becomes genuinely many pressure: the hierarchy is coherent internally but difficult to verify publicly.",
+      "source_references": [
+        "Truth-Consciousness bridge"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INVOLUTION AND IGNORANCE",
+      "structural_type": "descent-and-division sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INVOLUTION AND IGNORANCE",
+          "role": "primary"
+        },
+        {
+          "text": "SPIRIT'S GRADED SELF-CONCEALMENT EXISTENCE-CONSCIOUSNESS-BLISS",
+          "role": "outcome"
+        },
+        {
+          "text": "INCONSCIENT IGNORANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIVIDED AND NARROWED CONSCIOUSNESS, NOT SHEER NON-BEING NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "IT IS THE ONTOLOGICAL CONDITION FOR LATER EVOLUTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INVOLUTION = SPIRIT'S GRADED SELF-CONCEALMENT existence-consciousness-bliss → Truth-Consciousness → Overmind → Mind",
+        "Life → Matter → Inconscient ignorance = divided and narrowed consciousness, not sheer",
+        "non-being not a dated fall: it is the ontological condition for later evolution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "INVOLUTION = SPIRIT'S GRADED SELF-CONCEALMENT existence-consciousness-bliss → Truth-Consciousness → Overmind → Mind",
+            "Life → Matter → Inconscient ignorance = divided and narrowed consciousness, not sheer"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "non-being not a dated fall: it is the ontological condition for later evolution",
+            "INVOLUTION = SPIRIT'S GRADED SELF-CONCEALMENT existence-consciousness-bliss → Truth-Consciousness → Overmind → Mind"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Life → Matter → Inconscient ignorance = divided and narrowed consciousness, not sheer",
+            "non-being not a dated fall: it is the ontological condition for later evolution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Life → Matter → Inconscient ignorance = divided and narrowed consciousness, not sheer non-being not a dated fall: it is the ontological condition for later evolution.",
+      "source_references": [
+        "Involution and ignorance"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EVOLUTION AND TRIPLE TRANSFORMATION",
+      "structural_type": "ascending sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EVOLUTION AND TRIPLE TRANSFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "HIGHER MIND",
+          "role": "outcome"
+        },
+        {
+          "text": "TRUTH-CONSCIOUSNESS INVOLVED POWER BECOMES GENUINELY NOVEL ORGANISATION, NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "SPIRITUAL TRANSFORMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPRAMENTAL TRANSFORMATION HUMANITY IS TRANSITIONAL; CONSCIOUS PARTICIPATION BECOMES POSSIBLE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MATTER → LIFE → MIND → HIGHER MIND → TRUTH-CONSCIOUSNESS involved power becomes genuinely novel",
+        "conscious participation becomes possible cosmic direction differs from automatic individual attainment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "MATTER → LIFE → MIND → HIGHER MIND → TRUTH-CONSCIOUSNESS involved power becomes genuinely novel organisation, not a",
+            "conscious participation becomes possible cosmic direction differs from automatic individual attainment"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MATTER → LIFE → MIND → HIGHER MIND → TRUTH-CONSCIOUSNESS involved power becomes genuinely novel organisation, not a",
+            "conscious participation becomes possible cosmic direction differs from automatic individual attainment"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "MATTER → LIFE → MIND → HIGHER MIND → TRUTH-CONSCIOUSNESS involved power becomes genuinely novel organisation, not a",
+            "conscious participation becomes possible cosmic direction differs from automatic individual attainment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MATTER → LIFE → MIND → HIGHER MIND → TRUTH-CONSCIOUSNESS involved power becomes genuinely novel organisation, not a miniature preformed object psychic transformation → spiritual transformation → supramental transformation humanity is transitional; conscious participation becomes possible cosmic direction differs from automatic individual attainment.",
+      "source_references": [
+        "Evolution and triple transformation"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INTEGRAL YOGA",
+      "structural_type": "double movement",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INTEGRAL YOGA",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRAL YOGA (PŪRṆA-YOGA)",
+          "role": "outcome"
+        },
+        {
+          "text": "ASCENT + DESCENT ASPIRATION + REJECTION + SURRENDER PREPARE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRAL YOGA IS NOT PATANJALI'S EIGHT-LIMBED SEQUENCE UNDER ANOTHER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INTEGRAL YOGA (PŪRṆA-YOGA) = ASCENT + DESCENT aspiration + rejection + surrender prepare the whole",
+        "descent transforms mind, life and body liberation is a beginning for terrestrial transformation, not the"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "INTEGRAL YOGA (PŪRṆA-YOGA) = ASCENT + DESCENT aspiration + rejection + surrender prepare the whole being ascent opens consciousness above",
+            "descent transforms mind, life and body liberation is a beginning for terrestrial transformation, not the final stopping point"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTEGRAL YOGA (PŪRṆA-YOGA) = ASCENT + DESCENT aspiration + rejection + surrender prepare the whole being ascent opens consciousness above",
+            "descent transforms mind, life and body liberation is a beginning for terrestrial transformation, not the final stopping point"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "INTEGRAL YOGA (PŪRṆA-YOGA) = ASCENT + DESCENT aspiration + rejection + surrender prepare the whole being ascent opens consciousness above",
+            "descent transforms mind, life and body liberation is a beginning for terrestrial transformation, not the final stopping point"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Integral Yoga is not Patanjali's eight-limbed sequence under another name.",
+      "source_references": [
+        "Integral Yoga"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PSYCHIC AND GNOSTIC BEING",
+      "structural_type": "identity transformation",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PSYCHIC AND GNOSTIC BEING",
+          "role": "primary"
+        },
+        {
+          "text": "PSYCHIC BEING (CAITYA PURUṢA)",
+          "role": "outcome"
+        },
+        {
+          "text": "EVOLVING INNER SOUL-PERSON IT DIFFERS FROM EGO AND FROM",
+          "role": "comparison"
+        },
+        {
+          "text": "POSSIBILITY OF TRANSFORMATION DOES NOT BY ITSELF PROVE INEVITABILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PSYCHIC BEING (CAITYA PURUṢA) = EVOLVING INNER SOUL-PERSON it differs from ego and from the",
+        "the gnostic being embodies truth individual fulfilment and collective destiny are linked pressure: possibility of"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PSYCHIC BEING (CAITYA PURUṢA) = EVOLVING INNER SOUL-PERSON it differs from ego and from the immutable individual eternal",
+            "the gnostic being embodies truth individual fulfilment and collective destiny are linked pressure: possibility of transformation does not"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PSYCHIC BEING (CAITYA PURUṢA) = EVOLVING INNER SOUL-PERSON it differs from ego and from the immutable individual eternal",
+            "the gnostic being embodies truth individual fulfilment and collective destiny are linked pressure: possibility of transformation does not"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PSYCHIC BEING (CAITYA PURUṢA) = EVOLVING INNER SOUL-PERSON it differs from ego and from the immutable individual eternal",
+            "the gnostic being embodies truth individual fulfilment and collective destiny are linked pressure: possibility of transformation does not"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PSYCHIC BEING (CAITYA PURUṢA) = EVOLVING INNER SOUL-PERSON it differs from ego and from the immutable individual eternal self psychic emergence leads the transformation; the gnostic being embodies truth individual fulfilment and collective destiny are linked pressure: possibility of transformation does not by itself prove inevitability.",
+      "source_references": [
+        "Psychic and gnostic being"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DIVINE LIFE AND COLLECTIVE HORIZON",
+      "structural_type": "possibility-inevitability test",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DIVINE LIFE AND COLLECTIVE HORIZON",
+          "role": "primary"
+        },
+        {
+          "text": "DIVINE LIFE",
+          "role": "outcome"
+        },
+        {
+          "text": "EMBODIED TRUTH-CONSCIOUS EXISTENCE, NOT POST-MORTEM HEAVEN POSSIBLE BECAUSE SUPERMIND",
+          "role": "caution"
+        },
+        {
+          "text": "DIVINE LIFE = EMBODIED TRUTH-CONSCIOUS EXISTENCE, NOT POST-MORTEM HEAVEN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIVINE LIFE = EMBODIED TRUTH-CONSCIOUS EXISTENCE, NOT POST-MORTEM HEAVEN possible because Supermind is involved in",
+        "cosmically inevitable does not mean scheduled or automatic for each person call from below +",
+        "from above + prepared instrument collective transformation is a horizon, not rule by a spiritual"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DIVINE LIFE = EMBODIED TRUTH-CONSCIOUS EXISTENCE, NOT POST-MORTEM HEAVEN possible because Supermind is involved in Matter",
+            "cosmically inevitable does not mean scheduled or automatic for each person call from below + sanction/descent"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "from above + prepared instrument collective transformation is a horizon, not rule by a spiritual elite",
+            "DIVINE LIFE = EMBODIED TRUTH-CONSCIOUS EXISTENCE, NOT POST-MORTEM HEAVEN possible because Supermind is involved in Matter"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "cosmically inevitable does not mean scheduled or automatic for each person call from below + sanction/descent",
+            "from above + prepared instrument collective transformation is a horizon, not rule by a spiritual elite"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIVINE LIFE = EMBODIED TRUTH-CONSCIOUS EXISTENCE, NOT POST-MORTEM HEAVEN possible because Supermind is involved in Matter cosmically inevitable does not mean scheduled or automatic for each person call from below + sanction/descent from above + prepared instrument collective transformation is a horizon, not rule by a spiritual elite.",
+      "source_references": [
+        "Divine life and collective horizon"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COMPARISONS AND OBJECTIONS",
+      "structural_type": "dialectical matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPARISONS AND OBJECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "AGAINST ILLUSIONISM",
+          "role": "outcome"
+        },
+        {
+          "text": "WORLD HAS EVOLUTIONARY VALUE AGAINST MATERIALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSCIOUSNESS IS INVOLVED BEFORE IT EVOLVES AGAINST ASCETIC ESCAPE",
+          "role": "evidence"
+        },
+        {
+          "text": "SPIRIT MUST TRANSFORM EMBODIED LIFE OBJECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "UNVERIFIABILITY, TELEOLOGY, EVIL, DETERMINISM, ELITISM, CATEGORY CONFUSION REPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLANATORY INTEGRATION; RESIDUAL ISSUE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERSUBJECTIVE CONFIRMATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AGAINST ILLUSIONISM: WORLD HAS EVOLUTIONARY VALUE against materialism: consciousness is involved before it evolves against",
+        "residual issue → intersubjective confirmation"
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "AGAINST ILLUSIONISM: WORLD HAS EVOLUTIONARY VALUE against materialism: consciousness is involved before it evolves against ascetic escape: Spirit",
+          "AGAINST ILLUSIONISM: WORLD HAS EVOLUTIONARY VALUE against materialism: consciousness is involved before it evolves against ascetic escape: Spirit",
+          "AGAINST ILLUSIONISM: WORLD HAS EVOLUTIONARY VALUE against materialism: consciousness is involved before it evolves against ascetic escape: Spirit"
+        ],
+        [
+          "residual issue → intersubjective confirmation",
+          "residual issue → intersubjective confirmation",
+          "residual issue → intersubjective confirmation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "AGAINST ILLUSIONISM: WORLD HAS EVOLUTIONARY VALUE against materialism: consciousness is involved before it evolves against ascetic escape: Spirit",
+            "residual issue → intersubjective confirmation"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "AGAINST ILLUSIONISM: WORLD HAS EVOLUTIONARY VALUE against materialism: consciousness is involved before it evolves against ascetic escape: Spirit",
+            "residual issue → intersubjective confirmation"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "AGAINST ILLUSIONISM: WORLD HAS EVOLUTIONARY VALUE against materialism: consciousness is involved before it evolves against ascetic escape: Spirit",
+            "residual issue → intersubjective confirmation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AGAINST ILLUSIONISM: WORLD HAS EVOLUTIONARY VALUE against materialism: consciousness is involved before it evolves against ascetic escape: Spirit must transform embodied life objections → unverifiability, teleology, evil, determinism, elitism, category confusion reply → explanatory integration; residual issue → intersubjective confirmation.",
+      "source_references": [
+        "Comparisons and objections"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SYNTHESIS",
+      "structural_type": "answer route",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "START WITH THE DOUBLE MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "INVOLUTION MAKES EVOLUTION POSSIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRAL YOGA ADD PSYCHIC BEING, TRIPLE TRANSFORMATION AND ONE",
+          "role": "evidence"
+        },
+        {
+          "text": "AMBITIOUS WORLD-AFFIRMING SYNTHESIS WITH A DEMANDING METAPHYSICAL WAGER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "START WITH THE DOUBLE MOVEMENT: INVOLUTION MAKES EVOLUTION POSSIBLE",
+        "Absolute → Truth-Consciousness → involution → evolution → Integral Yoga add psychic being, triple transformation",
+        "comparison test teleology and verification before the conclusion verdict: ambitious world-affirming synthesis with a demanding"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "START WITH THE DOUBLE MOVEMENT: INVOLUTION MAKES EVOLUTION POSSIBLE",
+            "Absolute → Truth-Consciousness → involution → evolution → Integral Yoga add psychic being, triple transformation and one named"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "comparison test teleology and verification before the conclusion verdict: ambitious world-affirming synthesis with a demanding metaphysical wager",
+            "START WITH THE DOUBLE MOVEMENT: INVOLUTION MAKES EVOLUTION POSSIBLE"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Absolute → Truth-Consciousness → involution → evolution → Integral Yoga add psychic being, triple transformation and one named",
+            "comparison test teleology and verification before the conclusion verdict: ambitious world-affirming synthesis with a demanding metaphysical wager"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ambitious world-affirming synthesis with a demanding metaphysical wager.",
+      "source_references": [
+        "PYQ answer synthesis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPTIONAL DEPTH 1 — EXISTENCE-CONSCIOUSNESS-BLISS (SAT-CIT-ĀNANDA) AND DYNAMIC WORLD-MANIFESTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "OPTIONAL DEPTH 2 — SUPERMIND, OVERMIND AND KNOWLEDGE BY",
+          "role": "comparison"
+        },
+        {
+          "text": "OPTIONAL DEPTH 3 — INVOLUTION AND THE INCONSCIENT",
+          "role": "evidence"
+        },
+        {
+          "text": "OPTIONAL DEPTH 4 — EVOLUTION, PSYCHIC BEING, INDIVIDUAL ETERNAL",
+          "role": "primary"
+        },
+        {
+          "text": "OPTIONAL DEPTH 5 — INTEGRAL YOGA",
+          "role": "outcome"
+        },
+        {
+          "text": "ASCENT, DESCENT, SURRENDER AND DIVINE POWER (ŚAKTI)",
+          "role": "mechanism"
+        },
+        {
+          "text": "OPTIONAL DEPTH 6 — GNOSTIC BEING, LIFE DIVINE AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "OPTIONAL DEPTH 1 — Existence-consciousness-bliss (sat-cit-ānanda) and Dynamic World-Manifestation",
+            "OPTIONAL DEPTH 2 — Supermind, Overmind and Knowledge by Identity",
+            "OPTIONAL DEPTH 3 — Involution and the Inconscient",
+            "OPTIONAL DEPTH 4 — Evolution, Psychic Being, Individual eternal self (jīvātman) and Triple Transformation"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "OPTIONAL DEPTH 5 — Integral Yoga: Ascent, Descent, Surrender and Divine Power (Śakti)",
+            "OPTIONAL DEPTH 6 — Gnostic Being, Life Divine and the Spirit-Matter Synthesis",
+            "OPTIONAL DEPTH 7 — Criticisms, Evil, Verifiability and Teleology",
+            "OPTIONAL DEPTH 8 — Debates, Traps, PYQ Ledgers and Answer Architecture"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "OPTIONAL DEPTH 1 — Existence-consciousness-bliss (sat-cit-ānanda) and Dynamic World-Manifestation The metaphysical wager",
+            "and its cost Aurobindo's opening move is a reinterpretation of non-duality.",
+            "If Brahman is absolutely unrelated to manifestation, the world becomes either inexplicable or ontologically downgraded.",
+            "If the world is independent, non-duality collapses."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

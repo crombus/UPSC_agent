@@ -1,0 +1,2189 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g4\\world-history-16_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g4\\world-history-16_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "world-history-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "United Nations and Global Governance - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 403.824
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 152.422
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g4\\assets\\world-history-16_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 500.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 193.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Founding after League failure is the source-bounded relationship among Dumbarton Oaks, 1944, San Francisco and October 1945 and Three founding aims within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 89,
+      "heading": "VISUAL FIRST",
+      "preview": "FOUNDING AFTER LEAGUE FAILURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 316.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 124,
+      "markdown_body_line_end": 141,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FOUNDING AFTER LEAGUE FAILURE",
+      "preview": "START / CONCEPT: FOUNDATION — Founding after League failure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 641.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 410.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 152,
+      "markdown_body_line_end": 152,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Six Charter bodies is the source-bounded relationship among and Six principal Charter bodies within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 237.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 167,
+      "markdown_body_line_end": 171,
+      "heading": "VISUAL FIRST",
+      "preview": "SIX CHARTER BODIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 221,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SIX CHARTER BODIES",
+      "preview": "START / CONCEPT: FOUNDATION — Six Charter bodies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 232,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Security Council and veto is the source-bounded relationship among and Security Council composition within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 251,
+      "heading": "VISUAL FIRST",
+      "preview": "SECURITY COUNCIL AND VETO",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 301,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SECURITY COUNCIL AND VETO",
+      "preview": "START / CONCEPT: FOUNDATION — Security Council and veto",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 312,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: ICJ, ICC and category discipline is the source-bounded relationship among ICJ and ICC distinction and Institutional category discipline within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 334,
+      "heading": "VISUAL FIRST",
+      "preview": "ICJ, ICC AND CATEGORY DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 385,
+      "heading": "CLOSING RECALL FLOW - CORE - ICJ, ICC AND CATEGORY DISCIPLINE",
+      "preview": "START / CONCEPT: CORE — ICJ, ICC and category discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 84.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 396,
+      "markdown_body_line_end": 396,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: UN versus League is the source-bounded relationship among and UN compared with League within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 415,
+      "heading": "VISUAL FIRST",
+      "preview": "UN VERSUS LEAGUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 448,
+      "markdown_body_line_end": 465,
+      "heading": "CLOSING RECALL FLOW - CORE - UN VERSUS LEAGUE",
+      "preview": "START / CONCEPT: CORE — UN versus League",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 476,
+      "markdown_body_line_end": 476,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Korea and collective enforcement is the source-bounded relationship among and Korea and Uniting for Peace, 1950 within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 495,
+      "heading": "VISUAL FIRST",
+      "preview": "KOREA AND COLLECTIVE ENFORCEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 528,
+      "markdown_body_line_end": 545,
+      "heading": "CLOSING RECALL FLOW - CORE - KOREA AND COLLECTIVE ENFORCEMENT",
+      "preview": "START / CONCEPT: CORE — Korea and collective enforcement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 150.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 556,
+      "markdown_body_line_end": 556,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Suez versus Hungary is the source-bounded relationship among Suez success, 1956 and Hungary failure, 1956 within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 571,
+      "markdown_body_line_end": 578,
+      "heading": "VISUAL FIRST",
+      "preview": "SUEZ VERSUS HUNGARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 612,
+      "markdown_body_line_end": 629,
+      "heading": "CLOSING RECALL FLOW - CORE - SUEZ VERSUS HUNGARY",
+      "preview": "START / CONCEPT: CORE — Suez versus Hungary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 640,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Congo's mixed record is the source-bounded relationship among and Congo operation, 1960-64 within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 358.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 292.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 659,
+      "heading": "VISUAL FIRST",
+      "preview": "CONGO'S MIXED RECORD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 692,
+      "markdown_body_line_end": 709,
+      "heading": "CLOSING RECALL FLOW - CORE - CONGO'S MIXED RECORD",
+      "preview": "START / CONCEPT: CORE — Congo's mixed record",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 720,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Ceasefire management without settlement is the source-bounded relationship among Cyprus and Kashmir and West New Guinea within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 742,
+      "heading": "VISUAL FIRST",
+      "preview": "CEASEFIRE MANAGEMENT WITHOUT SETTLEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 776,
+      "markdown_body_line_end": 793,
+      "heading": "CLOSING RECALL FLOW - CORE - CEASEFIRE MANAGEMENT WITHOUT SETTLEMENT",
+      "preview": "START / CONCEPT: CORE — Ceasefire management without settlement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 804,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Gulf War authority is the source-bounded relationship among and Gulf War enforcement, 1991 within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 373.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 306.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 819,
+      "markdown_body_line_end": 823,
+      "heading": "VISUAL FIRST",
+      "preview": "GULF WAR AUTHORITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 856,
+      "markdown_body_line_end": 873,
+      "heading": "CLOSING RECALL FLOW - CORE - GULF WAR AUTHORITY",
+      "preview": "START / CONCEPT: CORE — Gulf War authority",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 170.491
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 884,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Post-Cold-War transition successes is the source-bounded relationship among and Cambodia and Mozambique within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 903,
+      "heading": "VISUAL FIRST",
+      "preview": "POST-COLD-WAR TRANSITION SUCCESSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 953,
+      "heading": "CLOSING RECALL FLOW - CORE - POST-COLD-WAR TRANSITION SUCCESSES",
+      "preview": "START / CONCEPT: CORE — Post-Cold-War transition successes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 964,
+      "markdown_body_line_end": 964,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Somalia and Bosnia is the source-bounded relationship among and Somalia and Bosnia within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 983,
+      "heading": "VISUAL FIRST",
+      "preview": "SOMALIA AND BOSNIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1016,
+      "markdown_body_line_end": 1033,
+      "heading": "CLOSING RECALL FLOW - CORE - SOMALIA AND BOSNIA",
+      "preview": "START / CONCEPT: CORE — Somalia and Bosnia",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 409.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 188.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1044,
+      "markdown_body_line_end": 1044,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Iraq and powerful-state bypass is the source-bounded relationship among and Iraq crisis, 2003 within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1063,
+      "heading": "VISUAL FIRST",
+      "preview": "IRAQ AND POWERFUL-STATE BYPASS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1096,
+      "markdown_body_line_end": 1113,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - IRAQ AND POWERFUL-STATE BYPASS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Iraq and powerful-state bypass",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1124,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Global governance beyond security is the source-bounded relationship among Non-military work and Institutional category discipline within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1139,
+      "markdown_body_line_end": 1146,
+      "heading": "VISUAL FIRST",
+      "preview": "GLOBAL GOVERNANCE BEYOND SECURITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1197,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - GLOBAL GOVERNANCE BEYOND SECURITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Global governance beyond security",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 74.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1208,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Reform and balanced verdict is the source-bounded relationship among Balanced reform verdict, Security Council composition and UN compared with League within United Nations and Global Governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1223,
+      "markdown_body_line_end": 1233,
+      "heading": "VISUAL FIRST",
+      "preview": "REFORM AND BALANCED VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 312.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1268,
+      "markdown_body_line_end": 1272,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** History (World History) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I with GS-II linkage **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 9, pp. 167-185; the local PDF was read directly.",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 597.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 459.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1286,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 437.824
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 222.422
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1312,
+      "heading": "2. Structure: what to remember for exam use",
+      "preview": "Principal UN body today | Core function",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Principal UN body today",
+          "Core function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 706.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 554.49
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1325,
+      "heading": "3. UN versus League of Nations",
+      "preview": "Point of comparison | Lowe-grounded judgment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Point of comparison",
+          "Lowe-grounded judgment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 504.09
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 341.088
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1353,
+      "markdown_body_line_end": 1362,
+      "heading": "5. What the UN does beyond peacekeeping",
+      "preview": "Area | Lowe-grounded examples",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Area",
+          "Lowe-grounded examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 517.09
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1397,
+      "heading": "7. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: Do not reduce the UN to the Security Council alone. Lowe stresses that most of the UN's actual work lies in social, humanitarian and developmental fields.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1425,
+      "heading": "9. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note:** this file must independently support the historical-design, peacekeeping-record and structural-limitation demands. Live GS-II institutional detail must not substitute for historical analysis. `advanced/16` adds th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 373.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 292.356
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1429,
+      "markdown_body_line_end": 1436,
+      "heading": "9.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 270.356
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 51.354
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1447,
+      "markdown_body_line_end": 1451,
+      "heading": "9.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 628.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 517.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1461,
+      "heading": "9.4 Evidence bank A - design: what was learned from the League",
+      "preview": "League defect (`basic/11`) | ✅ UN response | ⚠️ What was **not** fixed",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "League defect (`basic/11`)",
+          "✅ UN response",
+          "⚠️ What was **not** fixed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 495.89
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 253.288
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1482,
+      "heading": "9.6 Evidence bank C - the peacekeeping record, organised by the success condition",
+      "preview": "⚠️ **State the condition first, then use the cases as proof.** ✅ Lowe's broader lesson: the UN works best where great-power interests do not directly collide, or where major powers choose to support enforcement.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 705.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1484,
+      "markdown_body_line_end": 1493,
+      "heading": "9.6 Evidence bank C - the peacekeeping record, organised by the success condition",
+      "preview": "Great-power posture | ✅ Cases | ⚠️ Outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Great-power posture",
+          "✅ Cases",
+          "⚠️ Outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 705.224
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 365.422
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1523,
+      "markdown_body_line_end": 1532,
+      "heading": "9.8 Structural limitations and the reform question (status-disciplined)",
+      "preview": "⚠️ **Date/status discipline (mandatory).** ✅ The structural facts above (six Charter organs; 15-member Council with 5 permanent members; the veto; the absence of a standing army; the Trusteeship Council's inactivity) are the safe historical",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 659.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1553,
+      "markdown_body_line_end": 1556,
+      "heading": "10. Study link",
+      "preview": "**Study link:** World-History -> `advanced/16_United-Nations-and-Global-Governance.md` for the case matrix and reform logic (optional). **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the Korea, Hunga",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 287.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 149.356
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1560,
+      "markdown_body_line_end": 1577,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - REFORM AND BALANCED VERDICT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Reform and balanced verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2630,
+      "markdown_body_line_end": 2634,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** History (World History) · **Tier:** Advanced · **GS Paper:** GS-I with GS-II linkage **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 9, pp. 167-185; the local PDF was read directly. Contemporar",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 351.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 222.024
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2638,
+      "markdown_body_line_end": 2648,
+      "heading": "Mini-timeline",
+      "preview": "Date | Case / reform marker",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Date",
+          "Case / reform marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 538.29
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2660,
+      "markdown_body_line_end": 2665,
+      "heading": "2. How different was the UN from the League?",
+      "preview": "Improvement over the League in Lowe | Why it mattered",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Improvement over the League in Lowe",
+          "Why it mattered"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 413.29
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 292.688
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2667,
+      "markdown_body_line_end": 2670,
+      "heading": "2. How different was the UN from the League?",
+      "preview": "Weakness that remained | Why it still mattered",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Weakness that remained",
+          "Why it still mattered"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 292.688
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 225.687
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2676,
+      "markdown_body_line_end": 2686,
+      "heading": "3. Peacekeeping case matrix: when did the UN work?",
+      "preview": "Case | Lowe's verdict | Analytical lesson",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Case",
+          "Lowe's verdict",
+          "Analytical lesson"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 482.29
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2699,
+      "markdown_body_line_end": 2705,
+      "heading": "4. Post-Cold-War peacekeeping and global governance",
+      "preview": "Non-military domain | Why it matters for answer quality",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Non-military domain",
+          "Why it matters for answer quality"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 327.69
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 185.888
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2727,
+      "markdown_body_line_end": 2732,
+      "heading": "6. CURRENT: Current link (checked 21 July 2026)",
+      "preview": "Current point | Verified fact | Exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Current point",
+          "Verified fact",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 684.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 440.29
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2736,
+      "markdown_body_line_end": 2736,
+      "heading": "6. CURRENT: Current link (checked 21 July 2026)",
+      "preview": "**Boundary:** this World History file uses the Pact/UN80 only to update the post-1945 institutional-reform arc. Negotiating positions, India's UNSC campaign and live diplomatic alignments remain in International Relations / GS-II.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 406.89
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 348.022
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2748,
+      "markdown_body_line_end": 2748,
+      "heading": "7. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: Do not write that \"the UN failed because wars still happen.\" Lowe's whole chapter is constructed to show partial success, domain-specific success and the difference between mediation, peacekeeping, enforcement and social-governance ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 205.622
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 146.754
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2780,
+      "markdown_body_line_end": 2782,
+      "heading": "9. Study link",
+      "preview": "**Study link:** World-History -> `basic/16_United-Nations-and-Global-Governance.md` for the static skeleton. **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the crises that tested the UN. **Study link",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 452.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 343.224
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2790,
+      "markdown_body_line_end": 2804,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: UN founding sequence",
+      "preview": "1944 -> Dumbarton Oaks proposals",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2808,
+      "markdown_body_line_end": 2813,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Six principal bodies",
+      "preview": "GENERAL ASSEMBLY -> deliberation and budget",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 569.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2817,
+      "markdown_body_line_end": 2822,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Court and agency boundaries",
+      "preview": "ICJ -> principal UN judicial organ",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2826,
+      "markdown_body_line_end": 2831,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: League versus UN",
+      "preview": "MEMBERSHIP -> wider UN participation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2835,
+      "markdown_body_line_end": 2840,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Success-condition matrix",
+      "preview": "AGREEMENT -> Suez and West New Guinea",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 400.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2844,
+      "markdown_body_line_end": 2849,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Suez versus Hungary, 1956",
+      "preview": "SUEZ -> ceasefire and peacekeeping force",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 274.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2853,
+      "markdown_body_line_end": 2858,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Peacekeeping versus enforcement",
+      "preview": "PEACEKEEPING -> consent and separation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2862,
+      "markdown_body_line_end": 2867,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Containment without resolution",
+      "preview": "CEASEFIRE -> immediate violence reduced",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2871,
+      "markdown_body_line_end": 2876,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Post-Cold-War mission contrast",
+      "preview": "CAMBODIA/MOZAMBIQUE -> transitions stabilised",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2894,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Non-military governance web",
+      "preview": "RIGHTS/LABOUR -> UDHR and ILO",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2898,
+      "markdown_body_line_end": 2912,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: 1945 authority mismatch",
+      "preview": "SECURITY COUNCIL -> power structure of 1945",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 400.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 256.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2916,
+      "markdown_body_line_end": 2921,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UN answer spine",
+      "preview": "ORIGIN -> League lessons and 1945 Charter",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    }
+  ]
+}

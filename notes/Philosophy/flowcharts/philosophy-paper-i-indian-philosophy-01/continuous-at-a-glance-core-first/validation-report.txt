@@ -1,0 +1,172 @@
+CĀRVĀKA CONTINUOUS AT-A-GLANCE CORE-FIRST — VALIDATION REPORT
+generated=2026-08-22T12:19:41.981642+05:30
+approval=true — explicitly approved by the user on 22 August 2026
+canonical_replacement=none
+non_canonical_folder=C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\notes\Philosophy\flowcharts\philosophy-paper-i-indian-philosophy-01\continuous-at-a-glance-core-first
+
+SOURCE OWNERS
+primary=upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\paper-i-indian-philosophy-g3\philosophy-paper-i-indian-philosophy-01_Learning-Session.md
+supporting_basic=upsc-ai-kit\knowledge\Philosophy\paper-1\indian\Carvaka.md
+standard=instructions\pdf-learning-session\PDF-LEARNING-SESSION-STANDARD.md
+saved_rule=AGENT_MEMORY.md — Continuous at-a-glance flowchart rule (22 August 2026)
+
+DELIVERABLES
+master_png=Carvaka_Continuous-At-a-Glance-Core-First_Master.png
+master_dimensions_px=4800x14921
+master_dpi_metadata=300x300
+poster_pdf=Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf
+poster_pages=1
+poster_dimensions_points=2834.65x8811.63
+poster_dimensions_inches=39.37x122.38
+poster_dimensions_mm=1000x3109
+tiled_pdf=Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf
+tiled_pages=6
+tiled_page_size=A3 landscape
+same_master_split=yes — every tile is a crop of the complete master PNG
+tile_overlap_px=330
+tile_count=6
+preview_count=6
+contact_sheet_count=2
+
+PRIMARY NODE INVENTORY — COMPLETE HIGH-YIELD SPINE
+  Stage 0: IDENTITY + SOURCE CAUTION
+  Stage 1: EPISTEMIC GATE — PERCEPTION ONLY
+  Stage 2: PRAMĀṆA LEDGER — ACCEPTED / REJECTED + NYĀYA CONTRAST
+  Stage 3: WHAT “REJECTS INFERENCE” EXACTLY MEANS
+  Stage 4: WHY INFERENCE LACKS CERTAINTY
+  Stage 5: NYĀYA DEFENCE — EXACT FUNCTIONS, DIRECTLY ADJACENT
+  Stage 6: METAPHYSICS FOLLOWS EPISTEMOLOGY
+  Stage 7: CONSCIOUSNESS + SELF — MATERIAL EMERGENCE
+  Stage 8: DEMOLITION TREE — ONE PREMISE, EIGHT REJECTIONS
+  Stage 9: ETHICS — THIS-WORLDLY ENDS WITHOUT CARICATURE
+  Stage 10: MAJOR CRITICISMS ↔ REPLIES — RESIDUAL PROBLEM KEPT VISIBLE
+  Stage 11: COMPARISONS + HIGH-YIELD TRAPS
+  Stage 12: EXAM SYNTHESIS — ANSWER SPINE + PYQ ROUTES + VERDICT
+  Enrichment E: SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE — visually subordinate and only after Stage 12
+
+AT-A-GLANCE ACCEPTANCE TEST
+1 exact perception types=PASS — bāhya external + antara/mānasa internal are in Stage 1 primary node
+2 exact rejected pramāṇas=PASS — inference, testimony, comparison, postulation, non-cognition are in Stage 2
+3 practical-vs-transcendent inference=PASS — Stage 3 labels the distinction and its interpretive caution
+4 vyāpti/upādhi critique=PASS — Stage 4 states all three failed routes, hidden condition and conclusion
+5 Nyāya four + defence methods=PASS — Stage 5 lists four and exact functions of anvaya, vyatireka, tarka, sāmānyalakṣaṇa-pratyakṣa, parāmarśa, nirvikalpaka/savikalpaka
+6 four elements/no ākāśa=PASS — Stage 6
+7 emergent consciousness/body-self=PASS — Stage 7
+8 exact transcendent rejections=PASS — Stage 8 derives eight branches from one premise
+9 artha+kāma with prudent caveat=PASS — Stage 9
+10 criticisms/replies + final verdict=PASS — Stages 10 and 12
+
+CORE-BEFORE-EXTRA CHECKS
+primary_flow_visual_weight=PASS — thick cyan rail, strong stage cards, bold coloured decisive phrase pills
+essential_content_first_occurrence=PASS — no listed doctrine depends on the enrichment band
+enrichment_position=PASS — only after Stage 12 and marked subordinate
+continuity=PASS — one top-to-bottom rail through Stage 0..12; lighter dashed continuation to enrichment
+node_pattern=PASS — heading → decisive terms/context → mechanism/reason → consequence/contrast
+answer_grabbing_lines_included_verbatim=9/9
+recommended_opening_definition_visible=yes
+required_balanced_verdict_visible=yes
+g3_final_verdict_visible=yes
+pyq_routes_visible=9 verified primary-owned routes grouped by direct theme/year
+
+TERM TRANSLATIONS
+translation_count=41
+immediate_english_meaning_check=PASS
+unicode_font=Segoe UI / Segoe UI Semibold / Segoe UI Bold
+replacement_character_check=PASS — no U+FFFD in source strings
+font_cmap_check=PASS
+font_cmap_notes=none
+  Cārvāka = Indian materialist school
+  Lokāyata = worldly doctrine
+  nāstika = non-Vedic; rejects Vedic authority
+  Bṛhaspati-sūtra = aphoristic text attributed to Bṛhaspati
+  pratyakṣaika-pramāṇavāda = doctrine that perception alone is the independent means of valid knowledge
+  pramāṇa = means of valid knowledge
+  pratyakṣa = perception
+  bāhya-pratyakṣa = external perception
+  antara/mānasa-pratyakṣa = internal perception or mental awareness
+  anumāna = inference
+  śabda = verbal testimony or scriptural authority
+  upamāna = comparison
+  arthāpatti = postulation or presumption
+  anupalabdhi = non-cognition as knowledge of absence
+  laukika/vyāvahārika = ordinary practical and corrigible
+  alaukika/pāramārthika = transcendent or ultimate and uncheckable
+  vyāpti = exceptionless or invariable concomitance
+  upādhi = hidden limiting condition
+  Nyāya = school of logic and realism
+  anvaya = positive agreement or presence correlation
+  vyatireka = negative agreement or absence correlation
+  tarka = hypothetical or reductio reasoning
+  sāmānyalakṣaṇa-pratyakṣa = extraordinary perception of a universal through a particular
+  parāmarśa = cognition that the subject possesses a sign pervaded by the probandum
+  nirvikalpaka = indeterminate perception
+  savikalpaka = determinate perception
+  bhūta = material element
+  ākāśa = ether or space as a separate element
+  svabhāvavāda = nature or inherent-nature explanation
+  bhūta-caitanya-vāda = doctrine that consciousness emerges from material elements
+  dehātmavāda = body-self theory
+  ātman = permanent self
+  anātman = no-permanent-self doctrine
+  karma = moral causation across lives
+  adṛṣṭa = unseen moral force
+  mokṣa = liberation
+  dharma = scriptural or religious duty
+  artha = material well-being
+  kāma = pleasure or desire
+  jīva = soul
+  Advaita = non-dual Vedānta
+
+LAYOUT / TECHNICAL QA
+dynamic_box_measurement=PASS — each stage measured before rendering
+stage_overflow_check=PASS — renderer aborts if text crosses its card boundary
+stage_overlap_check=PASS — monotonic vertical stage bounds with 150px gaps
+arrow_overlap_check=PASS — rail and connectors occupy reserved left lane outside text cards
+clipping_check=PASS — all wrapped text remains within measured boxes
+glyph_check=PASS — Unicode cmap verified; no replacement glyph source character
+poster_page_count_check=PASS
+tiled_page_count_check=PASS
+preview_render_check=PASS — every tiled page rendered at 180 dpi
+manual_visual_inspection=PASS — inspected page-001..006 individually at readable zoom and contact-sheet-01..02 after final regeneration
+manual_clipping_overlap_result=PASS — no clipped primary node, text collision, arrow collision or incomplete continuation found
+manual_legibility_result=PASS — decisive phrase pills, stage headings, body text and answer lines remain readable on A3 landscape previews
+manual_continuity_result=PASS — each tile preserves the cyan rail, repeats 330 px of context, and carries correct FROM / FLOW CONTINUES stage coordinates
+
+TILE COORDINATES / CONTINUATIONS
+  page-001: master y=0..2906 px; stages=0,1,2; overlap=0 px; from=0; continues=1
+  page-002: master y=2576..5482 px; stages=1,2,3,4; overlap=330 px; from=1; continues=4
+  page-003: master y=5152..8058 px; stages=4,5,6,7; overlap=330 px; from=4; continues=6
+  page-004: master y=7728..10634 px; stages=6,7,8,9; overlap=330 px; from=6; continues=9
+  page-005: master y=10304..13210 px; stages=9,10,11,12; overlap=330 px; from=9; continues=12
+  page-006: master y=12015..14921 px; stages=11,12,E; overlap=330 px; from=11; continues=E
+
+PREVIEWS
+  previews\page-001.png
+  previews\page-002.png
+  previews\page-003.png
+  previews\page-004.png
+  previews\page-005.png
+  previews\page-006.png
+
+CONTACT SHEETS
+  previews\contact-sheet-01.png
+  previews\contact-sheet-02.png
+
+CANONICAL PRESERVATION — BEFORE / AFTER
+preexisting_file_count_before=111
+preexisting_file_count_after=111
+all_preexisting_files_status=PASS — all pre-existing 111 files byte-identical
+mismatches=none
+canonical_95_page_pdf_sha256_before=c4f0d5d5d487d6a2d91ea6ae4b68e47c8113c447328f1b85a30af99e7d2774f5
+canonical_95_page_pdf_sha256_after=c4f0d5d5d487d6a2d91ea6ae4b68e47c8113c447328f1b85a30af99e7d2774f5
+canonical_validation_report_sha256_before=b77bd491529eca4405cfdb4c83fbc80e78e4666cca205114f86bd839704155b8
+canonical_validation_report_sha256_after=b77bd491529eca4405cfdb4c83fbc80e78e4666cca205114f86bd839704155b8
+canonical_page_001_095_and_alternate_layouts=PASS — included in the full 111-file before/after comparison
+
+IMMUTABILITY / STATE
+canonical_pdf_unchanged=yes
+canonical_previews_unchanged=yes
+canonical_validation_report_unchanged=yes
+alternate_layouts_unchanged=yes
+tracker_manifest_generation_identity_modified=no
+approval=true — approved reference design; canonical replacement remains none

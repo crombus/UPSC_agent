@@ -1,0 +1,30 @@
+topic=philosophy-paper-ii-philosophy-of-religion-01
+generated=2026-08-22T15:25:47.642947+05:30
+source=upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4\philosophy-paper-ii-philosophy-of-religion-01_Learning-Session.md
+master_png=master.png
+master_dimensions_px=3600x4650
+master_dpi_metadata=200x200
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x2196.85
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=3
+same_master_split=yes
+tile_overlap_px=260
+preview_count=3
+contact_sheet_count=1
+closure_stage_count=5
+node_pattern=heading -> decisive context -> exact terms/details -> consequence/contrast
+core_before_extra=PASS
+poster_pdf_validation=PASS
+renderability=PASS
+tile_coordinates=
+  page-001: y=0..2200; overlap=0; from=1; continues=3
+  page-002: y=1940..4140; overlap=260; from=3; continues=5
+  page-003: y=2450..4650; overlap=260; from=3; continues=5
+errors=none
+
+post_render_box_clipping_check=PASS
+post_render_stage_overlap_check=PASS
+post_render_unsupported_glyph_check=PASS — no replacement glyph was found in the source-derived learning PDF
+post_render_same_master_identity_check=PASS

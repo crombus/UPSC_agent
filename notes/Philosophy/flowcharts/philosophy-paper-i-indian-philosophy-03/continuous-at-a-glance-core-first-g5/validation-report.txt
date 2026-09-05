@@ -1,0 +1,81 @@
+topic=philosophy-paper-i-indian-philosophy-03
+generated=2026-08-22T15:23:12.813972+05:30
+source=upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\compatibility-pilot-core-first-g3-core-first-g4\philosophy-paper-i-indian-philosophy-03_Learning-Session.md
+master_png=master.png
+master_dimensions_px=3600x104794
+master_dpi_metadata=200x200
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x49508.98
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=54
+same_master_split=yes
+tile_overlap_px=260
+preview_count=54
+contact_sheet_count=9
+closure_stage_count=117
+node_pattern=heading -> decisive context -> exact terms/details -> consequence/contrast
+core_before_extra=PASS
+poster_pdf_validation=PASS
+renderability=PASS
+tile_coordinates=
+  page-001: y=0..2200; overlap=0; from=1; continues=3
+  page-002: y=1940..4140; overlap=260; from=2; continues=5
+  page-003: y=3880..6080; overlap=260; from=5; continues=7
+  page-004: y=5820..8020; overlap=260; from=7; continues=9
+  page-005: y=7760..9960; overlap=260; from=9; continues=11
+  page-006: y=9700..11900; overlap=260; from=11; continues=14
+  page-007: y=11640..13840; overlap=260; from=13; continues=15
+  page-008: y=13580..15780; overlap=260; from=15; continues=18
+  page-009: y=15520..17720; overlap=260; from=17; continues=20
+  page-010: y=17460..19660; overlap=260; from=20; continues=22
+  page-011: y=19400..21600; overlap=260; from=22; continues=24
+  page-012: y=21340..23540; overlap=260; from=24; continues=26
+  page-013: y=23280..25480; overlap=260; from=26; continues=29
+  page-014: y=25220..27420; overlap=260; from=28; continues=31
+  page-015: y=27160..29360; overlap=260; from=31; continues=33
+  page-016: y=29100..31300; overlap=260; from=33; continues=35
+  page-017: y=31040..33240; overlap=260; from=35; continues=37
+  page-018: y=32980..35180; overlap=260; from=37; continues=39
+  page-019: y=34920..37120; overlap=260; from=39; continues=42
+  page-020: y=36860..39060; overlap=260; from=41; continues=44
+  page-021: y=38800..41000; overlap=260; from=44; continues=46
+  page-022: y=40740..42940; overlap=260; from=46; continues=48
+  page-023: y=42680..44880; overlap=260; from=48; continues=50
+  page-024: y=44620..46820; overlap=260; from=50; continues=53
+  page-025: y=46560..48760; overlap=260; from=52; continues=55
+  page-026: y=48500..50700; overlap=260; from=54; continues=57
+  page-027: y=50440..52640; overlap=260; from=57; continues=59
+  page-028: y=52380..54580; overlap=260; from=59; continues=61
+  page-029: y=54320..56520; overlap=260; from=61; continues=63
+  page-030: y=56260..58460; overlap=260; from=63; continues=65
+  page-031: y=58200..60400; overlap=260; from=65; continues=68
+  page-032: y=60140..62340; overlap=260; from=67; continues=70
+  page-033: y=62080..64280; overlap=260; from=69; continues=72
+  page-034: y=64020..66220; overlap=260; from=72; continues=74
+  page-035: y=65960..68160; overlap=260; from=74; continues=76
+  page-036: y=67900..70100; overlap=260; from=76; continues=79
+  page-037: y=69840..72040; overlap=260; from=78; continues=81
+  page-038: y=71780..73980; overlap=260; from=80; continues=83
+  page-039: y=73720..75920; overlap=260; from=83; continues=85
+  page-040: y=75660..77860; overlap=260; from=85; continues=87
+  page-041: y=77600..79800; overlap=260; from=87; continues=90
+  page-042: y=79540..81740; overlap=260; from=89; continues=92
+  page-043: y=81480..83680; overlap=260; from=91; continues=94
+  page-044: y=83420..85620; overlap=260; from=94; continues=96
+  page-045: y=85360..87560; overlap=260; from=96; continues=98
+  page-046: y=87300..89500; overlap=260; from=98; continues=100
+  page-047: y=89240..91440; overlap=260; from=100; continues=103
+  page-048: y=91180..93380; overlap=260; from=102; continues=105
+  page-049: y=93120..95320; overlap=260; from=104; continues=107
+  page-050: y=95060..97260; overlap=260; from=107; continues=109
+  page-051: y=97000..99200; overlap=260; from=109; continues=111
+  page-052: y=98940..101140; overlap=260; from=111; continues=113
+  page-053: y=100880..103080; overlap=260; from=113; continues=116
+  page-054: y=102594..104794; overlap=260; from=115; continues=117
+errors=none
+
+post_render_box_clipping_check=PASS
+post_render_stage_overlap_check=PASS
+post_render_unsupported_glyph_check=PASS — no replacement glyph was found in the source-derived learning PDF
+post_render_same_master_identity_check=PASS

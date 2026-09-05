@@ -1,0 +1,183 @@
+{
+  "approved": false,
+  "generation": "continuous-at-a-glance-carvaka-standard-g9",
+  "generated": "2026-08-22",
+  "canvas": {
+    "width_px": 4800,
+    "height_px": 16701,
+    "dpi": 300
+  },
+  "sources": {
+    "canonical": "upsc-ai-kit/knowledge/Philosophy/paper-2/philosophy-of-religion/Notions-of-God.md",
+    "pyq": "upsc-ai-kit/knowledge/Philosophy/paper-2/_PYQ-PhilosophyOfReligion-2018-2025.md",
+    "learning_session": "upsc-ai-kit/knowledge/Philosophy/Philosophy-of-Religion/learning-sessions/Notions-of-God/Notions-of-God_Uncompressed-Complete-Learning-Session_2026-08-22.md"
+  },
+  "stage_order": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "E"
+  ],
+  "layout_signatures": {
+    "0": [
+      "cols",
+      "answer"
+    ],
+    "1": [
+      "matrix",
+      "panels",
+      "answer"
+    ],
+    "2": [
+      "chain",
+      "matrix",
+      "answer"
+    ],
+    "3": [
+      "replace",
+      "band",
+      "answer"
+    ],
+    "4": [
+      "matrix",
+      "band",
+      "answer"
+    ],
+    "5": [
+      "matrix",
+      "panels",
+      "answer"
+    ],
+    "6": [
+      "ladder",
+      "cols",
+      "answer"
+    ],
+    "7": [
+      "panels",
+      "timeline",
+      "band",
+      "answer"
+    ],
+    "8": [
+      "matrix",
+      "panels",
+      "answer"
+    ],
+    "9": [
+      "chain",
+      "cols",
+      "answer"
+    ],
+    "10": [
+      "panels",
+      "cols",
+      "answer"
+    ],
+    "11": [
+      "matrix",
+      "band",
+      "answer"
+    ],
+    "12": [
+      "matrix",
+      "replace",
+      "answer"
+    ],
+    "13": [
+      "matrix",
+      "band",
+      "answer"
+    ],
+    "14": [
+      "timeline",
+      "matrix",
+      "cols",
+      "answer"
+    ],
+    "E": [
+      "cols",
+      "band"
+    ]
+  },
+  "outputs": {
+    "master_png": "NotionsOfGod_Continuous-At-a-Glance_Carvaka-g9_Master.png",
+    "poster_pdf": "NotionsOfGod_Continuous-At-a-Glance_Carvaka-g9_Poster_2026-08-22.pdf",
+    "tiled_pdf": "NotionsOfGod_Continuous-At-a-Glance_Carvaka-g9_Tiled_2026-08-22.pdf",
+    "tile_count": 6,
+    "tile_height_px": 3242,
+    "tile_overlap_px": 550,
+    "tile_crops": [
+      {
+        "tile": 1,
+        "box": [
+          0,
+          0,
+          4800,
+          3242
+        ]
+      },
+      {
+        "tile": 2,
+        "box": [
+          0,
+          2692,
+          4800,
+          5934
+        ]
+      },
+      {
+        "tile": 3,
+        "box": [
+          0,
+          5384,
+          4800,
+          8626
+        ]
+      },
+      {
+        "tile": 4,
+        "box": [
+          0,
+          8075,
+          4800,
+          11317
+        ]
+      },
+      {
+        "tile": 5,
+        "box": [
+          0,
+          10767,
+          4800,
+          14009
+        ]
+      },
+      {
+        "tile": 6,
+        "box": [
+          0,
+          13459,
+          4800,
+          16701
+        ]
+      }
+    ],
+    "contact_sheets": [
+      "contact-sheet-01.png"
+    ]
+  },
+  "overflow_events": []
+}

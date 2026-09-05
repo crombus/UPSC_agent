@@ -1,0 +1,103 @@
+ASCII MASTER FLOW — PANEL 1/9: Common Buddhist foundation
+COMMON THERAPEUTIC CORE
+ suffering (duḥkha) -> origin (tṛṣṇā/avidyā) -> cessation (nirvāṇa) -> eightfold path
+                         |
+ three marks: anitya | suffering (duḥkha) | anātman
+                         |
+ dependent origination supplies the Middle Path (madhyamā pratipad):
+ neither eternal substance nor causeless annihilation
+                         |
+ later schools disagree about what exists and how it is known,
+ not about the need to end ignorance and craving.
+
+ASCII MASTER FLOW — PANEL 2/9: Practical and doctrinal Middle Path
+MIDDLE PATH (MADHYAMĀ PRATIPAD; PALI: MAJJHIMĀ PAṬIPADĀ)
+practical extremes: sensual indulgence X self-mortification
+positive route -> Noble Eightfold Path (āryāṣṭāṅgamārga)
+wisdom + ethical discipline + meditative discipline
+doctrinal extremes: eternalism X annihilationism
+dependent origination preserves conditioned continuity without a permanent self
+Four Noble Truths -> cause -> cessation -> path -> liberation
+
+ASCII MASTER FLOW — PANEL 3/9: Twelve-linked dependent origination
+ignorance (avidyā) -> saṃskāra -> vijñāna -> nāma-rūpa -> ṣaḍāyatana -> sparśa
+   -> vedanā -> tṛṣṇā -> upādāna -> bhava -> jāti -> jarā-maraṇa
+                         |
+ IGNORANCE conditions formations; craving and grasping renew becoming
+                         |
+ “When this is, that comes to be; with cessation of this, that ceases”
+                         |
+ reverse order: end ignorance (avidyā)/tṛṣṇā -> break appropriation -> end rebirth-duḥkha.
+
+ASCII MASTER FLOW — PANEL 4/9: Momentariness and no-self
+DEPENDENT ORIGINATION (pratītyasamutpāda) -> conditioned things arise and perish -> MOMENTARINESS
+  (kṣaṇikavāda)
+ causal efficacy belongs to the moment; no unchanged bearer is required
+                         |
+ PERSON ANALYSIS -> five aggregates (skandhas)
+ rūpa | vedanā | saṃjñā | saṃskāra | vijñāna
+                         |
+ none is permanent, independent or “mine” -> NO PERMANENT SELF (nairātmyavāda)
+ continuity = causal series, like flame-to-flame; identity is neither strict sameness
+ nor total unrelatedness.
+
+ASCII MASTER FLOW — PANEL 5/9: Action and moral consequence (karma), memory and cessation of conditioned suffering (nirvāṇa)
+NO ENDURING SELF (ātman), YET CAUSAL RESPONSIBILITY
+ intention at t1 -> conditions stream -> fruit at t2
+                         |
+ memory = later cognition causally conditioned by earlier experience
+ rebirth = one psycho-physical series conditions another, without soul-transmigration
+                         |
+ objection: if agent perishes, another receives result
+ reply: successor is neither identical nor wholly different; causal appropriation connects
+ cessation of conditioned suffering (nirvāṇa) = cessation of greed, hatred and delusion, not
+   destruction of a substance-self.
+
+ASCII MASTER FLOW — PANEL 6/9: Abhidharma school fork
+BUDDHIST REALITY / KNOWLEDGE DEBATE
+             +----------------------+----------------------+
+             v                                             v
+      HĪNAYĀNA REALISTS                               MAHĀYĀNA
+       |             |                              |           |
+ Vaibhāṣika     Sautrāntika                    Yogācāra    Mādhyamika
+ external       external objects               cognition   emptiness of
+ dharmas        inferred from ideas             only        all intrinsic nature (svabhāva)
+ directly       and causal effects
+ perceived
+ SCHOOL LABELS MARK EPISTEMIC/ONTOLOGICAL POSITIONS, NOT FOUR PATHS TO MIX.
+
+ASCII MASTER FLOW — PANEL 7/9: Vaibhāṣika and Sautrāntika
+ISSUE              VAIBHĀṢIKA                  SAUTRĀNTIKA
+external object    real dharmas                 real momentary causes
+access             direct perception            inferred from mental image
+past/future        sarvāstivāda: dharmas exist  only present causal moment stressed
+cognition          grasps object                represents object
+                         |
+ SAUTRĀNTIKA ARGUMENT: object-moment is gone when awareness occurs;
+ therefore cognition presents an image, from which external cause is inferred.
+ PRESSURE: representative realism must explain correspondence.
+
+ASCII MASTER FLOW — PANEL 8/9: Yogācāra and Mādhyamika
+YOGĀCĀRA / CONSCIOUSNESS-ONLY DOCTRINE (vijñānavāda)             MĀDHYAMIKA / EMPTINESS (śūnyatā)
+subject-object duality is constructed     all things lack intrinsic nature (svabhāva)
+vijñapti-mātra: representation-only       dependent arising = emptiness
+store-consciousness (ālaya-vijñāna) stores bīja tendencies      two truths: saṃvṛti / paramārtha
+three natures: parikalpita,                tetralemma rejects is / is-not /
+paratantra, pariniṣpanna                   both / neither as ultimate capture
+                         |
+ CONVERGENCE: dissolve reification; DIFFERENCE: Yogācāra privileges purified cognition,
+ while Mādhyamika empties even consciousness and emptiness itself.
+
+ASCII MASTER FLOW — PANEL 9/9: Critique and PYQ answer spine
+OBJECTIONS: flux cannot explain continuity | anātman weakens agency | emptiness (śūnyatā) is
+  nihilism
+ REPLIES: causal series | dependent responsibility | emptiness denies self-nature, not function
+                         |
+ ANSWER RAIL
+ common core -> twelve links -> momentariness -> five-skandha no-self
+      -> action and moral consequence (karma)/memory reply -> four-school fork -> exact
+        school comparison
+      -> objection/reply -> qualified verdict
+                         |
+ CLOSE: Buddhism replaces substance with conditioned process; its schools progressively
+ debate whether external dharmas, cognition, or any intrinsic nature can be retained.

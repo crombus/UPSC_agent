@@ -1,0 +1,2113 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "world-history-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "International Relations 1919-39 - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 144.222
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\assets\\world-history-11_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 491.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 184.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: League aims and operating machinery is the source-bounded relationship among League founded, 10 January 1920 and League machinery and social work within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "LEAGUE AIMS AND OPERATING MACHINERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 136,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LEAGUE AIMS AND OPERATING MACHINERY",
+      "preview": "START / CONCEPT: FOUNDATION — League aims and operating machinery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 677.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 446.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 147,
+      "markdown_body_line_end": 147,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Why collective security lacked force is the source-bounded relationship among and League structural weaknesses within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 320.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 254.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 162,
+      "markdown_body_line_end": 166,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY COLLECTIVE SECURITY LACKED FORCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHY COLLECTIVE SECURITY LACKED FORCE",
+      "preview": "START / CONCEPT: FOUNDATION — Why collective security lacked force",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Washington and the limited Pacific easing is the source-bounded relationship among and Washington Conferences, 1921-22 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 246,
+      "heading": "VISUAL FIRST",
+      "preview": "WASHINGTON AND THE LIMITED PACIFIC EASING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 296,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WASHINGTON AND THE LIMITED PACIFIC EASING",
+      "preview": "START / CONCEPT: FOUNDATION — Washington and the limited Pacific easing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 307,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Dawes credit and Ruhr recovery is the source-bounded relationship among and Dawes Plan, 1924 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 326,
+      "heading": "VISUAL FIRST",
+      "preview": "DAWES CREDIT AND RUHR RECOVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 376,
+      "heading": "CLOSING RECALL FLOW - CORE - DAWES CREDIT AND RUHR RECOVERY",
+      "preview": "START / CONCEPT: CORE — Dawes credit and Ruhr recovery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 387,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Locarno's western guarantee is the source-bounded relationship among Locarno Treaties, 1925 and Germany and the League, 1926 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 409,
+      "heading": "VISUAL FIRST",
+      "preview": "LOCARNO'S WESTERN GUARANTEE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 443,
+      "markdown_body_line_end": 460,
+      "heading": "CLOSING RECALL FLOW - CORE - LOCARNO'S WESTERN GUARANTEE",
+      "preview": "START / CONCEPT: CORE — Locarno's western guarantee",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 471,
+      "markdown_body_line_end": 471,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Kellogg-Briand and Young Plan is the source-bounded relationship among Kellogg-Briand Pact, 1928 and Young Plan, 1929 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 379.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 312.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 493,
+      "heading": "VISUAL FIRST",
+      "preview": "KELLOGG-BRIAND AND YOUNG PLAN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 527,
+      "markdown_body_line_end": 544,
+      "heading": "CLOSING RECALL FLOW - CORE - KELLOGG-BRIAND AND YOUNG PLAN",
+      "preview": "START / CONCEPT: CORE — Kellogg-Briand and Young Plan",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 320.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 99.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 555,
+      "markdown_body_line_end": 555,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Depression destroys the Locarno base is the source-bounded relationship among and Depression as diplomatic turning point within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 570,
+      "markdown_body_line_end": 574,
+      "heading": "VISUAL FIRST",
+      "preview": "DEPRESSION DESTROYS THE LOCARNO BASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 624,
+      "heading": "CLOSING RECALL FLOW - CORE - DEPRESSION DESTROYS THE LOCARNO BASE",
+      "preview": "START / CONCEPT: CORE — Depression destroys the Locarno base",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 543.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 635,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Manchuria and the lesson of impunity is the source-bounded relationship among and Manchuria, 1931 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 654,
+      "heading": "VISUAL FIRST",
+      "preview": "MANCHURIA AND THE LESSON OF IMPUNITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 704,
+      "heading": "CLOSING RECALL FLOW - CORE - MANCHURIA AND THE LESSON OF IMPUNITY",
+      "preview": "START / CONCEPT: CORE — Manchuria and the lesson of impunity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 170.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 715,
+      "markdown_body_line_end": 715,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Abyssinia and League discredit is the source-bounded relationship among and Abyssinia, 1935 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 734,
+      "heading": "VISUAL FIRST",
+      "preview": "ABYSSINIA AND LEAGUE DISCREDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 784,
+      "heading": "CLOSING RECALL FLOW - CORE - ABYSSINIA AND LEAGUE DISCREDIT",
+      "preview": "START / CONCEPT: CORE — Abyssinia and League discredit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 795,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Separate bargains and Rhineland risk is the source-bounded relationship among Anglo-German Naval Agreement, 1935 and Rhineland, 1936 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 817,
+      "heading": "VISUAL FIRST",
+      "preview": "SEPARATE BARGAINS AND RHINELAND RISK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 868,
+      "heading": "CLOSING RECALL FLOW - CORE - SEPARATE BARGAINS AND RHINELAND RISK",
+      "preview": "START / CONCEPT: CORE — Separate bargains and Rhineland risk",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 320.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 89.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 879,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Spain and non-intervention is the source-bounded relationship among and Spanish Civil War, 1936-39 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 898,
+      "heading": "VISUAL FIRST",
+      "preview": "SPAIN AND NON-INTERVENTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 948,
+      "heading": "CLOSING RECALL FLOW - CORE - SPAIN AND NON-INTERVENTION",
+      "preview": "START / CONCEPT: CORE — Spain and non-intervention",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 959,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Anschluss and cumulative concession is the source-bounded relationship among and Anschluss, 1938 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 978,
+      "heading": "VISUAL FIRST",
+      "preview": "ANSCHLUSS AND CUMULATIVE CONCESSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1028,
+      "heading": "CLOSING RECALL FLOW - CORE - ANSCHLUSS AND CUMULATIVE CONCESSION",
+      "preview": "START / CONCEPT: CORE — Anschluss and cumulative concession",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 409.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 188.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1039,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Munich and excluded states is the source-bounded relationship among and Munich, September 1938 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1058,
+      "heading": "VISUAL FIRST",
+      "preview": "MUNICH AND EXCLUDED STATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1108,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MUNICH AND EXCLUDED STATES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Munich and excluded states",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1119,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Prague, pact and Poland is the source-bounded relationship among Prague, March 1939 and Nazi-Soviet Pact and Poland, 1939 within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1141,
+      "heading": "VISUAL FIRST",
+      "preview": "PRAGUE, PACT AND POLAND",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1192,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PRAGUE, PACT AND POLAND",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Prague, pact and Poland",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 84.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1203,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Failure-of-order verdict is the source-bounded relationship among Appeasement and failure-of-order verdict, League structural weaknesses and Depression as diplomatic turning point within International Relations 1919-39.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1218,
+      "markdown_body_line_end": 1228,
+      "heading": "VISUAL FIRST",
+      "preview": "FAILURE-OF-ORDER VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 403.624
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 302.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1267,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** History (World History) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapters 3-5, pp. 43-88; OCR lines used: 4072-4465, 4494-5530, 5531-6635. *",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 583.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 431.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1283,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 409.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 151.622
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1299,
+      "markdown_body_line_end": 1305,
+      "heading": "2. The League of Nations: aims, structure and early record",
+      "preview": "Organ | Role in Lowe's account",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Organ",
+          "Role in Lowe's account"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 557.49
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1330,
+      "markdown_body_line_end": 1334,
+      "heading": "4. International relations, 1919-33: fragile improvement",
+      "preview": "Phase | Main features",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Phase",
+          "Main features"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 226.09
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 137.888
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1359,
+      "heading": "5. 1933-39: collapse of collective security and road to war",
+      "preview": "Crisis | Lowe-grounded significance",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Crisis",
+          "Lowe-grounded significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 456.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1376,
+      "markdown_body_line_end": 1376,
+      "heading": "6. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: Do not confuse the League's **social and technical successes** with its **failure as a peace-enforcement body**. Lowe recognizes both.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 220.69
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 176.022
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1403,
+      "heading": "8. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note:** this file must independently support League-evaluation, appeasement-evaluation and origins-of-WWII demands. `advanced/11` adds the \"could the League have succeeded?\" and blame historiography only.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 592.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 511.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1407,
+      "markdown_body_line_end": 1414,
+      "heading": "8.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 489.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 259.022
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1425,
+      "markdown_body_line_end": 1429,
+      "heading": "8.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 687.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1433,
+      "markdown_body_line_end": 1440,
+      "heading": "8.4 Evidence bank A - the League: successes, weaknesses, and the decisive crises",
+      "preview": "Genuine successes (✅ — use these to earn balance marks) | Structural weaknesses (✅)",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Genuine successes (✅ — use these to earn balance marks)",
+          "Structural weaknesses (✅)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 665.89
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 491.688
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1444,
+      "markdown_body_line_end": 1447,
+      "heading": "8.4 Evidence bank A - the League: successes, weaknesses, and the decisive crises",
+      "preview": "Crisis | What it proved | Why it mattered more than the design flaws",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Crisis",
+          "What it proved",
+          "Why it mattered more than the design flaws"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 472.488
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 383.087
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1461,
+      "heading": "8.5 Evidence bank B - the 1920s: how fragile was the recovery?",
+      "preview": "Agreement | ✅ Year and content | ⚠️ Built-in weakness",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Agreement",
+          "✅ Year and content",
+          "⚠️ Built-in weakness"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 332.687
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 136.085
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1470,
+      "heading": "8.5 Evidence bank B - the 1920s: how fragile was the recovery?",
+      "preview": "American loans (Dawes 1924)",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1493,
+      "heading": "8.6 Evidence bank C - appeasement, evaluated on its own terms",
+      "preview": "⚠️ Why appeasement looked rational in the 1930s | ✅ Evidence in this file | ⚠️ Why it failed",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "⚠️ Why appeasement looked rational in the 1930s",
+          "✅ Evidence in this file",
+          "⚠️ Why it failed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 595.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 321.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1526,
+      "markdown_body_line_end": 1529,
+      "heading": "9. Study link",
+      "preview": "**Study link:** World-History → `advanced/11_International-Relations-1919-39.md` for League and blame historiography (optional). **Study link:** World-History → `basic/12_Rise-of-Fascism-Italy-Germany-Japan.md` for the regimes driving revis",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 572.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 435.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1533,
+      "markdown_body_line_end": 1550,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FAILURE-OF-ORDER VERDICT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Failure-of-order verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 816
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 102.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2531,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** History (World History) · **Tier:** Advanced (debates + answer-writing) · **GS Paper:** GS-I **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapters 3-5, pp. 43-88; OCR lines used: 4072-4465, 4494-553",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 203.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 87.824
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2535,
+      "markdown_body_line_end": 2541,
+      "heading": "Mini-structure of the advanced debate",
+      "preview": "Issue | Lowe-grounded focus",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Issue",
+          "Lowe-grounded focus"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2555,
+      "markdown_body_line_end": 2558,
+      "heading": "2. Could the League of Nations have succeeded?",
+      "preview": "Verdict | Lowe-grounded support",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Verdict",
+          "Lowe-grounded support"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 455.69
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 366.288
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2585,
+      "markdown_body_line_end": 2590,
+      "heading": "4. Appeasement: what it meant and why it looked reasonable at the time",
+      "preview": "Why appeasement looked defensible | Why it failed in Lowe's account",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Why appeasement looked defensible",
+          "Why it failed in Lowe's account"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 659.49
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2644,
+      "markdown_body_line_end": 2644,
+      "heading": "8. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: Never write \"appeasement = foolishness\" without explaining why it seemed attractive to contemporaries. UPSC rewards contextual judgment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 649.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 605.024
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2679,
+      "markdown_body_line_end": 2681,
+      "heading": "10. Study link",
+      "preview": "**Study link:** World-History → `basic/11_International-Relations-1919-39.md` for the narrative sequence. **Study link:** World-History → `advanced/12_Rise-of-Fascism-Italy-Germany-Japan.md` for the domestic roots of revisionist aggression.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2689,
+      "markdown_body_line_end": 2697,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: League promise and machinery",
+      "preview": "AIM -> collective security and cooperation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 605.824
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 523.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2701,
+      "markdown_body_line_end": 2706,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: League's mixed record",
+      "preview": "SUCCESS -> Aaland, Saar, Mosul and social work",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 501.424
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 449.624
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2710,
+      "markdown_body_line_end": 2715,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 1920s recovery ladder",
+      "preview": "1921-22 -> Washington naval easing",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 427.624
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 375.824
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2724,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Locarno's geographic flaw",
+      "preview": "WEST -> German frontiers guaranteed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 353.824
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 302.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2728,
+      "markdown_body_line_end": 2733,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Depression transmission",
+      "preview": "US CREDIT WITHDRAWS -> German recovery contracts",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2737,
+      "markdown_body_line_end": 2742,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: League-breaking crises",
+      "preview": "1931 -> Manchuria establishes impunity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2746,
+      "markdown_body_line_end": 2751,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Aggressor-learning mechanism",
+      "preview": "ACTION -> treaty or frontier challenged",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2755,
+      "markdown_body_line_end": 2760,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: 1938 concession sequence",
+      "preview": "ANSCHLUSS -> Austria absorbed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2764,
+      "markdown_body_line_end": 2769,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Appeasement on its own terms",
+      "preview": "RATIONALE -> war memory and incomplete rearmament",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2773,
+      "markdown_body_line_end": 2781,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Road to Poland",
+      "preview": "PRAGUE -> appeasement rationale collapses",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 335.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2785,
+      "markdown_body_line_end": 2793,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Design versus choice",
+      "preview": "DESIGN -> unanimity, no army, incomplete membership",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 313.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 231.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2797,
+      "markdown_body_line_end": 2802,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Interwar answer spine",
+      "preview": "PROMISE -> League and collective security",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

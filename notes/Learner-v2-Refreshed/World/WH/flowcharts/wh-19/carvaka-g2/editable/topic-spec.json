@@ -1,0 +1,1080 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-19",
+  "subject": "World-History",
+  "title": "LATIN AMERICA (20TH CENTURY)",
+  "short_route": "INFORMAL EMPIRE MECHANISM → INSTABILITY STRUCTURE → REVOLUTION AND INTERVENTION → WHY CUBA DIFFERED → REGIONAL DIVERSITY → ECONOMIC STRATEGY ARC",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-19-deep-review-2026-09-01-g2.json",
+  "ascii_spec_sha256": "2f380c579c87f436197ffe62760d9b3d2f7b6ca2a1925a7421cf7c36d81c2ab6",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INFORMAL EMPIRE MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INFORMAL EMPIRE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "US STRATEGIC WEIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERVENTION CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMERCIAL/FINANCIAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "POLICY LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC ELITES",
+          "role": "outcome"
+        },
+        {
+          "text": "SEEK EXTERNAL BACKING",
+          "role": "comparison"
+        },
+        {
+          "text": "SOVEREIGNTY REAL BUT CONSTRAINED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "US STRATEGIC WEIGHT → intervention capacity",
+        "COMMERCIAL/FINANCIAL POWER → policy limits",
+        "DOMESTIC ELITES → seek external backing",
+        "RESULT → sovereignty real but constrained",
+        "MUST REMEMBER: Twentieth-century US power in Latin America usually operated as informal strategic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "US STRATEGIC WEIGHT → intervention capacity",
+            "COMMERCIAL/FINANCIAL POWER → policy limits"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DOMESTIC ELITES → seek external backing",
+            "RESULT → sovereignty real but constrained"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Twentieth-century US power in Latin America usually operated as informal strategic,",
+            "commercial, financial and political leverage interacting with domestic elites, armies and reform movements."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Twentieth-century US power in Latin America usually operated as informal strategic, commercial, financial and political leverage interacting with domestic elites, armies and reform movements.",
+      "source_references": [
+        "Informal empire and constrained sovereignty",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INSTABILITY STRUCTURE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSTABILITY STRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "OLIGARCHIC POLITICAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMMODITY PRICE VULNERABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "REPEATED POLITICAL ARBITRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTSIDE LENDERS NARROW POLICY CHOICE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LAND → oligarchic political power",
+        "EXPORTS → commodity price vulnerability",
+        "ARMY → repeated political arbitration",
+        "DEBT → outside lenders narrow policy choice"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LAND → oligarchic political power",
+            "EXPORTS → commodity price vulnerability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARMY → repeated political arbitration",
+            "DEBT → outside lenders narrow policy choice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LAND → oligarchic political power",
+            "EXPORTS → commodity price vulnerability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARMY → repeated political arbitration; DEBT → outside lenders narrow policy choice.",
+      "source_references": [
+        "Land, exports and military politics",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "REVOLUTION AND INTERVENTION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "REVOLUTION AND INTERVENTION",
+          "role": "primary"
+        },
+        {
+          "text": "GUATEMALAN REFORM OVERTURNED",
+          "role": "outcome"
+        },
+        {
+          "text": "CUBAN REVOLUTION SUCCEEDS",
+          "role": "comparison"
+        },
+        {
+          "text": "MISSILE CRISIS GLOBALISES CUBA",
+          "role": "evidence"
+        },
+        {
+          "text": "SANDINISTAS TAKE POWER IN NICARAGUA",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "1954 → Guatemalan reform overturned",
+        "1959 → Cuban Revolution succeeds",
+        "1962 → missile crisis globalises Cuba",
+        "1979 → Sandinistas take power in Nicaragua"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1954 → Guatemalan reform overturned",
+            "1959 → Cuban Revolution succeeds"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1962 → missile crisis globalises Cuba",
+            "1979 → Sandinistas take power in Nicaragua"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1954 → Guatemalan reform overturned",
+            "1959 → Cuban Revolution succeeds"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1962 → missile crisis globalises Cuba; 1979 → Sandinistas take power in Nicaragua.",
+      "source_references": [
+        "Guatemala and intervention",
+        "Cuba and surviving revolution",
+        "Nicaragua and counter-revolution",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "WHY CUBA DIFFERED",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHY CUBA DIFFERED",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM REVERSED",
+          "role": "outcome"
+        },
+        {
+          "text": "REVOLUTION FACES COUNTER-PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "REVOLUTION SURVIVES",
+          "role": "evidence"
+        },
+        {
+          "text": "SOVIET ALIGNMENT REPLACES ISOLATED AUTONOMY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GUATEMALA → reform reversed",
+        "NICARAGUA → revolution faces counter-pressure",
+        "CUBA → revolution survives",
+        "PRICE → Soviet alignment replaces isolated autonomy"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GUATEMALA → reform reversed",
+          "CUBA → revolution survives",
+          "GUATEMALA → reform reversed"
+        ],
+        [
+          "NICARAGUA → revolution faces counter-pressure",
+          "PRICE → Soviet alignment replaces isolated autonomy",
+          "NICARAGUA → revolution faces counter-pressure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GUATEMALA → reform reversed",
+            "NICARAGUA → revolution faces counter-pressure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CUBA → revolution survives",
+            "PRICE → Soviet alignment replaces isolated autonomy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GUATEMALA → reform reversed",
+            "NICARAGUA → revolution faces counter-pressure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CUBA → revolution survives; PRICE → Soviet alignment replaces isolated autonomy.",
+      "source_references": [
+        "Cuba and surviving revolution",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "REGIONAL DIVERSITY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGIONAL DIVERSITY",
+          "role": "primary"
+        },
+        {
+          "text": "INDUSTRIAL GROWTH PLUS INEQUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "REVOLUTION PLUS LONG PRI DOMINANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "OIL WEALTH PLUS INSTABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DURABLE ANTI-US REVOLUTIONARY STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "BRAZIL → industrial growth plus inequality",
+        "MEXICO → revolution plus long PRI dominance",
+        "VENEZUELA → oil wealth plus instability",
+        "CUBA → durable anti-US revolutionary state"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BRAZIL → industrial growth plus inequality",
+          "VENEZUELA → oil wealth plus instability",
+          "BRAZIL → industrial growth plus inequality"
+        ],
+        [
+          "MEXICO → revolution plus long PRI dominance",
+          "CUBA → durable anti-US revolutionary state",
+          "MEXICO → revolution plus long PRI dominance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BRAZIL → industrial growth plus inequality",
+            "MEXICO → revolution plus long PRI dominance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VENEZUELA → oil wealth plus instability",
+            "CUBA → durable anti-US revolutionary state"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRAZIL → industrial growth plus inequality",
+            "MEXICO → revolution plus long PRI dominance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VENEZUELA → oil wealth plus instability; CUBA → durable anti-US revolutionary state.",
+      "source_references": [
+        "Mexico: revolution institutionalised",
+        "Brazilian development without equality",
+        "Venezuela's oil and populism",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ECONOMIC STRATEGY ARC",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ECONOMIC STRATEGY ARC",
+          "role": "primary"
+        },
+        {
+          "text": "COMMODITY EXPORTS",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNAL SHOCK EXPOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTECTED DOMESTIC INDUSTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPORT/FISCAL LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL BORROWING",
+          "role": "outcome"
+        },
+        {
+          "text": "DEBT CRISIS",
+          "role": "comparison"
+        },
+        {
+          "text": "AUSTERITY AND LIBERALISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMODITY EXPORTS → external shock exposure",
+        "ISI → protected domestic industry",
+        "IMPORT/FISCAL LIMITS → external borrowing",
+        "DEBT CRISIS → austerity and liberalisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMODITY EXPORTS → external shock exposure",
+            "ISI → protected domestic industry"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IMPORT/FISCAL LIMITS → external borrowing",
+            "DEBT CRISIS → austerity and liberalisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMODITY EXPORTS → external shock exposure",
+            "ISI → protected domestic industry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMPORT/FISCAL LIMITS → external borrowing; DEBT CRISIS → austerity and liberalisation.",
+      "source_references": [
+        "ISI's purpose",
+        "Why ISI reached limits",
+        "Debt crisis and austerity",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ISI BALANCE SHEET",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ISI BALANCE SHEET",
+          "role": "primary"
+        },
+        {
+          "text": "REPLACE IMPORTED MANUFACTURES",
+          "role": "outcome"
+        },
+        {
+          "text": "TARIFFS, LICENSING AND STATE INVESTMENT",
+          "role": "institution"
+        },
+        {
+          "text": "INDUSTRIAL DIVERSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SMALL MARKETS AND CAPITAL-GOODS IMPORTS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GOAL → replace imported manufactures",
+        "TOOLS → tariffs, licensing and state investment",
+        "GAIN → industrial diversification",
+        "LIMIT → small markets and capital-goods imports"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GOAL → replace imported manufactures",
+          "GAIN → industrial diversification",
+          "GOAL → replace imported manufactures"
+        ],
+        [
+          "TOOLS → tariffs, licensing and state investment",
+          "LIMIT → small markets and capital-goods imports",
+          "TOOLS → tariffs, licensing and state investment"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GOAL → replace imported manufactures",
+            "TOOLS → tariffs, licensing and state investment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GAIN → industrial diversification",
+            "LIMIT → small markets and capital-goods imports"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GOAL → replace imported manufactures",
+            "TOOLS → tariffs, licensing and state investment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GAIN → industrial diversification; LIMIT → small markets and capital-goods imports.",
+      "source_references": [
+        "ISI's purpose",
+        "Why ISI reached limits",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DEBT-TO-SOCIETY CHAIN",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DEBT-TO-SOCIETY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "INTEREST COMPOUNDS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEBT SERVICE GROWS",
+          "role": "comparison"
+        },
+        {
+          "text": "CREDITOR CONDITIONS EXPAND",
+          "role": "evidence"
+        },
+        {
+          "text": "JOBS AND SERVICES CONTRACT",
+          "role": "primary"
+        },
+        {
+          "text": "DEVELOPMENTAL STATE WEAKENS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "INTEREST COMPOUNDS → debt service grows",
+        "RESCHEDULING → creditor conditions expand",
+        "AUSTERITY → jobs and services contract",
+        "LEGITIMACY → developmental state weakens"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTEREST COMPOUNDS → debt service grows",
+            "RESCHEDULING → creditor conditions expand"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUSTERITY → jobs and services contract",
+            "LEGITIMACY → developmental state weakens"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INTEREST COMPOUNDS → debt service grows",
+            "RESCHEDULING → creditor conditions expand"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUSTERITY → jobs and services contract; LEGITIMACY → developmental state weakens.",
+      "source_references": [
+        "Debt crisis and austerity",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BOUNDED DEBT EVIDENCE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BOUNDED DEBT EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "MEXICO 1982",
+          "role": "outcome"
+        },
+        {
+          "text": "IMF AND DEBT RESCHEDULING",
+          "role": "comparison"
+        },
+        {
+          "text": "$96 BILLION",
+          "role": "evidence"
+        },
+        {
+          "text": "OWNER-BOUNDED OVERSEAS DEBT",
+          "role": "primary"
+        },
+        {
+          "text": "INFLATION AROUND 900 PER CENT",
+          "role": "outcome"
+        },
+        {
+          "text": "FIGURES ILLUSTRATE CASES, NOT THE REGION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MEXICO 1982 → IMF and debt rescheduling",
+        "$96 BILLION → owner-bounded overseas debt",
+        "ARGENTINA → inflation around 900 per cent",
+        "RULE → figures illustrate cases, not the region"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MEXICO 1982 → IMF and debt rescheduling",
+          "ARGENTINA → inflation around 900 per cent",
+          "MEXICO 1982 → IMF and debt rescheduling"
+        ],
+        [
+          "$96 BILLION → owner-bounded overseas debt",
+          "RULE → figures illustrate cases, not the region",
+          "$96 BILLION → owner-bounded overseas debt"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MEXICO 1982 → IMF and debt rescheduling",
+            "$96 BILLION → owner-bounded overseas debt"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARGENTINA → inflation around 900 per cent",
+            "RULE → figures illustrate cases, not the region"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MEXICO 1982 → IMF and debt rescheduling",
+            "$96 BILLION → owner-bounded overseas debt"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → figures illustrate cases, not the region.",
+      "source_references": [
+        "Mexico and Argentina evidence",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "US INFLUENCE TOOLKIT",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "US INFLUENCE TOOLKIT",
+          "role": "primary"
+        },
+        {
+          "text": "GUATEMALA AND NICARAGUA",
+          "role": "outcome"
+        },
+        {
+          "text": "CUBA CONTAINED",
+          "role": "comparison"
+        },
+        {
+          "text": "DEBT CONDITIONALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMERCIAL AND STRATEGIC PREDOMINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MEXICO, GUATEMALA, CUBA, NICARAGUA, BRAZIL AND VENEZUELA FOLLOWED DIFFERENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COVERT/PROXY → Guatemala and Nicaragua",
+        "HOSTILITY → Cuba contained",
+        "FINANCE → debt conditionality",
+        "STRUCTURE → commercial and strategic predominance",
+        "CLOSE DISTINCTION: Mexico, Guatemala, Cuba, Nicaragua, Brazil and Venezuela followed different paths"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COVERT/PROXY → Guatemala and Nicaragua",
+            "HOSTILITY → Cuba contained"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FINANCE → debt conditionality",
+            "STRUCTURE → commercial and strategic predominance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Mexico, Guatemala, Cuba, Nicaragua, Brazil and Venezuela followed different paths",
+            "revolution, coup, authoritarian development and populism cannot be collapsed into one regional cycle."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Mexico, Guatemala, Cuba, Nicaragua, Brazil and Venezuela followed different paths; revolution, coup, authoritarian development and populism cannot be collapsed into one regional cycle.",
+      "source_references": [
+        "Four instruments of US influence",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EXTERNAL AND INTERNAL LOOP",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EXTERNAL AND INTERNAL LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "ELITES RESIST REFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "SEEK OUTSIDE PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "INEQUALITY PRESERVED",
+          "role": "evidence"
+        },
+        {
+          "text": "NEW MOVEMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "CHALLENGE THE SAME ORDER",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "COMMODITY DEPENDENCE, ISI, BORROWING, THE 1980S DEBT CRISIS AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INEQUALITY → elites resist reform",
+        "ELITES → seek outside protection",
+        "INTERVENTION → inequality preserved",
+        "NEW MOVEMENTS → challenge the same order",
+        "EVIDENCE LIMIT: Commodity dependence, ISI, borrowing, the 1980s debt crisis and liberalisation form"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INEQUALITY → elites resist reform",
+            "ELITES → seek outside protection"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTERVENTION → inequality preserved",
+            "NEW MOVEMENTS → challenge the same order"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Commodity dependence, ISI, borrowing, the 1980s debt crisis and liberalisation form",
+            "a political-economy sequence whose numerical examples must remain country-, year- and source-bounded."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Commodity dependence, ISI, borrowing, the 1980s debt crisis and liberalisation form a political-economy sequence whose numerical examples must remain country-, year- and source-bounded.",
+      "source_references": [
+        "Dependency and final verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "LATIN AMERICA ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "LATIN AMERICA ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "LAND, EXPORTS, ARMIES AND US INFLUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MEXICO, GUATEMALA, CUBA AND NICARAGUA",
+          "role": "comparison"
+        },
+        {
+          "text": "ISI, DEBT AND LIBERALISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTRAINED SOVEREIGNTY WITH PERSISTENT AGENCY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STRUCTURE → land, exports, armies and US influence",
+        "CASES → Mexico, Guatemala, Cuba and Nicaragua",
+        "ECONOMY → ISI, debt and liberalisation",
+        "VERDICT → constrained sovereignty with persistent agency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRUCTURE → land, exports, armies and US influence",
+            "CASES → Mexico, Guatemala, Cuba and Nicaragua"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ECONOMY → ISI, debt and liberalisation",
+            "VERDICT → constrained sovereignty with persistent agency"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURE → land, exports, armies and US influence",
+            "CASES → Mexico, Guatemala, Cuba and Nicaragua"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STRUCTURE → land, exports, armies and US influence.",
+      "source_references": [
+        "Dependency and final verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FOR UPSC, LATIN AMERICA IS BEST DESCRIBED NOT AS",
+          "role": "caution"
+        },
+        {
+          "text": "A REGION OFTEN CONSTRAINED BY INFORMAL US HEGEMONY",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWE'S CHAPTER REPEATEDLY TIES POLITICS TO THE INTERACTION OF",
+          "role": "evidence"
+        },
+        {
+          "text": "LOWE ALREADY SHOWS THAT US DOMINATION DID NOT GO",
+          "role": "caution"
+        },
+        {
+          "text": "IN LONG-RUN PERSPECTIVE, LATER LEFT TURNS IN THE REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "ON OLD FRUSTRATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPENDENCY, INEQUALITY, DEBT AND RESENTMENT OF OUTSIDE INTERVENTION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: For UPSC, Latin America is best described not as a classic twentieth-century colony but as",
+            "a region often constrained by informal US hegemony , unequal trade structures and domestic oligarchies.",
+            "Lowe's chapter repeatedly ties politics to the interaction of foreign influence + local social inequality + unstable institutions .",
+            "Lowe already shows that US domination did not go unchallenged."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: In long-run perspective, later left turns in the region were built",
+            "on old frustrations: dependency, inequality, debt and resentment of outside intervention.",
+            "13 May 2025: the Fourth Ministerial Meeting of the China-CELAC Forum in Beijing adopted the Beijing Declaration and",
+            "the China-CELAC Joint Action Plan for Cooperation in Key Areas (2025-2027), according to China's Ministry of Foreign Affairs."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Exam use: this is a modern echo of Lowe's theme that US influence in the region has repeatedly been contested rather than passively accepted.",
+            "CAUTION: Source caution: the document confirms the meeting and agreed framework",
+            "it does not by itself prove that every announced project has been implemented or that US influence has been displaced.",
+            "The Cuban Revolution (1959, Fidel Castro) is Lowe's key case of a Latin American state successfully breaking from US-aligned dominance."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

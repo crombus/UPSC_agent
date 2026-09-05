@@ -1,0 +1,596 @@
+{
+  "artifact": "Notions of God - Philosophy Paper II - continuous at-a-glance master flow",
+  "generation": "philosophy-paper-ii-philosophy-of-religion-01:continuous-at-a-glance-core-first:g6",
+  "approved": false,
+  "generated_date": "2026-08-22",
+  "content_owners": [
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Notions-of-God.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\Notions-of-God_Uncompressed-Complete-Learning-Session_2026-08-22.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\Notions-of-God_Solved-Practice-Workbook_2026-08-22.md"
+  ],
+  "design_references_read_only": [
+    {
+      "name": "approved_carvaka",
+      "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first"
+    },
+    {
+      "name": "polity_g9_design_intelligence",
+      "folder": "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-carvaka-standard-g9"
+    },
+    {
+      "name": "notions_g5_anti_example",
+      "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5"
+    }
+  ],
+  "canvas": {
+    "width_px": 4800,
+    "height_px": 22079,
+    "dpi": 300,
+    "rail": {
+      "colour": [
+        68,
+        211,
+        255
+      ],
+      "x_px": 250,
+      "continuous_through_all_stages": true
+    },
+    "font_family": "Segoe UI / Segoe UI Bold",
+    "source_text_encoding": "ASCII"
+  },
+  "stage_count": 10,
+  "stages": [
+    {
+      "n": "01",
+      "title": "CONCEPTUAL GRAMMAR - TWO INDEPENDENT AXES, THEN LANGUAGE CONTROL",
+      "grammar": "2x2 axes + dual spectra + cataphatic/apophatic control bands",
+      "height_px": 1760,
+      "pills": [
+        "PERSONAL != BODILY",
+        "IMPERSONAL != INERT",
+        "TRANSCENDENT != SPATIALLY FAR",
+        "IMMANENT != IDENTICAL",
+        "CATAPHATIC = AFFIRM",
+        "APOPHATIC = REMOVE LIMITS"
+      ],
+      "required_terms": [
+        "personal",
+        "impersonal",
+        "transcendent",
+        "immanent",
+        "cataphatic",
+        "apophatic",
+        "neti neti"
+      ],
+      "bounds": {
+        "n": "01",
+        "title": "CONCEPTUAL GRAMMAR - TWO INDEPENDENT AXES, THEN LANGUAGE CONTROL",
+        "grammar": "2x2 axes + dual spectra + cataphatic/apophatic control bands",
+        "y0": 652,
+        "y1": 2412,
+        "body_top": 825,
+        "body_bottom": 2064
+      }
+    },
+    {
+      "n": "02",
+      "title": "WESTERN MODEL FAMILY - FIVE DECISIVE GOD-WORLD-HUMAN RELATIONS",
+      "grammar": "five-model relation strip + formula rail + strength/pressure comparison",
+      "height_px": 1810,
+      "pills": [
+        "THEISM = CREATES + SUSTAINS",
+        "DEISM = CREATES + WITHDRAWS",
+        "PANTHEISM = IDENTITY",
+        "PANENTHEISM = WORLD IN GOD",
+        "PROCESS = DIPOLAR",
+        "RELATION BEFORE LABEL"
+      ],
+      "required_terms": [
+        "classical theism",
+        "deism",
+        "pantheism",
+        "panentheism",
+        "process",
+        "dipolar",
+        "creation ex nihilo"
+      ],
+      "bounds": {
+        "n": "02",
+        "title": "WESTERN MODEL FAMILY - FIVE DECISIVE GOD-WORLD-HUMAN RELATIONS",
+        "grammar": "five-model relation strip + formula rail + strength/pressure comparison",
+        "y0": 2470,
+        "y1": 4280,
+        "body_top": 2643,
+        "body_bottom": 3932
+      }
+    },
+    {
+      "n": "03",
+      "title": "DIVINE ATTRIBUTES AND COHERENCE - A PACKAGE, NOT A LIST",
+      "grammar": "attribute wheel + coherence matrix + freedom/foreknowledge logic trap",
+      "height_px": 2120,
+      "pills": [
+        "OMNIPOTENCE = MAXIMAL COHERENT POWER",
+        "OMNISCIENCE = ALL TRUTHS",
+        "OMNIBENEVOLENCE = PERFECT GOODNESS",
+        "ETERNITY != MERE LONGEVITY",
+        "SIMPLICITY != EASY",
+        "ASEITY = NON-DEPENDENCE"
+      ],
+      "required_terms": [
+        "omnipotence",
+        "omniscience",
+        "omnibenevolence",
+        "eternity",
+        "immutability",
+        "simplicity",
+        "aseity",
+        "foreknowledge",
+        "freedom",
+        "logically possible"
+      ],
+      "bounds": {
+        "n": "03",
+        "title": "DIVINE ATTRIBUTES AND COHERENCE - A PACKAGE, NOT A LIST",
+        "grammar": "attribute wheel + coherence matrix + freedom/foreknowledge logic trap",
+        "y0": 4338,
+        "y1": 6458,
+        "body_top": 4511,
+        "body_bottom": 6110
+      }
+    },
+    {
+      "n": "04",
+      "title": "SPINOZA - DEUS SIVE NATURA INSIDE THE METAPHYSICS OF SUBSTANCE",
+      "grammar": "substance tree + natura relation + necessity/freedom dialectic",
+      "height_px": 1840,
+      "pills": [
+        "DEUS SIVE NATURA",
+        "ONE INFINITE SUBSTANCE",
+        "IN ITSELF / CONCEIVED THROUGH ITSELF",
+        "INFINITE ATTRIBUTES",
+        "THOUGHT + EXTENSION",
+        "FINITE MODES",
+        "IMPERSONAL IMMANENCE",
+        "NECESSITY"
+      ],
+      "required_terms": [
+        "Deus sive Natura",
+        "one infinite substance",
+        "attributes",
+        "modes",
+        "Thought",
+        "Extension",
+        "necessity",
+        "impersonal immanence",
+        "Natura naturans",
+        "Natura naturata"
+      ],
+      "bounds": {
+        "n": "04",
+        "title": "SPINOZA - DEUS SIVE NATURA INSIDE THE METAPHYSICS OF SUBSTANCE",
+        "grammar": "substance tree + natura relation + necessity/freedom dialectic",
+        "y0": 6516,
+        "y1": 8356,
+        "body_top": 6689,
+        "body_bottom": 8008
+      }
+    },
+    {
+      "n": "05",
+      "title": "ADVAITA - ONE BRAHMAN, TWO STANDPOINTS, THREE LEVELS OF REALITY",
+      "grammar": "two-level diagram + three-level ladder + rope-snake vivarta flow",
+      "height_px": 2140,
+      "pills": [
+        "NIRGUNA BRAHMAN",
+        "SAGUNA ISVARA",
+        "SAT-CIT-ANANDA",
+        "MAYA + ADHYASA",
+        "VIVARTA != PARINAMA",
+        "ATMAN = BRAHMAN",
+        "ANIRVACANIYA: MAYA, NOT BRAHMAN"
+      ],
+      "required_terms": [
+        "Nirguna Brahman",
+        "Saguna Isvara",
+        "sat-cit-ananda",
+        "maya",
+        "vivarta",
+        "two standpoints",
+        "Atman-Brahman identity",
+        "anirvacaniya",
+        "mithya",
+        "three levels"
+      ],
+      "bounds": {
+        "n": "05",
+        "title": "ADVAITA - ONE BRAHMAN, TWO STANDPOINTS, THREE LEVELS OF REALITY",
+        "grammar": "two-level diagram + three-level ladder + rope-snake vivarta flow",
+        "y0": 8414,
+        "y1": 10554,
+        "body_top": 8587,
+        "body_bottom": 10206
+      }
+    },
+    {
+      "n": "06",
+      "title": "VISISTADVAITA / RAMANUJA - ORGANIC UNITY OF GOD, SELVES AND WORLD",
+      "grammar": "body-soul nested relation + cause cycle + devotion path + defect dialectic",
+      "height_px": 2180,
+      "pills": [
+        "PERSONAL SAGUNA BRAHMAN",
+        "CIT + ACIT = GOD'S BODY",
+        "SARIRA-SARIRI",
+        "APRTHAK-SIDDHI",
+        "MATERIAL + EFFICIENT CAUSE",
+        "PARINAMA / REAL MANIFESTATION",
+        "BHAKTI + PRAPATTI"
+      ],
+      "required_terms": [
+        "Visistadvaita",
+        "Ramanuja",
+        "personal saguna Brahman",
+        "cit",
+        "acit",
+        "sarira-sariri",
+        "aprthak-siddhi",
+        "material cause",
+        "efficient cause",
+        "parinama",
+        "bhakti",
+        "prapatti",
+        "defect objection"
+      ],
+      "bounds": {
+        "n": "06",
+        "title": "VISISTADVAITA / RAMANUJA - ORGANIC UNITY OF GOD, SELVES AND WORLD",
+        "grammar": "body-soul nested relation + cause cycle + devotion path + defect dialectic",
+        "y0": 10612,
+        "y1": 12792,
+        "body_top": 10785,
+        "body_bottom": 12444
+      }
+    },
+    {
+      "n": "07",
+      "title": "INDIAN PARITY BENCH - NYAYA CAUSATION + HINDU DIVINE PLURALITY",
+      "grammar": "Nyaya efficient/material split + karma circuit + taxonomy ladder + Vedic verdict",
+      "height_px": 2240,
+      "pills": [
+        "NYAYA = PLURALIST REALISM",
+        "ISVARA = SPECIAL SELF",
+        "GOD EFFICIENT; ATOMS MATERIAL",
+        "ADRISTA + MORAL GOVERNANCE",
+        "POLYTHEISM != HENOTHEISM",
+        "KATHENOTHEISM = ONE-AT-A-TIME",
+        "MONISM != MONOTHEISM"
+      ],
+      "required_terms": [
+        "Nyaya Isvara",
+        "efficient cause",
+        "atoms material causes",
+        "adrista",
+        "moral governance",
+        "polytheism",
+        "henotheism",
+        "kathenotheism",
+        "sectarian monotheism",
+        "monism",
+        "RV 1.164.46",
+        "ekam sad vipra bahudha vadanti",
+        "qualified verdict"
+      ],
+      "bounds": {
+        "n": "07",
+        "title": "INDIAN PARITY BENCH - NYAYA CAUSATION + HINDU DIVINE PLURALITY",
+        "grammar": "Nyaya efficient/material split + karma circuit + taxonomy ladder + Vedic verdict",
+        "y0": 12850,
+        "y1": 15090,
+        "body_top": 13023,
+        "body_bottom": 14742
+      }
+    },
+    {
+      "n": "08",
+      "title": "COMPARATIVE GOD-WORLD-HUMAN RELATION MATRIX - SIX NON-EQUIVALENT GRAMMARS",
+      "grammar": "six-system comparison matrix + relation formula ledger + physical-cause criterion",
+      "height_px": 2290,
+      "pills": [
+        "CREATION != IDENTITY",
+        "IDENTITY != EMBODIMENT",
+        "EMBODIMENT != APPEARANCE",
+        "APPEARANCE != ATOMIC ORDERING",
+        "SAME AXES FOR EVERY MODEL",
+        "NATURE + WORLD + HUMAN + CAUSE"
+      ],
+      "required_terms": [
+        "Classical theism",
+        "deism",
+        "Spinoza",
+        "Advaita",
+        "Ramanuja",
+        "Nyaya",
+        "God-world-human relation matrix",
+        "physical manifestation"
+      ],
+      "bounds": {
+        "n": "08",
+        "title": "COMPARATIVE GOD-WORLD-HUMAN RELATION MATRIX - SIX NON-EQUIVALENT GRAMMARS",
+        "grammar": "six-system comparison matrix + relation formula ledger + physical-cause criterion",
+        "y0": 15148,
+        "y1": 17438,
+        "body_top": 15321,
+        "body_bottom": 17090
+      }
+    },
+    {
+      "n": "09",
+      "title": "OBJECTIONS, STRONGEST REPLIES AND EXAMINER TRAPS",
+      "grammar": "objection-reply-residual bands + physical manifestation test + trap grid",
+      "height_px": 2240,
+      "pills": [
+        "STATE THE TARGET PREMISE",
+        "LOGICAL POSSIBILITY TRAP",
+        "REPLY AT THE SAME LEVEL",
+        "KEEP THE RESIDUAL COST",
+        "KNOWLEDGE != CAUSATION",
+        "BODY != PHYSICAL FORM",
+        "MITHYA != NON-BEING",
+        "MODE != WHOLE SUBSTANCE"
+      ],
+      "required_terms": [
+        "logical possibility trap",
+        "freedom and foreknowledge",
+        "Spinoza objection",
+        "Advaita objection",
+        "Ramanuja defect objection",
+        "Nyaya redundancy",
+        "physical manifestation",
+        "examiner traps"
+      ],
+      "bounds": {
+        "n": "09",
+        "title": "OBJECTIONS, STRONGEST REPLIES AND EXAMINER TRAPS",
+        "grammar": "objection-reply-residual bands + physical manifestation test + trap grid",
+        "y0": 17496,
+        "y1": 19736,
+        "body_top": 17669,
+        "body_bottom": 19388
+      }
+    },
+    {
+      "n": "10",
+      "title": "PYQ ROUTING, ANSWER SPINES AND MODEL PHILOSOPHICAL CONCLUSION",
+      "grammar": "verified PYQ route matrix + marks-wise answer spine + directive strip + conclusion",
+      "height_px": 2200,
+      "pills": [
+        "13 VERIFIED OWNER PYQS: 2018-2024",
+        "DEFINE BEFORE EVALUATING",
+        "CONSTANT COMPARISON AXES",
+        "OBJECTION -> REPLY -> RESIDUAL",
+        "10 / 15 / 20 MARK SPINES",
+        "DIRECTIVE FIDELITY",
+        "GRADED VERDICT"
+      ],
+      "required_terms": [
+        "personalistic vs impersonalistic",
+        "immanent and transcendent",
+        "Spinoza",
+        "Ramanuja God-self relation",
+        "physical manifestation as ultimate cause",
+        "Hinduism poly-theistic",
+        "freedom of will and omnipotent God",
+        "Nyaya nature of God",
+        "answer spine",
+        "model philosophical conclusion"
+      ],
+      "bounds": {
+        "n": "10",
+        "title": "PYQ ROUTING, ANSWER SPINES AND MODEL PHILOSOPHICAL CONCLUSION",
+        "grammar": "verified PYQ route matrix + marks-wise answer spine + directive strip + conclusion",
+        "y0": 19794,
+        "y1": 21994,
+        "body_top": 19967,
+        "body_bottom": 21646
+      }
+    }
+  ],
+  "must_show_terms": [
+    "personal",
+    "impersonal",
+    "transcendent",
+    "immanent",
+    "cataphatic",
+    "apophatic",
+    "classical theism",
+    "deism",
+    "pantheism",
+    "panentheism",
+    "process",
+    "dipolar",
+    "omnipotence",
+    "omniscience",
+    "omnibenevolence",
+    "eternity",
+    "immutability",
+    "simplicity",
+    "aseity",
+    "freedom",
+    "foreknowledge",
+    "logically possible",
+    "Deus sive Natura",
+    "one infinite substance",
+    "attributes",
+    "modes",
+    "Thought",
+    "Extension",
+    "necessity",
+    "impersonal immanence",
+    "Nirguna Brahman",
+    "Saguna Isvara",
+    "sat-cit-ananda",
+    "maya",
+    "vivarta",
+    "Atman-Brahman identity",
+    "anirvacaniya",
+    "personal saguna Brahman",
+    "cit",
+    "acit",
+    "sarira-sariri",
+    "aprthak-siddhi",
+    "material cause",
+    "efficient cause",
+    "parinama",
+    "bhakti",
+    "prapatti",
+    "Nyaya Isvara",
+    "atoms material causes",
+    "adrista",
+    "moral governance",
+    "polytheism",
+    "henotheism",
+    "kathenotheism",
+    "sectarian monotheism",
+    "monism",
+    "RV 1.164.46",
+    "ekam sad vipra bahudha vadanti",
+    "Classical theism",
+    "Spinoza",
+    "Advaita",
+    "Ramanuja",
+    "Nyaya",
+    "physical manifestation",
+    "personalistic",
+    "immanent and transcendent",
+    "God-self",
+    "ultimate cause",
+    "freedom of will",
+    "omnipotent God",
+    "model philosophical conclusion"
+  ],
+  "outputs": {
+    "master_png": "Notions-of-God_Continuous-At-a-Glance_g6_Master.png",
+    "poster_pdf": "Notions-of-God_Continuous-At-a-Glance_g6_Poster_2026-08-22.pdf",
+    "poster_points": [
+      2834.64,
+      13038.753449999998
+    ],
+    "poster_pages": 1,
+    "tiled_pdf": "Notions-of-God_Continuous-At-a-Glance_g6_Tiled_2026-08-22.pdf",
+    "tile_page_points": [
+      1190.55,
+      841.89
+    ],
+    "tile_count": 8,
+    "tile_crops": [
+      {
+        "tile": 1,
+        "box": [
+          0,
+          0,
+          4800,
+          3049
+        ],
+        "overlap_with_previous_px": 0,
+        "png_sha256": "627021db140d8fcbcd22b73016b87c3d4826405854199f64f9eda406a20e2bae"
+      },
+      {
+        "tile": 2,
+        "box": [
+          0,
+          2719,
+          4800,
+          5768
+        ],
+        "overlap_with_previous_px": 330,
+        "png_sha256": "93b204359b1961e3e50825bbb069c96c7d130ac9baf0bef797abea887f3d1b9c"
+      },
+      {
+        "tile": 3,
+        "box": [
+          0,
+          5437,
+          4800,
+          8486
+        ],
+        "overlap_with_previous_px": 331,
+        "png_sha256": "e93e0b20a330c33d1393a30865d43c242de84e711f42015af8832dec306d92ba"
+      },
+      {
+        "tile": 4,
+        "box": [
+          0,
+          8156,
+          4800,
+          11205
+        ],
+        "overlap_with_previous_px": 330,
+        "png_sha256": "2541d19fdc6d64d3597e3ade815dd4d5ec743468fb323e00f447fe731065d567"
+      },
+      {
+        "tile": 5,
+        "box": [
+          0,
+          10874,
+          4800,
+          13923
+        ],
+        "overlap_with_previous_px": 331,
+        "png_sha256": "8a37a258f06fae09901b99383851ca3ea30caa055a4a8cd8e673056ff3692070"
+      },
+      {
+        "tile": 6,
+        "box": [
+          0,
+          13593,
+          4800,
+          16642
+        ],
+        "overlap_with_previous_px": 330,
+        "png_sha256": "2020957a634c59565880aa25144d10cb0de3ddf67d833fd739e0662e8d728d76"
+      },
+      {
+        "tile": 7,
+        "box": [
+          0,
+          16311,
+          4800,
+          19360
+        ],
+        "overlap_with_previous_px": 331,
+        "png_sha256": "115e5e99ee2bc8014dc2ba98f5d89498de46fd7d6ae9bb654e99fc6b1b435aa8"
+      },
+      {
+        "tile": 8,
+        "box": [
+          0,
+          19030,
+          4800,
+          22079
+        ],
+        "overlap_with_previous_px": 330,
+        "png_sha256": "f06654e349c772d841efd4d41adb3e8d89b0feaa249449f23ebdb141f376d907"
+      }
+    ],
+    "previews_folder": "previews"
+  },
+  "quality_intent": {
+    "core_before_pyq": "Stages 01-09 are doctrine; Stage 10 is PYQ/answer enrichment.",
+    "layout_diversity": [
+      "2x2 axes + dual spectra + cataphatic/apophatic control bands",
+      "five-model relation strip + formula rail + strength/pressure comparison",
+      "attribute wheel + coherence matrix + freedom/foreknowledge logic trap",
+      "substance tree + natura relation + necessity/freedom dialectic",
+      "two-level diagram + three-level ladder + rope-snake vivarta flow",
+      "body-soul nested relation + cause cycle + devotion path + defect dialectic",
+      "Nyaya efficient/material split + karma circuit + taxonomy ladder + Vedic verdict",
+      "six-system comparison matrix + relation formula ledger + physical-cause criterion",
+      "objection-reply-residual bands + physical manifestation test + trap grid",
+      "verified PYQ route matrix + marks-wise answer spine + directive strip + conclusion"
+    ],
+    "same_master_tiles": true,
+    "target_overlap_px": "250-400",
+    "answer_grabbing_lines": 10,
+    "approval_state": "false until explicit user approval"
+  }
+}

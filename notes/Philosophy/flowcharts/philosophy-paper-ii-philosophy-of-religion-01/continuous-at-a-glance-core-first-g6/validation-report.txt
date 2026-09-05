@@ -1,0 +1,140 @@
+================================================================================================================
+VALIDATION REPORT - PHILOSOPHY PAPER II / PHILOSOPHY OF RELIGION 01 / NOTIONS OF GOD
+CONTINUOUS AT-A-GLANCE CORE-FIRST - GENERATION g6
+================================================================================================================
+
+1. SOURCE AND REFERENCE PRESERVATION
+  [PASS] all recorded pre-existing source/reference files unchanged
+  [PASS] preservation mismatch list empty
+  [PASS] before and after manifests are byte-hash equivalent
+  [PASS] canonical_sources recorded - 3 files
+  [PASS] approved_carvaka recorded - 15 files
+  [PASS] polity_g9_design_intelligence recorded - 23 files
+  [PASS] notions_g5_anti_example recorded - 11 files
+  NOTE: canonical Markdown, approved Carvaka reference, Polity g9 and Notions g5 were read-only.
+
+2. MASTER CANVAS AND METADATA
+  [PASS] master width at least 4800 px - 4800
+  [PASS] master width matches design spec
+  [PASS] master height matches design spec - 22079
+  [PASS] master PNG has 300 DPI metadata - (299.9994, 299.9994)
+  [PASS] one continuous cyan rail declared
+  [PASS] rail colour is cyan - (68, 211, 255)
+  [PASS] no measured text overflow or stage-boundary overflow - 0
+
+3. STAGE ORDER, CORE-FIRST SEQUENCE AND LAYOUT DIVERSITY
+  [PASS] ten stages present in exact order - 01 02 03 04 05 06 07 08 09 10
+  [PASS] stage count is ten
+  [PASS] core stages 01-09 precede PYQ enrichment
+  [PASS] Stage 10 is PYQ/answer enrichment
+  [PASS] all ten stages use distinct visual grammars - 10/10
+  [PASS] stage cards do not overlap - 58 px gaps
+      Stage 01: CONCEPTUAL GRAMMAR - TWO INDEPENDENT AXES, THEN LANGUAGE CONTROL
+        visual grammar: 2x2 axes + dual spectra + cataphatic/apophatic control bands
+        bounds: y=652..2412 px
+      Stage 02: WESTERN MODEL FAMILY - FIVE DECISIVE GOD-WORLD-HUMAN RELATIONS
+        visual grammar: five-model relation strip + formula rail + strength/pressure comparison
+        bounds: y=2470..4280 px
+      Stage 03: DIVINE ATTRIBUTES AND COHERENCE - A PACKAGE, NOT A LIST
+        visual grammar: attribute wheel + coherence matrix + freedom/foreknowledge logic trap
+        bounds: y=4338..6458 px
+      Stage 04: SPINOZA - DEUS SIVE NATURA INSIDE THE METAPHYSICS OF SUBSTANCE
+        visual grammar: substance tree + natura relation + necessity/freedom dialectic
+        bounds: y=6516..8356 px
+      Stage 05: ADVAITA - ONE BRAHMAN, TWO STANDPOINTS, THREE LEVELS OF REALITY
+        visual grammar: two-level diagram + three-level ladder + rope-snake vivarta flow
+        bounds: y=8414..10554 px
+      Stage 06: VISISTADVAITA / RAMANUJA - ORGANIC UNITY OF GOD, SELVES AND WORLD
+        visual grammar: body-soul nested relation + cause cycle + devotion path + defect dialectic
+        bounds: y=10612..12792 px
+      Stage 07: INDIAN PARITY BENCH - NYAYA CAUSATION + HINDU DIVINE PLURALITY
+        visual grammar: Nyaya efficient/material split + karma circuit + taxonomy ladder + Vedic verdict
+        bounds: y=12850..15090 px
+      Stage 08: COMPARATIVE GOD-WORLD-HUMAN RELATION MATRIX - SIX NON-EQUIVALENT GRAMMARS
+        visual grammar: six-system comparison matrix + relation formula ledger + physical-cause criterion
+        bounds: y=15148..17438 px
+      Stage 09: OBJECTIONS, STRONGEST REPLIES AND EXAMINER TRAPS
+        visual grammar: objection-reply-residual bands + physical manifestation test + trap grid
+        bounds: y=17496..19736 px
+      Stage 10: PYQ ROUTING, ANSWER SPINES AND MODEL PHILOSOPHICAL CONCLUSION
+        visual grammar: verified PYQ route matrix + marks-wise answer spine + directive strip + conclusion
+        bounds: y=19794..21994 px
+
+4. SUBSTANTIVE STAGE COVERAGE
+  [PASS] Stage 01 required-term coverage - 7/7 present
+  [PASS] Stage 02 required-term coverage - 7/7 present
+  [PASS] Stage 03 required-term coverage - 10/10 present
+  [PASS] Stage 04 required-term coverage - 10/10 present
+  [PASS] Stage 05 required-term coverage - 10/10 present
+  [PASS] Stage 06 required-term coverage - 13/13 present
+  [PASS] Stage 07 required-term coverage - 13/13 present
+  [PASS] Stage 08 required-term coverage - 8/8 present
+  [PASS] Stage 09 required-term coverage - 8/8 present
+  [PASS] Stage 10 required-term coverage - 10/10 present
+  [PASS] global must-show term coverage - 71/71 present
+  [PASS] Advaita technical correction is explicit - anirvacaniya belongs to maya/world appearance, not Brahman
+  [PASS] verified high-value ask routed: personalistic and impersonalistic
+  [PASS] verified high-value ask routed: immanent and transcendent
+  [PASS] verified high-value ask routed: Spinoza
+  [PASS] verified high-value ask routed: Relation between God and Self according to Ramanuja
+  [PASS] verified high-value ask routed: physical manifestation
+  [PASS] verified high-value ask routed: Hinduism poly-theistic
+  [PASS] verified high-value ask routed: Freedom of will and an omnipotent God
+  [PASS] verified high-value ask routed: Nature of God in Nyaya
+
+5. POSTER PDF
+  [PASS] poster is one page - 1
+  [PASS] poster preserves full master aspect ratio - 39.37 x 181.09 in
+  [PASS] poster remains within PDF page limit
+  [PASS] poster renders successfully
+  [PASS] poster is not blank
+
+6. TILED PDF - SAME-MASTER IDENTITY AND OVERLAP
+  [PASS] tiled page count matches crop ledger - 8
+  [PASS] tiled pages are A3 landscape - 1190.6 x 841.9 pt
+      tile 01: master y=0..3049 px; overlap=0 px; pixel-identical
+      tile 02: master y=2719..5768 px; overlap=330 px; pixel-identical
+      tile 03: master y=5437..8486 px; overlap=331 px; pixel-identical
+      tile 04: master y=8156..11205 px; overlap=330 px; pixel-identical
+      tile 05: master y=10874..13923 px; overlap=331 px; pixel-identical
+      tile 06: master y=13593..16642 px; overlap=330 px; pixel-identical
+      tile 07: master y=16311..19360 px; overlap=331 px; pixel-identical
+      tile 08: master y=19030..22079 px; overlap=330 px; pixel-identical
+  [PASS] every tile image is a pixel-identical crop of the same master
+  [PASS] every vertical overlap is within 250-400 px - 330, 331, 330, 331, 330, 331, 330
+  [PASS] no blank tiled pages
+  [PASS] no duplicate tile crops
+
+7. PREVIEWS AND CONTACT SHEETS
+  [PASS] one preview per tiled page - 8
+  [PASS] contact sheet(s) generated - 2
+  [PASS] preview images are non-blank
+
+8. GLYPHS, CLIPPING AND CONTRAST
+  [PASS] all authored source text is ASCII
+  [PASS] no Unicode replacement character in source content
+  [PASS] selected body font supports every rendered source character - []
+  [PASS] stage-title contrast is high - 14.41:1
+  [PASS] body/secondary-text contrast is adequate - 7.95:1
+  [PASS] clipping/overflow audit remains empty
+  [PASS] stage overlap audit remains empty
+
+9. DELIVERABLE INVENTORY
+  [PASS] README.txt - 3.2 KB
+  [PASS] content_spec.py - 48.8 KB
+  [PASS] render_lib.py - 9.9 KB
+  [PASS] build_g6.py - 61.5 KB
+  [PASS] validate_g6.py - 12.1 KB
+  [PASS] design-spec.json - 17.8 KB
+  [PASS] build-audit.json - 5.8 KB
+  [PASS] preservation-hashes-before.json - 13.4 KB
+  [PASS] preservation-hashes-after.json - 13.5 KB
+  [PASS] Notions-of-God_Continuous-At-a-Glance_g6_Master.png - 2841.8 KB
+  [PASS] Notions-of-God_Continuous-At-a-Glance_g6_Poster_2026-08-22.pdf - 3363.0 KB
+  [PASS] Notions-of-God_Continuous-At-a-Glance_g6_Tiled_2026-08-22.pdf - 3686.2 KB
+
+================================================================================================================
+RESULT: ALL CHECKS PASSED
+Approval state: FALSE - explicit user approval still required.
+No canonical source, prior flowchart generation, reference, instruction file or export ledger was modified.
+================================================================================================================

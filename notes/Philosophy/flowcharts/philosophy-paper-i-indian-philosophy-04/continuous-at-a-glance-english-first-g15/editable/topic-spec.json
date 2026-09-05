@@ -1,0 +1,903 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-indian-philosophy-04",
+  "subject": "Philosophy",
+  "title": "NYAYA-VAISESIKA (NYĀYA–VAIŚEṢIKA)",
+  "short_route": "REALIST SYSTEM MAP → SIXTEEN NYĀYA TOPICS VERSUS → SEVEN CATEGORIES (PADĀRTHAS) → FOUR MEANS OF VALID → INFERENCE ENGINE → CAUSATION AND ATOMISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g15 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-04_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+  "ascii_spec_sha256": "1a25d09ef1b52a28a893bbfe9f0a962cf3a6108391f35c8d49f85f5e8da98362",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "REALIST SYSTEM MAP",
+      "structural_type": "ontology-epistemology convergence",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REALIST SYSTEM MAP",
+          "role": "primary"
+        },
+        {
+          "text": "VALID KNOWLEDGE AND ARGUMENT VAIŚEṢIKA",
+          "role": "outcome"
+        },
+        {
+          "text": "INVENTORY OF REALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NYĀYA–VAIŚEṢIKA REALISM + PLURALISM + LIBERATION THROUGH TRUTH VALID",
+          "role": "evidence"
+        },
+        {
+          "text": "OBJECTS CORRECTLY KNOWN",
+          "role": "primary"
+        },
+        {
+          "text": "FALSE NOTIONS REMOVED",
+          "role": "outcome"
+        },
+        {
+          "text": "FAULTS CEASE KARMA-PRODUCING ACTION CEASES",
+          "role": "comparison"
+        },
+        {
+          "text": "REBIRTH AND PAIN CEASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NYĀYA: valid knowledge and argument VAIŚEṢIKA: inventory of reality",
+        "NYĀYA–VAIŚEṢIKA realism + pluralism + liberation through truth valid cognition (pramā) → objects correctly known",
+        "notions removed → faults cease karma-producing action ceases → rebirth and pain cease → RELEASE",
+        "Nyāya: 4 means of valid knowledge (pramāṇas)",
+        "classical Vaiśeṣika: perception + inference historically two allied systems; later synthesis, not identity from the"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "NYĀYA: valid knowledge and argument VAIŚEṢIKA: inventory of reality",
+            "NYĀYA–VAIŚEṢIKA realism + pluralism + liberation through truth valid cognition (pramā) → objects correctly known → false"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "notions removed → faults cease karma-producing action ceases → rebirth and pain cease → RELEASE (apavarga).",
+            "Nyāya: 4 means of valid knowledge (pramāṇas)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "classical Vaiśeṣika: perception + inference historically two allied systems; later synthesis, not identity from the start",
+            "NYĀYA: valid knowledge and argument VAIŚEṢIKA: inventory of reality"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "4 means of valid knowledge (pramāṇas) | classical Vaiśeṣika: perception + inference historically two allied systems; later synthesis, not identity from the start.",
+      "source_references": [
+        "A. System identity"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SIXTEEN NYĀYA TOPICS VERSUS SEVEN VAIŚEṢIKA CATEGORIES",
+      "structural_type": "dual category ownership matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SIXTEEN NYĀYA TOPICS VERSUS SEVEN VAIŚEṢIKA CATEGORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "NYĀYA 16",
+          "role": "outcome"
+        },
+        {
+          "text": "TOPICS OF INQUIRY, PROOF AND DEBATE MEANS OF VALID",
+          "role": "comparison"
+        },
+        {
+          "text": "ESTABLISHED CONCLUSION (SIDDHĀNTA) AVAYAVA",
+          "role": "evidence"
+        },
+        {
+          "text": "HYPOTHETICAL REASONING (TARKA)",
+          "role": "primary"
+        },
+        {
+          "text": "VITAṆḌĀ HETVĀBHĀSA",
+          "role": "outcome"
+        },
+        {
+          "text": "PRAMEYA 12",
+          "role": "comparison"
+        },
+        {
+          "text": "VAIŚEṢIKA 7",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NYĀYA 16 = topics of inquiry, proof and debate means of valid knowledge (pramāṇa)",
+        "established conclusion (siddhānta) avayava",
+        "hypothetical reasoning (tarka)",
+        "vitaṇḍā hetvābhāsa",
+        "PRAMEYA 12: self → body/senses/objects → cognition/mind → activity/defects"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "NYĀYA 16 = topics of inquiry, proof and debate means of valid knowledge (pramāṇa)",
+          "PRAMEYA 12: self → body/senses/objects → cognition/mind → activity/defects",
+          "motion or action (karma) viśeṣa"
+        ],
+        [
+          "established conclusion (siddhānta) avayava",
+          "rebirth/fruit/suffering → release",
+          "inherence (samavāya)"
+        ],
+        [
+          "hypothetical reasoning (tarka)",
+          "VAIŚEṢIKA 7 = kinds of being: substance (dravya)",
+          "absence (abhāva)"
+        ],
+        [
+          "vitaṇḍā hetvābhāsa",
+          "quality (guṇa)",
+          "DO NOT FLATTEN: Nyāya inquiry map != Vaiśeṣika ontology"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "NYĀYA 16 = topics of inquiry, proof and debate means of valid knowledge (pramāṇa)",
+            "established conclusion (siddhānta) avayava",
+            "hypothetical reasoning (tarka)",
+            "vitaṇḍā hetvābhāsa"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PRAMEYA 12: self → body/senses/objects → cognition/mind → activity/defects",
+            "rebirth/fruit/suffering → release",
+            "VAIŚEṢIKA 7 = kinds of being: substance (dravya)",
+            "quality (guṇa)"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "motion or action (karma) viśeṣa",
+            "inherence (samavāya)",
+            "absence (abhāva)",
+            "DO NOT FLATTEN: Nyāya inquiry map != Vaiśeṣika ontology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NYĀYA 16 = topics of inquiry, proof and debate means of valid knowledge (pramāṇa) | prameya | saṃśaya | prayojana | dṛṣṭānta | established conclusion (siddhānta) avayava | hypothetical reasoning (tarka) | nirṇaya | vāda | jalpa | vitaṇḍā hetvābhāsa | chala | jāti | nigrahasthāna.",
+      "source_references": [
+        "REVIEW-PROMOTED CATEGORY, INFERENCE AND SOURCE COMPLETENESS"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SEVEN CATEGORIES (PADĀRTHAS)",
+      "structural_type": "category hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SEVEN CATEGORIES (PADĀRTHAS)",
+          "role": "primary"
+        },
+        {
+          "text": "CATEGORY (PADĀRTHA)",
+          "role": "outcome"
+        },
+        {
+          "text": "WHATEVER IS NAMEABLE AND KNOWABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "1 DRAVYA",
+          "role": "evidence"
+        },
+        {
+          "text": "EARTH, WATER, FIRE, AIR, ĀKĀŚA, TIME, SPACE, SELF, MIND",
+          "role": "primary"
+        },
+        {
+          "text": "2 QUALITY (GUṆA)",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALITY; DEPENDS ON SUBSTANCE, DOES NOT ITSELF POSSESS QUALITY/ACTION",
+          "role": "caution"
+        },
+        {
+          "text": "3 ACTION AND MORAL CONSEQUENCE (KARMA)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CATEGORY (padārtha): whatever is nameable and knowable",
+        "1 DRAVYA: earth, water, fire, air, ākāśa, time, space, self, mind",
+        "2 QUALITY (guṇa): quality; depends on substance, does not itself possess quality/action",
+        "3 ACTION AND MORAL CONSEQUENCE (karma): motion/action in a substance",
+        "4 SĀMĀNYA: real universal, one-in-many"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CATEGORY (padārtha): whatever is nameable and knowable",
+            "1 DRAVYA: earth, water, fire, air, ākāśa, time, space, self, mind",
+            "2 QUALITY (guṇa): quality; depends on substance, does not itself possess quality/action"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 ACTION AND MORAL CONSEQUENCE (karma): motion/action in a substance",
+            "4 SĀMĀNYA: real universal, one-in-many",
+            "5 VIŚEṢA: ultimate particularity individuating eternal atoms and selves"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "6 INHERENCE (samavāya): eternal inherence; whole-parts, universal-particular, quality-substance",
+            "7 ABSENCE (abhāva): absence — prior, posterior, mutual, absolute",
+            "CAUTION: inherence (samavāya) is not conjunction (saṃyoga), which is separable."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: inherence (samavāya) is not conjunction (saṃyoga), which is separable.",
+      "source_references": [
+        "B. Seven categories",
+        "C. Relations and individuation",
+        "D. Universal and absence"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FOUR MEANS OF VALID KNOWLEDGE (PRAMĀṆAS) AND PERCEPTION",
+      "structural_type": "epistemic process tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOUR MEANS OF VALID KNOWLEDGE (PRAMĀṆAS) AND PERCEPTION",
+          "role": "primary"
+        },
+        {
+          "text": "MEANS OF VALID KNOWLEDGE (PRAMĀṆAS)",
+          "role": "outcome"
+        },
+        {
+          "text": "PERCEPTION (PRATYAKṢA)",
+          "role": "comparison"
+        },
+        {
+          "text": "SENSE-OBJECT CONTACT",
+          "role": "evidence"
+        },
+        {
+          "text": "SAVIKALPAKA RECOGNITION",
+          "role": "primary"
+        },
+        {
+          "text": "INFERENCE (ANUMĀNA)",
+          "role": "outcome"
+        },
+        {
+          "text": "SIGN (LIṄGA/HETU) THROUGH INVARIABLE CONCOMITANCE (VYĀPTI) TO PROPERTY TO",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARISON (UPAMĀNA)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEANS OF VALID KNOWLEDGE (pramāṇas)",
+        "perception (pratyakṣa): sense-object contact → nirvikalpaka → savikalpaka recognition",
+        "inference (anumāna): sign (liṅga/hetu) through invariable concomitance (vyāpti) to property to be proved (sādhya)",
+        "comparison (upamāna): knowledge through similarity and prior description",
+        "verbal testimony (śabda): trustworthy utterance, ultimately āpta testimony"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "MEANS OF VALID KNOWLEDGE (pramāṇas)",
+            "perception (pratyakṣa): sense-object contact → nirvikalpaka → savikalpaka recognition",
+            "inference (anumāna): sign (liṅga/hetu) through invariable concomitance (vyāpti) to property to be proved (sādhya)",
+            "comparison (upamāna): knowledge through similarity and prior description"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "verbal testimony (śabda): trustworthy utterance, ultimately āpta testimony",
+            "PERCEPTION TYPES: external/internal",
+            "ordinary/alaukika alaukika: sāmānyalakṣaṇa, jñānalakṣaṇa, yogaja",
+            "ERROR is mislocation of a real qualifier: misplacement theory of error (anyathākhyāti)."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "verbal testimony (śabda) sentence: ākāṅkṣā + yogyatā + sannidhi/āsatti +",
+            "tātparya absence: locus (anuyogin) qualified by absent counterpositive (pratiyogin)",
+            "Nyāya knows absence through perception/inference, not separate non-cognition (anupalabdhi)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Nyāya knows absence through perception/inference, not separate non-cognition (anupalabdhi).",
+      "source_references": [
+        "E. Four pramāṇas",
+        "F. Perception"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INFERENCE ENGINE",
+      "structural_type": "five-member inference tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INFERENCE ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "INFERENCE FOR ONESELF",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMONSTRATED TO ANOTHER FIVE MEMBERS",
+          "role": "comparison"
+        },
+        {
+          "text": "1 PRATIJÑĀ",
+          "role": "evidence"
+        },
+        {
+          "text": "HILL HAS FIRE",
+          "role": "primary"
+        },
+        {
+          "text": "2 REASON (HETU)",
+          "role": "outcome"
+        },
+        {
+          "text": "BECAUSE IT HAS SMOKE",
+          "role": "comparison"
+        },
+        {
+          "text": "3 UDĀHARAṆA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SVĀRTHĀNUMĀNA: inference for oneself",
+        "PARĀRTHĀNUMĀNA: demonstrated to another five members",
+        "1 pratijñā: hill has fire",
+        "2 reason (hetu): because it has smoke",
+        "3 udāharaṇa: wherever smoke, fire — as kitchen"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SVĀRTHĀNUMĀNA: inference for oneself",
+            "PARĀRTHĀNUMĀNA: demonstrated to another five members",
+            "1 pratijñā: hill has fire",
+            "2 reason (hetu): because it has smoke"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 udāharaṇa: wherever smoke, fire — as kitchen",
+            "4 upanaya: hill has such smoke",
+            "5 nigamana: therefore hill has fire pakṣadharmatā + invariable concomitance (vyāpti) + uncontradicted application → conclusion",
+            "HETVĀBHĀSA: savyabhicāra, viruddha, satpratipakṣa, asiddha, bādhita."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "purpose: svārtha",
+            "parārtha direction: pūrvavat",
+            "sāmānyatodṛṣṭa concomitance: kevalānvayi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "therefore hill has fire pakṣadharmatā + invariable concomitance (vyāpti) + uncontradicted application → conclusion.",
+      "source_references": [
+        "G. Inference"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CAUSATION AND ATOMISM",
+      "structural_type": "creation-dissolution cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAUSATION AND ATOMISM",
+          "role": "primary"
+        },
+        {
+          "text": "NON-EXISTENCE OF THE EFFECT BEFORE PRODUCTION (ASATKĀRYAVĀDA)",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW PRODUCTION (ĀRAMBHAVĀDA)",
+          "role": "comparison"
+        },
+        {
+          "text": "EFFECT IS A NEW BEGINNING, NOT PRE-EXISTENT AS EFFECT",
+          "role": "caution"
+        },
+        {
+          "text": "SAMAVĀYI (INHERENT)",
+          "role": "primary"
+        },
+        {
+          "text": "ASAMAVĀYI (NON-INHERENT)",
+          "role": "outcome"
+        },
+        {
+          "text": "NIMITTA (EFFICIENT) EARTH/WATER/FIRE/AIR 2 ATOMS (PARAMĀṆU)",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPERCEPTIBLE DYAD; 3 DYADS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NON-EXISTENCE OF THE EFFECT BEFORE PRODUCTION (asatkāryavāda) / NEW PRODUCTION (ārambhavāda)",
+        "effect is a new beginning, not pre-existent as effect causes: samavāyi (inherent)",
+        "asamavāyi (non-inherent)",
+        "nimitta (efficient) earth/water/fire/air 2 atoms (paramāṇu) → imperceptible dyad",
+        "3 dyads → perceptible triad → gross composite pralaya: composites dissolve"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "NON-EXISTENCE OF THE EFFECT BEFORE PRODUCTION (asatkāryavāda) / NEW PRODUCTION (ārambhavāda)",
+            "effect is a new beginning, not pre-existent as effect causes: samavāyi (inherent)",
+            "asamavāyi (non-inherent)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "nimitta (efficient) earth/water/fire/air 2 atoms (paramāṇu) → imperceptible dyad",
+            "3 dyads → perceptible triad → gross composite pralaya: composites dissolve",
+            "eternal atoms, selves, space, time remain sṛṣṭi: Lord (īśvara) activates atoms according to unseen causal force (adṛṣṭa)/action and"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRAP: God orders atoms; God is not the material cause and atoms are not created ex nihilo.",
+            "cause = unconditional + invariable antecedent (ananyathāsiddha) exclude remote, accidental, co-effect and redundant antecedents (anyathāsiddha)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "God orders atoms; God is not the material cause and atoms are not created ex nihilo.",
+      "source_references": [
+        "K. Causation and atomism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SELF, GOD AND LIBERATION",
+      "structural_type": "metaphysical-soteriological chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SELF, GOD AND LIBERATION",
+          "role": "primary"
+        },
+        {
+          "text": "ENDURING SELF (ĀTMAN)",
+          "role": "outcome"
+        },
+        {
+          "text": "ETERNAL, MANY, ALL-PERVASIVE SUBSTRATE OF COGNITION, DESIRE AND VOLITION",
+          "role": "comparison"
+        },
+        {
+          "text": "SENSORY MIND (MANAS)",
+          "role": "evidence"
+        },
+        {
+          "text": "ATOMIC INNER SENSE LINKING SELF TO ONE COGNITION AT",
+          "role": "primary"
+        },
+        {
+          "text": "LORD (ĪŚVARA)",
+          "role": "outcome"
+        },
+        {
+          "text": "ETERNAL OMNISCIENT EFFICIENT CAUSE; AUTHOR/TEACHER OF VEDA",
+          "role": "mechanism"
+        },
+        {
+          "text": "COORDINATES ATOMS AND KARMIC DESERTS WITHOUT ABOLISHING INDIVIDUAL AGENCY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENDURING SELF (ātman): eternal, many, all-pervasive substrate of cognition, desire and volition",
+        "SENSORY MIND (manas): atomic inner sense linking self to one cognition at a time",
+        "LORD (īśvara): eternal omniscient efficient cause; author/teacher of Veda",
+        "coordinates atoms and karmic deserts without abolishing individual agency true knowledge → doṣa removed →",
+        "classical Nyāya does not define it as"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ENDURING SELF (ātman): eternal, many, all-pervasive substrate of cognition, desire and volition",
+            "SENSORY MIND (manas): atomic inner sense linking self to one cognition at a time",
+            "LORD (īśvara): eternal omniscient efficient cause; author/teacher of Veda"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "coordinates atoms and karmic deserts without abolishing individual agency true knowledge → doṣa removed → pravṛtti ceases →",
+            "classical Nyāya does not define it as",
+            "six self-marks: desire"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Kaṇāda does not foreground creator God unambiguously; later synthesis is explicit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Kaṇāda does not foreground creator God unambiguously; later synthesis is explicit.",
+      "source_references": [
+        "H. Appearance and self",
+        "I. Liberation",
+        "J. God"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PROOF, OBJECTION AND COMPARISON",
+      "structural_type": "dialectical matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROOF, OBJECTION AND COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "UDAYANA ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "KĀRYĀT (EFFECT)",
+          "role": "comparison"
+        },
+        {
+          "text": "ĀYOJANĀT (COMBINATION)",
+          "role": "evidence"
+        },
+        {
+          "text": "DHṚTYĀDEḤ (SUPPORT) PADĀT (WORD-USE)",
+          "role": "primary"
+        },
+        {
+          "text": "PRATYAYATAḤ (TRUST)",
+          "role": "outcome"
+        },
+        {
+          "text": "ŚRUTEḤ (VEDA)",
+          "role": "comparison"
+        },
+        {
+          "text": "VĀKYĀT (SENTENCES) SAṂKHYĀVIŚEṢĀT (NUMBER)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UDAYANA ROUTES: kāryāt (effect)",
+        "āyojanāt (combination)",
+        "dhṛtyādeḥ (support) padāt (word-use)",
+        "pratyayataḥ (trust)",
+        "śruteḥ (Veda)"
+      ],
+      "matrix": [
+        [
+          "(prakṛti) material cause",
+          "NYĀYA: new effect from atoms"
+        ],
+        [
+          "BUDDHISM: momentary process",
+          "NYĀYA: enduring substances and selves."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "UDAYANA ROUTES: kāryāt (effect)",
+            "āyojanāt (combination)",
+            "dhṛtyādeḥ (support) padāt (word-use)",
+            "pratyayataḥ (trust)",
+            "śruteḥ (Veda)"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "adṛṣṭāt (moral order)",
+            "OBJECTION: atoms + action and moral consequence (karma) may make God redundant; bodies expose unequal suffering",
+            "REPLY: unconscious atoms/unseen causal force (adṛṣṭa) cannot intelligently initiate and allocate order",
+            "SĀṂKHYA: pre-existence of the effect in the cause (satkāryavāda), primordial material nature",
+            "(prakṛti) material cause"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "BUDDHISM: momentary process",
+            "NYĀYA: enduring substances and selves.",
+            "YOGA LORD (īśvara): special conscious witness (puruṣa) + meditative support",
+            "NYĀYA LORD (īśvara): inferred arranger, efficient cause and karmic governor same name != same proof or systematic function"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NYĀYA LORD (īśvara): inferred arranger, efficient cause and karmic governor same name != same proof or systematic function.",
+      "source_references": [
+        "J. God",
+        "K. Causation and atomism"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SPINE",
+      "structural_type": "complete answer rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE TWO-SYSTEM SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTINGUISH NYĀYA 16 INQUIRY TOPICS FROM VAIŚEṢIKA 7 ONTOLOGICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "FOUR MEANS OF VALID KNOWLEDGE (PRAMĀṆAS)",
+          "role": "evidence"
+        },
+        {
+          "text": "PERCEPTION STAGES",
+          "role": "primary"
+        },
+        {
+          "text": "FIVE-MEMBER INFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MISPLACEMENT THEORY OF ERROR (ANYATHĀKHYĀTI)",
+          "role": "comparison"
+        },
+        {
+          "text": "SELF/SENSORY MIND (MANAS)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE two-system synthesis → distinguish Nyāya 16 inquiry topics from Vaiśeṣika 7 ontological categories",
+        "four means of valid knowledge (pramāṇas) → perception stages → five-member inference",
+        "misplacement theory of error (anyathākhyāti) → self/sensory mind (manas) → Lord",
+        "(īśvara) proofs and objection",
+        "new production (ārambhavāda) + three causes → atomistic creation cycle"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE two-system synthesis → distinguish Nyāya 16 inquiry topics from Vaiśeṣika 7 ontological categories",
+            "four means of valid knowledge (pramāṇas) → perception stages → five-member inference",
+            "misplacement theory of error (anyathākhyāti) → self/sensory mind (manas) → Lord"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "(īśvara) proofs and objection",
+            "new production (ārambhavāda) + three causes → atomistic creation cycle",
+            "release (apavarga) → compare Sāṃkhya/Buddhism → qualified verdict"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: the system gains explanatory integration from realism and logical method",
+            "its pressure points are inherence, the leap from order to God, and austere liberation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "the system gains explanatory integration from realism and logical method;.",
+      "source_references": [
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LAYER-PLACEMENT NOTE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAYER-PLACEMENT NOTE ALL LAYER 3 MATERIAL FROM THE LEGACY",
+          "role": "evidence"
+        },
+        {
+          "text": "IT SHOULD REFINE A CORE ANSWER, NOT DISPLACE THE",
+          "role": "caution"
+        },
+        {
+          "text": "LAYER 3 - ADVANCED ADVANCED UNITY AND HISTORICAL QUALIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "AND VAISESIKA BEGIN AS DISTINGUISHABLE SCHOOLS RATHER THAN ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "NAVYA-NYAYA THEN SHARPENS THE SHARED ANALYTIC VOCABULARY.",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS SYSTEM IS REALIST IN THREE LINKED SENSES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Layer-placement note",
+            "Layer-placement note All Layer 3 material from the legacy complete session is retained here after practice.",
+            "It should refine a core answer, not displace the printed syllabus.",
+            "LAYER 3 - ADVANCED Advanced unity and historical qualification Historically, Nyaya"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "and Vaisesika begin as distinguishable schools rather than one undifferentiated doctrine.",
+            "Navya-Nyaya then sharpens the shared analytic vocabulary.",
+            "This system is realist in three linked senses.",
+            "Objects exist independently of cognition"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "valid cognition can disclose them",
+            "and even error is explained through misrelation among real factors rather than by reducing the world to appearance.",
+            "The main philosophical cost is ontological commitment.",
+            "To preserve common-sense distinctions, the system admits universals, inherence, ultimate particularizers and absence as real categories."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

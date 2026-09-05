@@ -1,0 +1,1085 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-21",
+  "subject": "World-History",
+  "title": "COLD WAR END AND NEW WORLD ORDER",
+  "short_route": "REFORM PARADOX → WHY THE COLD WAR → EASTERN EUROPE, 1988-89 → GERMANY'S NEGOTIATED REUNIFICATION → SOVIET DISSOLUTION CHAIN → GULF WAR ORDER TEST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g7 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-21-deep-review-2026-09-04-g7.json",
+  "ascii_spec_sha256": "68c44abed3110db24cd745a9052a0875ce129ce6c3e8c6aa5431f11b54310729",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "REFORM PARADOX",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REFORM PARADOX",
+          "role": "primary"
+        },
+        {
+          "text": "RESCUE A HUMANE SOVIET SOCIALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "CRITICISM BECOMES LEGITIMATE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMAND IS DISRUPTED",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPECTATIONS OUTRUN RESULTS",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "GORBACHEV'S REFORM PHASE, EASTERN EUROPEAN REVOLUTIONS OF 1989, TWO",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INTENT → rescue a humane Soviet socialism",
+        "GLASNOST → criticism becomes legitimate",
+        "PERESTROIKA → command is disrupted",
+        "SEQUENCING → expectations outrun results",
+        "MUST REMEMBER: Gorbachev's reform phase, Eastern European revolutions of 1989, Two Plus Four settlement and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTENT → rescue a humane Soviet socialism",
+            "GLASNOST → criticism becomes legitimate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PERESTROIKA → command is disrupted",
+            "SEQUENCING → expectations outrun results"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Gorbachev's reform phase, Eastern European revolutions of 1989, Two Plus Four settlement and",
+            "German reunification in 1990, failed August 1991 coup and December Soviet dissolution are distinct stages."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Gorbachev's reform phase, Eastern European revolutions of 1989, Two Plus Four settlement and German reunification in 1990, failed August 1991 coup and December Soviet dissolution are distinct stages.",
+      "source_references": [
+        "Gorbachev's rescue project",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WHY THE COLD WAR ENDED",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHY THE COLD WAR ENDED",
+          "role": "primary"
+        },
+        {
+          "text": "STAGNATION, TECHNOLOGY AND ARMS BURDENS",
+          "role": "outcome"
+        },
+        {
+          "text": "GORBACHEV, YELTSIN AND REAGAN CHOICES",
+          "role": "comparison"
+        },
+        {
+          "text": "OPPOSITION AND NATIONALITY MOBILISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERACTION, NOT WESTERN VICTORY ALONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRUCTURE → stagnation, technology and arms burdens",
+        "AGENCY → Gorbachev, Yeltsin and Reagan choices",
+        "SOCIETY → opposition and nationality mobilisation",
+        "VERDICT → interaction, not Western victory alone"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STRUCTURE → stagnation, technology and arms burdens",
+          "SOCIETY → opposition and nationality mobilisation",
+          "STRUCTURE → stagnation, technology and arms burdens"
+        ],
+        [
+          "AGENCY → Gorbachev, Yeltsin and Reagan choices",
+          "VERDICT → interaction, not Western victory alone",
+          "AGENCY → Gorbachev, Yeltsin and Reagan choices"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRUCTURE → stagnation, technology and arms burdens",
+            "AGENCY → Gorbachev, Yeltsin and Reagan choices"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOCIETY → opposition and nationality mobilisation",
+            "VERDICT → interaction, not Western victory alone"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURE → stagnation, technology and arms burdens",
+            "AGENCY → Gorbachev, Yeltsin and Reagan choices"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOCIETY → opposition and nationality mobilisation; VERDICT → interaction, not Western victory alone.",
+      "source_references": [
+        "Structural burdens and causation debate",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EASTERN EUROPE, 1988-89",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EASTERN EUROPE, 1988-89",
+          "role": "primary"
+        },
+        {
+          "text": "SOLIDARITY, NEGOTIATION AND ELECTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM AND BORDER OPENING",
+          "role": "comparison"
+        },
+        {
+          "text": "PEACEFUL VELVET REVOLUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "VIOLENT OVERTHROW; NO SINGLE SCRIPT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POLAND → Solidarity, negotiation and elections",
+        "HUNGARY → reform and border opening",
+        "CZECHOSLOVAKIA → peaceful Velvet Revolution",
+        "ROMANIA → violent overthrow; no single script"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "POLAND → Solidarity, negotiation and elections",
+          "CZECHOSLOVAKIA → peaceful Velvet Revolution",
+          "POLAND → Solidarity, negotiation and elections"
+        ],
+        [
+          "HUNGARY → reform and border opening",
+          "ROMANIA → violent overthrow; no single script",
+          "HUNGARY → reform and border opening"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POLAND → Solidarity, negotiation and elections",
+            "HUNGARY → reform and border opening"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CZECHOSLOVAKIA → peaceful Velvet Revolution",
+            "ROMANIA → violent overthrow; no single script"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POLAND → Solidarity, negotiation and elections",
+            "HUNGARY → reform and border opening"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CZECHOSLOVAKIA → peaceful Velvet Revolution; ROMANIA → violent overthrow; no single script.",
+      "source_references": [
+        "Poland and Hungary",
+        "The revolutions of 1989",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GERMANY'S NEGOTIATED REUNIFICATION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GERMANY'S NEGOTIATED REUNIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "9 NOV 1989",
+          "role": "outcome"
+        },
+        {
+          "text": "BERLIN WALL OPENS",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULAR PRESSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVISION BECOMES UNTENABLE",
+          "role": "primary"
+        },
+        {
+          "text": "12 SEP 1990",
+          "role": "outcome"
+        },
+        {
+          "text": "TWO PLUS FOUR TREATY SIGNED",
+          "role": "comparison"
+        },
+        {
+          "text": "3 OCT 1990",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "9 NOV 1989 → Berlin Wall opens",
+        "POPULAR PRESSURE → division becomes untenable",
+        "12 SEP 1990 → Two Plus Four Treaty signed",
+        "3 OCT 1990 → legal reunification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "9 NOV 1989 → Berlin Wall opens",
+            "POPULAR PRESSURE → division becomes untenable"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "12 SEP 1990 → Two Plus Four Treaty signed",
+            "3 OCT 1990 → legal reunification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "9 NOV 1989 → Berlin Wall opens",
+            "POPULAR PRESSURE → division becomes untenable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "12 SEP 1990 → Two Plus Four Treaty signed.",
+      "source_references": [
+        "German reunification",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SOVIET DISSOLUTION CHAIN",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SOVIET DISSOLUTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SOVEREIGNTY AND BALTIC EXITS",
+          "role": "outcome"
+        },
+        {
+          "text": "RIVAL RUSSIAN AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "AUG 1991 COUP",
+          "role": "evidence"
+        },
+        {
+          "text": "FAILS AND BREAKS CPSU POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "25 DEC 1991",
+          "role": "outcome"
+        },
+        {
+          "text": "GORBACHEV RESIGNS; UNION ENDS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "REPUBLICS → sovereignty and Baltic exits",
+        "YELTSIN → rival Russian authority",
+        "AUG 1991 COUP → fails and breaks CPSU power",
+        "25 DEC 1991 → Gorbachev resigns; union ends"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REPUBLICS → sovereignty and Baltic exits",
+            "YELTSIN → rival Russian authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUG 1991 COUP → fails and breaks CPSU power",
+            "25 DEC 1991 → Gorbachev resigns; union ends"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REPUBLICS → sovereignty and Baltic exits",
+            "YELTSIN → rival Russian authority"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "25 DEC 1991 → Gorbachev resigns; union ends.",
+      "source_references": [
+        "Republics and Yeltsin",
+        "August coup and Soviet dissolution",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GULF WAR ORDER TEST",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GULF WAR ORDER TEST",
+          "role": "primary"
+        },
+        {
+          "text": "OCCUPIES KUWAIT",
+          "role": "outcome"
+        },
+        {
+          "text": "RESOLUTION 678",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORISES ALL NECESSARY MEANS",
+          "role": "evidence"
+        },
+        {
+          "text": "US-LED COALITION",
+          "role": "primary"
+        },
+        {
+          "text": "REVERSES OCCUPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "COUNCIL-AUTHORISED ENFORCEMENT, NOT PEACEKEEPING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IRAQ → occupies Kuwait",
+        "RESOLUTION 678 → authorises all necessary means",
+        "US-LED COALITION → reverses occupation",
+        "CATEGORY → Council-authorised enforcement, not peacekeeping"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IRAQ → occupies Kuwait",
+            "RESOLUTION 678 → authorises all necessary means"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "US-LED COALITION → reverses occupation",
+            "CATEGORY → Council-authorised enforcement, not peacekeeping"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IRAQ → occupies Kuwait",
+            "RESOLUTION 678 → authorises all necessary means"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "US-LED COALITION → reverses occupation; CATEGORY → Council-authorised enforcement, not peacekeeping.",
+      "source_references": [
+        "Gulf War as order test",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "UNIPOLARITY'S THREE TESTS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "UNIPOLARITY'S THREE TESTS",
+          "role": "primary"
+        },
+        {
+          "text": "UNMATCHED US REACH",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSENT REMAINS NECESSARY",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL ACTORS RETAIN AGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "POWER PLUS RULES, INSTITUTIONS AND ACCEPTANCE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CAPABILITY → unmatched US reach",
+        "LEGITIMACY → consent remains necessary",
+        "CONTROL → regional actors retain agency",
+        "ORDER → power plus rules, institutions and acceptance"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CAPABILITY → unmatched US reach",
+          "CONTROL → regional actors retain agency",
+          "CAPABILITY → unmatched US reach"
+        ],
+        [
+          "LEGITIMACY → consent remains necessary",
+          "ORDER → power plus rules, institutions and acceptance",
+          "LEGITIMACY → consent remains necessary"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAPABILITY → unmatched US reach",
+            "LEGITIMACY → consent remains necessary"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTROL → regional actors retain agency",
+            "ORDER → power plus rules, institutions and acceptance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPABILITY → unmatched US reach",
+            "LEGITIMACY → consent remains necessary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ORDER → power plus rules, institutions and acceptance.",
+      "source_references": [
+        "The unipolar moment",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "YUGOSLAVIA AND NATO",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "YUGOSLAVIA AND NATO",
+          "role": "primary"
+        },
+        {
+          "text": "FEDERAL COLLAPSE",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL NATIONALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "WAR, CLEANSING AND DELAYED RESPONSE",
+          "role": "evidence"
+        },
+        {
+          "text": "DAYTON ENDS BOSNIA WAR",
+          "role": "primary"
+        },
+        {
+          "text": "KOSOVO INTERVENTION TESTS NATO LEGITIMACY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FEDERAL COLLAPSE → territorial nationalism",
+        "1991-95 → war, cleansing and delayed response",
+        "1995 → Dayton ends Bosnia war",
+        "1999 → Kosovo intervention tests NATO legitimacy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FEDERAL COLLAPSE → territorial nationalism",
+            "1991-95 → war, cleansing and delayed response"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1995 → Dayton ends Bosnia war",
+            "1999 → Kosovo intervention tests NATO legitimacy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FEDERAL COLLAPSE → territorial nationalism",
+            "1991-95 → war, cleansing and delayed response"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1995 → Dayton ends Bosnia war; 1999 → Kosovo intervention tests NATO legitimacy.",
+      "source_references": [
+        "Yugoslav fragmentation",
+        "NATO beyond territorial defence",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EUROPEAN INTEGRATION SETTLEMENT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EUROPEAN INTEGRATION SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ECSC AND EEC ROOTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MAASTRICHT DEEPENS UNION",
+          "role": "comparison"
+        },
+        {
+          "text": "EASTERN ENLARGEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "WIDENING, SOVEREIGNTY AND UNEQUAL ADJUSTMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1951-57 → ECSC and EEC roots",
+        "1992-93 → Maastricht deepens union",
+        "2004 → eastern enlargement",
+        "TENSION → widening, sovereignty and unequal adjustment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1951-57 → ECSC and EEC roots",
+            "1992-93 → Maastricht deepens union"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2004 → eastern enlargement",
+            "TENSION → widening, sovereignty and unequal adjustment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1951-57 → ECSC and EEC roots",
+            "1992-93 → Maastricht deepens union"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2004 → eastern enlargement; TENSION → widening, sovereignty and unequal adjustment.",
+      "source_references": [
+        "European Union settlement",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GLOBALISATION AND POSTCOLONIAL AGENCY",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GLOBALISATION AND POSTCOLONIAL AGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "TRADE, FINANCE AND PRODUCTION INTEGRATE",
+          "role": "outcome"
+        },
+        {
+          "text": "GAINS AND POLICY SPACE REMAIN UNEQUAL",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBAL SOUTH",
+          "role": "evidence"
+        },
+        {
+          "text": "BARGAINS THROUGH INSTITUTIONS AND COALITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CONVERGENCE IS A CLAIM, NOT A LAW",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMIC STAGNATION, NATIONALITY PRESSURES, LEGITIMACY LOSS, ARMS BURDENS, REFORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NETWORKS → trade, finance and production integrate",
+        "ASYMMETRY → gains and policy space remain unequal",
+        "GLOBAL SOUTH → bargains through institutions and coalitions",
+        "LIMIT → convergence is a claim, not a law",
+        "CLOSE DISTINCTION: Economic stagnation, nationality pressures, legitimacy loss, arms burdens, reform sequencing, social mobilisation, non-coercion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NETWORKS → trade, finance and production integrate",
+            "ASYMMETRY → gains and policy space remain unequal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GLOBAL SOUTH → bargains through institutions and coalitions",
+            "LIMIT → convergence is a claim, not a law"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Economic stagnation, nationality pressures, legitimacy loss, arms burdens, reform sequencing, social mobilisation, non-coercion and diplomacy interacted",
+            "Western pressure nor one leader alone is sufficient."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Western pressure nor one leader alone is sufficient.",
+      "source_references": [
+        "Globalisation inside the order claim",
+        "Global South agency",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIA AFTER THE SYSTEMIC RUPTURE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA AFTER THE SYSTEMIC RUPTURE",
+          "role": "primary"
+        },
+        {
+          "text": "STRATEGIC SHOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "SOVIET SETTING DISAPPEARS",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMIC SHOCK",
+          "role": "evidence"
+        },
+        {
+          "text": "1991 BALANCE-OF-PAYMENTS CRISIS",
+          "role": "primary"
+        },
+        {
+          "text": "DIVERSIFIED PARTNERSHIPS AND REFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMY AND IR OWN THE DETAILED VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRATEGIC SHOCK → Soviet setting disappears",
+        "ECONOMIC SHOCK → 1991 balance-of-payments crisis",
+        "RESPONSE → diversified partnerships and reform",
+        "BOUNDARY → Economy and IR own the detailed verdict",
+        "EVIDENCE LIMIT: The Gulf coalition displayed US-led unipolar capability, while Yugoslavia"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STRATEGIC SHOCK → Soviet setting disappears",
+          "RESPONSE → diversified partnerships and reform",
+          "EVIDENCE LIMIT: The Gulf coalition displayed US-led unipolar capability, while Yugoslavia,"
+        ],
+        [
+          "ECONOMIC SHOCK → 1991 balance-of-payments crisis",
+          "BOUNDARY → Economy and IR own the detailed verdict",
+          "NATO controversy, unequal globalisation and continuing Global South and Indian agency deny final-peace or Western-teleology claims."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRATEGIC SHOCK → Soviet setting disappears",
+            "ECONOMIC SHOCK → 1991 balance-of-payments crisis"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSE → diversified partnerships and reform",
+            "BOUNDARY → Economy and IR own the detailed verdict"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: The Gulf coalition displayed US-led unipolar capability, while Yugoslavia,",
+            "NATO controversy, unequal globalisation and continuing Global South and Indian agency deny final-peace or Western-teleology claims."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → Economy and IR own the detailed verdict.",
+      "source_references": [
+        "India and the qualified verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COLD WAR END ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COLD WAR END ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURE, REFORM, MOBILISATION AND DIPLOMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "REPUBLICS, YELTSIN, COUP AND EXIT",
+          "role": "comparison"
+        },
+        {
+          "text": "GULF ALIGNMENT, BALKANS, EU AND GLOBALISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "UNIPOLAR MOMENT WITHOUT FINAL WESTERN SETTLEMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "END → structure, reform, mobilisation and diplomacy",
+        "DISSOLUTION → republics, Yeltsin, coup and exit",
+        "ORDER → Gulf alignment, Balkans, EU and globalisation",
+        "VERDICT → unipolar moment without final Western settlement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "END → structure, reform, mobilisation and diplomacy",
+            "DISSOLUTION → republics, Yeltsin, coup and exit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ORDER → Gulf alignment, Balkans, EU and globalisation",
+            "VERDICT → unipolar moment without final Western settlement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "END → structure, reform, mobilisation and diplomacy",
+            "DISSOLUTION → republics, Yeltsin, coup and exit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → unipolar moment without final Western settlement.",
+      "source_references": [
+        "India and the qualified verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g7\\world-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A WESTERN-TRIUMPHALIST ACCOUNT STRESSES ARMS PRESSURE AND US RESOLVE",
+          "role": "outcome"
+        },
+        {
+          "text": "A STRUCTURALIST ACCOUNT STRESSES STAGNATION, TECHNOLOGY AND NATIONALITY CONTRADICTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "AN AGENCY-CENTRED ACCOUNT STRESSES GORBACHEV, YELTSIN AND REAGAN; IT",
+          "role": "evidence"
+        },
+        {
+          "text": "A SOCIAL-HISTORY ACCOUNT RESTORES WORKERS, CHURCHES, CIVIC NETWORKS AND",
+          "role": "primary"
+        },
+        {
+          "text": "A POSTCOLONIAL ACCOUNT QUESTIONS THE CLAIM THAT ONE WESTERN",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWE'S POST-1991 RUSSIA SECTIONS ARE ESPECIALLY USEFUL FOR MAINS",
+          "role": "comparison"
+        },
+        {
+          "text": "OF COMMUNISM DID NOT AUTOMATICALLY CREATE A HEALTHY DEMOCRACY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: A Western-triumphalist account stresses arms pressure and US resolve; it explains an",
+            "CAUTION: A structuralist account stresses stagnation, technology and nationality contradictions;",
+            "CAUTION: An agency-centred account stresses Gorbachev, Yeltsin and Reagan; it explains decisions",
+            "CAUTION: A social-history account restores workers, churches, civic networks and demonstrators;"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: A postcolonial account questions the claim that one Western model became history's",
+            "CAUTION: Lowe's post-1991 Russia sections are especially useful for Mains because they show that the collapse",
+            "of communism did not automatically create a healthy democracy or a fair market economy .",
+            "The Berlin Wall opening on 9 November 1989 ended enforced separation but did not itself"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Two Plus Four Treaty was signed on 12 September 1990 by the two German states and the",
+            "Legal reunification followed on 3 October 1990.",
+            "CAUTION: This sequence rebuts two opposite errors: diplomacy alone did not create the popular",
+            "Lowe does not treat Yugoslavia as an inevitable explosion of \"ancient\" hatred."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}
