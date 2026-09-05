@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-05",
+  "generation": 10,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g10\\polity-05_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    13892
+  ],
+  "stages": [
+    {
+      "title": "CONSTITUTIONAL CONCEPTION: WHY ARTICLE 1 SAYS 'UNION OF STATES'",
+      "terms": "\"Indestructible Union of destructible States\" is a powerful analytical formula, not the literal text of Article 1.",
+      "mechanism": "India is not unitary because powers are constitutionally distributed; but it is not a compact federation either because Parliament can redraw the internal map under Article 3 and because the States are constitutionally derived units.",
+      "consequence": "\"Indestructible Union of destructible States\" is a powerful analytical formula, not the literal text of Article 1.",
+      "trap": "Do not miss this limiting distinction: \"Union of States\" means a unitary State. Correct approach.",
+      "answer": "India is a constitutionally indestructible Union whose internal State map remains adaptable under Articles 1–4; the phrase 'indestructible Union of destructible States' is an analytical formula, not constitutional text."
+    },
+    {
+      "title": "ARTICLES 1 TO 4 CLAUSE-BY-CLAUSE: THE CONSTITUTIONAL ARCHITECTURE OF TERRITORY",
+      "terms": "The schedule is the formal list of State and Union Territory names and territorial extent.",
+      "mechanism": "Article 1(1) also captures the famous naming compromise: \"India\" and \"Bharat\" were both politically resonant, so the Constitution retained both.",
+      "consequence": "The schedule is the formal list of State and Union Territory names and territorial extent.",
+      "trap": "Do not miss this limiting distinction: the Territory of India is wider.",
+      "answer": "It explains why Union Territories belong to India without being equal federal partners and why acquired territory can enter Indian sovereignty before its internal constitutional location is finally settled."
+    },
+    {
+      "title": "ARTICLE 2 AND ARTICLE 3 ARE NOT THE SAME POWER",
+      "terms": "Article 3 is conceptually about internal readjustment among units already inside the Union.",
+      "mechanism": "Explanation II says that clause (a) includes the power to form a new State or Union Territory by uniting a part of any State or Union Territory to any other State or Union Territory.",
+      "consequence": "Do not force uncertain examples of Article 2 when the safer conceptual point is the difference between external admission/establishment and internal reorganisation.",
+      "trap": "Do not miss this limiting distinction: articles 2 and 3 both create new States, so the distinction is trivial. Correct...",
+      "answer": "Article 2 is conceptually about entry from outside the existing Union: Parliament may admit or establish new States on terms it thinks fit."
+    },
+    {
+      "title": "ARTICLE 3 PROCEDURE: CONSULTATION WITHOUT CONSENT",
+      "terms": "Technically, Article 3 Procedure: Consultation Without Consent is analysed by relating Article 3 Procedure to Consultation Without Consent, then testing the relationship through CONTENT CLASSIFICATION and Article 3.",
+      "mechanism": "The constitutional formula is consultation without consent.",
+      "consequence": "Article 3 does not permit a free-floating private or ordinary parliamentary initiative.",
+      "trap": "State consent is mandatory. Correct approach: President's recommendation and legislature-reference for views are mandatory; State consent is not.",
+      "answer": "Article 3 constitutionalises consultation, not consent: prior presidential recommendation and State-legislature reference are mandatory where the proviso applies, views do not bind Parliament, no fresh reference is required for every amendment, and a Union Territory has no equivalent proviso right."
+    },
+    {
+      "title": "ARTICLE 4: SUPPLEMENTAL, INCIDENTAL AND CONSEQUENTIAL PROVISIONS - AND WHY THIS IS NOT ARTICLE 368",
+      "terms": "Technically, Article 4: Supplemental, Incidental And Consequential Provisions - And Why This Is Not Article 368 is analysed by relating Article 4 to Supplemental, then testing the relationship through Incidental and Consequential Provisions.",
+      "mechanism": "Article 4(1) allows a law under Articles 2 or 3 to do more than just redraw territory.",
+      "consequence": "Article 4 does not erase the sovereignty line.",
+      "trap": "every territorial change is a constitutional amendment. Correct approach: internal reorganisation ordinarily travels through Article 3 read with Article 4; cession does not.",
+      "answer": "It may amend the First Schedule and the Fourth Schedule and include supplemental, incidental and consequential provisions, including adjustments of representation in Parliament and in the legislature or legislatures of the affected States."
+    },
+    {
+      "title": "THE FIRST SCHEDULE AS A LIVING TERRITORIAL LEDGER",
+      "terms": "Whenever a unit is created, renamed, merged, split or ceded, the schedule must reflect that shift.",
+      "mechanism": "Whenever a unit is created, renamed, merged, split or ceded, the schedule must reflect that shift.",
+      "consequence": "The schedule's exam value is twofold: it anchors territorial facts, and it reminds you that territorial questions are constitutional-structural, not merely map-trivia questions.",
+      "trap": "Do not miss this limiting distinction: that is why different kinds of legal instruments change the same schedule.",
+      "answer": "The First Schedule is the Constitution's territorial ledger."
+    },
+    {
+      "title": "ACQUISITION, CESSION AND BOUNDARY SETTLEMENT: BERUBARI, THE 1969 DISTINCTION AND THE 100TH AMENDMENT",
+      "terms": "The sovereignty test separates cession from boundary settlement: surrender of accepted Indian territory requires Article 368, while genuine ascertainment or implementation of a disputed boundary may proceed without constitutional amendment.",
+      "mechanism": "A modern answer must qualify the historical list: contemporary international law and the UN Charter sharply constrain acquisition by force.",
+      "consequence": "In a later 1969 ruling, the Supreme Court distinguished a boundary settlement from cession: when the legal issue is ascertainment or implementation of an existing boundary and not the transfer of accepted Indian territory, Article 368 is not automatically triggered.",
+      "trap": "any reduction of a State's area equals cession. Correct approach: internal diminution under Article 3 is not the same as cession to a foreign sovereign.",
+      "answer": "The sovereignty test separates cession from boundary settlement: surrender of accepted Indian territory requires Article 368, while genuine ascertainment or implementation of a disputed boundary may proceed without constitutional amendment."
+    },
+    {
+      "title": "STATE OF WEST BENGAL V UNION OF INDIA: WHY THE CASE MATTERS EVEN THOUGH IT IS NOT AN ARTICLE 3 CASE",
+      "terms": "Technically, State Of West Bengal V Union Of India: Why The Case Matters Even Though It Is Not An Article 3 Case is analysed by relating Article 3 to States, then testing the relationship through Union and Centre.",
+      "mechanism": "West Bengal is not the governing authority for cession or the Article 3 procedure.",
+      "consequence": "States were not treated as sovereign entities possessing a residual inviolable domain against the Union.",
+      "trap": "Do not miss this limiting distinction: berubari and the Article 3 text do that work.",
+      "answer": "Use the case for the strong-Centre thesis, especially when you need to explain why the Union can constitutionally outweigh States in questions about property, territorial flexibility or structural supremacy."
+    },
+    {
+      "title": "INTEGRATION OF PRINCELY STATES AND THE TRANSITIONAL 1950 MAP",
+      "terms": "Hyderabad, Junagadh and Jammu and Kashmir are highlighted because their routes were politically difficult, not because the remaining integrations were legally or administratively uniform.",
+      "mechanism": "Hyderabad, Junagadh and Jammu and Kashmir are highlighted because their routes were politically difficult, not because the remaining integrations were legally or administratively uniform.",
+      "consequence": "India was divided into Part A, Part B, Part C and Part D units: former Governors' provinces, former princely States or unions, centrally administered units, and the Andaman and Nicobar Islands respectively.",
+      "trap": "Do not miss this limiting distinction: manipur and Tripura were Part C.",
+      "answer": "The textbook total of 552 princely States and the shorthand 549 joined / three difficult cases are retained as the repository owner's conventional count."
+    },
+    {
+      "title": "LINGUISTIC REORGANISATION: DHAR, JVP, ANDHRA AND THE FAZL ALI / SRC SETTLEMENT",
+      "terms": "The States Reorganisation Act, 1956 and the Seventh Amendment abolished the old Part A/B/C/D classification and created 14 States and 6 Union Territories on 1 November 1956.",
+      "mechanism": "After Potti Sriramulu's death following a prolonged fast, Andhra State was created in 1953 out of the Telugu-speaking areas of Madras.",
+      "consequence": "Do not simplify the story into language alone.",
+      "trap": "Do not miss this limiting distinction: the States Reorganisation Act, 1956 and the Seventh Amendment abolished the old Part A/B/C/D...",
+      "answer": "Linguistic reorganisation is one of the strongest answers to the claim that a strong Union must suppress regional identity."
+    },
+    {
+      "title": "AFTER 1956: STATE CREATION, RENAMING AND THE ROUTE TO 28 STATES AND 8 UNION TERRITORIES",
+      "terms": "Reorganisation after 1956 proves that Article 3 is not a one-time linguistic device.",
+      "mechanism": "Goa, Daman and Diu, after the end of Portuguese rule in December 1961, entered through the Twelfth Amendment, 1962; Goa became a State in 1987.",
+      "consequence": "Reorganisation after 1956 proves that Article 3 is not a one-time linguistic device.",
+      "trap": "Maharashtra is not labelled the 15th State: Gujarat is conventionally counted as the 15th because the bilingual Bombay State was reorganised into the two successor States.",
+      "answer": "Several renamings are also exam-worthy: United Provinces to Uttar Pradesh (1950), Madras to Tamil Nadu (1969), Mysore to Karnataka (1973), Laccadive-Minicoy-Amindivi Islands to Lakshadweep (1973), Uttaranchal to Uttarakhand (2006), Pondicherry to Puducherry (2006), and Orissa to Odisha (2011)."
+    },
+    {
+      "title": "ARTICLE 3'S STATE-UT CONSULTATION NUANCE",
+      "terms": "The presence of a UT legislature does not convert that territory into a \"State\" for the purposes of the Article 3 proviso.",
+      "mechanism": "Explanation II says the clause (a) power includes forming a new State or UT by uniting part of any State or UT to any other State or UT.",
+      "consequence": "Explanation I says that \"State\" includes a Union Territory for clauses (a) to (e), but does not include a Union Territory in the proviso.",
+      "trap": "Do not miss this limiting distinction: the operative power is wide; the consultation safeguard is narrower.",
+      "answer": "The presence of a UT legislature does not convert that territory into a \"State\" for the purposes of the Article 3 proviso."
+    },
+    {
+      "title": "J&K REORGANISATION AS AN ARTICLE 3 ILLUSTRATION",
+      "terms": "Justice Sanjiv Khanna's concurrence stressed that State-to-UT conversion has grave federal consequences and must rest on strong grounds and strict Article 3 compliance.",
+      "mechanism": "Justice Sanjiv Khanna's concurrence stressed that State-to-UT conversion has grave federal consequences and must rest on strong grounds and strict Article 3 compliance.",
+      "consequence": "The Jammu and Kashmir Reorganisation Act, 2019 took effect on 31 October 2019 and created the UT of Jammu and Kashmir with a legislature and the UT of Ladakh without one.",
+      "trap": "Its detailed subject competence, Lieutenant-Governor relationship and Parliament-Assembly overlap belong to Topic 25 and are not retaught here.",
+      "answer": "In In Re Article 370 (11 December 2023), the Supreme Court held that the State legislature's views under the first proviso to Article 3 are recommendatory; carving out Ladakh as a UT was valid under Article 3(a) read with Explanation I; because the Solicitor General stated that J&K Statehood would be restored, the Court found it unnecessary to determine whether converting the entire State into the two UTs was permissible under Article 3; and restoration of Statehood should take place \"at the earliest and as soon as possible.\"."
+    },
+    {
+      "title": "CURRENT DEMANDS FOR NEW OR SMALLER STATES",
+      "terms": "Test every demand against democratic support across affected districts and communities; administrative accessibility; fiscal and revenue viability; division of assets, debt, water, power, employees and institutions; capital and transition cost; minority protection inside the proposed State; inter-State and national-security effects; and whether devolution or autonomy could solve the grievance at lower cost.",
+      "mechanism": "Test every demand against democratic support across affected districts and communities; administrative accessibility; fiscal and revenue viability; division of assets, debt, water, power, employees and institutions; capital and transition cost; minority protection inside the proposed State; inter-State and national-security effects; and whether devolution or autonomy could solve the grievance at lower cost.",
+      "consequence": "Statehood can improve representation and focus, but without capacity and negotiated transition it can merely relocate conflict.",
+      "trap": "Do not miss this limiting distinction: qualified verdict: smaller is not automatically better.",
+      "answer": "Qualified verdict: smaller is not automatically better."
+    },
+    {
+      "title": "FEDERALISM, DEMOCRATIC CONSENT, REGIONALISM AND TERRITORIAL INTEGRITY",
+      "terms": "Technically, Federalism, Democratic Consent, Regionalism And Territorial Integrity is analysed by relating Federalism to Democratic Consent, then testing the relationship through Regionalism and Territorial Integrity.",
+      "mechanism": "Because affected States cannot stop reorganisation, and because UT downgrades sharpen central control, Article 3 can look like consultation stripped of bargaining power.",
+      "consequence": "India's territorial Constitution works best when parliamentary flexibility is joined to federal statesmanship: unity supplies the legal power, while democratic consultation supplies the legitimacy.",
+      "trap": "Prelims traps to recite before any objective question: Article 2 is not Article 3; State consent is not mandatory; a UT has no proviso consultation right; Article 4 keeps internal reorganisation outside Article 368; cession requires Article 368; the current count is 28 States and 8 UTs.",
+      "answer": "Article 3 is a centralising safety valve: its flexibility can absorb regional demands, but legitimacy depends on consultation, transparency and negotiated transition because affected States possess no constitutional veto."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 11
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 13
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 13,
+      "continues_stage": 15
+    },
+    {
+      "page": 8,
+      "y_start": 11692,
+      "y_end": 13892,
+      "overlap_px": 260,
+      "from_stage": 13,
+      "continues_stage": 15
+    }
+  ]
+}

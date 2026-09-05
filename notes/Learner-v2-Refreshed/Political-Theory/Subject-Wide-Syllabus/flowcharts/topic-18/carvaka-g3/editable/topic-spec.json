@@ -1,0 +1,1189 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-18",
+  "subject": "Political Theory",
+  "title": "LIBERTY, EQUALITY AND PROPERTY",
+  "short_route": "THE TRIAD, LIBERTY VERSUS → MILL, GREEN, BERLIN AND → EQUALITY, OPPORTUNITY, OUTCOME, RAWLS → PROPERTY AS SECURITY AND → BERLIN, MACCALLUM AND TAYLOR → FUNCTIONLESS PROPERTY AND NOZICK'S",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g3\\topic-18_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-18-ascii-2026-08-30-g3.json",
+  "ascii_spec_sha256": "5500cbc41aa8e1e19da887db93910520cac7cec21900ae03691b8407effc3094",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE TRIAD, LIBERTY VERSUS LICENCE AND THREE SPHERES OF FREEDOM",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE TRIAD, LIBERTY VERSUS LICENCE AND THREE SPHERES OF",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LIBERTY REJECTS UNREASONABLE RESTRAINT WHILE LICENCE PERMITS OPPRESSION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] CIVIL, POLITICAL AND ECONOMIC LIBERTY IDENTIFY DIFFERENT SPHERES",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] ECONOMIC DEPENDENCE CAN HOLLOW OUT FORMALLY PROTECTED CHOICE.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE TRIAD ASKS HOW LIBERTY, EQUALITY AND PROPERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] NEGATIVE FREEDOM TESTS OBSTRUCTION; POSITIVE FREEDOM TESTS EFFECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] EQUALITY BEGINS WITH EQUAL WORTH BUT DOES NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Triad, Liberty versus Licence and Three Spheres of Freedom",
+        "[1] Liberty rejects unreasonable restraint while licence permits oppression.",
+        "[2] Civil, political and economic liberty identify different spheres of agency.",
+        "[3] Economic dependence can hollow out formally protected choice."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Triad, Liberty versus Licence and Three Spheres of Freedom",
+            "[1] Liberty rejects unreasonable restraint while licence permits oppression.",
+            "[2] Civil, political and economic liberty identify different spheres of agency."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Economic dependence can hollow out formally protected choice.",
+            "[4] The triad asks how liberty, equality and property condition one another.",
+            "[5] Negative freedom tests obstruction; positive freedom tests effective agency.",
+            "[6] Equality begins with equal worth but does not require identical treatment."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[7] Property protects a personal sphere yet can also organise structural dependence.",
+            "[8] A strong answer specifies the agent, constraint, institution and distributive effect.",
+            "VERDICT → Liberty is regulated agency across civil, political and economic life.",
+            "ANSWER USE → Begin by separating liberty from licence and formal from usable freedom."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Liberty is regulated agency across civil, political and economic life.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MILL, GREEN, BERLIN AND COMPETING POSITIVE-LIBERTY LANGUAGES",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MILL, GREEN, BERLIN AND COMPETING POSITIVE-LIBERTY LANGUAGES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MILL'S HARM PRINCIPLE DOES NOT CONVERT EVERY SOCIAL",
+          "role": "caution"
+        },
+        {
+          "text": "[2] GREEN'S ENABLING FREEDOM DIFFERS FROM BERLINIAN SELF-MASTERY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] BERLIN PROTECTS NON-INTERFERENCE AND WARNS AGAINST THE REAL-SELF",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE FOUR FREEDOMS ADDRESS AND ATLANTIC CHARTER REMAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] OFFENCE, DISLIKE AND PATERNAL BENEFIT ARE NOT AUTOMATICALLY",
+          "role": "caution"
+        },
+        {
+          "text": "[6] ENABLING INSTITUTIONS SHOULD EXPAND AGENCY WITHOUT PRESCRIBING ONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Mill, Green, Berlin and Competing Positive-Liberty Languages",
+        "[1] Mill's harm principle does not convert every social consequence into coercible harm.",
+        "[2] Green's enabling freedom differs from Berlinian self-mastery.",
+        "[3] Berlin protects non-interference and warns against the real-self hijack."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Mill, Green, Berlin and Competing Positive-Liberty Languages",
+            "[1] Mill's harm principle does not convert every social consequence into coercible harm.",
+            "[2] Green's enabling freedom differs from Berlinian self-mastery."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Berlin protects non-interference and warns against the real-self hijack.",
+            "[4] The Four Freedoms address and Atlantic Charter remain distinct 1941 documents.",
+            "[5] Offence, dislike and paternal benefit are not automatically harms to others.",
+            "[6] Enabling institutions should expand agency without prescribing one authentic life."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[7] Hayek and Friedman defend related market freedoms through different arguments.",
+            "[8] Marcuse tests false needs while Macpherson tests developmental and extractive power.",
+            "VERDICT → Mill, Green and Berlin identify different grounds and risks of freedom.",
+            "ANSWER USE → Keep harm, enabling conditions and self-mastery analytically separate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Mill, Green and Berlin identify different grounds and risks of freedom.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EQUALITY, OPPORTUNITY, OUTCOME, RAWLS, DWORKIN AND MILL",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EQUALITY, OPPORTUNITY, OUTCOME, RAWLS, DWORKIN AND MILL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] EQUALITY MEANS EQUAL WORTH RATHER THAN SAMENESS.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] FORMAL, SUBSTANTIVE, OPPORTUNITY AND OUTCOME STANDARDS ANSWER DIFFERENT",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] RAWLS ORDERS LIBERTY, FAIR OPPORTUNITY AND THE DIFFERENCE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] DWORKIN SEPARATES RESOURCE EQUALITY, BRUTE LUCK AND OPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] ROUSSEAU DISTINGUISHES NATURAL DIFFERENCE FROM CONVENTIONALLY ORGANISED HIERARCHY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] ALTERABILITY ALONE DOES NOT PROVE INJUSTICE; RATIONAL RELEVANCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Equality, Opportunity, Outcome, Rawls, Dworkin and Mill",
+        "[1] Equality means equal worth rather than sameness.",
+        "[2] Formal, substantive, opportunity and outcome standards answer different questions.",
+        "[3] Rawls orders liberty, fair opportunity and the difference principle."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Equality, Opportunity, Outcome, Rawls, Dworkin and Mill",
+            "[1] Equality means equal worth rather than sameness.",
+            "[2] Formal, substantive, opportunity and outcome standards answer different questions."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Rawls orders liberty, fair opportunity and the difference principle.",
+            "[4] Dworkin separates resource equality, brute luck and option luck.",
+            "[5] Rousseau distinguishes natural difference from conventionally organised hierarchy.",
+            "[6] Alterability alone does not prove injustice; rational relevance must also be tested."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[7] Outcome equality ranges from a floor or range to a strict end-state pattern.",
+            "[8] Affirmative action requires its rationale, design, beneficiary and objection to be named.",
+            "VERDICT → Equality can target rules, opportunities or outcomes without requiring sameness.",
+            "ANSWER USE → Use Rawls, Dworkin and Mill to specify the metric."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Equality can target rules, opportunities or outcomes without requiring sameness.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PROPERTY AS SECURITY AND POWER: LOCKE, HEGEL AND MARX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROPERTY AS SECURITY AND POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "LOCKE, HEGEL AND MARX",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PROPERTY CAN SECURE PERSONAL INDEPENDENCE OR BECOME SOCIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] LOCKE'S LABOUR TITLE INCLUDES ENOUGH-AND-AS-GOOD AND SPOILAGE PROVISOS.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] HEGEL LINKS PROPERTY TO PERSONHOOD WITHOUT LICENSING UNLIMITED",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] MARX DISTINGUISHES PERSONAL USE FROM PRIVATE CONTROL OF",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] MONEY EXPLAINS ACCUMULATION IN LOCKE BUT DOES NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Property as Security and Power: Locke, Hegel and Marx",
+        "[1] Property can secure personal independence or become social power over others.",
+        "[2] Locke's labour title includes enough-and-as-good and spoilage provisos.",
+        "[3] Hegel links property to personhood without licensing unlimited accumulation."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Hegel links property to personhood without licensing unlimited accumulation.",
+          "[7] Property concentration affects bargaining power even where contracts are formally free."
+        ],
+        [
+          "Property as Security and Power: Locke, Hegel and Marx",
+          "[4] Marx distinguishes personal use from private control of production.",
+          "VERDICT → Property supports personhood but can also organise class domination."
+        ],
+        [
+          "[1] Property can secure personal independence or become social power over others.",
+          "[5] Money explains accumulation in Locke but does not erase every justificatory limit.",
+          "ANSWER USE → Compare Locke, Hegel and Marx through source, object and limit."
+        ],
+        [
+          "[2] Locke's labour title includes enough-and-as-good and spoilage provisos.",
+          "[6] Ownership must be separated into use, income, exclusion, transfer and control powers.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Property as Security and Power: Locke, Hegel and Marx",
+            "[1] Property can secure personal independence or become social power over others.",
+            "[2] Locke's labour title includes enough-and-as-good and spoilage provisos."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[3] Hegel links property to personhood without licensing unlimited accumulation.",
+            "[4] Marx distinguishes personal use from private control of production.",
+            "[5] Money explains accumulation in Locke but does not erase every justificatory limit.",
+            "[6] Ownership must be separated into use, income, exclusion, transfer and control powers."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Property concentration affects bargaining power even where contracts are formally free.",
+            "VERDICT → Property supports personhood but can also organise class domination.",
+            "ANSWER USE → Compare Locke, Hegel and Marx through source, object and limit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Property supports personhood but can also organise class domination.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BERLIN, MACCALLUM AND TAYLOR AS NAMED LIBERTY EVIDENCE",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BERLIN, MACCALLUM AND TAYLOR AS NAMED LIBERTY EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MACCALLUM GIVES EVERY FREEDOM CLAIM AN AGENT, CONSTRAINT",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] TAYLOR CONTRASTS OPPORTUNITY WITH MEANINGFUL EXERCISE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] BERLIN'S PATERNALISM WARNING REMAINS THE CHECK ON EXERCISE-BASED",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FORMAL UNIFICATION DOES NOT ELIMINATE SUBSTANTIVE DISAGREEMENT.",
+          "role": "caution"
+        },
+        {
+          "text": "[5] DIFFERENT THEORIES DISAGREE OVER WHICH OBSTACLES COUNT AS",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] INTERNAL INCAPACITY SHOULD NOT BE CONVERTED AUTOMATICALLY INTO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Berlin, MacCallum and Taylor as Named Liberty Evidence",
+        "[1] MacCallum gives every freedom claim an agent, constraint and purpose.",
+        "[2] Taylor contrasts opportunity with meaningful exercise.",
+        "[3] Berlin's paternalism warning remains the check on exercise-based freedom."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Berlin, MacCallum and Taylor as Named Liberty Evidence",
+            "[1] MacCallum gives every freedom claim an agent, constraint and purpose.",
+            "[2] Taylor contrasts opportunity with meaningful exercise."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Berlin's paternalism warning remains the check on exercise-based freedom.",
+            "[4] Formal unification does not eliminate substantive disagreement.",
+            "[5] Different theories disagree over which obstacles count as freedom-reducing constraints.",
+            "[6] Internal incapacity should not be converted automatically into a licence for coercion."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[7] Opportunity matters because open doors may coexist with conditioned inability to act.",
+            "VERDICT → MacCallum unifies grammar, not the substance of liberty disputes.",
+            "ANSWER USE → Add Taylor's exercise claim and Berlin's paternalism check."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → MacCallum unifies grammar, not the substance of liberty disputes.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FUNCTIONLESS PROPERTY AND NOZICK'S ENTITLEMENT THEORY",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FUNCTIONLESS PROPERTY AND NOZICK'S ENTITLEMENT THEORY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] TAWNEY TARGETS FUNCTIONLESS PROPERTY RATHER THAN EVERY LARGE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] NOZICK REQUIRES ACQUISITION, TRANSFER, PROVISO AND RECTIFICATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] RECTIFICATION REMAINS SERIOUSLY UNDER-SPECIFIED.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] SOCIAL-DEMOCRATIC FUNCTION AND LIBERTARIAN ENTITLEMENT ARE RIVAL STANDARDS.",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] HOBHOUSE TREATS MUCH WEALTH AS SOCIALLY ENABLED RATHER",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] LASKI TESTS PROPERTY THROUGH PERSONALITY, DEMOCRATIC POWER AND",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Functionless Property and Nozick's Entitlement Theory",
+        "[1] Tawney targets functionless property rather than every large holding.",
+        "[2] Nozick requires acquisition, transfer, proviso and rectification.",
+        "[3] Rectification remains seriously under-specified."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Functionless Property and Nozick's Entitlement Theory",
+            "[1] Tawney targets functionless property rather than every large holding.",
+            "[2] Nozick requires acquisition, transfer, proviso and rectification."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Rectification remains seriously under-specified.",
+            "[4] Social-democratic function and libertarian entitlement are rival standards.",
+            "[5] Hobhouse treats much wealth as socially enabled rather than purely individual creation.",
+            "[6] Laski tests property through personality, democratic power and the common good."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[7] A voluntary recent transfer cannot cleanse an unjust chain of acquisition.",
+            "[8] A balanced answer asks what ownership contributes, whom it subjects and how it arose.",
+            "VERDICT → Function and entitlement are rival tests of legitimate property.",
+            "ANSWER USE → State Nozick's proviso and under-specified rectification."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Function and entitlement are rival tests of legitimate property.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SYNTHESIS, INDIAN APPLICATIONS AND OBJECTION-REPLY CHAINS",
+      "structural_type": "institution-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SYNTHESIS, INDIAN APPLICATIONS AND OBJECTION-REPLY CHAINS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE FINAL SYNTHESIS IS PROPOSED RATHER THAN JOINTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] AFFIRMATIVE ACTION HAS COMPENSATORY, ANTI-SUBORDINATION, REPRESENTATIONAL AND OPPORTUNITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] REVERSE DISCRIMINATION IS AN OBJECTION, NOT A NEUTRAL",
+          "role": "caution"
+        },
+        {
+          "text": "[4] NAKSHA ILLUSTRATES TITLE, PROCEDURE AND CONTESTABILITY WITHOUT PROVING",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] FORMAL EQUALITY AND REMEDIAL DIFFERENTIATION CAN SERVE EQUAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] CURRENT SCHEMES ILLUSTRATE INSTITUTIONAL DESIGN BUT DO NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Synthesis, Indian Applications and Objection-Reply Chains",
+        "[1] The final synthesis is proposed rather than jointly canonical.",
+        "[2] Affirmative action has compensatory, anti-subordination, representational and opportunity rationales.",
+        "[3] Reverse discrimination is an objection, not a neutral description."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Synthesis, Indian Applications and Objection-Reply Chains",
+            "[1] The final synthesis is proposed rather than jointly canonical.",
+            "[2] Affirmative action has compensatory, anti-subordination, representational and opportunity rationales."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[3] Reverse discrimination is an objection, not a neutral description.",
+            "[4] NAKSHA illustrates title, procedure and contestability without proving redistribution.",
+            "[5] Formal equality and remedial differentiation can serve equal citizenship together.",
+            "[6] Current schemes illustrate institutional design but do not prove a philosophical doctrine."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "[7] Digitised title can reduce uncertainty while leaving concentration and exclusion untouched.",
+            "VERDICT → Equal liberty requires correction that remains reasoned and contestable.",
+            "ANSWER USE → Treat reverse discrimination as an objection and NAKSHA as illustration."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Equal liberty requires correction that remains reasoned and contestable.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "REPUBLICAN NON-DOMINATION: MECHANISM AND BENEVOLENT MASTER",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REPUBLICAN NON-DOMINATION",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM AND BENEVOLENT MASTER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] REPUBLICAN LIBERTY ASKS WHETHER ANOTHER HOLDS ARBITRARY POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] DOMINATION CAN EXIST WITHOUT CURRENT INTERFERENCE.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] THE BENEVOLENT MASTER LEAVES SOME OPTIONS UNOBSTRUCTED BUT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] DEPENDENCY CREATES ANTICIPATORY SELF-ADJUSTMENT AND LOSS OF STANDING.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CAPACITY, ARBITRARINESS AND WEAK CONTESTATION TOGETHER REVEAL THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Republican Non-Domination: Mechanism and Benevolent Master",
+        "[1] Republican liberty asks whether another holds arbitrary power with impunity.",
+        "[2] Domination can exist without current interference.",
+        "[3] The benevolent master leaves some options unobstructed but the person is not free simpliciter."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Republican Non-Domination: Mechanism and Benevolent Master",
+            "[1] Republican liberty asks whether another holds arbitrary power with impunity.",
+            "[2] Domination can exist without current interference."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] The benevolent master leaves some options unobstructed but the person is not free simpliciter.",
+            "[4] Dependency creates anticipatory self-adjustment and loss of standing.",
+            "[5] Capacity, arbitrariness and weak contestation together reveal the domination relation.",
+            "[6] A credible threat may discipline conduct before any command is actually issued."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[7] Workplace, household, platform and bureaucratic power can each create dependency.",
+            "[8] Non-domination adds secure status to the negative-liberty concern with obstruction.",
+            "VERDICT → Non-domination detects standing arbitrary power beyond interference counts.",
+            "ANSWER USE → Use the benevolent master without calling the person free simpliciter."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Non-domination detects standing arbitrary power beyond interference counts.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "REPUBLICAN LAW, OBJECTIONS AND THREE-FAMILY COMPARISON",
+      "structural_type": "application-pyq",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REPUBLICAN LAW, OBJECTIONS AND THREE-FAMILY COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GENERAL, PUBLIC AND REVIEWABLE LAW CAN REDUCE DOMINATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PRIVATE DOMINIUM AND PUBLIC IMPERIUM REQUIRE PARALLEL SCRUTINY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] CONTESTABILITY MUST BE EFFECTIVE RATHER THAN A DECORATIVE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE THREE-FAMILY MATRIX SEPARATES NON-INTERFERENCE, CAPACITY AND STATUS.",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] LAW IS FREEDOM-ENHANCING ONLY WHEN IT IS NON-ARBITRARY",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] PUBLIC REASONS, INDEPENDENT REVIEW AND PRACTICAL REMEDIES LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Republican Law, Objections and Three-Family Comparison",
+        "[1] General, public and reviewable law can reduce domination.",
+        "[2] Private dominium and public imperium require parallel scrutiny.",
+        "[3] Contestability must be effective rather than a decorative complaints route."
+      ],
+      "matrix": [
+        [
+          "THEORY / CLAIM",
+          "OBJECTION / POWER TEST",
+          "REPLY / QUALIFIED VERDICT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Contestability must be effective rather than a decorative complaints route.",
+          "[7] Private power also requires exit options, voice and protection against retaliation."
+        ],
+        [
+          "Republican Law, Objections and Three-Family Comparison",
+          "[4] The three-family matrix separates non-interference, capacity and status.",
+          "[8] The correct institutional test joins legality, justification, proportionality and appeal."
+        ],
+        [
+          "[1] General, public and reviewable law can reduce domination.",
+          "[5] Law is freedom-enhancing only when it is non-arbitrary in design and administration.",
+          "VERDICT → Answerable law can constitute freedom while arbitrary law becomes imperium."
+        ],
+        [
+          "[2] Private dominium and public imperium require parallel scrutiny.",
+          "[6] Public reasons, independent review and practical remedies limit official discretion.",
+          "ANSWER USE → Test capacity, arbitrariness, impunity and effective contestation."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Republican Law, Objections and Three-Family Comparison",
+            "[1] General, public and reviewable law can reduce domination.",
+            "[2] Private dominium and public imperium require parallel scrutiny."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[3] Contestability must be effective rather than a decorative complaints route.",
+            "[4] The three-family matrix separates non-interference, capacity and status.",
+            "[5] Law is freedom-enhancing only when it is non-arbitrary in design and administration.",
+            "[6] Public reasons, independent review and practical remedies limit official discretion."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "[7] Private power also requires exit options, voice and protection against retaliation.",
+            "[8] The correct institutional test joins legality, justification, proportionality and appeal.",
+            "VERDICT → Answerable law can constitute freedom while arbitrary law becomes imperium.",
+            "ANSWER USE → Test capacity, arbitrariness, impunity and effective contestation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Answerable law can constitute freedom while arbitrary law becomes imperium.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ANSWER ARCHITECTURE, EVIDENCE UNITS AND FINAL RECALL",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ANSWER ARCHITECTURE, EVIDENCE UNITS AND FINAL RECALL",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PETTIT SUPPLIES THE NORMATIVE NON-DOMINATION THEORY; SKINNER RECONSTRUCTS",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] REPUBLICAN OBJECTIONS TEST INSTITUTIONALISATION, OVERBREADTH AND REDUNDANCY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] PSIR AND PHILOSOPHY WORD CONVENTIONS MUST REMAIN SEPARATELY",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FINAL ANSWERS IDENTIFY THE CONSTRAINT, INSTITUTION, OBJECTION AND",
+          "role": "institution"
+        },
+        {
+          "text": "[5] THE REDUNDANCY OBJECTION ASKS WHETHER DOMINATION ADDS ANYTHING",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] THE OVERBREADTH OBJECTION ASKS WHETHER EVERY DEPENDENCY SHOULD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Answer Architecture, Evidence Units and Final Recall",
+        "[1] Pettit supplies the normative non-domination theory; Skinner reconstructs its history.",
+        "[2] Republican objections test institutionalisation, overbreadth and redundancy.",
+        "[3] PSIR and Philosophy word conventions must remain separately labelled."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Answer Architecture, Evidence Units and Final Recall",
+            "[1] Pettit supplies the normative non-domination theory; Skinner reconstructs its history.",
+            "[2] Republican objections test institutionalisation, overbreadth and redundancy."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] PSIR and Philosophy word conventions must remain separately labelled.",
+            "[4] Final answers identify the constraint, institution, objection and graded verdict.",
+            "[5] The redundancy objection asks whether domination adds anything to non-interference.",
+            "[6] The overbreadth objection asks whether every dependency should count as political unfreedom."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[7] Institutionalisation requires measurable safeguards rather than republican vocabulary alone.",
+            "VERDICT → Three liberty families survive MacCallum's formal unification.",
+            "ANSWER USE → Separate Pettit's norm from Skinner's historical recovery."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Three liberty families survive MacCallum's formal unification.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLOSE OPTIONS TURN ON HARM, CAPACITY, DOMINATION, OPPORTUNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PROPERTY CATEGORIES MUST NOT COLLAPSE PERSONHOOD, PERSONAL USE",
+          "role": "caution"
+        },
+        {
+          "text": "[3] MILL, GREEN AND BERLIN MUST BE SEPARATED BY",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FORMAL EQUALITY IS NOT SUBSTANTIVE ACCESS, AND OUTCOME",
+          "role": "caution"
+        },
+        {
+          "text": "[5] LOCKE'S PROVISOS PREVENT LABOUR-MIXING FROM BECOMING AN UNLIMITED",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] NOZICK'S THREE PRINCIPLES REQUIRE HISTORICAL EVIDENCE, NOT MERELY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Close options turn on harm, capacity, domination, opportunity and title.",
+        "[2] Property categories must not collapse personhood, personal use and productive control.",
+        "[3] Mill, Green and Berlin must be separated by the role assigned to coercion."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Close options turn on harm, capacity, domination, opportunity and title.",
+            "[2] Property categories must not collapse personhood, personal use and productive control."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Mill, Green and Berlin must be separated by the role assigned to coercion.",
+            "[4] Formal equality is not substantive access, and outcome is not a single strict doctrine.",
+            "[5] Locke's provisos prevent labour-mixing from becoming an unlimited acquisition slogan.",
+            "[6] Nozick's three principles require historical evidence, not merely present consent."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[7] Every MCQ should eliminate adjacent doctrines through one precise qualifier.",
+            "VERDICT → Close distractors exploit adjacent equality and property categories.",
+            "ANSWER USE → Name the metric, owner and institutional mechanism before choosing."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Name the metric, owner and institutional mechanism before choosing.",
+      "answer_line": "VERDICT → Close distractors exploit adjacent equality and property categories.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] TWENTY-TWO PYQS REMAIN CROSS-APPLIED UNDER SIX PHILOSOPHY OWNERS.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THE FINAL FLOW JOINS EQUAL LIBERTY, FAIR OPPORTUNITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] TRANSFERRED PYQS RETAIN THEIR ORIGINAL PHILOSOPHY OWNERSHIP AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] TEN-MARK MODELS PRIORITISE A THESIS, DISTINCTION, OBJECTION AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] FIFTEEN-MARK ANSWERS ADD COMPARISON AND A DEVELOPED OBJECTION-REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] TWENTY-MARK ANSWERS INTEGRATE THEORY, INSTITUTION, CURRENT ILLUSTRATION AND",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] Twenty-two PYQs remain cross-applied under six Philosophy owners.",
+        "[2] The final flow joins equal liberty, fair opportunity, justified property and contestable power.",
+        "[3] Transferred PYQs retain their original Philosophy ownership and directive."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] Twenty-two PYQs remain cross-applied under six Philosophy owners.",
+            "[2] The final flow joins equal liberty, fair opportunity, justified property and contestable power."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Transferred PYQs retain their original Philosophy ownership and directive.",
+            "[4] Ten-mark models prioritise a thesis, distinction, objection and concise verdict.",
+            "[5] Fifteen-mark answers add comparison and a developed objection-reply chain.",
+            "[6] Twenty-mark answers integrate theory, institution, current illustration and evaluation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[7] Six original questions cover liberty, equality, property and republican synthesis.",
+            "[8] Register notes finish the package so revision follows teaching and solved practice.",
+            "VERDICT → Cross-application preserves six Philosophy ownership routes.",
+            "ANSWER USE → End on equal agency, non-domination and justified social power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Cross-application preserves six Philosophy ownership routes.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

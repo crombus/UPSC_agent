@@ -1,0 +1,862 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\topic-21_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\topic-21_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-21",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 36,
+      "heading": "SESSION 1 - Topic Stakes, Concept Map and Essential Definitions",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** The common good as a normative idea distinct fro",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 299.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 131.424
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 57,
+      "markdown_body_line_end": 65,
+      "heading": "3. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 199.89
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 99,
+      "markdown_body_line_end": 111,
+      "heading": "6. Thinkers and positions",
+      "preview": "Thinker / stream | Position in this topic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Thinker / stream",
+          "Position in this topic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 379.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1159,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owners are Forms of Government, Humanism, Secularism and Multiculturalism, Development and Social Progress, Caste Discrimination: Gandhi an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 162.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 89.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1161,
+      "markdown_body_line_end": 1161,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 89.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 58.556
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1201,
+      "markdown_body_line_end": 1204,
+      "heading": "Solved PYQ 1 - 2018 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it DEFINES liberal democracy exactly (popular rule + constitutional limits + minority protection), answers the \"deeper principles\" half with Ambedkar's political-vs-social-equality thesis, and anchors India w",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 416.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 310.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1208,
+      "heading": "Solved PYQ 1 - 2018 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Humanism, Secularism and Multiculturalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 307.724
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 277.256
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1246,
+      "markdown_body_line_end": 1248,
+      "heading": "Solved PYQ 2 - 2018 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers \"do you subscribe?\" with a graded yes, pairs H6 (recognition) with H1/H7 (dignity as the internal-restriction limit), and closes on complementarity rather than praise.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 467.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 389.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1252,
+      "markdown_body_line_end": 1252,
+      "heading": "Solved PYQ 2 - 2018 Q1(b), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 386.724
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 356.256
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1290,
+      "markdown_body_line_end": 1292,
+      "heading": "Solved PYQ 3 - 2020 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it runs the achievements/limits balance the stem demands, deploys F10 form-vs-substance as the critical engine, and grades with the form/substance verdict instead of a flat \"yes/no\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 425.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 381.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1296,
+      "markdown_body_line_end": 1296,
+      "heading": "Solved PYQ 3 - 2020 Q1(b), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Development and Social Progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 378.724
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 348.256
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1324,
+      "markdown_body_line_end": 1324,
+      "heading": "Solved PYQ 4 - 2020 Q2(a), 20 marks",
+      "preview": "**Why this earns marks:** it \"states\" the concept completely (all five commitments + means-ends unity), \"examines\" with a genuine objection/reply set, concedes the Ambedkar critique honestly, and delivers a balanced, non-hagiographic verdic",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 298.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 239.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1328,
+      "heading": "Solved PYQ 4 - 2020 Q2(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Caste Discrimination: Gandhi and Ambedkar.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 236.724
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 206.256
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1355,
+      "heading": "PYQ 5 - 2023 · Q3(b) (15 marks)",
+      "preview": "**Primary owner:** Philosophy Paper II - Humanism, Secularism and Multiculturalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 438.391
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 407.924
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1394,
+      "markdown_body_line_end": 1395,
+      "heading": "Solved PYQ 6 - 2024 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it walks the tolerance->coexistence->recognition ladder, shows tolerance is necessary-but-hierarchical, and gives recognition as the completing move.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 459.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 381.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1560,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Advanced reconstruction of common-good theory across liberal",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 673.424
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1593,
+      "markdown_body_line_end": 1600,
+      "heading": "4. Definitions and distinctions",
+      "preview": "Distinction | Advanced note",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Distinction",
+          "Advanced note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 652.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 377.69
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1603,
+      "markdown_body_line_end": 1615,
+      "heading": "5. Thinker-by-thinker positions",
+      "preview": "Thinker | Position used in this topic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Thinker",
+          "Position used in this topic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 355.09
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1728,
+      "markdown_body_line_end": 1745,
+      "heading": "ASCII PANEL 1/12 - Topic Stakes, Concept Map and Essential Definitions",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1749,
+      "markdown_body_line_end": 1766,
+      "heading": "ASCII PANEL 2/12 - Gauba's Common-Good Argument",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1770,
+      "markdown_body_line_end": 1787,
+      "heading": "ASCII PANEL 3/12 - Common Good, Common Interest, Public Interest and Consensus",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1791,
+      "markdown_body_line_end": 1808,
+      "heading": "ASCII PANEL 4/12 - The Liberal Route and Macpherson's Correction",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1812,
+      "markdown_body_line_end": 1829,
+      "heading": "ASCII PANEL 5/12 - Communitarian Embeddedness and Thinker-Specific Mechanisms",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1833,
+      "markdown_body_line_end": 1850,
+      "heading": "ASCII PANEL 6/12 - The Marxian Class Barrier",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1854,
+      "markdown_body_line_end": 1871,
+      "heading": "ASCII PANEL 7/12 - Gandhian Trusteeship, Bread Labour and Sarvodaya",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1875,
+      "markdown_body_line_end": 1892,
+      "heading": "ASCII PANEL 8/12 - Comparison, Trap Repair and Revision Spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1896,
+      "markdown_body_line_end": 1913,
+      "heading": "ASCII PANEL 9/12 - Directive Control, Reconstructions and Objection-Reply Chains",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1917,
+      "markdown_body_line_end": 1934,
+      "heading": "ASCII PANEL 10/12 - Plurality, Indian Applications, MCQ Ledger and PYQ Routes",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1938,
+      "markdown_body_line_end": 1955,
+      "heading": "ASCII PANEL 11/12 - MCQ Remediation and Trap Repair",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1959,
+      "markdown_body_line_end": 1976,
+      "heading": "ASCII PANEL 12/12 - PYQ Ownership and Answer Practice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1980,
+      "markdown_body_line_end": 1993,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 394.29
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2041,
+      "markdown_body_line_end": 2050,
+      "heading": "THINKER GRID",
+      "preview": "Thinker / stream | Safe use | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Thinker / stream",
+          "Safe use",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 519.49
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2054,
+      "markdown_body_line_end": 2061,
+      "heading": "SUPPLEMENTARY BRIDGES - SAFE ONLY WHEN BOUNDED",
+      "preview": "Bridge | Safe use | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Bridge",
+          "Safe use",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 494.49
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 264.288
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    }
+  ]
+}

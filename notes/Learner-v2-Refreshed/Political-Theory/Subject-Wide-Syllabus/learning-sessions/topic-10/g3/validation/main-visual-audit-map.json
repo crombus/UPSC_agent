@@ -1,0 +1,631 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g3\\topic-10_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g3\\topic-10_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 36,
+      "heading": "SESSION 1 - Concept Map and State Foundations",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Distinguishing state, government, society and na",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 278.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 96.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 41,
+      "markdown_body_line_end": 56,
+      "heading": "1. One-screen conceptual map",
+      "preview": "SOCIETY = widest web of human relationships",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 82,
+      "heading": "3. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 373.391
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 45.99
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 130,
+      "heading": "Secularism and multiculturalism: the missing state-diversity bridge",
+      "preview": "Concept | Foundation meaning | Necessary/sufficient caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Foundation meaning",
+          "Necessary/sufficient caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 509.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 174,
+      "heading": "Civil-society variants",
+      "preview": "Variant | Core idea | Relation to state",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Variant",
+          "Core idea",
+          "Relation to state"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 472.791
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 207.79
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 207,
+      "markdown_body_line_end": 207,
+      "heading": "11. Revision capsule / answer spine",
+      "preview": "⚠️ **Answer spine:** Define the state through territory, population, government and sovereignty; separate it from society, government and nation; then place civil society, nationalism and internationalism around that core.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 312.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 246.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1178,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owner is Philosophy Paper II — Humanism, Secularism and Multiculturalism. They are not re-routed to Political Theory; they are included bec",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 506.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 447.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1180,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Primary owner:** Philosophy Paper II - Philosophy Paper II — Humanism, Secularism and Multiculturalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 447.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 416.956
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1221,
+      "heading": "Solved PYQ 1 - 2022 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- \"critically analyse\" is answered with two-sided critique (essentialism + internal restriction), each with a reply, plus the recognition/ redistribution upgrade (H9/H11) and the affirmative/transformative crit",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 663.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1225,
+      "markdown_body_line_end": 1225,
+      "heading": "Solved PYQ 1 - 2022 Q3(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Philosophy Paper II — Humanism, Secularism and Multiculturalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 660.924
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 630.456
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1266,
+      "markdown_body_line_end": 1268,
+      "heading": "Solved PYQ 2 - 2023 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it \"critically examines\" by pairing each India-referenced challenge with its canonical reply and adds the caste-hierarchy caution rather than listing problems.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 190.256
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 112.188
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1272,
+      "heading": "Solved PYQ 2 - 2023 Q1(d), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Philosophy Paper II — Humanism, Secularism and Multiculturalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 109.688
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 79.22
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1311,
+      "markdown_body_line_end": 1313,
+      "heading": "Solved PYQ 3 - 2023 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it endorses the statement via H4, then critically distinguishes equal respect from strict separation and blocks the \"acceptance = immunity\" misreading with H5.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 391.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 299.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1317,
+      "heading": "Solved PYQ 3 - 2023 Q4(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Philosophy Paper II — Humanism, Secularism and Multiculturalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 296.724
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 266.256
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1355,
+      "heading": "Solved PYQ 4 - 2024 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it walks the tolerance->coexistence->recognition ladder, shows tolerance is necessary-but-hierarchical, and gives recognition as the completing move.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 459.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 381.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1359,
+      "markdown_body_line_end": 1359,
+      "heading": "Solved PYQ 4 - 2024 Q4(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Philosophy Paper II — Humanism, Secularism and Multiculturalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 378.724
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 348.256
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1398,
+      "heading": "Solved PYQ 5 - 2025 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it separates plurality/pluralism/secularism, runs the three decoupling cases, and answers \"necessarily\" as a conceptual (not historical) question.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 445.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 352.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1558,
+      "markdown_body_line_end": 1563,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Reconstructing the modern state and its relation to civil so",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 221.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 77.424
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1568,
+      "markdown_body_line_end": 1580,
+      "heading": "1. One-screen advanced map",
+      "preview": "STATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 664.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1604,
+      "markdown_body_line_end": 1609,
+      "heading": "State vs Government vs Society vs Nation",
+      "preview": "Concept | Precise meaning | Distinguishing marker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning",
+          "Distinguishing marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 767.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 590.69
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1618,
+      "markdown_body_line_end": 1631,
+      "heading": "Secularism and multiculturalism as state-boundary problems",
+      "preview": "RELIGIOUS / CULTURAL DIVERSITY (social fact)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 454.29
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 323.29
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1710,
+      "markdown_body_line_end": 1713,
+      "heading": "Nationalism vs Internationalism",
+      "preview": "Idea | Unit of primary loyalty | Political implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Idea",
+          "Unit of primary loyalty",
+          "Political implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 157.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 68.09
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1721,
+      "heading": "Secularism vs multiculturalism",
+      "preview": "Axis | Secularism | Multiculturalism",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Secularism",
+          "Multiculturalism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 644.29
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1769,
+      "markdown_body_line_end": 1782,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 338.29
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    }
+  ]
+}

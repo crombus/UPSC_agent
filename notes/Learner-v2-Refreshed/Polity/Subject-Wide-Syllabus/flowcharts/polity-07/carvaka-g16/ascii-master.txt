@@ -1,0 +1,192 @@
+ASCII MASTER FLOW — PANEL 1/11: Part III as an operating architecture, not a list
+PART III
+  +-- GATEKEEPERS: Article 12 defines State; Article 13 controls law
+  +-- EQUALITY: Articles 14-18
+  +-- FREEDOMS: Articles 19-22
+  +-- EXPLOITATION: Articles 23-24
+  +-- RELIGION: Articles 25-28
+  +-- CULTURE / EDUCATION: Articles 29-30
+  +-- REMEDY: Article 32
+  +-- SAVINGS / SPECIAL CONTROL: Articles 31A-31C and 33-35
+
+REACH
+vertical: person versus State
+horizontal: express private reach in Articles 15(2), 17, 23 and 24
+positive duty: State may need to protect rights against private domination
+
+RIGHT = protected claim + justified limit + effective remedy.
+
+ASCII MASTER FLOW — PANEL 2/11: Article 12 and 13: who is bound and what becomes void
+ARTICLE 12 INQUIRY
+Union/State organs + local authorities + other authorities
+  -> deep and pervasive control?
+  -> financial, functional and administrative domination?
+  -> public importance tied to government?
+  -> Pradeep Kumar Biswas (2002): cumulative instrumentality inquiry
+
+ARTICLE 13 INQUIRY
+pre-Constitution inconsistent law -> void to extent of inconsistency
+post-Constitution abridging law  -> prohibited and void to that extent
+"law" includes ordinance, rule, regulation, notification, custom and usage
+
+DOCTRINES
+severability | eclipse | waiver generally unavailable | prospective overruling
+
+AMENDMENTS: Article 13(4) + Article 368 -> Kesavananda Bharati (1973) basic-structure review.
+
+ASCII MASTER FLOW — PANEL 3/11: Equality code and reservation doctrine
+ARTICLE 14
+  equality before law + equal protection
+  classification = intelligible differentia + rational nexus
+  E.P. Royappa (1973)/Maneka Gandhi (1978) = arbitrariness is antithetical to equality
+
+ARTICLES 15-16
+  non-discrimination + enabling substantive-equality clauses
+  Champakam Dorairajan (1951) -> First Amendment -> Article 15(4)
+  Indra Sawhney (1992) -> creamy layer, ordinary 50% ceiling, no 16(4) promotion
+  77th/81st/82nd/85th -> promotion, backlog, qualification and seniority tools
+  M. Nagaraj (2006)/Jarnail Singh (2018) -> inadequacy data and Article 335 efficiency controls
+  103rd + Janhit Abhiyan (2022) -> EWS upheld by majority
+  Davinder Singh (2024) -> evidence-based SC sub-classification allowed, not mandated
+
+ARTICLES 17-18 abolish untouchability and reject titles with narrow exceptions.
+
+ASCII MASTER FLOW — PANEL 4/11: Article 19: six freedoms and restriction-ground discipline
+ARTICLE 19(1), CITIZENS ONLY
+speech | assembly | association | movement | residence | profession
+        |
+valid law + listed ground + reasonableness + proportionality
+
+SPEECH GROUNDS UNDER 19(2)
+sovereignty/integrity | State security | friendly relations | public order
+decency/morality | contempt | defamation | incitement
+
+ANCHORS
+press and right to know derive from 19(1)(a)
+Shreya Singhal (2015): 66A void; advocacy differs from incitement
+Anuradha Bhasin (2020): shutdown orders require publication and proportionality
+Kedar Nath Singh (1962): sedition read toward incitement
+BNS section 152 requires exact analysis, not a claim that sedition was merely renamed.
+
+ASCII MASTER FLOW — PANEL 5/11: Articles 20-22: criminal process, dignity and detention
+ARTICLE 20: ALL PERSONS
+  +-- no retrospective criminal offence or enhanced penalty
+  +-- no prosecution and punishment twice for same offence
+  +-- no compelled testimonial self-incrimination by an accused
+
+ARTICLE 21
+A.K. Gopalan (1950) compartmentalisation -> R.C. Cooper (1970) linkage
+  -> Maneka Gandhi (1978): just, fair and reasonable procedure
+  -> dignity family: privacy, livelihood, legal aid and speedy trial
+K.S. Puttaswamy (2017) test: legality + legitimate aim + proportionality + safeguards
+
+ARTICLE 22
+ordinary arrest: grounds + lawyer + magistrate within 24 hours
+preventive detention: distinct safeguards; no-board period remains three months
+44th Amendment's proposed two-month substitution has not commenced.
+
+ASCII MASTER FLOW — PANEL 6/11: Exploitation, religion and minority autonomy
+ARTICLES 23-24
+trafficking and forced labour prohibited; minimum-wage coercion can implicate 23
+children below 14 barred from factories, mines and hazardous employment under 24
+
+ARTICLES 25-28
+individual conscience and profession, practice and propagation
+Article 26 denomination management
+limits: public order, morality, health and other FRs
+State may regulate secular activity and enact social reform
+
+ARTICLES 29-30
+29(1): any section of citizens with distinct language, script or culture
+29(2): admission non-discrimination in covered institutions
+30: religious and linguistic minorities may establish and administer institutions
+
+Autonomy survives regulation; regulation cannot erase institutional identity.
+
+ASCII MASTER FLOW — PANEL 7/11: Article 32: writ remedies and the enforcement ladder
+RIGHT VIOLATED
+  +-- ARTICLE 32 -> SUPREME COURT for Fundamental Rights
+  +-- ARTICLE 226 -> HIGH COURT for FRs and other legal rights
+        |
+WRIT CHOICE
+HABEAS CORPUS   produce detained person; test detention
+MANDAMUS        compel public duty
+PROHIBITION     stop jurisdictional excess before completion
+CERTIORARI      quash completed order for jurisdictional or legal error
+QUO WARRANTO    test authority to hold public office
+
+Article 32 is itself a Fundamental Right; legal fit still matters.
+Article 226 is territorially and remedially wider, not constitutionally inferior.
+
+ASCII MASTER FLOW — PANEL 8/11: Saving clauses, property and amendment doctrine
+ARTICLE 31A
+specified reform categories protected from Article 14/19 attack
+
+ARTICLE 31B + NINTH SCHEDULE
+listed-law protection
+  -> I.R. Coelho (2007): post-24 Apr 1973 insertions face basic-structure review
+
+ARTICLE 31C
+original protection for genuine Article 39(b)/(c) laws against 14 and 19
+  -> Kesavananda Bharati (1973) limits immunity
+  -> Minerva Mills (1980) defeats extension to all DPSPs
+  -> Property Owners Association (2024) preserves original 31C
+  -> not every private asset is automatically a community resource
+
+44th Amendment: Article 31 leaves Part III
+Article 300A: every person; deprivation only by authority of law.
+
+ASCII MASTER FLOW — PANEL 9/11: Article 358 and 359: emergency effects are not the same
+ARTICLE 358                         ARTICLE 359
+automatic operation                Presidential order required
+Article 19 only                     specified rights named in order
+war/external-aggression Emergency   Emergency while order operates
+changes State's Article 19 limit    suspends enforcement, not text
+post-44th nexus conditions apply    Articles 20 and 21 cannot be included
+
+ARTICLES 33-35
+Parliament may tailor FRs for forces and specified services;
+may indemnify martial-law acts and has exclusive competence over listed matters.
+
+MARTIAL LAW != NATIONAL EMERGENCY
+local exceptional coercive control differs from constitutional proclamation.
+
+No rule says all Fundamental Rights automatically disappear in Emergency.
+
+ASCII MASTER FLOW — PANEL 10/11: Current-law and verified PYQ control rail
+CURRENT LAW — STATUS AT 28 AUGUST 2026
+Electoral Bonds (2024): political-funding information protected under Article 19(1)(a).
+Davinder Singh (2024): evidence-based SC sub-classification permitted, not mandated.
+Property Owners Association (2024): original Article 31C survives
+for genuine Article 39(b)/(c) laws.
+DPDP notifications (2025): phased commencement; whole regime not yet operative.
+Harish Rana (2026), 2026 INSC 222: CANH withdrawal permitted within passive-euthanasia safeguards;
+active euthanasia not legalised.
+BNS section 152: vires notice issued 28 Aug 2025; no final merits decision located.
+
+VERIFIED PYQ ROUTE
+Mains: 2019 secularism; 2021 equality; 2022 movement/residence;
+2023 living Article 21 + gender justice; 2024 privacy/DNA.
+Prelims: 2018-2023 inferred keys; 2024 Q76 official key D;
+2026 Q54 exact local stem, provisional non-official key D.
+
+ASCII MASTER FLOW — PANEL 11/11: Exact 10/15/20-mark architecture: liberty, limitation and remedy
+10 MARKS / 150 WORDS
+1. Identify claimant, State action and exact Article.
+2. State citizen/person reach and vertical/horizontal effect.
+3. Apply protected interest -> listed limit -> proportionality.
+4. Add one controlling case and Article 32/226 remedy.
+5. Conclude with a narrow qualification.
+
+15 MARKS / 250 WORDS
+1. Frame gatekeepers, right, limit, remedy and saving clause.
+2. Use clause-level text + two controlling cases + one objection/reply.
+3. Apply Article 14 fairness and Article 19/21 proportionality.
+4. Finish with institutional and current-law qualification.
+
+20 MARKS / 250 WORDS
+1. Define the constitutional tension and map all relevant Article families.
+2. Trace origin/doctrinal evolution and compare competing principles.
+3. Use 4-6 named cases, one current-law control and exact remedy.
+4. Evaluate overreach, implementation and counterargument.
+5. Conclude: liberty survives through legality, justification and enforceable remedy.

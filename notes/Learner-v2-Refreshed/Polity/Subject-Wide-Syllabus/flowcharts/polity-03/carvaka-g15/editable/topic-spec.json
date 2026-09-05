@@ -1,0 +1,941 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-03",
+  "subject": "Polity",
+  "title": "SALIENT FEATURES OF THE INDIAN CONSTITUTION",
+  "short_route": "THE CONSTITUTION AS A → WRITTEN DETAIL AND THREE → FEDERAL DESIGN: DIVIDED POWER → RESPONSIBLE EXECUTIVE UNDER CONSTITUTIONAL → RIGHTS, DIRECTIVE PRINCIPLES AND → DEMOCRATIC PARTICIPATION AND ACCOUNTABILITY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g15 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g15\\polity-03_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+  "ascii_spec_sha256": "1b910be7cb0f3310d7d39c90811fefe8a5f497bdb60c1c6b302f767d6d6d44c4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CONSTITUTION AS A LAYERED OPERATING SYSTEM",
+      "structural_type": "constitutional-feature-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE CONSTITUTION AS A LAYERED OPERATING SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN CONSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WRITTEN, DETAILED, SUPREME, PARTLY RIGID AND PARTLY FLEXIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "FEDERAL DISTRIBUTION WITH A STRONG AND COORDINATING UNION",
+          "role": "evidence"
+        },
+        {
+          "text": "PARLIAMENTARY RESPONSIBILITY AND BICAMERAL LEGISLATION",
+          "role": "primary"
+        },
+        {
+          "text": "JUDICIAL REVIEW, RULE OF LAW AND BASIC-STRUCTURE CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS, DPSPS, DUTIES, JUSTICE, DIGNITY AND FRATERNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADULT FRANCHISE, ELECTIONS AND LOCAL SELF-GOVERNMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN CONSTITUTION",
+        "FORM: written, detailed, supreme, partly rigid and partly flexible",
+        "POWER: federal distribution with a strong and coordinating Union",
+        "GOVERNMENT: parliamentary responsibility and bicameral legislation",
+        "LIMIT: judicial review, rule of law and basic-structure control"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INDIAN CONSTITUTION",
+            "FORM: written, detailed, supreme, partly rigid and partly flexible",
+            "POWER: federal distribution with a strong and coordinating Union"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "GOVERNMENT: parliamentary responsibility and bicameral legislation",
+            "LIMIT: judicial review, rule of law and basic-structure control",
+            "PURPOSE: rights, DPSPs, duties, justice, dignity and fraternity"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PARTICIPATION: adult franchise, elections and local self-government",
+            "INTEGRATION: single citizenship, integrated judiciary, All-India Services",
+            "PLURALISM: language, asymmetry, minorities and special arrangements"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CRISIS MODE: Emergency powers under constitutional conditions",
+            "A salient feature explains how several provisions work together."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A salient constitutional feature matters through its relationship with other features, as federal distribution, parliamentary responsibility, rights and review jointly structure limited government.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 1 — WHAT COUNTS AS A SALIENT CONSTITUTIONAL FEATURE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 20 — CONTINUITY, TRANSFORMATION, STRENGTHS AND INTERNAL TENSIONS"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WRITTEN DETAIL AND THREE AMENDMENT TRACKS",
+      "structural_type": "articles-procedure-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WRITTEN DETAIL AND THREE AMENDMENT TRACKS",
+          "role": "primary"
+        },
+        {
+          "text": "WHY DETAILED?",
+          "role": "outcome"
+        },
+        {
+          "text": "FEDERAL DISTRIBUTION + DIVERSITY + ADMINISTRATIVE CONTINUITY + RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANGE ROUTES",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMPLE MAJORITY OUTSIDE ARTICLE 368",
+          "role": "institution"
+        },
+        {
+          "text": "STATE REORGANISATION AND SPECIFIED INSTITUTIONAL ADJUSTMENTS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 368 SPECIAL MAJORITY TOTAL-MEMBERSHIP MAJORITY + TWO-THIRDS PRESENT",
+          "role": "institution"
+        },
+        {
+          "text": "SPECIAL MAJORITY + HALF OF STATE LEGISLATURES FEDERAL PROVISIONS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "WHY DETAILED?",
+        "federal distribution + diversity + administrative continuity + rights + institutions",
+        "CHANGE ROUTES",
+        "SIMPLE MAJORITY OUTSIDE ARTICLE 368",
+        "State reorganisation and specified institutional adjustments"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "WHY DETAILED?",
+            "federal distribution + diversity + administrative continuity + rights + institutions",
+            "CHANGE ROUTES"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SIMPLE MAJORITY OUTSIDE ARTICLE 368",
+            "State reorganisation and specified institutional adjustments",
+            "ARTICLE 368 SPECIAL MAJORITY total-membership majority + two-thirds present and voting"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SPECIAL MAJORITY + HALF OF STATE LEGISLATURES federal provisions and listed Union-State institutions",
+            "OUTER LIMIT",
+            "Article 368 power → amendment permitted"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "destruction of basic structure prohibited",
+            "Flexibility enables adaptation; rigidity protects constitutional identity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India's written detail is an accommodation device: it constitutionalises diversity and administration, while remaining dependent on conventions, interpretation and implementation.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 2 — WRITTEN, LENGTHY AND DETAILED CONSTITUTION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 4 — BLEND OF RIGIDITY AND FLEXIBILITY"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FEDERAL DESIGN: DIVIDED POWER, INTEGRATED NATION",
+      "structural_type": "federal-relations-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FEDERAL DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "DIVIDED POWER, INTEGRATED NATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "FEDERAL CORE WRITTEN SUPREMACY + TWO LEVELS + DIVIDED",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRALISING FEATURES",
+          "role": "evidence"
+        },
+        {
+          "text": "UNION-WEIGHTED FIELDS AND RESIDUARY POWER SINGLE CITIZENSHIP, INTEGRATED JUDICIARY",
+          "role": "mechanism"
+        },
+        {
+          "text": "EMERGENCY CONVERSION OF OPERATING BALANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "COOPERATIVE FEATURES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTER-STATE COUNCIL",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "FEDERAL CORE written supremacy + two levels + divided competence + independent adjudication",
+        "CENTRALISING FEATURES",
+        "Union-weighted fields and residuary power single citizenship, integrated judiciary and All-India Services",
+        "Emergency conversion of operating balance",
+        "COOPERATIVE FEATURES"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FEDERAL CORE written supremacy + two levels + divided competence + independent adjudication",
+            "CENTRALISING FEATURES",
+            "Union-weighted fields and residuary power single citizenship, integrated judiciary and All-India Services"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Emergency conversion of operating balance",
+            "COOPERATIVE FEATURES",
+            "Inter-State Council"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Finance Commission",
+            "GST Council grants, shared schemes and administrative coordination",
+            "ASYMMETRIC FEATURES different arrangements for different States and regions language and tribal-area accommodation"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: federal with strong integrative mechanisms, not unitary with decoration."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: federal with strong integrative mechanisms, not unitary with decoration.",
+      "answer_line": "Indian federalism distributes power to accommodate diversity, but retains centralising, cooperative and asymmetric devices so the Union can coordinate without erasing the States.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 5 — FEDERAL SYSTEM WITH CENTRALISING, COOPERATIVE AND ASYMMETRIC DIMENSIONS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 19 — ASYMMETRY, LANGUAGE, PLURALISM AND ACCOMMODATION OF DIVERSITY"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RESPONSIBLE EXECUTIVE UNDER CONSTITUTIONAL CHECKS",
+      "structural_type": "executive-legislative-checks",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "RESPONSIBLE EXECUTIVE UNDER CONSTITUTIONAL CHECKS",
+          "role": "primary"
+        },
+        {
+          "text": "LOK SABHA",
+          "role": "outcome"
+        },
+        {
+          "text": "COUNCIL OF MINISTERS COLLECTIVE RESPONSIBILITY CONFIDENCE REQUIREMENT QUESTIONS, COMMITTEES",
+          "role": "institution"
+        },
+        {
+          "text": "FORMAL EXECUTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "REAL POLITICAL EXECUTIVE",
+          "role": "primary"
+        },
+        {
+          "text": "PRIME MINISTER-LED COUNCIL OF MINISTERS",
+          "role": "institution"
+        },
+        {
+          "text": "LEGISLATURE MAKES LAW <→ EXECUTIVE INITIATES AND ADMINISTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "JUDICIARY REVIEWS LEGALITY <→ LEGISLATURE MAY VALIDLY AMEND OR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PEOPLE → LOK SABHA → COUNCIL OF MINISTERS collective responsibility confidence requirement questions, committees and",
+        "FORMAL EXECUTIVE: President",
+        "REAL POLITICAL EXECUTIVE: Prime Minister-led Council of Ministers",
+        "Legislature makes law <→ Executive initiates and administers",
+        "Judiciary reviews legality <→ Legislature may validly amend or reenact"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PEOPLE → LOK SABHA → COUNCIL OF MINISTERS collective responsibility confidence requirement questions, committees and financial control",
+            "FORMAL EXECUTIVE: President"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "REAL POLITICAL EXECUTIVE: Prime Minister-led Council of Ministers",
+            "Legislature makes law <→ Executive initiates and administers"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Judiciary reviews legality <→ Legislature may validly amend or reenact",
+            "President acts constitutionally <→ limited discretion remains reviewable"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NO WATERTIGHT SEPARATION functional overlap + institutional restraint + constitutional supremacy",
+            "PEOPLE → LOK SABHA → COUNCIL OF MINISTERS collective responsibility confidence requirement questions, committees and financial control"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Parliamentary government makes the executive continuously responsible to the elected lower House, although disciplined majorities can turn legislative confidence into executive dominance.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 6 — PARLIAMENTARY GOVERNMENT AND RESPONSIBLE EXECUTIVE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 7 — A. SYNTHESIS OF PARLIAMENTARY POWER, JUDICIAL REVIEW AND CONSTITUTIONAL SUPREMACY",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 8 — SEPARATION OF POWERS THROUGH CHECKS AND BALANCES"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RIGHTS, DIRECTIVE PRINCIPLES AND DUTIES: THE NORMATIVE TRIANGLE",
+      "structural_type": "rights-dpsp-duty-balance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RIGHTS, DIRECTIVE PRINCIPLES AND DUTIES",
+          "role": "primary"
+        },
+        {
+          "text": "THE NORMATIVE TRIANGLE",
+          "role": "outcome"
+        },
+        {
+          "text": "FUNDAMENTAL RIGHTS SHIELD LIBERTY, EQUALITY AND DIGNITY; JUDICIALLY ENFORCEABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECTIVE PRINCIPLES DIRECT WELFARE, REDISTRIBUTION AND TRANSFORMATION; NON-JUSTICIABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "FUNDAMENTAL DUTIES STATE CIVIC EXPECTATIONS; NOT DIRECTLY ENFORCEABLE AS",
+          "role": "caution"
+        },
+        {
+          "text": "CONSTITUTIONAL MORALITY POWER PURSUES PUBLIC PURPOSES THROUGH LAWFUL AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "MINERVA MILLS (1980)",
+          "role": "comparison"
+        },
+        {
+          "text": "HARMONY BETWEEN PARTS III AND IV IS PART OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FUNDAMENTAL RIGHTS shield liberty, equality and dignity; judicially enforceable",
+        "DIRECTIVE PRINCIPLES direct welfare, redistribution and transformation; non-justiciable",
+        "FUNDAMENTAL DUTIES state civic expectations; not directly enforceable as rights",
+        "CONSTITUTIONAL MORALITY power pursues public purposes through lawful and rights-respecting means",
+        "MINERVA MILLS (1980)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FUNDAMENTAL RIGHTS shield liberty, equality and dignity; judicially enforceable",
+            "DIRECTIVE PRINCIPLES direct welfare, redistribution and transformation; non-justiciable"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FUNDAMENTAL DUTIES state civic expectations; not directly enforceable as rights",
+            "CONSTITUTIONAL MORALITY power pursues public purposes through lawful and rights-respecting means"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MINERVA MILLS (1980)",
+            "Harmony between Parts III and IV is part of basic structure."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Rights are not absolute; DPSPs are not irrelevant; Duties do not erase rights.",
+            "FUNDAMENTAL RIGHTS shield liberty, equality and dignity; judicially enforceable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Fundamental Rights restrain power, Directive Principles direct social transformation and Fundamental Duties express civic responsibility; constitutional balance requires harmony without erasing their different legal status.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 11 — RIGHTS, DIRECTIVE PRINCIPLES AND DUTIES AS NORMATIVE ARCHITECTURE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 9 — CONSTITUTIONAL SUPREMACY, RULE OF LAW AND LIMITED GOVERNMENT"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DEMOCRATIC PARTICIPATION AND ACCOUNTABILITY ECOSYSTEM",
+      "structural_type": "institution-accountability-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEMOCRATIC PARTICIPATION AND ACCOUNTABILITY ECOSYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "CITIZEN ADULT FRANCHISE",
+          "role": "outcome"
+        },
+        {
+          "text": "REPRESENTATIVE GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "UNION/STATE ELECTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "ELECTION COMMISSION SUPERVISION LOCAL DEMOCRACY",
+          "role": "primary"
+        },
+        {
+          "text": "PARTS IX AND IXA",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCOUNTABILITY CHAIN LEGISLATURES",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL AND FINANCIAL SCRUTINY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CITIZEN adult franchise → representative government",
+        "Union/State elections → Election Commission supervision local democracy → Parts IX and IXA",
+        "ACCOUNTABILITY CHAIN legislatures → political and financial scrutiny",
+        "CAG → audit evidence",
+        "Finance Commission → fiscal distribution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CITIZEN adult franchise → representative government",
+            "Union/State elections → Election Commission supervision local democracy → Parts IX and IXA"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ACCOUNTABILITY CHAIN legislatures → political and financial scrutiny",
+            "CAG → audit evidence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Finance Commission → fiscal distribution",
+            "UPSC / State PSCs → recruitment safeguards courts → legality and rights review"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SUBSTANTIVE DEMOCRACY vote + local participation + affirmative action + social justice",
+            "Independence requires secure tenure, resources, fair appointments and compliance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Universal adult franchise established equal political membership from the Constitution's commencement, while representative institutions and bicameralism channel that equality into government.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 13 — UNIVERSAL ADULT FRANCHISE, REPRESENTATIVE DEMOCRACY AND BICAMERALISM",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 15 — INDEPENDENT CONSTITUTIONAL BODIES AND ACCOUNTABILITY ECOSYSTEM",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 17 — LOCAL SELF-GOVERNMENT, SOCIAL JUSTICE AND AFFIRMATIVE ACTION"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NORMAL MODE, EMERGENCY MODE AND RESTORATION",
+      "structural_type": "emergency-mechanism",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NORMAL MODE, EMERGENCY MODE AND RESTORATION",
+          "role": "primary"
+        },
+        {
+          "text": "NORMAL MODE FEDERAL DISTRIBUTION + RESPONSIBLE GOVERNMENTS + ORDINARY",
+          "role": "outcome"
+        },
+        {
+          "text": "ART 352",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL EMERGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "UNION POWER EXPANDS; ARTICLES 358/359 FOLLOW EXACT CONDITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "ART 356",
+          "role": "outcome"
+        },
+        {
+          "text": "FAILURE OF CONSTITUTIONAL MACHINERY IN A STATE SPECIFIED STATE",
+          "role": "institution"
+        },
+        {
+          "text": "ART 360",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORMAL MODE federal distribution + responsible governments + ordinary rights enforcement",
+        "ART 352: national Emergency",
+        "Union power expands; Articles 358/359 follow exact conditions",
+        "ART 356: failure of constitutional machinery in a State specified State functions assumed; legislative control",
+        "ART 360: financial Emergency financial directions may alter ordinary fiscal autonomy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NORMAL MODE federal distribution + responsible governments + ordinary rights enforcement",
+            "ART 352: national Emergency"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Union power expands; Articles 358/359 follow exact conditions",
+            "ART 356: failure of constitutional machinery in a State specified State functions assumed; legislative control applies"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ART 360: financial Emergency financial directions may alter ordinary fiscal autonomy",
+            "CONTROLS written proclamation + parliamentary approval + duration rules + judicial review"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "RESTORATION OF NORMAL CONSTITUTIONAL BALANCE",
+            "Emergency is a constitutional mode, not an unreviewable constitutional suspension."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Emergency provisions permit temporary constitutional centralisation for crisis management, but they do not authorise permanent unitary rule or extra-constitutional government.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 16 — EMERGENCY PROVISIONS AND CONSTITUTIONAL MODES"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FEATURE TENSIONS: STRENGTH ON ONE AXIS, RISK ON ANOTHER",
+      "structural_type": "comparison-problem-response",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FEATURE TENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "STRENGTH ON ONE AXIS, RISK ON ANOTHER",
+          "role": "caution"
+        },
+        {
+          "text": "FEATURE CONSTITUTIONAL GAIN INTERNAL RISK STRONG UNION INTEGRITY AND",
+          "role": "caution"
+        },
+        {
+          "text": "EMERGENCY POWERS CRISIS CAPACITY NORMALISED EXCEPTION ASYMMETRY PLURAL ACCOMMODATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONAL MORALITY TURNS INSTITUTIONAL POWER INTO RESTRAINED TRUSTEESHIP.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "FEATURE CONSTITUTIONAL GAIN INTERNAL RISK strong Union integrity and coordination central overreach parliamentary executive daily",
+        "judicial review rights and limited power counter-majoritarian concern length and detail certainty and inclusion complexity",
+        "blend durability plus adaptation strategic change",
+        "Emergency powers crisis capacity normalised exception asymmetry plural accommodation unequal-bargain criticism independent bodies specialised accountability",
+        "Constitutional morality turns institutional power into restrained trusteeship."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FEATURE CONSTITUTIONAL GAIN INTERNAL RISK strong Union integrity and coordination central overreach parliamentary executive daily accountability executive dominance",
+          "blend durability plus adaptation strategic change",
+          "Constitutional morality turns institutional power into restrained trusteeship.",
+          "judicial review rights and limited power counter-majoritarian concern length and detail certainty and inclusion complexity and legalism amendment"
+        ],
+        [
+          "judicial review rights and limited power counter-majoritarian concern length and detail certainty and inclusion complexity and legalism amendment",
+          "Emergency powers crisis capacity normalised exception asymmetry plural accommodation unequal-bargain criticism independent bodies specialised accountability appointment dependence",
+          "FEATURE CONSTITUTIONAL GAIN INTERNAL RISK strong Union integrity and coordination central overreach parliamentary executive daily accountability executive dominance",
+          "blend durability plus adaptation strategic change"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FEATURE CONSTITUTIONAL GAIN INTERNAL RISK strong Union integrity and coordination central overreach parliamentary executive daily accountability executive dominance",
+            "judicial review rights and limited power counter-majoritarian concern length and detail certainty and inclusion complexity and legalism amendment"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "blend durability plus adaptation strategic change",
+            "Emergency powers crisis capacity normalised exception asymmetry plural accommodation unequal-bargain criticism independent bodies specialised accountability appointment dependence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Constitutional morality turns institutional power into restrained trusteeship.",
+            "FEATURE CONSTITUTIONAL GAIN INTERNAL RISK strong Union integrity and coordination central overreach parliamentary executive daily accountability executive dominance"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "judicial review rights and limited power counter-majoritarian concern length and detail certainty and inclusion complexity and legalism amendment",
+            "blend durability plus adaptation strategic change"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Government of India Act, 1935 contributed institutional and administrative continuity, but the Constitution changed the source and ends of authority through republicanism, universal franchise, rights and accountable government.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 20 — CONTINUITY, TRANSFORMATION, STRENGTHS AND INTERNAL TENSIONS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 21 — A. CONSTITUTIONAL MORALITY AS THE OPERATING ETHIC",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 22 — CRITICISMS, COUNTERARGUMENTS, CROSS-TOPIC BOUNDARIES AND FINAL VERDICT"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "EXACT 10/15-MARK ARCHITECTURE: WHY THE CONSTITUTION IS A BALANCED SYNTHESIS",
+      "structural_type": "answer-architecture",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXACT 10/15-MARK ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "WHY THE CONSTITUTION IS A BALANCED SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "150 WORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "1. DEFINE FEATURE AS AN INTERACTING DESIGN CHOICE, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "2. SELECT THREE CLUSTERS",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER, LIMITATION AND SOCIAL PURPOSE.",
+          "role": "mechanism"
+        },
+        {
+          "text": "3. ATTACH ONE PROVISION OR INSTITUTION TO EACH CLUSTER.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "10 MARKS / 150 WORDS",
+        "1. Define feature as an interacting design choice, not an adjective.",
+        "2. Select three clusters: power, limitation and social purpose.",
+        "3. Attach one provision or institution to each cluster.",
+        "4. Show one tension: strong Union, executive dominance or review."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "10 MARKS / 150 WORDS",
+            "1. Define feature as an interacting design choice, not an adjective.",
+            "2. Select three clusters: power, limitation and social purpose.",
+            "3. Attach one provision or institution to each cluster."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "4. Show one tension: strong Union, executive dominance or review.",
+            "5. Conclude with balance maintained through accountability.",
+            "15 MARKS / 250 WORDS",
+            "1. Begin with written supremacy and amendment blend."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2. Explain federalism plus centralising, cooperative and asymmetric dimensions.",
+            "3. Link parliamentary responsibility to checks and judicial review.",
+            "4. Integrate rights, DPSPs, duties, franchise and local democracy.",
+            "5. Add independent bodies and Emergency modes."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "6. Evaluate two design tensions and constitutional morality.",
+            "7. Conclude: synthesis is dynamic; tensions do not disappear."
+          ]
+        }
+      ],
+      "mechanism_strip": "7. Conclude: synthesis is dynamic; tensions do not disappear.",
+      "answer_line": "A salient constitutional feature remains qualified by related provisions, so interpretations that convert it into an absolute rule are legally unsound.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#SESSION 22 — CRITICISMS, COUNTERARGUMENTS, CROSS-TOPIC BOUNDARIES AND FINAL VERDICT",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g12\\polity-03_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "0. FRAMING",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 17 SALIENT FEATURES",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCES OF THE CONSTITUTION — FULL TABLE (TABLE 3.4)",
+          "role": "evidence"
+        },
+        {
+          "text": "[FACT — CURRENT LINK] CA",
+          "role": "primary"
+        },
+        {
+          "text": "UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "MAINS ANGLES",
+          "role": "comparison"
+        },
+        {
+          "text": "HISTORICAL PYQ INTEGRATION (2018-2023)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "0. Framing",
+            "The 17 Salient Features",
+            "Sources of the Constitution — full table (Table 3.4) Prelims gold",
+            "Criticism"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "[FACT — CURRENT LINK] CA / relevance",
+            "UPSC Traps",
+            "Mains angles",
+            "Historical PYQ Integration (2018-2023)"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "[FACT — CURRENT LINK] J&K: till 2019 J&K had its own Constitution (Article 370); In Re: Article 370 of the Constitution (2023) upheld the 2019 changes",
+            "[FACT — CURRENT LINK] Co-operatives (feature 17): Union of India v. Rajendra N. Shah (2021) ruling + creation of the Ministry of",
+            "NOT: \"Federation\" is used in the Constitution → never ; Art 1 says \"Union of States.\"",
+            "NOT: Concurrent List borrowed from Canada → Australia ; strong-Centre federalism ← Canada ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 15,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 1
+  }
+}

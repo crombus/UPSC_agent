@@ -1,0 +1,151 @@
+ASCII MASTER FLOW — PANEL 1/9: The Constitution as a layered operating system
+INDIAN CONSTITUTION
+  +-- FORM: written, detailed, supreme, partly rigid and partly flexible
+  +-- POWER: federal distribution with a strong and coordinating Union
+  +-- GOVERNMENT: parliamentary responsibility and bicameral legislation
+  +-- LIMIT: judicial review, rule of law and basic-structure control
+  +-- PURPOSE: rights, DPSPs, duties, justice, dignity and fraternity
+  +-- PARTICIPATION: adult franchise, elections and local self-government
+  +-- INTEGRATION: single citizenship, integrated judiciary, All-India Services
+  +-- PLURALISM: language, asymmetry, minorities and special arrangements
+  +-- CRISIS MODE: Emergency powers under constitutional conditions
+
+A salient feature explains how several provisions work together.
+
+ASCII MASTER FLOW — PANEL 2/9: Written detail and three amendment tracks
+WHY DETAILED?
+federal distribution + diversity + administrative continuity + rights + institutions
+
+CHANGE ROUTES
+  +-- SIMPLE MAJORITY OUTSIDE ARTICLE 368
+  |     State reorganisation and specified institutional adjustments
+  +-- ARTICLE 368 SPECIAL MAJORITY
+  |     total-membership majority + two-thirds present and voting
+  +-- SPECIAL MAJORITY + HALF OF STATE LEGISLATURES
+        federal provisions and listed Union-State institutions
+
+OUTER LIMIT
+Article 368 power -> amendment permitted
+                  -> destruction of basic structure prohibited
+
+Flexibility enables adaptation; rigidity protects constitutional identity.
+
+ASCII MASTER FLOW — PANEL 3/9: Federal design: divided power, integrated nation
+FEDERAL CORE
+written supremacy + two levels + divided competence + independent adjudication
+
+CENTRALISING FEATURES
+  +-- Union-weighted fields and residuary power
+  +-- single citizenship, integrated judiciary and All-India Services
+  +-- Emergency conversion of operating balance
+
+COOPERATIVE FEATURES
+  +-- Inter-State Council | Finance Commission | GST Council
+  +-- grants, shared schemes and administrative coordination
+
+ASYMMETRIC FEATURES
+  +-- different arrangements for different States and regions
+  +-- language and tribal-area accommodation
+
+VERDICT: federal with strong integrative mechanisms, not unitary with decoration.
+
+ASCII MASTER FLOW — PANEL 4/9: Responsible executive under constitutional checks
+PEOPLE -> LOK SABHA -> COUNCIL OF MINISTERS
+                         +-- collective responsibility
+                         +-- confidence requirement
+                         +-- questions, committees and financial control
+
+FORMAL EXECUTIVE: President
+REAL POLITICAL EXECUTIVE: Prime Minister-led Council of Ministers
+
+CHECKS
+Legislature makes law <-> Executive initiates and administers
+Judiciary reviews legality <-> Legislature may validly amend or reenact
+President acts constitutionally <-> limited discretion remains reviewable
+
+NO WATERTIGHT SEPARATION
+functional overlap + institutional restraint + constitutional supremacy
+
+ASCII MASTER FLOW — PANEL 5/9: Rights, Directive Principles and Duties: the normative triangle
+FUNDAMENTAL RIGHTS
+  shield liberty, equality and dignity; judicially enforceable
+          +
+DIRECTIVE PRINCIPLES
+  direct welfare, redistribution and transformation; non-justiciable
+          +
+FUNDAMENTAL DUTIES
+  state civic expectations; not directly enforceable as rights
+          |
+CONSTITUTIONAL MORALITY
+power pursues public purposes through lawful and rights-respecting means
+
+MINERVA MILLS
+Harmony between Parts III and IV is part of basic structure.
+
+Rights are not absolute; DPSPs are not irrelevant; Duties do not erase rights.
+
+ASCII MASTER FLOW — PANEL 6/9: Democratic participation and accountability ecosystem
+CITIZEN
+  +-- adult franchise -> representative government
+  +-- Union/State elections -> Election Commission supervision
+  +-- local democracy -> Parts IX and IXA
+
+ACCOUNTABILITY CHAIN
+  legislatures          -> political and financial scrutiny
+  CAG                   -> audit evidence
+  Finance Commission    -> fiscal distribution
+  UPSC / State PSCs     -> recruitment safeguards
+  courts                -> legality and rights review
+
+SUBSTANTIVE DEMOCRACY
+vote + local participation + affirmative action + social justice
+
+Independence requires secure tenure, resources, fair appointments and compliance.
+
+ASCII MASTER FLOW — PANEL 7/9: Normal mode, emergency mode and restoration
+NORMAL MODE
+federal distribution + responsible governments + ordinary rights enforcement
+      |
+      +-- ART 352: national Emergency
+      |     Union power expands; Articles 358/359 follow exact conditions
+      +-- ART 356: failure of constitutional machinery in a State
+      |     specified State functions assumed; legislative control applies
+      +-- ART 360: financial Emergency
+            financial directions may alter ordinary fiscal autonomy
+      |
+CONTROLS
+written proclamation + parliamentary approval + duration rules + judicial review
+      |
+RESTORATION OF NORMAL CONSTITUTIONAL BALANCE
+
+Emergency is a constitutional mode, not an unreviewable constitutional suspension.
+
+ASCII MASTER FLOW — PANEL 8/9: Feature tensions: strength on one axis, risk on another
+FEATURE                 CONSTITUTIONAL GAIN          INTERNAL RISK
+strong Union            integrity and coordination   central overreach
+parliamentary executive daily accountability         executive dominance
+judicial review         rights and limited power     counter-majoritarian concern
+length and detail       certainty and inclusion      complexity and legalism
+amendment blend         durability plus adaptation   strategic change
+Emergency powers        crisis capacity              normalised exception
+asymmetry               plural accommodation         unequal-bargain criticism
+independent bodies      specialised accountability   appointment dependence
+
+Constitutional morality turns institutional power into restrained trusteeship.
+
+ASCII MASTER FLOW — PANEL 9/9: Exact 10/15-mark architecture: why the Constitution is a balanced synthesis
+10 MARKS / 150 WORDS
+1. Define feature as an interacting design choice, not an adjective.
+2. Select three clusters: power, limitation and social purpose.
+3. Attach one provision or institution to each cluster.
+4. Show one tension: strong Union, executive dominance or review.
+5. Conclude with balance maintained through accountability.
+
+15 MARKS / 250 WORDS
+1. Begin with written supremacy and amendment blend.
+2. Explain federalism plus centralising, cooperative and asymmetric dimensions.
+3. Link parliamentary responsibility to checks and judicial review.
+4. Integrate rights, DPSPs, duties, franchise and local democracy.
+5. Add independent bodies and Emergency modes.
+6. Evaluate two design tensions and constitutional morality.
+7. Conclude: synthesis is dynamic; tensions do not disappear.

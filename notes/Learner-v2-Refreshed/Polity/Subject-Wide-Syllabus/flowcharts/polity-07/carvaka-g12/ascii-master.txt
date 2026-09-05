@@ -1,0 +1,332 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Fundamental Rights: central question and analytical axes
+
+```ascii-master
+FUNDAMENTAL RIGHTS — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Part Iii As An Architecture • Rights • Limits • Remedies • Special Controls •
+KEY TERMS: PART III AS AN ARCHITECTURE: RIGHTS…
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Fundamental Rights
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Articles 12-13 and 31A-35 are in Part III, but they are not…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: PART III AS AN ARCHITECTURE: RIGHTS, LIMITS, REMEDIES AND SPECIAL…
+  • Part Iii As An Architecture
+  • Articles 12-13 and 31A-35 are in Part III, but they are not…
+AXIS 2: ARTICLES 17 AND 18 - ANTI-UNTOUCHABILITY AND ANTI-TITLE GUARANTEES
+  • Articles 17
+  • Untouchability is abolished
+AXIS 3: ARTICLE 22 - ORDINARY ARREST, PREVENTIVE DETENTION AND THE…
+  • Article 22 - Ordinary Arrest
+  • Beyond that, an Advisory Board must report sufficient cause…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Part Iii As An Architecture • Rights • Limits • Remedies
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Part III architecture, beneficiaries, restrictions and proportionality
+
+```ascii-master
+PART III ARCHITECTURE, BENEFICIARIES, RESTRICTIONS AND PROPORTIONALITY
+│
+
+KEY TERMS: Part Iii As An Architecture • Rights • Limits • Remedies • Special Controls •
+KEY TERMS: PART III AS AN ARCHITECTURE: RIGHTS…
+├── KEY CONCEPTS
+│   ├── Part Iii As An Architecture
+│   ├── Rights
+│   ├── Limits
+│   ├── Remedies
+│   └── Special Controls
+│
+├── PART III AS AN ARCHITECTURE: RIGHTS, LIMITS, REMEDIES AND…
+│   ├─ TERMS: Articles 12-13 and 31A-35 are in Part III, but they are not…
+│   ├─ LOGIC: Articles 12-13 and 31A-35 are in Part III, but they are not…
+│   └─ RESULT: Part III is not merely a list of entitlements
+├── BENEFICIARIES, VERTICAL AND HORIZONTAL REACH, POSITIVE AND…
+│   ├─ TERMS: Positive duty: equal protection may require protection from private…
+│   ├─ LOGIC: Positive duty: equal protection may require protection from private…
+│   └─ RESULT: Negative duty: the State must not censor speech outside Article…
+├── QUALIFIED RIGHTS, REASONABLE RESTRICTIONS AND PROPORTIONALITY
+│   ├─ TERMS: Legality: Is the restriction authorised by valid law rather than…
+│   ├─ LOGIC: Legality: Is the restriction authorised by valid law rather than…
+│   └─ RESULT: "Reasonable restriction" and proportionality are related but not…
+├── ARTICLE 12 - THE STATE AND THE INSTRUMENTALITY INQUIRY
+│   ├─ TERMS: Article 226 can reach a non-State body for the public-law element…
+│   ├─ LOGIC: The later approach in Pradeep Kumar Biswas asks whether the body is…
+│   └─ RESULT: Therefore, "not State under Article 12" does not always mean…
+├── ARTICLE 13 - LAW, JUDICIAL REVIEW AND THE VOIDNESS DOCTRINES
+│   ├─ TERMS: Article 13(2): the State shall not make law taking away or…
+│   ├─ LOGIC: Article 13(4): inserted by the Twenty-fourth Amendment
+│   └─ RESULT: Article 13(2): the State shall not make law taking away or…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Articles 12–18: State, judicial review, equality and reservations
+
+```ascii-master
+ARTICLES 12–18: STATE, JUDICIAL REVIEW, EQUALITY AND RESERVATIONS
+
+
+KEY TERMS: Article 14 - Twin Equality • Anti-Arbitrariness • class legislation •
+KEY TERMS: Intelligible differentia • Rational nexus • ARTICLE 14 - TWIN EQUALITY…
+STAGE 01  ARTICLE 14 - TWIN EQUALITY, CLASSIFICATION AND ANTI-ARBITRARINESS
+  ├─ CONDITION / TERM: Intelligible differentia: the included group must be…
+  ├─ CHANGE / MECHANISM: Intelligible differentia: the included group must be…
+  └─ OUTCOME: These are constitutionally or legally structured immunities, not…
+                  │
+                  ▼
+STAGE 02  ARTICLES 15 AND 16 - NON-DISCRIMINATION AND PROTECTIVE DISCRIMINATION
+  ├─ CONDITION / TERM: Article 15(4) followed State of Madras v
+  ├─ CHANGE / MECHANISM: Article 15(4) followed State of Madras v
+  └─ OUTCOME: shops, public restaurants, hotels and places of public entertainment
+                  │
+                  ▼
+STAGE 03  RESERVATION DOCTRINE: CREAMY LAYER, CEILING, PROMOTION, EFFICIENCY…
+  ├─ CONDITION / TERM: Efficiency is not a veto owned by the unreserved category
+  ├─ CHANGE / MECHANISM: Efficiency is not a veto owned by the unreserved category
+  └─ OUTCOME: Jarnail Singh removed the requirement that the State prove…
+                  │
+                  ▼
+STAGE 04  ARTICLES 17 AND 18 - ANTI-UNTOUCHABILITY AND ANTI-TITLE GUARANTEES
+  ├─ CONDITION / TERM: Article 17 is transformative: it does not merely restrain…
+  ├─ CHANGE / MECHANISM: Untouchability is abolished
+  └─ OUTCOME: Article 17 is transformative: it does not merely restrain…
+                  │
+                  ▼
+STAGE 05  ARTICLE 19 - SIX FREEDOMS AND EXACT RESTRICTION GROUNDS
+  ├─ CONDITION / TERM: "Offensiveness", administrative convenience or vague hurt
+  ├─ CONDITION / TERM: sentiment…
+  ├─ CHANGE / MECHANISM: The restrictions must be imposed by law and be reasonable
+  └─ OUTCOME: "Offensiveness", administrative convenience or vague hurt sentiment…
+                  │
+                  ▼
+STAGE 06  SPEECH, PRESS, RIGHT TO KNOW AND THE FIRST AMENDMENT SETTLEMENT
+  ├─ CONDITION / TERM: Freedom of the press is derived from Article 19(1)(a)
+  ├─ CHANGE / MECHANISM: The First Amendment both widened the State's grounds and…
+  └─ OUTCOME: Do not quote them as if present Article 19(2) lacked "public order."
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Articles 19–22: freedoms, due process, privacy and detention
+
+```ascii-master
+ARTICLES 19–22: FREEDOMS, DUE PROCESS, PRIVACY AND DETENTION
+
+
+KEY TERMS: Sedition Lineage • Bns Section 152 • Speech-Incitement Discipline • Article 19 •
+KEY TERMS: The Supreme Court • SEDITION LINEAGE, BNS SECTION 152 AND…
+CAUSE / CONDITION 1: "sedition was simply renamed" is inaccurate
+          │
+          ├── MECHANISM
+          │   The Supreme Court upheld IPC section 124A only by reading it down…
+          │
+          └── EFFECT / CONTRAST
+              BNS section 152 targets purposeful/knowing acts through words…
+          │
+          ▼
+CAUSE / CONDITION 2: The current criminal provision is BNS section 356, not the…
+          │
+          ├── MECHANISM
+          │   struck down IT Act section 66A for vagueness and overbreadth
+          │
+          └── EFFECT / CONTRAST
+              A critical answer should still note the chilling effect…
+          │
+          ▼
+CAUSE / CONDITION 3: Article 20 creates three person-protective criminal shields…
+          │
+          ├── MECHANISM
+          │   Article 20(3) is not a blanket right to suppress every material…
+          │
+          └── EFFECT / CONTRAST
+              No person may be convicted for an act that was not an offence when…
+          │
+          ▼
+CAUSE / CONDITION 4: Article 21 is a living guarantee because courts translate…
+          │
+          ├── MECHANISM
+          │   India did not textually replace "procedure established by law" with…
+          │
+          └── EFFECT / CONTRAST
+              Maneka Gandhi (1978) completed the turn: procedure must be fair…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Articles 23–30 and 32: exploitation, religion, culture and remedies
+
+```ascii-master
+ARTICLES 23–30 AND 32: EXPLOITATION, RELIGION, CULTURE AND REMEDIES
+
+
+KEY TERMS: Article 21A - Education As A… • Article 21A • Article 30 • Article 45 • Article
+KEY TERMS: 51A • Article 22 - Ordinary Arrest
+CAUSE / CONDITION 1: recast Article 45 toward early childhood care and education…
+          │
+          ├── MECHANISM
+          │   recast Article 45 toward early childhood care and education below…
+          │
+          └── EFFECT / CONTRAST
+              article 21A demonstrates a shift from judge-developed Article 21…
+          │
+          ▼
+CAUSE / CONDITION 2: Article 22 separates ordinary arrest from preventive…
+          │
+          ├── MECHANISM
+          │   Beyond that, an Advisory Board must report sufficient cause…
+          │
+          └── EFFECT / CONTRAST
+              This does not mean preventive detainees have no constitutional…
+          │
+          ▼
+CAUSE / CONDITION 3: Union of India (Asiad Workers), payment below the legal…
+          │
+          ├── MECHANISM
+          │   Union of India (Asiad Workers), payment below the legal minimum in…
+          │
+          └── EFFECT / CONTRAST
+              article 24's text is narrower than a complete ban on every kind of…
+          │
+          ▼
+CAUSE / CONDITION 4: identify whether the claimant is an individual or denomination
+          │
+          ├── MECHANISM
+          │   Propagation is not a right to convert another person by force…
+          │
+          └── EFFECT / CONTRAST
+              A bounded official-source check through 21 August 2026 located no…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Saving clauses, property, special powers and emergency effects
+
+```ascii-master
+SAVING CLAUSES, PROPERTY, SPECIAL POWERS AND EMERGENCY EFFECTS
+
+
+KEY TERMS: Articles 31A • Article 31A • 31B • 31C - Saving Provisions Without Blanket… • 24
+KEY TERMS: April 1973 • ARTICLES 31A, 31B AND 31C - SAVING…
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: Ninth Schedule placement is not absolute immunity after I.R
+  ├─ RESPONSE / CONTROL: Do not say Article 39(b) converts all private property
+  ├─ RESPONSE / CONTROL: into…
+  └─ QUALIFIED VERDICT: It is not a general immunity for every property-related
+  └─ QUALIFIED VERDICT: law
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: article 300A is a constitutional right, though not a Fundamental…
+  ├─ RESPONSE / CONTROL: Article 300A now provides: no person shall be deprived of
+  ├─ RESPONSE / CONTROL: property…
+  └─ QUALIFIED VERDICT: Calling property merely a "legal right" is incomplete
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: parliament has exclusive legislative competence over specified Part…
+  ├─ RESPONSE / CONTROL: Parliament may indemnify persons for acts done in
+  ├─ RESPONSE / CONTROL: connection with…
+  └─ QUALIFIED VERDICT: Parliament may determine the extent to which Fundamental
+  └─ QUALIFIED VERDICT: Rights are…
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: "All Fundamental Rights are automatically suspended in Emergency"…
+  ├─ RESPONSE / CONTROL: During a National Emergency based on war or external
+  ├─ RESPONSE / CONTROL: aggression…
+  └─ QUALIFIED VERDICT: the specified right is not textually deleted
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Fundamental Rights: traps, PYQ routes and applied recall
+
+```ascii-master
+FUNDAMENTAL RIGHTS: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Part Iii As An Architecture • Rights • Limits • Remedies • Special Controls •
+KEY TERMS: PART III AS AN ARCHITECTURE: RIGHTS…
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── articles 12-13 and 31A-35 are in Part III
+├── The right to form an association does not automatically include a…
+├── Clauses (1) and (2) do not apply to
+├── Remedies: Article 32 gives rights institutional reality, while…
+│
+├── Twenty-one verified routed PYQs with independent solutions
+├── Mains PYQ 1
+├── Mains PYQ 2
+├── Why this earns marks: It names both freedoms and the exact Article 19(5)…
+│
+└── Part III is a constitutional operating system, not a bare…
+└── Article 20 creates three person-protective criminal shields against…
+└── Current Part III analysis must be date-bounded: Electoral Bonds…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Fundamental Rights: integrated revision and answer-writing spine
+
+```ascii-master
+FUNDAMENTAL RIGHTS — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Part Iii As An Architecture • Rights • Limits • Remedies • Special Controls •
+KEY TERMS: PART III AS AN ARCHITECTURE: RIGHTS…
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Articles 12-13 and 31A-35 are in Part III, but they are not…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Part Iii As An Architecture
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ The restrictions must be imposed by law and be reasonable
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Limits
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Remedies: Article 32 gives rights institutional reality, while…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Current Part III analysis must be date-bounded: Electoral Bonds…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

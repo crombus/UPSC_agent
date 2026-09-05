@@ -1,0 +1,985 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-04",
+  "subject": "Polity",
+  "title": "PREAMBLE OF THE CONSTITUTION",
+  "short_route": "FROM OBJECTIVES RESOLUTION TO → CLAUSE ARCHITECTURE: AUTHORITY, IDENTITY → SIX STATE DESCRIPTORS: EXACT → JUSTICE, LIBERTY, EQUALITY AND → BERUBARI UNION (1960), KESAVANANDA BHARATI (1973) AND LIC OF INDIA (1995) → AMENDABILITY STOPS AT CONSTITUTIONAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g14 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g14\\polity-04_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+  "ascii_spec_sha256": "1b910be7cb0f3310d7d39c90811fefe8a5f497bdb60c1c6b302f767d6d6d44c4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FROM OBJECTIVES RESOLUTION TO AUTHORITATIVE PREAMBLE",
+      "structural_type": "constitutional-evolution-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM OBJECTIVES RESOLUTION TO AUTHORITATIVE PREAMBLE",
+          "role": "primary"
+        },
+        {
+          "text": "13 DEC 1946 OBJECTIVES RESOLUTION MOVED BY JAWAHARLAL NEHRU",
+          "role": "outcome"
+        },
+        {
+          "text": "22 JAN 1947 OBJECTIVES RESOLUTION ADOPTED COMMITTEE WORK +",
+          "role": "comparison"
+        },
+        {
+          "text": "26 NOV 1949",
+          "role": "evidence"
+        },
+        {
+          "text": "\"WE, THE PEOPLE OF INDIA\" ADOPT, ENACT AND GIVE",
+          "role": "primary"
+        },
+        {
+          "text": "24 JAN 1950 MEMBERS SIGN THE CONSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "26 JAN 1950 CONSTITUTION COMMENCES",
+          "role": "comparison"
+        },
+        {
+          "text": "TEXTUAL MEMORY SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "13 DEC 1946 Objectives Resolution moved by Jawaharlal Nehru",
+        "22 JAN 1947 Objectives Resolution adopted committee work + Drafting Committee language + Assembly debate",
+        "26 NOV 1949",
+        "\"WE, THE PEOPLE OF INDIA\" adopt, enact and give the Constitution to ourselves",
+        "24 JAN 1950 members sign the Constitution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "13 DEC 1946 Objectives Resolution moved by Jawaharlal Nehru",
+            "22 JAN 1947 Objectives Resolution adopted committee work + Drafting Committee language + Assembly debate"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "26 NOV 1949",
+            "\"WE, THE PEOPLE OF INDIA\" adopt, enact and give the Constitution to ourselves"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "24 JAN 1950 members sign the Constitution",
+            "26 JAN 1950 Constitution commences"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TEXTUAL MEMORY source → nature of State → objectives → adoption/enactment declaration",
+            "TRAP: adoption and commencement dates perform different constitutional work."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Objectives Resolution supplied the Preamble's normative foundations, while the adopted wording became constitutional text and later informed judicial interpretation of constitutional purpose.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 2 — FROM THE OBJECTIVES RESOLUTION TO THE PREAMBLE: THE DRAFTING CHAIN",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 14 — INGREDIENT 4 - THE DATE OF ADOPTION, AND THE ENACTMENT SEQUENCE"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CLAUSE ARCHITECTURE: AUTHORITY, IDENTITY, ENDS AND ENACTMENT",
+      "structural_type": "text-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLAUSE ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHORITY, IDENTITY, ENDS AND ENACTMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "WE, THE PEOPLE OF INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULAR CONSTITUENT AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC",
+          "role": "primary"
+        },
+        {
+          "text": "+-- JUSTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL, ECONOMIC, POLITICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "+-- LIBERTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WE, THE PEOPLE OF INDIA",
+        "SOURCE: popular constituent authority",
+        "STATE: SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC",
+        "+-- JUSTICE: social, economic, political",
+        "+-- LIBERTY: thought, expression, belief, faith, worship"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "WE, THE PEOPLE OF INDIA",
+            "SOURCE: popular constituent authority",
+            "STATE: SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "+-- JUSTICE: social, economic, political",
+            "+-- LIBERTY: thought, expression, belief, faith, worship",
+            "+-- EQUALITY: status and opportunity"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "+-- FRATERNITY: dignity + unity and integrity",
+            "CONSTITUENT ACT adopt + enact + give to ourselves",
+            "People are the source; descriptors identify the polity"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "objectives set its destination; enactment converts resolution into authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The objectives clause (\"to secure to all its citizens\") is subordinate to the enacting clause; that is the grammatical basis for saying the Preamble declares purposes rather than creating enforceable entitlements.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 3 — THE AUTHORITATIVE TEXT AND ITS CLAUSE ARCHITECTURE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 4 — INGREDIENT 1 - THE SOURCE OF AUTHORITY: \"WE, THE PEOPLE OF INDIA\""
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SIX STATE DESCRIPTORS: EXACT CONSTITUTIONAL WORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SIX STATE DESCRIPTORS",
+          "role": "institution"
+        },
+        {
+          "text": "EXACT CONSTITUTIONAL WORK",
+          "role": "outcome"
+        },
+        {
+          "text": "DESCRIPTOR CONSTITUTIONAL WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "SOVEREIGN NO EXTERNAL SUPERIOR; INTERNAL AUTHORITY UNDER CONSTITUTION",
+          "role": "caution"
+        },
+        {
+          "text": "SOCIALIST DEMOCRATIC WELFARE AND DISTRIBUTION, NOT TOTAL STATISM",
+          "role": "caution"
+        },
+        {
+          "text": "SECULAR EQUAL CITIZENSHIP WITH PRINCIPLED REGULATION OF RELIGION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMOCRATIC POPULAR RULE THROUGH ADULT FRANCHISE AND REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "REPUBLIC ELECTED, NON-HEREDITARY HEAD OF STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DESCRIPTOR CONSTITUTIONAL WORK",
+        "Sovereign no external superior; internal authority under Constitution",
+        "Socialist democratic welfare and distribution, not total statism",
+        "Secular equal citizenship with principled regulation of religion",
+        "Democratic popular rule through adult franchise and representation"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "DESCRIPTOR CONSTITUTIONAL WORK",
+          "Secular equal citizenship with principled regulation of religion",
+          "Integrity territorial and civic cohesion",
+          "Britain: democracy + hereditary monarchy"
+        ],
+        [
+          "Sovereign no external superior; internal authority under Constitution",
+          "Democratic popular rule through adult franchise and representation",
+          "42ND AMENDMENT, 1976 inserted \"Socialist\", \"Secular\" and \"integrity\"",
+          "India: democracy + republic."
+        ],
+        [
+          "Socialist democratic welfare and distribution, not total statism",
+          "Republic elected, non-hereditary head of State",
+          "it did not create their entire constitutional substance.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DESCRIPTOR CONSTITUTIONAL WORK",
+            "Sovereign no external superior; internal authority under Constitution",
+            "Socialist democratic welfare and distribution, not total statism"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Secular equal citizenship with principled regulation of religion",
+            "Democratic popular rule through adult franchise and representation",
+            "Republic elected, non-hereditary head of State"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Integrity territorial and civic cohesion",
+            "42ND AMENDMENT, 1976 inserted \"Socialist\", \"Secular\" and \"integrity\"",
+            "it did not create their entire constitutional substance."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Britain: democracy + hereditary monarchy",
+            "India: democracy + republic."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Preamble's ideals become legally meaningful only when connected to operative provisions, preventing symbolic language from substituting for constitutional analysis.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 5 — INGREDIENT 2 - THE NATURE OF THE INDIAN STATE: THE SIX DESCRIPTORS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 6 — SOVEREIGN",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 7 — SOCIALIST",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 8 — SECULAR",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 9 — DEMOCRATIC",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 10 — REPUBLIC"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "JUSTICE, LIBERTY, EQUALITY AND FRATERNITY AS ONE SYSTEM",
+      "structural_type": "rights-dpsp-balance",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JUSTICE, LIBERTY, EQUALITY AND FRATERNITY AS ONE SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL + ECONOMIC + POLITICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTIVE PRINCIPLES AND SOCIAL-REFORM POWERS",
+          "role": "comparison"
+        },
+        {
+          "text": "THOUGHT + EXPRESSION + BELIEF + FAITH + WORSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS, SUBJECT TO CONSTITUTIONAL LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS + OPPORTUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-DISCRIMINATION PLUS CORRECTIVE MEASURES",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGNITY + UNITY AND INTEGRITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JUSTICE: social + economic + political",
+        "Directive Principles and social-reform powers",
+        "LIBERTY: thought + expression + belief + faith + worship",
+        "rights, subject to constitutional limits",
+        "EQUALITY: status + opportunity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "JUSTICE: social + economic + political",
+            "Directive Principles and social-reform powers",
+            "LIBERTY: thought + expression + belief + faith + worship"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "rights, subject to constitutional limits",
+            "EQUALITY: status + opportunity",
+            "non-discrimination plus corrective measures"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FRATERNITY: dignity + unity and integrity",
+            "personal worth joined to common citizenship",
+            "BALANCE liberty without equality entrenches privilege"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "equality without liberty risks coercion",
+            "fraternity sustains both as a shared constitutional project."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Ambedkar treated liberty, equality and fraternity as an indivisible democratic trinity because separating them would produce domination, privilege or coercive conformity.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 11 — INGREDIENT 3 - THE OBJECTIVES: JUSTICE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 12 — LIBERTY AND EQUALITY",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 13 — FRATERNITY, DIGNITY OF THE INDIVIDUAL, AND UNITY AND INTEGRITY OF THE NATION"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BERUBARI UNION (1960), KESAVANANDA BHARATI (1973) AND LIC OF INDIA (1995): LEGAL STATUS SETTLED",
+      "structural_type": "judicial-doctrine-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BERUBARI UNION (1960), KESAVANANDA BHARATI (1973) AND LIC OF INDIA (1995)",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL STATUS SETTLED",
+          "role": "outcome"
+        },
+        {
+          "text": "BERUBARI UNION (1960)",
+          "role": "comparison"
+        },
+        {
+          "text": "PREAMBLE IS A KEY TO THE MAKERS' MINDS ADVISORY",
+          "role": "evidence"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973)",
+          "role": "primary"
+        },
+        {
+          "text": "PREAMBLE IS PART OF CONSTITUTION AMENDABLE UNDER ARTICLE 368",
+          "role": "institution"
+        },
+        {
+          "text": "LIC OF INDIA (1995) REAFFIRMS PREAMBLE AS INTEGRAL TO",
+          "role": "comparison"
+        },
+        {
+          "text": "TWO LIMITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BERUBARI UNION (1960)",
+        "Preamble is a key to the makers' minds advisory opinion did not regard it as",
+        "KESAVANANDA BHARATI (1973)",
+        "Preamble is part of Constitution amendable under Article 368 amendment cannot damage basic structure",
+        "LIC OF INDIA (1995) reaffirms Preamble as integral to Constitution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "BERUBARI UNION (1960)",
+            "Preamble is a key to the makers' minds advisory opinion did not regard it as part of Constitution"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "KESAVANANDA BHARATI (1973)",
+            "Preamble is part of Constitution amendable under Article 368 amendment cannot damage basic structure"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIC OF INDIA (1995) reaffirms Preamble as integral to Constitution",
+            "TWO LIMITS"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "No independent legislative power comes from Preamble.",
+            "No standalone directly enforceable right comes from Preamble."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The examinable subtlety is that Berubari Union (1960) was not \"wrong\" about the interpretive value of the Preamble; it was reversed only on the narrow question of membership.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 16 — LEGAL STATUS: BERUBARI TO KESAVANANDA TO LIC OF INDIA"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AMENDABILITY STOPS AT CONSTITUTIONAL IDENTITY",
+      "structural_type": "amendment-boundary-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AMENDABILITY STOPS AT CONSTITUTIONAL IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 368 REACHES PREAMBLE BECAUSE IT IS PART OF",
+          "role": "institution"
+        },
+        {
+          "text": "42ND AMENDMENT VALIDLY ADDED THREE EXPRESSIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "BUT AMENDING POWER IS LIMITED",
+          "role": "mechanism"
+        },
+        {
+          "text": "BASIC-STRUCTURE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "DOES CHANGE ALTER WORDING WHILE PRESERVING CONSTITUTIONAL IDENTITY?",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMISSIBLE AMENDMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES CHANGE DESTROY SOVEREIGNTY, DEMOCRACY, SECULARISM, REPUBLIC OR DIGNITY?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 368 reaches Preamble because it is part of Constitution",
+        "42nd Amendment validly added three expressions",
+        "BUT amending power is limited",
+        "BASIC-STRUCTURE TEST",
+        "Does change alter wording while preserving constitutional identity?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 368 reaches Preamble because it is part of Constitution",
+            "42nd Amendment validly added three expressions",
+            "BUT amending power is limited"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "BASIC-STRUCTURE TEST",
+            "Does change alter wording while preserving constitutional identity?",
+            "permissible amendment"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Does change destroy sovereignty, democracy, secularism, republic or dignity?",
+            "invalid damage to basic structure",
+            "CORRECT FORMULA"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Preamble is amendable; its basic features are not abrogable."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 368 reaches the Preamble, but basic structure prevents amendment from destroying the constitutional identity its words declare; the text has been amended only once, in 1976.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 18 — AMENDABILITY AND THE BASIC-STRUCTURE BOUNDARY"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HOW NON-JUSTICIABLE WORDS PRODUCE LEGAL FORCE",
+      "structural_type": "interpretive-mechanism",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOW NON-JUSTICIABLE WORDS PRODUCE LEGAL FORCE",
+          "role": "primary"
+        },
+        {
+          "text": "AMBIGUOUS CONSTITUTIONAL TEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "PREAMBLE IDENTIFIES PURPOSE, VALUE AND STRUCTURAL DIRECTION CHOOSE MEANING",
+          "role": "comparison"
+        },
+        {
+          "text": "DOCTRINAL USE INTERPRET RIGHTS AND INSTITUTIONAL POWERS IDENTIFY BASIC-STRUCTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "STOP RULE",
+          "role": "primary"
+        },
+        {
+          "text": "CLEAR TEXT CANNOT BE REWRITTEN BY PREAMBLE ALONE.",
+          "role": "outcome"
+        },
+        {
+          "text": "NO POWER, OFFENCE, TAX OR ENFORCEABLE CLAIM ARISES SOLELY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AMBIGUOUS CONSTITUTIONAL TEXT",
+        "Preamble identifies purpose, value and structural direction choose meaning consistent with justice, liberty and dignity",
+        "democratic or secular structure",
+        "DOCTRINAL USE interpret rights and institutional powers identify basic-structure principles connect Parts III and IV",
+        "STOP RULE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "AMBIGUOUS CONSTITUTIONAL TEXT",
+            "Preamble identifies purpose, value and structural direction choose meaning consistent with justice, liberty and dignity reject reading defeating"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "democratic or secular structure",
+            "DOCTRINAL USE interpret rights and institutional powers identify basic-structure principles connect Parts III and IV"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STOP RULE",
+            "Clear text cannot be rewritten by Preamble alone."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "No power, offence, tax or enforceable claim arises solely from Preamble.",
+            "AMBIGUOUS CONSTITUTIONAL TEXT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Being part of the Constitution does not make the Preamble independently enforceable: it neither confers nor prohibits legislative power and remains non-justiciable.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 17 — THE TWO PERMANENT CAVEATS, OPERATIONALISED",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 19 — HOW THE PREAMBLE ACTUALLY BITES: THE INTERPRETIVE-FORCE MECHANISM"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PREAMBLE CLAIMS: PROBLEM AND PRECISE RESPONSE",
+      "structural_type": "problem-response-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PREAMBLE CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "PROBLEM AND PRECISE RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIM PRECISE RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "\"MERE ORNAMENT\" FALSE",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERPRETIVE AND STRUCTURAL FORCE",
+          "role": "primary"
+        },
+        {
+          "text": "\"SOURCE OF ALL GOVERNMENT POWER\" FALSE",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATIVE PROVISIONS CONFER POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "\"DIRECTLY ENFORCEABLE\" FALSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLAIM PRECISE RESPONSE",
+        "\"mere ornament\" false: interpretive and structural force",
+        "\"source of all government power\" false: operative provisions confer power",
+        "\"directly enforceable\" false: values guide enforceable provisions",
+        "\"unchangeable\" false: Article 368 applies, basic structure limits"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "CLAIM PRECISE RESPONSE",
+          "\"directly enforceable\" false: values guide enforceable provisions",
+          "\"Secular means strict separation\" incomplete: equal respect plus reform regulation",
+          "Constitution in miniature, but not a miniature Constitution."
+        ],
+        [
+          "\"mere ornament\" false: interpretive and structural force",
+          "\"unchangeable\" false: Article 368 applies, basic structure limits",
+          "\"Republic means direct democracy\" false: concerns non-hereditary headship",
+          ""
+        ],
+        [
+          "\"source of all government power\" false: operative provisions confer power",
+          "\"Socialist means State ownership\" too broad: democratic socialism is mixed",
+          "\"integrity replaced unity\" false: 42nd added integrity after unity",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CLAIM PRECISE RESPONSE",
+            "\"mere ornament\" false: interpretive and structural force",
+            "\"source of all government power\" false: operative provisions confer power"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "\"directly enforceable\" false: values guide enforceable provisions",
+            "\"unchangeable\" false: Article 368 applies, basic structure limits",
+            "\"Socialist means State ownership\" too broad: democratic socialism is mixed"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "\"Secular means strict separation\" incomplete: equal respect plus reform regulation",
+            "\"Republic means direct democracy\" false: concerns non-hereditary headship",
+            "\"integrity replaced unity\" false: 42nd added integrity after unity"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Constitution in miniature, but not a miniature Constitution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Preamble is an identity card, key-note and yardstick because it compresses the Constitution's purposes into an authoritative standard of interpretation and evaluation, not because scholar descriptions create legal force.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 15 — SIGNIFICANCE: WHAT THE MAKERS AND THE SCHOLARS SAID THE PREAMBLE DOES",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 20 — EXAM ARCHITECTURE: CONVERTING THE PREAMBLE INTO MARKS"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "EXACT 10/15-MARK ARCHITECTURE: PREAMBLE AS IDENTITY AND INTERPRETIVE CONTROL",
+      "structural_type": "answer-architecture",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXACT 10/15-MARK ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "PREAMBLE AS IDENTITY AND INTERPRETIVE CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "150 WORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "1. DEFINE PREAMBLE AS DECLARATORY, IDENTITY-BEARING AND INTERPRETIVE.",
+          "role": "primary"
+        },
+        {
+          "text": "2. DECODE PEOPLE, STATE, OBJECTIVES AND ENACTMENT.",
+          "role": "institution"
+        },
+        {
+          "text": "3. STATE BERUBARI UNION (1960)",
+          "role": "institution"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973) SHIFT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS / 150 WORDS",
+        "1. Define Preamble as declaratory, identity-bearing and interpretive.",
+        "2. Decode people, State, objectives and enactment.",
+        "3. State Berubari Union (1960) → Kesavananda Bharati (1973) shift.",
+        "4. Add no standalone power and no direct enforceability."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "10 MARKS / 150 WORDS",
+            "1. Define Preamble as declaratory, identity-bearing and interpretive.",
+            "2. Decode people, State, objectives and enactment.",
+            "3. State Berubari Union (1960) → Kesavananda Bharati (1973) shift."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "4. Add no standalone power and no direct enforceability.",
+            "5. Conclude: constitutional compass bounded by operative text.",
+            "15 MARKS / 250 WORDS",
+            "1. Trace Objectives Resolution to 26 November 1949."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2. Explain popular sovereignty and six descriptors.",
+            "3. Analyse justice-liberty-equality-fraternity interdependence.",
+            "4. Use Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995).",
+            "5. Explain Article 368 plus basic-structure boundary."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "6. Show interpretive force with one rights or federalism application.",
+            "7. Conclude: identity charter, not autonomous source of rules."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Preamble is the Constitution in miniature: a non-justiciable but authoritative charter that identifies the source, identity and ends of the Republic and guides interpretation without displacing operative text.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#SESSION 20 — EXAM ARCHITECTURE: CONVERTING THE PREAMBLE INTO MARKS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g11\\polity-04_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "21. ADVANCED - THE SOCIALISM DEBATE AFTER 1991",
+          "role": "outcome"
+        },
+        {
+          "text": "22. ADVANCED - THE SECULARISM DEBATE AND THE COMPARATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "23. ADVANCED - CONSTITUTIONAL MORALITY AS A PREAMBLE-DERIVED DOCTRINE",
+          "role": "evidence"
+        },
+        {
+          "text": "24. ADVANCED - CRITICISMS OF THE PREAMBLE AND THE",
+          "role": "primary"
+        },
+        {
+          "text": "[FACT] BEFORE 1976 THE SOCIALIST CONTENT OF THE CONSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "[FACT] THE POLITICAL ANTECEDENT IS THE CONGRESS AVADI SESSION",
+          "role": "comparison"
+        },
+        {
+          "text": "[FACT] THE JUDICIAL CHARACTERISATION IS DEMOCRATIC SOCIALISM - D.S.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "21. Advanced - the socialism debate after 1991",
+            "22. Advanced - the secularism debate and the comparative frame",
+            "23. Advanced - constitutional morality as a Preamble-derived doctrine",
+            "24. Advanced - criticisms of the Preamble and the constitutional replies"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "[FACT] Before 1976 the socialist content of the Constitution was carried implicitly by the Directive Principles ; the 42nd Amendment made it explicit.",
+            "[FACT] The political antecedent is the Congress Avadi session, 1955 , which resolved on a \"socialistic pattern of society\".",
+            "[FACT] The judicial characterisation is democratic socialism - D.S.",
+            "D.S. Nakara (1982) called it a blend of Marxism and Gandhism leaning heavily towards Gandhian socialism"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "G.B. Pant University (2000)",
+            "defined its aim as ending poverty, ignorance, disease and inequality of opportunity.",
+            "[FACT] The New Economic Policy, 1991 diluted the socialist credentials of the Indian State.",
+            "[FACT] Excel Wear (1978) had observed that the presence of the word may make courts lean more in"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 14,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 2
+  }
+}

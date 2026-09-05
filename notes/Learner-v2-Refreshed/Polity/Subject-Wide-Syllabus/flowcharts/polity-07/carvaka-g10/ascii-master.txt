@@ -1,0 +1,252 @@
+Fundamental Rights — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Enforcement: Article 32 guarantees access to the Supreme Court for Fundamental Rights; Article 226 supplies wider High Court writ power.
+        |
+        v
++-- SESSION 01: PART III AS AN ARCHITECTURE: RIGHTS, LIMITS, REMEDIES AND SPECIAL CONTROLS
+|   DEFINITION / TERMS : Enforcement: Article 32 guarantees access to the Supreme Court for Fundamental Rights; Article 226 supplies wider High Court writ power.
+|   MECHANISM / ARGUMENT: Articles 12-13 and 31A-35 are in Part III, but they are not separately counted among the six present Fundamental Rights.
+|   CONSEQUENCE / CONTRAST: Part III is not merely a list of entitlements.
+|   TRAP / ANSWER-USE: Articles 12-13 and 31A-35 are in Part III, but they are not separately counted among the six present Fundamental Rights.
+|   EXAM OPENING: Part III is a constitutional operating system, not a bare catalogue: Articles 12-13 identify bound power and invalid law, Articles 14-30 secure six present rights, Article 32 supplies the remedy, and Articles 31A-35 plus 358-359 control exceptional protection or enforcement.
++--
+        |
+        v
++-- SESSION 02: BENEFICIARIES, VERTICAL AND HORIZONTAL REACH, POSITIVE AND NEGATIVE DUTIES
+|   DEFINITION / TERMS : Positive duty: equal protection may require protection from private violence; Article 21 can require legal aid, custodial safeguards and fair investigation; Article 17 requires abolition backed by penal law.
+|   MECHANISM / ARGUMENT: Positive duty: equal protection may require protection from private violence; Article 21 can require legal aid, custodial safeguards and fair investigation; Article 17 requires abolition backed by penal law.
+|   CONSEQUENCE / CONTRAST: Negative duty: the State must not censor speech outside Article 19(2), discriminate only on prohibited grounds, or deprive liberty through unfair procedure.
+|   TRAP / ANSWER-USE: Do not convert it into the loose proposition that every Fundamental Right now applies fully against every private person.
+|   EXAM OPENING: Fundamental-right analysis must separate beneficiary from respondent: some guarantees belong only to citizens, many protect every person, and Articles 15(2), 17, 23 and 24 directly reach specified private conduct while positive duties may require State protection.
++--
+        |
+        v
++-- SESSION 03: QUALIFIED RIGHTS, REASONABLE RESTRICTIONS AND PROPORTIONALITY
+|   DEFINITION / TERMS : Always begin with the Article's text; proportionality disciplines the chosen means.
+|   MECHANISM / ARGUMENT: Legality: Is the restriction authorised by valid law rather than unsupported executive preference?
+|   CONSEQUENCE / CONTRAST: "Reasonable restriction" and proportionality are related but not interchangeable slogans.
+|   TRAP / ANSWER-USE: Necessity: Is a less rights-restrictive but equally effective measure available?
+|   EXAM OPENING: Indian Fundamental Rights are qualified but not defeasible at executive will: every restriction must rest on valid law, fit the exact constitutional ground, pursue a legitimate aim and remain rational, necessary, balanced and procedurally safeguarded.
++--
+        |
+        v
++-- SESSION 04: ARTICLE 12 - THE STATE AND THE INSTRUMENTALITY INQUIRY
+|   DEFINITION / TERMS : Article 12 looks beyond legal form to governmental domination: an entity may be State when its financial, functional and administrative relationship reveals pervasive governmental control, while Article 226 may separately reach a non-State body performing a public duty.
+|   MECHANISM / ARGUMENT: The later approach in Pradeep Kumar Biswas asks whether the body is financially, functionally and administratively dominated by or under government control of a pervasive character.
+|   CONSEQUENCE / CONTRAST: Therefore, "not State under Article 12" does not always mean "immune from writ jurisdiction.".
+|   TRAP / ANSWER-USE: registration as a society or company neither automatically includes nor excludes a body from Article 12.
+|   EXAM OPENING: Article 12 looks beyond legal form to governmental domination: an entity may be State when its financial, functional and administrative relationship reveals pervasive governmental control, while Article 226 may separately reach a non-State body performing a public duty.
++--
+        |
+        v
++-- SESSION 05: ARTICLE 13 - LAW, JUDICIAL REVIEW AND THE VOIDNESS DOCTRINES
+|   DEFINITION / TERMS : Article 13(1): pre-Constitution laws are void to the extent of inconsistency with Fundamental Rights.
+|   MECHANISM / ARGUMENT: Article 13(4): inserted by the Twenty-fourth Amendment; Article 13 does not apply to constitutional amendments under Article 368.
+|   CONSEQUENCE / CONTRAST: Article 13(2): the State shall not make law taking away or abridging Fundamental Rights; contravening law is void to the extent of contravention.
+|   TRAP / ANSWER-USE: Bhikaji Narain Dhakras explains that a conflicting pre-Constitution law is not erased for all purposes; it lies dormant against the Fundamental Right and can revive if the constitutional shadow is removed.
+|   EXAM OPENING: Article 13 converts rights into judicially enforceable limits by defining law broadly and using severability, eclipse and non-waiver, while constitutional amendments are reviewed through Article 368 and the basic-structure boundary.
++--
+        |
+        v
++-- SESSION 06: ARTICLE 14 - TWIN EQUALITY, CLASSIFICATION AND ANTI-ARBITRARINESS
+|   DEFINITION / TERMS : Intelligible differentia: the included group must be distinguishable from the excluded group.
+|   MECHANISM / ARGUMENT: Intelligible differentia: the included group must be distinguishable from the excluded group.
+|   CONSEQUENCE / CONTRAST: These are constitutionally or legally structured immunities, not proof that rule of law is absent.
+|   TRAP / ANSWER-USE: A high-scoring answer does not abandon classification for arbitrariness.
+|   EXAM OPENING: classification tests the structure of differentiation; arbitrariness tests irrational, capricious or disproportionate State power even where a neat class is difficult to identify.
++--
+        |
+        v
++-- SESSION 07: ARTICLES 15 AND 16 - NON-DISCRIMINATION AND PROTECTIVE DISCRIMINATION
+|   DEFINITION / TERMS : Article 15(4) followed State of Madras v.
+|   MECHANISM / ARGUMENT: shops, public restaurants, hotels and places of public entertainment; and wells, tanks, bathing ghats, roads and places of public resort maintained wholly/partly from State funds or dedicated to public use.
+|   CONSEQUENCE / CONTRAST: This clause has direct horizontal force.
+|   TRAP / ANSWER-USE: Article 15(4) followed State of Madras v.
+|   EXAM OPENING: Articles 15(4) and 16(4) are not grudging exceptions to equality.
++--
+        |
+        v
++-- SESSION 08: RESERVATION DOCTRINE: CREAMY LAYER, CEILING, PROMOTION, EFFICIENCY, EWS AND SC SUB-CLASSIFICATION
+|   DEFINITION / TERMS : Efficiency is not a veto owned by the unreserved category.
+|   MECHANISM / ARGUMENT: Efficiency is not a veto owned by the unreserved category.
+|   CONSEQUENCE / CONTRAST: Do not automatically state that a single identical creamy-layer rule now governs every SC/ST reservation context.
+|   TRAP / ANSWER-USE: Jarnail Singh removed the requirement that the State prove backwardness of SCs/STs afresh, while retaining data-based inadequacy and efficiency controls.
+|   EXAM OPENING: Reservation is a technique of substantive equality, but its design remains evidence-based, reviewable and attentive to creamy-layer exclusion, representation, promotion conditions, backlog treatment, EWS text and administrative efficiency.
++--
+        |
+        v
++-- SESSION 09: ARTICLES 17 AND 18 - ANTI-UNTOUCHABILITY AND ANTI-TITLE GUARANTEES
+|   DEFINITION / TERMS : Article 17 is transformative: it does not merely restrain government classification; it constitutionally abolishes a social hierarchy and requires public enforcement.
+|   MECHANISM / ARGUMENT: Untouchability is abolished; its practice in any form is forbidden; enforcement of any disability arising from it is an offence punishable by law.
+|   CONSEQUENCE / CONTRAST: Article 17 is transformative: it does not merely restrain government classification; it constitutionally abolishes a social hierarchy and requires public enforcement.
+|   TRAP / ANSWER-USE: "Untouchability" is understood in its historical caste-based constitutional sense, not every form of social avoidance.
+|   EXAM OPENING: Articles 17 and 18 attack inherited civic hierarchy horizontally and symbolically: untouchability is abolished and punishable, while titles are prohibited without invalidating military, academic or properly used national distinctions.
++--
+        |
+        v
++-- SESSION 10: ARTICLE 19 - SIX FREEDOMS AND EXACT RESTRICTION GROUNDS
+|   DEFINITION / TERMS : The restrictions must be imposed by law and be reasonable.
+|   MECHANISM / ARGUMENT: The restrictions must be imposed by law and be reasonable.
+|   CONSEQUENCE / CONTRAST: "Offensiveness", administrative convenience or vague hurt sentiment is not an independent Article 19(2) ground.
+|   TRAP / ANSWER-USE: The right to form an association does not automatically include a right to government recognition or to achieve every object of the association.
+|   EXAM OPENING: Article 19 protects six citizen freedoms through clause-specific discipline: the State must identify the exact restriction clause and closed ground, after which reasonableness and proportionality test the means.
++--
+        |
+        v
++-- SESSION 11: SPEECH, PRESS, RIGHT TO KNOW AND THE FIRST AMENDMENT SETTLEMENT
+|   DEFINITION / TERMS : The First Amendment both widened the State's grounds and strengthened judicial control through the reasonableness requirement.
+|   MECHANISM / ARGUMENT: The First Amendment both widened the State's grounds and strengthened judicial control through the reasonableness requirement.
+|   CONSEQUENCE / CONTRAST: Do not quote them as if present Article 19(2) lacked "public order.".
+|   TRAP / ANSWER-USE: inserted the word reasonable before restrictions; added public order, friendly relations with foreign States and incitement to an offence; and responded to the 1950 decisions.
+|   EXAM OPENING: State of Madras (1950): circulation is part of speech; the ban failed under the original narrow Article 19(2).
++--
+        |
+        v
++-- SESSION 12: SEDITION LINEAGE, BNS SECTION 152 AND SPEECH-INCITEMENT DISCIPLINE
+|   DEFINITION / TERMS : The Supreme Court upheld IPC section 124A only by reading it down to speech involving incitement to violence or a tendency/intention to create public disorder.
+|   MECHANISM / ARGUMENT: [CURRENT] BNS section 152 targets purposeful/knowing acts through words, signs, visible representation, electronic communication, financial means or otherwise that.
+|   CONSEQUENCE / CONTRAST: The Supreme Court upheld IPC section 124A only by reading it down to speech involving incitement to violence or a tendency/intention to create public disorder.
+|   TRAP / ANSWER-USE: "sedition was simply renamed" is inaccurate; and "all sedition-type criminalisation disappeared" is also inaccurate.
+|   EXAM OPENING: On 11 May 2022, the Supreme Court placed use of IPC section 124A in abeyance while reconsideration occurred.
++--
+        |
+        v
++-- SESSION 13: DIGITAL SPEECH: SHREYA SINGHAL, INTERNET SHUTDOWNS AND CRIMINAL DEFAMATION
+|   DEFINITION / TERMS : A critical answer should still note the chilling effect, criminal-process burden and availability of civil remedies, while accurately stating the binding holding.
+|   MECHANISM / ARGUMENT: struck down IT Act section 66A for vagueness and overbreadth; distinguished protected discussion and advocacy from punishable incitement; upheld section 69A blocking power because of its structured safeguards; and read down intermediary liability under section 79 so "actual knowledge" was tied to court/government process.
+|   CONSEQUENCE / CONTRAST: A critical answer should still note the chilling effect, criminal-process burden and availability of civil remedies, while accurately stating the binding holding.
+|   TRAP / ANSWER-USE: publication of restriction orders; proportionality review; periodic review; rejection of indefinite suspension; and careful use of section 144-type powers.
+|   EXAM OPENING: [CURRENT] The current criminal provision is BNS section 356, not the repealed IPC sections 499-500.
++--
+        |
+        v
++-- SESSION 14: ARTICLE 20 - EX POST FACTO LAW, DOUBLE JEOPARDY AND SELF-INCRIMINATION
+|   DEFINITION / TERMS : Article 20 creates three person-protective criminal shields against retrospective penal liability, repeated prosecution-and-punishment for the same offence, and compelled testimonial self-incrimination.
+|   MECHANISM / ARGUMENT: Article 20(3) is not a blanket right to suppress every material derived from the body.
+|   CONSEQUENCE / CONTRAST: No person may be convicted for an act that was not an offence when done.
+|   TRAP / ANSWER-USE: Departmental proceedings are not automatically a prior criminal prosecution.
+|   EXAM OPENING: Article 20 creates three person-protective criminal shields against retrospective penal liability, repeated prosecution-and-punishment for the same offence, and compelled testimonial self-incrimination.
++--
+        |
+        v
++-- SESSION 15: ARTICLE 21 - GOPALAN TO MANEKA: FAIR PROCEDURE AND THE DIGNITY CHARTER
+|   DEFINITION / TERMS : Article 21 became a dignity charter when Maneka Gandhi required fair, just and reasonable procedure and linked liberty with Articles 14 and 19, enabling named protections without turning every policy aspiration into an unlimited entitlement.
+|   MECHANISM / ARGUMENT: India did not textually replace "procedure established by law" with the American phrase "due process." The exam-safe formulation is that Maneka imported a due-process standard of fairness and non-arbitrariness.
+|   CONSEQUENCE / CONTRAST: The qualification is equally important: named rights often secure fair process and minimum protection, not an unlimited judicially supplied welfare entitlement.
+|   TRAP / ANSWER-USE: Maneka Gandhi (1978) completed the turn: procedure must be fair, just and reasonable, and Articles 14, 19 and 21 interlock.
+|   EXAM OPENING: Article 21 became a dignity charter when Maneka Gandhi required fair, just and reasonable procedure and linked liberty with Articles 14 and 19, enabling named protections without turning every policy aspiration into an unlimited entitlement.
++--
+        |
+        v
++-- SESSION 16: PRIVACY, PROPORTIONALITY, DNA TESTING AND DATA PROTECTION
+|   DEFINITION / TERMS : [CURRENT] The Digital Personal Data Protection Act, 2023 supplies a statutory framework for digital personal data processing, consent/legitimate uses, data-principal rights, data-fiduciary obligations and enforcement.
+|   MECHANISM / ARGUMENT: A nine-judge Bench held unanimously that privacy is a Fundamental Right protected as an intrinsic part of life and personal liberty under Article 21 and as part of the freedoms guaranteed by Part III.
+|   CONSEQUENCE / CONTRAST: Notification is not full implementation: informational privacy remains constitutionally reviewable under Puttaswamy.
+|   TRAP / ANSWER-USE: Courts do not order it as a routine fishing inquiry.
+|   EXAM OPENING: 843(E), as of 21 August 2026 the definition and Data Protection Board/institutional provisions specified in the notification are operative.
++--
+        |
+        v
++-- SESSION 17: ARTICLE 21A - EDUCATION AS A FUNDAMENTAL RIGHT
+|   DEFINITION / TERMS : recast Article 45 toward early childhood care and education below six years; and added Article 51A(k), a parental/guardian duty to provide educational opportunity to children aged six to fourteen.
+|   MECHANISM / ARGUMENT: recast Article 45 toward early childhood care and education below six years; and added Article 51A(k), a parental/guardian duty to provide educational opportunity to children aged six to fourteen.
+|   CONSEQUENCE / CONTRAST: Article 21A demonstrates a shift from judge-developed Article 21 content to an express, age-bounded Fundamental Right implemented by statute.
+|   TRAP / ANSWER-USE: Article 21A demonstrates a shift from judge-developed Article 21 content to an express, age-bounded Fundamental Right implemented by statute.
+|   EXAM OPENING: Article 21A demonstrates a shift from judge-developed Article 21 content to an express, age-bounded Fundamental Right implemented by statute.
++--
+        |
+        v
++-- SESSION 18: ARTICLE 22 - ORDINARY ARREST, PREVENTIVE DETENTION AND THE UNENFORCED 44TH AMENDMENT CLAUSE
+|   DEFINITION / TERMS : Article 22 separates ordinary arrest from preventive detention: the first carries grounds, counsel and twenty-four-hour production safeguards, while the second follows a distinct regime whose current no-Advisory-Board ceiling remains three months.
+|   MECHANISM / ARGUMENT: Beyond that, an Advisory Board must report sufficient cause, subject to parliamentary law under clauses (4)-(7).
+|   CONSEQUENCE / CONTRAST: This does not mean preventive detainees have no constitutional protection.
+|   TRAP / ANSWER-USE: Clauses (1) and (2) do not apply to.
+|   EXAM OPENING: Article 22 separates ordinary arrest from preventive detention: the first carries grounds, counsel and twenty-four-hour production safeguards, while the second follows a distinct regime whose current no-Advisory-Board ceiling remains three months.
++--
+        |
+        v
++-- SESSION 19: ARTICLES 23-24 - EXPLOITATION, FORCED LABOUR AND CHILD LABOUR
+|   DEFINITION / TERMS : Union of India (Asiad Workers), payment below the legal minimum in conditions of economic compulsion could amount to forced labour.
+|   MECHANISM / ARGUMENT: Union of India (Asiad Workers), payment below the legal minimum in conditions of economic compulsion could amount to forced labour.
+|   CONSEQUENCE / CONTRAST: Article 24's text is narrower than a complete ban on every kind of child work, while the amended statute creates broader prohibitions and defined exceptions.
+|   TRAP / ANSWER-USE: Article 24's text is narrower than a complete ban on every kind of child work, while the amended statute creates broader prohibitions and defined exceptions.
+|   EXAM OPENING: Article 24's text is narrower than a complete ban on every kind of child work, while the amended statute creates broader prohibitions and defined exceptions.
++--
+        |
+        v
++-- SESSION 20: ARTICLES 25-28 - CONSCIENCE, DENOMINATION, SECULAR REGULATION AND PRINCIPLED DISTANCE
+|   DEFINITION / TERMS : identify whether the claimant is an individual or denomination; distinguish religious practice from associated secular activity; examine essentiality where the doctrine is invoked; apply public order, morality, health, reform and other-FR limits; and state the criticism that secular judges may become arbiters of theology.
+|   MECHANISM / ARGUMENT: Propagation is not a right to convert another person by force, fraud or allurement.
+|   CONSEQUENCE / CONTRAST: A bounded official-source check through 21 August 2026 located no final later decision that this package can securely use; it therefore states only the 2018 majority holding and does not speculate about the review/reference.
+|   TRAP / ANSWER-USE: Article 27 distinguishes a tax for religious promotion from a regulatory fee or a general tax whose expenditure may incidentally benefit religious institutions.
+|   EXAM OPENING: Indian religious freedom protects conscience and denominational autonomy while permitting public-order, health, morality, secular-regulation and social-reform controls; the governing model is principled distance, not either theocracy or an absolute wall.
++--
+        |
+        v
++-- SESSION 21: ARTICLES 29-30 - CULTURAL CONSERVATION AND MINORITY EDUCATIONAL AUTONOMY
+|   DEFINITION / TERMS : acquisition law must not make the Article 30(1) guarantee illusory; State aid cannot discriminate merely because the institution is minority-managed; and regulation for academic standards, sanitation, teacher qualifications, fairness and excellence can be valid.
+|   MECHANISM / ARGUMENT: acquisition law must not make the Article 30(1) guarantee illusory; State aid cannot discriminate merely because the institution is minority-managed; and regulation for academic standards, sanitation, teacher qualifications, fairness and excellence can be valid.
+|   CONSEQUENCE / CONTRAST: Aided minority institutions retain Article 30 identity but cannot treat State aid as a licence to ignore every admission-related constitutional obligation.
+|   TRAP / ANSWER-USE: Xavier's College and Malankara Syrian Catholic College: regulatory excellence is valid, but the State cannot destroy the minority management's core.
+|   EXAM OPENING: Articles 29-30 protect cultural conservation, non-discriminatory admission and minority educational autonomy, but Article 29 is not minority-exclusive and Article 30 protects administration rather than maladministration.
++--
+        |
+        v
++-- SESSION 22: ARTICLE 32 AND THE FIVE WRITS
+|   DEFINITION / TERMS : "Supreme Court cannot refuse Article 32" does not mean every petition must receive final relief despite alternate remedy, disputed facts or absence of a Fundamental Right.
+|   MECHANISM / ARGUMENT: "Supreme Court cannot refuse Article 32" does not mean every petition must receive final relief despite alternate remedy, disputed facts or absence of a Fundamental Right.
+|   CONSEQUENCE / CONTRAST: It means the constitutional guarantee cannot be abolished or reduced to ordinary legislative grace.
+|   TRAP / ANSWER-USE: Detailed PIL growth, epistolary jurisdiction and institutional criticism are cross-linked to Polity 18.
+|   EXAM OPENING: Article 32 makes the Supreme Court a guaranteed Fundamental-Rights forum, while Article 226 is wider in subject matter and public-duty reach; the correct writ follows the defect—detention, unperformed duty, threatened excess, defective order or unlawful public office.
++--
+        |
+        v
++-- SESSION 23: ARTICLES 31A, 31B AND 31C - SAVING PROVISIONS WITHOUT BLANKET IMMUNITY
+|   DEFINITION / TERMS : Articles 31A-31C, 33-35 create defined constitutional controls rather than rights-free zones: their field, purpose and legislative competence remain text-bound and subject to basic-structure review where applicable.
+|   MECHANISM / ARGUMENT: Do not say Article 39(b) converts all private property into community property.
+|   CONSEQUENCE / CONTRAST: It is not a general immunity for every property-related law.
+|   TRAP / ANSWER-USE: Ninth Schedule placement is not absolute immunity after I.R. Coelho.
+|   EXAM OPENING: Articles 31A-31C, 33-35 create defined constitutional controls rather than rights-free zones: their field, purpose and legislative competence remain text-bound and subject to basic-structure review where applicable.
++--
+        |
+        v
++-- SESSION 24: RIGHT TO PROPERTY: ARTICLE 31 TRANSITION TO ARTICLE 300A
+|   DEFINITION / TERMS : Article 300A now provides: no person shall be deprived of property save by authority of law.
+|   MECHANISM / ARGUMENT: Article 300A now provides: no person shall be deprived of property save by authority of law.
+|   CONSEQUENCE / CONTRAST: Calling property merely a "legal right" is incomplete.
+|   TRAP / ANSWER-USE: Article 300A is a constitutional right, though not a Fundamental Right.
+|   EXAM OPENING: Article 300A is a constitutional right, though not a Fundamental Right.
++--
+        |
+        v
++-- SESSION 25: ARTICLES 33-35 AND MARTIAL LAW
+|   DEFINITION / TERMS : Parliament may indemnify persons for acts done in connection with maintenance/restoration of order where martial law was in force and validate sentences or acts.
+|   MECHANISM / ARGUMENT: Parliament may indemnify persons for acts done in connection with maintenance/restoration of order where martial law was in force and validate sentences or acts.
+|   CONSEQUENCE / CONTRAST: Parliament may determine the extent to which Fundamental Rights are restricted or abrogated for.
+|   TRAP / ANSWER-USE: Parliament has exclusive legislative competence over specified Part III matters, including.
+|   EXAM OPENING: Martial law does not automatically erase habeas corpus or create unlimited military power.
++--
+        |
+        v
++-- SESSION 26: ARTICLES 358 AND 359 - TWO DIFFERENT EMERGENCY MECHANISMS
+|   DEFINITION / TERMS : Article 358 automatically displaces Article 19 constraints only during war or external-aggression Emergency within its conditions, whereas Article 359 requires a Presidential order suspending court enforcement of specified rights and can never include Articles 20 or 21.
+|   MECHANISM / ARGUMENT: During a National Emergency based on war or external aggression, Article 19 does not restrict State power to make/take otherwise inconsistent law/executive action within Article 358's conditions.
+|   CONSEQUENCE / CONTRAST: the specified right is not textually deleted; its judicial enforcement is suspended; Articles 20 and 21 cannot be included; the order must identify the rights and duration/area; and Article 359(1A) contains law/action protections with constitutional conditions.
+|   TRAP / ANSWER-USE: "All Fundamental Rights are automatically suspended in Emergency" is wrong.
+|   EXAM OPENING: Article 358 automatically displaces Article 19 constraints only during war or external-aggression Emergency within its conditions, whereas Article 359 requires a Presidential order suspending court enforcement of specified rights and can never include Articles 20 or 21.
++--
+        |
+        v
++-- SESSION 27: ARTICLE 359: THE NON-DEROGABLE ARTICLES 20 AND 21 CORE
+|   DEFINITION / TERMS : Rapid recall: property moved out of Part III; criminal safeguards and life/personal liberty became non-derogable under Article 359.
+|   MECHANISM / ARGUMENT: Rapid recall: property moved out of Part III; criminal safeguards and life/personal liberty became non-derogable under Article 359.
+|   CONSEQUENCE / CONTRAST: Rapid recall: property moved out of Part III; criminal safeguards and life/personal liberty became non-derogable under Article 359.
+|   TRAP / ANSWER-USE: Rapid recall: property moved out of Part III; criminal safeguards and life/personal liberty became non-derogable under Article 359.
+|   EXAM OPENING: Rapid recall: property moved out of Part III; criminal safeguards and life/personal liberty became non-derogable under Article 359.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

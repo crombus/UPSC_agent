@@ -1,0 +1,932 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-05",
+  "subject": "Polity",
+  "title": "UNION AND TERRITORY",
+  "short_route": "ARTICLES 1-4: THE TERRITORIAL → ARTICLE 3 PROCEDURE: CONSULTATION → ARTICLE 2, ARTICLE 3 → FIRST SCHEDULE AS A → INTEGRATION AND LINGUISTIC REORGANISATION → POST-1956 MAP-MAKING: REORGANISATION, CREATION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g12 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g12\\polity-05_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+  "ascii_spec_sha256": "9bb84eb1ad8ba30493b60afc9d42b3c9e7982f8a2a5869cb64d6966dab335e41",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ARTICLES 1-4: THE TERRITORIAL POWER HIERARCHY",
+      "structural_type": "articles-power-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLES 1-4",
+          "role": "primary"
+        },
+        {
+          "text": "THE TERRITORIAL POWER HIERARCHY",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 1",
+          "role": "institution"
+        },
+        {
+          "text": "INDIA, THAT IS BHARAT",
+          "role": "evidence"
+        },
+        {
+          "text": "UNION OF STATES TERRITORY",
+          "role": "primary"
+        },
+        {
+          "text": "STATES + UNION TERRITORIES + ACQUIRED TERRITORIES",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 2",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT ADMITS INTO UNION OR ESTABLISHES NEW STATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 1",
+        "India, that is Bharat = Union of States territory = States + Union territories +",
+        "ARTICLE 2",
+        "Parliament admits into Union or establishes new States",
+        "ARTICLE 3"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 1",
+            "India, that is Bharat = Union of States territory = States + Union territories + acquired territories",
+            "ARTICLE 2"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Parliament admits into Union or establishes new States",
+            "ARTICLE 3",
+            "Parliament forms new States and alters area, boundary or name"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 4 consequential First/Fourth Schedule changes and supplemental provisions laws under Articles 2 and 3 are not amendments under Article 368",
+            "FIRST SCHEDULE = living ledger of States and Union territories",
+            "PRINCIPLE: States have constitutional status, but no right to secede."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Parliament admits into Union or establishes new States"
+          ]
+        }
+      ],
+      "mechanism_strip": "(OPENING): India is a constitutionally indestructible Union whose internal State map remains adaptable under Articles 1–4; the phrase 'indestructible Union of destructible States' is an analytical formula, not constitutional text.",
+      "answer_line": "(OPENING): India is a constitutionally indestructible Union whose internal State map remains adaptable under Articles 1–4; the phrase 'indestructible Union of destructible States' is an analytical formula, not constitutional text.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 1 — CONSTITUTIONAL CONCEPTION: WHY ARTICLE 1 SAYS 'UNION OF STATES'",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 2 — ARTICLES 1 TO 4 CLAUSE-BY-CLAUSE: THE CONSTITUTIONAL ARCHITECTURE OF TERRITORY"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLE 3 PROCEDURE: CONSULTATION WITHOUT A STATE VETO",
+      "structural_type": "constitutional-procedure-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 3 PROCEDURE",
+          "role": "institution"
+        },
+        {
+          "text": "CONSULTATION WITHOUT A STATE VETO",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT'S RECOMMENDATION REQUIRED",
+          "role": "comparison"
+        },
+        {
+          "text": "BILL AFFECTS AREA, BOUNDARY OR NAME OF A STATE?",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT REFERS BILL TO AFFECTED STATE LEGISLATURE",
+          "role": "institution"
+        },
+        {
+          "text": "+-- SPECIFIES TIME FOR EXPRESSING VIEWS",
+          "role": "outcome"
+        },
+        {
+          "text": "+-- MAY EXTEND THAT TIME",
+          "role": "comparison"
+        },
+        {
+          "text": "+-- PARLIAMENT IS NOT BOUND BY THOSE VIEWS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRESIDENT'S RECOMMENDATION REQUIRED",
+        "BILL affects area, boundary or name of a State?",
+        "YES → President refers bill to affected State legislature",
+        "+-- specifies time for expressing views",
+        "+-- may extend that time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRESIDENT'S RECOMMENDATION REQUIRED",
+            "BILL affects area, boundary or name of a State?",
+            "YES → President refers bill to affected State legislature"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "+-- specifies time for expressing views",
+            "+-- may extend that time",
+            "+-- Parliament is not bound by those views"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO State affected → proviso referral does not arise in that form",
+            "PARLIAMENT passes by ordinary legislative majority",
+            "PRESIDENTIAL ASSENT → territorial and Schedule changes"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State view is required consultation, not consent."
+          ]
+        }
+      ],
+      "mechanism_strip": "(PROCEDURE): Article 3 constitutionalises consultation, not consent: prior presidential recommendation and State-legislature reference are mandatory where the proviso applies, views do not bind Parliament, no fresh reference is required for every amendment, and a Union Territory has no equivalent proviso right.",
+      "answer_line": "(PROCEDURE): Article 3 constitutionalises consultation, not consent: prior presidential recommendation and State-legislature reference are mandatory where the proviso applies, views do not bind Parliament, no fresh reference is required for every amendment, and a Union Territory has no equivalent proviso right.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 4 — ARTICLE 3 PROCEDURE: CONSULTATION WITHOUT CONSENT",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 12 — ARTICLE 3'S STATE-UT CONSULTATION NUANCE"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARTICLE 2, ARTICLE 3 AND FOREIGN-TERRITORY TRANSFER ARE DISTINCT",
+      "structural_type": "comparison-doctrine-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLE 2, ARTICLE 3 AND FOREIGN-TERRITORY TRANSFER ARE DISTINCT",
+          "role": "institution"
+        },
+        {
+          "text": "QUESTION CONSTITUTIONAL ROUTE ADMIT OR ESTABLISH NEW STATE ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "BERUBARI UNION, 1960 CESSION OF INDIAN TERRITORY CANNOT BE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAGANBHAI ISHWARBHAI, 1969 BOUNDARY SETTLEMENT DIFFERS FROM CESSION.",
+          "role": "evidence"
+        },
+        {
+          "text": "100TH AMENDMENT, 2015 CONSTITUTIONAL ROUTE USED FOR INDIA-BANGLADESH LAND-BOUNDARY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "QUESTION CONSTITUTIONAL ROUTE admit or establish new State Article 2 reorganise existing Indian unit Article",
+        "Article 1 can accommodate it cede Indian territory constitutional amendment under Article 368 settle uncertain",
+        "BERUBARI UNION, 1960 cession of Indian territory cannot be completed through Article 3 alone.",
+        "MAGANBHAI ISHWARBHAI, 1969 boundary settlement differs from cession.",
+        "100TH AMENDMENT, 2015 constitutional route used for India-Bangladesh land-boundary exchange."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "QUESTION CONSTITUTIONAL ROUTE admit or establish new State Article 2 reorganise existing Indian unit Article 3 acquire foreign",
+          "BERUBARI UNION, 1960 cession of Indian territory cannot be completed through Article 3 alone.",
+          "100TH AMENDMENT, 2015 constitutional route used for India-Bangladesh land-boundary exchange.",
+          "Article 1 can accommodate it cede Indian territory constitutional amendment under Article 368 settle uncertain boundary no cession"
+        ],
+        [
+          "Article 1 can accommodate it cede Indian territory constitutional amendment under Article 368 settle uncertain boundary no cession",
+          "MAGANBHAI ISHWARBHAI, 1969 boundary settlement differs from cession.",
+          "QUESTION CONSTITUTIONAL ROUTE admit or establish new State Article 2 reorganise existing Indian unit Article 3 acquire foreign",
+          "BERUBARI UNION, 1960 cession of Indian territory cannot be completed through Article 3 alone."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "QUESTION CONSTITUTIONAL ROUTE admit or establish new State Article 2 reorganise existing Indian unit Article 3 acquire foreign",
+            "Article 1 can accommodate it cede Indian territory constitutional amendment under Article 368 settle uncertain boundary no cession"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "BERUBARI UNION, 1960 cession of Indian territory cannot be completed through Article 3 alone.",
+            "MAGANBHAI ISHWARBHAI, 1969 boundary settlement differs from cession."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "100TH AMENDMENT, 2015 constitutional route used for India-Bangladesh land-boundary exchange.",
+            "QUESTION CONSTITUTIONAL ROUTE admit or establish new State Article 2 reorganise existing Indian unit Article 3 acquire foreign"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 1 can accommodate it cede Indian territory constitutional amendment under Article 368 settle uncertain boundary no cession",
+            "BERUBARI UNION, 1960 cession of Indian territory cannot be completed through Article 3 alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "(CESSION): The sovereignty test separates cession from boundary settlement: surrender of accepted Indian territory requires Article 368, while genuine ascertainment or implementation of a disputed boundary may proceed without constitutional amendment.",
+      "answer_line": "(CESSION): The sovereignty test separates cession from boundary settlement: surrender of accepted Indian territory requires Article 368, while genuine ascertainment or implementation of a disputed boundary may proceed without constitutional amendment.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 3 — ARTICLE 2 AND ARTICLE 3 ARE NOT THE SAME POWER",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 7 — ACQUISITION, CESSION AND BOUNDARY SETTLEMENT: BERUBARI, THE 1969 DISTINCTION AND THE 100TH AMENDMENT"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FIRST SCHEDULE AS A CONSTITUTIONAL CHANGE LEDGER",
+      "structural_type": "schedule-mechanism",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FIRST SCHEDULE AS A CONSTITUTIONAL CHANGE LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "TERRITORIAL LAW UNDER ARTICLE 2 OR 3 CHANGES FIRST",
+          "role": "institution"
+        },
+        {
+          "text": "STATE AND UNION-TERRITORY DESCRIPTION MAY CHANGE FOURTH SCHEDULE",
+          "role": "institution"
+        },
+        {
+          "text": "RAJYA SABHA SEAT ALLOCATION MAY INCLUDE SUPPLEMENTAL, INCIDENTAL AND",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 4 DECLARATION SUCH LAW IS NOT DEEMED AN",
+          "role": "caution"
+        },
+        {
+          "text": "ORDINARY LEGISLATIVE ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 4 SUPPORTS TERRITORIAL REORGANISATION",
+          "role": "institution"
+        },
+        {
+          "text": "IT DOES NOT BYPASS ARTICLE 368 FOR UNRELATED CONSTITUTIONAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TERRITORIAL LAW UNDER ARTICLE 2 OR 3 changes First Schedule: State and Union-territory description may",
+        "Rajya Sabha seat allocation may include supplemental, incidental and consequential provisions",
+        "ARTICLE 4 DECLARATION such law is not deemed an Article 368 amendment",
+        "ORDINARY LEGISLATIVE ROUTE",
+        "Article 4 supports territorial reorganisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TERRITORIAL LAW UNDER ARTICLE 2 OR 3 changes First Schedule: State and Union-territory description may change Fourth Schedule",
+            "Rajya Sabha seat allocation may include supplemental, incidental and consequential provisions"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 4 DECLARATION such law is not deemed an Article 368 amendment",
+            "ORDINARY LEGISLATIVE ROUTE"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 4 supports territorial reorganisation",
+            "it does not bypass Article 368 for unrelated constitutional changes."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TERRITORIAL LAW UNDER ARTICLE 2 OR 3 changes First Schedule: State and Union-territory description may change Fourth Schedule",
+            "Rajya Sabha seat allocation may include supplemental, incidental and consequential provisions"
+          ]
+        }
+      ],
+      "mechanism_strip": "(ARCHITECTURE): Articles 1–4 move from identity and territorial composition, to external admission or establishment, to internal reorganisation, and finally to the ordinary-law consequences that amend the First and Fourth Schedules.",
+      "answer_line": "(ARCHITECTURE): Articles 1–4 move from identity and territorial composition, to external admission or establishment, to internal reorganisation, and finally to the ordinary-law consequences that amend the First and Fourth Schedules.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 5 — ARTICLE 4: SUPPLEMENTAL, INCIDENTAL AND CONSEQUENTIAL PROVISIONS - AND WHY THIS IS NOT ARTICLE 368",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 6 — THE FIRST SCHEDULE AS A LIVING TERRITORIAL LEDGER"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INTEGRATION AND LINGUISTIC REORGANISATION, 1947-1956",
+      "structural_type": "territorial-evolution-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INTEGRATION AND LINGUISTIC REORGANISATION, 1947-1956",
+          "role": "primary"
+        },
+        {
+          "text": "1947-49 ACCESSION AND INTEGRATION OF PRINCELY STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "1950 PART A, B, C AND D CLASSIFICATION BEGINS",
+          "role": "comparison"
+        },
+        {
+          "text": "1948 DHAR COMMISSION CAUTIONS AGAINST LANGUAGE-ONLY REORGANISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "1949 JVP COMMITTEE POSTPONES LINGUISTIC REORGANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "1952 POTTI SRIRAMULU'S DEATH INTENSIFIES ANDHRA DEMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "1953 ANDHRA STATE FORMED; STATES REORGANISATION COMMISSION APPOINTED",
+          "role": "institution"
+        },
+        {
+          "text": "1955 FAZL ALI COMMISSION REPORT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1947-49 accession and integration of princely states",
+        "1950 Part A, B, C and D classification begins",
+        "1948 Dhar Commission cautions against language-only reorganisation",
+        "1949 JVP Committee postpones linguistic reorganisation",
+        "1952 Potti Sriramulu's death intensifies Andhra demand"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "1947-49 accession and integration of princely states",
+            "1950 Part A, B, C and D classification begins",
+            "1948 Dhar Commission cautions against language-only reorganisation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1949 JVP Committee postpones linguistic reorganisation",
+            "1952 Potti Sriramulu's death intensifies Andhra demand",
+            "1953 Andhra State formed; States Reorganisation Commission appointed"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "1955 Fazl Ali Commission report",
+            "1956 States Reorganisation Act + Seventh Amendment language accepted with unity, administration and economy",
+            "Part classifications abolished"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "States and Union territories reorganised",
+            "Language became accommodation's basis, not an automatic sole test."
+          ]
+        }
+      ],
+      "mechanism_strip": "(LINGUISTIC): Linguistic reorganisation strengthened the Union by constitutionalising identity, but Fazl Ali's rejection of 'one language–one State' kept language subordinate to unity, viability and welfare.",
+      "answer_line": "(LINGUISTIC): Linguistic reorganisation strengthened the Union by constitutionalising identity, but Fazl Ali's rejection of 'one language–one State' kept language subordinate to unity, viability and welfare.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 9 — INTEGRATION OF PRINCELY STATES AND THE TRANSITIONAL 1950 MAP",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 10 — LINGUISTIC REORGANISATION: DHAR, JVP, ANDHRA AND THE FAZL ALI / SRC SETTLEMENT"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "POST-1956 MAP-MAKING: REORGANISATION, CREATION AND RENAMING",
+      "structural_type": "territorial-branching-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POST-1956 MAP-MAKING",
+          "role": "primary"
+        },
+        {
+          "text": "REORGANISATION, CREATION AND RENAMING",
+          "role": "outcome"
+        },
+        {
+          "text": "1956 SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "1960 MAHARASHTRA + GUJARAT",
+          "role": "evidence"
+        },
+        {
+          "text": "1963 NAGALAND",
+          "role": "primary"
+        },
+        {
+          "text": "1966 HARYANA + CHANDIGARH; PUNJAB REORGANISED",
+          "role": "outcome"
+        },
+        {
+          "text": "1971 HIMACHAL PRADESH",
+          "role": "comparison"
+        },
+        {
+          "text": "1972 MEGHALAYA, MANIPUR AND TRIPURA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1956 SETTLEMENT",
+        "1960 Maharashtra + Gujarat",
+        "1963 Nagaland",
+        "1966 Haryana + Chandigarh; Punjab reorganised",
+        "1971 Himachal Pradesh"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "1956 SETTLEMENT",
+            "1960 Maharashtra + Gujarat",
+            "1963 Nagaland",
+            "1966 Haryana + Chandigarh; Punjab reorganised"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1971 Himachal Pradesh",
+            "1972 Meghalaya, Manipur and Tripura",
+            "1975 Sikkim becomes a State",
+            "1987 Mizoram, Arunachal Pradesh and Goa"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2000 Chhattisgarh, Uttarakhand and Jharkhand",
+            "2014 Telangana",
+            "2019 Jammu and Kashmir reorganised into two Union territories",
+            "RENAMING uses Article 3 when a State name changes."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CURRENT MAP IN SOURCE: 28 States and 8 Union territories."
+          ]
+        }
+      ],
+      "mechanism_strip": "(CURRENT): As verified on the located official record through 21 August 2026, India has 28 States and 8 Union Territories; J&K remains a UT with Legislature and Ladakh a UT without Legislature, no later official status-changing notification or order was located, and Ladakh Statehood/Sixth-Schedule demands remain dialogue rather than law.",
+      "answer_line": "(CURRENT): As verified on the located official record through 21 August 2026, India has 28 States and 8 Union Territories; J&K remains a UT with Legislature and Ladakh a UT without Legislature, no later official status-changing notification or order was located, and Ladakh Statehood/Sixth-Schedule demands remain dialogue rather than law.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 11 — AFTER 1956: STATE CREATION, RENAMING AND THE ROUTE TO 28 STATES AND 8 UNION TERRITORIES"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "JAMMU AND KASHMIR REORGANISATION AS AN ARTICLE 3 STRESS TEST",
+      "structural_type": "federal-procedure-case-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "JAMMU AND KASHMIR REORGANISATION AS AN ARTICLE 3 STRESS",
+          "role": "institution"
+        },
+        {
+          "text": "2019 PRESIDENT'S RULE CONTEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE LEGISLATIVE POWERS EXERCISABLE BY PARLIAMENT",
+          "role": "institution"
+        },
+        {
+          "text": "J&K REORGANISATION BILL",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 3 ROUTE FORMER STATE DIVIDED INTO",
+          "role": "institution"
+        },
+        {
+          "text": "JAMMU AND KASHMIR UNION TERRITORY WITH LEGISLATURE",
+          "role": "outcome"
+        },
+        {
+          "text": "LADAKH UNION TERRITORY WITHOUT LEGISLATURE",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRST SCHEDULE AND REPRESENTATIONAL CONSEQUENCES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2019 PRESIDENT'S RULE CONTEXT",
+        "State legislative powers exercisable by Parliament",
+        "J&K REORGANISATION BILL",
+        "Article 3 route former State divided into",
+        "Jammu and Kashmir Union territory with legislature"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "2019 PRESIDENT'S RULE CONTEXT",
+            "State legislative powers exercisable by Parliament",
+            "J&K REORGANISATION BILL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 3 route former State divided into",
+            "Jammu and Kashmir Union territory with legislature",
+            "Ladakh Union territory without legislature"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FIRST SCHEDULE AND REPRESENTATIONAL CONSEQUENCES",
+            "Does State-to-Union-territory conversion alter the federal bargain too deeply for ordinary Article 3 power?",
+            "EXAM USE: separate procedural validity from political desirability."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 3 route former State divided into"
+          ]
+        }
+      ],
+      "mechanism_strip": "(FINAL): India's territorial Constitution works best when parliamentary flexibility is joined to federal statesmanship: unity supplies the legal power, while democratic consultation supplies the legitimacy.",
+      "answer_line": "(FINAL): India's territorial Constitution works best when parliamentary flexibility is joined to federal statesmanship: unity supplies the legal power, while democratic consultation supplies the legitimacy.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 13 — J&K REORGANISATION AS AN ARTICLE 3 ILLUSTRATION"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NEW-STATE DEMAND: DEMOCRATIC CLAIM VERSUS VIABLE FEDERAL UNIT",
+      "structural_type": "problem-response-synthesis",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "NEW-STATE DEMAND",
+          "role": "institution"
+        },
+        {
+          "text": "DEMOCRATIC CLAIM VERSUS VIABLE FEDERAL UNIT",
+          "role": "comparison"
+        },
+        {
+          "text": "CLAIM FOR NEW STATE IDENTITY + DISTANCE FROM CAPITAL",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTIONAL RESPONSE",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 3 REORGANISATION AFTER REQUIRED CONSULTATION",
+          "role": "institution"
+        },
+        {
+          "text": "TESTS ADMINISTRATIVE VIABILITY FISCAL AND RESOURCE SUSTAINABILITY MINORITY PROTECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SMALLER CAN IMPROVE ACCESS; IT DOES NOT AUTOMATICALLY PRODUCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLAIM FOR NEW STATE identity + distance from capital + uneven development + administrative access",
+        "CONSTITUTIONAL RESPONSE",
+        "Article 3 reorganisation after required consultation",
+        "TESTS administrative viability fiscal and resource sustainability minority protection inside proposed unit water, capital, assets",
+        "security and territorial integrity democratic legitimacy and transition costs"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CLAIM FOR NEW STATE identity + distance from capital + uneven development + administrative access",
+            "CONSTITUTIONAL RESPONSE"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 3 reorganisation after required consultation",
+            "TESTS administrative viability fiscal and resource sustainability minority protection inside proposed unit water, capital, assets, debt and employees"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "security and territorial integrity democratic legitimacy and transition costs",
+            "Smaller can improve access; it does not automatically produce capacity or equality."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CLAIM FOR NEW STATE identity + distance from capital + uneven development + administrative access",
+            "CONSTITUTIONAL RESPONSE"
+          ]
+        }
+      ],
+      "mechanism_strip": "(FEDERAL): Article 3 is a centralising safety valve: its flexibility can absorb regional demands, but legitimacy depends on consultation, transparency and negotiated transition because affected States possess no constitutional veto.",
+      "answer_line": "(FEDERAL): Article 3 is a centralising safety valve: its flexibility can absorb regional demands, but legitimacy depends on consultation, transparency and negotiated transition because affected States possess no constitutional veto.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 14 — CURRENT DEMANDS FOR NEW OR SMALLER STATES",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 15 — FEDERALISM, DEMOCRATIC CONSENT, REGIONALISM AND TERRITORIAL INTEGRITY"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "EXACT 10/15-MARK ARCHITECTURE: FLEXIBLE TERRITORY WITHIN AN INDESTRUCTIBLE UNION",
+      "structural_type": "answer-architecture",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXACT 10/15-MARK ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "FLEXIBLE TERRITORY WITHIN AN INDESTRUCTIBLE UNION",
+          "role": "outcome"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "150 WORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "1. OPEN WITH ARTICLE 1",
+          "role": "institution"
+        },
+        {
+          "text": "UNION OF STATES, NOT A SECESSION COMPACT.",
+          "role": "caution"
+        },
+        {
+          "text": "2. DISTINGUISH ARTICLES 2, 3 AND 4.",
+          "role": "comparison"
+        },
+        {
+          "text": "3. WRITE ARTICLE 3 REFERRAL AND NON-BINDING STATE VIEW.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "10 MARKS / 150 WORDS",
+        "1. Open with Article 1: Union of States, not a secession compact.",
+        "2. Distinguish Articles 2, 3 and 4.",
+        "3. Write Article 3 referral and non-binding State view.",
+        "4. Add Berubari cession limit."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "10 MARKS / 150 WORDS",
+            "1. Open with Article 1: Union of States, not a secession compact.",
+            "2. Distinguish Articles 2, 3 and 4.",
+            "3. Write Article 3 referral and non-binding State view."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "4. Add Berubari cession limit.",
+            "5. Conclude: flexible internal map, protected national territory.",
+            "15 MARKS / 250 WORDS",
+            "1. Map Articles 1-4 and First Schedule."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2. Compare admission, reorganisation, acquisition and cession.",
+            "3. Trace integration → linguistic settlement → post-1956 creation.",
+            "4. Evaluate consultation without consent as strong-Union design.",
+            "5. Use J&K or a new-State demand as stress test."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "6. Balance identity, viability, consent and integrity.",
+            "7. Conclude: flexibility is a federal conflict-management device."
+          ]
+        }
+      ],
+      "mechanism_strip": "7. Conclude: flexibility is a federal conflict-management device.",
+      "answer_line": "7. Conclude: flexibility is a federal conflict-management device.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#SESSION 15 — FEDERALISM, DEMOCRATIC CONSENT, REGIONALISM AND TERRITORIAL INTEGRITY",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g11\\polity-05_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLANATION I IS A FAVOURITE CLOSE-OPTION TRAP.",
+          "role": "caution"
+        },
+        {
+          "text": "IN ARTICLE 3, 'STATE' INCLUDES UNION TERRITORIES FOR CLAUSES",
+          "role": "institution"
+        },
+        {
+          "text": "THIS IS WHY PARLIAMENT MAY RESTRUCTURE UTS WITHOUT A",
+          "role": "evidence"
+        },
+        {
+          "text": "THE FIRST SCHEDULE AND FOURTH SCHEDULE DO DIFFERENT JOBS.",
+          "role": "primary"
+        },
+        {
+          "text": "THE FIRST SCHEDULE TRACKS TERRITORIAL UNITS; THE FOURTH SCHEDULE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 4 LETS A REORGANISATION LAW ADJUST BOTH TOGETHER.",
+          "role": "institution"
+        },
+        {
+          "text": "ORDINARY LAW IS NOT A LESSER CONSTITUTIONAL ACT IN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Explanation I is a favourite close-option trap.",
+            "In Article 3, 'State' includes Union Territories for clauses (a) to (e), but not for the proviso requiring reference to a State legislature.",
+            "This is why Parliament may restructure UTs without a comparable constitutionally mandated consultation step.",
+            "The First Schedule and Fourth Schedule do different jobs."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "The First Schedule tracks territorial units; the Fourth Schedule tracks Rajya Sabha seat allocation.",
+            "Article 4 lets a reorganisation law adjust both together.",
+            "Ordinary law is not a lesser constitutional act in this chapter.",
+            "An Article 3 law is ordinary in voting threshold, but constitutional in subject matter."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "That is why it can lawfully redraw the map while still remaining outside Article 368.",
+            "Berubari is not just a territorial case.",
+            "It also teaches exam method: identify whether the question is about internal diminution, cession, or interpretive use of",
+            "a case in another topic such as the Preamble."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

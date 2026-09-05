@@ -1,0 +1,1130 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-07",
+  "subject": "Polity",
+  "title": "FUNDAMENTAL RIGHTS",
+  "short_route": "PART III AS AN → ARTICLE 12 AND 13 → EQUALITY CODE AND RESERVATION → ARTICLE 19: SIX FREEDOMS → ARTICLES 20-22: CRIMINAL PROCESS → EXPLOITATION, RELIGION AND MINORITY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g13 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g13\\polity-07_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+  "ascii_spec_sha256": "9bb84eb1ad8ba30493b60afc9d42b3c9e7982f8a2a5869cb64d6966dab335e41",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PART III AS AN OPERATING ARCHITECTURE, NOT A LIST",
+      "structural_type": "rights-architecture-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PART III AS AN OPERATING ARCHITECTURE, NOT A LIST",
+          "role": "caution"
+        },
+        {
+          "text": "PART III",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 12 DEFINES STATE; ARTICLE 13 CONTROLS LAW",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 14-18",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 19-22",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 23-24",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 25-28",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 29-30",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PART III",
+        "GATEKEEPERS: Article 12 defines State; Article 13 controls law",
+        "EQUALITY: Articles 14-18",
+        "FREEDOMS: Articles 19-22",
+        "EXPLOITATION: Articles 23-24"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PART III",
+            "GATEKEEPERS: Article 12 defines State; Article 13 controls law",
+            "EQUALITY: Articles 14-18"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FREEDOMS: Articles 19-22",
+            "EXPLOITATION: Articles 23-24",
+            "RELIGION: Articles 25-28"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CULTURE / EDUCATION: Articles 29-30",
+            "REMEDY: Article 32",
+            "SAVINGS / SPECIAL CONTROL: Articles 31A-31C and 33-35"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "REACH vertical: person versus State horizontal: express private reach in Articles 15(2), 17, 23 and 24 positive duty",
+            "State may need to protect rights against private domination",
+            "RIGHT = protected claim + justified limit + effective remedy."
+          ]
+        }
+      ],
+      "mechanism_strip": "(ARCHITECTURE): Part III is a constitutional operating system, not a bare catalogue: Articles 12-13 identify bound power and invalid law, Articles 14-30 secure six present rights, Article 32 supplies the remedy, and Articles 31A-35 plus 358-359 control exceptional protection or enforcement.",
+      "answer_line": "(ARCHITECTURE): Part III is a constitutional operating system, not a bare catalogue: Articles 12-13 identify bound power and invalid law, Articles 14-30 secure six present rights, Article 32 supplies the remedy, and Articles 31A-35 plus 358-359 control exceptional protection or enforcement.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 1 — PART III AS AN ARCHITECTURE: RIGHTS, LIMITS, REMEDIES AND SPECIAL CONTROLS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 2 — BENEFICIARIES, VERTICAL AND HORIZONTAL REACH, POSITIVE AND NEGATIVE DUTIES"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLE 12 AND 13: WHO IS BOUND AND WHAT BECOMES VOID",
+      "structural_type": "institution-doctrine-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 12 AND 13",
+          "role": "institution"
+        },
+        {
+          "text": "WHO IS BOUND AND WHAT BECOMES VOID",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 12 INQUIRY",
+          "role": "institution"
+        },
+        {
+          "text": "UNION/STATE ORGANS + LOCAL AUTHORITIES + OTHER AUTHORITIES",
+          "role": "institution"
+        },
+        {
+          "text": "DEEP AND PERVASIVE CONTROL?",
+          "role": "primary"
+        },
+        {
+          "text": "FINANCIAL, FUNCTIONAL AND ADMINISTRATIVE DOMINATION?",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC IMPORTANCE TIED TO GOVERNMENT?",
+          "role": "comparison"
+        },
+        {
+          "text": "PRADEEP KUMAR BISWAS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 12 INQUIRY",
+        "Union/State organs + local authorities + other authorities",
+        "deep and pervasive control?",
+        "financial, functional and administrative domination?",
+        "public importance tied to government?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 12 INQUIRY",
+            "Union/State organs + local authorities + other authorities",
+            "deep and pervasive control?",
+            "financial, functional and administrative domination?"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "public importance tied to government?",
+            "Pradeep Kumar Biswas: cumulative instrumentality inquiry",
+            "ARTICLE 13 INQUIRY pre-Constitution inconsistent law → void to extent of inconsistency post-Constitution abridging law → prohibited and",
+            "void to that extent"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "\"law\" includes ordinance, rule, regulation, notification, custom and usage",
+            "DOCTRINES severability",
+            "waiver generally unavailable",
+            "prospective overruling"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "AMENDMENTS: Article 13(4) + Article 368 → Kesavananda basic-structure review."
+          ]
+        }
+      ],
+      "mechanism_strip": "\"law\" includes ordinance, rule, regulation, notification, custom and usage",
+      "answer_line": "\"law\" includes ordinance, rule, regulation, notification, custom and usage.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 4 — ARTICLE 12 - THE STATE AND THE INSTRUMENTALITY INQUIRY",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 5 — ARTICLE 13 - LAW, JUDICIAL REVIEW AND THE VOIDNESS DOCTRINES"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EQUALITY CODE AND RESERVATION DOCTRINE",
+      "structural_type": "rights-doctrine-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EQUALITY CODE AND RESERVATION DOCTRINE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 14 EQUALITY BEFORE LAW + EQUAL PROTECTION CLASSIFICATION",
+          "role": "institution"
+        },
+        {
+          "text": "INTELLIGIBLE DIFFERENTIA + RATIONAL NEXUS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARBITRARINESS IS ANTITHETICAL TO EQUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 15-16 NON-DISCRIMINATION + ENABLING SUBSTANTIVE-EQUALITY CLAUSES",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST AMENDMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 15(4)",
+          "role": "institution"
+        },
+        {
+          "text": "INDRA SAWHNEY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 14 equality before law + equal protection classification = intelligible differentia + rational nexus",
+        "Royappa/Maneka = arbitrariness is antithetical to equality",
+        "ARTICLES 15-16 non-discrimination + enabling substantive-equality clauses",
+        "Champakam → First Amendment → Article 15(4)",
+        "Indra Sawhney → creamy layer, ordinary 50% ceiling, no 16(4) promotion"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLE 14 equality before law + equal protection classification = intelligible differentia + rational nexus",
+          "Champakam → First Amendment → Article 15(4)",
+          "Nagaraj/Jarnail → inadequacy data and Article 335 efficiency controls",
+          "ARTICLES 17-18 abolish untouchability and reject titles with narrow exceptions."
+        ],
+        [
+          "Royappa/Maneka = arbitrariness is antithetical to equality",
+          "Indra Sawhney → creamy layer, ordinary 50% ceiling, no 16(4) promotion",
+          "103rd + Janhit → EWS upheld by majority",
+          ""
+        ],
+        [
+          "ARTICLES 15-16 non-discrimination + enabling substantive-equality clauses",
+          "77th/81st/82nd/85th → promotion, backlog, qualification and seniority tools",
+          "Davinder Singh 2024 → evidence-based SC sub-classification allowed, not mandated",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 14 equality before law + equal protection classification = intelligible differentia + rational nexus",
+            "Royappa/Maneka = arbitrariness is antithetical to equality",
+            "ARTICLES 15-16 non-discrimination + enabling substantive-equality clauses"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Champakam → First Amendment → Article 15(4)",
+            "Indra Sawhney → creamy layer, ordinary 50% ceiling, no 16(4) promotion",
+            "77th/81st/82nd/85th → promotion, backlog, qualification and seniority tools"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Nagaraj/Jarnail → inadequacy data and Article 335 efficiency controls",
+            "103rd + Janhit → EWS upheld by majority",
+            "Davinder Singh 2024 → evidence-based SC sub-classification allowed, not mandated"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLES 17-18 abolish untouchability and reject titles with narrow exceptions."
+          ]
+        }
+      ],
+      "mechanism_strip": "77th/81st/82nd/85th → promotion, backlog, qualification and seniority tools.",
+      "answer_line": "77th/81st/82nd/85th → promotion, backlog, qualification and seniority tools.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 6 — ARTICLE 14 - TWIN EQUALITY, CLASSIFICATION AND ANTI-ARBITRARINESS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 7 — ARTICLES 15 AND 16 - NON-DISCRIMINATION AND PROTECTIVE DISCRIMINATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 8 — RESERVATION DOCTRINE: CREAMY LAYER, CEILING, PROMOTION, EFFICIENCY, EWS AND SC SUB-CLASSIFICATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 9 — ARTICLES 17 AND 18 - ANTI-UNTOUCHABILITY AND ANTI-TITLE GUARANTEES"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ARTICLE 19: SIX FREEDOMS AND RESTRICTION-GROUND DISCIPLINE",
+      "structural_type": "articles-restriction-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLE 19",
+          "role": "institution"
+        },
+        {
+          "text": "SIX FREEDOMS AND RESTRICTION-GROUND DISCIPLINE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 19(1), CITIZENS ONLY SPEECH",
+          "role": "institution"
+        },
+        {
+          "text": "PROFESSION VALID LAW + LISTED GROUND + REASONABLENESS +",
+          "role": "evidence"
+        },
+        {
+          "text": "SPEECH GROUNDS UNDER 19(2) SOVEREIGNTY/INTEGRITY",
+          "role": "primary"
+        },
+        {
+          "text": "STATE SECURITY",
+          "role": "institution"
+        },
+        {
+          "text": "FRIENDLY RELATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC ORDER DECENCY/MORALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 19(1), CITIZENS ONLY speech",
+        "profession valid law + listed ground + reasonableness + proportionality",
+        "SPEECH GROUNDS UNDER 19(2) sovereignty/integrity",
+        "State security",
+        "friendly relations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 19(1), CITIZENS ONLY speech",
+            "profession valid law + listed ground + reasonableness + proportionality",
+            "SPEECH GROUNDS UNDER 19(2) sovereignty/integrity"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "State security",
+            "friendly relations",
+            "public order decency/morality"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANCHORS press and right to know derive from 19(1)(a)",
+            "Shreya Singhal: 66A void; advocacy differs from incitement",
+            "Anuradha Bhasin: shutdown orders require publication and proportionality"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Kedar Nath: sedition read toward incitement",
+            "BNS section 152 requires exact analysis, not a claim that sedition was merely renamed."
+          ]
+        }
+      ],
+      "mechanism_strip": "(ARTICLE 19): Article 19 protects six citizen freedoms through clause-specific discipline: the State must identify the exact restriction clause and closed ground, after which reasonableness and proportionality test the means.",
+      "answer_line": "(ARTICLE 19): Article 19 protects six citizen freedoms through clause-specific discipline: the State must identify the exact restriction clause and closed ground, after which reasonableness and proportionality test the means.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 10 — ARTICLE 19 - SIX FREEDOMS AND EXACT RESTRICTION GROUNDS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 11 — SPEECH, PRESS, RIGHT TO KNOW AND THE FIRST AMENDMENT SETTLEMENT",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 12 — SEDITION LINEAGE, BNS SECTION 152 AND SPEECH-INCITEMENT DISCIPLINE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 13 — DIGITAL SPEECH: SHREYA SINGHAL, INTERNET SHUTDOWNS AND CRIMINAL DEFAMATION"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ARTICLES 20-22: CRIMINAL PROCESS, DIGNITY AND DETENTION",
+      "structural_type": "procedure-rights-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLES 20-22",
+          "role": "primary"
+        },
+        {
+          "text": "CRIMINAL PROCESS, DIGNITY AND DETENTION",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 20",
+          "role": "institution"
+        },
+        {
+          "text": "ALL PERSONS NO RETROSPECTIVE CRIMINAL OFFENCE OR ENHANCED PENALTY",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 21",
+          "role": "institution"
+        },
+        {
+          "text": "GOPALAN COMPARTMENTALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "R.C. COOPER LINKAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "JUST, FAIR AND REASONABLE PROCEDURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 20: ALL PERSONS no retrospective criminal offence or enhanced penalty no prosecution and punishment",
+        "offence no compelled testimonial self-incrimination by an accused",
+        "ARTICLE 21",
+        "Gopalan compartmentalisation → R.C. Cooper linkage",
+        "Maneka: just, fair and reasonable procedure"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLE 20: ALL PERSONS no retrospective criminal offence or enhanced penalty no prosecution and punishment twice for same",
+          "Gopalan compartmentalisation → R.C. Cooper linkage",
+          "Puttaswamy test: legality + legitimate aim + proportionality + safeguards",
+          "44th Amendment's proposed two-month substitution has not commenced."
+        ],
+        [
+          "offence no compelled testimonial self-incrimination by an accused",
+          "Maneka: just, fair and reasonable procedure",
+          "ARTICLE 22 ordinary arrest: grounds + lawyer + magistrate within 24 hours preventive detention: distinct safeguards",
+          ""
+        ],
+        [
+          "ARTICLE 21",
+          "dignity family: privacy, livelihood, legal aid and speedy trial",
+          "no-board period remains three months",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 20: ALL PERSONS no retrospective criminal offence or enhanced penalty no prosecution and punishment twice for same",
+            "offence no compelled testimonial self-incrimination by an accused",
+            "ARTICLE 21"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Gopalan compartmentalisation → R.C. Cooper linkage",
+            "Maneka: just, fair and reasonable procedure",
+            "dignity family: privacy, livelihood, legal aid and speedy trial"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Puttaswamy test: legality + legitimate aim + proportionality + safeguards",
+            "ARTICLE 22 ordinary arrest: grounds + lawyer + magistrate within 24 hours preventive detention: distinct safeguards",
+            "no-board period remains three months"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "44th Amendment's proposed two-month substitution has not commenced."
+          ]
+        }
+      ],
+      "mechanism_strip": "(ARTICLE 20): Article 20 creates three person-protective criminal shields against retrospective penal liability, repeated prosecution-and-punishment for the same offence, and compelled testimonial self-incrimination.",
+      "answer_line": "(ARTICLE 20): Article 20 creates three person-protective criminal shields against retrospective penal liability, repeated prosecution-and-punishment for the same offence, and compelled testimonial self-incrimination.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 14 — ARTICLE 20 - EX POST FACTO LAW, DOUBLE JEOPARDY AND SELF-INCRIMINATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 15 — ARTICLE 21 - GOPALAN TO MANEKA: FAIR PROCEDURE AND THE DIGNITY CHARTER",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 16 — PRIVACY, PROPORTIONALITY, DNA TESTING AND DATA PROTECTION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 18 — ARTICLE 22 - ORDINARY ARREST, PREVENTIVE DETENTION AND THE UNENFORCED 44TH AMENDMENT CLAUSE"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EXPLOITATION, RELIGION AND MINORITY AUTONOMY",
+      "structural_type": "rights-comparison-branch",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXPLOITATION, RELIGION AND MINORITY AUTONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 23-24 TRAFFICKING AND FORCED LABOUR PROHIBITED; MINIMUM-WAGE COERCION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 25-28 INDIVIDUAL CONSCIENCE AND PROFESSION, PRACTICE AND PROPAGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 26 DENOMINATION MANAGEMENT LIMITS",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC ORDER, MORALITY, HEALTH AND OTHER FRS",
+          "role": "primary"
+        },
+        {
+          "text": "STATE MAY REGULATE SECULAR ACTIVITY AND ENACT SOCIAL REFORM",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 29-30",
+          "role": "comparison"
+        },
+        {
+          "text": "ANY SECTION OF CITIZENS WITH DISTINCT LANGUAGE, SCRIPT OR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLES 23-24 trafficking and forced labour prohibited",
+        "minimum-wage coercion can implicate 23 children below 14 barred from factories, mines and hazardous employment",
+        "ARTICLES 25-28 individual conscience and profession, practice and propagation",
+        "Article 26 denomination management limits: public order, morality, health and other FRs",
+        "State may regulate secular activity and enact social reform"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLES 23-24 trafficking and forced labour prohibited",
+          "Article 26 denomination management limits: public order, morality, health and other FRs",
+          "29(1): any section of citizens with distinct language, script or culture",
+          "Autonomy survives regulation; regulation cannot erase institutional identity."
+        ],
+        [
+          "minimum-wage coercion can implicate 23 children below 14 barred from factories, mines and hazardous employment under 24",
+          "State may regulate secular activity and enact social reform",
+          "29(2): admission non-discrimination in covered institutions",
+          ""
+        ],
+        [
+          "ARTICLES 25-28 individual conscience and profession, practice and propagation",
+          "ARTICLES 29-30",
+          "30: religious and linguistic minorities may establish and administer institutions",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLES 23-24 trafficking and forced labour prohibited",
+            "minimum-wage coercion can implicate 23 children below 14 barred from factories, mines and hazardous employment under 24",
+            "ARTICLES 25-28 individual conscience and profession, practice and propagation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 26 denomination management limits: public order, morality, health and other FRs",
+            "State may regulate secular activity and enact social reform",
+            "ARTICLES 29-30"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "29(1): any section of citizens with distinct language, script or culture",
+            "29(2): admission non-discrimination in covered institutions",
+            "30: religious and linguistic minorities may establish and administer institutions"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Autonomy survives regulation; regulation cannot erase institutional identity."
+          ]
+        }
+      ],
+      "mechanism_strip": "(ARTICLES 25-28): Indian religious freedom protects conscience and denominational autonomy while permitting public-order, health, morality, secular-regulation and social-reform controls; the governing model is principled distance, not either theocracy or an absolute wall.",
+      "answer_line": "(ARTICLES 25-28): Indian religious freedom protects conscience and denominational autonomy while permitting public-order, health, morality, secular-regulation and social-reform controls; the governing model is principled distance, not either theocracy or an absolute wall.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 19 — ARTICLES 23-24 - EXPLOITATION, FORCED LABOUR AND CHILD LABOUR",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 20 — ARTICLES 25-28 - CONSCIENCE, DENOMINATION, SECULAR REGULATION AND PRINCIPLED DISTANCE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 21 — ARTICLES 29-30 - CULTURAL CONSERVATION AND MINORITY EDUCATIONAL AUTONOMY"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ARTICLE 32: WRIT REMEDIES AND THE ENFORCEMENT LADDER",
+      "structural_type": "remedy-procedure-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLE 32",
+          "role": "institution"
+        },
+        {
+          "text": "WRIT REMEDIES AND THE ENFORCEMENT LADDER",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHT VIOLATED",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPREME COURT FOR FUNDAMENTAL RIGHTS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 226",
+          "role": "institution"
+        },
+        {
+          "text": "HIGH COURT FOR FRS AND OTHER LEGAL RIGHTS",
+          "role": "institution"
+        },
+        {
+          "text": "WRIT CHOICE",
+          "role": "comparison"
+        },
+        {
+          "text": "HABEAS CORPUS PRODUCE DETAINED PERSON; TEST DETENTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RIGHT VIOLATED",
+        "ARTICLE 32 → SUPREME COURT for Fundamental Rights",
+        "ARTICLE 226 → HIGH COURT for FRs and other legal rights",
+        "WRIT CHOICE",
+        "HABEAS CORPUS produce detained person; test detention"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RIGHT VIOLATED",
+            "ARTICLE 32 → SUPREME COURT for Fundamental Rights",
+            "ARTICLE 226 → HIGH COURT for FRs and other legal rights"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "WRIT CHOICE",
+            "HABEAS CORPUS produce detained person; test detention",
+            "MANDAMUS compel public duty"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROHIBITION stop jurisdictional excess before completion",
+            "CERTIORARI quash completed order for jurisdictional or legal error",
+            "QUO WARRANTO test authority to hold public office"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 32 is itself a Fundamental Right; legal fit still matters.",
+            "Article 226 is territorially and remedially wider, not constitutionally inferior."
+          ]
+        }
+      ],
+      "mechanism_strip": "(ARTICLE 32 / WRITS): Article 32 makes the Supreme Court a guaranteed Fundamental-Rights forum, while Article 226 is wider in subject matter and public-duty reach; the correct writ follows the defect—detention, unperformed duty, threatened excess, defective order or unlawful public office.",
+      "answer_line": "(ARTICLE 32 / WRITS): Article 32 makes the Supreme Court a guaranteed Fundamental-Rights forum, while Article 226 is wider in subject matter and public-duty reach; the correct writ follows the defect—detention, unperformed duty, threatened excess, defective order or unlawful public office.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 22 — ARTICLE 32 AND THE FIVE WRITS"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SAVING CLAUSES, PROPERTY AND AMENDMENT DOCTRINE",
+      "structural_type": "amendment-judicial-doctrine",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SAVING CLAUSES, PROPERTY AND AMENDMENT DOCTRINE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 31A SPECIFIED REFORM CATEGORIES PROTECTED FROM ARTICLE 14/19",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 31B + NINTH SCHEDULE LISTED-LAW PROTECTION",
+          "role": "institution"
+        },
+        {
+          "text": "I.R. COELHO",
+          "role": "evidence"
+        },
+        {
+          "text": "POST-24 APR 1973 INSERTIONS FACE BASIC-STRUCTURE REVIEW",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 31C ORIGINAL PROTECTION FOR GENUINE ARTICLE 39(B)/(C) LAWS",
+          "role": "institution"
+        },
+        {
+          "text": "KESAVANANDA LIMITS IMMUNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MINERVA MILLS DEFEATS EXTENSION TO ALL DPSPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 31A specified reform categories protected from Article 14/19 attack",
+        "ARTICLE 31B + NINTH SCHEDULE listed-law protection",
+        "I.R. Coelho: post-24 Apr 1973 insertions face basic-structure review",
+        "ARTICLE 31C original protection for genuine Article 39(b)/(c) laws against 14 and 19",
+        "Kesavananda limits immunity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 31A specified reform categories protected from Article 14/19 attack",
+            "ARTICLE 31B + NINTH SCHEDULE listed-law protection",
+            "I.R. Coelho: post-24 Apr 1973 insertions face basic-structure review"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 31C original protection for genuine Article 39(b)/(c) laws against 14 and 19",
+            "Kesavananda limits immunity",
+            "Minerva Mills defeats extension to all DPSPs"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Property Owners 2024 preserves original 31C",
+            "not every private asset is automatically a community resource",
+            "44th Amendment: Article 31 leaves Part III"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 300A: every person; deprivation only by authority of law."
+          ]
+        }
+      ],
+      "mechanism_strip": "(PROPERTY): The Forty-fourth Amendment moved property from Part III to the constitutional guarantee in Article 300A.",
+      "answer_line": "(PROPERTY): The Forty-fourth Amendment moved property from Part III to the constitutional guarantee in Article 300A.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 23 — ARTICLES 31A, 31B AND 31C - SAVING PROVISIONS WITHOUT BLANKET IMMUNITY",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 24 — RIGHT TO PROPERTY: ARTICLE 31 TRANSITION TO ARTICLE 300A"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ARTICLE 358 AND 359: EMERGENCY EFFECTS ARE NOT THE SAME",
+      "structural_type": "emergency-mechanism-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLE 358 AND 359",
+          "role": "institution"
+        },
+        {
+          "text": "EMERGENCY EFFECTS ARE NOT THE SAME",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 358 ARTICLE 359 AUTOMATIC OPERATION PRESIDENTIAL ORDER REQUIRED",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 19 ONLY SPECIFIED RIGHTS NAMED IN ORDER WAR/EXTERNAL-AGGRESSION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 33-35",
+          "role": "primary"
+        },
+        {
+          "text": "PARLIAMENT MAY TAILOR FRS FOR FORCES AND SPECIFIED SERVICES",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY INDEMNIFY MARTIAL-LAW ACTS AND HAS EXCLUSIVE COMPETENCE OVER",
+          "role": "comparison"
+        },
+        {
+          "text": "MARTIAL LAW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 358 ARTICLE 359 automatic operation Presidential order required",
+        "Article 19 only specified rights named in order war/external-aggression Emergency Emergency while order operates changes",
+        "limit suspends enforcement, not text post-44th nexus conditions apply Articles 20 and 21 cannot be",
+        "ARTICLES 33-35",
+        "Parliament may tailor FRs for forces and specified services"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLE 358 ARTICLE 359 automatic operation Presidential order required",
+          "limit suspends enforcement, not text post-44th nexus conditions apply Articles 20 and 21 cannot be included",
+          "Parliament may tailor FRs for forces and specified services",
+          "MARTIAL LAW != NATIONAL EMERGENCY local exceptional coercive control differs from constitutional proclamation."
+        ],
+        [
+          "Article 19 only specified rights named in order war/external-aggression Emergency Emergency while order operates changes State's Article 19",
+          "ARTICLES 33-35",
+          "may indemnify martial-law acts and has exclusive competence over listed matters.",
+          "No rule says all Fundamental Rights automatically disappear in Emergency."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 358 ARTICLE 359 automatic operation Presidential order required",
+            "Article 19 only specified rights named in order war/external-aggression Emergency Emergency while order operates changes State's Article 19"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "limit suspends enforcement, not text post-44th nexus conditions apply Articles 20 and 21 cannot be included",
+            "ARTICLES 33-35"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Parliament may tailor FRs for forces and specified services",
+            "may indemnify martial-law acts and has exclusive competence over listed matters."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MARTIAL LAW != NATIONAL EMERGENCY local exceptional coercive control differs from constitutional proclamation.",
+            "No rule says all Fundamental Rights automatically disappear in Emergency."
+          ]
+        }
+      ],
+      "mechanism_strip": "No rule says all Fundamental Rights automatically disappear in Emergency.",
+      "answer_line": "No rule says all Fundamental Rights automatically disappear in Emergency.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 25 — ARTICLES 33-35 AND MARTIAL LAW",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 26 — ARTICLES 358 AND 359 - TWO DIFFERENT EMERGENCY MECHANISMS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 27 — ARTICLE 359: THE NON-DEROGABLE ARTICLES 20 AND 21 CORE"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "EXACT 10/15-MARK ARCHITECTURE: LIBERTY, LIMITATION AND REMEDY",
+      "structural_type": "answer-architecture",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXACT 10/15-MARK ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "LIBERTY, LIMITATION AND REMEDY",
+          "role": "outcome"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "150 WORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "1. IDENTIFY CLAIMANT, STATE ACTION AND EXACT ARTICLE.",
+          "role": "institution"
+        },
+        {
+          "text": "2. STATE CITIZEN/PERSON REACH, VERTICAL/HORIZONTAL EFFECT AND DUTY.",
+          "role": "institution"
+        },
+        {
+          "text": "3. APPLY PROTECTED INTEREST",
+          "role": "comparison"
+        },
+        {
+          "text": "LISTED LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "10 MARKS / 150 WORDS",
+        "1. Identify claimant, State action and exact Article.",
+        "2. State citizen/person reach, vertical/horizontal effect and duty.",
+        "3. Apply protected interest → listed limit → proportionality.",
+        "4. Add one controlling case and Article 32 or 226 remedy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "10 MARKS / 150 WORDS",
+            "1. Identify claimant, State action and exact Article.",
+            "2. State citizen/person reach, vertical/horizontal effect and duty.",
+            "3. Apply protected interest → listed limit → proportionality."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "4. Add one controlling case and Article 32 or 226 remedy.",
+            "5. Conclude on validity with a narrow qualification.",
+            "15 MARKS / 250 WORDS",
+            "1. Frame Part III through gatekeepers, rights, limits, remedies and savings."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2. Explain the Article family with clause-level accuracy.",
+            "3. Apply Article 14 fairness and Article 19/21 proportionality where relevant.",
+            "4. Integrate rights-DPSP harmony through Minerva Mills.",
+            "5. Test amendment/immunity through Kesavananda and I.R. Coelho."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "6. Distinguish Article 358 from 359 if Emergency is involved.",
+            "7. Conclude: governance requires legality, justification and remedy."
+          ]
+        }
+      ],
+      "mechanism_strip": "5. Conclude on validity with a narrow qualification.",
+      "answer_line": "5. Conclude on validity with a narrow qualification.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g12\\polity-07_Complete-Learning-Session_2026-08-23.md#CONSOLIDATED REGISTER NOTES"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 17 DIRECTLY INVALIDATES CASTE DISABILITY.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 23 DIRECTLY PROHIBITS FORCED LABOUR.",
+          "role": "institution"
+        },
+        {
+          "text": "VISHAKA USED ARTICLES 14, 19(1)(G) AND 21 TO FILL",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIVACY DISPUTES BETWEEN INDIVIDUALS OFTEN OPERATE THROUGH EVIDENCE, FAMILY",
+          "role": "evidence"
+        },
+        {
+          "text": "NARROWED ARTICLE 358 TO EXTERNAL EMERGENCY",
+          "role": "institution"
+        },
+        {
+          "text": "PROTECTED ARTICLES 20 AND 21 FROM ARTICLE 359",
+          "role": "institution"
+        },
+        {
+          "text": "REQUIRED TIGHTER RELATION/RECITAL CONTROLS; AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Article 17 directly invalidates caste disability.",
+            "Article 23 directly prohibits forced labour.",
+            "Vishaka used Articles 14, 19(1)(g) and 21 to fill a statutory vacuum around workplace sexual harassment.",
+            "Privacy disputes between individuals often operate through evidence, family, labour or data statutes rather than a simple Article 32 petition."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "narrowed Article 358 to external Emergency;",
+            "protected Articles 20 and 21 from Article 359;",
+            "required tighter relation/recital controls; and",
+            "retained judicial review of the Emergency architecture."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Optional: The Core above is independently paper-complete.",
+            "This section is for deeper 15/20-mark reasoning and unfamiliar hypotheticals.",
+            "Equality as anti-subordination, not merely consistency [ANALYSIS] Formal equality asks whether similarly situated persons receive the same rule.",
+            "Anti-subordination asks whether law entrenches a hierarchy such as caste, sex or disability."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

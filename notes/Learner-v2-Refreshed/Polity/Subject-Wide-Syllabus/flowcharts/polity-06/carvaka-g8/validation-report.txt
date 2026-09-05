@@ -1,0 +1,37 @@
+topic=polity-06
+generation=8
+generated=2026-08-23T08:01:51.474088+05:30
+source=upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-06\polity-06_Complete-Learning-Session_2026-08-22.md
+master_png=master.png
+master_dimensions_px=3600x24485
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x11567.72
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=13
+same_master_split=yes
+tile_overlap_px=260
+preview_count=13
+contact_sheet_count=3
+session_stage_count=27
+editable_sources=editable/flowchart-data.json, editable/README.txt
+ascii_master=ascii-master.txt
+core_before_extra=PASS
+same_master_identity=PASS
+poster_validation=PASS
+tiled_validation=PASS
+tile_coordinates=
+  page-001: y=0..2200; overlap=0; from=1; continues=3
+  page-002: y=1940..4140; overlap=260; from=2; continues=5
+  page-003: y=3880..6080; overlap=260; from=5; continues=7
+  page-004: y=5820..8020; overlap=260; from=7; continues=9
+  page-005: y=7760..9960; overlap=260; from=9; continues=11
+  page-006: y=9700..11900; overlap=260; from=11; continues=14
+  page-007: y=11640..13840; overlap=260; from=13; continues=16
+  page-008: y=13580..15780; overlap=260; from=15; continues=18
+  page-009: y=15520..17720; overlap=260; from=18; continues=20
+  page-010: y=17460..19660; overlap=260; from=20; continues=22
+  page-011: y=19400..21600; overlap=260; from=22; continues=24
+  page-012: y=21340..23540; overlap=260; from=24; continues=27
+  page-013: y=22285..24485; overlap=260; from=25; continues=27
+errors=none

@@ -1,0 +1,316 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Making of the Constitution: central question and analytical axes
+
+```ascii-master
+MAKING OF THE CONSTITUTION — CONCEPTUAL ATLAS
+
+
+KEY TERMS: constituent authority • M • adult franchise • Cabinet Mission • Constituent
+KEY TERMS: Assembly • nationalist demand
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Making of the Constitution
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Constituent legitimacy developed through nationalist claims, the…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: INTELLECTUAL AND POLITICAL ORIGINS: 1934-1946
+  • constituent authority
+  • Political demands for an elected assembly were translated into…
+AXIS 2: A
+  • A
+  • Trap: Do not claim that the Assembly possessed the same legal…
+AXIS 3: BORROWED PROVISIONS AS ADAPTATION, NOT COPYING
+  • Borrowed Provisions As Adaptation
+  • Wrong: A borrowed device is necessarily unsuitable Correct…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  constituent authority • M • adult franchise • Cabinet Mission
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Origins, Cabinet Mission, composition and first sitting
+
+```ascii-master
+ORIGINS, CABINET MISSION, COMPOSITION AND FIRST SITTING
+│
+
+KEY TERMS: constituent authority • M • adult franchise • Cabinet Mission • Constituent
+KEY TERMS: Assembly • nationalist demand
+├── KEY CONCEPTS
+│   ├── constituent authority
+│   ├── M
+│   ├── adult franchise
+│   ├── Cabinet Mission
+│   └── Constituent Assembly
+│
+├── INTELLECTUAL AND POLITICAL ORIGINS: 1934-1946
+│   ├─ TERMS: Constituent legitimacy developed through nationalist claims, the…
+│   ├─ LOGIC: Political demands for an elected assembly were translated into the…
+│   └─ RESULT: The Assembly's constrained electoral origin remained a limitation…
+├── CABINET MISSION DESIGN AND ALLOCATION LOGIC
+│   ├─ TERMS: The selection chain ran through provincial legislatures, and the…
+│   ├─ LOGIC: Therefore the Constituent Assembly was indirectly elected, not…
+│   └─ RESULT: Do not say every one of the 296 British Indian seats was filled…
+├── ELECTIONS, COMPOSITION CHANGE AND METRIC DISCIPLINE
+│   ├─ TERMS: A single number cannot answer 'how representative?' Use selection
+│   ├─ TERMS: method, social range, political dominance, boycott…
+│   ├─ LOGIC: The 93 princely-state seats were initially unfilled because the…
+│   └─ RESULT: a single number cannot answer 'how representative?' Use selection…
+├── FIRST SITTING, PRESIDING OFFICERS AND SECRETARIAT
+│   ├─ TERMS: The first meeting was held on 9 December 1946
+│   ├─ LOGIC: The Assembly was an institution, not only a gathering of famous…
+│   └─ RESULT: Sachchidananda Sinha, the oldest member, became temporary
+│   └─ RESULT: President…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Objectives Resolution, sovereignty and committee architecture
+
+```ascii-master
+OBJECTIVES RESOLUTION, SOVEREIGNTY AND COMMITTEE ARCHITECTURE
+
+
+KEY TERMS: Objectives Resolution To Preamble • Nehru moved the Objectives Resolution •
+KEY TERMS: Assembly adopted it unanimously • 13 Dec 1946 • 22 Jan 1947 • 26 Nov 1949
+STAGE 01  OBJECTIVES RESOLUTION TO PREAMBLE
+  ├─ CONDITION / TERM: 'Socialist' and 'secular' were inserted into the Preamble
+  ├─ CONDITION / TERM: by the…
+  ├─ CHANGE / MECHANISM: 'Socialist' and 'secular' were inserted into the Preamble
+  ├─ CHANGE / MECHANISM: by the…
+  └─ OUTCOME: The Resolution worked as a normative constraint: committees could…
+                  │
+                  ▼
+STAGE 02  A
+  ├─ CONDITION / TERM: Trap: Do not claim that the Assembly possessed the same
+  ├─ CONDITION / TERM: legal…
+  ├─ CHANGE / MECHANISM: Trap: Do not claim that the Assembly possessed the same
+  ├─ CHANGE / MECHANISM: legal…
+  └─ OUTCOME: It could frame any Constitution for India, alter or repeal British…
+                  │
+                  ▼
+STAGE 03  COMMITTEE ARCHITECTURE AND DISTRIBUTED AUTHORSHIP
+  ├─ CONDITION / TERM: The Advisory Committee was supported by specialised
+  ├─ CONDITION / TERM: subcommittees…
+  ├─ CHANGE / MECHANISM: The Advisory Committee was supported by specialised
+  ├─ CHANGE / MECHANISM: subcommittees…
+  └─ OUTCOME: Chairmanship does not imply sole authorship
+                  │
+                  ▼
+STAGE 04  B.N
+  ├─ CONDITION / TERM: Rau was a Drafting Committee member Correct: He was
+  ├─ CONDITION / TERM: Constitutional…
+  ├─ CHANGE / MECHANISM: The seven-member Drafting Committee was appointed on 29
+  ├─ CHANGE / MECHANISM: August 1947…
+  └─ OUTCOME: Research is not drafting
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Drafting roles, readings, adoption, signing and commencement
+
+```ascii-master
+DRAFTING ROLES, READINGS, ADOPTION, SIGNING AND COMMENCEMENT
+
+
+KEY TERMS: Drafting Stages • Readings • Adoption • Signing • Commencement • 4 Nov 1948
+CAUSE / CONDITION 1: Adoption on 26 November 1949, signing on 24 January 1950 and…
+          │
+          ├── MECHANISM
+          │   The Constitution was adopted on 26 November 1949, signed on 24…
+          │
+          └── EFFECT / CONTRAST
+              Do not say the Constitution was adopted on Republic Day or signed…
+          │
+          ▼
+CAUSE / CONDITION 2: Its seal or symbol was the elephant
+          │
+          ├── MECHANISM
+          │   The authoritative Hindi text was constitutionally provided later…
+          │
+          └── EFFECT / CONTRAST
+              They should not displace institutional analysis in a Mains answer
+          │
+          ▼
+CAUSE / CONDITION 3: Use one paragraph per debate and cross-link the later owner…
+          │
+          ├── MECHANISM
+          │   Fundamental Rights and Directive Principles formed a…
+          │
+          └── EFFECT / CONTRAST
+              Strong Union was a negotiated response, not proof of a unitary…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Borrowing, consensus, plural voices and criticism/reply
+
+```ascii-master
+BORROWING, CONSENSUS, PLURAL VOICES AND CRITICISM/REPLY
+
+
+KEY TERMS: Borrowed Provisions As Adaptation • Not Copying • Before 1947 • Rau and
+KEY TERMS: committees studied comparative… • 1935 Act provided an administrative… • 1946-48
+CAUSE / CONDITION 1: Comparative study does not equal copying Adaptation must be…
+          │
+          ├── MECHANISM
+          │   Wrong: A borrowed device is necessarily unsuitable Correct…
+          │
+          └── EFFECT / CONTRAST
+              The Constitution combined continuity of institutions with rupture…
+          │
+          ▼
+CAUSE / CONDITION 2: Consensus was produced through repeated movement between…
+          │
+          ├── MECHANISM
+          │   Consensus was produced through repeated movement between…
+          │
+          └── EFFECT / CONTRAST
+              Do not romanticise: unequal social power, indirect election, the…
+          │
+          ▼
+CAUSE / CONDITION 3: People And Plural Voices Without Hero-Only Reduction…
+          │
+          ├── MECHANISM
+          │   His political and moral influence is not the same as institutional…
+          │
+          └── EFFECT / CONTRAST
+              Do not invent quotations or attribute every final clause to one…
+          │
+          ▼
+CAUSE / CONDITION 4: Use criticism - conceded kernel - named evidence - reply…
+          │
+          ├── MECHANISM
+          │   Use criticism - conceded kernel - named evidence - reply - residual…
+          │
+          └── EFFECT / CONTRAST
+              The Assembly was weak on direct electoral mandate but stronger on…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Social revolution, constitutional interpretation and answer spine
+
+```ascii-master
+SOCIAL REVOLUTION, CONSTITUTIONAL INTERPRETATION AND ANSWER SPINE
+
+
+KEY TERMS: Time • Cost • Output • Transition Dashboard • Work began • 9 Dec 1946
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: the commonly recorded cost was about Rs 64 lakh
+  ├─ RESPONSE / CONTROL: Wrong: 141 days was the entire Assembly's duration
+  ├─ RESPONSE / CONTROL: Correct: It was…
+  └─ QUALIFIED VERDICT: A dashboard supports, but does not replace, institutional
+  └─ QUALIFIED VERDICT: analysis
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: Transformation was constitutional and gradual, not a total…
+  ├─ RESPONSE / CONTROL: Do not present continuity as colonial copying or rupture
+  ├─ RESPONSE / CONTROL: as…
+  └─ QUALIFIED VERDICT: Constitutional continuity made government possible on day
+  └─ QUALIFIED VERDICT: one
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Wrong: A practice Mains question is a PYQ Correct: Label original…
+  ├─ RESPONSE / CONTROL: Direct locally routed Prelims demands are 2021 Q93, 2023
+  ├─ RESPONSE / CONTROL: Q85, 2024…
+  └─ QUALIFIED VERDICT: no direct locally verified Mains PYQ found Four routed
+  └─ QUALIFIED VERDICT: Prelims…
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: State of Kerala (1973) illustrates the living-identity tension: the…
+  ├─ RESPONSE / CONTROL: Courts and constitutional argument may use the
+  ├─ RESPONSE / CONTROL: Constituent Assembly…
+  └─ QUALIFIED VERDICT: Use a four-step paragraph: textual ambiguity -
+  └─ QUALIFIED VERDICT: debate/purpose…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Making of the Constitution: traps, PYQ routes and applied recall
+
+```ascii-master
+MAKING OF THE CONSTITUTION: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: constituent authority • M • adult franchise • Cabinet Mission • Constituent
+KEY TERMS: Assembly • nationalist demand
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Do not use Nehru's 1938 statement or any single historical proposal…
+├── indian constitution-making was distributed authorship: committees…
+├── Wrong: Congress dominance proves no debate occurred Correct…
+├── State of Kerala (1973) illustrates the living-identity tension: the…
+│
+├── 2023 Q85: exact official question held locally
+├── 2024 Q61: exact official Set-A question and official Set-A key held locally
+├── Mains audit: no direct Mains PYQ on the making process was found in the…
+├── PYQ 1 — Prelims 2021 GS-I Q93
+│
+└── India's Constitution emerged through a negotiated transition from…
+└── Its seal or symbol was the elephant
+└── Constituent Assembly Debates are persuasive external aids to…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Making of the Constitution: integrated revision and answer-writing spine
+
+```ascii-master
+MAKING OF THE CONSTITUTION — ANSWER / REVISION SPINE
+
+
+KEY TERMS: constituent authority • M • adult franchise • Cabinet Mission • Constituent
+KEY TERMS: Assembly • nationalist demand
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Constituent legitimacy developed through nationalist claims, the…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ constituent authority
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ The Advisory Committee was supported by specialised subcommittees…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ adult franchise
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ State of Kerala (1973) illustrates the living-identity tension: the…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Constituent Assembly Debates are persuasive external aids to…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

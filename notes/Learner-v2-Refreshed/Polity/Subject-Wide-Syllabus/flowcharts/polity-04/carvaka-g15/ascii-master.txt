@@ -1,0 +1,184 @@
+ASCII MASTER FLOW — PANEL 1/11: From Objectives Resolution to authoritative Preamble
+13 DEC 1946  Objectives Resolution moved by Jawaharlal Nehru
+22 JAN 1947  Objectives Resolution adopted
+      |
+committee work + Drafting Committee language + Assembly debate
+      |
+26 NOV 1949
+"WE, THE PEOPLE OF INDIA" adopt, enact and give the Constitution to ourselves
+      |
+24 JAN 1950  members sign the Constitution
+      |
+26 JAN 1950  Constitution commences
+
+TEXTUAL MEMORY
+source -> nature of State -> objectives -> adoption/enactment declaration
+
+TRAP: adoption and commencement dates perform different constitutional work.
+
+ASCII MASTER FLOW — PANEL 2/11: Clause architecture: authority, identity, ends and enactment
+WE, THE PEOPLE OF INDIA
+  +-- SOURCE: popular constituent authority
+  +-- STATE: SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC
+  +-- OBJECTIVES
+  |     +-- JUSTICE: social, economic, political
+  |     +-- LIBERTY: thought, expression, belief, faith, worship
+  |     +-- EQUALITY: status and opportunity
+  |     +-- FRATERNITY: dignity + unity and integrity
+  +-- CONSTITUENT ACT
+        adopt + enact + give to ourselves
+
+People are the source; descriptors identify the polity;
+objectives set its destination; enactment converts resolution into authority.
+
+ASCII MASTER FLOW — PANEL 3/11: Five State descriptors: exact constitutional work
+DESCRIPTOR   CONSTITUTIONAL WORK
+Sovereign    no external superior; internal authority under Constitution
+Socialist    democratic welfare and distribution, not total statism
+Secular      equal citizenship with principled regulation of religion
+Democratic   popular rule through adult franchise and representation
+Republic     elected, non-hereditary head of State
+
+42ND AMENDMENT, 1976
+inserted "Socialist", "Secular" and "integrity";
+it did not create their entire constitutional substance.
+
+Britain: democracy + hereditary monarchy | India: democracy + republic.
+
+ASCII MASTER FLOW — PANEL 4/11: Justice, liberty, equality and fraternity as one system
+JUSTICE: social + economic + political
+  -> Directive Principles and social-reform powers
+LIBERTY: thought + expression + belief + faith + worship
+  -> rights, subject to constitutional limits
+EQUALITY: status + opportunity
+  -> non-discrimination plus corrective measures
+FRATERNITY: dignity + unity and integrity
+  -> personal worth joined to common citizenship
+
+BALANCE
+liberty without equality entrenches privilege;
+equality without liberty risks coercion;
+fraternity sustains both as a shared constitutional project.
+
+ASCII MASTER FLOW — PANEL 5/11: Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995): legal status settled
+BERUBARI UNION (1960)
+  +-- Preamble is a key to the makers' minds
+  +-- advisory opinion did not regard it as part of Constitution
+        |
+KESAVANANDA BHARATI (1973)
+  +-- Preamble is part of Constitution
+  +-- amendable under Article 368
+  +-- amendment cannot damage basic structure
+        |
+LIC OF INDIA (1995)
+  +-- reaffirms Preamble as integral to Constitution
+
+TWO LIMITS
+No independent legislative power comes from Preamble.
+No standalone directly enforceable right comes from Preamble.
+
+ASCII MASTER FLOW — PANEL 6/11: Amendability stops at constitutional identity
+ARTICLE 368
+  +-- reaches Preamble because it is part of Constitution
+  +-- 42nd Amendment validly added three expressions
+  +-- BUT amending power is limited
+        |
+BASIC-STRUCTURE TEST
+Does change alter wording while preserving constitutional identity?
+  -> permissible amendment
+Does change destroy sovereignty, democracy, secularism, republic or dignity?
+  -> invalid damage to basic structure
+
+CORRECT FORMULA
+Preamble is amendable; its basic features are not abrogable.
+
+ASCII MASTER FLOW — PANEL 7/11: How non-justiciable words produce legal force
+AMBIGUOUS CONSTITUTIONAL TEXT
+        |
+Preamble identifies purpose, value and structural direction
+        +-- choose meaning consistent with justice, liberty and dignity
+        +-- reject reading defeating democratic or secular structure
+        |
+DOCTRINAL USE
+  +-- interpret rights and institutional powers
+  +-- identify basic-structure principles
+  +-- connect Parts III and IV
+
+STOP RULE
+Clear text cannot be rewritten by Preamble alone.
+No power, offence, tax or enforceable claim arises solely from Preamble.
+
+ASCII MASTER FLOW — PANEL 8/11: Preamble claims: problem and precise response
+CLAIM                                      PRECISE RESPONSE
+"mere ornament"                           false: interpretive and structural force
+"source of all government power"          false: operative provisions confer power
+"directly enforceable"                    false: values guide enforceable provisions
+"unchangeable"                            false: Article 368 applies, basic structure limits
+"Socialist means State ownership"         too broad: democratic socialism is mixed
+"Secular means strict separation"         incomplete: equal respect plus reform regulation
+"Republic means direct democracy"         false: concerns non-hereditary headship
+"integrity replaced unity"                false: 42nd added integrity after unity
+
+Constitution in miniature, but not a miniature Constitution.
+
+ASCII MASTER FLOW — PANEL 9/11: Exact PYQ control: wording, ownership and answer route
+DIRECT OWNER
+2020 GS-I Q16: Preamble is part, but has no legal effect independently of other parts -> D
+  (reasoned; no local official key).
+
+ADJACENT PRELIMS
+2021 GS-I Q93: exact 26 Jan 1950 status = Sovereign Democratic Republic -> B.
+
+EXACT MAINS DEMANDS
+2019 GS-II Q5 (10/150): What can France learn from the Indian Constitution's approach to
+  secularism? ONE-WAY answer only.
+2021 GS-II Q1 (10/150): explain constitutional morality WITH relevant judicial decisions.
+2024 GS-II Q15 (15/250): India as secular State compared with US principles.
+2025 GS-II Q11 (15/250): constitutional morality applied to judicial
+  independence/accountability.
+2025 GS-IV Q1(b) (10/150): public-service morality, governance and accountability.
+
+TRAP: never convert a cross-owned PYQ into an exclusive Preamble question or silently rewrite
+  its demand.
+
+ASCII MASTER FLOW — PANEL 10/11: Exact 10/15/20-mark architecture: Preamble as identity and interpretive control
+10 MARKS / 150 WORDS
+1. Define Preamble as declaratory, identity-bearing and interpretive.
+2. Decode people, State, objectives and enactment.
+3. State Berubari Union (1960) -> Kesavananda Bharati (1973) shift.
+4. Add no standalone power and no direct enforceability.
+5. Conclude: constitutional compass bounded by operative text.
+
+15 MARKS / 250 WORDS
+1. Trace Objectives Resolution to 26 November 1949.
+2. Explain popular sovereignty and five descriptors.
+3. Analyse justice-liberty-equality-fraternity interdependence.
+4. Use Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995).
+5. Explain Article 368 plus basic-structure boundary.
+6. Show interpretive force with one rights or federalism application.
+7. Conclude: identity charter, not autonomous source of rules.
+
+20 MARKS / 250 WORDS
+1. Open with source, identity, objectives and enactment architecture.
+2. Trace Objectives Resolution and exact five State descriptors.
+3. Analyse interdependence of justice, liberty, equality and fraternity.
+4. Use Berubari Union (1960) -> Kesavananda Bharati (1973) -> LIC OF INDIA (1995) for status.
+5. Separate membership, enforceability and source of power.
+6. Apply Article 368/basic-structure boundary and Dr Balram Singh.
+7. Add one criticism, reply and calibrated conclusion.
+
+ASCII MASTER FLOW — PANEL 11/11: Current legal control and qualified synthesis
+DR BALRAM SINGH (2024 INSC 893; 25 NOV 2024)
++-- Article 368 reaches the Preamble
++-- challenge to Socialist and Secular dismissed
++-- socialism does not prescribe one economic model
++-- secularism is equality-linked
+
+FIVE DESCRIPTORS, NOT SIX
+Sovereign + Socialist + Secular + Democratic + Republic
+Integrity belongs to fraternity's objective: unity and integrity of the Nation.
+
+FINAL VERDICT
+The Preamble is constitutional text and an authoritative interpretive charter, but it creates no
+  standalone power or enforceable claim. Its values work through operative provisions and
+  basic-structure review.

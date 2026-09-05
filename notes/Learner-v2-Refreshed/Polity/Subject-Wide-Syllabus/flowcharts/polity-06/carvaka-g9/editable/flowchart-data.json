@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-06",
+  "generation": 9,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g9\\polity-06_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    21702
+  ],
+  "stages": [
+    {
+      "title": "CITIZENSHIP AS LEGAL MEMBERSHIP: CITIZEN, ALIEN AND THE CONSTITUTIONAL RIGHTS MAP",
+      "terms": "India's rights map follows constitutional text, not a citizen-versus-alien slogan: Articles 14, 20, 21 and 25 protect persons; Articles 15, 16, 19 and 29 are citizen-specific; Article 30 speaks of minorities; and voting is statutory, not a Fundamental Right.",
+      "mechanism": "Naturalised and registered citizens are not constitutionally excluded merely because their citizenship was acquired after birth.",
+      "consequence": "India's rights map follows constitutional text, not a citizen-versus-alien slogan: Articles 14, 20, 21 and 25 protect persons; Articles 15, 16, 19 and 29 are citizen-specific; Article 30 speaks of minorities; and voting is statutory, not a Fundamental Right.",
+      "trap": "\"Only citizens possess fundamental rights.\" Wrong. Some rights are citizen-specific; many crucial protections, especially Articles 14 and 21, protect persons.",
+      "answer": "Citizenship is the legally recognised membership of the Indian political community: it links allegiance and protection, allocates political voice and selected public offices, and remains principally statutory after the Constitution's commencement settlement."
+    },
+    {
+      "title": "CITIZENSHIP, DOMICILE AND RESIDENCE - AND WHY INDIA STILL HAS SINGLE CITIZENSHIP",
+      "terms": "India combines one national citizenship and one Indian domicile with constitutionally authorised regional protection; residence preferences, Articles 16(3), 19(5) and 371 safeguards do not create State citizenship.",
+      "mechanism": "Single citizenship serves integration and equal political membership, but it does not produce identical residence benefits everywhere.",
+      "consequence": "The expression \"State domicile\" is often used administratively, but it usually describes residence/local-status rules, not a sovereign domicile or separate citizenship.",
+      "trap": "Article 15(1) prohibits discrimination on place of birth, but does not list residence as a prohibited ground; residence preferences remain subject to Article 14 and the rest of the Constitution.",
+      "answer": "India combines one national citizenship and one Indian domicile with constitutionally authorised regional protection; residence preferences, Articles 16(3), 19(5) and 371 safeguards do not create State citizenship."
+    },
+    {
+      "title": "WHY ARTICLES 5-11 ARE TRANSITIONAL, BUT NOT UNIMPORTANT",
+      "terms": "But current acquisition and loss are mainly controlled by the Citizenship Act, 1955 under Article 11.",
+      "mechanism": "But current acquisition and loss are mainly controlled by the Citizenship Act, 1955 under Article 11.",
+      "consequence": "It primarily determines who was a citizen at the commencement of the Constitution and then preserves Parliament's power to govern future acquisition and loss.",
+      "trap": "They remain constitutional text, explain the origin of many statuses, and constrain how commencement claims are understood.",
+      "answer": "Part II of the Constitution does not create a complete permanent code of citizenship."
+    },
+    {
+      "title": "ARTICLE 5 - DOMICILE PLUS ONE OF THREE CONNECTING FACTORS",
+      "terms": "Trap: Article 5 did not say \"anyone residing for five years became a citizen\".",
+      "mechanism": "Trap: Article 5 did not say \"anyone residing for five years became a citizen\".",
+      "consequence": "the person was born in the territory of India; or either parent was born in the territory of India; or the person had been ordinarily resident in India for at least five years immediately preceding commencement.",
+      "trap": "Article 5 did not say \"anyone residing for five years became a citizen\". It required domicile and one of the three connections.",
+      "answer": "At commencement, a person became a citizen under Article 5 if the person had domicile in the territory of India and satisfied at least one of three connections."
+    },
+    {
+      "title": "ARTICLE 6 - MIGRANTS FROM PAKISTAN AND THE 19 JULY 1948 DIVIDE",
+      "terms": "Trap: The six-month period does not replace the requirement that the application and registration route be completed in the constitutional time-frame before commencement.",
+      "mechanism": "Article 6 begins with an ancestry gate: the person, or either parent or any grandparent, had to be born in India as defined in the Government of India Act, 1935.",
+      "consequence": "Trap: The six-month period does not replace the requirement that the application and registration route be completed in the constitutional time-frame before commencement.",
+      "trap": "The six-month period does not replace the requirement that the application and registration route be completed in the constitutional time-frame before commencement.",
+      "answer": "Trap: The six-month period does not replace the requirement that the application and registration route be completed in the constitutional time-frame before commencement."
+    },
+    {
+      "title": "ARTICLE 7 - MIGRATION TO PAKISTAN AFTER 1 MARCH 1947 AND THE PERMIT-RETURN EXCEPTION",
+      "terms": "Article 7 overrides Articles 5 and 6 for a person who migrated from India to territory now included in Pakistan after 1 March 1947: such a person was not deemed an Indian citizen.",
+      "mechanism": "For Article 6(b), that person is treated as having migrated to India after 19 July 1948 and must use the registration route.",
+      "consequence": "Article 7 is not a simple permanent ban on every returnee.",
+      "trap": "A temporary visit permit is not the constitutional expression. The Article speaks of a permit for resettlement or permanent return.",
+      "answer": "Article 7 overrides Articles 5 and 6 for a person who migrated from India to territory now included in Pakistan after 1 March 1947: such a person was not deemed an Indian citizen."
+    },
+    {
+      "title": "ARTICLE 8 - PERSONS OF INDIAN ORIGIN ORDINARILY RESIDENT OUTSIDE INDIA",
+      "terms": "Article 8 covers a person ordinarily residing outside India if that person, or either parent or any grandparent, was born in India as defined in the Government of India Act, 1935, and the person was registered as an Indian citizen by an Indian diplomatic or consular representative.",
+      "mechanism": "The application could be made before or after commencement, subject to the Government of India's prescribed form and manner.",
+      "consequence": "It should not be confused with modern OCI, which is a statutory foreign-national card status and not citizenship.",
+      "trap": "Article 8 is the Constitution's original diaspora bridge.",
+      "answer": "Article 8 covers a person ordinarily residing outside India if that person, or either parent or any grandparent, was born in India as defined in the Government of India Act, 1935, and the person was registered as an Indian citizen by an Indian diplomatic or consular representative."
+    },
+    {
+      "title": "ARTICLE 9 - THE COMMENCEMENT-CONTEXT FOREIGN-CITIZENSHIP DISQUALIFIER",
+      "terms": "Article 9 says that no person shall be a citizen of India by virtue of Article 5, or be deemed a citizen under Article 6 or Article 8, if the person has voluntarily acquired the citizenship of a foreign State.",
+      "mechanism": "Article 9 says that no person shall be a citizen of India by virtue of Article 5, or be deemed a citizen under Article 6 or Article 8, if the person has voluntarily acquired the citizenship of a foreign State.",
+      "consequence": "It should not be quoted as if it alone is a self-executing universal code for every later dual-nationality problem.",
+      "trap": "OCI does not alter that result because an OCI cardholder remains a foreign national.",
+      "answer": "The most accurate formulation is contextual: Article 9 directly qualifies the commencement routes in Articles 5, 6 and 8."
+    },
+    {
+      "title": "ARTICLE 10 - CONTINUANCE SUBJECT TO PARLIAMENTARY LAW",
+      "terms": "Article 10 protects continuity but expressly rejects immutability.",
+      "mechanism": "Citizenship can be regulated or lost under a valid parliamentary law.",
+      "consequence": "Article 10 protects continuity but expressly rejects immutability.",
+      "trap": "Article 10 protects continuity but expressly rejects immutability.",
+      "answer": "Every person who is or is deemed to be a citizen under the preceding provisions continues as a citizen, subject to the provisions of any law made by Parliament."
+    },
+    {
+      "title": "ARTICLE 11 - PARLIAMENT'S CITIZENSHIP POWER",
+      "terms": "Article 11 declares that the preceding provisions do not detract from Parliament's power to make law concerning acquisition and termination of citizenship and all other citizenship matters.",
+      "mechanism": "Citizenship is therefore a constitutional status predominantly regulated by statute; it is not itself enumerated as a Fundamental Right.",
+      "consequence": "That does not make citizenship decisions immune from Articles 14, 21 or judicial review.",
+      "trap": "Article 11 declares that the preceding provisions do not detract from Parliament's power to make law concerning acquisition and termination of citizenship and all other citizenship matters.",
+      "answer": "Article 11 declares that the preceding provisions do not detract from Parliament's power to make law concerning acquisition and termination of citizenship and all other citizenship matters."
+    },
+    {
+      "title": "CITIZENSHIP ACT, 1955 - THE STATUTORY ARCHITECTURE",
+      "terms": "The Citizenship Act, 1955 creates five acquisition routes—birth, descent, registration, naturalisation and incorporation of territory—and three distinct loss routes—renunciation, termination and category-limited deprivation—each with its own trigger and safeguards.",
+      "mechanism": "\"Illegal migrant\" is a defined statutory category.",
+      "consequence": "The Citizenship Act, 1955 creates five acquisition routes—birth, descent, registration, naturalisation and incorporation of territory—and three distinct loss routes—renunciation, termination and category-limited deprivation—each with its own trigger and safeguards.",
+      "trap": "The Citizenship Act, 1955 creates five acquisition routes—birth, descent, registration, naturalisation and incorporation of territory—and three distinct loss routes—renunciation, termination and category-limited deprivation—each with its own trigger and safeguards.",
+      "answer": "The Citizenship Act, 1955 creates five acquisition routes—birth, descent, registration, naturalisation and incorporation of territory—and three distinct loss routes—renunciation, termination and category-limited deprivation—each with its own trigger and safeguards."
+    },
+    {
+      "title": "CITIZENSHIP BY BIRTH - THREE PERIODS, NOT ONE RULE",
+      "terms": "A birth certificate proves facts of birth; it does not, by itself, answer the parental-status conditions applicable after 1987/2004.",
+      "mechanism": "Close-option trap: \"Born in India equals citizen\" is safely true only for the first statutory period, and even that period remains subject to Section 3(2).",
+      "consequence": "a birth where a parent possessed diplomatic immunity as an accredited envoy and was not an Indian citizen; and a birth where a parent was an enemy alien and the birth occurred in a place then under enemy occupation.",
+      "trap": "A birth certificate proves facts of birth; it does not, by itself, answer the parental-status conditions applicable after 1987/2004.",
+      "answer": "A birth certificate proves facts of birth; it does not, by itself, answer the parental-status conditions applicable after 1987/2004."
+    },
+    {
+      "title": "CITIZENSHIP BY DESCENT - GENDER CHANGE, REGISTRATION AND FOREIGN-PASSPORT CONTROLS",
+      "terms": "For the post-3 December 2004 period, the statutory application is accompanied by a parental undertaking that the minor does not hold the passport of another country.",
+      "mechanism": "A minor who is an Indian citizen by descent and also a citizen of another country must comply with the Act's renunciation requirement within six months of attaining full age, failing which Indian citizenship ceases.",
+      "consequence": "For the post-3 December 2004 period, the statutory application is accompanied by a parental undertaking that the minor does not hold the passport of another country.",
+      "trap": "\"One citizen parent\" is an incomplete answer after 2004.",
+      "answer": "The descent route shows why parentage, date, registration and foreign nationality must be checked together."
+    },
+    {
+      "title": "CITIZENSHIP BY REGISTRATION - LISTED CATEGORIES AND EXACT RESIDENCE LOGIC",
+      "terms": "For the seven-year clauses (person of Indian origin resident in India and spouse), the Act's calculation is.",
+      "mechanism": "Marriage creates eligibility for a statutory application route; residence, scrutiny, registration and oath remain.",
+      "consequence": "Section 5 is discretionary (\"may register\") and excludes an illegal migrant unless the CAA proviso/Section 6B framework applies.",
+      "trap": "\"Spouse of a citizen becomes a citizen on marriage.\" Wrong. Marriage creates eligibility for a statutory application route; residence, scrutiny, registration and oath remain.",
+      "answer": "Registration is not an automatic consequence of marriage, Indian ancestry or possession of an OCI card."
+    },
+    {
+      "title": "CITIZENSHIP BY NATURALISATION - THIRD SCHEDULE, WAIVER AND THE CAA MODIFICATION",
+      "terms": "High-value trap: \"CAA reduces naturalisation to five years\" is imprecise.",
+      "mechanism": "High-value trap: \"CAA reduces naturalisation to five years\" is imprecise.",
+      "consequence": "Section 6 permits the Central Government to grant a certificate to a full-age, capable applicant who is not an illegal migrant and satisfies the Third Schedule.",
+      "trap": "The separate twelve-month immediately preceding condition is not deleted.",
+      "answer": "For the CAA-specified class, the Third Schedule's aggregate eleven years is read as five years."
+    },
+    {
+      "title": "CITIZENSHIP BY INCORPORATION OF TERRITORY",
+      "terms": "This is a collective, territory-linked route, unlike an individual naturalisation application.",
+      "mechanism": "This is a collective, territory-linked route, unlike an individual naturalisation application.",
+      "consequence": "This is a collective, territory-linked route, unlike an individual naturalisation application.",
+      "trap": "This is a collective, territory-linked route, unlike an individual naturalisation application.",
+      "answer": "The Citizenship (Pondicherry) Order, 1962 is the standard illustration."
+    },
+    {
+      "title": "LOSS OF CITIZENSHIP - RENUNCIATION, TERMINATION AND DEPRIVATION",
+      "terms": "Citizens by birth and descent do not fall within Section 10(1)'s deprivation category.",
+      "mechanism": "Citizens by birth and descent do not fall within Section 10(1)'s deprivation category.",
+      "consequence": "The Central Government must also be satisfied that continued citizenship is not conducive to the public good.",
+      "trap": "Renunciation is voluntary declaration; termination follows foreign citizenship; deprivation is a compulsory, category-limited government order.",
+      "answer": "Trap: Renunciation is voluntary declaration; termination follows foreign citizenship; deprivation is a compulsory, category-limited government order."
+    },
+    {
+      "title": "ASSAM ACCORD, SECTION 6A AND THE NRC CUT-OFF",
+      "terms": "Section 6A was inserted by the Citizenship (Amendment) Act, 1985 to implement the citizenship component of the Assam Accord.",
+      "mechanism": "Section 6A was inserted by the Citizenship (Amendment) Act, 1985 to implement the citizenship component of the Assam Accord.",
+      "consequence": "The familiar Assam/NRC cut-off is midnight of 24 March 1971, expressed in Section 6A as entry before 25 March 1971.",
+      "trap": "It does not create Assam citizenship.",
+      "answer": "Section 6A is an Assam-specific route to Indian citizenship: pre-1966 entrants are deemed citizens, the 1966–before-25-March-1971 stream faces detection, registration and ten years without electoral-roll inclusion, and post-cut-off entrants receive no protection."
+    },
+    {
+      "title": "IN RE: SECTION 6A (17 OCTOBER 2024) - THE CONTROLLING 4:1 JUDGMENT",
+      "terms": "Article 29(1) protects the ability of a section of citizens to conserve language, script and culture; the petitioners had not proved that Section 6A itself destroyed that ability.",
+      "mechanism": "The provision was not invalid merely because Section 6A(2) uses deemed citizenship without a registration procedure.",
+      "consequence": "Article 29(1) protects the ability of a section of citizens to conserve language, script and culture; the petitioners had not proved that Section 6A itself destroyed that ability.",
+      "trap": "Justice Pardiwala accepted that the Assam classification was not unconstitutional when enacted in 1985, but concluded that Section 6A(3) had become manifestly arbitrary with the passage of time because.",
+      "answer": "The dissent is valuable for implementation design and temporal-reasonableness analysis, not for stating the law's present validity."
+    },
+    {
+      "title": "OCI AND PIO EVOLUTION - DIASPORA CONNECTION WITHOUT CITIZENSHIP",
+      "terms": "A person who, or whose parent/grandparent/great-grandparent, is or was a citizen of Pakistan or Bangladesh, or another country notified by the Central Government, is excluded from ordinary Section 7A eligibility.",
+      "mechanism": "A person who, or whose parent/grandparent/great-grandparent, is or was a citizen of Pakistan or Bangladesh, or another country notified by the Central Government, is excluded from ordinary Section 7A eligibility.",
+      "consequence": "OCI is not Indian citizenship, not dual citizenship and not a constitutional status.",
+      "trap": "NRI describes a citizen's residence position; OCI describes a foreign national's statutory card status.",
+      "answer": "OCI is calibrated diaspora access for a foreign national—not dual citizenship—because notified mobility and socio-economic facilities coexist with no vote, no Indian passport and no claim to citizen-reserved public office."
+    },
+    {
+      "title": "CITIZENSHIP (AMENDMENT) ACT, 2019 AND RULES 2024 - EXACT OPERATION",
+      "terms": "\"Religious persecution\" is central to the legislative justification and government narrative, but the operative statutory class is expressed through community, country, date and exemption.",
+      "mechanism": "belongs to the Hindu, Sikh, Buddhist, Jain, Parsi or Christian community; is from Afghanistan, Bangladesh or Pakistan; entered India on or before 31 December 2014; and was exempted by the Central Government under the specified Passport (Entry into India) Act / Foreigners Act instruments.",
+      "consequence": "This confirms operation; it does not resolve the constitutional challenge.",
+      "trap": "\"Religious persecution\" is central to the legislative justification and government narrative, but the operative statutory class is expressed through community, country, date and exemption.",
+      "answer": "That does not transform Aadhaar into universal proof of Indian citizenship."
+    },
+    {
+      "title": "CAA, ARTICLE 14, SECULARISM AND ASSAM - ARGUMENT TREE, NOT SLOGAN",
+      "terms": "Because secularism is a basic feature, critics argue that a religion-coded citizenship preference must receive exacting constitutional scrutiny.",
+      "mechanism": "Because secularism is a basic feature, critics argue that a religion-coded citizenship preference must receive exacting constitutional scrutiny.",
+      "consequence": "The exam-safe conclusion is neither \"obviously valid\" nor \"already unconstitutional\", but that the final answer turns on whether the Court accepts the statutory class as a reasonable remedial classification compatible with equality and secularism.",
+      "trap": "Legislative classification need not solve every hardship at once; the selected class is defended as intelligible and connected to a humanitarian object.",
+      "answer": "The CAA debate turns on whether a six-community, three-country and 31-December-2014 facilitation is a reasonable humanitarian classification or an under-inclusive religion-coded preference incompatible with Article 14 and secularism."
+    },
+    {
+      "title": "CITIZENSHIP PROOF AND DOCUMENT TRAPS",
+      "terms": "India does not use one universal card that proves every route of citizenship.",
+      "mechanism": "The relevant legal route determines the evidence: birth and parental documents, consular registration, citizenship certificate, incorporation order or other statutory records.",
+      "consequence": "India does not use one universal card that proves every route of citizenship.",
+      "trap": "India does not use one universal card that proves every route of citizenship.",
+      "answer": "India does not use one universal card that proves every route of citizenship."
+    },
+    {
+      "title": "PRELIMS CLOSE-OPTION LABORATORY",
+      "terms": "Article 9: contextual disqualifier for Articles 5, 6 and 8; present single-citizenship law also depends on the 1955 Act.",
+      "mechanism": "Article 9: contextual disqualifier for Articles 5, 6 and 8; present single-citizenship law also depends on the 1955 Act.",
+      "consequence": "Registration: marriage/ancestry/OCI creates eligibility, not automatic citizenship.",
+      "trap": "Article 6: 19 July 1948 separates residence-since-migration from registration.",
+      "answer": "Proof: Aadhaar, residence or voter card is not universal conclusive citizenship proof."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 11
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 13,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 15,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 22
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 24
+    },
+    {
+      "page": 12,
+      "y_start": 19502,
+      "y_end": 21702,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 24
+    }
+  ]
+}

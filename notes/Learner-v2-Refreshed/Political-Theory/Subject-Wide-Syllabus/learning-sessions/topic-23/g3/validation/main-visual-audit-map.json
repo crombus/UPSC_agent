@@ -1,0 +1,1206 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g3\\topic-23_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g3\\topic-23_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-23",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 36,
+      "heading": "SESSION 1 - The Contemporary-Democracy Map and Stakes",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Modern models of democracy, forms of political p",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 278.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 110.424
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 41,
+      "markdown_body_line_end": 62,
+      "heading": "1. One-screen conceptual map",
+      "preview": "CONTEMPORARY DEMOCRACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1163,
+      "markdown_body_line_end": 1163,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owners are Forms of Government, Development and Social Progress, Political Ideologies. They are not re-routed to Political Theory; they are",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 263.191
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 204.324
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1165,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 204.324
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 173.856
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1208,
+      "heading": "Solved PYQ 1 - 2018 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it DEFINES liberal democracy exactly (popular rule + constitutional limits + minority protection), answers the \"deeper principles\" half with Ambedkar's political-vs-social-equality thesis, and anchors India w",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 416.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 310.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1212,
+      "heading": "Solved PYQ 1 - 2018 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 307.724
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 277.256
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1252,
+      "heading": "Solved PYQ 2 - 2020 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it runs the achievements/limits balance the stem demands, deploys F10 form-vs-substance as the critical engine, and grades with the form/substance verdict instead of a flat \"yes/no\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 425.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 381.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1256,
+      "heading": "Solved PYQ 2 - 2020 Q1(b), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 378.724
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 348.256
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1309,
+      "markdown_body_line_end": 1312,
+      "heading": "Solved PYQ 3 - 2022 Q4(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it reframes propaganda as an attack on opinion-formation (F11), runs two objection/reply chains, lands the REGULATOR'S DILEMMA with structural remedies + F12, keeps India to Art 19(1)(a)/19(2) and RPA 1951 as",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 188.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 130.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1316,
+      "markdown_body_line_end": 1316,
+      "heading": "Solved PYQ 3 - 2022 Q4(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 127.524
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 97.056
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1360,
+      "heading": "Solved PYQ 4 - 2023 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it separates form from substance, itemises the challenges with named anchors (F9/F8/Laclau, F11, Michels/F7, F10), pairs each with a structural remedy plus F12, and answers the anti-democratic objection tempo",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 391.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 285.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1364,
+      "markdown_body_line_end": 1364,
+      "heading": "Solved PYQ 4 - 2023 Q4(b), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 282.524
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 252.056
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1403,
+      "heading": "Solved PYQ 5 - 2025 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes Plato's TARGET (rule by appetite and opinion, not participation as such), runs the three-claim spine with F1, raises the epistemic objection, and lands the asymmetric verdict the \"Comment on\" directi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 419.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 360.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1407,
+      "markdown_body_line_end": 1407,
+      "heading": "Solved PYQ 5 - 2025 Q1(d), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Development and Social Progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 358.324
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 327.856
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1436,
+      "markdown_body_line_end": 1436,
+      "heading": "Solved PYQ 6 - 2019 Q2(c), 15 marks",
+      "preview": "**Why this earns marks:** it refuses the one-sided \"yes\", names the fact/value gap explicitly, gives concrete new-harm categories, handles the correlation objection, and closes with a graded verdict rather than a slogan.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 308.224
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1440,
+      "markdown_body_line_end": 1440,
+      "heading": "Solved PYQ 6 - 2019 Q2(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Development and Social Progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 305.724
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 275.256
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1468,
+      "markdown_body_line_end": 1468,
+      "heading": "Solved PYQ 7 - 2020 Q2(a), 20 marks",
+      "preview": "**Why this earns marks:** it \"states\" the concept completely (all five commitments + means-ends unity), \"examines\" with a genuine objection/reply set, concedes the Ambedkar critique honestly, and delivers a balanced, non-hagiographic verdic",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 298.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 239.224
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1472,
+      "markdown_body_line_end": 1472,
+      "heading": "Solved PYQ 7 - 2020 Q2(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Development and Social Progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 236.724
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 206.256
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1506,
+      "heading": "Solved PYQ 8 - 2022 Q3(a), 20 marks",
+      "preview": "**Why this earns marks:** it takes a clear stance, uses the ladder + capability map + recognition + democracy + ecology as *reasons*, answers the strongest counter (co-occurrence), and lands a qualified, defended verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 211.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 166.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1510,
+      "markdown_body_line_end": 1510,
+      "heading": "Solved PYQ 8 - 2022 Q3(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Development and Social Progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 163.924
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 133.456
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1541,
+      "markdown_body_line_end": 1541,
+      "heading": "Solved PYQ 9 - 2023 Q2(c), 15 marks",
+      "preview": "**Why this earns marks:** it \"evaluates\" (two-sided, criterion-based), deploys the employability-vs-capability distinction, answers the practicality objection, and gives a conditional graded verdict rather than a yes/no.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 332.691
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 288.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1545,
+      "markdown_body_line_end": 1545,
+      "heading": "Solved PYQ 9 - 2023 Q2(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Development and Social Progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 285.524
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 255.056
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1578,
+      "heading": "Solved PYQ 10 - 2024 Q3(c), 10+5=15 marks",
+      "preview": "**Why this earns marks:** it defines the modal terms, answers *both* necessity and sufficiency with the material-threshold and counter-case nuance (not a flat \"necessary but not sufficient\"), justifies with distribution/conversion/recogniti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 285.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 212.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1582,
+      "markdown_body_line_end": 1582,
+      "heading": "Solved PYQ 10 - 2024 Q3(c), 10+5=15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Development and Social Progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 209.524
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 179.056
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1615,
+      "markdown_body_line_end": 1615,
+      "heading": "Solved PYQ 11 - 2025 Q3(c), 15 marks",
+      "preview": "**Why this earns marks:** it answers \"is it possible\" with a conditional thesis, supplies a concrete four-test engine, uses the Indian statutes/judgment/Articles correctly as *facts* (not proof), refuses both romanticising and steamrolling,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 214.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 155.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1619,
+      "markdown_body_line_end": 1619,
+      "heading": "Solved PYQ 11 - 2025 Q3(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Political Ideologies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 152.724
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 122.256
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1668,
+      "markdown_body_line_end": 1670,
+      "heading": "Solved PYQ 12 - 2023 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it runs P2 as six numbered premises (not slogans), states the base/superstructure caution pre-emptively, extends via P6/P7, and grades with the necessary-not-sufficient verdict tuned to Indian social change.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 312.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 253.424
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1831,
+      "markdown_body_line_end": 1834,
+      "heading": "21. Populism: an answer-ready module",
+      "preview": "⚠️ **Provenance note.** Gauba's Ch.23-25 contains no populism section, so **no claim in §21 carries a Gauba page citation**. This is a named-scholar reconstruction, tagged ⚠️ throughout, built to be usable in democracy, representation and s",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 712.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1865,
+      "markdown_body_line_end": 1871,
+      "heading": "21.2 Left and right variants",
+      "preview": " | **Left-variant populism** | **Right-variant populism**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "",
+          "**Left-variant populism**",
+          "**Right-variant populism**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 273.424
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 64.422
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1938,
+      "markdown_body_line_end": 1945,
+      "heading": "21.6 Populism vs popular/participatory democracy (the distinction most answers miss)",
+      "preview": "Axis | **Popular / participatory democracy** | **Populism**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "**Popular / participatory democracy**",
+          "**Populism**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 637.491
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 418.49
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2019,
+      "markdown_body_line_end": 2026,
+      "heading": "22. Ecological political theory (distinct from \"ecological development\")",
+      "preview": "⚠️ **Provenance and boundary note.** Gauba's development chapter already contains a **sustainable/ecological development model** (§8B) — that is a *development* model, answering \"what should development look like?\". §22 is a different thing",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 255.791
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 140.124
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2236,
+      "markdown_body_line_end": 2243,
+      "heading": "23. Digital democracy and surveillance: the democratic-theory layer",
+      "preview": "⚠️ **Scope rule — read before using.** The **power-theory** apparatus for this topic (panopticism and its caveats, data/algorithmic power, the three-dimensional ladder applied, surveillance asymmetry, legitimacy/consent/accountability, the ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 669.624
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2344,
+      "markdown_body_line_end": 2347,
+      "heading": "24. Democratisation, democratic backsliding and social movements",
+      "preview": "⚠️ **Scope and provenance.** These are bounded democratic-theory bridges added because the terms frequently organise contemporary questions. They are not presented as direct claims from Gauba's Ch.23-25 and carry no Gauba page citation. Cou",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 712.224
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2407,
+      "heading": "24.4 Comparative answer spine",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Advanced reconstruction of post-classical democratic theory,",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 718.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 588.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2412,
+      "markdown_body_line_end": 2425,
+      "heading": "1. One-screen advanced map",
+      "preview": "A. CONTEMPORARY DEMOCRACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 560.924
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 429.924
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2690,
+      "markdown_body_line_end": 2707,
+      "heading": "ASCII PANEL 1/12 - The Contemporary-Democracy Map and Stakes",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 501.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2711,
+      "markdown_body_line_end": 2728,
+      "heading": "ASCII PANEL 2/12 - Core Definitions and the Chapter Spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 308.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2732,
+      "markdown_body_line_end": 2749,
+      "heading": "ASCII PANEL 3/12 - Democracy Models, Thinkers and Comparative Tests",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2753,
+      "markdown_body_line_end": 2770,
+      "heading": "ASCII PANEL 4/12 - Revolution, Evolution, Development and Progress",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2774,
+      "markdown_body_line_end": 2791,
+      "heading": "ASCII PANEL 5/12 - Development Models Beyond GDP",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2795,
+      "markdown_body_line_end": 2812,
+      "heading": "ASCII PANEL 6/12 - Applications, Boundaries and Revision Control",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2816,
+      "markdown_body_line_end": 2833,
+      "heading": "ASCII PANEL 7/12 - Elite Theory, Gramsci and Competitive Leadership",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2837,
+      "markdown_body_line_end": 2854,
+      "heading": "ASCII PANEL 8/12 - Political Development, Modernisation and Kothari",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2858,
+      "markdown_body_line_end": 2875,
+      "heading": "ASCII PANEL 9/12 - Dependency, Indian Application and Objection-Reply Chains",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2879,
+      "markdown_body_line_end": 2896,
+      "heading": "ASCII PANEL 10/12 - Directive Control, Quotation Safety and Source Discipline",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2900,
+      "markdown_body_line_end": 2917,
+      "heading": "ASCII PANEL 11/12 - MCQ Remediation and Trap Repair",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2921,
+      "markdown_body_line_end": 2938,
+      "heading": "ASCII PANEL 12/12 - PYQ Ownership and Answer Practice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2942,
+      "markdown_body_line_end": 2955,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 591.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 155.49
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    }
+  ]
+}

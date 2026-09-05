@@ -1,0 +1,1136 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-21",
+  "subject": "Political Theory",
+  "title": "COMMON GOOD AND COMMUNITY",
+  "short_route": "TOPIC STAKES, CONCEPT MAP → GAUBA'S COMMON-GOOD ARGUMENT → COMMON GOOD, COMMON INTEREST → THE LIBERAL ROUTE AND → COMMUNITARIAN EMBEDDEDNESS AND THINKER-SPECIFIC → THE MARXIAN CLASS BARRIER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\topic-21_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-21-ascii-2026-08-30-g3.json",
+  "ascii_spec_sha256": "7c524a94b5344b3174148ae73f15517b532f304dd05c9531bb6b5b5de49cfc05",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TOPIC STAKES, CONCEPT MAP AND ESSENTIAL DEFINITIONS",
+      "structural_type": "root-axes",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TOPIC STAKES, CONCEPT MAP AND ESSENTIAL DEFINITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] COMMON GOOD IS A NORMATIVE IDEAL OF WELFARE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] COMMON INTEREST IS AN EMPIRICAL OVERLAP AMONG AFFECTED",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] PUBLIC INTEREST IS A PUBLIC JUDGMENT THAT MUST",
+          "role": "primary"
+        },
+        {
+          "text": "[4] CONSENSUS MEANS ONGOING ACCOMMODATION, NOT COMPLETE UNANIMITY.",
+          "role": "caution"
+        },
+        {
+          "text": "SEPARATE NORMATIVE, EMPIRICAL AND JUSTIFICATORY LEVELS FIRST.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Topic Stakes, Concept Map and Essential Definitions",
+        "[1] Common good is a normative ideal of welfare for the whole political community.",
+        "[2] Common interest is an empirical overlap among affected persons.",
+        "[3] Public interest is a public judgment that must answer to common good."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Topic Stakes, Concept Map and Essential Definitions",
+            "[1] Common good is a normative ideal of welfare for the whole political community."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Common interest is an empirical overlap among affected persons.",
+            "[3] Public interest is a public judgment that must answer to common good.",
+            "[4] Consensus means ongoing accommodation, not complete unanimity."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Separate normative, empirical and justificatory levels first.",
+            "ANSWER USE → Define all three terms before any thinker comparison."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Separate normative, empirical and justificatory levels first.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GAUBA'S COMMON-GOOD ARGUMENT",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GAUBA'S COMMON-GOOD ARGUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ARISTOTLE TESTS A CONSTITUTION BY THE GOOD OF",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ROUSSEAU CONTRASTS THE GENERAL WILL WITH SUMMED PRIVATE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GREEN TIES POLITICAL OBLIGATION TO COMMON GOOD AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE OPENING SEQUENCE REJECTS STATE GOOD AND MAJORITY",
+          "role": "institution"
+        },
+        {
+          "text": "ARISTOTLE, ROUSSEAU AND GREEN ARE LINKED BUT NOT MERGED.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Gauba's Common-Good Argument",
+        "[1] Aristotle tests a constitution by the good of the whole community.",
+        "[2] Rousseau contrasts the general will with summed private wills.",
+        "[3] Green ties political obligation to common good and self-development."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Gauba's Common-Good Argument",
+            "[1] Aristotle tests a constitution by the good of the whole community."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Rousseau contrasts the general will with summed private wills.",
+            "[3] Green ties political obligation to common good and self-development.",
+            "[4] The opening sequence rejects state good and majority good as equivalents."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Aristotle, Rousseau and Green are linked but not merged.",
+            "ANSWER USE → Attach each thinker to one distinct mechanism."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Attach each thinker to one distinct mechanism.",
+      "answer_line": "VERDICT → Aristotle, Rousseau and Green are linked but not merged.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COMMON GOOD, COMMON INTEREST, PUBLIC INTEREST AND CONSENSUS",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMMON GOOD, COMMON INTEREST, PUBLIC INTEREST AND CONSENSUS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] COMMON GOOD, COMMON INTEREST AND PUBLIC INTEREST ARE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PUBLIC INTEREST MAY JUSTIFY POLICY, BUT COMMON GOOD",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] INTEREST OVERLAP AMONG PARTIES DOES NOT PROVE WELFARE",
+          "role": "caution"
+        },
+        {
+          "text": "[4] THIS DISTINCTION BLOCKS BUREAUCRATIC AND FACTIONAL MISUSE OF",
+          "role": "comparison"
+        },
+        {
+          "text": "PRECISION BLOCKS BUREAUCRATIC AND FACTIONAL MISUSE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Common Good, Common Interest, Public Interest and Consensus",
+        "[1] Common good, common interest and public interest are not interchangeable.",
+        "[2] Public interest may justify policy, but common good still judges it.",
+        "[3] Interest overlap among parties does not prove welfare of the whole."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Common Good, Common Interest, Public Interest and Consensus",
+            "[1] Common good, common interest and public interest are not interchangeable."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Public interest may justify policy, but common good still judges it.",
+            "[3] Interest overlap among parties does not prove welfare of the whole.",
+            "[4] This distinction blocks bureaucratic and factional misuse of the concept."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Precision blocks bureaucratic and factional misuse.",
+            "ANSWER USE → Public-interest language still needs a common-good test."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Precision blocks bureaucratic and factional misuse.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE LIBERAL ROUTE AND MACPHERSON'S CORRECTION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE LIBERAL ROUTE AND MACPHERSON'S CORRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LIBERAL RECONCILIATION SEES COMMON GOOD AS ADJUSTED INTERESTS",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] RIGHTS MATTER BECAUSE THEY PREVENT MUTUAL OPPRESSION AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GAUBA ADDS MACPHERSON'S CORRECTION TO PURE MARKET-EQUILIBRIUM LIBERALISM.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PRICES MAY UNDERVALUE SOCIALLY NECESSARY HUMAN CAPACITIES.",
+          "role": "outcome"
+        },
+        {
+          "text": "LIBERALISM HERE IS RIGHTS PLUS RECONCILIATION, NOT MARKET WORSHIP.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Liberal Route and Macpherson's Correction",
+        "[1] Liberal reconciliation sees common good as adjusted interests under civil rules.",
+        "[2] Rights matter because they prevent mutual oppression and protect plurality.",
+        "[3] Gauba adds Macpherson's correction to pure market-equilibrium liberalism."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Rights matter because they prevent mutual oppression and protect plurality.",
+          "VERDICT → Liberalism here is rights plus reconciliation, not market worship."
+        ],
+        [
+          "The Liberal Route and Macpherson's Correction",
+          "[3] Gauba adds Macpherson's correction to pure market-equilibrium liberalism.",
+          "ANSWER USE → Pair liberal adjustment with Macpherson's correction."
+        ],
+        [
+          "[1] Liberal reconciliation sees common good as adjusted interests under civil rules.",
+          "[4] Prices may undervalue socially necessary human capacities.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Liberal Route and Macpherson's Correction",
+            "[1] Liberal reconciliation sees common good as adjusted interests under civil rules."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Rights matter because they prevent mutual oppression and protect plurality.",
+            "[3] Gauba adds Macpherson's correction to pure market-equilibrium liberalism.",
+            "[4] Prices may undervalue socially necessary human capacities."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Liberalism here is rights plus reconciliation, not market worship.",
+            "ANSWER USE → Pair liberal adjustment with Macpherson's correction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Liberalism here is rights plus reconciliation, not market worship.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COMMUNITARIAN EMBEDDEDNESS AND THINKER-SPECIFIC MECHANISMS",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COMMUNITARIAN EMBEDDEDNESS AND THINKER-SPECIFIC MECHANISMS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] COMMUNITARIANISM TREATS PERSONS AS SOCIALLY FORMED THROUGH MEMBERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] SHARED PRACTICES AND TRADITIONS PARTLY SHAPE THE GOODS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MACINTYRE GIVES PRACTICES, TAYLOR RECOGNITION, AND WALZER SOCIAL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] ITS DANGER IS DOMINANT-GROUP MORALITY DRESSED UP AS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL DEPTH MUST NOT BECOME COERCED CONFORMITY.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Communitarian Embeddedness and Thinker-Specific Mechanisms",
+        "[1] Communitarianism treats persons as socially formed through membership and duty.",
+        "[2] Shared practices and traditions partly shape the goods people pursue.",
+        "[3] MacIntyre gives practices, Taylor recognition, and Walzer social meanings."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Communitarian Embeddedness and Thinker-Specific Mechanisms",
+            "[1] Communitarianism treats persons as socially formed through membership and duty."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Shared practices and traditions partly shape the goods people pursue.",
+            "[3] MacIntyre gives practices, Taylor recognition, and Walzer social meanings.",
+            "[4] Its danger is dominant-group morality dressed up as community."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Social depth must not become coerced conformity.",
+            "ANSWER USE → Name MacIntyre, Taylor or Walzer specifically."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Social depth must not become coerced conformity.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THE MARXIAN CLASS BARRIER",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE MARXIAN CLASS BARRIER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MARXIAN THEORY DENIES GENUINE COMMON GOOD IN CLASS-DIVIDED",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ANTAGONISTIC OWNERSHIP STRUCTURES ORGANISE POWER AND INTEREST UNEQUALLY.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] COMMON GOOD BECOMES MEANINGFUL ONLY AFTER CLASS DOMINATION",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE OWNER'S CRITICISM ADDS THE RISK OF NEW",
+          "role": "caution"
+        },
+        {
+          "text": "MARXIAN STRENGTH IS DIAGNOSIS; WEAKNESS IS HISTORICAL REALISATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Marxian Class Barrier",
+        "[1] Marxian theory denies genuine common good in class-divided society.",
+        "[2] Antagonistic ownership structures organise power and interest unequally.",
+        "[3] Common good becomes meaningful only after class domination is overcome."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Marxian Class Barrier",
+            "[1] Marxian theory denies genuine common good in class-divided society."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Antagonistic ownership structures organise power and interest unequally.",
+            "[3] Common good becomes meaningful only after class domination is overcome.",
+            "[4] The owner's criticism adds the risk of new political domination."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Marxian strength is diagnosis; weakness is historical realisation.",
+            "ANSWER USE → Contrast class barrier with later domination risk."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Marxian strength is diagnosis; weakness is historical realisation.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GANDHIAN TRUSTEESHIP, BREAD LABOUR AND SARVODAYA",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GANDHIAN TRUSTEESHIP, BREAD LABOUR AND SARVODAYA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GANDHIAN COMMON GOOD IS MORAL, NOT ARITHMETICAL OR",
+          "role": "caution"
+        },
+        {
+          "text": "[2] TRUSTEESHIP TREATS SURPLUS WEALTH AS A TRUST FOR",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] BREAD LABOUR TIES DIGNITY, EQUALITY AND RESTRAINT TO",
+          "role": "primary"
+        },
+        {
+          "text": "[4] SARVODAYA SEEKS UPLIFT OF ALL THROUGH SERVICE AND",
+          "role": "outcome"
+        },
+        {
+          "text": "GANDHI MORALISES COMMON GOOD BEYOND UTILITY AND STATE COMMAND.",
+          "role": "institution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Gandhian Trusteeship, Bread Labour and Sarvodaya",
+        "[1] Gandhian common good is moral, not arithmetical or merely administrative.",
+        "[2] Trusteeship treats surplus wealth as a trust for social welfare.",
+        "[3] Bread labour ties dignity, equality and restraint to bodily work."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Gandhian Trusteeship, Bread Labour and Sarvodaya",
+            "[1] Gandhian common good is moral, not arithmetical or merely administrative."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Trusteeship treats surplus wealth as a trust for social welfare.",
+            "[3] Bread labour ties dignity, equality and restraint to bodily work.",
+            "[4] Sarvodaya seeks uplift of all through service and non-violence."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Gandhi moralises common good beyond utility and state command.",
+            "ANSWER USE → Use trusteeship, bread labour and sarvodaya together."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Gandhi moralises common good beyond utility and state command.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COMPARISON, TRAP REPAIR AND REVISION SPINE",
+      "structural_type": "dialectic",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPARISON, TRAP REPAIR AND REVISION SPINE",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] STATE GOOD, MAJORITY GOOD AND AGGREGATE HAPPINESS ARE",
+          "role": "institution"
+        },
+        {
+          "text": "[2] A PARTY BARGAIN FAILS COMMON GOOD IF HIDDEN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] LIBERAL WEAKNESS IS THIN SOLIDARITY; COMMUNITARIAN WEAKNESS IS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] MARXIAN AND GANDHIAN ROUTES ALSO FACE REALISATION AND",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CORE FALSE EQUATIONS ARE STATIST, MAJORITARIAN AND UTILITARIAN.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Comparison, Trap Repair and Revision Spine",
+        "[1] State good, majority good and aggregate happiness are rejected substitutes.",
+        "[2] A party bargain fails common good if hidden public costs remain.",
+        "[3] Liberal weakness is thin solidarity; communitarian weakness is weak machinery."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] A party bargain fails common good if hidden public costs remain.",
+          "VERDICT → The core false equations are statist, majoritarian and utilitarian."
+        ],
+        [
+          "Comparison, Trap Repair and Revision Spine",
+          "[3] Liberal weakness is thin solidarity; communitarian weakness is weak machinery.",
+          "ANSWER USE → Repair one trap before moving to evaluation."
+        ],
+        [
+          "[1] State good, majority good and aggregate happiness are rejected substitutes.",
+          "[4] Marxian and Gandhian routes also face realisation and voluntarism risks.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Comparison, Trap Repair and Revision Spine",
+            "[1] State good, majority good and aggregate happiness are rejected substitutes."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] A party bargain fails common good if hidden public costs remain.",
+            "[3] Liberal weakness is thin solidarity; communitarian weakness is weak machinery.",
+            "[4] Marxian and Gandhian routes also face realisation and voluntarism risks."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → The core false equations are statist, majoritarian and utilitarian.",
+            "ANSWER USE → Repair one trap before moving to evaluation."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → The core false equations are statist, majoritarian and utilitarian.",
+      "answer_line": "ANSWER USE → Repair one trap before moving to evaluation.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DIRECTIVE CONTROL, RECONSTRUCTIONS AND OBJECTION-REPLY CHAINS",
+      "structural_type": "application-pyq",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DIRECTIVE CONTROL, RECONSTRUCTIONS AND OBJECTION-REPLY CHAINS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MINORITY RIGHTS AND DISSENT TEST WHETHER A CLAIMED",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] GROUP-RIGHTS CLAIMS FAIL IF THEY SILENCE WOMEN OR",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] CONSTITUTIONAL MORALITY DISCIPLINES OPPRESSIVE INHERITED SOCIAL CONSENSUS.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE SAFEST MODERN FORMULA IS RIGHTS-BOUNDED AND REVISABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS, DISSENT AND REVIEW ARE INTERNAL TESTS OF COMMON",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Directive Control, Reconstructions and Objection-Reply Chains",
+        "[1] Minority rights and dissent test whether a claimed good is truly common.",
+        "[2] Group-rights claims fail if they silence women or lower-status members.",
+        "[3] Constitutional morality disciplines oppressive inherited social consensus."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Directive Control, Reconstructions and Objection-Reply Chains",
+            "[1] Minority rights and dissent test whether a claimed good is truly common."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] Group-rights claims fail if they silence women or lower-status members.",
+            "[3] Constitutional morality disciplines oppressive inherited social consensus.",
+            "[4] The safest modern formula is rights-bounded and revisable common good."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "VERDICT → Rights, dissent and review are internal tests of common good.",
+            "ANSWER USE → Use the internal-domination objection when plurality appears."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Rights, dissent and review are internal tests of common good.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PLURALITY, INDIAN APPLICATIONS, MCQ LEDGER AND PYQ ROUTES",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PLURALITY, INDIAN APPLICATIONS, MCQ LEDGER AND PYQ ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] AQUINAS, HEGEL, REPUBLICANISM, COMMONS AND SOCIAL CAPITAL ARE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] AQUINAS EXTENDS THE NATURAL-LAW GENEALOGY TOWARD HUMAN FLOURISHING.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] HEGEL LINKS FREEDOM TO ETHICAL LIFE IN FAMILY",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THESE BRIDGES DEEPEN COMPARISON BUT DO NOT BECOME",
+          "role": "caution"
+        },
+        {
+          "text": "SUPPLEMENTARY BRIDGES HELP ONLY WHEN THEIR BOUNDARY IS STATED.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Plurality, Indian Applications, MCQ Ledger and PYQ Routes",
+        "[1] Aquinas, Hegel, republicanism, commons and social capital are tagged bridges.",
+        "[2] Aquinas extends the natural-law genealogy toward human flourishing.",
+        "[3] Hegel links freedom to ethical life in family, society and state."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Plurality, Indian Applications, MCQ Ledger and PYQ Routes",
+            "[1] Aquinas, Hegel, republicanism, commons and social capital are tagged bridges."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Aquinas extends the natural-law genealogy toward human flourishing.",
+            "[3] Hegel links freedom to ethical life in family, society and state.",
+            "[4] These bridges deepen comparison but do not become Gauba Ch.21 claims."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Supplementary bridges help only when their boundary is stated.",
+            "ANSWER USE → Mark Aquinas and Hegel as comparative extensions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Supplementary bridges help only when their boundary is stated.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] HIGH-RISK TRAPS CONFUSE COMMON GOOD WITH MAJORITY WILL",
+          "role": "caution"
+        },
+        {
+          "text": "[2] ANOTHER TRAP TREATS COMMUNITARIANISM AS PERMISSION TO ERASE",
+          "role": "caution"
+        },
+        {
+          "text": "[3] STRONG ANSWERS DISTINGUISH LIBERAL, COMMUNITARIAN, MARXIAN AND GANDHIAN",
+          "role": "primary"
+        },
+        {
+          "text": "[4] QUOTATION DISCIPLINE PREFERS NAMED PROPOSITIONS OVER UNSAFE VERBATIM",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONG ANSWERS USE PROPOSITIONS AND DISTINCTIONS OVER RISKY QUOTES.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] High-risk traps confuse common good with majority will or public interest.",
+        "[2] Another trap treats communitarianism as permission to erase disagreement.",
+        "[3] Strong answers distinguish liberal, communitarian, Marxian and Gandhian routes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] High-risk traps confuse common good with majority will or public interest."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Another trap treats communitarianism as permission to erase disagreement.",
+            "[3] Strong answers distinguish liberal, communitarian, Marxian and Gandhian routes.",
+            "[4] Quotation discipline prefers named propositions over unsafe verbatim lines."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Strong answers use propositions and distinctions over risky quotes.",
+            "ANSWER USE → Replace doubtful quotes with verified named positions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Strong answers use propositions and distinctions over risky quotes.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] VERIFIED PHILOSOPHY PYQS STAY WITH PHILOSOPHY AS THEIR",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] BORROWED ROUTES CONCERN DEMOCRACY, MINORITIES, GANDHI, AMBEDKAR AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] TOPIC 21 KEEPS ORIGINAL MAINS PROMPTS WHILE CITING",
+          "role": "primary"
+        },
+        {
+          "text": "[4] TOPIC 23 OWNS DEMOCRATISATION, BACKSLIDING AND SOCIAL MOVEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "PHILOSOPHY PYQS STAY WITH PHILOSOPHY OWNERS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] Verified Philosophy PYQs stay with Philosophy as their primary owners.",
+        "[2] Borrowed routes concern democracy, minorities, Gandhi, Ambedkar and coexistence.",
+        "[3] Topic 21 keeps original Mains prompts while citing those routes carefully."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] Verified Philosophy PYQs stay with Philosophy as their primary owners."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Borrowed routes concern democracy, minorities, Gandhi, Ambedkar and coexistence.",
+            "[3] Topic 21 keeps original Mains prompts while citing those routes carefully.",
+            "[4] Topic 23 owns democratisation, backsliding and social movements as bridges."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Philosophy PYQs stay with Philosophy owners.",
+            "ANSWER USE → Route democratisation and backsliding to Topic 23."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Philosophy PYQs stay with Philosophy owners.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

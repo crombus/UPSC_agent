@@ -1,0 +1,326 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Preamble of the Constitution: central question and analytical axes
+
+```ascii-master
+PREAMBLE OF THE CONSTITUTION — CONCEPTUAL ATLAS
+
+
+KEY TERMS: What A Preamble Is • "identity card of the Constitution" • US Declaration of
+KEY TERMS: Independence • "the soul of our Constitution" • declaratory and interpretive
+KEY TERMS: instrument • WHAT A PREAMBLE IS, AND WHAT KIND OF…
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Preamble of the Constitution
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       A preamble is the Constitution's introductory declaration: it…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: WHAT A PREAMBLE IS, AND WHAT KIND OF INSTRUMENT INDIA'S PREAMBLE…
+  • What A Preamble Is
+  • The Preamble is a declaratory and interpretive instrument, not an…
+AXIS 2: SOVEREIGN
+  • Sovereign
+  • The cession point is the highest-value link in this subtopic…
+AXIS 3: FRATERNITY, DIGNITY OF THE INDIVIDUAL, AND UNITY AND INTEGRITY OF…
+  • Fraternity
+  • The Preamble declares that fraternity has to assure two things…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  What A Preamble Is • "identity card of the Constitution" • US Declaration of Independence
+  • "the soul of our Constitution"
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Objectives Resolution, authoritative text and popular sovereignty
+
+```ascii-master
+OBJECTIVES RESOLUTION, AUTHORITATIVE TEXT AND POPULAR SOVEREIGNTY
+│
+
+KEY TERMS: What A Preamble Is • "identity card of the Constitution" • US Declaration of
+KEY TERMS: Independence • "the soul of our Constitution" • declaratory and interpretive
+KEY TERMS: instrument • WHAT A PREAMBLE IS, AND WHAT KIND OF…
+├── KEY CONCEPTS
+│   ├── What A Preamble Is
+│   ├── "identity card of the Constitution"
+│   ├── US Declaration of Independence
+│   ├── "the soul of our Constitution"
+│   └── declaratory and interpretive instrument
+│
+├── WHAT A PREAMBLE IS, AND WHAT KIND OF INSTRUMENT INDIA'S…
+│   ├─ TERMS: A preamble is the Constitution's introductory declaration: it…
+│   ├─ LOGIC: The Preamble is a declaratory and interpretive instrument, not an…
+│   └─ RESULT: Hidayatullah observed that the Indian Preamble resembles the US…
+├── FROM THE OBJECTIVES RESOLUTION TO THE PREAMBLE: THE DRAFTING…
+│   ├─ TERMS: India's Preamble is the Objectives Resolution in modified…
+│   ├─ LOGIC: The Preamble is based on the Objectives Resolution, drafted and…
+│   └─ RESULT: The Preamble is the Objectives Resolution in a modified form
+├── THE AUTHORITATIVE TEXT AND ITS CLAUSE ARCHITECTURE
+│   ├─ TERMS: The objectives clause ("to secure to all its citizens") is…
+│   ├─ LOGIC: The words SOCIALIST, SECULAR and INTEGRITY were inserted by the…
+│   └─ RESULT: Note the asymmetry in the text that examiners exploit: Justice…
+├── INGREDIENT 1 - THE SOURCE OF AUTHORITY: "WE, THE PEOPLE OF…
+│   ├─ TERMS: 'We, the People of India' locates constituent authority in popular
+│   ├─ TERMS: sovereignty, while the Assembly's constrained origin…
+│   ├─ LOGIC: The examiner's favourite move is to pit the normative claim ("We…
+│   └─ RESULT: WRONG: "We, the People of India" is a rhetorical flourish with no…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: State descriptors: sovereign, socialist, secular, democratic, republic
+
+```ascii-master
+STATE DESCRIPTORS: SOVEREIGN, SOCIALIST, SECULAR, DEMOCRATIC, REPUBLIC
+
+
+KEY TERMS: Ingredient 2 - The Nature Of The Indian… • The Six Descriptors • Sovereign,
+KEY TERMS: Socialist, Secular… • keyword-to-anchor reflex • Cross-link • Sovereign
+STAGE 01  INGREDIENT 2 - THE NATURE OF THE INDIAN STATE: THE SIX DESCRIPTORS
+  ├─ CONDITION / TERM: The single most valuable habit on this topic is the…
+  ├─ CHANGE / MECHANISM: The Preamble describes the Indian State as Sovereign,
+  ├─ CHANGE / MECHANISM: Socialist…
+  └─ OUTCOME: Of these, Socialist and Secular were not in the original text
+                  │
+                  ▼
+STAGE 02  SOVEREIGN
+  ├─ CONDITION / TERM: "Sovereign" means India is neither a dependency nor a
+  ├─ CONDITION / TERM: dominion of any other nation, but an independent State with
+  ├─ CONDITION / TERM: no…
+  ├─ CHANGE / MECHANISM: The cession point is the highest-value link in this
+  ├─ CHANGE / MECHANISM: subtopic…
+  └─ OUTCOME: India's membership of the Commonwealth rests on the 1949…
+                  │
+                  ▼
+STAGE 03  SOCIALIST
+  ├─ CONDITION / TERM: The word was inserted by the 42nd Amendment, 1976
+  ├─ CHANGE / MECHANISM: The word was inserted by the 42nd Amendment, 1976
+  └─ OUTCOME: Indian socialism is democratic socialism, not communistic or State…
+                  │
+                  ▼
+STAGE 04  SECULAR
+  ├─ CONDITION / TERM: "Secular" was inserted by the 42nd Amendment, 1976
+  ├─ CHANGE / MECHANISM: "Secular" was inserted by the 42nd Amendment, 1976
+  └─ OUTCOME: India's model is best described as principled distance or positive…
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Objectives: justice, liberty, equality, fraternity and dignity
+
+```ascii-master
+OBJECTIVES: JUSTICE, LIBERTY, EQUALITY, FRATERNITY AND DIGNITY
+
+
+KEY TERMS: Democratic • popular sovereignty • direct • indirect or representative •
+KEY TERMS: Referendum, Initiative, Recall and… • Republic
+CAUSE / CONDITION 1: "Democratic" is the word that carries the most Mains weight…
+          │
+          ├── MECHANISM
+          │   The democratic character is manifested through universal adult…
+          │
+          └── EFFECT / CONTRAST
+              India adopted representative parliamentary democracy
+          │
+          ▼
+CAUSE / CONDITION 2: A neat comparative sentence pays here: Britain is democratic…
+          │
+          ├── MECHANISM
+          │   A neat comparative sentence pays here: Britain is democratic but…
+          │
+          └── EFFECT / CONTRAST
+              Britain is a democracy but a monarchy
+          │
+          ▼
+CAUSE / CONDITION 3: A combination of social justice and economic justice denotes…
+          │
+          ├── MECHANISM
+          │   Keep them in separate mental boxes, because a single question can…
+          │
+          └── EFFECT / CONTRAST
+              A combination of social justice and economic justice denotes what…
+          │
+          ▼
+CAUSE / CONDITION 4: Second, status and opportunity, not outcome - the Preamble…
+          │
+          ├── MECHANISM
+          │   Second, status and opportunity, not outcome - the Preamble does not…
+          │
+          └── EFFECT / CONTRAST
+              The examinable relationship is that liberty and equality are…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Legal status from Berubari to Kesavananda and LIC
+
+```ascii-master
+LEGAL STATUS FROM BERUBARI TO KESAVANANDA AND LIC
+
+
+KEY TERMS: Fraternity • Dignity Of The Individual • Unity • Integrity Of The Nation • single
+KEY TERMS: citizenship • FRATERNITY, DIGNITY OF THE INDIVIDUAL…
+CAUSE / CONDITION 1: Distinguish unity from integrity cleanly, because the pair is…
+          │
+          ├── MECHANISM
+          │   The Preamble declares that fraternity has to assure two things…
+          │
+          └── EFFECT / CONTRAST
+              Munshi, a member of the Drafting Committee, described the phrase…
+          │
+          ▼
+CAUSE / CONDITION 2: The Constitution came into force on 26 January 1950, chosen…
+          │
+          ├── MECHANISM
+          │   The Constitution came into force on 26 January 1950, chosen to…
+          │
+          └── EFFECT / CONTRAST
+              Combine this with subtopic 5 and you get one of the sharpest…
+          │
+          ▼
+CAUSE / CONDITION 3: Hidayatullah, a former Chief Justice of India, said the…
+          │
+          ├── MECHANISM
+          │   WRONG: "horoscope of our sovereign democratic republic" was said by…
+          │
+          └── EFFECT / CONTRAST
+              Hidayatullah, a former Chief Justice of India, said the Preamble…
+          │
+          ▼
+CAUSE / CONDITION 4: Berubari Union case (1960): on a Presidential reference under…
+          │
+          ├── MECHANISM
+          │   the Supreme Court rejected the earlier opinion and held that the…
+          │
+          └── EFFECT / CONTRAST
+              Berubari Union case (1960): on a Presidential reference under…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Amendability, basic structure and interpretive force
+
+```ascii-master
+AMENDABILITY, BASIC STRUCTURE AND INTERPRETIVE FORCE
+
+
+KEY TERMS: The Two Permanent Caveats • Operationalised • its provisions are • membership •
+KEY TERMS: THE TWO PERMANENT CAVEATS… • Amendability
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: The Preamble belongs to the instrument
+  ├─ RESPONSE / CONTROL: In a 15- or 20-marker, the caveats must be followed by
+  ├─ RESPONSE / CONTROL: the positive…
+  └─ QUALIFIED VERDICT: Caveat two: the Preamble is non-justiciable - its
+  └─ QUALIFIED VERDICT: provisions are…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: the Court held that the Preamble is a part of the Constitution and…
+  ├─ RESPONSE / CONTROL: It was argued that the Preamble cannot be amended because
+  ├─ RESPONSE / CONTROL: it is not…
+  └─ QUALIFIED VERDICT: The correct formulation is a two-part sentence: Article
+  └─ QUALIFIED VERDICT: 368 reaches…
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: This subtopic is the answer to the question every Preamble essay…
+  ├─ RESPONSE / CONTROL: The Preamble exerts constitutional force by two
+  ├─ RESPONSE / CONTROL: identified routes…
+  └─ QUALIFIED VERDICT: Kesavananda (1973) held that the edifice of the
+  └─ QUALIFIED VERDICT: Constitution is…
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: Close with a calibrated formulation such as: an interpretive…
+  ├─ RESPONSE / CONTROL: Every Preamble question falls into one of four demand
+  ├─ RESPONSE / CONTROL: types, and…
+  └─ QUALIFIED VERDICT: WRONG: closing with "thus the Preamble is the soul of the…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Preamble of the Constitution: traps, PYQ routes and applied recall
+
+```ascii-master
+PREAMBLE OF THE CONSTITUTION: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: What A Preamble Is • "identity card of the Constitution" • US Declaration of
+KEY TERMS: Independence • "the soul of our Constitution" • declaratory and interpretive
+KEY TERMS: instrument • WHAT A PREAMBLE IS, AND WHAT KIND OF…
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── The Preamble is a part
+├── The second is to say that 1991 rendered the word unconstitutional…
+├── the two dates carry different constitutional work
+├── Close with a calibrated formulation such as: an interpretive…
+│
+├── Verified PYQ provenance and count
+├── Total 10 No PYQ is invented
+├── PYQ 1
+├── PYQ 2
+│
+└── A preamble is the Constitution's introductory declaration: it…
+└── The Preamble's justice clause is the constitutional bridge between…
+└── The Preamble is the Constitution in miniature: a non-justiciable…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Preamble of the Constitution: integrated revision and answer-writing spine
+
+```ascii-master
+PREAMBLE OF THE CONSTITUTION — ANSWER / REVISION SPINE
+
+
+KEY TERMS: What A Preamble Is • "identity card of the Constitution" • US Declaration of
+KEY TERMS: Independence • "the soul of our Constitution" • declaratory and interpretive
+KEY TERMS: instrument • WHAT A PREAMBLE IS, AND WHAT KIND OF…
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ A preamble is the Constitution's introductory declaration: it…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ What A Preamble Is
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ The word was inserted by the 42nd Amendment, 1976
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ US Declaration of Independence
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Close with a calibrated formulation such as: an interpretive…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ The Preamble is the Constitution in miniature: a non-justiciable…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

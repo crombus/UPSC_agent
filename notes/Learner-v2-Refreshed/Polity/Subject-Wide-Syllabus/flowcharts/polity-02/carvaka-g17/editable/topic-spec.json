@@ -1,0 +1,1062 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-02",
+  "subject": "Polity",
+  "title": "MAKING OF THE CONSTITUTION",
+  "short_route": "1934-1946: THE ROUTE TO → COMPOSITION CHANGED WITH PARTITION → COMMITTEE ARCHITECTURE: DISTRIBUTED AUTHORSHIP → DRAFTING PIPELINE, DEBATE METRICS → PEOPLE, OFFICES AND CONSTITUTIONAL → DEBATE MAP: RIGHTS, FEDERALISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g17 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+  "ascii_spec_sha256": "ba2ac3da485064a644d90dfe00dc54d122de369a9d313f943b1e4860998c4e86",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "1934-1946: THE ROUTE TO A CONSTITUTION-MAKING BODY",
+      "structural_type": "constitutional-evolution-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE ROUTE TO A CONSTITUTION-MAKING BODY",
+          "role": "primary"
+        },
+        {
+          "text": "1934 M.N. ROY ADVANCES THE CONSTITUENT ASSEMBLY IDEA",
+          "role": "institution"
+        },
+        {
+          "text": "1935 CONGRESS FORMALLY DEMANDS A CONSTITUENT ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "1938 NEHRU SPECIFIES AN ASSEMBLY ELECTED ON ADULT FRANCHISE",
+          "role": "institution"
+        },
+        {
+          "text": "1940 AUGUST OFFER ACCEPTS THE PRINCIPLE OF INDIAN CONSTITUTION-MAKING",
+          "role": "primary"
+        },
+        {
+          "text": "1942 CRIPPS PROPOSAL OFFERS POST-WAR CONSTITUTION-MAKING",
+          "role": "outcome"
+        },
+        {
+          "text": "1946 CABINET MISSION SUPPLIES THE OPERATIVE SCHEME INDIRECTLY ELECTED",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT ATTACH NEHRU'S ADULT-FRANCHISE FORMULATION TO 1935.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1934 M.N. Roy advances the Constituent Assembly idea",
+        "1935 Congress formally demands a Constituent Assembly",
+        "1938 Nehru specifies an Assembly elected on adult franchise, free from outside interference",
+        "1940 August Offer accepts the principle of Indian constitution-making",
+        "1942 Cripps proposal offers post-war constitution-making"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "1934 M.N. Roy advances the Constituent Assembly idea",
+            "1935 Congress formally demands a Constituent Assembly"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1938 Nehru specifies an Assembly elected on adult franchise, free from outside interference",
+            "1940 August Offer accepts the principle of Indian constitution-making"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "1942 Cripps proposal offers post-war constitution-making",
+            "1946 Cabinet Mission supplies the operative scheme indirectly elected provincial representatives princely-state nominees community allocation within provincial seats"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "population ratio broadly one seat per million",
+            "TRAP: do not attach Nehru's adult-franchise formulation to 1935."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "do not attach Nehru's adult-franchise formulation to 1935.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 1 — INTELLECTUAL AND POLITICAL ORIGINS: 1934-1946",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 2 — CABINET MISSION DESIGN AND ALLOCATION LOGIC"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COMPOSITION CHANGED WITH PARTITION; AUTHORITY CHANGED WITH INDEPENDENCE",
+      "structural_type": "composition-sovereignty-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMPOSITION CHANGED WITH PARTITION; AUTHORITY CHANGED WITH INDEPENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET MISSION PLAN",
+          "role": "outcome"
+        },
+        {
+          "text": "389 PROVINCES 296",
+          "role": "comparison"
+        },
+        {
+          "text": "292 GOVERNOR'S PROVINCES + 4 CHIEF COMMISSIONERS PRINCELY STATES",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTION RESULT",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS 208; MUSLIM LEAGUE 73; OTHERS 15",
+          "role": "outcome"
+        },
+        {
+          "text": "9 DEC 1946",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRST SITTING; ONLY 211 ATTENDED AMID LEAGUE BOYCOTT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CABINET MISSION PLAN: 389 provinces 296 = 292 Governor's provinces + 4 Chief Commissioners princely",
+        "ELECTION RESULT: Congress 208; Muslim League 73; others 15",
+        "9 DEC 1946: first sitting; only 211 attended amid League boycott",
+        "PARTITION → RECONSTITUTED ASSEMBLY: 299 = provinces 229 + states 70",
+        "15 AUG 1947: sovereign constitution-maker + Dominion legislature"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CABINET MISSION PLAN: 389 provinces 296 = 292 Governor's provinces + 4 Chief Commissioners princely states 93",
+            "ELECTION RESULT: Congress 208; Muslim League 73; others 15",
+            "9 DEC 1946: first sitting; only 211 attended amid League boycott"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PARTITION → RECONSTITUTED ASSEMBLY: 299 = provinces 229 + states 70",
+            "15 AUG 1947: sovereign constitution-maker + Dominion legislature",
+            "26 NOV 1949: Constitution adopted"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "24 JAN 1950: 284 members signed",
+            "26 JAN 1950: Republic + provisional Parliament",
+            "TRAPS: 299 = strength; 211 = first-sitting attendance; 284 = signatories."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PARTITION → RECONSTITUTED ASSEMBLY: 299 = provinces 229 + states 70"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(SOVEREIGNTY ARGUMENT): Sovereignty criticism must be periodised: the Cabinet Mission shaped the Assembly's origin, while the 1947 Act removed the continuing British legal veto.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 3 — ELECTIONS, COMPOSITION CHANGE AND METRIC DISCIPLINE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 6 — A. INDIAN INDEPENDENCE ACT 1947: SOVEREIGNTY AND DUAL INSTITUTIONAL ROLES"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COMMITTEE ARCHITECTURE: DISTRIBUTED AUTHORSHIP, NOT SEVEN-PERSON MYTHOLOGY",
+      "structural_type": "institution-power-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMMITTEE ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTRIBUTED AUTHORSHIP, NOT SEVEN-PERSON MYTHOLOGY",
+          "role": "caution"
+        },
+        {
+          "text": "EIGHT MAJOR COMMITTEES",
+          "role": "comparison"
+        },
+        {
+          "text": "UNION POWERS; UNION CONSTITUTION; STATES",
+          "role": "evidence"
+        },
+        {
+          "text": "PROVINCIAL CONSTITUTION; ADVISORY",
+          "role": "primary"
+        },
+        {
+          "text": "RAJENDRA PRASAD",
+          "role": "outcome"
+        },
+        {
+          "text": "RULES OF PROCEDURE; STEERING",
+          "role": "comparison"
+        },
+        {
+          "text": "DRAFTING COMMITTEE (7 MEMBERS; APPOINTED 29 AUG 1947)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EIGHT MAJOR COMMITTEES",
+        "Nehru: Union Powers; Union Constitution; States",
+        "Patel: Provincial Constitution; Advisory",
+        "Rajendra Prasad: Rules of Procedure; Steering",
+        "Ambedkar: Drafting Committee (7 members; appointed 29 Aug 1947)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "EIGHT MAJOR COMMITTEES",
+            "Nehru: Union Powers; Union Constitution; States",
+            "Patel: Provincial Constitution; Advisory"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Rajendra Prasad: Rules of Procedure; Steering",
+            "Ambedkar: Drafting Committee (7 members; appointed 29 Aug 1947)",
+            "ADVISORY SUBCOMMITTEES"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Fundamental Rights — J.B. Kripalani",
+            "Minorities — H.C. Mookherjee",
+            "Assam tribal/excluded areas — Gopinath Bardoloi other excluded areas — A.V. Thakkar"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "B.N. RAU: research + initial draft + technical advice",
+            "DRAFTING COMMITTEE: converts decisions into clauses; sat 141 days",
+            "ASSEMBLY: report → debate → amendment → vote → adopted text"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(PROCESS ANALYSIS): Indian constitution-making was distributed authorship: committees settled principles, B.N. Rau prepared comparative advice, the Drafting Committee produced legal form and the Assembly amended and adopted the text.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 7 — COMMITTEE ARCHITECTURE AND DISTRIBUTED AUTHORSHIP",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 8 — B.N. RAU, DRAFTING COMMITTEE AND ASSEMBLY: ROLE FLOW"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DRAFTING PIPELINE, DEBATE METRICS AND COMMENCEMENT ARTICLES",
+      "structural_type": "procedure-flow",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DRAFTING PIPELINE, DEBATE METRICS AND COMMENCEMENT ARTICLES",
+          "role": "primary"
+        },
+        {
+          "text": "13 DEC 1946 OBJECTIVES RESOLUTION MOVED",
+          "role": "outcome"
+        },
+        {
+          "text": "22 JAN 1947 ADOPTED COMMITTEE REPORTS + B.N. RAU",
+          "role": "comparison"
+        },
+        {
+          "text": "29 AUG 1947 DRAFTING COMMITTEE",
+          "role": "evidence"
+        },
+        {
+          "text": "FEB 1948 PUBLIC DRAFT",
+          "role": "primary"
+        },
+        {
+          "text": "OCT 1948 REVISED DRAFT",
+          "role": "outcome"
+        },
+        {
+          "text": "READING 1 GENERAL",
+          "role": "comparison"
+        },
+        {
+          "text": "READING 2 CLAUSE/AMENDMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "13 DEC 1946 Objectives Resolution moved → 22 JAN 1947 adopted committee reports + B.N.",
+        "FEB 1948 public Draft → comments → OCT 1948 revised Draft",
+        "READING 1 general → READING 2 clause/amendment → READING 3 passage",
+        "ASSEMBLY WORK: 11 sessions; 165 sitting days; Draft debated 114 days",
+        "AMENDMENTS: 7,635 tabled; 2,473 moved/disposed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "13 DEC 1946 Objectives Resolution moved → 22 JAN 1947 adopted committee reports + B.N. Rau draft → 29 AUG 1947 Drafting Committee",
+            "FEB 1948 public Draft → comments → OCT 1948 revised Draft",
+            "READING 1 general → READING 2 clause/amendment → READING 3 passage",
+            "ASSEMBLY WORK: 11 sessions; 165 sitting days; Draft debated 114 days"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "AMENDMENTS: 7,635 tabled; 2,473 moved/disposed",
+            "26 NOV 1949: adopted; 16 provisions commenced immediately",
+            "24 JAN 1950: 284 signatures",
+            "26 JAN 1950: remaining provisions commence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLES 393-395 CONTROL",
+            "393 short title",
+            "394 commencement split",
+            "394A authoritative Hindi text"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "395 repeals the 1935 Act and Indian Independence Act 1947",
+            "TRAP: Article 394, not 393, controls commencement."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(ADOPTION / COMMENCEMENT): Adoption, signing and commencement were distinct constitutional stages, allowing selected transitional provisions to operate before the Constitution generally commenced on 26 January 1950.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 5 — OBJECTIVES RESOLUTION TO PREAMBLE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 9 — DRAFTING STAGES, READINGS, ADOPTION, SIGNING AND COMMENCEMENT"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PEOPLE, OFFICES AND CONSTITUTIONAL SYMBOLS",
+      "structural_type": "person-role-symbol-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PEOPLE, OFFICES AND CONSTITUTIONAL SYMBOLS",
+          "role": "primary"
+        },
+        {
+          "text": "TEMPORARY PRESIDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SACHCHIDANANDA SINHA",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMANENT PRESIDENT",
+          "role": "evidence"
+        },
+        {
+          "text": "RAJENDRA PRASAD",
+          "role": "primary"
+        },
+        {
+          "text": "H.C. MOOKHERJEE; V.T. KRISHNAMACHARI",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL ADVISER",
+          "role": "comparison"
+        },
+        {
+          "text": "B.N. RAU",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEMPORARY PRESIDENT: Sachchidananda Sinha",
+        "PERMANENT PRESIDENT: Rajendra Prasad",
+        "VICE-PRESIDENTS: H.C. Mookherjee; V.T. Krishnamachari",
+        "CONSTITUTIONAL ADVISER: B.N. Rau",
+        "DRAFTING CHAIR / DRAFT PILOT: B.R. Ambedkar"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TEMPORARY PRESIDENT: Sachchidananda Sinha",
+            "PERMANENT PRESIDENT: Rajendra Prasad",
+            "VICE-PRESIDENTS: H.C. Mookherjee; V.T. Krishnamachari",
+            "CONSTITUTIONAL ADVISER: B.N. Rau"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DRAFTING CHAIR / DRAFT PILOT: B.R. Ambedkar",
+            "CONSTITUENT BUSINESS: Rajendra Prasad",
+            "DOMINION-LEGISLATIVE BUSINESS: G.V. Mavlankar",
+            "24 JAN 1950"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "284 members sign English and Hindi calligraphed copies",
+            "Jana Gana Mana adopted as National Anthem",
+            "Vande Mataram accorded equal honour as National Song",
+            "Rajendra Prasad elected first President of India"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP: adoption 26 Nov 1949 != signing 24 Jan 1950 != commencement 26 Jan 1950."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "adoption 26 Nov 1949 != signing 24 Jan 1950 != commencement 26 Jan 1950.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 4 — FIRST SITTING, PRESIDING OFFICERS AND SECRETARIAT",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 10 — A. OTHER FUNCTIONS, SYMBOLS, CONSTITUTIONAL CRAFT AND PROVISIONAL PARLIAMENT"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DEBATE MAP: RIGHTS, FEDERALISM, EXECUTIVE AND SOCIAL REVOLUTION",
+      "structural_type": "debate-branching-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DEBATE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS, FEDERALISM, EXECUTIVE AND SOCIAL REVOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL CHOICE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIBERTY + EQUALITY + REMEDIES VERSUS PREVENTIVE POWERS, PUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVINCIAL AUTONOMY VERSUS PARTITION-ERA NEED FOR AN EFFECTIVE UNION",
+          "role": "comparison"
+        },
+        {
+          "text": "PARLIAMENTARY RESPONSIBILITY VERSUS INSTABILITY AND CONCENTRATED LEADERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "CULTURAL/EDUCATIONAL PROTECTION VERSUS REJECTION OF SEPARATE POLITICAL ELECTORATES",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL REVOLUTION ENFORCEABLE RIGHTS + DIRECTIVE PRINCIPLES + AFFIRMATIVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL CHOICE",
+        "RIGHTS: liberty + equality + remedies versus preventive powers, public order and social reform",
+        "FEDERALISM: provincial autonomy versus Partition-era need for an effective Union",
+        "EXECUTIVE: parliamentary responsibility versus instability and concentrated leadership",
+        "MINORITIES: cultural/educational protection versus rejection of separate political electorates"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL CHOICE",
+            "RIGHTS: liberty + equality + remedies versus preventive powers, public order and social reform"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FEDERALISM: provincial autonomy versus Partition-era need for an effective Union",
+            "EXECUTIVE: parliamentary responsibility versus instability and concentrated leadership"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MINORITIES: cultural/educational protection versus rejection of separate political electorates",
+            "SOCIAL REVOLUTION enforceable rights + Directive Principles + affirmative action"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "RESULT: political democracy joined an unfinished social transformation.",
+            "CONSTITUTIONAL CHOICE"
+          ]
+        }
+      ],
+      "mechanism_strip": "RESULT: political democracy joined an unfinished social transformation.",
+      "answer_line": "(LEGITIMACY COMPENSATION): The Constituent Assembly's representativeness depended on indirect selection, social range, political dominance, boycott and post-Partition change rather than any single numerical measure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 11 — MAJOR DEBATES AND OWNER-TOPIC CROSS-LINKS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 17 — SOCIAL REVOLUTION, CONTINUITY AND RUPTURE"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BORROWED PROVISIONS BECAME INDIAN CONSTITUTIONAL ADAPTATIONS",
+      "structural_type": "comparison-synthesis",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BORROWED PROVISIONS BECAME INDIAN CONSTITUTIONAL ADAPTATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE INDIAN ADAPTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "UK CABINET RESPONSIBILITY + PARLIAMENTARY GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "US FUNDAMENTAL RIGHTS + JUDICIAL REVIEW + IMPEACHMENT IDEAS",
+          "role": "evidence"
+        },
+        {
+          "text": "IRELAND DIRECTIVE PRINCIPLES + PRESIDENTIAL NOMINATION METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "CANADA FEDERATION WITH STRONG CENTRE + RESIDUARY UNION POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "AUSTRALIA CONCURRENT LIST + TRADE PROVISIONS + JOINT SITTING",
+          "role": "comparison"
+        },
+        {
+          "text": "GERMANY EMERGENCY IDEAS, CONSTITUTIONALLY RECAST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE INDIAN ADAPTATION",
+        "UK cabinet responsibility + parliamentary government",
+        "US Fundamental Rights + judicial review + impeachment ideas",
+        "Ireland Directive Principles + presidential nomination method",
+        "Canada federation with strong Centre + residuary Union power"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "SOURCE INDIAN ADAPTATION",
+          "Ireland Directive Principles + presidential nomination method",
+          "Germany emergency ideas, constitutionally recast",
+          "TEST: borrowed device + Indian problem + altered setting = Indian rule"
+        ],
+        [
+          "UK cabinet responsibility + parliamentary government",
+          "Canada federation with strong Centre + residuary Union power",
+          "South Africa amendment elements + Rajya Sabha election method",
+          "VERDICT: sources supplied techniques; the Assembly supplied hierarchy and legitimacy."
+        ],
+        [
+          "US Fundamental Rights + judicial review + impeachment ideas",
+          "Australia Concurrent List + trade provisions + joint sitting",
+          "GoI Act 1935 machinery stripped of imperial sovereignty",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SOURCE INDIAN ADAPTATION",
+            "UK cabinet responsibility + parliamentary government",
+            "US Fundamental Rights + judicial review + impeachment ideas"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Ireland Directive Principles + presidential nomination method",
+            "Canada federation with strong Centre + residuary Union power",
+            "Australia Concurrent List + trade provisions + joint sitting"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Germany emergency ideas, constitutionally recast",
+            "South Africa amendment elements + Rajya Sabha election method",
+            "GoI Act 1935 machinery stripped of imperial sovereignty"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TEST: borrowed device + Indian problem + altered setting = Indian rule",
+            "VERDICT: sources supplied techniques; the Assembly supplied hierarchy and legitimacy."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: sources supplied techniques; the Assembly supplied hierarchy and legitimacy.",
+      "answer_line": "sources supplied techniques; the Assembly supplied hierarchy and legitimacy.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 12 — BORROWED PROVISIONS AS ADAPTATION, NOT COPYING"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CRITICISM AND EVIDENCE-LED REPLY",
+      "structural_type": "objection-response-tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CRITICISM AND EVIDENCE-LED REPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO ADULT-FRANCHISE ELECTION",
+          "role": "caution"
+        },
+        {
+          "text": "REAL MANDATE DEFICIT; RESTRICTED FRANCHISE, PRINCELY NOMINATION, PARTITION AND",
+          "role": "comparison"
+        },
+        {
+          "text": "CONGRESS DOMINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "208/296 CONFIRMS DOMINANCE; INTERNAL DIVERSITY, COMMITTEES, DISSENT AND PUBLIC",
+          "role": "primary"
+        },
+        {
+          "text": "PRECISION MEDIATED FEDERAL, RIGHTS AND TRANSITION CONFLICT",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTIVE BORROWING WAS RECOMBINED AND INDIA-SPECIFIC",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL UNDER-REPRESENTATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NO ADULT-FRANCHISE ELECTION → real mandate deficit",
+        "restricted franchise, princely nomination, Partition and no universal rolls explain but do not erase it",
+        "CONGRESS DOMINATION → 208/296 confirms dominance; internal diversity, committees, dissent and public comments complicate a",
+        "LAWYER-MADE / OVER-LEGAL → precision mediated federal, rights and transition conflict",
+        "COPIED → selective borrowing was recombined and India-specific"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NO ADULT-FRANCHISE ELECTION → real mandate deficit",
+            "restricted franchise, princely nomination, Partition and no universal rolls explain but do not erase it"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CONGRESS DOMINATION → 208/296 confirms dominance; internal diversity, committees, dissent and public comments complicate a one-party caricature",
+            "LAWYER-MADE / OVER-LEGAL → precision mediated federal, rights and transition conflict"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COPIED → selective borrowing was recombined and India-specific",
+            "SOCIAL UNDER-REPRESENTATION → exclusions were real despite minority/women/Dalit voices"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "EXCESSIVE TIME → 2 years, 11 months, 18 days covered Partition and clause scrutiny",
+            "VERDICT: imperfect electoral origin + substantial deliberative authorship."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: imperfect electoral origin + substantial deliberative authorship.",
+      "answer_line": "(CRITICISM / REPLY): The Assembly was weak on direct electoral mandate but stronger on social range, reason-giving and the universal franchise it created.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 13 — CONSENSUS, PARTY ORGANISATION AND NEGOTIATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 14 — PEOPLE AND PLURAL VOICES WITHOUT HERO-ONLY REDUCTION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 15 — CRITICISM VERSUS EVIDENCE-LED REPLY"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FOUR PYQ CONTROLS AND RECURRING PRELIMS TRAPS",
+      "structural_type": "pyq-control-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR PYQ CONTROLS AND RECURRING PRELIMS TRAPS",
+          "role": "primary"
+        },
+        {
+          "text": "2021 GS-I Q93",
+          "role": "outcome"
+        },
+        {
+          "text": "ON 26 JAN 1950 INDIA BECAME A SOVEREIGN DEMOCRATIC",
+          "role": "comparison"
+        },
+        {
+          "text": "2023 GS-I Q85",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTION DAY AND DRAFTING COMMITTEE STATEMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "2024 GS-I Q61",
+          "role": "outcome"
+        },
+        {
+          "text": "SACHCHIDANANDA SINHA",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVISIONAL PRESIDENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2021 GS-I Q93: on 26 Jan 1950 India became a Sovereign Democratic Republic",
+        "2023 GS-I Q85: Constitution Day and Drafting Committee statements",
+        "2024 GS-I Q61: Sachchidananda Sinha = provisional President",
+        "2026 GS-I Q55: Articles 393-395 text supports statements 1 and 3 repository key is provisional/conflicting",
+        "RECURRING TRAPS"
+      ],
+      "matrix": [
+        [
+          "389/299/211/284",
+          "Rau/Ambedkar/Assembly",
+          "adoption/signing/commencement"
+        ],
+        [
+          "Rajendra Prasad/Mavlankar",
+          "parent committee/subcommittee chair original 395 Articles + 8 Schedules versus today's totals",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "2021 GS-I Q93: on 26 Jan 1950 India became a Sovereign Democratic Republic",
+            "2023 GS-I Q85: Constitution Day and Drafting Committee statements"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2024 GS-I Q61: Sachchidananda Sinha = provisional President",
+            "2026 GS-I Q55: Articles 393-395 text supports statements 1 and 3 repository key is provisional/conflicting; preserve qualification"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RECURRING TRAPS",
+            "Rajendra Prasad/Mavlankar"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "parent committee/subcommittee chair original 395 Articles + 8 Schedules versus today's totals",
+            "Debates are persuasive aids; enacted text remains supreme."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 393-395 text supports statements 1 and 3 repository key is provisional/conflicting; preserve qualification.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "EXACT 10/15/20-MARK ANSWER ARCHITECTURE",
+      "structural_type": "answer-architecture",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXACT 10/15/20-MARK ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "150 WORDS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. DEFINE THE ISSUE/DEMAND. 2. USE 389→299 PLUS ONE",
+          "role": "evidence"
+        },
+        {
+          "text": "3. ADD ONE COMMITTEE-ROLE DISTINCTION. 4. GIVE BALANCED VERDICT.",
+          "role": "comparison"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "250 WORDS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. THESIS. 2. ORIGINS 1934-46. 3. COMPOSITION + SOVEREIGNTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS / 150 WORDS",
+        "1. Define the issue/demand. 2. Use 389→299 plus one exact date.",
+        "3. Add one committee-role distinction. 4. Give balanced verdict.",
+        "15 MARKS / 250 WORDS",
+        "1. Thesis. 2. Origins 1934-46. 3. Composition + sovereignty shift."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "10 MARKS / 150 WORDS",
+            "1. Define the issue/demand. 2. Use 389→299 plus one exact date.",
+            "3. Add one committee-role distinction. 4. Give balanced verdict.",
+            "15 MARKS / 250 WORDS"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1. Thesis. 2. Origins 1934-46. 3. Composition + sovereignty shift.",
+            "4. Resolution→committees→draft→readings. 5. Two criticisms with evidence.",
+            "6. One adaptation/debate example. 7. Graded conclusion.",
+            "20 MARKS / 250 WORDS"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "1. Decode directive and frame legitimacy/originality test.",
+            "2. Origin deficit: indirect election, nomination, boycott, exclusions.",
+            "3. Process defence: public draft, 7,635/2,473 amendments, 114 debate days.",
+            "4. Distributed authorship: Rau → committees → Drafting → Assembly."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "5. Substance: rights, federalism, social revolution, adapted borrowing.",
+            "6. Limits and counterweight in paired table. 7. Nuanced verdict.",
+            "MARKS GRABBER: metric + named institution + mechanism + qualification."
+          ]
+        }
+      ],
+      "mechanism_strip": "MARKS GRABBER: metric + named institution + mechanism + qualification.",
+      "answer_line": "metric + named institution + mechanism + qualification.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 18 — UPSC ANSWER SPINE AND CURRENT INSTITUTIONAL RELEVANCE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "01. CONGRESS EXPERTS COMMITTEE AND PRE-ASSEMBLY PREPARATION",
+          "role": "institution"
+        },
+        {
+          "text": "02. DEEPER COMPOSITION AND REPRESENTATION CONTROLS",
+          "role": "comparison"
+        },
+        {
+          "text": "03. COMMITTEE CHAIR MEMORY MAP AND RELEVANT SUBCOMMITTEES",
+          "role": "evidence"
+        },
+        {
+          "text": "04. DRAFTING INTENSITY AND COMPARATIVE STUDY",
+          "role": "primary"
+        },
+        {
+          "text": "05. CRITIC ATTRIBUTIONS AND EVIDENTIARY CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "06. CONSTITUTIONAL CRAFT, AUTHORITATIVE TEXT AND LABELS",
+          "role": "comparison"
+        },
+        {
+          "text": "07. LIVING CONSTITUTION REFINEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "01. Congress Experts Committee and pre-Assembly preparation",
+            "02. Deeper composition and representation controls",
+            "03. Committee chair memory map and relevant subcommittees",
+            "04. Drafting intensity and comparative study"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "05. Critic attributions and evidentiary caution",
+            "06. Constitutional craft, authoritative text and labels",
+            "07. Living Constitution refinement",
+            "[FACT] Congress appointed an Experts Committee on 8 July 1946 under Jawaharlal Nehru to prepare constitutional material before the Assembly met."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "[FACT] Its membership included Asaf Ali, K.M.",
+            "Munshi, N.",
+            "Gopalaswami Ayyangar, K.T.",
+            "Shah, D.R."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

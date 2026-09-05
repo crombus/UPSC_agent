@@ -1,0 +1,293 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Historical Background of the Indian Constitution: central question and analytical axes
+
+```ascii-master
+HISTORICAL BACKGROUND OF THE INDIAN CONSTITUTION — CONCEPTUAL ATLAS
+
+
+KEY TERMS: The Pre-1773 Corporate State • East India Company charter • Plassey • Buxar •
+KEY TERMS: Diwani • METHOD AND THE PRE-1773 CORPORATE STATE
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Historical Background of the Indian Constitution
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Claim that constitutional regulation followed the accountability…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: METHOD AND THE PRE-1773 CORPORATE STATE
+  • The Pre-1773 Corporate State
+  • Read each statute through four questions: who controlled the…
+AXIS 2: CHARTER ACTS 1833 AND 1853: ALL-INDIA GOVERNMENT, LAW AND CIVIL…
+  • Charter Acts 1833
+  • Compare 1833 and 1853 through institutional function: 1833…
+AXIS 3: BRIDGES TO 1935: SIMON COMMISSION, ROUND TABLES, COMMUNAL AWARD…
+  • Bridges To 1935
+  • Read each statute through four questions: who controlled the…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  The Pre-1773 Corporate State • East India Company charter • Plassey • Buxar
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Company rule, Regulating Act and early parliamentary control
+
+```ascii-master
+COMPANY RULE, REGULATING ACT AND EARLY PARLIAMENTARY CONTROL
+│
+├── KEY CONCEPTS
+│   ├── The Pre-1773 Corporate State
+│   ├── East India Company charter
+│   ├── Plassey
+│   ├── Buxar
+│   └── Diwani
+│
+├── METHOD AND THE PRE-1773 CORPORATE STATE
+│   ├─ TERMS: Claim that constitutional regulation followed the accountability…
+│   ├─ LOGIC: Read each statute through four questions: who controlled the…
+│   └─ RESULT: Do not narrate all eighteenth-century conquest
+├── REGULATING ACT 1773 AND SETTLEMENT ACT 1781
+│   ├─ TERMS: The Regulating Act was Parliament's first major statutory…
+│   ├─ LOGIC: Read each statute through four questions: who controlled the…
+│   └─ RESULT: The statute began centralisation and judicialisation but did not…
+├── PITT'S INDIA ACT 1784, THE 1786 MEASURE AND CHARTER ACT 1793
+│   ├─ TERMS: Pitt's Act did not transfer India to the Crown and did not create…
+│   ├─ LOGIC: Read each statute through four questions: who controlled the…
+│   └─ RESULT: Pitt's Act did not transfer India to the Crown and did not create…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Charter Acts, Crown rule and expanding central administration
+
+```ascii-master
+CHARTER ACTS, CROWN RULE AND EXPANDING CENTRAL ADMINISTRATION
+
+
+KEY TERMS: Charter Acts 1793 • Monopoly • Sovereignty • Education • Company charter and
+KEY TERMS: monopoly renewed • Indian trade opened with exceptions
+STAGE 01  CHARTER ACTS 1793 AND 1813: MONOPOLY, SOVEREIGNTY AND EDUCATION
+  ├─ CONDITION / TERM: The Charter Act 1813 ended the Company's monopoly over
+  ├─ CONDITION / TERM: Indian trade…
+  ├─ CHANGE / MECHANISM: The Charter Act 1813 ended the Company's monopoly over
+  ├─ CHANGE / MECHANISM: Indian trade…
+  └─ OUTCOME: The education grant did not settle the Orientalist-Anglicist…
+                  │
+                  ▼
+STAGE 02  CHARTER ACTS 1833 AND 1853: ALL-INDIA GOVERNMENT, LAW AND CIVIL…
+  ├─ CONDITION / TERM: The Charter Acts 1833 and 1853 completed legislative
+  ├─ CONDITION / TERM: centralisation, ended the Company's commercial character
+  ├─ CONDITION / TERM: and…
+  ├─ CHANGE / MECHANISM: Compare 1833 and 1853 through institutional function:
+  ├─ CHANGE / MECHANISM: 1833 created…
+  └─ OUTCOME: Centralisation, codification and merit rhetoric built a…
+                  │
+                  ▼
+STAGE 03  GOVERNMENT OF INDIA ACT 1858: CROWN RULE AND IMPERIAL ACCOUNTABILITY
+  ├─ CONDITION / TERM: The Government of India Act 1858 replaced dual control with
+  ├─ CONDITION / TERM: direct Crown responsibility, but centralised imperial…
+  ├─ CHANGE / MECHANISM: It ended the Board of Control-Court of Directors system
+  ├─ CHANGE / MECHANISM: and created…
+  └─ OUTCOME: Administrative continuity means 1858 was not a total institutional…
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Councils Acts, representation, dyarchy and constitutional pressure
+
+```ascii-master
+COUNCILS ACTS, REPRESENTATION, DYARCHY AND CONSTITUTIONAL PRESSURE
+
+
+KEY TERMS: Indian Councils Acts 1861 • Association Without Responsibility • Portfolio system
+KEY TERMS: used by Canning • Councils Act • First nominated Indian non-officials • Budget
+KEY TERMS: discussion and questions
+CAUSE / CONDITION 1: The 1861 Act introduced nominated Indian non-officials into…
+          │
+          ├── MECHANISM
+          │   Read each statute through four questions: who controlled the…
+          │
+          └── EFFECT / CONTRAST
+              Discussion and questions did not create confidence responsibility
+          │
+          ▼
+CAUSE / CONDITION 2: The 1909 reforms widened representation by institutionalising…
+          │
+          ├── MECHANISM
+          │   Representation widened while the electorate was segmented by…
+          │
+          └── EFFECT / CONTRAST
+              Assess 1909 as a paradox: widened representative procedure but…
+          │
+          ▼
+CAUSE / CONDITION 3: The 1919 Act introduced provincial dyarchy - responsibility…
+          │
+          ├── MECHANISM
+          │   The Montagu-Chelmsford reforms separated central and provincial…
+          │
+          └── EFFECT / CONTRAST
+              Dyarchy failed because political responsibility was not matched by…
+          │
+          ▼
+CAUSE / CONDITION 4: These events are bridges, not substitutes for studying the…
+          │
+          ├── MECHANISM
+          │   Read each statute through four questions: who controlled the…
+          │
+          └── EFFECT / CONTRAST
+              Use the bridge to show constitutional reform as bargaining under…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Government of India Act 1935: federation, lists and institutions
+
+```ascii-master
+GOVERNMENT OF INDIA ACT 1935: FEDERATION, LISTS AND INSTITUTIONS
+
+
+KEY TERMS: Government Of India Act 1935 • Federation • Lists • Provincial Autonomy • Act
+KEY TERMS: enacted • Provincial autonomy and elections
+CAUSE / CONDITION 1: The 1935 Act proposed an All-India Federation of provinces…
+          │
+          ├── MECHANISM
+          │   Read each statute through four questions: who controlled the…
+          │
+          └── EFFECT / CONTRAST
+              Saying the 1935 federation was established in practice is incorrect
+          │
+          ▼
+CAUSE / CONDITION 2: RBI was constituted under the Reserve Bank of India Act 1934…
+          │
+          ├── MECHANISM
+          │   Read each statute through four questions: who controlled the…
+          │
+          └── EFFECT / CONTRAST
+              RBI was constituted under the Reserve Bank of India Act 1934 and…
+          │
+          ▼
+CAUSE / CONDITION 3: The 1947 Act ended British rule, created the Dominions of…
+          │
+          ├── MECHANISM
+          │   Read each statute through four questions: who controlled the…
+          │
+          └── EFFECT / CONTRAST
+              Do not claim princely states automatically became part of India on…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Independence, thematic continuities and rupture into 1950
+
+```ascii-master
+INDEPENDENCE, THEMATIC CONTINUITIES AND RUPTURE INTO 1950
+
+
+KEY TERMS: Thematic Evolution • Legislature • Executive • Judiciary • Services • Finance
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: The Constitution retained forms but changed source, limits and…
+  ├─ RESPONSE / CONTROL: Read each statute through four questions: who controlled
+  ├─ RESPONSE / CONTROL: the…
+  └─ QUALIFIED VERDICT: Use a strand answer when the question asks evolution…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: Wrong: Indian pressure had no role because Britain enacted the…
+  ├─ RESPONSE / CONTROL: 'Colonial constitutionalism' means rule increasingly
+  ├─ RESPONSE / CONTROL: channelled…
+  └─ QUALIFIED VERDICT: Do not convert analytical motive claims into quotations or
+  └─ QUALIFIED VERDICT: precise…
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Thesis: colonial statutes built the machinery of a centralised…
+  ├─ RESPONSE / CONTROL: Use the formula: structural continuity plus normative
+  ├─ RESPONSE / CONTROL: rupture…
+  └─ QUALIFIED VERDICT: The Constitution retained a large administrative and
+  └─ QUALIFIED VERDICT: federal…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Historical Background of the Indian Constitution: traps, PYQ routes and applied recall
+
+```ascii-master
+HISTORICAL BACKGROUND OF THE INDIAN CONSTITUTION: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: The Pre-1773 Corporate State • East India Company charter • Plassey • Buxar •
+KEY TERMS: Diwani • METHOD AND THE PRE-1773 CORPORATE STATE
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── These events are background, not constitutional statutes
+├── crown proclamations of non-interference and equal treatment must be…
+├── the Federal List had 59, Provincial List 54 and Concurrent List 36…
+├── Thesis: colonial statutes built the machinery of a centralised…
+│
+├── PYQ provenance audit
+├── Direct Mains PYQ finding: none in the audited local historical-background…
+├── PYQ 1
+├── Teaching and analysis
+│
+└── The historical background of the Constitution is the gradual…
+└── The 1919 Act introduced provincial dyarchy - responsibility without…
+└── The Constitution retained and transformed colonial machinery…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Historical Background of the Indian Constitution: integrated revision and answer-writing…
+
+```ascii-master
+HISTORICAL BACKGROUND OF THE INDIAN CONSTITUTION — ANSWER / REVISION SPINE
+
+
+KEY TERMS: The Pre-1773 Corporate State • East India Company charter • Plassey • Buxar •
+KEY TERMS: Diwani • METHOD AND THE PRE-1773 CORPORATE STATE
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Claim that constitutional regulation followed the accountability…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ The Pre-1773 Corporate State
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ It ended the Board of Control-Court of Directors system and created…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Plassey
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Thesis: colonial statutes built the machinery of a centralised…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ The Constitution retained and transformed colonial machinery…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

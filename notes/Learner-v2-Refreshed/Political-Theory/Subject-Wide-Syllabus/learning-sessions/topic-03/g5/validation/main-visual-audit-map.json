@@ -1,0 +1,463 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 22,
+      "markdown_body_line_end": 27,
+      "heading": "SESSION 1 - The Liberal Family and Its Core Vocabulary",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Classical vs welfare liberalism; Hayek/Friedman/",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 452.891
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 299.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 32,
+      "markdown_body_line_end": 46,
+      "heading": "1. One-screen conceptual map",
+      "preview": "LIBERALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 274.724
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 133.724
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 57,
+      "markdown_body_line_end": 65,
+      "heading": "3. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 690.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 349.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 87,
+      "heading": "5. Essential distinctions",
+      "preview": "Distinction | What to say precisely",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Distinction",
+          "What to say precisely"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 467.49
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 102,
+      "heading": "6. Thinkers and positions",
+      "preview": "Thinker | Position in brief",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Thinker",
+          "Position in brief"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 410.99
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 159.588
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 222,
+      "markdown_body_line_end": 228,
+      "heading": "17. Qualified answer thesis and directive-specific decoding",
+      "preview": "Directive | What it demands here | Trap to avoid",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Directive",
+          "What it demands here",
+          "Trap to avoid"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 515.89
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1142,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owner is Social and Political Ideals. They are not re-routed to Political Theory; they are included because this topic provides a directly ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 390.991
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 332.124
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1144,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 332.124
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 301.656
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1182,
+      "heading": "Solved PYQ 1 - 2021 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes the historical/patterned distinction, uses Wilt Chamberlain as argument (not decoration), and lands the critique on acquisition/rectification.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 487.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 395.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1186,
+      "markdown_body_line_end": 1186,
+      "heading": "Solved PYQ 1 - 2021 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 392.924
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 362.456
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1225,
+      "markdown_body_line_end": 1227,
+      "heading": "Solved PYQ 2 - 2025 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it lists Mill's features precisely, foregrounds the feminist argument and the individuality proviso, and states the structural limit rather than over-claiming.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 459.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 381.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1387,
+      "markdown_body_line_end": 1392,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Classical vs welfare liberalism; Hayek/Friedman/Nozick neoli",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 221.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 105.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1412,
+      "heading": "1. One-screen advanced map",
+      "preview": "LIBERAL FAMILY",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 634.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1442,
+      "heading": "4. Definitions and distinctions",
+      "preview": "Concept | Advanced clarification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Advanced clarification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 566.29
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1445,
+      "markdown_body_line_end": 1456,
+      "heading": "5. Thinker-by-thinker positions",
+      "preview": "Thinker | Position to retain",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Thinker",
+          "Position to retain"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 541.29
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 181.488
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1459,
+      "markdown_body_line_end": 1464,
+      "heading": "6. Competing perspectives",
+      "preview": "Perspective | Core claim | Main tension",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Perspective",
+          "Core claim",
+          "Main tension"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 604.29
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1568,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 173.89
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    }
+  ]
+}

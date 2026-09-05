@@ -1,0 +1,151 @@
+ASCII MASTER FLOW — PANEL 1/9: 1934-1946: the route to a constitution-making body
+1934  M.N. Roy advances the Constituent Assembly idea
+  |
+1935  Congress formally demands a body elected on adult franchise
+  |
+1938  Nehru: Constitution must be framed without outside interference
+  |
+1940  August Offer accepts the principle of Indian constitution-making
+  |
+1942  Cripps proposal offers post-war constitution-making
+  |
+1946  Cabinet Mission supplies the operative scheme
+       +-- indirectly elected provincial representatives
+       +-- princely-state nominees
+       +-- community allocation within provincial seats
+       +-- population ratio broadly one seat per million
+
+SHIFT: nationalist claim -> British concession -> negotiated institutional design.
+
+ASCII MASTER FLOW — PANEL 2/9: Composition changed with Partition; authority changed with Independence
+CABINET MISSION PLAN: TOTAL 389
+  +-- British Indian provinces 292
+  +-- Chief Commissioners' provinces 4
+  +-- princely states 93
+        |
+PARTITION: members from areas assigned to Pakistan withdraw
+        |
+RECONSTITUTED ASSEMBLY: 299
+  +-- provinces 229
+  +-- princely states 70
+
+9 Dec 1946: first sitting under Cabinet Mission framework
+15 Aug 1947: sovereign constitution-maker + Dominion legislature
+26 Nov 1949: Constitution adopted
+26 Jan 1950: provisional Parliament role begins under the Constitution
+
+TRAP: indirect election limits representativeness; it does not erase legal authorship.
+
+ASCII MASTER FLOW — PANEL 3/9: Committee architecture: distributed authorship, not seven-person mythology
+CONSTITUENT ASSEMBLY
+  +-- Union Powers Committee — Jawaharlal Nehru
+  +-- Union Constitution Committee — Jawaharlal Nehru
+  +-- Provincial Constitution Committee — Vallabhbhai Patel
+  +-- Advisory Committee — Vallabhbhai Patel
+  |     +-- Fundamental Rights Sub-Committee — J.B. Kripalani
+  |     +-- Minorities Sub-Committee — H.C. Mookherjee
+  +-- Drafting Committee — B.R. Ambedkar
+        +-- converts decisions and reports into coherent clauses
+
+B.N. RAU: comparative research -> initial draft -> technical advice
+ASSEMBLY: committee report -> debate -> amendment -> vote -> adopted text
+
+ASCII MASTER FLOW — PANEL 4/9: Drafting pipeline from Objectives Resolution to commencement
+13 DEC 1946  Objectives Resolution moved
+22 JAN 1947  Resolution adopted
+      |
+committee reports + B.N. Rau draft
+      |
+29 AUG 1947  Drafting Committee appointed
+      |
+FEB 1948  Draft Constitution published for comments
+OCT 1948  revised draft
+      |
+READING 1: general discussion
+READING 2: clause-by-clause debate and amendments
+READING 3: final consideration and passage
+      |
+26 NOV 1949  adopted, enacted and given to ourselves
+24 JAN 1950  final signing
+26 JAN 1950  remaining provisions commence
+
+ASCII MASTER FLOW — PANEL 5/9: Debate map: rights, federalism, executive and social revolution
+CONSTITUTIONAL CHOICE
+  +-- RIGHTS: liberty + equality + remedies
+  |     versus preventive powers, public order and social reform
+  +-- FEDERALISM: provincial autonomy
+  |     versus Partition-era need for an effective Union
+  +-- EXECUTIVE: parliamentary responsibility
+  |     versus fear of instability and concentrated leadership
+  +-- MINORITIES: cultural and educational protection
+  |     versus rejection of separate political electorates
+  +-- SOCIAL REVOLUTION
+        enforceable rights + Directive Principles + affirmative action
+
+RESULT: political democracy was joined to an unfinished social transformation.
+
+ASCII MASTER FLOW — PANEL 6/9: Borrowed provisions became Indian constitutional adaptations
+SOURCE                INDIAN ADAPTATION
+United Kingdom        cabinet responsibility + parliamentary government
+United States         Fundamental Rights + judicial review + impeachment ideas
+Ireland               Directive Principles + presidential nomination method
+Canada                federation with strong Centre + residuary Union power
+Australia             Concurrent List + trade provisions + joint sitting
+Germany               Emergency ideas, constitutionally recast
+South Africa          amendment elements + Rajya Sabha election method
+GoI Act 1935          machinery stripped of imperial sovereignty
+
+TEST: borrowed device + Indian problem + altered setting = Indian constitutional rule
+VERDICT: sources supplied techniques; the Assembly supplied hierarchy and legitimacy.
+
+ASCII MASTER FLOW — PANEL 7/9: Criticism and evidence-led reply
+OBJECTION: no universal adult-franchise election
+  -> indirect and limited, yet politically diverse and publicly deliberative
+OBJECTION: Congress domination
+  -> organisation enabled coordination; committees and dissent shaped outcomes
+OBJECTION: lawyer-made and over-legal
+  -> precision mediated federal, rights and transition conflicts
+OBJECTION: copied Constitution
+  -> borrowing was selective, recombined and India-specific
+OBJECTION: social under-representation
+  -> real exclusions remain; women, minorities, Dalits and regions still intervened
+OBJECTION: excessive time
+  -> 2 years, 11 months, 18 days covered Partition, integration and clause scrutiny
+
+VERDICT: legitimacy rests on process quality and constitutional performance.
+
+ASCII MASTER FLOW — PANEL 8/9: Debates, original intent and the living text
+INTERPRETIVE ORDER
+  1. constitutional text
+  2. structure and settled doctrine
+  3. purpose and historical context
+  4. Constituent Assembly Debates as persuasive evidence
+
+DEBATES CAN
+  +-- reveal the mischief addressed
+  +-- clarify rejected alternatives
+  +-- illuminate institutional purpose
+
+DEBATES CANNOT
+  +-- override enacted words
+  +-- freeze broad guarantees in 1949 expectations
+  +-- convert one speaker's view into collective intent
+
+Original understanding disciplines interpretation; constitutional supremacy permits growth.
+
+ASCII MASTER FLOW — PANEL 9/9: Exact 10/15-mark architecture: was the Assembly representative and original?
+10 MARKS / 150 WORDS
+1. State Cabinet Mission basis and indirect-election limitation.
+2. Give 389 -> 299 change and 15 August sovereignty shift.
+3. Show committees, Rau, Drafting Committee and full Assembly.
+4. Test one criticism against one process fact.
+5. Conclude: imperfect social representation, substantial deliberative authorship.
+
+15 MARKS / 250 WORDS
+1. Trace demand from 1934 to Cabinet Mission 1946.
+2. Explain composition, Partition and dual legislative role.
+3. Map Resolution -> committees -> draft -> three readings.
+4. Use two debate clusters and one adaptation example.
+5. Evaluate dominance, exclusions, time and legalism.
+6. Distinguish persuasive debates from supreme enacted text.
+7. Conclude with negotiated legitimacy, not hero-centred authorship.

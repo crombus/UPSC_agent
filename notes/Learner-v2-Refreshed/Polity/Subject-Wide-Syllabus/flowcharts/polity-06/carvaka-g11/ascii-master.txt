@@ -1,0 +1,335 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Citizenship: central question and analytical axes
+
+```ascii-master
+CITIZENSHIP — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Citizenship As Legal Membership • Citizen • Alien • The Constitutional Rights Map
+KEY TERMS: • persons • CITIZENSHIP AS LEGAL MEMBERSHIP…
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Citizenship
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       India's rights map follows constitutional text, not a…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: CITIZENSHIP AS LEGAL MEMBERSHIP: CITIZEN, ALIEN AND THE…
+  • Citizenship As Legal Membership
+  • Naturalised and registered citizens are not constitutionally…
+AXIS 2: ARTICLE 9 - THE COMMENCEMENT-CONTEXT FOREIGN-CITIZENSHIP…
+  • Article 9 - The Commencement-Context Foreign-Citizenship…
+  • Article 9 says that no person shall be a citizen of India by…
+AXIS 3: CITIZENSHIP BY INCORPORATION OF TERRITORY
+  • Citizenship By Incorporation Of Territory
+  • This is a collective, territory-linked route, unlike an…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Citizenship As Legal Membership • Citizen • Alien • The Constitutional Rights Map
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Legal membership, domicile, single citizenship and Articles 5–11
+
+```ascii-master
+LEGAL MEMBERSHIP, DOMICILE, SINGLE CITIZENSHIP AND ARTICLES 5–11
+│
+
+KEY TERMS: Citizenship As Legal Membership • Citizen • Alien • The Constitutional Rights Map
+KEY TERMS: • persons • CITIZENSHIP AS LEGAL MEMBERSHIP…
+├── KEY CONCEPTS
+│   ├── Citizenship As Legal Membership
+│   ├── Citizen
+│   ├── Alien
+│   ├── The Constitutional Rights Map
+│   └── persons
+│
+├── CITIZENSHIP AS LEGAL MEMBERSHIP: CITIZEN, ALIEN AND THE…
+│   ├─ TERMS: India's rights map follows constitutional text, not a…
+│   ├─ LOGIC: Naturalised and registered citizens are not constitutionally…
+│   └─ RESULT: An alien is a person who is not an Indian citizen
+├── CITIZENSHIP, DOMICILE AND RESIDENCE - AND WHY INDIA STILL HAS…
+│   ├─ TERMS: Close-option rule: Citizenship is membership
+│   ├─ LOGIC: Single citizenship serves integration and equal political…
+│   └─ RESULT: The expression "State domicile" is often used administratively,
+│   └─ RESULT: but…
+├── WHY ARTICLES 5-11 ARE TRANSITIONAL, BUT NOT UNIMPORTANT
+│   ├─ TERMS: Articles 5-8 identified citizens at commencement, Article 9…
+│   ├─ LOGIC: But current acquisition and loss are mainly controlled by the…
+│   └─ RESULT: Part II of the Constitution does not create a complete permanent…
+├── ARTICLE 5 - DOMICILE PLUS ONE OF THREE CONNECTING FACTORS
+│   ├─ TERMS: Trap: Article 5 did not say "anyone residing for five years became…
+│   ├─ LOGIC: Trap: Article 5 did not say "anyone residing for five years became…
+│   └─ RESULT: the person was born in the territory of India
+├── ARTICLE 6 - MIGRANTS FROM PAKISTAN AND THE 19 JULY 1948 DIVIDE
+│   ├─ TERMS: Trap: The six-month period does not replace the requirement that…
+│   ├─ LOGIC: Trap: The six-month period does not replace the requirement that…
+│   └─ RESULT: the six-month period does not replace the requirement that the…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Partition migration rules, overseas origin and parliamentary power
+
+```ascii-master
+PARTITION MIGRATION RULES, OVERSEAS ORIGIN AND PARLIAMENTARY POWER
+
+
+KEY TERMS: The Permit-Return Exception • after 1 March 1947 • resettlement or permanent
+KEY TERMS: return • Article 7 • Article 6 • Article
+STAGE 01  ARTICLE 7 - MIGRATION TO PAKISTAN AFTER 1 MARCH 1947 AND THE…
+  ├─ CONDITION / TERM: Article 7 is not a simple permanent ban on every returnee
+  ├─ CHANGE / MECHANISM: For Article 6(b), that person is treated as having
+  ├─ CHANGE / MECHANISM: migrated to…
+  └─ OUTCOME: Article 7 is not a simple permanent ban on every returnee
+                  │
+                  ▼
+STAGE 02  ARTICLE 8 - PERSONS OF INDIAN ORIGIN ORDINARILY RESIDENT OUTSIDE INDIA
+  ├─ CONDITION / TERM: Article 8 covers a person ordinarily residing outside India
+  ├─ CONDITION / TERM: if that…
+  ├─ CHANGE / MECHANISM: Article 8 is the Constitution's original diaspora bridge
+  └─ OUTCOME: It should not be confused with modern OCI, which is a statutory…
+                  │
+                  ▼
+STAGE 03  ARTICLE 9 - THE COMMENCEMENT-CONTEXT FOREIGN-CITIZENSHIP DISQUALIFIER
+  ├─ CONDITION / TERM: The present single-citizenship result is produced by
+  ├─ CONDITION / TERM: Article 9 read…
+  ├─ CHANGE / MECHANISM: Article 9 says that no person shall be a citizen of India
+  ├─ CHANGE / MECHANISM: by virtue…
+  └─ OUTCOME: It should not be quoted as if it alone is a self-executing…
+                  │
+                  ▼
+STAGE 04  ARTICLE 10 - CONTINUANCE SUBJECT TO PARLIAMENTARY LAW
+  ├─ CONDITION / TERM: Article 10 protects continuity but expressly rejects
+  ├─ CONDITION / TERM: immutability
+  ├─ CHANGE / MECHANISM: Citizenship can be regulated or lost under a valid
+  ├─ CHANGE / MECHANISM: parliamentary law
+  └─ OUTCOME: Article 10 protects continuity but expressly rejects immutability
+                  │
+                  ▼
+STAGE 05  ARTICLE 11 - PARLIAMENT'S CITIZENSHIP POWER
+  ├─ CONDITION / TERM: Article 11 declares that the preceding provisions do not
+  ├─ CONDITION / TERM: detract…
+  ├─ CHANGE / MECHANISM: Citizenship is therefore a constitutional status
+  ├─ CHANGE / MECHANISM: predominantly…
+  └─ OUTCOME: That does not make citizenship decisions immune from Articles 14…
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Citizenship Act modes: birth, descent, registration and naturalisation
+
+```ascii-master
+CITIZENSHIP ACT MODES: BIRTH, DESCENT, REGISTRATION AND NATURALISATION
+
+
+KEY TERMS: Citizenship Act • B-D-R-N-I • R-T-D • 1955 - The Statutory Architecture •
+KEY TERMS: CITIZENSHIP ACT, 1955 - THE STATUTORY… • Citizenship By Birth - Three Periods
+CAUSE / CONDITION 1: The Citizenship Act, 1955 creates five acquisition…
+          │
+          ├── MECHANISM
+          │   "Illegal migrant" is a defined statutory category
+          │
+          └── EFFECT / CONTRAST
+              the Citizenship Act, 1955 creates five acquisition routes—birth…
+          │
+          ▼
+CAUSE / CONDITION 2: A birth certificate proves facts of birth
+          │
+          ├── MECHANISM
+          │   A birth certificate proves facts of birth
+          │
+          └── EFFECT / CONTRAST
+              a birth where a parent possessed diplomatic immunity as an…
+          │
+          ▼
+CAUSE / CONDITION 3: The descent route shows why parentage, date, registration and…
+          │
+          ├── MECHANISM
+          │   A minor who is an Indian citizen by descent and also a citizen of…
+          │
+          └── EFFECT / CONTRAST
+              For the post-3 December 2004 period, the statutory application is…
+          │
+          ▼
+CAUSE / CONDITION 4: Marriage creates eligibility for a statutory application route
+          │
+          ├── MECHANISM
+          │   Marriage creates eligibility for a statutory application route
+          │
+          └── EFFECT / CONTRAST
+              Section 5 is discretionary ("may register") and excludes an illegal…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Loss, Assam/Section 6A, NRC and constitutional review
+
+```ascii-master
+LOSS, ASSAM/SECTION 6A, NRC AND CONSTITUTIONAL REVIEW
+
+
+KEY TERMS: Citizenship By Naturalisation - Third… • Waiver • The Caa Modification •
+KEY TERMS: aggregate eleven years • five years • High-value trap
+CAUSE / CONDITION 1: High-value trap: "CAA reduces naturalisation to five years"…
+          │
+          ├── MECHANISM
+          │   For the CAA-specified class, the Third Schedule's aggregate eleven…
+          │
+          └── EFFECT / CONTRAST
+              High-value trap: "CAA reduces naturalisation to five years" is…
+          │
+          ▼
+CAUSE / CONDITION 2: The Citizenship (Pondicherry) Order, 1962 is the standard…
+          │
+          ├── MECHANISM
+          │   This is a collective, territory-linked route, unlike an individual…
+          │
+          └── EFFECT / CONTRAST
+              this is a collective, territory-linked route, unlike an individual…
+          │
+          ▼
+CAUSE / CONDITION 3: The common shorthand "deprivation applies to registered and…
+          │
+          ├── MECHANISM
+          │   Citizens by birth and descent do not fall within Section 10(1)'s…
+          │
+          └── EFFECT / CONTRAST
+              The Central Government must also be satisfied that continued…
+          │
+          ▼
+CAUSE / CONDITION 4: Section 6A was inserted by the Citizenship (Amendment) Act…
+          │
+          ├── MECHANISM
+          │   Section 6A was inserted by the Citizenship (Amendment) Act, 1985 to…
+          │
+          └── EFFECT / CONTRAST
+              The familiar Assam/NRC cut-off is midnight of 24 March 1971…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: OCI/PIO, CAA, Article 14 and citizenship-proof traps
+
+```ascii-master
+OCI/PIO, CAA, ARTICLE 14 AND CITIZENSHIP-PROOF TRAPS
+
+
+KEY TERMS: Oci • Pio Evolution - Diaspora Connection… • not Indian citizenship • foreigner •
+KEY TERMS: 2000-2002 • OCI AND PIO EVOLUTION - DIASPORA…
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: nRI describes a citizen's residence position
+  ├─ RESPONSE / CONTROL: A person who, or whose
+  ├─ RESPONSE / CONTROL: parent/grandparent/great-grandparent, is or…
+  └─ QUALIFIED VERDICT: OCI is not Indian citizenship, not dual citizenship and
+  └─ QUALIFIED VERDICT: not a…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: 31 December 2024 now appears in an immigration exemption
+  ├─ RESPONSE / CONTROL: belongs to the Hindu, Sikh, Buddhist, Jain, Parsi or
+  ├─ RESPONSE / CONTROL: Christian…
+  └─ QUALIFIED VERDICT: This confirms operation
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Legislative classification need not solve every hardship at once
+  ├─ RESPONSE / CONTROL: Because secularism is a basic feature, critics argue that
+  ├─ RESPONSE / CONTROL: a…
+  └─ QUALIFIED VERDICT: The exam-safe conclusion is neither "obviously valid" nor
+  └─ QUALIFIED VERDICT: "already…
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: india does not use one universal card that proves every route of…
+  ├─ RESPONSE / CONTROL: The relevant legal route determines the evidence: birth
+  ├─ RESPONSE / CONTROL: and…
+  └─ QUALIFIED VERDICT: india does not use one universal card that proves every
+  └─ QUALIFIED VERDICT: route of…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Citizenship: traps, PYQ routes and applied recall
+
+```ascii-master
+CITIZENSHIP: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Citizenship As Legal Membership • Citizen • Alien • The Constitutional Rights Map
+KEY TERMS: • persons • CITIZENSHIP AS LEGAL MEMBERSHIP…
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── "Only citizens possess fundamental rights." Wrong
+├── article 10 protects continuity but expressly rejects immutability
+├── this is a collective, territory-linked route, unlike an individual…
+├── Registration: marriage/ancestry/OCI creates eligibility, not…
+│
+├── PYQ provenance audit
+├── PYQ Verification status Treatment
+├── located no additional genuinely direct Citizenship PYQ and no direct Mains…
+├── PYQ 1
+│
+└── Citizenship is the legally recognised membership of the Indian…
+└── The descent route shows why parentage, date, registration and…
+└── Prelims Close-Option Laboratory comprises Articles 5-11, Article 5…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Citizenship: integrated revision and answer-writing spine
+
+```ascii-master
+CITIZENSHIP — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Citizenship As Legal Membership • Citizen • Alien • The Constitutional Rights Map
+KEY TERMS: • persons • CITIZENSHIP AS LEGAL MEMBERSHIP…
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ India's rights map follows constitutional text, not a…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Citizenship As Legal Membership
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Citizenship can be regulated or lost under a valid parliamentary law
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Alien
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Registration: marriage/ancestry/OCI creates eligibility, not…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Prelims Close-Option Laboratory comprises Articles 5-11, Article 5…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

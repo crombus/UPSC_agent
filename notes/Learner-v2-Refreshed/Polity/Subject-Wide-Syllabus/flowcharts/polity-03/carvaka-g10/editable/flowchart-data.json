@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-03",
+  "generation": 10,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g10\\polity-03_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    19659
+  ],
+  "stages": [
+    {
+      "title": "WHAT COUNTS AS A SALIENT CONSTITUTIONAL FEATURE",
+      "terms": "Do not equate every salient feature with the judicial basic-structure doctrine.",
+      "mechanism": "A salient feature is a recurring design characteristic that explains how the constitutional order is organised, limited and directed; it is wider than one provision and narrower than the Constitution as a whole.",
+      "consequence": "'Salient features' is a teaching classification, not a closed constitutional schedule.",
+      "trap": "Salient features should be explained as relationships: written detail supports legal certainty; federal distribution accommodates territory; parliamentary responsibility links executive power to representation; rights and review limit public power.",
+      "answer": "A salient constitutional feature is a system-level design characteristic produced by the interaction of provisions, institutions, values and practice."
+    },
+    {
+      "title": "WRITTEN, LENGTHY AND DETAILED CONSTITUTION",
+      "terms": "India has a written, comprehensive and unusually detailed Constitution because it combines fundamental rules with substantial administrative design for a vast and diverse Union.",
+      "mechanism": "India has a written, comprehensive and unusually detailed Constitution because it combines fundamental rules with substantial administrative design for a vast and diverse Union.",
+      "consequence": "Caption: Detail can secure clarity and accommodation, but it also raises complexity.",
+      "trap": "'Lengthiest' is a comparative textbook description, not a licence to quote an unsourced current Article count.",
+      "answer": "India's written detail is an accommodation device: it constitutionalises diversity and administration, while remaining dependent on conventions, interpretation and implementation."
+    },
+    {
+      "title": "BORROWED SOURCES AS ADAPTATION, NOT COPYING",
+      "terms": "The Constitution drew from multiple constitutional traditions and the 1935 Act, but the exam-worthy point is selective adaptation to Indian conditions rather than a catalogue of foreign origins.",
+      "mechanism": "The structural part was strongly influenced by the Government of India Act, 1935; the philosophical parts drew notably on American rights and Irish directive principles; executive-legislative relations drew on the British model.",
+      "consequence": "The Constitution drew from multiple constitutional traditions and the 1935 Act, but the exam-worthy point is selective adaptation to Indian conditions rather than a catalogue of foreign origins.",
+      "trap": "Caption: Comparison explains design choices; it is not a trivia catalogue.",
+      "answer": "The Constitution is borrowed in ancestry but original in design because the framers selected, adapted and rejected foreign devices to serve Indian conditions."
+    },
+    {
+      "title": "BLEND OF RIGIDITY AND FLEXIBILITY",
+      "terms": "Article 368 supplies constituent power and procedure, but some changes described as constitutional amendments lie outside Article 368 and use simple majority.",
+      "mechanism": "Article 368 supplies constituent power and procedure, but some changes described as constitutional amendments lie outside Article 368 and use simple majority.",
+      "consequence": "The basic-structure doctrine creates a tension between democratic updating and constitutional identity: amendment is broad, not destructive.",
+      "trap": "Basic structure is not a textual schedule and has no exhaustive closed list.",
+      "answer": "India is neither as flexible as the classic British model nor as rigid as the United States model."
+    },
+    {
+      "title": "FEDERAL SYSTEM WITH CENTRALISING, COOPERATIVE AND ASYMMETRIC DIMENSIONS",
+      "terms": "Correct: It has a constitutionally distributed federal structure with centralising features.",
+      "mechanism": "India is a federation in structure with constitutionally strong Union capacity; its operation also includes cooperative, competitive and asymmetric forms of federalism.",
+      "consequence": "Article 1 calls India a 'Union of States'; the Constitution does not use 'Federation'.",
+      "trap": "The Union was not created by a compact among sovereign States, and States have no right to secede.",
+      "answer": "Indian federalism distributes power to accommodate diversity, but retains centralising, cooperative and asymmetric devices so the Union can coordinate without erasing the States."
+    },
+    {
+      "title": "PARLIAMENTARY GOVERNMENT AND RESPONSIBLE EXECUTIVE",
+      "terms": "Cross-link: Owner links: Parliamentary System (11), President (15), PM and Council (16), Parliament (17).",
+      "mechanism": "Parliamentary government favours coordination and responsiveness, but executive dominance can arise when the ministry controls a disciplined legislative majority.",
+      "consequence": "Do not call the President merely ceremonial in every context.",
+      "trap": "Indian Parliament is not sovereign like Westminster.",
+      "answer": "Parliamentary government makes the executive continuously responsible to the elected lower House, although disciplined majorities can turn legislative confidence into executive dominance."
+    },
+    {
+      "title": "A. SYNTHESIS OF PARLIAMENTARY POWER, JUDICIAL REVIEW AND CONSTITUTIONAL SUPREMACY",
+      "terms": "Articles 13, 32 and 226 make constitutional limits enforceable; Article 368 supplies broad amendment power.",
+      "mechanism": "Wrong: Parliament is sovereign because it can amend the Constitution.",
+      "consequence": "Caption: Parliament and courts exercise constitutionally assigned powers; the Constitution remains supreme.",
+      "trap": "Articles 13, 32 and 226 make constitutional limits enforceable; Article 368 supplies broad amendment power.",
+      "answer": "The exam-safe formulation is constitutional supremacy enforced partly through judicial review."
+    },
+    {
+      "title": "SEPARATION OF POWERS THROUGH CHECKS AND BALANCES",
+      "terms": "Courts are bound by text, precedent, reasons, jurisdiction and institutional limits.",
+      "mechanism": "Courts are bound by text, precedent, reasons, jurisdiction and institutional limits.",
+      "consequence": "India does not adopt strict separation; it differentiates core functions while permitting overlap and reciprocal checks.",
+      "trap": "Ram Jawaya Kapur (1955) recognised that the Constitution does not contemplate a rigid separation, though functions are sufficiently differentiated.",
+      "answer": "India separates core functions without isolating organs; constitutional overlaps are legitimate only when reciprocal checks prevent concentration of power."
+    },
+    {
+      "title": "CONSTITUTIONAL SUPREMACY, RULE OF LAW AND LIMITED GOVERNMENT",
+      "terms": "Wrong: Rule of law means any action backed by statute is valid.",
+      "mechanism": "Wrong: Rule of law means any action backed by statute is valid.",
+      "consequence": "Parliamentary majority is democratic evidence, not a waiver of constitutional limits.",
+      "trap": "Caption: Parliament is powerful but not sovereign in the British sense.",
+      "answer": "Constitutional supremacy converts political power into legally bounded authority: every organ must show competence, fair procedure and respect for enforceable rights."
+    },
+    {
+      "title": "INDEPENDENT, INTEGRATED JUDICIARY AND JUDICIAL REVIEW",
+      "terms": "An integrated and independent judiciary supplies national legal unity and makes constitutional supremacy effective through review and remedies.",
+      "mechanism": "India has one integrated judicial hierarchy administering Union and State law, designed to remain institutionally independent and to enforce constitutional supremacy.",
+      "consequence": "Judicial independence is institutional impartiality, not absence of accountability, criticism or constitutional limits.",
+      "trap": "This package does not duplicate appointments, jurisdiction, PIL, activism or tribunal doctrine; those belong to judicial owner topics.",
+      "answer": "An integrated and independent judiciary supplies national legal unity and makes constitutional supremacy effective through review and remedies."
+    },
+    {
+      "title": "RIGHTS, DIRECTIVE PRINCIPLES AND DUTIES AS NORMATIVE ARCHITECTURE",
+      "terms": "Fundamental Rights restrain power, Directive Principles direct social transformation and Fundamental Duties express civic responsibility; constitutional balance requires harmony without erasing their different legal status.",
+      "mechanism": "Fundamental Duties were added by the 42nd Amendment, with an additional duty later added by the 86th Amendment.",
+      "consequence": "Do not turn DPSP into directly enforceable rights or Duties into free-standing penal offences.",
+      "trap": "Minerva Mills (1980) treats harmony between Fundamental Rights and Directive Principles as central to constitutional balance.",
+      "answer": "Fundamental Rights restrain power, Directive Principles direct social transformation and Fundamental Duties express civic responsibility; constitutional balance requires harmony without erasing their different legal status."
+    },
+    {
+      "title": "SECULAR, SOCIALIST, DEMOCRATIC REPUBLIC; DIGNITY AND FRATERNITY",
+      "terms": "Socialist and welfare orientation is expressed through distributive and social-justice goals, not through constitutional freezing of a particular policy instrument.",
+      "mechanism": "Socialist and welfare orientation is expressed through distributive and social-justice goals, not through constitutional freezing of a particular policy instrument.",
+      "consequence": "Dignity links liberty and equality at the level of the person; fraternity connects them to social solidarity and national unity.",
+      "trap": "Wrong: 'Secular' and 'socialist' first became constitutional ideas in 1976.",
+      "answer": "India is a sovereign socialist secular democratic republic; the words 'socialist', 'secular' and 'integrity' were inserted in the Preamble by the 42nd Amendment in 1976, while related constitutional commitments pre-dated the insertion."
+    },
+    {
+      "title": "UNIVERSAL ADULT FRANCHISE, REPRESENTATIVE DEMOCRACY AND BICAMERALISM",
+      "terms": "Correct: It was 21, reduced to 18 by the 61st Amendment.",
+      "mechanism": "Representative democracy converts popular sovereignty into periodic authorisation, deliberation, law-making and accountability.",
+      "consequence": "Rajya Sabha is a federal chamber, but it does not reproduce the equal-State representation of the United States Senate.",
+      "trap": "Cross-link: Owner links: Parliament (17), Election Commission (27), Representation/election-law material.",
+      "answer": "Adopting universal franchise amid poverty, inequality and low literacy was a transformative commitment to political equality, not a later reward for social development."
+    },
+    {
+      "title": "SINGLE CITIZENSHIP, ADMINISTRATIVE/LEGAL UNITY AND ALL-INDIA SERVICES",
+      "terms": "Single citizenship, integrated courts and All-India Services create administrative and legal unity within, not instead of, a federal polity.",
+      "mechanism": "All-India Services are a distinctive bridge: officers are recruited through a common system and serve under both Union and State arrangements.",
+      "consequence": "Single citizenship supports mobility, common political identity and equal civil membership; it does not erase India's linguistic, cultural or State identities.",
+      "trap": "Unlike the United States model of dual citizenship, the Constitution provides single Indian citizenship despite a dual polity.",
+      "answer": "Single citizenship, integrated courts and All-India Services create administrative and legal unity within, not instead of, a federal polity."
+    },
+    {
+      "title": "INDEPENDENT CONSTITUTIONAL BODIES AND ACCOUNTABILITY ECOSYSTEM",
+      "terms": "The CAG is conventionally described as guardian of the public purse; the Election Commission anchors electoral integrity; Public Service Commissions support merit; Finance Commissions structure vertical and horizontal fiscal recommendations.",
+      "mechanism": "These are constitutional bodies, unlike institutions created only by statute or executive resolution.",
+      "consequence": "The Constitution disperses integrity functions among specialised bodies so elections, audit, recruitment and fiscal distribution are not left to the ordinary executive alone.",
+      "trap": "Do not call every 'commission' constitutional or every constitutional body a court.",
+      "answer": "Independent constitutional bodies disperse integrity functions outside ordinary executive control, but functional independence must coexist with transparency, reasons and review."
+    },
+    {
+      "title": "EMERGENCY PROVISIONS AND CONSTITUTIONAL MODES",
+      "terms": "Emergency provisions permit temporary constitutional centralisation for crisis management, but they do not authorise permanent unitary rule or extra-constitutional government.",
+      "mechanism": "Emergency provisions allow exceptional centralisation and altered rights/fiscal operation under specified conditions; they are constitutional powers subject to textual procedure and post-1975 safeguards.",
+      "consequence": "Caption: Emergency provisions alter operating balance; they do not erase constitutional limits.",
+      "trap": "The central tension is survival versus abuse: emergency power may protect constitutional order, but it can also suppress opposition, liberty and federal autonomy.",
+      "answer": "Emergency provisions permit temporary constitutional centralisation for crisis management, but they do not authorise permanent unitary rule or extra-constitutional government."
+    },
+    {
+      "title": "LOCAL SELF-GOVERNMENT, SOCIAL JUSTICE AND AFFIRMATIVE ACTION",
+      "terms": "Democratic decentralisation and affirmative-action provisions deepen representative equality; the present constitutional third tier is primarily a later constitutionalisation through the 73rd and 74th Amendments.",
+      "mechanism": "Democratic decentralisation and affirmative-action provisions deepen representative equality; the present constitutional third tier is primarily a later constitutionalisation through the 73rd and 74th Amendments.",
+      "consequence": "Affirmative action is not a departure from equality understood only as identical treatment; it is part of substantive equality where historical disadvantage and representation are constitutionally relevant.",
+      "trap": "The original Constitution included a directive concerning village panchayats, but today's detailed constitutional local-government structure was added in 1992 through the 73rd and 74th Amendments.",
+      "answer": "The 73rd and 74th Amendments deepened democracy by constitutionalising a third tier, yet real decentralisation still depends on functions, funds and functionaries."
+    },
+    {
+      "title": "A. COOPERATIVE SOCIETIES AS CONSTITUTIONALISED DEMOCRATIC ASSOCIATION",
+      "terms": "The 97th Amendment inserted cooperative societies into Article 19(1)(c), added Article 43B and inserted Part IX-B.",
+      "mechanism": "Correct: Its operation is bounded by the judgment and legislative competence.",
+      "consequence": "The feature joins associational freedom, democratic governance and economic organisation, while illustrating that even a reform-oriented amendment must respect federal ratification requirements.",
+      "trap": "The 97th Amendment inserted cooperative societies into Article 19(1)(c), added Article 43B and inserted Part IX-B.",
+      "answer": "[LIVE OFFICIAL — checked 21 August 2026] The Supreme Court judgment remains the controlling legal position: Article 19(1)(c) and Article 43B survive, while Part IX-B cannot govern State cooperatives in the invalidated field; the Union retains competence over multi-State cooperative societies."
+    },
+    {
+      "title": "ASYMMETRY, LANGUAGE, PLURALISM AND ACCOMMODATION OF DIVERSITY",
+      "terms": "Constitutional asymmetry uses differentiated territorial, tribal, cultural and linguistic arrangements to pursue integration through accommodation rather than coerced uniformity.",
+      "mechanism": "The Constitution combines common citizenship with differentiated territorial, tribal, cultural and linguistic arrangements; unity is pursued through accommodation as well as uniform rules.",
+      "consequence": "India does not adopt one-language or one-institution uniformity as the sole method of nation-building.",
+      "trap": "Uniformity can promote equal national standards, while asymmetry can protect substantive equality and negotiated trust.",
+      "answer": "Constitutional asymmetry uses differentiated territorial, tribal, cultural and linguistic arrangements to pursue integration through accommodation rather than coerced uniformity."
+    },
+    {
+      "title": "CONTINUITY, TRANSFORMATION, STRENGTHS AND INTERNAL TENSIONS",
+      "terms": "Correct: Administrative continuity was transformed by democratic authority and rights.",
+      "mechanism": "Correct: Administrative continuity was transformed by democratic authority and rights.",
+      "consequence": "A conclusion should be graded: the design creates capacity and restraint, but institutional practice determines the balance.",
+      "trap": "Strengths include a durable framework, peaceful political competition, judicial remedies, adaptable amendment, multilevel government and social transformation commitments.",
+      "answer": "The Constitution retained administrative machinery from colonial rule but transformed its legitimacy through popular sovereignty, rights, universal franchise and responsible government."
+    },
+    {
+      "title": "A. CONSTITUTIONAL MORALITY AS THE OPERATING ETHIC",
+      "terms": "Constitutional morality is not a free-floating licence for judges or political actors; it must remain anchored in constitutional text and structure.",
+      "mechanism": "The 2021 GS-II PYQ requires the doctrine to be explained through relevant judicial decisions.",
+      "consequence": "Constitutional morality is not a free-floating licence for judges or political actors; it must remain anchored in constitutional text and structure.",
+      "trap": "Constitutional morality means disciplined fidelity to constitutional forms, procedures and values over personal, partisan or majoritarian preference.",
+      "answer": "Constitutional morality is fidelity to constitutional forms, values and restraint; it must discipline power through text and structure rather than become a label for personal preference."
+    },
+    {
+      "title": "CRITICISMS, COUNTERARGUMENTS, CROSS-TOPIC BOUNDARIES AND FINAL VERDICT",
+      "terms": "Caption: Topic 03 supplies the architectural overview; specialist owners supply detailed doctrine and procedure.",
+      "mechanism": "The Indian Constitution is a carefully adapted architecture of authority, restraint, representation and transformation whose success depends as much on constitutional morality and institutions as on text.",
+      "consequence": "Caption: Topic 03 supplies the architectural overview; specialist owners supply detailed doctrine and procedure.",
+      "trap": "The Constitution's tensions are not design failures by definition; they become failures when central capacity defeats federalism, majority rule defeats rights or institutional independence escapes accountability.",
+      "answer": "The Constitution's tensions are not design failures by definition; they become failures when central capacity defeats federalism, majority rule defeats rights or institutional independence escapes accountability."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17459,
+      "y_end": 19659,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 22
+    }
+  ]
+}

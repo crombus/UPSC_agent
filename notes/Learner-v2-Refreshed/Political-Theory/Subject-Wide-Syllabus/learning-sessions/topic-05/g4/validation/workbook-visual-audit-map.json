@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g4\\topic-05_Solved-Practice-Workbook_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g4\\topic-05_Solved-Practice-Workbook_2026-08-30.pdf",
+  "mode": "workbook",
+  "topic_key": "political-theory-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 873,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Ownership note:** These are verified Philosophy Optional Paper II questions. Their primary owner remains the Philosophy Political Ideologies corpus; they are reproduced here only where the Political Theory topic supplies the directly test",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 176.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 117.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 919,
+      "heading": "Solved PYQ 1 - 2018 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers \"do you subscribe?\" with a graded yes/no (accept the critique via P9, reject the strong constructive claim via the hidden-authority residual) and closes on the asymmetric verdict, not a slogan.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 340.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 281.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 961,
+      "markdown_body_line_end": 963,
+      "heading": "Solved PYQ 3 - 2019 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it grades the label (affinity via self-rule/swarāj/minimal state; divergence via P10 means-ends and non-violence) and lands the precise \"ideal vs method\" verdict instead of a flat yes or no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 459.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 367.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1006,
+      "markdown_body_line_end": 1008,
+      "heading": "Solved PYQ 5 - 2020 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it refuses the anarchy/anarchism conflation up front, reads the pandemic through P9 (mutual aid, bounded), and grades to \"shows the insight, not the conclusion\" rather than answering a careless yes.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 459.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 352.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1057,
+      "markdown_body_line_end": 1060,
+      "heading": "Solved PYQ 7 - 2021 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it expounds anarchism as an argument with named strands, presses the strongest case (P9), then answers \"completely?\" through the hidden-authority residual and Bakunin's double-edged warning, closing on the as",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 312.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 253.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1110,
+      "markdown_body_line_end": 1112,
+      "heading": "Solved PYQ 8 - 2021 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the trusteeship/self-rule (swarāj)/sarvodaya cluster, contrasts it with Marxian socialism, presses the voluntary-conversion objection to a residual (Ambedkar), and grounds relevance in means-ends + e",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 351.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 245.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1161,
+      "heading": "Solved PYQ 9 - 2023 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it \"critically examines\" by reconstructing the claim via P9, isolating the fatal word \"always/everywhere\", and rescuing the defensible philosophical-anarchist core with a graded criterion verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 354.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 310.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1210,
+      "heading": "Solved PYQ 12 - 2024 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it COMPARES on fixed axes (property/state/ distribution/method) via P11 and P12 rather than writing two summaries, flags the lower-phase/higher-phase vocabulary, and lands the \"all communists are socialists, ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 397.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 291.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    }
+  ]
+}

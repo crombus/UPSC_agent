@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-01",
+  "generation": 12,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g12\\polity-01_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    14475
+  ],
+  "stages": [
+    {
+      "title": "METHOD AND THE PRE-1773 CORPORATE STATE",
+      "terms": "Mains route: Claim that constitutional regulation followed the accountability crisis created when corporate power became territorial; prove it with Diwani and the failure of Dual Government.",
+      "mechanism": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "consequence": "Do not narrate all eighteenth-century conquest; use only what explains why regulation became unavoidable.",
+      "trap": "These events are background, not constitutional statutes.",
+      "answer": "The historical background of the Constitution is the gradual conversion of a revenue-seeking Company state into a centralised colonial administration and, finally, a sovereign democratic Constitution."
+    },
+    {
+      "title": "REGULATING ACT 1773 AND SETTLEMENT ACT 1781",
+      "terms": "The Regulating Act was Parliament's first major statutory intervention in Company government.",
+      "mechanism": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "consequence": "The statute began centralisation and judicialisation but did not create responsible government.",
+      "trap": "Do not miss this limiting distinction: the Regulating Act was Parliament's first major statutory intervention in Company government.",
+      "answer": "The Regulating Act 1773 was Parliament's first constitutional response to the mismatch between the Company's territorial power and its public accountability."
+    },
+    {
+      "title": "PITT'S INDIA ACT 1784, THE 1786 MEASURE AND CHARTER ACT 1793",
+      "terms": "Pitt's Act did not transfer India to the Crown and did not create cabinet responsibility in India.",
+      "mechanism": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "consequence": "Pitt's Act did not transfer India to the Crown and did not create cabinet responsibility in India.",
+      "trap": "Mains route: Explain dual control as a control-chain innovation and an accountability ambiguity: policy control moved toward the British state while operational machinery remained corporate.",
+      "answer": "Pitt's India Act 1784 created dual control: Company directors retained commercial administration while the British government, through the Board of Control, acquired supreme political supervision."
+    },
+    {
+      "title": "CHARTER ACTS 1793 AND 1813: MONOPOLY, SOVEREIGNTY AND EDUCATION",
+      "terms": "The Charter Act 1813 ended the Company's monopoly over Indian trade except tea and trade with China, asserted Crown sovereignty, permitted missionaries and sanctioned an annual sum for education.",
+      "mechanism": "The Charter Act 1813 ended the Company's monopoly over Indian trade except tea and trade with China, asserted Crown sovereignty, permitted missionaries and sanctioned an annual sum for education.",
+      "consequence": "The education grant did not settle the Orientalist-Anglicist controversy and did not itself create mass education.",
+      "trap": "Mains route: Show how 1813 joined economic liberalisation to imperial sovereignty, but distinguish an opening of trade from transfer of government.",
+      "answer": "The Charter Acts 1793 and 1813 show that monopoly could be renewed even as Crown sovereignty and regulated commercial opening advanced."
+    },
+    {
+      "title": "CHARTER ACTS 1833 AND 1853: ALL-INDIA GOVERNMENT, LAW AND CIVIL SERVICE",
+      "terms": "Technically, Charter Acts 1833 And 1853: All-India Government, Law And Civil Service is analysed by relating Charter Acts 1833 to All-India Government, then testing the relationship through Law and Civil Service.",
+      "mechanism": "Mains route: Compare 1833 and 1853 through institutional function: 1833 created all-India legislative centralisation; 1853 differentiated legislation and professional recruitment.",
+      "consequence": "Centralisation, codification and merit rhetoric built a professional state, while racial and imperial constraints limited equality.",
+      "trap": "Do not miss this limiting distinction: it was the last Charter Act.",
+      "answer": "The Charter Acts 1833 and 1853 completed legislative centralisation, ended the Company's commercial character and differentiated law-making from executive administration and patronage."
+    },
+    {
+      "title": "GOVERNMENT OF INDIA ACT 1858: CROWN RULE AND IMPERIAL ACCOUNTABILITY",
+      "terms": "Technically, Government Of India Act 1858: Crown Rule And Imperial Accountability is analysed by relating Government Of India Act 1858 to Crown Rule, then testing the relationship through Imperial Accountability and Revolt.",
+      "mechanism": "It ended the Board of Control-Court of Directors system and created the Secretary of State for India assisted by a Council of India.",
+      "consequence": "Administrative continuity means 1858 was not a total institutional rupture.",
+      "trap": "Do not miss this limiting distinction: crown proclamations of non-interference and equal treatment must be distinguished from implementation.",
+      "answer": "The Government of India Act 1858 replaced dual control with direct Crown responsibility, but centralised imperial accountability without Indian popular responsibility."
+    },
+    {
+      "title": "INDIAN COUNCILS ACTS 1861 AND 1892: ASSOCIATION WITHOUT RESPONSIBILITY",
+      "terms": "The 1861 Act introduced nominated Indian non-officials into legislative work, recognised the portfolio system and restored legislative powers to Bombay and Madras.",
+      "mechanism": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "consequence": "Correct: Discussion and questions did not create confidence responsibility.",
+      "trap": "The 1892 Act enlarged non-official membership but retained official majorities.",
+      "answer": "Mains route: Trace the move from consultation to scrutiny while emphasising that association was designed to strengthen colonial legitimacy, not surrender executive control."
+    },
+    {
+      "title": "INDIAN COUNCILS ACT 1909: REPRESENTATION AND COMMUNAL ELECTORATES",
+      "terms": "The 1909 reforms widened representation by institutionalising religious separation, making separate electorates both a concession and a constitutional warning.",
+      "mechanism": "Representation widened while the electorate was segmented by community.",
+      "consequence": "Mains route: Assess 1909 as a paradox: widened representative procedure but constitutionalised communal political boundaries.",
+      "trap": "Do not miss this limiting distinction: the Morley-Minto reforms enlarged councils, introduced separate electorates for Muslims and enabled Satyendra Prasad...",
+      "answer": "The 1909 reforms widened representation by institutionalising religious separation, making separate electorates both a concession and a constitutional warning."
+    },
+    {
+      "title": "GOVERNMENT OF INDIA ACT 1919: DYARCHY, BICAMERALISM, FRANCHISE AND REVIEW",
+      "terms": "The 1919 Act introduced provincial dyarchy - responsibility without control over finance and coercion - and thereby exposed the limits of divided executive authority.",
+      "mechanism": "The Montagu-Chelmsford reforms separated central and provincial subjects, introduced dyarchy in provinces, established bicameralism at the centre and expanded direct elections on a restricted franchise.",
+      "consequence": "Dyarchy failed because political responsibility was not matched by fiscal, coercive or overriding authority.",
+      "trap": "Do not miss this limiting distinction: evaluate dyarchy with the governance test of functions, finances and functionaries.",
+      "answer": "The 1919 Act introduced provincial dyarchy - responsibility without control over finance and coercion - and thereby exposed the limits of divided executive authority."
+    },
+    {
+      "title": "BRIDGES TO 1935: SIMON COMMISSION, ROUND TABLES, COMMUNAL AWARD AND POONA PACT",
+      "terms": "Technically, Bridges To 1935: Simon Commission, Round Tables, Communal Award And Poona Pact is analysed by relating Bridges To 1935 to Simon Commission, then testing the relationship through Round Tables and Communal Award.",
+      "mechanism": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "consequence": "Mains route: Use the bridge to show constitutional reform as bargaining under unequal sovereignty: pressure changed design, but imperial authorities retained final enactment.",
+      "trap": "Wrong: Poona Pact retained separate electorates for depressed classes.",
+      "answer": "These events are bridges, not substitutes for studying the enacted 1935 text."
+    },
+    {
+      "title": "GOVERNMENT OF INDIA ACT 1935: FEDERATION, LISTS AND PROVINCIAL AUTONOMY",
+      "terms": "The 1935 Act proposed an All-India Federation of provinces and acceding princely states, distributed powers through Federal, Provincial and Concurrent Lists, abolished provincial dyarchy and introduced provincial autonomy.",
+      "mechanism": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "consequence": "Saying the 1935 federation was established in practice is incorrect; UPSC may use established loosely in a stem, but the legal-operational distinction must be stated.",
+      "trap": "Do not miss this limiting distinction: the Federal List had 59, Provincial List 54 and Concurrent List 36 entries in...",
+      "answer": "The 1935 Act proposed an All-India Federation of provinces and acceding princely states, distributed powers through Federal, Provincial and Concurrent Lists, abolished provincial dyarchy and introduced provincial autonomy."
+    },
+    {
+      "title": "GOVERNMENT OF INDIA ACT 1935: INSTITUTIONS, FRANCHISE AND SAFEGUARDS",
+      "terms": "RBI was constituted under the Reserve Bank of India Act 1934 and began in 1935; describe the 1935 constitutional framework as providing for/recognising the institutional arrangement, not as the sole creating statute.",
+      "mechanism": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "consequence": "RBI was constituted under the Reserve Bank of India Act 1934 and began in 1935; describe the 1935 constitutional framework as providing for/recognising the institutional arrangement, not as the sole creating statute.",
+      "trap": "Wrong: The 1935 Act created universal adult franchise.",
+      "answer": "The approximate franchise share should not be converted into a precise electorate count without a secure source."
+    },
+    {
+      "title": "INDIAN INDEPENDENCE ACT 1947 AND THE CONSTITUENT ASSEMBLY BRIDGE",
+      "terms": "The 1947 Act ended British rule, created the Dominions of India and Pakistan from 15 August 1947, ended British paramountcy, removed imperial legislative supremacy and made the existing Constituent Assemblies sovereign legislative and constitution-making bodies.",
+      "mechanism": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "consequence": "Do not claim princely states automatically became part of India on lapse of paramountcy.",
+      "trap": "Do not miss this limiting distinction: the 1947 Act ended British rule, created the Dominions of India and Pakistan from...",
+      "answer": "The Independence Act 1947 ended British sovereignty and paramountcy and made the Constituent Assemblies sovereign legislatures, but left integration and constitution-making to Indian agency."
+    },
+    {
+      "title": "THEMATIC EVOLUTION: LEGISLATURE, EXECUTIVE, JUDICIARY, SERVICES AND FINANCE",
+      "terms": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "mechanism": "Read each statute through four questions: who controlled the executive, who made law, who paid, and who was represented.",
+      "consequence": "Mains route: Use a strand answer when the question asks evolution, accountability or inheritance; each paragraph must contain a named Act, institutional effect and limitation.",
+      "trap": "Correct: The Constitution retained forms but changed source, limits and accountability.",
+      "answer": "Judiciary evolved alongside executive dominance; independence is a constitutional transformation, not a simple inheritance."
+    },
+    {
+      "title": "BRITISH MOTIVES, INDIAN PRESSURES AND COLONIAL CONSTITUTIONALISM",
+      "terms": "Technically, British Motives, Indian Pressures And Colonial Constitutionalism is analysed by relating British Motives to Indian Pressures, then testing the relationship through Colonial Constitutionalism and Corporate crisis and imperial supervision.",
+      "mechanism": "'Colonial constitutionalism' means rule increasingly channelled through statutes and institutions without sovereignty resting in the colonised people.",
+      "consequence": "Do not convert analytical motive claims into quotations or precise intentions without documentary evidence.",
+      "trap": "Wrong: Indian pressure had no role because Britain enacted the statutes.",
+      "answer": "Colonial constitutional reform was neither a linear gift nor a single nationalist victory: British control incentives and Indian political pressure interacted, while authority remained deliberately short of popular sovereignty."
+    },
+    {
+      "title": "CONTINUITY AND RUPTURE INTO THE CONSTITUTION OF 1950",
+      "terms": "Mains route: Use the formula: structural continuity plus normative rupture, followed by two retained examples, two rejected devices and one qualification.",
+      "mechanism": "Mains route: Use the formula: structural continuity plus normative rupture, followed by two retained examples, two rejected devices and one qualification.",
+      "consequence": "The Constitution retained a large administrative and federal vocabulary from colonial statutes, especially 1935, but changed the source and purpose of authority through popular sovereignty, republicanism, universal franchise, rights and responsible government.",
+      "trap": "Mains route: Thesis: colonial statutes built the machinery of a centralised state and cautiously widened participation, while the Constitution transformed that machinery by locating sovereignty in the people.",
+      "answer": "The Constitution retained and transformed colonial machinery - lists, Governors, courts and services - while rejecting communal electorates, restricted franchise and imperial supremacy."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 13,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 12275,
+      "y_end": 14475,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    }
+  ]
+}

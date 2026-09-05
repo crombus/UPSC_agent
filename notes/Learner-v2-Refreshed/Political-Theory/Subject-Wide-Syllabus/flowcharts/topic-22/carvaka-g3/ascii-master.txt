@@ -1,0 +1,217 @@
+ASCII MASTER FLOW — PANEL 1/12: Meaning, Stakes and the Classical Democratic Map
+CENTRAL FOCUS
+Meaning, Stakes and the Classical Democratic Map
+  [1] Democracy means rule of the people, but Topic 22 asks how rule is restrained.
+        |
+        v
+  [2] Gauba moves from Greek participation to modern representative institutions.
+        |
+        v
+  [3] Elections are necessary to modern democracy, but not sufficient by themselves.
+        |
+        v
+  [4] Liberal democracy adds consent, accountability, rights and minority security.
+        |
+        v
+VERDICT -> Topic 22 treats democracy as restrained people-rule.
+ANSWER USE -> Define popular rule, then add restraint and protection.
+
+ASCII MASTER FLOW — PANEL 2/12: Direct, Representative and Liberal Democracy
+CENTRAL FOCUS
+Direct, Representative and Liberal Democracy
+  [1] Direct democracy expects citizens to deliberate and decide public affairs.
+        |
+        v
+  [2] Representative democracy uses elected intermediaries for large modern states.
+        |
+        v
+  [3] The scale problem explains the shift from assembly to representation.
+        |
+        v
+  [4] The democratic risk is distance between rulers and the people.
+        |
+        v
+VERDICT -> Representation solves scale but creates accountability risk.
+ANSWER USE -> Contrast feasibility with democratic distance.
+
+ASCII MASTER FLOW — PANEL 3/12: Necessary and Sufficient Democratic Conditions
+CENTRAL FOCUS
+Necessary and Sufficient Democratic Conditions
+  [1] Liberal democracy joins popular authorisation to constitutional restraint.
+        |
+        v
+  [2] Its core package is consent, accountability, majority rule and minority rights.
+        |
+        v
+  [3] Civil liberties, party competition and courts protect the reality of choice.
+        |
+        v
+  [4] Majority rule is a decision rule, not unrestricted domination.
+        |
+        v
+VERDICT -> Liberal democracy joins authorisation to rights and law.
+ANSWER USE -> Separate necessary elections from sufficient safeguards.
+
+ASCII MASTER FLOW — PANEL 4/12: Classical Critics and Comparative Defenders
+CENTRAL FOCUS
+Classical Critics and Comparative Defenders
+  [1] Plato fears demagogy, incompetence and instability under unchecked democracy.
+        |
+        v
+  [2] Aristotle accepts collective judgment but warns against false equality claims.
+        |
+        v
+  [3] Dicey and Bryce defend democracy through majority opinion and public welfare.
+        |
+        v
+  [4] Classical criticism and modern defence both belong inside Topic 22 answers.
+        |
+        v
+VERDICT -> Classical criticism tests democracy without exhausting it.
+ANSWER USE -> Pair each thinker with one precise risk or gain.
+
+ASCII MASTER FLOW — PANEL 5/12: Locke, Mill, Rousseau and Dewey
+CENTRAL FOCUS
+Locke, Mill, Rousseau and Dewey
+  [1] Locke and Bentham defend accountable government against abuse of power.
+        |
+        v
+  [2] Mill links representation to liberty, criticism and civic improvement.
+        |
+        v
+  [3] Rousseau insists sovereignty stays with the people and resists alienation.
+        |
+        v
+  [4] Dewey extends democracy into communication, inquiry and associated living.
+        |
+        v
+VERDICT -> Key thinkers differ over sovereignty, liberty and civic life.
+ANSWER USE -> Compare what each protects and what each fears.
+
+ASCII MASTER FLOW — PANEL 6/12: Representation: Territorial, Functional and Normative Models
+CENTRAL FOCUS
+Representation: Territorial, Functional and Normative Models
+  [1] Territorial representation organises constituencies through geography.
+        |
+        v
+  [2] Functional representation seeks voice for occupations or sectoral interests.
+        |
+        v
+  [3] Gauba notes functional schemes attracted corporatist or totalitarian uses.
+        |
+        v
+  [4] Representation theory therefore asks about structure as well as legitimacy.
+        |
+        v
+VERDICT -> Representation has structural forms as well as role theories.
+ANSWER USE -> Keep territorial-functional distinct from delegate-trustee.
+
+ASCII MASTER FLOW — PANEL 7/12: Electoral Translation, Minority Protection and Trap Repair
+CENTRAL FOCUS
+Electoral Translation, Minority Protection and Trap Repair
+  [1] Delegate theory stresses constituent control over the representative.
+        |
+        v
+  [2] Trustee theory stresses the representative's own judgment after election.
+        |
+        v
+  [3] Mandate theory ties election to authorisation of a public programme.
+        |
+        v
+  [4] Descriptive and substantive representation ask different democratic questions.
+        |
+        v
+VERDICT -> Composition and action are different tests of representation.
+ANSWER USE -> Ask who mirrors society, then who serves interests.
+
+ASCII MASTER FLOW — PANEL 8/12: Revision Spine and Secondary Representation Theory
+CENTRAL FOCUS
+Revision Spine and Secondary Representation Theory
+  [1] FPTP elects the largest vote-getter and is not a 50 per cent plus rule.
+        |
+        v
+  [2] Majoritarian devices seek broader backing through runoff or transfer methods.
+        |
+        v
+  [3] List PR aligns seats more closely with vote share and improves inclusion.
+        |
+        v
+  [4] STV is one proportional method using ranked transfer in multi-member seats.
+        |
+        v
+VERDICT -> Electoral systems trade off decisiveness, legitimacy and inclusion.
+ANSWER USE -> Do not merge plurality, majoritarian and PR rules.
+
+ASCII MASTER FLOW — PANEL 9/12: Electoral Trade-offs and Liberal-Democratic Tensions
+CENTRAL FOCUS
+Electoral Trade-offs and Liberal-Democratic Tensions
+  [1] Concurrent and consociational devices respond to risks of permanent exclusion.
+        |
+        v
+  [2] Their promise is minority security; their cost can be delay and bargaining.
+        |
+        v
+  [3] Indian application here stays conceptual: franchise, rights and review matter.
+        |
+        v
+  [4] Detailed article law remains with Polity owners, not this theory topic.
+        |
+        v
+VERDICT -> Minority protection deepens democracy when domination is checked.
+ANSWER USE -> Use Indian illustrations conceptually, not article-heavy.
+
+ASCII MASTER FLOW — PANEL 10/12: Answer Architecture, Indian Application and Provenance
+CENTRAL FOCUS
+Answer Architecture, Indian Application and Provenance
+  [1] Verified Philosophy PYQs must retain original ownership in their source owners.
+        |
+        v
+  [2] Topic 22 answers start with threshold: define, then test sufficiency.
+        |
+        v
+  [3] Topic 23 adds Schumpeter, Dahl and later models as bounded extensions.
+        |
+        v
+  [4] Topic 23 must not displace Topic 22's liberal-democratic foundation.
+        |
+        v
+VERDICT -> Topic 23 extends Topic 22 rather than replacing it.
+ANSWER USE -> Use later models as bounded supplemental bridges.
+
+ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
+CENTRAL FOCUS
+MCQ Remediation and Trap Repair
+  [1] Repair the trap that elections automatically prove democracy.
+        |
+        v
+  [2] Repair the trap that majority rule equals minority suppression.
+        |
+        v
+  [3] Repair the trap that FPTP is itself a majoritarian 50 per cent system.
+        |
+        v
+  [4] Repair the trap that descriptive and substantive representation are identical.
+        |
+        v
+VERDICT -> Close-option errors come from collapsed threshold distinctions.
+ANSWER USE -> State the decisive distinction before choosing.
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
+CENTRAL FOCUS
+PYQ Ownership and Answer Practice
+  [1] This topic uses six original Mains prompts for direct package generation.
+        |
+        v
+  [2] Forms of Government owns liberal-democracy and democracy-challenge PYQs.
+        |
+        v
+  [3] Ideals owns liberty-equality-democracy, while Sovereignty owns democracy stems
+      there.
+        |
+        v
+  [4] Final recall: democracy needs representation, restraint and public judgment
+      together.
+        |
+        v
+VERDICT -> Cross-applied PYQs help only when ownership is preserved.
+ANSWER USE -> Borrow the concept, never reroute the primary owner.
