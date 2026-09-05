@@ -4,6 +4,20 @@
 > meaning. This key identifies a preferred examination form; it does not turn
 > accepted modern formal English into an error.
 
+## One-to-one coverage ledger
+
+| Workbook section | Items | Solutions supplied |
+|---|---:|---:|
+| A | 6 | 6 |
+| B | 10 | 10 |
+| C | 14 | 14 |
+| D | 10 | 10 |
+| E | 10 | 10 |
+| F | 10 | 10 |
+| G | 5 | 5 |
+| H | 10 | 10 |
+| I | 10 | 10 |
+
 ## A. Function in context
 
 1. noun  2. pronoun  3. adjective  4. adverb  5. verb  6. determiner
@@ -15,8 +29,9 @@
 3. *She gave me two useful pieces of advice.* [CNT]
 4. *We bought three pieces of furniture for the office.* [CNT]
 5. *Between you and me, the proposal is unsafe.* [PRO]
-6. *Every applicant must bring their identity card.* [PRO] `his or her` and a
-   clear plural recast also receive credit.
+6. *Every applicant must bring their identity card.* [PRO/CNT] The singular
+   possessive must match the one card required from each applicant. `his or
+   her` and a clear plural recast also receive credit.
 7. *The report that identified the error was published yesterday.* [REL]
 8. No change: the clause identifies which candidates. [PRO/REL]
 9. *The committee has submitted its report as one body.* [AGR]

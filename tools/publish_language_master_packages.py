@@ -46,16 +46,34 @@ def render(
     topic_key: str,
     *,
     unicode_heavy: bool = False,
+    document_kind: str = "Complete Skills Guide",
 ) -> tuple[int, int, int]:
     output.parent.mkdir(parents=True, exist_ok=True)
     if unicode_heavy:
-        unicode_markdown_pdf.build_pdf(source, output)
+        unicode_markdown_pdf.build_pdf(
+            source,
+            output,
+            internal_index=True,
+            index_title=f"CONTENTS / {document_kind.upper()}",
+            cover_descriptor=(
+                f"UPSC qualifying-language subject package | {document_kind} | "
+                "Official syllabus to timed remediation"
+            ),
+            footer_label=f"UPSC Qualifying Hindi | {document_kind}",
+        )
     else:
         markdown_learning_pdf.build_pdf(
             source,
             output,
             topic_key=topic_key,
             repository_root=ROOT,
+            internal_index=True,
+            index_title=f"CONTENTS / {document_kind.upper()}",
+            cover_descriptor=(
+                f"UPSC qualifying-language subject package | {document_kind} | "
+                "Official syllabus to timed remediation"
+            ),
+            footer_label=f"UPSC Qualifying Language | {document_kind}",
         )
     with fitz.open(output) as document:
         text_length = sum(len(page.get_text().strip()) for page in document)
@@ -66,6 +84,9 @@ def render(
 def publish_subject(
     subject: str,
     config: dict[str, str],
+    *,
+    generation: int = 1,
+    generated_on: str = DATE,
 ) -> dict[str, object]:
     topic_key = config["topic_key"]
     source_dir = (
@@ -83,20 +104,32 @@ def publish_subject(
     if re.search(r"(?im)^### SESSION \d+", combined):
         raise ValueError(f"{subject}: artificial learning sessions remain.")
     output_dir = (
-        ROOT / "notes" / subject / "Subject-Wide-Package" / "g1"
+        ROOT / "notes" / subject / "Subject-Wide-Package" / f"g{generation}"
     )
-    guide_pdf = output_dir / f"{subject}_Complete-Skills-Guide_{DATE}.pdf"
-    workbook_pdf = output_dir / f"{subject}_Practice-Workbook_{DATE}.pdf"
-    solutions_pdf = output_dir / f"{subject}_Practice-Solutions_{DATE}.pdf"
+    guide_pdf = output_dir / f"{subject}_Complete-Skills-Guide_{generated_on}.pdf"
+    workbook_pdf = output_dir / f"{subject}_Practice-Workbook_{generated_on}.pdf"
+    solutions_pdf = output_dir / f"{subject}_Practice-Solutions_{generated_on}.pdf"
     unicode_heavy = subject == "Qualifying-Hindi"
     guide_metrics = render(
-        guide, guide_pdf, topic_key, unicode_heavy=unicode_heavy
+        guide,
+        guide_pdf,
+        topic_key,
+        unicode_heavy=unicode_heavy,
+        document_kind="Complete Skills Guide",
     )
     workbook_metrics = render(
-        workbook, workbook_pdf, topic_key, unicode_heavy=unicode_heavy
+        workbook,
+        workbook_pdf,
+        topic_key,
+        unicode_heavy=unicode_heavy,
+        document_kind="Question-Only Practice Workbook",
     )
     solutions_metrics = render(
-        solutions, solutions_pdf, topic_key, unicode_heavy=unicode_heavy
+        solutions,
+        solutions_pdf,
+        topic_key,
+        unicode_heavy=unicode_heavy,
+        document_kind="Practice Solutions",
     )
     for name, metrics in (
         ("guide", guide_metrics),
@@ -106,13 +139,13 @@ def publish_subject(
         if metrics[0] < 1 or metrics[1] < 1 or metrics[2] != 0:
             raise ValueError(f"{subject}: invalid {name} PDF metrics {metrics}.")
     record = {
-        "record_id": f"{topic_key}:learner-v2:g1",
+        "record_id": f"{topic_key}:learner-v2:g{generation}",
         "topic_key": topic_key,
         "subject": subject,
         "section": "Subject-Wide-Package",
         "title": config["title"],
         "variant": "learner-v2",
-        "generation": 1,
+        "generation": generation,
         "command": f"Generate {subject} subject-wide skills package",
         "main_pdf": relative(guide_pdf),
         "workbook": relative(workbook_pdf),
@@ -120,7 +153,7 @@ def publish_subject(
         "markdown": relative(guide),
         "workbook_markdown": relative(workbook),
         "solutions_markdown": relative(solutions),
-        "generated_on": DATE,
+        "generated_on": generated_on,
         "approved": False,
         "format": {
             "name": "qualifying-language-subject-package-v1",
@@ -136,7 +169,7 @@ def publish_subject(
         "approval": {
             "approved": False,
             "approved_on": None,
-            "scope": f"{topic_key}:learner-v2:g1",
+            "scope": f"{topic_key}:learner-v2:g{generation}",
         },
         "validation": {
             "state": "passed",
@@ -146,7 +179,8 @@ def publish_subject(
         "refresh_profile": "qualifying-language-subject-package-v1",
     }
     record_path = (
-        EXPORT_DIR / f"{topic_key}-learner-v2-g1-{DATE}-record.json"
+        EXPORT_DIR
+        / f"{topic_key}-learner-v2-g{generation}-{generated_on}-record.json"
     )
     record_path.write_text(
         json.dumps(record, ensure_ascii=False, indent=2) + "\n",
@@ -155,11 +189,15 @@ def publish_subject(
     index = output_dir.parent / "INDEX.md"
     index.write_text(
         f"# {config['title']}\n\n"
+        f"- Current immutable generation: `g{generation}` ({generated_on})\n"
         f"- Complete skills guide: `{relative(guide_pdf)}`\n"
         f"- Question-only workbook: `{relative(workbook_pdf)}`\n"
         f"- Separate solutions: `{relative(solutions_pdf)}`\n"
+        f"- Pages: guide {guide_metrics[0]}, workbook {workbook_metrics[0]}, "
+        f"solutions {solutions_metrics[0]}\n"
         "- Practice papers: 3\n"
         "- Learning sessions: 0\n"
+        "- Package contract: `qualifying-language-subject-package-v1`\n"
         "- Approved: no\n",
         encoding="utf-8",
     )

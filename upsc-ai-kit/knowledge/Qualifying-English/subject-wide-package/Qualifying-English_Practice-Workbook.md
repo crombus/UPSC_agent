@@ -2,12 +2,28 @@
 
 > Question-only diagnostic and full-length practice. Complete each paper before consulting the separate solutions document.
 
-## PART 01 — 01 Foundation-Test
+## PACKAGE NAVIGATION
+
+- **This document:** Question-Only Practice Workbook
+- **Companion Guide:** `Qualifying-English_Complete-Skills-Guide.md`
+- **Question-only Workbook:** `Qualifying-English_Practice-Workbook.md`
+- **Separate Solutions:** `Qualifying-English_Practice-Solutions.md`
+- **Source map:** each numbered Part below names its authoritative source owner; practice-paper and solution Part numbers match one-to-one.
+- **Approval:** false until this exact generation is explicitly approved.
+
+## PART 01 — English Grammar and Usage Foundation Test
 
 > **Time:** 90 minutes | **Marks:** 85 | Attempt without consulting Core files.
 > This is a grammar/usage diagnostic, not a reading, précis or essay paper.
 > Write an error code where requested: AGR, CNT, PRO, TNS, COND, ART, PREP,
 > PHR, MOD, PAR, PUNC, SPL, WF or VAR.
+
+## Answer-sheet instruction
+
+This is a question-only paper. Use **at least six ruled A4 sides** or a separate
+answer booklet. Write the section and item number before every response
+(`B4`, `E7`, `H2`, and so on). Reserve one final side for the error log. Do not
+consult the separate Solutions document until the 90 minutes have ended.
 
 ## A. Identify function in context (6 marks)
 
@@ -22,14 +38,15 @@ Name the function of the bold word.
 
 ## B. Nouns and pronouns (10 marks)
 
-Correct each sentence and add the most relevant code.
+Correct only where necessary and add the most relevant code. If the sentence
+is already acceptable, write **acceptable** and state why.
 
 1. One of the applicant have withdrawn.
 2. The police is investigating the complaint.
 3. She gave me two useful advices.
 4. We bought three furniture for the office.
 5. Between you and I, the proposal is unsafe.
-6. Every applicant must bring his identity card.
+6. Every applicant must bring their identity cards.
 7. The report, that identified the error, was published yesterday.
 8. Candidates who have identity cards may enter.
 9. The committee have submitted its report as one body.
@@ -37,7 +54,8 @@ Correct each sentence and add the most relevant code.
 
 ## C. Agreement, tense, conditionals, articles and determiners (14 marks)
 
-Correct each sentence and add the most relevant code.
+Correct only where necessary and add the most relevant code. If the sentence
+is already acceptable, write **acceptable** and state why.
 
 1. A number of student is absent.
 2. Neither the manager nor the clerks is ready.
@@ -108,7 +126,10 @@ state why.
 4. She provided the workers meals.
 5. The committee are divided in their views.
 
-## H. Transform without changing meaning (10 marks)
+## H. Transform as directed (10 marks)
+
+Preserve meaning in Questions 1–9. Question 10 explicitly asks you to change
+the scope of **only**; follow that new meaning exactly.
 
 1. As soon as the meeting ended, the members left. (Use *no sooner...than*.)
 2. If you do not revise, you will forget the rules. (Use *unless*.)
@@ -156,10 +177,29 @@ Critical families are countability/pronouns (B), tense/conditionals/articles
 Two consecutive timed passes at 77+ are required before attempting the
 full-length mock.
 
-## PART 02 — 02 Full-Length-Mock
+## Candidate record — complete before opening Solutions
+
+| Field | Candidate entry |
+|---|---|
+| Start time / finish time | |
+| Questions left blank | |
+| Sections completed without review | |
+| Three rules I was least certain about | |
+| Final self-check completed? | Yes / No |
+
+## PART 02 — UPSC Qualifying English — Full-Length Mock 1
 
 > **Time:** Three Hours | **Maximum Marks:** 300  
 > All questions are compulsory. Write answers in English. Observe specified word limits. Do not consult Core files or the key while attempting.
+
+## Answer-booklet and space instruction
+
+Use a separate ruled answer booklet of **at least fourteen A4 sides**. Recommended
+minimum allocation: essay 4 sides; comprehension 3 sides; précis 2 sides; Usage
+and Vocabulary I 2 sides; Usage and Vocabulary II 2 sides; final checking and
+rough count 1 side. Start each question on a fresh page or clearly ruled section.
+Write the précis source, target and final counts only on rough work. Open the
+separate Solutions document only after the full 180 minutes.
 
 ## Q1. Essay (100 marks)
 
@@ -210,7 +250,10 @@ The mature alternative to haste is not endless postponement. It is disciplined t
 
 ## Q4. Usage and Vocabulary I (25 marks)
 
-### A. Correct the sentences (10 × 1)
+### A. Correct only where necessary (10 × 1)
+
+If a sentence is already acceptable, write **acceptable**; do not manufacture
+an error.
 
 1. One of the files are missing.
 2. She is capable to solve the problem.
@@ -245,7 +288,10 @@ transparent, scarce, voluntary, rigid, temporary
 
 ## Q5. Usage and Vocabulary II (25 marks)
 
-### A. Transform without changing meaning (10 × 1)
+### A. Transform as directed (10 × 1)
+
+Preserve meaning in Questions 1–9. Question 10 explicitly changes the scope of
+**only** and must express the requested new focus.
 
 1. The team completed the survey. (Passive)
 2. She said, “I have submitted the form.” (Indirect)
@@ -278,10 +324,30 @@ prudent, alleviate, reluctant, impartial, feasible
 4. a stitch in time saves nine
 5. all that glitters is not gold
 
-## PART 03 — 03 Full-Length-Mock-2
+## Candidate record — complete before opening Solutions
+
+| Field | Candidate entry |
+|---|---|
+| Essay option attempted | |
+| Essay final word count | |
+| Précis source / target / final count | |
+| Questions or subparts left blank | |
+| Start time / finish time | |
+| Final 15-minute revision completed? | Yes / No |
+
+## PART 03 — UPSC Qualifying English — Full-Length Mock 2
 
 > **Time:** Three Hours | **Maximum Marks:** 300  
 > Independent of Mock 1. All questions are compulsory. Write answers in English. Observe specified word limits.
+
+## Answer-booklet and space instruction
+
+Use a fresh separate ruled answer booklet of **at least fourteen A4 sides**;
+do not reuse Mock 1 answers or outlines. Recommended minimum allocation: essay
+4 sides; comprehension 3 sides; précis 2 sides; Usage and Vocabulary I 2 sides;
+Usage and Vocabulary II 2 sides; final checking and rough count 1 side. Start
+each question on a fresh page or clearly ruled section. Open the separate
+Solutions document only after the full 180 minutes.
 
 ## Q1. Essay (100 marks)
 
@@ -324,7 +390,10 @@ Listening also has limits. No institution can postpone action until every disagr
 
 ## Q4. Usage and Vocabulary I (25 marks)
 
-### A. Correct the sentences (10 × 1)
+### A. Correct only where necessary (10 × 1)
+
+If a sentence is already acceptable, write **acceptable**; do not manufacture
+an error.
 
 1. The list of eligible candidates are displayed outside.
 2. She has been living here since five years.
@@ -334,7 +403,7 @@ Listening also has limits. No institution can postpone action until every disagr
 6. The manager suggested me to apply again.
 7. Having finished the audit, the errors were reported.
 8. I prefer walking than taking a crowded bus.
-9. Every employee should submit their forms by Friday.
+9. Every employee should submit their form by Friday.
 10. The committee discussed about the delay.
 
 ### B. Supply the missing word or preposition (5 × 1)
@@ -359,7 +428,10 @@ deliberate, expand, conceal, inferior, temporary
 
 ## Q5. Usage and Vocabulary II (25 marks)
 
-### A. Transform without changing meaning (10 × 1)
+### A. Transform as directed (10 × 1)
+
+Preserve meaning in Questions 1–9. Question 10 explicitly changes the scope of
+**only** and must express the requested new focus.
 
 1. The board will announce the result tomorrow. (Passive)
 2. The teacher said, “Do not copy the answer.” (Indirect command)
@@ -391,3 +463,14 @@ coherent, mitigate, tentative, resilient, obsolete
 3. know the ins and outs
 4. where there is a will, there is a way
 5. go berserk
+
+## Candidate record — complete before opening Solutions
+
+| Field | Candidate entry |
+|---|---|
+| Essay option attempted | |
+| Essay final word count | |
+| Précis source / target / final count | |
+| Questions or subparts left blank | |
+| Start time / finish time | |
+| Final 15-minute revision completed? | Yes / No |

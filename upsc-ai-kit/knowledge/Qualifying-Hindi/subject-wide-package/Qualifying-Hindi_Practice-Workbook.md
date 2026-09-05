@@ -2,10 +2,26 @@
 
 > Question-only diagnostic and full-length practice. Complete each paper before consulting the separate solutions document.
 
-## PART 01 — 01 आधार-परीक्षण
+## PACKAGE NAVIGATION
+
+- **This document:** केवल-प्रश्न अभ्यास पुस्तिका
+- **Companion Guide:** `Qualifying-Hindi_Complete-Skills-Guide.md`
+- **Question-only Workbook:** `Qualifying-Hindi_Practice-Workbook.md`
+- **Separate Solutions:** `Qualifying-Hindi_Practice-Solutions.md`
+- **Source map:** each numbered Part below names its authoritative source owner; practice-paper and solution Part numbers match one-to-one.
+- **Approval:** false until this exact generation is explicitly approved.
+
+## PART 01 — हिन्दी भाषा-प्रयोग: आधार-निदान और पुनर्परीक्षण
 
 > **उद्देश्य:** यह अभ्यास केवल उत्तर जाँचने के लिए नहीं है। हर गलती को त्रुटि-कोड दें, सम्बद्ध आधार-पाठ दोहराएँ और फिर नया पुनर्परीक्षण दें।
 > **पहला प्रयास:** 90 मिनट | **अंक:** 80 | शब्दकोश/नोट्स नहीं
+> **Question-only rule:** इस file में कोई उत्तर-संकेत या model नहीं है। पूरा प्रयास लिखने के बाद
+> ही अलग `answer-keys/01_आधार-परीक्षण-उत्तर.md` खोलें।
+
+**Candidate record:** नाम/कोड: __________ · तिथि: __________ · आरंभ: ______ · समाप्ति: ______
+
+**Writing-space guidance:** A के लिए कम-से-कम 6 ruled A4 sides और B के लिए 4 sides रखें।
+हर section नई heading से शुरू करें; संपादन-अंश को पूरा फिर लिखें, केवल गलत शब्द न काटें।
 
 ## प्रयोग-विधि और पास-गेट
 
@@ -161,10 +177,17 @@
 
 उत्तर-मॉडल, अंक-विभाजन और स्वीकार्य विकल्प: [`answer-keys/01_आधार-परीक्षण-उत्तर.md`](../answer-keys/01_आधार-परीक्षण-उत्तर.md)।
 
-## PART 02 — 02 पूर्ण-मॉक
+## PART 02 — UPSC अनिवार्य हिन्दी — पूर्ण मॉक 1
 
 > **समय:** तीन घंटे (180 मिनट) | **अधिकतम अंक:** 300  
-> `00_Master-Framework.md` की 5+45+35+30+30+25+10 योजना अपनाइए। सभी प्रश्न अनिवार्य हैं; जहाँ निर्देश हो, वहीं अंग्रेज़ी लिखिए।
+> यह **repository का internal mock allocation** है, official section-mark claim नहीं।  
+> `00_Master-Framework.md` की 5+45+35+30+30+25+10 योजना अपनाइए। सभी प्रश्न अनिवार्य हैं; जहाँ निर्देश हो, वहीं अंग्रेज़ी लिखिए। उत्तर पूरा करने से पहले अलग Solutions document न खोलें।
+
+**Candidate record:** नाम/कोड: __________ · तिथि: __________ · आरंभ: ______ · समाप्ति: ______ · कुल मिनट: ______
+
+**Answer-booklet guidance:** कम-से-कम 14 ruled A4 sides रखें—निबन्ध 6; बोध 3;
+संक्षेपण 2; दोनों अनुवाद 2; भाषा-प्रयोग 1। प्रश्न-संख्या स्पष्ट लिखें, संक्षेपण में
+source/target/actual count दर्ज करें और कोई उत्तर इसी question paper पर न लिखें।
 
 ## प्रश्न 1. निबन्ध (100 अंक)
 
@@ -235,10 +258,18 @@ Education does more than prepare a person for employment. It develops the abilit
 
 दिन-दीन; पास-पाश; प्रसाद-प्रासाद; अभिनय-अभिनव; जूठा-झूठा।
 
-## PART 03 — 03 पूर्ण-मॉक-2
+## PART 03 — UPSC अनिवार्य हिन्दी — पूर्ण मॉक 2
 
 > **स्वतंत्रता check:** इस मॉक के essay choices, passage, précis और translations Mock 1 से अलग हैं।  
-> **समय:** तीन घंटे (180 मिनट) | **अधिकतम अंक:** 300। सभी प्रश्न अनिवार्य हैं।
+> **समय:** तीन घंटे (180 मिनट) | **अधिकतम अंक:** 300। यह repository का **internal mock
+> allocation** है, official section-mark claim नहीं। सभी प्रश्न अनिवार्य हैं और अलग Solutions
+> document प्रयास पूरा होने के बाद ही खोलें।
+
+**Candidate record:** नाम/कोड: __________ · तिथि: __________ · आरंभ: ______ · समाप्ति: ______ · कुल मिनट: ______
+
+**Answer-booklet guidance:** कम-से-कम 14 ruled A4 sides रखें—निबन्ध 6; बोध 3;
+संक्षेपण 2; दोनों अनुवाद 2; भाषा-प्रयोग 1। प्रश्न-संख्या स्पष्ट लिखें, संक्षेपण में
+source/target/actual count दर्ज करें और कोई उत्तर इसी question paper पर न लिखें।
 
 ## प्रश्न 1. निबन्ध (100 अंक)
 

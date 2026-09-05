@@ -3,6 +3,15 @@
 > **Time:** Three Hours | **Maximum Marks:** 300  
 > Independent of Mock 1. All questions are compulsory. Write answers in English. Observe specified word limits.
 
+## Answer-booklet and space instruction
+
+Use a fresh separate ruled answer booklet of **at least fourteen A4 sides**;
+do not reuse Mock 1 answers or outlines. Recommended minimum allocation: essay
+4 sides; comprehension 3 sides; précis 2 sides; Usage and Vocabulary I 2 sides;
+Usage and Vocabulary II 2 sides; final checking and rough count 1 side. Start
+each question on a fresh page or clearly ruled section. Open the separate
+Solutions document only after the full 180 minutes.
+
 ## Q1. Essay (100 marks)
 
 Write an essay in about **600 words** on any one:
@@ -44,7 +53,10 @@ Listening also has limits. No institution can postpone action until every disagr
 
 ## Q4. Usage and Vocabulary I (25 marks)
 
-### A. Correct the sentences (10 × 1)
+### A. Correct only where necessary (10 × 1)
+
+If a sentence is already acceptable, write **acceptable**; do not manufacture
+an error.
 
 1. The list of eligible candidates are displayed outside.
 2. She has been living here since five years.
@@ -54,7 +66,7 @@ Listening also has limits. No institution can postpone action until every disagr
 6. The manager suggested me to apply again.
 7. Having finished the audit, the errors were reported.
 8. I prefer walking than taking a crowded bus.
-9. Every employee should submit their forms by Friday.
+9. Every employee should submit their form by Friday.
 10. The committee discussed about the delay.
 
 ### B. Supply the missing word or preposition (5 × 1)
@@ -79,7 +91,10 @@ deliberate, expand, conceal, inferior, temporary
 
 ## Q5. Usage and Vocabulary II (25 marks)
 
-### A. Transform without changing meaning (10 × 1)
+### A. Transform as directed (10 × 1)
+
+Preserve meaning in Questions 1–9. Question 10 explicitly changes the scope of
+**only** and must express the requested new focus.
 
 1. The board will announce the result tomorrow. (Passive)
 2. The teacher said, “Do not copy the answer.” (Indirect command)
@@ -111,3 +126,14 @@ coherent, mitigate, tentative, resilient, obsolete
 3. know the ins and outs
 4. where there is a will, there is a way
 5. go berserk
+
+## Candidate record — complete before opening Solutions
+
+| Field | Candidate entry |
+|---|---|
+| Essay option attempted | |
+| Essay final word count | |
+| Précis source / target / final count | |
+| Questions or subparts left blank | |
+| Start time / finish time | |
+| Final 15-minute revision completed? | Yes / No |

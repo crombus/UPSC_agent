@@ -1,7 +1,7 @@
 # उत्तर-योग्यता लेखापरीक्षा — अनिवार्य हिन्दी
 
 > **अंतिम स्थिति:** ✅ पूर्ण  
-> **प्रमाणीकरण तिथि:** 15 अगस्त 2026  
+> **मूल Core प्रमाणीकरण:** 15 अगस्त 2026 · **subject-package deep review:** 5 सितम्बर 2026  
 > **मानक:** [`../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md`](../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md)
 
 ## 1. लेखापरीक्षा-क्षेत्र और सूची
@@ -55,6 +55,23 @@ methods, worked examples, translation controls, timed drills और diagnosis
 | तथ्य/स्रोत अनुशासन | 3 | printed facts, OCR pointers और internal mock allocations स्पष्ट रूप से अलग हैं। |
 
 **अंतिम अंक: 30/30।**
+
+## 3A. 5 सितम्बर subject-package deep-review addendum
+
+Core certification ने content spine सही पकड़ा था, पर g1 publication में package-level defects
+रह गए थे। Deep review में इन्हें अलग से repair किया गया:
+
+- तीनों PDFs में internal contents, matching bookmarks और page-number footer नहीं थे;
+- Workbook में answer-booklet space guidance और candidate record नहीं था;
+- Solutions में आठ essay choices के लिए केवल anchors थे, पूरे coaching models नहीं;
+- translation keys में acceptable alternatives और non-literal choices का explanation सीमित था;
+- Guide/Workbook/Solutions की generation-level navigation और official-skill-to-owner/practice/key
+  mapping पर्याप्त स्पष्ट नहीं थी;
+- g1 Workbook में एक near-empty page था।
+
+इन defects के कारण g1 के page-count/openability checks को 98/100 deep-review pass नहीं माना गया।
+Immutable g2 publication में इन्हें सुधारा गया; g1 files और record बदले नहीं गए। Essay models
+और model translations coaching guidance हैं, fabricated official keys नहीं।
 
 ## 4. विषयवार matrix
 
@@ -177,4 +194,3 @@ qualifying outcome इनके बिना सुरक्षित है।
 
 > Candidate readiness अभी claim नहीं की गई है। वह दो actual timed mocks,
 > component floors और error-log clearance के बाद ही स्थापित होगी।
-

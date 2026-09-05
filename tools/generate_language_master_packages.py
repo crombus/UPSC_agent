@@ -13,6 +13,11 @@ KNOWLEDGE = ROOT / "upsc-ai-kit" / "knowledge"
 CONFIGS = {
     "Qualifying-English": {
         "title": "UPSC Qualifying English",
+        "guide_introduction": (
+            "A subject-wide guide for the compulsory qualifying English paper. "
+            "It covers the official English areas only: serious discursive-prose "
+            "comprehension, precis writing, usage and vocabulary, and short essays."
+        ),
         "guide_sources": [
             "README.md",
             "00_Master-Framework.md",
@@ -45,6 +50,13 @@ CONFIGS = {
     },
     "Qualifying-Hindi": {
         "title": "UPSC अनिवार्य हिन्दी",
+        "guide_introduction": (
+            "One continuous language-learning guide. It covers grammar, usage, "
+            "vocabulary, comprehension, précis, essay writing, translation where "
+            "applicable in both English↔Hindi directions, readiness and examination "
+            "method. It contains no "
+            "artificial GS learning-session sequence."
+        ),
         "guide_sources": [
             "README.md",
             "00_Master-Framework.md",
@@ -94,13 +106,33 @@ def combine(
         path = folder / source
         if not path.is_file():
             raise FileNotFoundError(path)
-        blocks.append(
-            f"## PART {number:02d} — {path.stem.replace('_', ' ')}\n\n"
-            f"{strip_h1(path.read_text(encoding='utf-8'))}"
+        source_text = path.read_text(encoding="utf-8")
+        heading = next(
+            (
+                match.group(1).strip()
+                for line in source_text.splitlines()
+                if (match := re.match(r"^#\s+(.+?)\s*$", line))
+            ),
+            path.stem.replace("_", " "),
         )
+        blocks.append(
+            f"## PART {number:02d} — {heading}\n\n"
+            f"{strip_h1(source_text)}"
+        )
+    navigation = (
+        "## PACKAGE NAVIGATION\n\n"
+        f"- **This document:** {package_title}\n"
+        f"- **Companion Guide:** `{folder.name}_Complete-Skills-Guide.md`\n"
+        f"- **Question-only Workbook:** `{folder.name}_Practice-Workbook.md`\n"
+        f"- **Separate Solutions:** `{folder.name}_Practice-Solutions.md`\n"
+        "- **Source map:** each numbered Part below names its authoritative "
+        "source owner; practice-paper and solution Part numbers match one-to-one.\n"
+        "- **Approval:** false until this exact generation is explicitly approved.\n"
+    )
     return (
         f"# {title} — {package_title}\n\n"
         f"> {introduction}\n\n"
+        f"{navigation}\n"
         + "\n\n".join(blocks)
         + "\n"
     )
@@ -126,12 +158,7 @@ def build_subject(key: str, config: dict[str, object]) -> None:
         str(config["title"]),
         str(guide_label),
         list(config["guide_sources"]),
-        (
-            "One continuous language-learning guide. It covers grammar, usage, "
-            "vocabulary, comprehension, précis, essay writing, translation where "
-            "applicable, readiness and examination method. It contains no "
-            "artificial GS learning-session sequence."
-        ),
+        str(config["guide_introduction"]),
     )
     workbook = combine(
         folder,

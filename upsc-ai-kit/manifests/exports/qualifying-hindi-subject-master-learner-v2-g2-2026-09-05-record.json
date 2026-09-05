@@ -1,0 +1,230 @@
+{
+  "record_id": "qualifying-hindi-subject-master:learner-v2:g2",
+  "topic_key": "qualifying-hindi-subject-master",
+  "subject": "Qualifying-Hindi",
+  "section": "Subject-Wide-Package",
+  "title": "UPSC अनिवार्य हिन्दी सम्पूर्ण कौशल पैकेज",
+  "variant": "learner-v2",
+  "generation": 2,
+  "command": "Generate Qualifying-Hindi subject-wide skills package",
+  "main_pdf": "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g2\\Qualifying-Hindi_Complete-Skills-Guide_2026-09-05.pdf",
+  "workbook": "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g2\\Qualifying-Hindi_Practice-Workbook_2026-09-05.pdf",
+  "solutions_pdf": "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g2\\Qualifying-Hindi_Practice-Solutions_2026-09-05.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Complete-Skills-Guide.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Workbook.md",
+  "solutions_markdown": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md",
+  "generated_on": "2026-09-05",
+  "approved": false,
+  "format": {
+    "name": "qualifying-language-subject-package-v1",
+    "learning_sessions": 0,
+    "guide_source_sections": 12,
+    "practice_papers": 3,
+    "matching_solution_keys": 3,
+    "guide_pages": 41,
+    "workbook_pages": 13,
+    "solutions_pages": 23,
+    "empty_pdf_pages": 0,
+    "guide_bookmarks": 117,
+    "workbook_bookmarks": 36,
+    "solutions_bookmarks": 48
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "qualifying-hindi-subject-master:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-05",
+    "validator": "tools/publish_language_master_packages.py"
+  },
+  "refresh_profile": "qualifying-language-subject-package-v1",
+  "supersedes": "qualifying-hindi-subject-master:learner-v2:g1",
+  "artifact_contract": "qualifying-language-subject-package-v1",
+  "validation_report": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-deep-review-validation-2026-09-05.json",
+  "reconciliation_report": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-deep-review-reconciliation-2026-09-05.json",
+  "preview_contact_sheet": "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g2\\Qualifying-Hindi_Subject-Wide-Package_g2-contact-sheet.png",
+  "selected_page_previews": "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g2\\Qualifying-Hindi_g2-selected-page-previews.png",
+  "evidence_previews": [
+    "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g2\\Qualifying-Hindi_Held-Papers-contact-sheet.png",
+    "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g2\\Qualifying-Hindi_2022-2023-Precis-Instructions.png"
+  ],
+  "provenance": {
+    "source_root": "upsc-ai-kit\\knowledge\\Qualifying-Hindi",
+    "source_files": [
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Question-Demand-Ledger.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Readiness-Tracker.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\answer-keys\\01_आधार-परीक्षण-उत्तर.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\answer-keys\\02_पूर्ण-मॉक-उत्तर.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\answer-keys\\03_पूर्ण-मॉक-2-उत्तर.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\ANSWER-WORTHINESS-AUDIT.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\01_शब्द-भेद.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\02_व्याकरण-वर्तनी-वाक्य-शुद्धि.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\03_शब्दावली-मुहावरे-लोकोक्तियाँ.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\04_बोध-और-संक्षेपण.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\05_निबन्ध-लेखन.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\06_अनुवाद.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\practice\\01_आधार-परीक्षण.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\practice\\02_पूर्ण-मॉक.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\practice\\03_पूर्ण-मॉक-2.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Complete-Skills-Guide.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Workbook.md"
+    ],
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md": "fb95a53f8c74cdd00945c50c8095372549ffba07e28c5393f4a8133d7c9d0e66",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Question-Demand-Ledger.md": "0ddca5a90e06e7af6daf4f0b0c6610e3cd3ca92d3bd1767026667bf1bc8bd9a1",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Readiness-Tracker.md": "9e2f7b067533c49cff878239d0fdd5ce828f3087b0f04e5f465ad9a0c7b14645",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\answer-keys\\01_आधार-परीक्षण-उत्तर.md": "1eaa4ece9d6c0f9ef411fa33348d73896087126897d5db7d7ab7b62929ae58bd",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\answer-keys\\02_पूर्ण-मॉक-उत्तर.md": "cd7ec419346b27c70d1d6b91a6216f272c01117ed62e0f6a56f59e57a0cdabe3",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\answer-keys\\03_पूर्ण-मॉक-2-उत्तर.md": "e3e08dfbb195d964aad0addec482fc80db37fb1b1d67aed5593dd077d37ab516",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\ANSWER-WORTHINESS-AUDIT.md": "ef929390db0fb76b3e7606f8f69fb607706afaffe25535c1215ecb3786c69005",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\01_शब्द-भेद.md": "a520e045fd0ed31d4d2111b7ebbe53a880e458fc4b131b76b45faf2883ae73f1",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\02_व्याकरण-वर्तनी-वाक्य-शुद्धि.md": "0b10f4b307bffc1d718bda6bab6c595fcbe9004470492fd8832243294edf0ebd",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\03_शब्दावली-मुहावरे-लोकोक्तियाँ.md": "d2770ab7ea080d2aa32758e9d4b4ad76d740fd5c9b7f7f4dda201a5a6c89ff72",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\04_बोध-और-संक्षेपण.md": "57c774abcd46e72f7cb9b7d640228442a8cbf11cddf7ff76a5f31f6d91a38123",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\05_निबन्ध-लेखन.md": "bbd29a589a51dd9eaa880cee019b07365fad2337b7d741f1a49eab6bd7074008",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\06_अनुवाद.md": "85d2c82cdcf89cd6edab00dfb4a79b8b8dfe5be7ce7fc7d7906d5cee2d174f88",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\LEARNING-SESSION-COMMAND-INDEX.md": "ad6f81de21a1b18af98e3fe66e367f823ced3bb16e096495af912fe42886cb99",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "1db3dd96a81f38dd97d7cafdc4ff8d729ea8964b088fe2c9d4b399a3cac40f93",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\practice\\01_आधार-परीक्षण.md": "f59992c9ed95acc890612ee92232b81c71b6ee60ba475277ddf13cc8a1a34d64",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\practice\\02_पूर्ण-मॉक.md": "8806a9ac59e6af9d8a86528b27b21fbccddd1bc9f1f565ceee0e0d453e02fd58",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\practice\\03_पूर्ण-मॉक-2.md": "50d21ff7cac2d86ee2948c4b1f6e61e39a1393689e2c143014bb8767bbef92ee",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md": "fe84cc953a93d9e9ca7410417705a5993aa98dcadc997025385e17998a4d4d28",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Complete-Skills-Guide.md": "626c896c75f7b2d8af0679615ca0ad65e18d723ccf1dc9f0cd0da1cdc9af5d00",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md": "2f1b8712d81d86205c18230d40d664cd038c8b196c90f885d7f7e429f6eaf0b8",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Workbook.md": "7fd0e71d370020367a219fbb242abe2c7c7256690f20f5bbc7c8e8356f60ebf7"
+    },
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "demand_ledger": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Question-Demand-Ledger.md",
+    "official_paper_audit": [
+      {
+        "year": "2018",
+        "path": "books\\more_previous_papers\\HINDI-COMP.pdf",
+        "pages": 7,
+        "labels": {
+          "header_and_page_count": "[V]",
+          "section_navigation_from_text_layer": "[O]",
+          "repository_mock_allocation": "[I]"
+        },
+        "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+        "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+        "precis_instruction": "not promoted beyond the ledger's verified wording"
+      },
+      {
+        "year": "2019",
+        "path": "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf",
+        "pages": 8,
+        "labels": {
+          "header_and_page_count": "[V]",
+          "section_navigation_from_text_layer": "[O]",
+          "repository_mock_allocation": "[I]"
+        },
+        "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+        "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+        "precis_instruction": "not promoted beyond the ledger's verified wording"
+      },
+      {
+        "year": "2020",
+        "path": "books\\more_previous_papers\\HINDI_0 (1).pdf",
+        "pages": 8,
+        "labels": {
+          "header_and_page_count": "[V]",
+          "section_navigation_from_text_layer": "[O]",
+          "repository_mock_allocation": "[I]"
+        },
+        "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+        "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+        "precis_instruction": "not promoted beyond the ledger's verified wording"
+      },
+      {
+        "year": "2021",
+        "path": "books\\more_previous_papers\\Hindi_0.pdf",
+        "pages": 7,
+        "labels": {
+          "header_and_page_count": "[V]",
+          "section_navigation_from_text_layer": "[O]",
+          "repository_mock_allocation": "[I]"
+        },
+        "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+        "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+        "precis_instruction": "not promoted beyond the ledger's verified wording"
+      },
+      {
+        "year": "2022",
+        "path": "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf",
+        "pages": 4,
+        "labels": {
+          "header_and_page_count": "[V]",
+          "section_navigation_from_text_layer": "[O]",
+          "repository_mock_allocation": "[I]"
+        },
+        "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+        "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+        "precis_instruction": "one-third, own words, no title visibly verified"
+      },
+      {
+        "year": "2023",
+        "path": "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+        "pages": 8,
+        "labels": {
+          "header_and_page_count": "[V]",
+          "section_navigation_from_text_layer": "[O]",
+          "repository_mock_allocation": "[I]"
+        },
+        "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+        "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+        "precis_instruction": "one-third, own words, no title visibly verified"
+      },
+      {
+        "year": "2025",
+        "path": "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf",
+        "pages": 8,
+        "labels": {
+          "header_and_page_count": "[V]",
+          "section_navigation_from_text_layer": "[O]",
+          "repository_mock_allocation": "[I]"
+        },
+        "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+        "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+        "precis_instruction": "not promoted beyond the ledger's verified wording"
+      }
+    ],
+    "baseline_record": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-subject-master-learner-v2-g1-2026-09-04-record.json",
+    "baseline_record_hash": "dd7ed3caa0e4faf001836dbcc68e39991fef16a21d16a7a25fba2f6f0980b344",
+    "baseline_pdf_hashes": {
+      "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g1\\Qualifying-Hindi_Complete-Skills-Guide_2026-09-04.pdf": "7e23e58b818c526fa83cd864af37f9514fbfdc6061540dc5d32f42b4c66011c8",
+      "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g1\\Qualifying-Hindi_Practice-Solutions_2026-09-04.pdf": "6a7fffdb0eeb57e55fb2328cf63148d34d80118ebc24fc7e6fc6f62ef609c575",
+      "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g1\\Qualifying-Hindi_Practice-Workbook_2026-09-04.pdf": "9927794f6571a898614b810d4d2d91dbaf873286f9a33dc3885dc360f48b5b4b"
+    },
+    "renderer": {
+      "name": "unicode-markdown-pdf",
+      "version": "2.0"
+    }
+  },
+  "review": {
+    "reviewed_on": "2026-09-05",
+    "score": 98,
+    "hard_gate_failures": [],
+    "approval": false,
+    "verified_repairs": [
+      "internal contents, bookmarks and page-number footers",
+      "question-only workbook records and writing-space guidance",
+      "eight complete coaching essay models",
+      "passage-grounded comprehension model responses",
+      "translation alternatives and non-literal-choice explanations",
+      "official skill to Guide/Workbook/Solutions mapping",
+      "Devanagari-safe wrapping and searchable Unicode validation"
+    ],
+    "tracker_handling": {
+      "EXPORT-PDF-STATUS.json": "excluded under existing language subject-master convention",
+      "MASTER-TRACKER.json": "excluded; not a normal GS topic",
+      "REVIEW-TRACKER.json": "excluded; reviewed through subject report and immutable record"
+    }
+  }
+}

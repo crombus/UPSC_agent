@@ -1,21 +1,44 @@
 # UPSC अनिवार्य हिन्दी — सम्पूर्ण कौशल मार्गदर्शिका
 
-> One continuous language-learning guide. It covers grammar, usage, vocabulary, comprehension, précis, essay writing, translation where applicable, readiness and examination method. It contains no artificial GS learning-session sequence.
+> One continuous language-learning guide. It covers grammar, usage, vocabulary, comprehension, précis, essay writing, translation where applicable in both English↔Hindi directions, readiness and examination method. It contains no artificial GS learning-session sequence.
 
-## PART 01 — README
+## PACKAGE NAVIGATION
+
+- **This document:** सम्पूर्ण कौशल मार्गदर्शिका
+- **Companion Guide:** `Qualifying-Hindi_Complete-Skills-Guide.md`
+- **Question-only Workbook:** `Qualifying-Hindi_Practice-Workbook.md`
+- **Separate Solutions:** `Qualifying-Hindi_Practice-Solutions.md`
+- **Source map:** each numbered Part below names its authoritative source owner; practice-paper and solution Part numbers match one-to-one.
+- **Approval:** false until this exact generation is explicitly approved.
+
+## PART 01 — UPSC अनिवार्य हिन्दी — ज्ञान आधार
 
 > **प्रश्नपत्र:** भारतीय भाषा (हिन्दी) · **स्तर:** मैट्रिक अथवा समकक्ष · **प्रकृति:** अर्हकारी; मेरिट में नहीं जोड़ा जाता।  
 > **Evidence:** `00_Question-Demand-Ledger.md` में held 2018, 2019, 2020, 2021, 2022, 2023 और 2025 प्रश्नपत्रों का page-level ledger है। उसमें `[V]` visually verified printed facts, `[O]` OCR-derived pointers और `[I]` internal training allocations अलग हैं।
 
+## इस विशेष package की architecture
+
+यह सामान्य GS topic export नहीं है। इसका authoritative रूप केवल यह है:
+
+1. एक subject-wide **Complete Skills Guide**;
+2. एक **question-only Practice Workbook**;
+3. एक अलग **Practice Solutions** document।
+
+इसे चार-artifact GS tracker, topic-folder flowchart या MASTER/REVIEW queue में न डालें। तीनों
+documents का generation-specific प्रवेश-बिंदु
+`notes\Qualifying-Hindi\Subject-Wide-Package\INDEX.md` है। Workbook हल करने से पहले Solutions
+न खोलें।
+
 ## कैसे पढ़ें
 
-1. `00_Master-Framework.md` की 180-मिनट योजना और सुरक्षा gates पढ़ें।
-2. `basic/01`–`basic/03` से अपनी भाषा-त्रुटियाँ चिन्हित करें।
-3. `basic/04`, `basic/05`, `basic/06` की checklists पर worked examples करें।
-4. `practice/01_आधार-परीक्षण.md` के बाद **दो अलग** तीन-घंटे, 300-अंकीय मॉक करें:
+1. `00_Master-Framework.md` में official scope, internal marks और 180-मिनट योजना अलग-अलग पहचानें।
+2. `basic/01`–`basic/03` को आसान क्रम में पढ़ें: शब्द का काम → वाक्य-शुद्धि → अर्थपूर्ण प्रयोग।
+3. `practice/01_आधार-परीक्षण.md` दें; हर गलती को code देकर उसी owner में लौटें।
+4. `basic/04`, `basic/05`, `basic/06` में क्रमशः बोध/संक्षेपण, निबन्ध और अनुवाद की प्रक्रियाएँ करें।
+5. फिर **दो अलग** तीन-घंटे, internal 300-अंकीय मॉक करें:
    - `practice/02_पूर्ण-मॉक.md`
    - `practice/03_पूर्ण-मॉक-2.md`
-5. हर attempt को `00_Readiness-Tracker.md` में दर्ज करें; keys के साथ केवल उत्तर न मिलाएँ, error codes भी लिखें।
+6. हर attempt को `00_Readiness-Tracker.md` में दर्ज करें; keys के साथ केवल उत्तर न मिलाएँ, error codes भी लिखें।
 
 ## Core files
 
@@ -35,10 +58,12 @@
 ✅ Ledger में `[V]` के रूप में दर्ज header/page facts और legible printed instructions ही source facts हैं।  
 ⚠️ `[O]` OCR-derived text केवल navigation/demand pointer है; अस्पष्ट section marks को न अनुमानित किया गया है, न 100/60/60/20/20/40 allocation का source evidence माना गया है। Current qualifying threshold के लिए परीक्षा-वर्ष की UPSC notification देखें।
 
-## PART 02 — 00 Master-Framework
+## PART 02 — अनिवार्य हिन्दी — परीक्षा-कार्य रूपरेखा
 
 > **प्रकृति:** अर्हकारी (qualifying), 300 अंक, तीन घंटे।  
 > **लक्ष्य:** सुरक्षित, स्वाभाविक और शुद्ध हिन्दी में हर अनिवार्य भाग पूरा करना; मेरिट-उत्तर जैसा अनावश्यक विस्तार नहीं।
+> **Official scope:** passage comprehension; précis/संक्षेपण; usage and vocabulary; short essay;
+> English↔Hindi translation; Matriculation/equivalent level; qualifying and non-ranking status।
 
 ## 1. Internal training allocation — पहले सुरक्षित अंक
 
@@ -83,7 +108,7 @@
 ## 4. अर्हता और सुरक्षा
 
 - **25%=75/300:** यह अक्सर उद्धृत मान है, पर इस repository में 2026 की वर्तमान आधिकारिक अधिसूचना से सत्यापित नहीं है। इसे अर्हता-दावा या score gate न मानें।
-- **गैर-आधिकारिक सुरक्षा लक्ष्य:** कम-से-कम **120/300**, दोनों स्वतंत्र समयबद्ध मॉक में।
+- **गैर-आधिकारिक (non-official) सुरक्षा लक्ष्य:** कम-से-कम **120/300**, दोनों स्वतंत्र समयबद्ध मॉक में।
 - **Component floors:** निबन्ध 35/100; बोध 24/60; संक्षेपण 24/60; प्रत्येक अनुवाद 8/20; भाषा-प्रयोग 20/40।
 - कोई floor न मिले, या 180 मिनट से अधिक लगें, तो status `NOT READY` है—भले ही कुल 120 हो।
 
@@ -95,7 +120,18 @@
 - अनुवाद में `नहीं`, `यदि`, `चाहिए/सकता है`, तुलना, नाम और संस्था ज्यों-के-त्यों या उचित established रूप में हैं।
 - लिंग-वचन, कारक, मात्रा, अनुस्वार/अनुनासिक, नुक्ता और विराम-चिह्न जाँचे गए हैं।
 
-## PART 03 — 00 Question-Demand-Ledger
+## 6. त्रुटि से remediation तक
+
+```text
+गलत उत्तर → error code → संबंधित basic owner → 3 नए micro-drills
+          → समयबद्ध retest → tracker entry → अगला mock
+```
+
+केवल key पढ़ लेना remediation नहीं है। सुधार तब पूरा है जब नया, पहले न देखा हुआ उदाहरण
+समय-सीमा में सही हो। Essay, comprehension, précis और translation में उत्तर को model से
+शब्दशः मिलाना आवश्यक नहीं; rubric और preserved meaning के आधार पर जाँचें।
+
+## PART 03 — Held Hindi compulsory papers — dated demand ledger
 
 > **Evidence key:** `[V]` = visually checked printed page/header/instruction; `[O]` = OCR/text-layer pointer used only to locate a section; `[I]` = repository’s internal mock allocation, never source-paper evidence. PDF page numbers below were rechecked against each file's actual page count on 2026-08-15.
 
@@ -114,7 +150,7 @@
 ✅ `[V]` establishes the held files' page counts, printed three-hour/300 headers, recurring 600-word essay instruction, bidirectional translation/usage locations, and the explicitly readable 2022/2023 précis instruction.  
 ⚠️ `[O]` supports training navigation but cannot prove a damaged figure or a precise allocation. The **100/60/60/20/20/40** pattern in the two repository mocks is `[I]`, an internal 300-mark practice design; it is not presented as section-by-section source-verified evidence.
 
-## PART 04 — 00 Readiness-Tracker
+## PART 04 — अनिवार्य हिन्दी — Readiness Tracker
 
 > **Official threshold caution:** 25%=75/300 is not verified here against the current examination-year UPSC notification. Use it only after checking that notification.  
 > **Repository safety target (non-official):** 120/300 in each of two independent 180-minute mocks, with all floors below.
@@ -167,17 +203,17 @@
 3. Re-score only after checking the key's acceptable variants.
 4. Do not call a single high score readiness; Mock 2 must remain independent in topic, passage, précis and translations.
 
-## PART 05 — OFFICIAL-UPSC-SYLLABUS-MAPPING
+## PART 05 — आधिकारिक पाठ्यक्रम और प्रश्न-दबाव मानचित्रण — अनिवार्य हिन्दी
 
 > यह map syllabus-label को coverage का प्रमाण नहीं मानता। प्रत्येक row का अभ्यास और score gate भी नीचे है।
 
-| आधिकारिक क्षेत्र | Core owner | उत्तर में अनिवार्य क्षमता | अभ्यास/सत्यापन |
-|---|---|---|---|
-| Comprehension of given passages | `basic/04` | literal, inference, tone, purpose, reference, context-vocabulary, multipart response | दोनों mocks में 24/60 |
-| Precis writing | `basic/04` | idea-unit coverage, one-third count, paraphrase, coherence, title/no-title instruction | दोनों mocks में 24/60 |
-| Usage and vocabulary | `basic/01`–`03` | शुद्धि, मुहावरा, पर्याय, शब्द-युग्म को अर्थपूर्ण वाक्य में | दोनों mocks में 20/40 |
-| Short essays | `basic/05` | choice, qualified thesis, linked paragraphs, balance, 600-word control | दोनों mocks में 35/100 |
-| Translation English↔Indian language | `basic/06` | semantic fidelity, tense/modality/negation/condition, register, no omission/addition | प्रत्येक दिशा में 8/20 |
+| आधिकारिक क्षेत्र | Guide owner | Workbook practice | Solutions section | उत्तर में अनिवार्य क्षमता |
+|---|---|---|---|---|
+| Comprehension of given passages | `basic/04` | `practice/02` Q2; `practice/03` Q2 | matching keys Q2 | literal, inference, tone, purpose, reference, context-vocabulary, multipart response |
+| Precis writing | `basic/04` | `practice/02` Q3; `practice/03` Q3 | matching counted models Q3 | idea-unit coverage, one-third count, paraphrase, coherence, paper-specific title/no-title instruction |
+| Usage and vocabulary | `basic/01`–`03` | diagnostic A/B; both mocks Q6 | diagnostic key; both keys Q6 | शब्द-भेद, शुद्धि, spelling, मुहावरा, पर्याय और शब्द-युग्म का अर्थपूर्ण प्रयोग |
+| Short essays | `basic/05` | both mocks Q1 (four choices each) | eight coaching models + rubrics | choice, qualified thesis, linked paragraphs, balance, examples, transitions, 600-word control and revision |
+| Translation English↔Indian language | `basic/06` | both mocks Q4 and Q5 | matching models, alternatives and choice notes | semantic fidelity, tense/aspect/modality/negation/condition/voice, register, no omission/addition |
 
 ## Demand evidence
 
@@ -185,12 +221,15 @@
 
 ## Completion standard
 
-Coverage is complete only when both independent 180-minute mocks total at least 120/300 **and** every component floor in `00_Master-Framework.md` is met. This is a conservative repository target, not an official qualifying declaration.
+यह paper Matriculation/equivalent स्तर का qualifying, non-ranking paper है। Coverage is complete
+only when both independent 180-minute mocks total at least 120/300 **and** every component floor
+in `00_Master-Framework.md` is met. यह conservative repository safety target है, official
+qualifying threshold या official section-mark declaration नहीं।
 
-## PART 06 — ANSWER-WORTHINESS-AUDIT
+## PART 06 — उत्तर-योग्यता लेखापरीक्षा — अनिवार्य हिन्दी
 
 > **अंतिम स्थिति:** ✅ पूर्ण  
-> **प्रमाणीकरण तिथि:** 15 अगस्त 2026  
+> **मूल Core प्रमाणीकरण:** 15 अगस्त 2026 · **subject-package deep review:** 5 सितम्बर 2026  
 > **मानक:** [`../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md`](../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md)
 
 ## 1. लेखापरीक्षा-क्षेत्र और सूची
@@ -244,6 +283,23 @@ methods, worked examples, translation controls, timed drills और diagnosis
 | तथ्य/स्रोत अनुशासन | 3 | printed facts, OCR pointers और internal mock allocations स्पष्ट रूप से अलग हैं। |
 
 **अंतिम अंक: 30/30।**
+
+## 3A. 5 सितम्बर subject-package deep-review addendum
+
+Core certification ने content spine सही पकड़ा था, पर g1 publication में package-level defects
+रह गए थे। Deep review में इन्हें अलग से repair किया गया:
+
+- तीनों PDFs में internal contents, matching bookmarks और page-number footer नहीं थे;
+- Workbook में answer-booklet space guidance और candidate record नहीं था;
+- Solutions में आठ essay choices के लिए केवल anchors थे, पूरे coaching models नहीं;
+- translation keys में acceptable alternatives और non-literal choices का explanation सीमित था;
+- Guide/Workbook/Solutions की generation-level navigation और official-skill-to-owner/practice/key
+  mapping पर्याप्त स्पष्ट नहीं थी;
+- g1 Workbook में एक near-empty page था।
+
+इन defects के कारण g1 के page-count/openability checks को 98/100 deep-review pass नहीं माना गया।
+Immutable g2 publication में इन्हें सुधारा गया; g1 files और record बदले नहीं गए। Essay models
+और model translations coaching guidance हैं, fabricated official keys नहीं।
 
 ## 4. विषयवार matrix
 
@@ -367,7 +423,7 @@ qualifying outcome इनके बिना सुरक्षित है।
 > Candidate readiness अभी claim नहीं की गई है। वह दो actual timed mocks,
 > component floors और error-log clearance के बाद ही स्थापित होगी।
 
-## PART 07 — 01 शब्द-भेद
+## PART 07 — शब्द-भेद, सर्वनाम और क्रिया — अनिवार्य आधार
 
 > **लक्ष्य:** भाषा-प्रयोग में शब्द का नाम भर नहीं, उसका वाक्य में काम पहचानना है। एक ही शब्द प्रसंग बदलने पर अलग भेद हो सकता है।
 
@@ -547,7 +603,7 @@ qualifying outcome इनके बिना सुरक्षित है।
 
 उत्तर और आगे का निदान: [`practice/01_आधार-परीक्षण.md`](../practice/01_आधार-परीक्षण.md)।
 
-## PART 08 — 02 व्याकरण-वर्तनी-वाक्य-शुद्धि
+## PART 08 — व्याकरण, वर्तनी और वाक्य-शुद्धि — अनिवार्य आधार
 
 > **लक्ष्य:** उत्तर को “अच्छी हिन्दी” बनाने के लिए पहले लिंग-वचन, कारक, क्रिया-सहमति और वर्तनी की यांत्रिक जाँच करें; फिर अर्थ और स्वाभाविक क्रम जाँचें।
 
@@ -692,7 +748,7 @@ qualifying outcome इनके बिना सुरक्षित है।
 
 निदान और समयबद्ध मिश्रित अभ्यास: [`practice/01_आधार-परीक्षण.md`](../practice/01_आधार-परीक्षण.md)।
 
-## PART 09 — 03 शब्दावली-मुहावरे-लोकोक्तियाँ
+## PART 09 — शब्दावली, शब्द-युग्म और लोकोक्तिपरक प्रयोग — अनिवार्य आधार
 
 > **लक्ष्य:** शब्दावली का प्रश्न “दुर्लभ शब्द” का खेल नहीं है। सही अर्थ, प्रश्न में माँगा गया व्याकरणिक रूप और स्वाभाविक प्रयोग—तीनों पर अंक मिलते हैं। नीचे की सूची अभ्यास-आधार है, भविष्य के हर शब्द की भविष्यवाणी नहीं।
 
@@ -777,7 +833,7 @@ qualifying outcome इनके बिना सुरक्षित है।
 | जो देखने योग्य हो | दर्शनीय | यह किला दर्शनीय है। |
 | जो सुनने योग्य हो | श्रवणीय | उनका भाषण श्रवणीय था। |
 | जो अनुकरण के योग्य हो | अनुकरणीय | उनका संयम अनुकरणीय है। |
-| जो सब जगह विद्यमान हो | सर्वव्यापी | डिजिटल तकनीक सर्वव्यापी होती जा रही है। |
+| जो सब जगह विद्यमान हो | सर्वगत | डिजिटल तकनीक सर्वगत होती जा रही है। |
 | जो पहले कभी न हुआ हो | अभूतपूर्व | वर्षा की तीव्रता अभूतपूर्व थी। |
 
 ### 4.1 रूप और स्वीकार्यता
@@ -912,7 +968,7 @@ qualifying outcome इनके बिना सुरक्षित है।
 
 अधिक समयबद्ध निदान: [`practice/01_आधार-परीक्षण.md`](../practice/01_आधार-परीक्षण.md)।
 
-## PART 10 — 04 बोध-और-संक्षेपण
+## PART 10 — गद्यांश-बोध और संक्षेपण — अनिवार्य आधार
 
 > **उद्देश्य:** passage का आशय बचाना, अपनी राय नहीं जोड़ना। 2022/2023 held papers में “लगभग एक-तिहाई”, “अपने शब्दों में” और “शीर्षक आवश्यक नहीं” साफ़ निर्देश हैं; प्रश्नपत्र का वास्तविक निर्देश हमेशा पहले मान्य है।
 
@@ -1016,7 +1072,7 @@ qualifying outcome इनके बिना सुरक्षित है।
 
 **Error codes:** `C-LIT`, `C-INF`, `C-REF`, `C-MULTI`, `P-COV`, `P-LEN`, `P-COPY` — definitions `00_Readiness-Tracker.md` में हैं।
 
-## PART 11 — 05 निबन्ध-लेखन
+## PART 11 — 600-शब्द निबन्ध — अनिवार्य आधार
 
 > लक्ष्य अलंकार नहीं, prompt का सटीक और संतुलित उत्तर है। कोई अप्रमाणित आँकड़ा, उद्धरण या घटना न लिखें।
 
@@ -1111,7 +1167,7 @@ qualifying outcome इनके बिना सुरक्षित है।
 
 **Annotation / score (100):** demand fidelity 20/20; structure 19/20; claim-example-analysis 22/25; counter-view/qualification 10/10; expression, conclusion and word-control 23/25. `E-TH` risk: “खेल अच्छे हैं” thesis नहीं; access condition अनिवार्य है।
 
-## PART 12 — 06 अनुवाद
+## PART 12 — हिन्दी-अंग्रेज़ी और अंग्रेज़ी-हिन्दी अनुवाद — अनिवार्य आधार
 
 > लक्ष्य शब्दों की अदला-बदली नहीं: **हर semantic unit का वही अर्थ, संबंध, समय और register** लक्ष्य भाषा में स्वाभाविक रूप से पहुँचे।
 
@@ -1128,6 +1184,7 @@ qualifying outcome इनके बिना सुरक्षित है।
 | condition | यदि…तो; जब तक | if…then; unless |
 | causation | क्योंकि, इसलिए, के कारण | because, therefore, due to |
 | comparison | अधिक, कम, के बजाय | more/less, rather than |
+| voice/focus | समिति ने किया / निर्णय किया गया | active/passive focus बिना actor गढ़े |
 | reference | यह/वे/उसका | antecedent clear रहे |
 | proper/institutional term | नाम और official-style institution | names unchanged; established target term |
 | register | प्रशासनिक, शैक्षिक, सामान्य | न अतिसाधारण, न अनावश्यक संस्कृतनिष्ठ |
@@ -1139,7 +1196,9 @@ qualifying outcome इनके बिना सुरक्षित है।
        → omissions/additions tick करें → back-check: target से source अर्थ लौटता है?
 ```
 
-**Back-check questions:** क्या `नहीं` बचा? condition के दोनों halves हैं? `should` को `must` तो नहीं किया? तुलना का मानक बचा? नाम/संस्था बदली तो नहीं? कोई नई व्याख्या तो नहीं जोड़ी?
+**Back-check questions:** क्या `नहीं` बचा? condition के दोनों halves हैं? `should` को `must` तो
+नहीं किया? तुलना का मानक बचा? passive source में actor गढ़ तो नहीं दिया? नाम/संस्था बदली तो
+नहीं? कोई नई व्याख्या तो नहीं जोड़ी?
 
 ## 3. Fully worked हिन्दी → अंग्रेज़ी
 
@@ -1164,6 +1223,11 @@ qualifying outcome इनके बिना सुरक्षित है।
 **Model:** *Dr Meera Sen told Ravi that the original letters are preserved in the archives of the University of Delhi.*  
 **Check:** `मीरा सेन`, `रवि` और `दिल्ली विश्वविद्यालय` को invented English name में न बदलें; order को natural English बनाना permitted है.
 
+### E. Voice without an invented actor
+**Source:** निर्णय की समीक्षा अगले महीने की जाएगी।  
+**Model:** *The decision will be reviewed next month.*  
+**Check:** source actor नहीं बताता; *the committee will review* लिखना unsupported addition होगा।
+
 ## 4. Fully worked अंग्रेज़ी → हिन्दी
 
 ### A. Comparison and condition
@@ -1186,6 +1250,11 @@ qualifying outcome इनके बिना सुरक्षित है।
 **Source:** When Meera asked Ravi a simple question, it helped break the ice at the University of Delhi workshop.  
 **Model:** जब मीरा ने रवि से एक सरल प्रश्न पूछा, तो दिल्ली विश्वविद्यालय की कार्यशाला में शुरुआती झिझक दूर हुई।  
 **Check:** `Meera/Ravi` = `मीरा/रवि`; *break the ice* का अर्थ `बर्फ तोड़ना` नहीं, `शुरुआती झिझक दूर होना` है; `workshop` का register `कार्यशाला` है।
+
+### E. Passive voice and focus
+**Source:** The applications were checked before the final list was published.  
+**Model:** अंतिम सूची प्रकाशित होने से पहले आवेदनों की जाँच की गई।  
+**Check:** actor source में नहीं है; `अधिकारियों ने` जोड़ना अर्थ-वृद्धि होगी।
 ## 5. Timed drills (10 minutes each direction)
 
 ### हिन्दी → अंग्रेज़ी

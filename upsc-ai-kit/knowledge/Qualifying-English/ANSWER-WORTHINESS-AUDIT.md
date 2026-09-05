@@ -1,8 +1,15 @@
 # Answer-Worthiness Audit — Qualifying English
 
-> **Final status:** ✅ Complete  
-> **Certification date:** 15 August 2026  
+> **Core-source status:** Complete  
+> **Core certification date:** 15 August 2026  
 > **Standard:** [`../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md`](../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md)
+>
+> **Package review addendum (5 September 2026):** the earlier 30/30 result
+> certified the Core source owners, not the rendered subject-wide package.
+> The immutable `g2` package fixes missing contents/bookmarks, rendered entity
+> and glyph defects, workbook instructions, navigation and incomplete
+> essay-solution coverage. Its separate deep-review result is 98/100 with
+> approval still false.
 
 ## 1. Audit scope and inventory
 
@@ -169,7 +176,8 @@ paper-affecting method and readiness gate.
 - Local Markdown links: zero broken.
 - Fenced blocks and inspected tables: structurally valid.
 
-## 12. Final status
+## 12. Core-source status
 
-**✅ Complete — 15 August 2026.**
-
+**Complete — 15 August 2026.** Package-level status is controlled by
+`notes/Final-Learning-Packages/_deep-content-review/subject-reports/Qualifying-English-Subject-Completion-2026-09-05.md`
+and the immutable g2 export record.

@@ -1,0 +1,343 @@
+{
+  "schema_version": 1,
+  "record_id": "qualifying-english-subject-master:learner-v2:g2",
+  "validated_at": "2026-09-05T04:31:35.766180+00:00",
+  "result": "passed",
+  "score": 98,
+  "hard_gate_failures": [],
+  "markdown": {
+    "guide_words": 12488,
+    "workbook_words": 4231,
+    "solutions_words": 8452,
+    "guide_parts": 12,
+    "practice_papers": 3,
+    "matching_solution_keys": 3,
+    "full_essay_models": {
+      "Convenience without responsibility weakens citizenship": 544,
+      "Efficiency is not the same as effectiveness": 524,
+      "Certainty can be a barrier to learning": 540,
+      "Reading is an exercise in freedom": 560,
+      "Rules acquire legitimacy when they are understandable as well as enforceable": 534,
+      "The ability to listen is a form of public responsibility": 532,
+      "Progress should enlarge human judgement, not merely human choice": 524,
+      "A city is made not only by buildings but by shared habits": 536
+    },
+    "answer_leakage_matches": 0,
+    "duplicate_numbered_prompts": [],
+    "solution_coverage": {
+      "foundation": {
+        "A": {
+          "questions": 6,
+          "answers": 6
+        },
+        "B": {
+          "questions": 10,
+          "answers": 10
+        },
+        "C": {
+          "questions": 14,
+          "answers": 14
+        },
+        "D": {
+          "questions": 10,
+          "answers": 10
+        },
+        "E": {
+          "questions": 10,
+          "answers": 10
+        },
+        "F": {
+          "questions": 10,
+          "answers": 10
+        },
+        "G": {
+          "questions": 5,
+          "answers": 5
+        },
+        "H": {
+          "questions": 10,
+          "answers": 10
+        },
+        "I": {
+          "questions": 10,
+          "answers": 10
+        }
+      },
+      "mocks": {
+        "1": {
+          "essay_options": 4,
+          "essay_models": 4,
+          "comprehension_questions": 5,
+          "comprehension_answers": 5,
+          "precis_questions": 1,
+          "precis_models": 1,
+          "q4A_questions": 10,
+          "q4A_answers": 10,
+          "q4B_questions": 5,
+          "q4B_answers": 5,
+          "q4C_questions": 5,
+          "q4C_answers": 5,
+          "q4D_questions": 5,
+          "q4D_answers": 5,
+          "q5A_questions": 10,
+          "q5A_answers": 10,
+          "q5B_questions": 5,
+          "q5B_answers": 5,
+          "q5C_questions": 5,
+          "q5C_answers": 5,
+          "q5D_questions": 5,
+          "q5D_answers": 5
+        },
+        "2": {
+          "essay_options": 4,
+          "essay_models": 4,
+          "comprehension_questions": 5,
+          "comprehension_answers": 5,
+          "precis_questions": 1,
+          "precis_models": 1,
+          "q4A_questions": 10,
+          "q4A_answers": 10,
+          "q4B_questions": 5,
+          "q4B_answers": 5,
+          "q4C_questions": 5,
+          "q4C_answers": 5,
+          "q4D_questions": 5,
+          "q4D_answers": 5,
+          "q5A_questions": 10,
+          "q5A_answers": 10,
+          "q5B_questions": 5,
+          "q5B_answers": 5,
+          "q5C_questions": 5,
+          "q5C_answers": 5,
+          "q5D_questions": 5,
+          "q5D_answers": 5
+        }
+      }
+    }
+  },
+  "pdfs": {
+    "guide": {
+      "page_count": 38,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": [],
+      "bookmarks": 112,
+      "bookmark_page_matches": 112,
+      "contents_pages": [
+        2
+      ],
+      "raw_html_entity_pages": [],
+      "page_text_lengths": [
+        586,
+        4699,
+        5185,
+        5003,
+        4436,
+        3093,
+        2271,
+        2827,
+        1865,
+        2591,
+        2109,
+        2201,
+        2038,
+        1957,
+        2474,
+        2797,
+        2348,
+        2637,
+        2855,
+        2248,
+        2040,
+        2715,
+        2596,
+        2575,
+        2503,
+        2929,
+        1862,
+        2275,
+        3073,
+        2296,
+        2271,
+        2786,
+        2384,
+        2602,
+        2169,
+        2226,
+        4810,
+        4342
+      ]
+    },
+    "workbook": {
+      "page_count": 14,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": [],
+      "bookmarks": 47,
+      "bookmark_page_matches": 47,
+      "contents_pages": [
+        2
+      ],
+      "raw_html_entity_pages": [],
+      "page_text_lengths": [
+        616,
+        4632,
+        3446,
+        2127,
+        1943,
+        2076,
+        1605,
+        4125,
+        3886,
+        1845,
+        2435,
+        3541,
+        2223,
+        936
+      ]
+    },
+    "solutions": {
+      "page_count": 20,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": [],
+      "bookmarks": 54,
+      "bookmark_page_matches": 54,
+      "contents_pages": [
+        2
+      ],
+      "raw_html_entity_pages": [],
+      "page_text_lengths": [
+        577,
+        4726,
+        4966,
+        1510,
+        2169,
+        2361,
+        2275,
+        4329,
+        5102,
+        4228,
+        4027,
+        3829,
+        2285,
+        2724,
+        4043,
+        4959,
+        4727,
+        4277,
+        1523,
+        2474
+      ]
+    }
+  },
+  "official_papers": [
+    {
+      "year": "2018",
+      "path": "books\\more_previous_papers\\ENGLISH-COMP_0.pdf",
+      "pages": 8,
+      "extracted_header_marks": "300",
+      "printed_header_marks": "300",
+      "visual_check": "extraction and print agree",
+      "section_arithmetic": "100+75+75+25+25=300",
+      "precis_no_title": true
+    },
+    {
+      "year": "2019",
+      "path": "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf",
+      "pages": 8,
+      "extracted_header_marks": "800",
+      "printed_header_marks": "300",
+      "visual_check": "page 1 visually confirms 300; extraction anomaly preserved",
+      "section_arithmetic": "100+75+75+25+25=300",
+      "precis_no_title": true
+    },
+    {
+      "year": "2020",
+      "path": "books\\more_previous_papers\\ENGLISH (1).pdf",
+      "pages": 8,
+      "extracted_header_marks": "300",
+      "printed_header_marks": "300",
+      "visual_check": "extraction and print agree",
+      "section_arithmetic": "100+75+75+25+25=300",
+      "precis_no_title": true
+    },
+    {
+      "year": "2021",
+      "path": "books\\more_previous_papers\\English.pdf",
+      "pages": 8,
+      "extracted_header_marks": "300",
+      "printed_header_marks": "300",
+      "visual_check": "extraction and print agree",
+      "section_arithmetic": "100+75+75+25+25=300",
+      "precis_no_title": true
+    },
+    {
+      "year": "2022",
+      "path": "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf",
+      "pages": 8,
+      "extracted_header_marks": "300",
+      "printed_header_marks": "300",
+      "visual_check": "extraction and print agree",
+      "section_arithmetic": "100+75+75+25+25=300",
+      "precis_no_title": true
+    },
+    {
+      "year": "2023",
+      "path": "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+      "pages": 8,
+      "extracted_header_marks": "300",
+      "printed_header_marks": "300",
+      "visual_check": "extraction and print agree",
+      "section_arithmetic": "100+75+75+25+25=300",
+      "precis_no_title": true
+    },
+    {
+      "year": "2025",
+      "path": "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf",
+      "pages": 8,
+      "extracted_header_marks": "300",
+      "printed_header_marks": "300",
+      "visual_check": "extraction and print agree",
+      "section_arithmetic": "100+75+75+25+25=300",
+      "precis_no_title": true
+    }
+  ],
+  "tests": [
+    {
+      "module": "test_regenerate_qualifying_english_deep_review",
+      "passed": true,
+      "returncode": 0,
+      "output_tail": "test_2019_ocr_anomaly_is_preserved_and_visually_reconciled (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_authoritative_structure_is_subject_wide_and_exact (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_driver_uses_direct_tests_and_nul_inventory (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_g2_record_and_pdfs_pass_when_generated (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_official_scope_and_threshold_discipline_are_explicit (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_solutions_have_eight_exam_length_models_and_matching_keys (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_special_package_is_not_registered_as_a_gs_topic (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_workbook_is_question_only_and_has_space_instructions (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.849s\n\nOK\nQualifying-English: guide_sources=12; practice_papers=3; solution_keys=3\nQualifying-English: guide_sources=12; practice_papers=3; solution_keys=3"
+    },
+    {
+      "module": "test_publish_language_master_packages",
+      "passed": true,
+      "returncode": 0,
+      "output_tail": "test_combiner_adds_navigation_and_preserves_source_bodies (test_publish_language_master_packages.LanguageMasterPublisherTests) ... ok\ntest_generation_parameter_uses_immutable_generation_folder (test_publish_language_master_packages.LanguageMasterPublisherTests) ... ok\ntest_renderer_can_add_legacy_contract_index_without_v2_rewrite (test_publish_language_master_packages.LanguageMasterPublisherTests) ... ok\ntest_subject_configs_keep_distinct_english_and_hindi_owners (test_publish_language_master_packages.LanguageMasterPublisherTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.110s\n\nOK"
+    },
+    {
+      "module": "test_v2_export_foundation",
+      "passed": true,
+      "returncode": 0,
+      "output_tail": "test_kant_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_later_wittgenstein_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_legacy_progress_navigation_is_rejected_and_removable (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_logical_positivism_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_moore_russell_early_wittgenstein_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_political_ideologies_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_progress_example_inside_code_fence_is_preserved (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_quine_strawson_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_register_notes_must_be_last (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_section_wise_v2_paths_are_accepted (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_sovereignty_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_workbook_derives_from_both_practice_sections (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_carvaka_generation_two_is_unapproved_and_supersedes_v1 (test_v2_export_foundation.TrackerMigrationTests) ... ok\ntest_legacy_approvals_and_provenance_are_preserved (test_v2_export_foundation.TrackerMigrationTests) ... ok\ntest_tracker_is_schema_v2_without_record_loss (test_v2_export_foundation.TrackerMigrationTests) ... ok\n\n----------------------------------------------------------------------\nRan 49 tests in 35.575s\n\nOK"
+    }
+  ],
+  "non_gating_test_observations": [
+    {
+      "module": "test_easy_learning_pdf",
+      "status": "pre-existing unrelated failure",
+      "detail": "The broad suite reports 27 stale protected-hash/latest-generation assertions in Citizenship and Fundamental Rights assets. No failure references Qualifying English, the language publisher or this renderer change."
+    }
+  ],
+  "approval": false,
+  "inventory": {
+    "text": "upsc-ai-kit\\manifests\\exports\\qualifying-english-deep-review-2026-09-05-changed-files.txt",
+    "nul": "upsc-ai-kit\\manifests\\exports\\qualifying-english-deep-review-2026-09-05-changed-files.nul",
+    "count": 43,
+    "round_trip_equal": true
+  }
+}

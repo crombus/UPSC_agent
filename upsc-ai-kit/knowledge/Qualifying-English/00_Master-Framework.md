@@ -15,7 +15,7 @@ The paper tests **correct, clear and concise English**, not ornamental writing. 
 
 ✅ The official syllabus owner, `../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md`, states that English is of Matriculation/equivalent standard, is qualifying, and does not count for ranking.
 
-✅ The local 2018, 2020–2023 and 2025 paper headers show a three-hour, 300-mark paper. The 2019 scan's extracted header reads “800”; this is an OCR-status defect, **not** a fact to reproduce: its printed section arithmetic is 100 + 75 + 75 + 25 + 25 = 300. See `README.md` for the source register.
+✅ The local 2018, 2020–2023 and 2025 paper headers show a three-hour, 300-mark paper. The 2019 scan's text extraction reads “800”, but visual inspection of page 1 shows a printed maximum of **300** and its section arithmetic is 100 + 75 + 75 + 25 + 25 = 300. Preserve the extraction warning rather than silently changing the source record. See `README.md` for the source register.
 
 ⚠️ **Current-notification threshold status (15 August 2026):** this kit has not line-verified the 2026 UPSC notification clause on the qualifying minimum. The official PDF URL could not be retrieved in this session (403/404). Do **not** treat “25% = 75/300” as a verified current-notification rule until the candidate checks the notification applicable to their examination.
 

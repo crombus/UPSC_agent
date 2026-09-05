@@ -5,6 +5,13 @@
 > Write an error code where requested: AGR, CNT, PRO, TNS, COND, ART, PREP,
 > PHR, MOD, PAR, PUNC, SPL, WF or VAR.
 
+## Answer-sheet instruction
+
+This is a question-only paper. Use **at least six ruled A4 sides** or a separate
+answer booklet. Write the section and item number before every response
+(`B4`, `E7`, `H2`, and so on). Reserve one final side for the error log. Do not
+consult the separate Solutions document until the 90 minutes have ended.
+
 ## A. Identify function in context (6 marks)
 
 Name the function of the bold word.
@@ -18,14 +25,15 @@ Name the function of the bold word.
 
 ## B. Nouns and pronouns (10 marks)
 
-Correct each sentence and add the most relevant code.
+Correct only where necessary and add the most relevant code. If the sentence
+is already acceptable, write **acceptable** and state why.
 
 1. One of the applicant have withdrawn.
 2. The police is investigating the complaint.
 3. She gave me two useful advices.
 4. We bought three furniture for the office.
 5. Between you and I, the proposal is unsafe.
-6. Every applicant must bring his identity card.
+6. Every applicant must bring their identity cards.
 7. The report, that identified the error, was published yesterday.
 8. Candidates who have identity cards may enter.
 9. The committee have submitted its report as one body.
@@ -33,7 +41,8 @@ Correct each sentence and add the most relevant code.
 
 ## C. Agreement, tense, conditionals, articles and determiners (14 marks)
 
-Correct each sentence and add the most relevant code.
+Correct only where necessary and add the most relevant code. If the sentence
+is already acceptable, write **acceptable** and state why.
 
 1. A number of student is absent.
 2. Neither the manager nor the clerks is ready.
@@ -104,7 +113,10 @@ state why.
 4. She provided the workers meals.
 5. The committee are divided in their views.
 
-## H. Transform without changing meaning (10 marks)
+## H. Transform as directed (10 marks)
+
+Preserve meaning in Questions 1–9. Question 10 explicitly asks you to change
+the scope of **only**; follow that new meaning exactly.
 
 1. As soon as the meeting ended, the members left. (Use *no sooner...than*.)
 2. If you do not revise, you will forget the rules. (Use *unless*.)
@@ -151,3 +163,13 @@ Critical families are countability/pronouns (B), tense/conditionals/articles
 (C), verb patterns/modifiers (D), and voice/narration/transformation (H).
 Two consecutive timed passes at 77+ are required before attempting the
 full-length mock.
+
+## Candidate record — complete before opening Solutions
+
+| Field | Candidate entry |
+|---|---|
+| Start time / finish time | |
+| Questions left blank | |
+| Sections completed without review | |
+| Three rules I was least certain about | |
+| Final self-check completed? | Yes / No |

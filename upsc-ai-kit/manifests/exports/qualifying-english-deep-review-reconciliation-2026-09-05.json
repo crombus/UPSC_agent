@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "record_id": "qualifying-english-subject-master:learner-v2:g2",
+  "baseline_record_id": "qualifying-english-subject-master:learner-v2:g1",
+  "generation_transition": "g1 -> g2",
+  "authoritative_structure": "one subject-wide Complete Skills Guide + question-only Practice Workbook + separate Practice Solutions",
+  "contract": "qualifying-language-subject-package-v1",
+  "g1_immutable": true,
+  "canonical_source_root": "upsc-ai-kit\\knowledge\\Qualifying-English",
+  "tracker_mentions_before": {
+    "EXPORT-PDF-STATUS.json": 0,
+    "MASTER-TRACKER.json": 0,
+    "REVIEW-TRACKER.json": 0
+  },
+  "tracker_mentions_after": {
+    "EXPORT-PDF-STATUS.json": 0,
+    "MASTER-TRACKER.json": 0,
+    "REVIEW-TRACKER.json": 0
+  },
+  "tracker_publication": "Not added to EXPORT-PDF-STATUS, MASTER-TRACKER or REVIEW-TRACKER because the existing subject-master workflow excludes this non-GS aggregate identity.",
+  "hindi_assets_changed": false,
+  "approval": false
+}

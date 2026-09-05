@@ -1,0 +1,527 @@
+{
+  "schema_version": 1,
+  "record_id": "qualifying-hindi-subject-master:learner-v2:g2",
+  "validated_at": "2026-09-05T05:16:11.008117+00:00",
+  "result": "passed",
+  "score": 98,
+  "hard_gate_failures": [],
+  "markdown": {
+    "guide_words": 11624,
+    "workbook_words": 3637,
+    "solutions_words": 8804,
+    "guide_parts": 12,
+    "practice_papers": 3,
+    "matching_solution_keys": 3,
+    "full_essay_models": {
+      "सुविधा और उत्तरदायित्व का संबंध": 522,
+      "सार्वजनिक जीवन में विश्वास का महत्त्व": 565,
+      "कृत्रिम बुद्धिमत्ता और मानवीय विवेक": 557,
+      "मातृभाषा में शिक्षा की संभावनाएँ": 529,
+      "सार्वजनिक स्थान और नागरिक जीवन": 552,
+      "काम और विश्राम का संतुलन": 524,
+      "वैज्ञानिक सोच में प्रश्न पूछने का साहस": 563,
+      "स्थानीय कला, आजीविका और बदलता बाजार": 545
+    },
+    "answer_leakage_matches": [],
+    "duplicate_prompts_or_passages": [],
+    "precis_source_counts": [
+      362,
+      256
+    ],
+    "precis_model_counts": [
+      122,
+      93
+    ],
+    "solution_coverage": {
+      "foundation": {
+        "diagnostic_A": {
+          "questions": 37,
+          "answers": 37
+        },
+        "retest_B": {
+          "questions": 22,
+          "answers": 22
+        }
+      },
+      "mocks": {
+        "1": {
+          "essay_options": 4,
+          "essay_models": 4,
+          "comprehension_questions": 5,
+          "comprehension_answers": 5,
+          "precis_questions": 1,
+          "precis_models": 1,
+          "hindi_to_english_questions": 1,
+          "hindi_to_english_models": 1,
+          "english_to_hindi_questions": 1,
+          "english_to_hindi_models": 1,
+          "usage_items": 20,
+          "usage_answers": 20
+        },
+        "2": {
+          "essay_options": 4,
+          "essay_models": 4,
+          "comprehension_questions": 5,
+          "comprehension_answers": 5,
+          "precis_questions": 1,
+          "precis_models": 1,
+          "hindi_to_english_questions": 1,
+          "hindi_to_english_models": 1,
+          "english_to_hindi_questions": 1,
+          "english_to_hindi_models": 1,
+          "usage_items": 20,
+          "usage_answers": 20
+        }
+      }
+    }
+  },
+  "unicode_sources": {
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Question-Demand-Ledger.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Readiness-Tracker.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\answer-keys\\01_आधार-परीक्षण-उत्तर.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\answer-keys\\02_पूर्ण-मॉक-उत्तर.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\answer-keys\\03_पूर्ण-मॉक-2-उत्तर.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\ANSWER-WORTHINESS-AUDIT.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\01_शब्द-भेद.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\02_व्याकरण-वर्तनी-वाक्य-शुद्धि.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\03_शब्दावली-मुहावरे-लोकोक्तियाँ.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\04_बोध-और-संक्षेपण.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\05_निबन्ध-लेखन.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\06_अनुवाद.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\LEARNING-SESSION-COMMAND-INDEX.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\practice\\01_आधार-परीक्षण.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\practice\\02_पूर्ण-मॉक.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\practice\\03_पूर्ण-मॉक-2.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Complete-Skills-Guide.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    },
+    "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Workbook.md": {
+      "nfc": true,
+      "zero_width": [],
+      "replacement_glyphs": 0,
+      "raw_html_entities": [],
+      "unexpected_controls": []
+    }
+  },
+  "pdfs": {
+    "guide": {
+      "page_count": 41,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": [],
+      "bookmarks": 117,
+      "bookmark_page_matches": 117,
+      "contents_pages": [
+        2
+      ],
+      "raw_html_entity_pages": [],
+      "anchor_pages": [],
+      "broken_cluster_lines": [],
+      "page_text_lengths": [
+        477,
+        3177,
+        1949,
+        1686,
+        1595,
+        1714,
+        2230,
+        1864,
+        1390,
+        1800,
+        2000,
+        1837,
+        1904,
+        2130,
+        1264,
+        1521,
+        1784,
+        1569,
+        1388,
+        1758,
+        1490,
+        1555,
+        1823,
+        1468,
+        1185,
+        1062,
+        1889,
+        1901,
+        2225,
+        2026,
+        1564,
+        1686,
+        2345,
+        1637,
+        1535,
+        3776,
+        3507,
+        1819,
+        2171,
+        2309,
+        673
+      ],
+      "fonts": [
+        "AAAAAA+NirmalaUI-Bold",
+        "BAAAAA+NirmalaUI-Bold",
+        "CAAAAA+NirmalaUI",
+        "DAAAAA+ArialMT",
+        "EAAAAA+Consolas",
+        "GAAAAA+Consolas-Bold",
+        "HAAAAA+Arial-BoldMT",
+        "Helvetica",
+        "JAAAAA+NirmalaUI"
+      ],
+      "page_number_footer": true
+    },
+    "workbook": {
+      "page_count": 13,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": [],
+      "bookmarks": 36,
+      "bookmark_page_matches": 36,
+      "contents_pages": [
+        2
+      ],
+      "raw_html_entity_pages": [],
+      "anchor_pages": [],
+      "broken_cluster_lines": [],
+      "page_text_lengths": [
+        351,
+        1286,
+        2075,
+        393,
+        1629,
+        1407,
+        1352,
+        2113,
+        3601,
+        1996,
+        2626,
+        2618,
+        511
+      ],
+      "fonts": [
+        "AAAAAA+NirmalaUI-Bold",
+        "BAAAAA+NirmalaUI-Bold",
+        "CAAAAA+NirmalaUI",
+        "DAAAAA+Consolas",
+        "EAAAAA+NirmalaUI-Bold",
+        "FAAAAA+NirmalaUI",
+        "Helvetica"
+      ],
+      "page_number_footer": true
+    },
+    "solutions": {
+      "page_count": 23,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": [],
+      "bookmarks": 48,
+      "bookmark_page_matches": 48,
+      "contents_pages": [
+        2
+      ],
+      "raw_html_entity_pages": [],
+      "anchor_pages": [],
+      "broken_cluster_lines": [],
+      "page_text_lengths": [
+        288,
+        1126,
+        1447,
+        1176,
+        1152,
+        590,
+        952,
+        1261,
+        2727,
+        3642,
+        3730,
+        3728,
+        2449,
+        2978,
+        2078,
+        1833,
+        3632,
+        3526,
+        3549,
+        3677,
+        2231,
+        2741,
+        1759
+      ],
+      "fonts": [
+        "AAAAAA+NirmalaUI-Bold",
+        "BAAAAA+NirmalaUI-Bold",
+        "CAAAAA+NirmalaUI",
+        "DAAAAA+ArialMT",
+        "EAAAAA+Consolas",
+        "FAAAAA+NirmalaUI",
+        "GAAAAA+Arial-BoldMT",
+        "Helvetica"
+      ],
+      "page_number_footer": true
+    }
+  },
+  "official_papers": [
+    {
+      "year": "2018",
+      "path": "books\\more_previous_papers\\HINDI-COMP.pdf",
+      "pages": 7,
+      "labels": {
+        "header_and_page_count": "[V]",
+        "section_navigation_from_text_layer": "[O]",
+        "repository_mock_allocation": "[I]"
+      },
+      "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+      "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+      "precis_instruction": "not promoted beyond the ledger's verified wording"
+    },
+    {
+      "year": "2019",
+      "path": "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf",
+      "pages": 8,
+      "labels": {
+        "header_and_page_count": "[V]",
+        "section_navigation_from_text_layer": "[O]",
+        "repository_mock_allocation": "[I]"
+      },
+      "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+      "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+      "precis_instruction": "not promoted beyond the ledger's verified wording"
+    },
+    {
+      "year": "2020",
+      "path": "books\\more_previous_papers\\HINDI_0 (1).pdf",
+      "pages": 8,
+      "labels": {
+        "header_and_page_count": "[V]",
+        "section_navigation_from_text_layer": "[O]",
+        "repository_mock_allocation": "[I]"
+      },
+      "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+      "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+      "precis_instruction": "not promoted beyond the ledger's verified wording"
+    },
+    {
+      "year": "2021",
+      "path": "books\\more_previous_papers\\Hindi_0.pdf",
+      "pages": 7,
+      "labels": {
+        "header_and_page_count": "[V]",
+        "section_navigation_from_text_layer": "[O]",
+        "repository_mock_allocation": "[I]"
+      },
+      "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+      "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+      "precis_instruction": "not promoted beyond the ledger's verified wording"
+    },
+    {
+      "year": "2022",
+      "path": "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf",
+      "pages": 4,
+      "labels": {
+        "header_and_page_count": "[V]",
+        "section_navigation_from_text_layer": "[O]",
+        "repository_mock_allocation": "[I]"
+      },
+      "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+      "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+      "precis_instruction": "one-third, own words, no title visibly verified"
+    },
+    {
+      "year": "2023",
+      "path": "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+      "pages": 8,
+      "labels": {
+        "header_and_page_count": "[V]",
+        "section_navigation_from_text_layer": "[O]",
+        "repository_mock_allocation": "[I]"
+      },
+      "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+      "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+      "precis_instruction": "one-third, own words, no title visibly verified"
+    },
+    {
+      "year": "2025",
+      "path": "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf",
+      "pages": 8,
+      "labels": {
+        "header_and_page_count": "[V]",
+        "section_navigation_from_text_layer": "[O]",
+        "repository_mock_allocation": "[I]"
+      },
+      "visually_verified": "three-hour/300 header; 600-word essay instruction; cited section locations in the demand ledger",
+      "ocr_caution": "OCR is used only as a navigation pointer; damaged marks are not normalized or inferred.",
+      "precis_instruction": "not promoted beyond the ledger's verified wording"
+    }
+  ],
+  "tests": [
+    {
+      "module": "test_regenerate_qualifying_hindi_deep_review",
+      "passed": true,
+      "returncode": 0,
+      "output_tail": "test_authoritative_structure_is_subject_wide_and_exact (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_driver_uses_direct_tests_and_direct_nul_inventory (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_g2_record_and_pdfs_pass_when_generated (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_official_scope_and_threshold_discipline_are_explicit (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_solutions_are_one_to_one_and_have_eight_full_models (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_special_package_is_not_registered_as_a_gs_topic (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_unicode_sources_are_normalized_and_clean (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_workbook_is_question_only_independent_and_space_controlled (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 1.590s\n\nOK\nQualifying-Hindi: guide_sources=12; practice_papers=3; solution_keys=3\nQualifying-Hindi: guide_sources=12; practice_papers=3; solution_keys=3"
+    },
+    {
+      "module": "test_publish_language_master_packages",
+      "passed": true,
+      "returncode": 0,
+      "output_tail": "test_combiner_adds_navigation_and_preserves_source_bodies (test_publish_language_master_packages.LanguageMasterPublisherTests) ... ok\ntest_generation_parameter_uses_immutable_generation_folder (test_publish_language_master_packages.LanguageMasterPublisherTests) ... ok\ntest_renderer_can_add_legacy_contract_index_without_v2_rewrite (test_publish_language_master_packages.LanguageMasterPublisherTests) ... ok\ntest_subject_configs_keep_distinct_english_and_hindi_owners (test_publish_language_master_packages.LanguageMasterPublisherTests) ... ok\ntest_unicode_renderer_adds_index_bookmarks_and_page_numbers (test_publish_language_master_packages.LanguageMasterPublisherTests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 4.223s\n\nOK"
+    },
+    {
+      "module": "test_regenerate_qualifying_english_deep_review",
+      "passed": true,
+      "returncode": 0,
+      "output_tail": "test_2019_ocr_anomaly_is_preserved_and_visually_reconciled (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_authoritative_structure_is_subject_wide_and_exact (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_driver_uses_direct_tests_and_nul_inventory (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_g2_record_and_pdfs_pass_when_generated (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_official_scope_and_threshold_discipline_are_explicit (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_solutions_have_eight_exam_length_models_and_matching_keys (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_special_package_is_not_registered_as_a_gs_topic (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\ntest_workbook_is_question_only_and_has_space_instructions (test_regenerate_qualifying_english_deep_review.QualifyingEnglishDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 1.228s\n\nOK\nQualifying-English: guide_sources=12; practice_papers=3; solution_keys=3\nQualifying-English: guide_sources=12; practice_papers=3; solution_keys=3"
+    },
+    {
+      "module": "test_v2_export_foundation",
+      "passed": true,
+      "returncode": 0,
+      "output_tail": "test_hegel_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_humanism_secularism_multiculturalism_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_husserl_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_individual_and_state_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_kant_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_later_wittgenstein_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_legacy_progress_navigation_is_rejected_and_removable (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_logical_positivism_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_moore_russell_early_wittgenstein_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_political_ideologies_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_progress_example_inside_code_fence_is_preserved (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_quine_strawson_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_register_notes_must_be_last (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_section_wise_v2_paths_are_accepted (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_sovereignty_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_workbook_derives_from_both_practice_sections (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_carvaka_generation_two_is_unapproved_and_supersedes_v1 (test_v2_export_foundation.TrackerMigrationTests) ... ok\ntest_legacy_approvals_and_provenance_are_preserved (test_v2_export_foundation.TrackerMigrationTests) ... ok\ntest_tracker_is_schema_v2_without_record_loss (test_v2_export_foundation.TrackerMigrationTests) ... ok\n\n----------------------------------------------------------------------\nRan 49 tests in 21.131s\n\nOK"
+    }
+  ],
+  "english_regression": {
+    "source_and_g2_hashes_unchanged": true,
+    "tests_passed": true
+  },
+  "approval": false,
+  "inventory": {
+    "text": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-deep-review-2026-09-05-changed-files.txt",
+    "nul": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-deep-review-2026-09-05-changed-files.nul",
+    "count": 42,
+    "round_trip_equal": true
+  }
+}

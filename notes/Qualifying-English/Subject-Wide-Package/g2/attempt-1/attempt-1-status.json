@@ -1,0 +1,6 @@
+{
+  "attempt": 1,
+  "status": "failed-validation",
+  "reason": "Unrelated test_easy_learning_pdf tracker expectation failed; package generation completed but was not finalized",
+  "preserved_on": "2026-09-05T09:54:10.7759702+05:30"
+}

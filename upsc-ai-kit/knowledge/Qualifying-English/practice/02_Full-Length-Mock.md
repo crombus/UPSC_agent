@@ -3,6 +3,15 @@
 > **Time:** Three Hours | **Maximum Marks:** 300  
 > All questions are compulsory. Write answers in English. Observe specified word limits. Do not consult Core files or the key while attempting.
 
+## Answer-booklet and space instruction
+
+Use a separate ruled answer booklet of **at least fourteen A4 sides**. Recommended
+minimum allocation: essay 4 sides; comprehension 3 sides; précis 2 sides; Usage
+and Vocabulary I 2 sides; Usage and Vocabulary II 2 sides; final checking and
+rough count 1 side. Start each question on a fresh page or clearly ruled section.
+Write the précis source, target and final counts only on rough work. Open the
+separate Solutions document only after the full 180 minutes.
+
 ## Q1. Essay (100 marks)
 
 Write an essay in about **600 words** on any one:
@@ -52,7 +61,10 @@ The mature alternative to haste is not endless postponement. It is disciplined t
 
 ## Q4. Usage and Vocabulary I (25 marks)
 
-### A. Correct the sentences (10 × 1)
+### A. Correct only where necessary (10 × 1)
+
+If a sentence is already acceptable, write **acceptable**; do not manufacture
+an error.
 
 1. One of the files are missing.
 2. She is capable to solve the problem.
@@ -87,7 +99,10 @@ transparent, scarce, voluntary, rigid, temporary
 
 ## Q5. Usage and Vocabulary II (25 marks)
 
-### A. Transform without changing meaning (10 × 1)
+### A. Transform as directed (10 × 1)
+
+Preserve meaning in Questions 1–9. Question 10 explicitly changes the scope of
+**only** and must express the requested new focus.
 
 1. The team completed the survey. (Passive)
 2. She said, “I have submitted the form.” (Indirect)
@@ -119,3 +134,14 @@ prudent, alleviate, reluctant, impartial, feasible
 3. a blessing in disguise
 4. a stitch in time saves nine
 5. all that glitters is not gold
+
+## Candidate record — complete before opening Solutions
+
+| Field | Candidate entry |
+|---|---|
+| Essay option attempted | |
+| Essay final word count | |
+| Précis source / target / final count | |
+| Questions or subparts left blank | |
+| Start time / finish time | |
+| Final 15-minute revision completed? | Yes / No |

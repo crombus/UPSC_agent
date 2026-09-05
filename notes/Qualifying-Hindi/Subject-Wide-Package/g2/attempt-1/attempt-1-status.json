@@ -1,0 +1,6 @@
+{
+  "attempt": 1,
+  "status": "failed",
+  "reason": "PDF text extraction split the Devanagari word सर्वव्यापी across lines on Guide page 29; repaired source uses the standard synonym सर्वगत.",
+  "preserved_on": "2026-09-05T10:34:27.9119976+05:30"
+}

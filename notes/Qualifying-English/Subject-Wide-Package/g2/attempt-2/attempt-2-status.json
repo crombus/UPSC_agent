@@ -1,0 +1,6 @@
+{
+  "attempt": 2,
+  "status": "failed-finalization",
+  "reason": "Inventory self-path existence check ran before creating the inventory files",
+  "preserved_on": "2026-09-05T09:55:50.0164369+05:30"
+}

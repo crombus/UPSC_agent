@@ -330,6 +330,16 @@ class VisualAuditMarker(Flowable):
 
 
 TOKEN_REPLACEMENTS = {
+    "§": "Section ",
+    "°": " degrees",
+    "É": "E",
+    "é": "e",
+    "×": "x",
+    "’": "'",
+    "“": '"',
+    "”": '"',
+    "…": "...",
+    "≥": ">=",
     "✅": "FACT:",
     "⚠️": "ANALYSIS:",
     "⚠": "ANALYSIS:",
@@ -384,6 +394,11 @@ def inline(text: str) -> str:
         text,
     )
     text = html.escape(text, quote=False)
+    # ReportLab may expose a literal ``&#8203;`` in extracted PDF text when a
+    # raw zero-width-space reaches its paragraph parser.  Supplying the numeric
+    # entity after escaping preserves the intended line-break opportunity
+    # without printing the entity itself.
+    text = text.replace("\u200b", "&#8203;")
     text = re.sub(r"`([^`]+)`", r'<font name="Courier">\1</font>', text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
     text = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"<i>\1</i>", text)
@@ -795,7 +810,13 @@ def learning_path_visual() -> Drawing:
     return drawing
 
 
-def cover_story(title: str, mode: str, image_path: Path | None) -> list:
+def cover_story(
+    title: str,
+    mode: str,
+    image_path: Path | None,
+    *,
+    cover_descriptor: str | None = None,
+) -> list:
     subtitle = (
         "COMPLETE LEARNING SESSION"
         if mode == "main"
@@ -824,8 +845,11 @@ def cover_story(title: str, mode: str, image_path: Path | None) -> list:
         title_box,
         Spacer(1, 0.4 * cm),
         paragraph(
-            "UPSC complete learning session | Foundation to advanced | "
-            "Concepts, evidence, practice and answer writing",
+            cover_descriptor
+            or (
+                "UPSC complete learning session | Foundation to advanced | "
+                "Concepts, evidence, practice and answer writing"
+            ),
             style("cover-meta", fontSize=9, textColor=SUBTEXT, alignment=TA_CENTER),
         ),
         Spacer(1, 0.35 * cm),
@@ -885,8 +909,13 @@ def indexed_heading_count(markdown: str) -> int:
     )
 
 
-def contents_story(mode: str, entry_count: int) -> list:
-    title = (
+def contents_story(
+    mode: str,
+    entry_count: int,
+    *,
+    index_title: str | None = None,
+) -> list:
+    title = index_title or (
         "CONTENTS / SESSION INDEX"
         if mode == "main"
         else "CONTENTS / WORKBOOK INDEX"
@@ -1389,7 +1418,12 @@ def markdown_story(
     return story
 
 
-def on_page(canvas, doc) -> None:
+def on_page(
+    canvas,
+    doc,
+    *,
+    footer_label: str = "UPSC Complete Learning Session",
+) -> None:
     canvas.saveState()
     canvas.setFillColor(NAVY)
     canvas.rect(0, 0, PAGE_WIDTH, 0.62 * cm, fill=1, stroke=0)
@@ -1397,7 +1431,7 @@ def on_page(canvas, doc) -> None:
     canvas.rect(0, PAGE_HEIGHT - 0.13 * cm, PAGE_WIDTH, 0.13 * cm, fill=1, stroke=0)
     canvas.setFont(FONT, 7)
     canvas.setFillColor(white)
-    canvas.drawString(MARGIN, 0.22 * cm, "UPSC Complete Learning Session")
+    canvas.drawString(MARGIN, 0.22 * cm, footer_label)
     canvas.drawRightString(PAGE_WIDTH - MARGIN, 0.22 * cm, f"Page {doc.page}")
     canvas.restoreState()
 
@@ -1413,6 +1447,10 @@ def build_pdf(
     repository_root: str | Path | None = None,
     visual_audit_path: str | Path | None = None,
     standalone_workbook: bool = False,
+    internal_index: bool | None = None,
+    index_title: str | None = None,
+    cover_descriptor: str | None = None,
+    footer_label: str | None = None,
 ) -> Path:
     source = Path(source_path)
     output = Path(output_path)
@@ -1500,9 +1538,12 @@ def build_pdf(
         raise FileNotFoundError(illustration)
 
     output.parent.mkdir(parents=True, exist_ok=True)
+    enable_internal_index = (
+        variant == V2_VARIANT if internal_index is None else internal_index
+    )
     document = IndexedDocTemplate(
         str(output),
-        enable_internal_index=variant == V2_VARIANT,
+        enable_internal_index=enable_internal_index,
         pagesize=A4,
         leftMargin=MARGIN,
         rightMargin=MARGIN,
@@ -1512,9 +1553,20 @@ def build_pdf(
         author="UPSC Agent / Copilot CLI",
         invariant=1 if variant == V2_VARIANT else None,
     )
-    story = cover_story(title, mode, illustration)
-    if variant == V2_VARIANT:
-        story.extend(contents_story(mode, indexed_heading_count(markdown)))
+    story = cover_story(
+        title,
+        mode,
+        illustration,
+        cover_descriptor=cover_descriptor,
+    )
+    if enable_internal_index:
+        story.extend(
+            contents_story(
+                mode,
+                indexed_heading_count(markdown),
+                index_title=index_title,
+            )
+        )
     visual_audit_records: list[dict[str, object]] | None = (
         [] if visual_audit_path else None
     )
@@ -1522,15 +1574,21 @@ def build_pdf(
         markdown_story(
             markdown,
             source.parent,
-            internal_index=variant == V2_VARIANT,
+            internal_index=enable_internal_index,
             visual_audit_records=visual_audit_records,
         )
     )
     build_arguments = {
-        "onFirstPage": on_page,
-        "onLaterPages": on_page,
+        "onFirstPage": partial(
+            on_page,
+            footer_label=footer_label or "UPSC Complete Learning Session",
+        ),
+        "onLaterPages": partial(
+            on_page,
+            footer_label=footer_label or "UPSC Complete Learning Session",
+        ),
     }
-    if variant == V2_VARIANT:
+    if enable_internal_index:
         document.multiBuild(
             story,
             maxPasses=10,

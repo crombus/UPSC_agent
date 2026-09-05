@@ -1,8 +1,17 @@
 # UPSC Qualifying English — Complete Skills Guide
 
-> One continuous language-learning guide. It covers grammar, usage, vocabulary, comprehension, précis, essay writing, translation where applicable, readiness and examination method. It contains no artificial GS learning-session sequence.
+> A subject-wide guide for the compulsory qualifying English paper. It covers the official English areas only: serious discursive-prose comprehension, precis writing, usage and vocabulary, and short essays.
 
-## PART 01 — README
+## PACKAGE NAVIGATION
+
+- **This document:** Complete Skills Guide
+- **Companion Guide:** `Qualifying-English_Complete-Skills-Guide.md`
+- **Question-only Workbook:** `Qualifying-English_Practice-Workbook.md`
+- **Separate Solutions:** `Qualifying-English_Practice-Solutions.md`
+- **Source map:** each numbered Part below names its authoritative source owner; practice-paper and solution Part numbers match one-to-one.
+- **Approval:** false until this exact generation is explicitly approved.
+
+## PART 01 — UPSC Qualifying English — Knowledge Base Index
 
 > **Paper:** Compulsory English | **Standard:** Matriculation or equivalent  
 > **Nature:** Qualifying; marks are not counted for ranking.  
@@ -14,7 +23,7 @@
 | Year | Local file | Header/status checked | Use in this kit |
 |---:|---|---|---|
 | 2018 | `books/more_previous_papers/ENGLISH-COMP_0.pdf` | Extracted header: 3 hours, 300 marks | Format and demand sample |
-| 2019 | `books/more_previous_papers/QP-CSM19-EnglishCompulsory.pdf` | Extracted header says **800**; section arithmetic is 100+75+75+25+25=300 | Use section arithmetic only; header requires visual reconciliation |
+| 2019 | `books/more_previous_papers/QP-CSM19-EnglishCompulsory.pdf` | Text extraction says **800**; a visual inspection of page 1 shows printed **300**; section arithmetic is 100+75+75+25+25=300 | Preserve the OCR warning; use the visually confirmed print and section arithmetic |
 | 2020 | `books/more_previous_papers/ENGLISH (1).pdf` | Extracted header: 3 hours, 300 marks | Format and demand sample |
 | 2021 | `books/more_previous_papers/English.pdf` | Extracted header: 3 hours, 300 marks | Format and demand sample |
 | 2022 | `books/more_previous_papers/QP-CSM-22-ENGLISH-Compl-280922.pdf` | Extracted header: 3 hours, 300 marks | Format and demand sample |
@@ -29,12 +38,25 @@
 
 ## Paper architecture
 
-| Official area | Core owner | Diagnostic owner |
-|---|---|---|
-| Comprehension of given passages | [Core 06](basic/06_Comprehension-and-Precis.md) | Mocks 1 and 2 |
-| Precis writing | [Core 06](basic/06_Comprehension-and-Precis.md) | Mocks 1 and 2 |
-| Usage and vocabulary | `basic/01` to `basic/05` | Foundation Test; Mocks 1 and 2 |
-| Short essays | [Core 07](basic/07_Short-Essay-Writing.md) | Mocks 1 and 2 |
+| Official area | Core owner | Guide section | Workbook evidence | Matching solutions |
+|---|---|---|---|---|
+| Comprehension of serious discursive prose | [Core 06](basic/06_Comprehension-and-Precis.md) | Guide Part 11 | Mocks 1 and 2, Q2 | Solutions Parts 2 and 3, Q2 |
+| Precis writing | [Core 06](basic/06_Comprehension-and-Precis.md) | Guide Part 11 | Mocks 1 and 2, Q3 | Solutions Parts 2 and 3, Q3 |
+| Usage and vocabulary | `basic/01` to `basic/05` | Guide Parts 06–10 | Foundation Test; both mocks, Q4–Q5 | Solutions Parts 1–3 |
+| Short essays | [Core 07](basic/07_Short-Essay-Writing.md) | Guide Part 12 | Mocks 1 and 2, Q1 | Solutions Parts 2 and 3, Q1 |
+
+## Subject-wide package navigation
+
+- [Complete Skills Guide](subject-wide-package/Qualifying-English_Complete-Skills-Guide.md)
+  teaches every official area and links each error type to remediation.
+- [Question-Only Practice Workbook](subject-wide-package/Qualifying-English_Practice-Workbook.md)
+  contains the foundation diagnostic and two independent full mocks. It contains no keys,
+  hints or model answers.
+- [Separate Practice Solutions](subject-wide-package/Qualifying-English_Practice-Solutions.md)
+  provides one-to-one keys, passage-grounded comprehension responses, counted précis models,
+  essay models and self-marking guidance.
+- The source practice papers and answer keys remain separately editable under `practice/` and
+  `answer-keys/`; the assembled package preserves them in matching Part order.
 
 ## Practice order and decision gates
 
@@ -45,7 +67,7 @@
 5. Attempt the independent [Mock 2](practice/03_Full-Length-Mock-2.md) in exactly three hours. Use [its key](answer-keys/03_Full-Length-Mock-2-Key.md) only afterwards.
 6. A candidate is **not mock-ready** until both timed mocks meet the non-official safety target, no section is below its floor, and every error is classified and repaired.
 
-## PART 02 — 00 Master-Framework
+## PART 02 — Qualifying English — Master Framework
 
 ```text
 WORD CHOICE + GRAMMAR + PUNCTUATION + SENTENCE LOGIC
@@ -62,7 +84,7 @@ The paper tests **correct, clear and concise English**, not ornamental writing. 
 
 ✅ The official syllabus owner, `../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md`, states that English is of Matriculation/equivalent standard, is qualifying, and does not count for ranking.
 
-✅ The local 2018, 2020–2023 and 2025 paper headers show a three-hour, 300-mark paper. The 2019 scan's extracted header reads “800”; this is an OCR-status defect, **not** a fact to reproduce: its printed section arithmetic is 100 + 75 + 75 + 25 + 25 = 300. See `README.md` for the source register.
+✅ The local 2018, 2020–2023 and 2025 paper headers show a three-hour, 300-mark paper. The 2019 scan's text extraction reads “800”, but visual inspection of page 1 shows a printed maximum of **300** and its section arithmetic is 100 + 75 + 75 + 25 + 25 = 300. Preserve the extraction warning rather than silently changing the source record. See `README.md` for the source register.
 
 ⚠️ **Current-notification threshold status (15 August 2026):** this kit has not line-verified the 2026 UPSC notification clause on the qualifying minimum. The official PDF URL could not be retrieved in this session (403/404). Do **not** treat “25% = 75/300” as a verified current-notification rule until the candidate checks the notification applicable to their examination.
 
@@ -99,7 +121,7 @@ Before submitting, check:
 11. Count essay and précis words; obey title/no-title instructions literally.
 12. Strike out accidental repetition, unsupported statistics, quotations and decorative flourishes.
 
-## PART 03 — 00 Readiness-Tracker
+## PART 03 — Qualifying English — Readiness Tracker
 
 > Use after every timed attempt. The target bands here are **non-official coaching safeguards**, not UPSC cut-offs.
 
@@ -136,7 +158,7 @@ Before submitting, check:
 |---|---|---|---|---|
 |  |  |  |  |  |
 
-## PART 04 — OFFICIAL-UPSC-SYLLABUS-MAPPING
+## PART 04 — Official UPSC Syllabus Mapping — Qualifying English
 
 > **Verbatim source:** `../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md`, “Qualifying Papers on Indian Languages and English”, lines 73–99.  
 > ✅ That source states the aim, the four English skill areas, Matriculation/equivalent standard, qualifying nature and non-ranking status.  
@@ -151,11 +173,18 @@ Before submitting, check:
 
 All indispensable rules are in Core. Practice files test transfer; they are not the sole owner of a method. `00_Readiness-Tracker.md` records performance and notification-verification status without turning either into an official UPSC claim.
 
-## PART 05 — ANSWER-WORTHINESS-AUDIT
+## PART 05 — Answer-Worthiness Audit — Qualifying English
 
-> **Final status:** ✅ Complete  
-> **Certification date:** 15 August 2026  
+> **Core-source status:** Complete  
+> **Core certification date:** 15 August 2026  
 > **Standard:** [`../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md`](../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md)
+>
+> **Package review addendum (5 September 2026):** the earlier 30/30 result
+> certified the Core source owners, not the rendered subject-wide package.
+> The immutable `g2` package fixes missing contents/bookmarks, rendered entity
+> and glyph defects, workbook instructions, navigation and incomplete
+> essay-solution coverage. Its separate deep-review result is 98/100 with
+> approval still false.
 
 ## 1. Audit scope and inventory
 
@@ -322,11 +351,13 @@ paper-affecting method and readiness gate.
 - Local Markdown links: zero broken.
 - Fenced blocks and inspected tables: structurally valid.
 
-## 12. Final status
+## 12. Core-source status
 
-**✅ Complete — 15 August 2026.**
+**Complete — 15 August 2026.** Package-level status is controlled by
+`notes/Final-Learning-Packages/_deep-content-review/subject-reports/Qualifying-English-Subject-Completion-2026-09-05.md`
+and the immutable g2 export record.
 
-## PART 06 — 01 Parts-of-Speech
+## PART 06 — Parts of Speech, Nouns and Pronouns — Core
 
 Use this file before `basic/02_Sentence-Grammar.md`. In correction questions,
 change only what is wrong; do not “improve” an already acceptable sentence.
@@ -488,7 +519,7 @@ identifying, or use *which* with commas if extra information [REL]; 6 *pieces
 of furniture* [CNT]. Time: **6 minutes**. Record every missed code in the
 error log in `basic/05`.
 
-## PART 07 — 02 Sentence-Grammar
+## PART 07 — Sentence Grammar — Core
 
 ## 1. Complete sentences and agreement
 
@@ -687,7 +718,7 @@ In **10 minutes**, correct and label:
 [VAR]; 8 remove *but* [CONJ]; 9 *Having read the report, I found the errors
 obvious* [MOD]; 10 *turned it down* [PHR].
 
-## PART 08 — 03 Punctuation-and-Capitalisation
+## PART 08 — Punctuation and Capitalisation — Core
 
 Punctuation clarifies structure. In a correction question, preserve the
 intended meaning and accept more than one standard punctuation choice where
@@ -809,7 +840,7 @@ also accepted [PUNC]; 3 *The reports that were incomplete were returned.*
 inquiry had one conclusion: postpone the launch.* [COL]; 6 *It's important to
 check every candidate's identity card.* [APOS].
 
-## PART 09 — 04 Vocabulary-Idioms-and-Proverbs
+## PART 09 — Vocabulary, Spelling, Word Formation, Idioms and Proverbs — Core
 
 Vocabulary questions test exact meaning, grammar and register. A “use in a
 sentence” answer earns credit only if the context makes the intended sense
@@ -979,7 +1010,7 @@ In **8 minutes**, supply the requested form or choice:
 6 *abundant* (also *plentiful* in suitable context) [SYN]; 7 must mean
 improperly reducing standards to save resources [IDIOM].
 
-## PART 10 — 05 Error-Correction-and-Transformation
+## PART 10 — Error Correction, Voice, Narration and Transformation — Core
 
 ## 1. Correction method and error codes
 
@@ -1162,7 +1193,7 @@ wait one day, then complete a fresh mixed set from the Foundation test. Do not
 move to full-paper practice until two consecutive timed attempts meet this
 gate.
 
-## PART 11 — 06 Comprehension-and-Precis
+## PART 11 — Comprehension and Précis — MUST-DO
 
 ## 1. Comprehension: read the demand before answering
 
@@ -1324,7 +1355,7 @@ Online meetings reduce travel and widen access, so they are often treated as sub
 | Coherence | Does it read as connected prose rather than notes? |
 | Correctness | Are grammar, punctuation and title instructions accurate? |
 
-## PART 12 — 07 Short-Essay-Writing
+## PART 12 — Short Essay Writing — MUST-DO
 
 ## 1. Choose the question you can qualify and develop
 
