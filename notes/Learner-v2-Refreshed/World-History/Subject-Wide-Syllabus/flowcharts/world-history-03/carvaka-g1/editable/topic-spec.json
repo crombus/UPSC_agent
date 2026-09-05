@@ -1,0 +1,1016 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-03",
+  "subject": "World-History",
+  "title": "FRENCH REVOLUTION AND NAPOLEON",
+  "short_route": "OLD-REGIME PRESSURE SYSTEM → JUNE-JULY 1789 RUPTURE → REVOLUTIONARY PHASE LADDER → RIGHTS CLAIM AND BOUNDARY → JACOBIN EMERGENCY TRIANGLE → SOCIAL COALITION MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-03\\world-history-03_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-03-04-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "6ebd4563fbc385366313eb2473b166476163e3c9af5e7b43efa66ce29cb85f98",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "OLD-REGIME PRESSURE SYSTEM",
+      "structural_type": "causal-system",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "OLD-REGIME PRESSURE SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL PRIVILEGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLERGY AND NOBILITY HOLD EXEMPTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL BREAKDOWN",
+          "role": "evidence"
+        },
+        {
+          "text": "MONARCHY SUMMONS ESTATES-GENERAL",
+          "role": "primary"
+        },
+        {
+          "text": "BREAD STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "URBAN AND PEASANT MOBILISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GRIEVANCE BECOMES A LEGITIMACY CHALLENGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEGAL PRIVILEGE → clergy and nobility hold exemptions",
+        "FISCAL BREAKDOWN → monarchy summons Estates-General",
+        "BREAD STRESS → urban and peasant mobilisation",
+        "ENLIGHTENMENT → grievance becomes a legitimacy challenge"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEGAL PRIVILEGE → clergy and nobility hold exemptions",
+            "FISCAL BREAKDOWN → monarchy summons Estates-General"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BREAD STRESS → urban and peasant mobilisation",
+            "ENLIGHTENMENT → grievance becomes a legitimacy challenge"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGAL PRIVILEGE → clergy and nobility hold exemptions",
+            "FISCAL BREAKDOWN → monarchy summons Estates-General"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEGAL PRIVILEGE → clergy and nobility hold exemptions.",
+      "source_references": [
+        "The old regime and its estates",
+        "Fiscal breakdown, bread and ideas"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "JUNE-JULY 1789 RUPTURE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "JUNE-JULY 1789 RUPTURE",
+          "role": "primary"
+        },
+        {
+          "text": "17 JUNE",
+          "role": "outcome"
+        },
+        {
+          "text": "THIRD ESTATE BECOMES NATIONAL ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "20 JUNE",
+          "role": "evidence"
+        },
+        {
+          "text": "TENNIS COURT OATH COMMITS CONSTITUTION-MAKING",
+          "role": "institution"
+        },
+        {
+          "text": "14 JULY",
+          "role": "outcome"
+        },
+        {
+          "text": "BASTILLE TURNS CONSTITUTIONAL REVOLT INTO MASS SYMBOL",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS AND LEGAL EQUALITY PROCLAIMED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "17 JUNE → Third Estate becomes National Assembly",
+        "20 JUNE → Tennis Court Oath commits constitution-making",
+        "14 JULY → Bastille turns constitutional revolt into mass symbol",
+        "AUGUST → rights and legal equality proclaimed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "17 JUNE → Third Estate becomes National Assembly",
+            "20 JUNE → Tennis Court Oath commits constitution-making"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "14 JULY → Bastille turns constitutional revolt into mass symbol",
+            "AUGUST → rights and legal equality proclaimed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "17 JUNE → Third Estate becomes National Assembly",
+            "20 JUNE → Tennis Court Oath commits constitution-making"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "14 JULY → Bastille turns constitutional revolt into mass symbol.",
+      "source_references": [
+        "National Assembly and constituent power",
+        "Bastille and the mass turn"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "REVOLUTIONARY PHASE LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "REVOLUTIONARY PHASE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL ASSEMBLY AND CONSTITUTIONAL MONARCHY",
+          "role": "institution"
+        },
+        {
+          "text": "REPUBLIC, WAR, JACOBINS AND TERROR",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECTORY AND CIVILIAN INSTABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "NAPOLEONIC CONSOLIDATION AND EMPIRE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1789-91 → National Assembly and constitutional monarchy",
+        "1792-94 → republic, war, Jacobins and Terror",
+        "1795-99 → Directory and civilian instability",
+        "1799-1815 → Napoleonic consolidation and empire"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1789-91 → National Assembly and constitutional monarchy",
+            "1792-94 → republic, war, Jacobins and Terror"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1795-99 → Directory and civilian instability",
+            "1799-1815 → Napoleonic consolidation and empire"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1789-91 → National Assembly and constitutional monarchy",
+            "1792-94 → republic, war, Jacobins and Terror"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1795-99 → Directory and civilian instability; 1799-1815 → Napoleonic consolidation and empire.",
+      "source_references": [
+        "Constitutional monarchy and unresolved crisis",
+        "Republic and wartime radicalisation",
+        "Directory and military ascendancy"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RIGHTS CLAIM AND BOUNDARY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIGHTS CLAIM AND BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "EQUALITY BEFORE LAW AND CITIZENSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "NO IMMEDIATE UNIVERSAL SUFFRAGE",
+          "role": "caution"
+        },
+        {
+          "text": "ACTION WITHOUT EQUAL POLITICAL CITIZENSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "SLAVERY EXPOSES UNIVERSALISM'S CONTRADICTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CLAIM → equality before law and citizenship",
+        "BOUNDARY → no immediate universal suffrage",
+        "WOMEN → action without equal political citizenship",
+        "COLONIES → slavery exposes universalism's contradiction"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CLAIM → equality before law and citizenship",
+          "WOMEN → action without equal political citizenship",
+          "CLAIM → equality before law and citizenship"
+        ],
+        [
+          "BOUNDARY → no immediate universal suffrage",
+          "COLONIES → slavery exposes universalism's contradiction",
+          "BOUNDARY → no immediate universal suffrage"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLAIM → equality before law and citizenship",
+            "BOUNDARY → no immediate universal suffrage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WOMEN → action without equal political citizenship",
+            "COLONIES → slavery exposes universalism's contradiction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLAIM → equality before law and citizenship",
+            "BOUNDARY → no immediate universal suffrage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WOMEN → action without equal political citizenship; COLONIES → slavery exposes universalism's contradiction.",
+      "source_references": [
+        "Rights declaration and legal equality",
+        "Women, workers and unfinished equality",
+        "Slavery and colonial contradiction"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "JACOBIN EMERGENCY TRIANGLE",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "JACOBIN EMERGENCY TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL INVASION AND NATIONAL DEFENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "FEAR OF INTERNAL BETRAYAL",
+          "role": "comparison"
+        },
+        {
+          "text": "NARROWING POLITICAL COMPETITION",
+          "role": "evidence"
+        },
+        {
+          "text": "DEMOCRATIC CLAIMS JOINED TO COERCIVE VIOLENCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WAR → external invasion and national defence",
+        "COUNTER-REVOLUTION → fear of internal betrayal",
+        "FACTION → narrowing political competition",
+        "TERROR → democratic claims joined to coercive violence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WAR → external invasion and national defence",
+            "COUNTER-REVOLUTION → fear of internal betrayal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FACTION → narrowing political competition",
+            "TERROR → democratic claims joined to coercive violence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WAR → external invasion and national defence",
+            "COUNTER-REVOLUTION → fear of internal betrayal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TERROR → democratic claims joined to coercive violence.",
+      "source_references": [
+        "Jacobins, democracy and Terror"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SOCIAL COALITION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIAL COALITION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICE, PROPERTY AND LEGAL EQUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "END DUES, RENTS AND FEUDAL BURDENS",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN CROWD",
+          "role": "evidence"
+        },
+        {
+          "text": "BREAD, VOICE AND SOCIAL EQUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "ORDER, MERIT AND LATER NAPOLEONIC AUTHORITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BOURGEOISIE → office, property and legal equality",
+        "PEASANTRY → end dues, rents and feudal burdens",
+        "URBAN CROWD → bread, voice and social equality",
+        "ARMY → order, merit and later Napoleonic authority"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BOURGEOISIE → office, property and legal equality",
+          "URBAN CROWD → bread, voice and social equality",
+          "BOURGEOISIE → office, property and legal equality"
+        ],
+        [
+          "PEASANTRY → end dues, rents and feudal burdens",
+          "ARMY → order, merit and later Napoleonic authority",
+          "PEASANTRY → end dues, rents and feudal burdens"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BOURGEOISIE → office, property and legal equality",
+            "PEASANTRY → end dues, rents and feudal burdens"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "URBAN CROWD → bread, voice and social equality",
+            "ARMY → order, merit and later Napoleonic authority"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOURGEOISIE → office, property and legal equality",
+            "PEASANTRY → end dues, rents and feudal burdens"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARMY → order, merit and later Napoleonic authority.",
+      "source_references": [
+        "Class coalition and shifting leadership"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NAPOLEON'S INHERITANCE LEDGER",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NAPOLEON'S INHERITANCE LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "ANTI-FEUDAL REFORM AND LEGAL RATIONALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CAREERS OPEN TO TALENT AND CODIFIED LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "REPUBLIC, FREE POLITICS AND POPULAR SOVEREIGNTY",
+          "role": "evidence"
+        },
+        {
+          "text": "REFORM THROUGH CONQUEST AND OCCUPATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRESERVED → anti-feudal reform and legal rationalisation",
+        "EXPANDED → careers open to talent and codified law",
+        "CURTAILED → republic, free politics and popular sovereignty",
+        "EXPORTED → reform through conquest and occupation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PRESERVED → anti-feudal reform and legal rationalisation",
+          "CURTAILED → republic, free politics and popular sovereignty",
+          "PRESERVED → anti-feudal reform and legal rationalisation"
+        ],
+        [
+          "EXPANDED → careers open to talent and codified law",
+          "EXPORTED → reform through conquest and occupation",
+          "EXPANDED → careers open to talent and codified law"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRESERVED → anti-feudal reform and legal rationalisation",
+            "EXPANDED → careers open to talent and codified law"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CURTAILED → republic, free politics and popular sovereignty",
+            "EXPORTED → reform through conquest and occupation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRESERVED → anti-feudal reform and legal rationalisation",
+            "EXPANDED → careers open to talent and codified law"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CURTAILED → republic, free politics and popular sovereignty.",
+      "source_references": [
+        "Napoleon's seizure and codification"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ABOLITION AND REVERSAL",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ABOLITION AND REVERSAL",
+          "role": "primary"
+        },
+        {
+          "text": "REVOLUTIONARY PHASE",
+          "role": "outcome"
+        },
+        {
+          "text": "SLAVERY ABOLISHED IN FRENCH COLONIES",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOLITION REVERSED",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "COLONY TESTS UNIVERSAL CITIZENSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "FINAL FRENCH ABOLITION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "REVOLUTIONARY PHASE → slavery abolished in French colonies",
+        "NAPOLEON → abolition reversed",
+        "RIGHTS PROBLEM → colony tests universal citizenship",
+        "1848 → final French abolition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REVOLUTIONARY PHASE → slavery abolished in French colonies",
+            "NAPOLEON → abolition reversed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RIGHTS PROBLEM → colony tests universal citizenship",
+            "1848 → final French abolition"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REVOLUTIONARY PHASE → slavery abolished in French colonies",
+            "NAPOLEON → abolition reversed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REVOLUTIONARY PHASE → slavery abolished in French colonies.",
+      "source_references": [
+        "Slavery and colonial contradiction"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NATION AND CITIZENSHIP",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NATION AND CITIZENSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "SUBJECT OF KING",
+          "role": "outcome"
+        },
+        {
+          "text": "INHERITED OBEDIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "BEARER OF PUBLIC RIGHTS AND DUTIES",
+          "role": "evidence"
+        },
+        {
+          "text": "PEOPLE BECOMES SOURCE OF SOVEREIGNTY",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONALISM AND CONSTITUTIONALISM GAIN A NEW GRAMMAR",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SUBJECT OF KING → inherited obedience",
+        "CITIZEN → bearer of public rights and duties",
+        "NATION → people becomes source of sovereignty",
+        "LEGACY → nationalism and constitutionalism gain a new grammar"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUBJECT OF KING → inherited obedience",
+            "CITIZEN → bearer of public rights and duties"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NATION → people becomes source of sovereignty",
+            "LEGACY → nationalism and constitutionalism gain a new grammar"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUBJECT OF KING → inherited obedience",
+            "CITIZEN → bearer of public rights and duties"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEGACY → nationalism and constitutionalism gain a new grammar.",
+      "source_references": [
+        "Nation, sovereignty and Napoleonic verdict"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WHY MODERATE SETTLEMENT FAILED",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY MODERATE SETTLEMENT FAILED",
+          "role": "primary"
+        },
+        {
+          "text": "1791 CONSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL OLD REGIME BROKEN",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL, RELIGIOUS AND WAR CRISES REMAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "POPULAR CLASSES DEMAND DEEPER CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "MONARCHY FALLS AND REPUBLIC BEGINS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1791 CONSTITUTION → legal old regime broken",
+        "UNRESOLVED → fiscal, religious and war crises remain",
+        "MOBILISATION → popular classes demand deeper change",
+        "OUTCOME → monarchy falls and republic begins"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1791 CONSTITUTION → legal old regime broken",
+            "UNRESOLVED → fiscal, religious and war crises remain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOBILISATION → popular classes demand deeper change",
+            "OUTCOME → monarchy falls and republic begins"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1791 CONSTITUTION → legal old regime broken",
+            "UNRESOLVED → fiscal, religious and war crises remain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNRESOLVED → fiscal, religious and war crises remain.",
+      "source_references": [
+        "Constitutional monarchy and unresolved crisis"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "NON-LINEAR REVOLUTIONARY LEGACY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NON-LINEAR REVOLUTIONARY LEGACY",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS AND LEGAL RUPTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TERROR TESTS LIBERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "EMPIRE KEEPS SOCIAL GAINS, ENDS REPUBLIC",
+          "role": "evidence"
+        },
+        {
+          "text": "1815 ONWARD",
+          "role": "primary"
+        },
+        {
+          "text": "RESTORATION FACES RENEWED NATIONALISM",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1789 → rights and legal rupture",
+        "1793-94 → Terror tests liberty",
+        "1799-1815 → empire keeps social gains, ends republic",
+        "1815 ONWARD → restoration faces renewed nationalism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1789 → rights and legal rupture",
+            "1793-94 → Terror tests liberty"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1799-1815 → empire keeps social gains, ends republic",
+            "1815 ONWARD → restoration faces renewed nationalism"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1789 → rights and legal rupture",
+            "1793-94 → Terror tests liberty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1799-1815 → empire keeps social gains, ends republic.",
+      "source_references": [
+        "Waterloo and the survival of 1789"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FRENCH REVOLUTION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FRENCH REVOLUTION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVILEGE + FISCAL CRISIS + BREAD + IDEAS",
+          "role": "outcome"
+        },
+        {
+          "text": "1789 RUPTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL CONSOLIDATION + POLITICAL REVERSAL",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGITIMACY CHANGED MORE FULLY THAN SOCIAL EQUALITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAUSE → privilege + fiscal crisis + bread + ideas",
+        "COURSE → 1789 rupture → republic → Terror → Directory",
+        "NAPOLEON → social consolidation + political reversal",
+        "VERDICT → legitimacy changed more fully than social equality"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAUSE → privilege + fiscal crisis + bread + ideas",
+            "COURSE → 1789 rupture → republic → Terror → Directory"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NAPOLEON → social consolidation + political reversal",
+            "VERDICT → legitimacy changed more fully than social equality"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUSE → privilege + fiscal crisis + bread + ideas",
+            "COURSE → 1789 rupture → republic → Terror → Directory"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → legitimacy changed more fully than social equality.",
+      "source_references": [
+        "Nation, sovereignty and Napoleonic verdict"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OLD NCERT IS ESPECIALLY USEFUL BECAUSE IT SHOWS THAT",
+          "role": "outcome"
+        },
+        {
+          "text": "ON ELITE THINKERS BUT ALSO ON WORKERS, ARTISANS, PEASANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS IS IMPORTANT IN MAINS ANSWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT WRITE THE EVENT AS IF PAMPHLETS ALONE",
+          "role": "caution"
+        },
+        {
+          "text": "OLD NCERT STATES THAT THE JACOBINS BELIEVED IN DIRECT",
+          "role": "outcome"
+        },
+        {
+          "text": "IT ALSO NOTES THAT IN 14 MONTHS AROUND 17,000",
+          "role": "comparison"
+        },
+        {
+          "text": "UNDER THE JACOBIN CONSTITUTION, OLD NCERT HIGHLIGHTS UNIVERSAL MALE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Old NCERT is especially useful because it shows that the Revolution rested not only",
+            "on elite thinkers but also on workers, artisans, peasants and the Paris crowd .",
+            "CAUTION: This is important in mains answers: do not write the event as if pamphlets alone toppled the old regime.",
+            "Old NCERT states that the Jacobins believed in direct democracy and, fearing danger to the Revolution, adopted harsh measures."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "It also notes that in 14 months around 17,000 people were tried and executed.",
+            "Under the Jacobin constitution, old NCERT highlights universal male political rights, the right",
+            "of insurrection, and the principle that government must provide work or livelihood.",
+            "CAUTION: Therefore the Terror cannot be dismissed as mere madness"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "nor can it be romanticised.",
+            "It joined mass democracy, war emergency and coercive violence in one unstable package.",
+            "CAUTION: Best formulation: Napoleon stabilised the social revolution while reversing much of its political republicanism.",
+            "Old NCERT says the French Revolution inspired movements in almost every country of Europe and in South and Central America."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

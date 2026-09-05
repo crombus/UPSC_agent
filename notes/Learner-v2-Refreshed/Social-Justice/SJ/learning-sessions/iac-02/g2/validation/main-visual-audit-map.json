@@ -1,0 +1,2314 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g2\\social-justice-02_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g2\\social-justice-02_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "social-justice-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Poverty, Hunger, Food and Nutrition Security - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 583.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 177.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 52,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g2\\assets\\social-justice-02_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 497.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 190.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: What this owner holds and the demands routed to it Qualified use: Open a food or nutrition demand by naming the entitlement, the service layer and the outcome tested.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THE FOOD AND NUTRITION OWNER HOLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 113,
+      "markdown_body_line_end": 130,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT THE FOOD AND NUTRITION OWNER HOLDS",
+      "preview": "START / CONCEPT: FOUNDATION — What the food and nutrition owner holds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 668
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 415.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 141,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The poverty, malnutrition and human-capital vicious cycle Qualified use: Supply the explanation that the 2024 demand asks for instead of a scheme list.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 219.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 152.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 160,
+      "heading": "VISUAL FIRST",
+      "preview": "THE POVERTY AND MALNUTRITION VICIOUS CYCLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 689.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 205,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE POVERTY AND MALNUTRITION VICIOUS CYCLE",
+      "preview": "START / CONCEPT: FOUNDATION — The poverty and malnutrition vicious cycle",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 653
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 216,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Food security against nutrition security Qualified use: Protect an answer from the commonest conflation in this topic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 329.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 263.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 231,
+      "markdown_body_line_end": 235,
+      "heading": "VISUAL FIRST",
+      "preview": "FOOD SECURITY AGAINST NUTRITION SECURITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 280,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FOOD SECURITY AGAINST NUTRITION SECURITY",
+      "preview": "START / CONCEPT: FOUNDATION — Food security against nutrition security",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 611
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 321.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 50.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Stunting, wasting and anaemia as distinct indicators Qualified use: Show indicator literacy before proposing any nutrition intervention.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 636.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 570.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 310,
+      "heading": "VISUAL FIRST",
+      "preview": "STUNTING, WASTING AND ANAEMIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 389.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 348.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 355,
+      "heading": "CLOSING RECALL FLOW - CORE - STUNTING, WASTING AND ANAEMIA",
+      "preview": "START / CONCEPT: CORE — Stunting, wasting and anaemia",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 659
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 398.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 366,
+      "markdown_body_line_end": 366,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The statutory entitlement under the National Food Security Act, 2013 Qualified use: Cite the statutory entitlement with its official coverage discipline attached.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 173.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 106.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 385,
+      "heading": "VISUAL FIRST",
+      "preview": "THE STATUTORY ENTITLEMENT AND ITS OFFICIAL COVERAGE RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 623.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 413,
+      "markdown_body_line_end": 430,
+      "heading": "CLOSING RECALL FLOW - CORE - THE STATUTORY ENTITLEMENT AND ITS OFFICIAL COVERAGE RULE",
+      "preview": "START / CONCEPT: CORE — The statutory entitlement and its official coverage rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 915
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 441,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Act itself fixes Central Issue Prices as a statutory ceiling of three rupees per kilogram for rice, two rupees per kilogram for wheat and one rupee per kilogram for coarse grains, but since 1 January 2023 the Pradhan Mantri Garib Kalyan",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 161.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 456,
+      "markdown_body_line_end": 460,
+      "heading": "VISUAL FIRST",
+      "preview": "PRICE CEILING AGAINST FREE DISTRIBUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 488,
+      "markdown_body_line_end": 505,
+      "heading": "CLOSING RECALL FLOW - CORE - PRICE CEILING AGAINST FREE DISTRIBUTION",
+      "preview": "START / CONCEPT: CORE — Price ceiling against free distribution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 746
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 516,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The life-cycle approach and the maternity entitlement in the Act Qualified use: Argue the rights-based turn using the Act's own life-cycle clauses.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 366.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 299.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 535,
+      "heading": "VISUAL FIRST",
+      "preview": "THE LIFE-CYCLE APPROACH AND THE MATERNITY ENTITLEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 580,
+      "heading": "CLOSING RECALL FLOW - CORE - THE LIFE-CYCLE APPROACH AND THE MATERNITY ENTITLEMENT",
+      "preview": "START / CONCEPT: CORE — The life-cycle approach and the maternity entitlement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 919
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 591,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The same official portal records that where entitled quantities of foodgrains or meals are not supplied, the entitled person is entitled to receive a food security allowance from the concerned State Government, payable to each person within",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 360.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 237.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 610,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FOOD SECURITY ALLOWANCE AS THE REMEDY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 638,
+      "markdown_body_line_end": 655,
+      "heading": "CLOSING RECALL FLOW - CORE - THE FOOD SECURITY ALLOWANCE AS THE REMEDY",
+      "preview": "START / CONCEPT: CORE — The food security allowance as the remedy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 637
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 321.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 60.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 666,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The official portal records that the Act defines a joint responsibility, under which the Centre allocates the required foodgrains to States and Union Territories, transports them up to designated depots in each State and Union Territory and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 622.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 499.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 681,
+      "markdown_body_line_end": 685,
+      "heading": "VISUAL FIRST",
+      "preview": "JOINT CENTRE AND STATE RESPONSIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 318.424
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 267.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 713,
+      "markdown_body_line_end": 730,
+      "heading": "CLOSING RECALL FLOW - CORE - JOINT CENTRE AND STATE RESPONSIBILITY",
+      "preview": "START / CONCEPT: CORE — Joint Centre and State responsibility",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 722
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 491.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 220.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 741,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "One Nation One Ration Card enables portability of the Act's entitlements across States using Aadhaar-seeded ration cards and electronic point-of-sale machines at fair-price shops, with the technical backbone provided through the national in",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 632.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 756,
+      "markdown_body_line_end": 760,
+      "heading": "VISUAL FIRST",
+      "preview": "PORTABILITY THROUGH ONE NATION ONE RATION CARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 437.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 386.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 805,
+      "heading": "CLOSING RECALL FLOW - CORE - PORTABILITY THROUGH ONE NATION ONE RATION CARD",
+      "preview": "START / CONCEPT: CORE — Portability through One Nation One Ration Card",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 736
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 368.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 816,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Poshan 2.0 and the anganwadi delivery layer - PM POSHAN and the school nutrition layer Qualified use: Show the age-wise division of the nutrition service architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 171.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 104.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 831,
+      "markdown_body_line_end": 838,
+      "heading": "VISUAL FIRST",
+      "preview": "POSHAN 2.0 AND PM POSHAN AS TWO LAYERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 593.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 884,
+      "heading": "CLOSING RECALL FLOW - CORE - POSHAN 2.0 AND PM POSHAN AS TWO LAYERS",
+      "preview": "START / CONCEPT: CORE — Poshan 2.0 and PM POSHAN as two layers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 640
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 493.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 895,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The first thousand days as the critical window Qualified use: Explain why maternal and adolescent nutrition are child-nutrition instruments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 296.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 229.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 913,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FIRST THOUSAND DAYS AND THE SEQUENCING ARGUMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 958,
+      "heading": "CLOSING RECALL FLOW - CORE - THE FIRST THOUSAND DAYS AND THE SEQUENCING ARGUMENT",
+      "preview": "START / CONCEPT: CORE — The first thousand days and the sequencing argument",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 592
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 335.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 64.491
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 969,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nutrition-specific interventions directly target nutritional outcomes through supplementary feeding, micronutrient supplementation, growth monitoring and breastfeeding promotion, whereas nutrition-sensitive interventions address the underly",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 603.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 480.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "VISUAL FIRST",
+      "preview": "NUTRITION-SPECIFIC AND NUTRITION-SENSITIVE CONVERGENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1037,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - NUTRITION-SPECIFIC AND NUTRITION-SENSITIVE CONVERGENCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Nutrition-specific and nutrition-sensitive convergence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 624
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 453.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1048,
+      "markdown_body_line_end": 1048,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Severe and moderate acute malnutrition and the treatment path - Measured outcomes with their survey round attached Qualified use: Answer a clinical-nutrition demand at the level of the treatment path.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 242.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 175.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1070,
+      "heading": "VISUAL FIRST",
+      "preview": "ACUTE MALNUTRITION AND THE TREATMENT PATH",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 662.691
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1116,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ACUTE MALNUTRITION AND THE TREATMENT PATH",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Acute malnutrition and the treatment path",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 770
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1127,
+      "markdown_body_line_end": 1127,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The measurement debate behind the poverty-hunger divergence - The intervention bank for breaking the cycle - Inclusion, exclusion and honest question ownership Qualified use: Close with dated evidence, the measurement debate",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 249.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 168.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1152,
+      "heading": "VISUAL FIRST",
+      "preview": "MEASURED OUTCOMES, DIVERGENCE AND HONEST OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 636.891
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1191,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Social Justice | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II; GS-III (food security economics), GS-I (population/poverty geography). **Core area:** NFSA entitlements; ICDS/Poshan 2.0; PM POSHAN; ONORC portability; food",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 529.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 377.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1232,
+      "heading": "1. Visual foundation",
+      "preview": "POVERTY-MALNUTRITION-HUMAN CAPITAL VICIOUS CYCLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 36,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 416.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1242,
+      "markdown_body_line_end": 1252,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 213.49
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1394,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** The poverty-malnutrition-human-capital vicious cycle is intergenerational and multi-causal; breaking it requires not only food entitlements (NFSA) but also nutrition services focused on the first 1000 days (Poshan 2.0), s",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 713.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 640.224
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1436,
+      "markdown_body_line_end": 1438,
+      "heading": "Evidence and argument bank",
+      "preview": "**Reasoned verdict:** Food entitlement is necessary, but hunger ends only when it is converted into diverse diets, maternal-child care, disease control and accountable local delivery.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 119.224
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 74.556
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1456,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 694.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 627.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1462,
+      "markdown_body_line_end": 1464,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 575.824
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 489.422
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1470,
+      "markdown_body_line_end": 1470,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 450.222
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 405.554
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1479,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 405.554
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 310.487
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1490,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 550.39
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1499,
+      "markdown_body_line_end": 1499,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 459.59
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 414.922
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1504,
+      "markdown_body_line_end": 1521,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MEASURED OUTCOMES, DIVERGENCE AND HONEST OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Measured outcomes, divergence and honest ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 300
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 379.922
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 138.922
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2387,
+      "markdown_body_line_end": 2388,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 727.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 660.624
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2394,
+      "markdown_body_line_end": 2396,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 609.024
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 522.622
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2402,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 483.422
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 438.754
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2409,
+      "markdown_body_line_end": 2411,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 438.754
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 343.687
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2417,
+      "markdown_body_line_end": 2422,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 292.087
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 39.185
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2431,
+      "markdown_body_line_end": 2431,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 718.491
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 673.824
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2472,
+      "markdown_body_line_end": 2485,
+      "heading": "10. PYQ-based analytical application",
+      "preview": "UNEQUAL OWNERSHIP OF LAND / CAPITAL / CREDIT / DIGITAL ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2492,
+      "markdown_body_line_end": 2493,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 642.891
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 576.224
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2499,
+      "markdown_body_line_end": 2502,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 524.624
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 365.222
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2509,
+      "markdown_body_line_end": 2509,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 308.822
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 264.154
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2822,
+      "markdown_body_line_end": 2832,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Social Justice | **Tier:** Advanced | **GS Paper:** GS-II; GS-III (food security economics), GS-I (population/poverty geography). **Core area:** NFSA implementation gaps; Poshan 2.0 architecture; nutrition- sensitive vs nutriti",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 228.091
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 112.424
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2836,
+      "markdown_body_line_end": 2869,
+      "heading": "1. Architecture",
+      "preview": "FOOD SECURITY (calorie access)              NUTRITION SECURITY (multi-dimensional)",
+      "metadata": {
+        "language": "text",
+        "line_count": 32,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 456.291
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2879,
+      "markdown_body_line_end": 2886,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 422.69
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3020,
+      "markdown_body_line_end": 3033,
+      "heading": "10. PYQ-based analytical application",
+      "preview": "UNEQUAL OWNERSHIP OF LAND / CAPITAL / CREDIT / DIGITAL ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3088,
+      "markdown_body_line_end": 3089,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3095,
+      "markdown_body_line_end": 3098,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 531.622
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3105,
+      "markdown_body_line_end": 3105,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 475.222
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 430.554
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3153,
+      "markdown_body_line_end": 3160,
+      "heading": "Poverty, Hunger, Food and Nutrition Security: ANSWER-WRITING SPINE",
+      "preview": "NAME THE DEPRIVATION OR CLAIM -> IDENTIFY THE RIGHT-HOLDER AND THE DUTY-BEARER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 129,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 129,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        129
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3170,
+      "markdown_body_line_end": 3177,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Vicious cycle",
+      "preview": "POVERTY -> income and asset deprivation restricts the household food basket",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3181,
+      "markdown_body_line_end": 3186,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Security types",
+      "preview": "FOOD SECURITY -> reliable access to sufficient, safe and nutritious food",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 669.091
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 617.291
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3190,
+      "markdown_body_line_end": 3196,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Indicator card",
+      "preview": "STUNTING -> low height-for-age under five; chronic cumulative deprivation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3200,
+      "markdown_body_line_end": 3206,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Statutory entitlement card",
+      "preview": "ENACTED -> 5 July 2013; a shift from a welfare to a rights-based approach",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 511.291
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 449.291
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3210,
+      "markdown_body_line_end": 3216,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Price discipline card",
+      "preview": "STATUTORY CEILING -> rice 3 rupees, wheat 2 rupees, coarse grains 1 rupee per kilogram",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 427.291
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 365.291
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3220,
+      "markdown_body_line_end": 3225,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Life-cycle provisions",
+      "preview": "PREGNANT AND LACTATING WOMEN -> nutritious meal free of cost; maternity benefit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 343.291
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 291.491
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3229,
+      "markdown_body_line_end": 3235,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Remedy and responsibility",
+      "preview": "NON-SUPPLY -> the entitled person may claim a food security allowance from the State",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3239,
+      "markdown_body_line_end": 3245,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Service layers by age",
+      "preview": "POSHAN 2.0 -> Ministry of Women and Child Development; anganwadi centres",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3249,
+      "markdown_body_line_end": 3255,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Ration format trade-off",
+      "preview": "TAKE-HOME RATION -> dry ration cooked at home; pregnant and lactating women",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3259,
+      "markdown_body_line_end": 3266,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Portability mechanism",
+      "preview": "PROBLEM -> a migrant is listed on a State-specific roll and loses access on moving",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3270,
+      "markdown_body_line_end": 3277,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Convergence bank",
+      "preview": "NUTRITION-SPECIFIC -> feeding, micronutrients, growth monitoring, breastfeeding support",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3281,
+      "markdown_body_line_end": 3287,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Dated outcome and answer spine",
+      "preview": "ROUND FIVE 2019-21 -> stunting 35.5, wasting 19.3, child anaemia 67.1 per cent",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    }
+  ]
+}

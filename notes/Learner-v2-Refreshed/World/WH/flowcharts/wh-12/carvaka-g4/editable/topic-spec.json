@@ -1,0 +1,1108 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-12",
+  "subject": "World-History",
+  "title": "RISE OF FASCISM: ITALY, GERMANY, JAPAN",
+  "short_route": "ITALIAN ROAD TO OFFICE → FASCIST GOVERNING TOOLKIT → WEIMAR BREAKDOWN CHAIN → FROM CHANCELLOR TO DICTATOR → ITALIAN FASCISM VERSUS NAZISM → NAZI CONTROL MIXTURE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-12-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "922815cebc90b0318ad72f85095d8ffd38a1f8011c38149fe2d99cf042ffb460",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ITALIAN ROAD TO OFFICE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ITALIAN ROAD TO OFFICE",
+          "role": "primary"
+        },
+        {
+          "text": "FASCIST MOVEMENT AND PARTY ORGANISED",
+          "role": "outcome"
+        },
+        {
+          "text": "POSTWAR CRISIS",
+          "role": "comparison"
+        },
+        {
+          "text": "GRIEVANCE, INFLATION AND CLASS FEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "OCT 1922",
+          "role": "primary"
+        },
+        {
+          "text": "MARCH ON ROME APPLIES PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "REFUSES RESISTANCE AND INVITES MUSSOLINI",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1919-21 → fascist movement and party organised",
+        "POSTWAR CRISIS → grievance, inflation and class fear",
+        "OCT 1922 → March on Rome applies pressure",
+        "KING → refuses resistance and invites Mussolini",
+        "MUST REMEMBER: Mussolini reached office in October 1922 through pressure and royal invitation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1919-21 → fascist movement and party organised",
+            "POSTWAR CRISIS → grievance, inflation and class fear",
+            "OCT 1922 → March on Rome applies pressure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "KING → refuses resistance and invites Mussolini",
+            "MUST REMEMBER: Mussolini reached office in October 1922 through pressure and royal invitation",
+            "Hitler became Chancellor in January 1933 without an overall electoral majority"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "and converted office into dictatorship through the Enabling Law and coercion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Hitler became Chancellor in January 1933 without an overall electoral majority and converted office into dictatorship through the Enabling Law and coercion.",
+      "source_references": [
+        "Italy's postwar crisis",
+        "March on Rome and elite transfer",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FASCIST GOVERNING TOOLKIT",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FASCIST GOVERNING TOOLKIT",
+          "role": "primary"
+        },
+        {
+          "text": "LEADER CULT",
+          "role": "outcome"
+        },
+        {
+          "text": "IL DUCE",
+          "role": "comparison"
+        },
+        {
+          "text": "MONOPOLY GROWS THROUGH ACERBO SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "CORPORATE CONTROL AND GIL",
+          "role": "primary"
+        },
+        {
+          "text": "LATERAN TREATY SETTLES ONE RIVAL CENTRE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LEADER CULT → il Duce",
+        "PARTY/LAW → monopoly grows through Acerbo system",
+        "LABOUR/YOUTH → corporate control and GIL",
+        "CHURCH → Lateran Treaty settles one rival centre"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEADER CULT → il Duce",
+            "PARTY/LAW → monopoly grows through Acerbo system"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LABOUR/YOUTH → corporate control and GIL",
+            "CHURCH → Lateran Treaty settles one rival centre"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEADER CULT → il Duce",
+            "PARTY/LAW → monopoly grows through Acerbo system"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHURCH → Lateran Treaty settles one rival centre.",
+      "source_references": [
+        "Fascist ideology and institutions",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WEIMAR BREAKDOWN CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WEIMAR BREAKDOWN CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "VERSAILLES + MYTH",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL LEGITIMACY WEAKENS",
+          "role": "comparison"
+        },
+        {
+          "text": "HYPERINFLATION + CREDIT",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOVERY REMAINS FRAGILE",
+          "role": "primary"
+        },
+        {
+          "text": "UNEMPLOYMENT AND RADICALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSERVATIVE INTRIGUE",
+          "role": "comparison"
+        },
+        {
+          "text": "HITLER ENTERS OFFICE LEGALLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VERSAILLES + MYTH → national legitimacy weakens",
+        "HYPERINFLATION + CREDIT → recovery remains fragile",
+        "DEPRESSION → unemployment and radicalisation",
+        "CONSERVATIVE INTRIGUE → Hitler enters office legally"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VERSAILLES + MYTH → national legitimacy weakens",
+            "HYPERINFLATION + CREDIT → recovery remains fragile"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEPRESSION → unemployment and radicalisation",
+            "CONSERVATIVE INTRIGUE → Hitler enters office legally"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERSAILLES + MYTH → national legitimacy weakens",
+            "HYPERINFLATION + CREDIT → recovery remains fragile"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEPRESSION → unemployment and radicalisation; CONSERVATIVE INTRIGUE → Hitler enters office legally.",
+      "source_references": [
+        "Weimar's cumulative breakdown",
+        "Hitler's legal entry and dictatorship",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FROM CHANCELLOR TO DICTATOR",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM CHANCELLOR TO DICTATOR",
+          "role": "primary"
+        },
+        {
+          "text": "JAN 1933",
+          "role": "outcome"
+        },
+        {
+          "text": "HITLER BECOMES CHANCELLOR",
+          "role": "comparison"
+        },
+        {
+          "text": "MAR 1933",
+          "role": "evidence"
+        },
+        {
+          "text": "ENABLING LAW GRANTS DICTATORIAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "NIGHT OF THE LONG KNIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "NUREMBERG LAWS INSTITUTIONALISE EXCLUSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "JAN 1933 → Hitler becomes Chancellor",
+        "MAR 1933 → Enabling Law grants dictatorial power",
+        "1934 → Night of the Long Knives",
+        "1935 → Nuremberg Laws institutionalise exclusion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JAN 1933 → Hitler becomes Chancellor",
+            "MAR 1933 → Enabling Law grants dictatorial power"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1934 → Night of the Long Knives",
+            "1935 → Nuremberg Laws institutionalise exclusion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JAN 1933 → Hitler becomes Chancellor",
+            "MAR 1933 → Enabling Law grants dictatorial power"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAR 1933 → Enabling Law grants dictatorial power.",
+      "source_references": [
+        "Hitler's legal entry and dictatorship",
+        "Consolidation after 1933",
+        "Nazism's racial core",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ITALIAN FASCISM VERSUS NAZISM",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ITALIAN FASCISM VERSUS NAZISM",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORITARIAN NATIONALISM AND CORPORATE CLAIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "RACIAL-BIOLOGICAL IDEOLOGY AT CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "LESS THOROUGH SOCIAL PENETRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "POLICE, PARTY, YOUTH AND CAMPS INTEGRATE CONTROL",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ITALY → authoritarian nationalism and corporate claims",
+        "GERMANY → racial-biological ideology at core",
+        "ITALY → less thorough social penetration",
+        "GERMANY → police, party, youth and camps integrate control"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ITALY → authoritarian nationalism and corporate claims",
+          "ITALY → less thorough social penetration",
+          "ITALY → authoritarian nationalism and corporate claims"
+        ],
+        [
+          "GERMANY → racial-biological ideology at core",
+          "GERMANY → police, party, youth and camps integrate control",
+          "GERMANY → racial-biological ideology at core"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ITALY → authoritarian nationalism and corporate claims",
+            "GERMANY → racial-biological ideology at core"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ITALY → less thorough social penetration",
+            "GERMANY → police, party, youth and camps integrate control"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ITALY → authoritarian nationalism and corporate claims",
+            "GERMANY → racial-biological ideology at core"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GERMANY → police, party, youth and camps integrate control.",
+      "source_references": [
+        "Italy and Germany compared",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NAZI CONTROL MIXTURE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NAZI CONTROL MIXTURE",
+          "role": "primary"
+        },
+        {
+          "text": "LEADER MYTH AND NATIONAL REBIRTH",
+          "role": "outcome"
+        },
+        {
+          "text": "YOUTH, SCHOOLS AND LABOUR REORDERED",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICE POWER, CAMPS AND PURGE",
+          "role": "mechanism"
+        },
+        {
+          "text": "MEMBERSHIP IN THE NATION LEGALLY RESTRICTED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PROPAGANDA → leader myth and national rebirth",
+        "ORGANISATION → youth, schools and labour reordered",
+        "COERCION → police power, camps and purge",
+        "RACE → membership in the nation legally restricted"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROPAGANDA → leader myth and national rebirth",
+            "ORGANISATION → youth, schools and labour reordered"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COERCION → police power, camps and purge",
+            "RACE → membership in the nation legally restricted"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROPAGANDA → leader myth and national rebirth",
+            "ORGANISATION → youth, schools and labour reordered"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RACE → membership in the nation legally restricted.",
+      "source_references": [
+        "Consent, propaganda and coercion",
+        "Nazism's racial core",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "JAPAN'S DISTINCT ROUTE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "JAPAN'S DISTINCT ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "ARMY OCCUPIES MANCHURIA",
+          "role": "outcome"
+        },
+        {
+          "text": "INUKAI ASSASSINATED",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMINANCE GROWS INSIDE SURVIVING INSTITUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "FULL-SCALE WAR IN CHINA",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1931 → army occupies Manchuria",
+        "1932 → Inukai assassinated",
+        "ARMY → dominance grows inside surviving institutions",
+        "1937 → full-scale war in China"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1931 → army occupies Manchuria",
+            "1932 → Inukai assassinated"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARMY → dominance grows inside surviving institutions",
+            "1937 → full-scale war in China"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1931 → army occupies Manchuria",
+            "1932 → Inukai assassinated"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARMY → dominance grows inside surviving institutions; 1937 → full-scale war in China.",
+      "source_references": [
+        "Japan's military route",
+        "Japanese expansion into China",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WHY JAPAN NEEDS A QUALIFIER",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHY JAPAN NEEDS A QUALIFIER",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONALISM, ANTI-LEFT POLITICS AND EXPANSION",
+          "role": "outcome"
+        },
+        {
+          "text": "NO EQUIVALENT FASCIST MASS PARTY-STATE",
+          "role": "caution"
+        },
+        {
+          "text": "EMPEROR AND CONSTITUTION FORMALLY SURVIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "MILITARY AUTHORITARIANISM IS SAFER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SIMILAR → nationalism, anti-left politics and expansion",
+        "DIFFERENT → no equivalent fascist mass party-state",
+        "FORM → emperor and constitution formally survive",
+        "LABEL → military authoritarianism is safer"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SIMILAR → nationalism, anti-left politics and expansion",
+          "FORM → emperor and constitution formally survive",
+          "SIMILAR → nationalism, anti-left politics and expansion"
+        ],
+        [
+          "DIFFERENT → no equivalent fascist mass party-state",
+          "LABEL → military authoritarianism is safer",
+          "DIFFERENT → no equivalent fascist mass party-state"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SIMILAR → nationalism, anti-left politics and expansion",
+            "DIFFERENT → no equivalent fascist mass party-state"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORM → emperor and constitution formally survive",
+            "LABEL → military authoritarianism is safer"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SIMILAR → nationalism, anti-left politics and expansion",
+            "DIFFERENT → no equivalent fascist mass party-state"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORM → emperor and constitution formally survive; LABEL → military authoritarianism is safer.",
+      "source_references": [
+        "Japan's military route",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SPAIN'S BOUNDED PATH",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SPAIN'S BOUNDED PATH",
+          "role": "primary"
+        },
+        {
+          "text": "MONARCHY FALLS",
+          "role": "outcome"
+        },
+        {
+          "text": "CIVIL WAR BEGINS",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPORT FRANCO",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONALIST VICTORY AND AUTHORITARIAN RULE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1931 → monarchy falls",
+        "1936 → civil war begins",
+        "GERMANY/ITALY → support Franco",
+        "1939 → Nationalist victory and authoritarian rule"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1931 → monarchy falls",
+            "1936 → civil war begins"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GERMANY/ITALY → support Franco",
+            "1939 → Nationalist victory and authoritarian rule"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1931 → monarchy falls",
+            "1936 → civil war begins"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GERMANY/ITALY → support Franco; 1939 → Nationalist victory and authoritarian rule.",
+      "source_references": [
+        "Spain's civil-war path",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FOUR-REGIME MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR-REGIME MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST FASCIST PARTY DICTATORSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "RACIAL TOTALITARIAN RADICALISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ARMY-LED IMPERIAL MILITARISM",
+          "role": "evidence"
+        },
+        {
+          "text": "CIVIL-WAR AUTHORITARIANISM WITHOUT FULL FASCIST FORM",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ITALIAN FASCISM, GERMAN NAZISM, JAPANESE MILITARY AUTHORITARIANISM AND",
+          "role": "comparison"
+        },
+        {
+          "text": "FRANCOISM SHARE FAMILY RESEMBLANCES BUT DIFFER IN MASS-PARTY FORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ITALY → first fascist party dictatorship",
+        "GERMANY → racial totalitarian radicalisation",
+        "JAPAN → army-led imperial militarism",
+        "SPAIN → civil-war authoritarianism without full fascist form",
+        "CLOSE DISTINCTION: Italian fascism, German Nazism, Japanese military authoritarianism and"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ITALY → first fascist party dictatorship",
+          "JAPAN → army-led imperial militarism",
+          "CLOSE DISTINCTION: Italian fascism, German Nazism, Japanese military authoritarianism and"
+        ],
+        [
+          "GERMANY → racial totalitarian radicalisation",
+          "SPAIN → civil-war authoritarianism without full fascist form",
+          "Francoism share family resemblances but differ in mass-party form, racial doctrine, surviving institutions and routes to power."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ITALY → first fascist party dictatorship",
+            "GERMANY → racial totalitarian radicalisation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JAPAN → army-led imperial militarism",
+            "SPAIN → civil-war authoritarianism without full fascist form"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Italian fascism, German Nazism, Japanese military authoritarianism and",
+            "Francoism share family resemblances but differ in mass-party form, racial doctrine, surviving institutions and routes to power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Francoism share family resemblances but differ in mass-party form, racial doctrine, surviving institutions and routes to power.",
+      "source_references": [
+        "Common crisis, different outcomes",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DEMOCRACY ATTACKED TWICE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEMOCRACY ATTACKED TWICE",
+          "role": "primary"
+        },
+        {
+          "text": "MASS GRIEVANCE, VIOLENCE AND MOVEMENT POLITICS",
+          "role": "outcome"
+        },
+        {
+          "text": "KING AND CONSERVATIVES ENABLE TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "WITHIN LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANCELLORSHIP AND ENABLING LAW",
+          "role": "primary"
+        },
+        {
+          "text": "DEMOCRACY ABANDONED BEFORE FULLY DESTROYED",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "BIOLOGICAL RACISM AND ANTISEMITISM WERE CONSTITUTIVE OF NAZISM, NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BELOW → mass grievance, violence and movement politics",
+        "ABOVE → king and conservatives enable transfer",
+        "WITHIN LAW → chancellorship and Enabling Law",
+        "RESULT → democracy abandoned before fully destroyed",
+        "EVIDENCE LIMIT: Biological racism and antisemitism were constitutive of Nazism, not optional excesses"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BELOW → mass grievance, violence and movement politics",
+          "WITHIN LAW → chancellorship and Enabling Law",
+          "EVIDENCE LIMIT: Biological racism and antisemitism were constitutive of Nazism, not optional excesses"
+        ],
+        [
+          "ABOVE → king and conservatives enable transfer",
+          "RESULT → democracy abandoned before fully destroyed",
+          "Depression mattered through pre-existing institutional fragility, elite complicity, violence and political choice."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BELOW → mass grievance, violence and movement politics",
+            "ABOVE → king and conservatives enable transfer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WITHIN LAW → chancellorship and Enabling Law",
+            "RESULT → democracy abandoned before fully destroyed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Biological racism and antisemitism were constitutive of Nazism, not optional excesses",
+            "Depression mattered through pre-existing institutional fragility, elite complicity, violence and political choice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Biological racism and antisemitism were constitutive of Nazism, not optional excesses; Depression mattered through pre-existing institutional fragility, elite complicity, violence and political choice.",
+      "source_references": [
+        "The democratic-system challenge",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "AUTHORITARIANISM ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "AUTHORITARIANISM ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "POSTWAR GRIEVANCE AND ECONOMIC CRISIS",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVEMENT PRESSURE PLUS ELITE OR MILITARY TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "IDEOLOGY, BASE, INSTITUTIONS AND COERCION",
+          "role": "evidence"
+        },
+        {
+          "text": "FAMILY RESEMBLANCE WITHOUT IDENTITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CONTEXT → postwar grievance and economic crisis",
+        "ROUTE → movement pressure plus elite or military transfer",
+        "COMPARE → ideology, base, institutions and coercion",
+        "VERDICT → family resemblance without identity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONTEXT → postwar grievance and economic crisis",
+            "ROUTE → movement pressure plus elite or military transfer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → ideology, base, institutions and coercion",
+            "VERDICT → family resemblance without identity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTEXT → postwar grievance and economic crisis",
+            "ROUTE → movement pressure plus elite or military transfer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROUTE → movement pressure plus elite or military transfer.",
+      "source_references": [
+        "Common crisis, different outcomes",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g2\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g3\\world-history-12_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC WORKS, RECLAIMED MARSHES, ROADS AND INFRASTRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOME INDUSTRIAL GROWTH AND HYDRO-ELECTRIC EXPANSION",
+          "role": "comparison"
+        },
+        {
+          "text": "LATERAN TREATY OF 1929, OFTEN SEEN AS A DURABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "DOPOLAVORO AND CONTROLLED WELFARE/LEISURE MEASURES WON SOME POPULARITY",
+          "role": "primary"
+        },
+        {
+          "text": "REGIME APPEARED TO OFFER ORDER AFTER COALITION INSTABILITY.",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTARKY REMAINED INCOMPLETE; ITALY STILL LACKED COAL, OIL AND",
+          "role": "comparison"
+        },
+        {
+          "text": "THE \"BATTLE FOR WHEAT\" HURT OTHER AGRICULTURAL SECTORS AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "public works, reclaimed marshes, roads and infrastructure;",
+            "some industrial growth and hydro-electric expansion;",
+            "Lateran Treaty of 1929, often seen as a durable settlement of the Church-State conflict;",
+            "Dopolavoro and controlled welfare/leisure measures won some popularity;"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "regime appeared to offer order after coalition instability.",
+            "autarky remained incomplete; Italy still lacked coal, oil and enough steel;",
+            "the \"Battle for Wheat\" hurt other agricultural sectors and preserved the north-south imbalance;",
+            "real wages fell in the Depression years;"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "no real welfare state emerged;",
+            "the corporate state did not eliminate class conflict and functioned largely as labour control;",
+            "corruption and inefficiency remained serious.",
+            "democratic institutions were weak and elites hostile;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

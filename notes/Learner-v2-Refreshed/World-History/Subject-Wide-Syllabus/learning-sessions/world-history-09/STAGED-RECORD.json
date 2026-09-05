@@ -1,0 +1,118 @@
+{
+  "record_id": "world-history-09:learner-v2:g1",
+  "topic_key": "world-history-09",
+  "variant": "learner-v2",
+  "generation": 1,
+  "supersedes": null,
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — World in 1914 and Outbreak of WWI",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-09\\world-history-09_Complete-Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-09\\world-history-09_Solved-Practice-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-09\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-09\\world-history-09_Solved-Practice-Workbook_2026-09-01.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-09\\assets",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\09_World-in-1914-and-Outbreak-of-WWI_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+    ],
+    "live_sources": [],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-09\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": null,
+    "source_hashes": {
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf": "5a5095f1b1ff4c964d4e74dc810aee97ddf8aee0066ce98f2244ba0e956c8a43",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md": "503153fe20c5d5b6a8d3fbfde22a08819567ab0d55f023eb5f4f7195c8052b98",
+      "upsc-ai-kit\\knowledge\\World-History\\09_World-in-1914-and-Outbreak-of-WWI_Complete-Topic-Package.md": "70c17b719e71be3d7cafbff6faa7ae7c713f2da25656b053f79a6b52d2f264df",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md": "922275c98d2e1e8ad67d5982f04ee6fdb106bfd8b6c90fd92a8d68cf307ea4d7",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md": "27a0b33873d07e4d0321605b159c27ebbc0f5e3a0c4fe681522f3a14932715d7",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md": "b6c3ec3b3930ae61b9396e0b1e3f89d7b3a1991626583faa20fc3f5b40832145",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md": "13a4d3a708a2596aae58363e417ad8f04cc0a4de897122be4dc47a273fe24493",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md": "ba77b3d31881f60ad033d0b1dbdc13eab6670cf4642dcf76189a0ea3e249bc2b",
+      "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-09_Learning-Session.md": "70c17b719e71be3d7cafbff6faa7ae7c713f2da25656b053f79a6b52d2f264df",
+      "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-09_Solved-Workbook.md": "7c92d510bbc742960f7b7190ceab655456d2562f4e671fa548f623bd6e5d7263",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "2b0adb4a402bedb9cd5f9af8da83928fc1d52138401832b1c867d574f629cbf9",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md": "e31dd80057f141aa74ecdbc04fd65860a54969b551b96e79e5af9f162514ed71",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-08-09-2026-09-01-sequential.json": "e6e22ff39659f41037a8e5e1dc9286ec8fa0b7e83f2462f933ca12f9e38f1ec5",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\world-history-09.json": "65998761b2c3d51ef4810503e8fd91ae218785e61e59ed27509b4005fe3b4df5",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+      "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json": "8e8f4f712e2f1cdfd57519a89306fbf6419d282a4bb704428677eabae1e80581"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+    "current_linkage_note": "No verified live current-affairs item is pegged to this historical topic in the repository owners. The package therefore uses the bounded phrase 'no verified live item' rather than inventing a headline, date, institution or contemporary linkage.",
+    "pyq_status_note": "The local owners verify the 2024 GS-I demand asking how far the First World War was fought essentially for preservation of balance of power.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "eeb9d2f6ccb5048a915a600f6cb69cf0f82841db4301b32ad3b407d65bf11c78"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "world-history-09:learner-v2:g1"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1",
+    "master_image": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-09\\world-history-09_Graphical-Spec-g1.json",
+    "graphical_spec_sha256": "4c682af1e7dc88a62c9d2061bd0c88cde5c7692ea7be13d2aaf4635f8a13caeb",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-09\\carvaka-g1\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-08-09-2026-09-01-sequential.json",
+    "ascii_master_spec_sha256": "e6e22ff39659f41037a8e5e1dc9286ec8fa0b7e83f2462f933ca12f9e38f1ec5"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

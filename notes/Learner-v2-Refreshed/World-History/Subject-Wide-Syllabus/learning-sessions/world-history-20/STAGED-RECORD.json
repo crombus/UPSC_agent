@@ -1,0 +1,123 @@
+{
+  "record_id": "world-history-20:learner-v2:g1",
+  "topic_key": "world-history-20",
+  "variant": "learner-v2",
+  "generation": 1,
+  "supersedes": null,
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — World Economy and Population since 1900",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-20\\world-history-20_Complete-Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-20\\world-history-20_Solved-Practice-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-20\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-20\\world-history-20_Solved-Practice-Workbook_2026-09-01.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-20\\assets",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\20_World-Economy-and-Population-since-1900_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+    ],
+    "live_sources": [
+      "https://unctad.org/publication/world-economic-situation-and-prospects-2026",
+      "https://population.un.org/wpp/"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-20\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": null,
+    "source_hashes": {
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf": "5a5095f1b1ff4c964d4e74dc810aee97ddf8aee0066ce98f2244ba0e956c8a43",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md": "503153fe20c5d5b6a8d3fbfde22a08819567ab0d55f023eb5f4f7195c8052b98",
+      "upsc-ai-kit\\knowledge\\World-History\\20_World-Economy-and-Population-since-1900_Complete-Topic-Package.md": "0f7dcb4eda636fc4a8b2d549d7d1e259dba8dc27a988b465510a5c83426c532c",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md": "d607f80e835a81113d00e19d78c3a255508811fa38b7112acc825a22150b6785",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md": "e9a56b4b752bbecad4b637874561d59dc3563a055252450366767740b7d93d33",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md": "e649806053646ccbb40a793f14a5e8c8b10fc84ef6bef0c382c65fc8ac98c651",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md": "ef6d14cc286b8899b8a783381e5092bf794ace7b24fdce9ebf9714709429eab4",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md": "18a136638c863ab5cdebf57f8f13cb657c433f04601cc5dbfc4f20ddad974c50",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md": "5f2ca593b517132ead52566f93c90577d4c846ca937567e693d7022dd9d13cf5",
+      "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-20_Learning-Session.md": "0f7dcb4eda636fc4a8b2d549d7d1e259dba8dc27a988b465510a5c83426c532c",
+      "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-20_Solved-Workbook.md": "e84d855fcc4f8fa77bace7802ec50f3c4ec812b211d4d6fbafbbf6d55138b36f",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "2b0adb4a402bedb9cd5f9af8da83928fc1d52138401832b1c867d574f629cbf9",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md": "e31dd80057f141aa74ecdbc04fd65860a54969b551b96e79e5af9f162514ed71",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-19-20-2026-09-01-sequential.json": "ed62ca1d95956d3a397d5a162a41195f3d6475e8a3fb9df84debb72eedaa81b3",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\world-history-20.json": "68335b792110934f7f8bcb9cd438ce1b300cc44aa7b043205c33ed4efbfb54c3",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+      "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json": "8e8f4f712e2f1cdfd57519a89306fbf6419d282a4bb704428677eabae1e80581"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+    "current_linkage_note": "The UN World Economic Situation and Prospects 2026 describes slower and uneven world growth, trade and investment headwinds, and a need for stronger policy coordination. The UN World Population Prospects portal supplies the official current demographic-data anchor. Together they provide a bounded link to unequal globalisation and population analysis; no 2026 population estimate or unfetched economic figure is invented.",
+    "pyq_status_note": "The owner records one pre-2018 GS-I demand in neutral rendering only: the policy instruments deployed to contain the Great Economic Depression. No verbatim 2013 wording or question number is held locally.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "51c982d25de289ae3e9d9db64f6a478b052ff4e4bd53d907ead7885c41831b82"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "world-history-20:learner-v2:g1"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1",
+    "master_image": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-20\\world-history-20_Graphical-Spec-g1.json",
+    "graphical_spec_sha256": "0d453be92de2a0baa587e680b5d57ce3667363e5c1e5eb3bf7c30f2c2674eed8",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\flowcharts\\world-history-20\\carvaka-g1\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-19-20-2026-09-01-sequential.json",
+    "ascii_master_spec_sha256": "ed62ca1d95956d3a397d5a162a41195f3d6475e8a3fb9df84debb72eedaa81b3"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

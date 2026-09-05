@@ -1,0 +1,1073 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-05",
+  "subject": "World-History",
+  "title": "CONGRESS OF VIENNA AND CONCERT OF EUROPE",
+  "short_route": "VIENNA'S STARTING PROBLEM → THREE SETTLEMENT PRINCIPLES → NORTHERN AND CENTRAL MAP → ITALIAN AND POLISH DEFERRAL → CONCERT OPERATING MECHANISM → CONCERT VERSUS HOLY ALLIANCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-05\\world-history-05_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-05-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "952b3f52c4876c475ced7a0f22f2e79f075f0934d6b060ba3f89b8105aec8d0c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "VIENNA'S STARTING PROBLEM",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "VIENNA'S STARTING PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "NAPOLEON DEFEATED",
+          "role": "outcome"
+        },
+        {
+          "text": "EUROPE NEEDS RECONSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FEAR 1",
+          "role": "evidence"
+        },
+        {
+          "text": "RENEWED FRENCH HEGEMONY",
+          "role": "primary"
+        },
+        {
+          "text": "FEAR 2",
+          "role": "outcome"
+        },
+        {
+          "text": "REVOLUTIONARY AND NATIONAL CONTAGION",
+          "role": "comparison"
+        },
+        {
+          "text": "VIENNA 1814-15",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NAPOLEON DEFEATED → Europe needs reconstruction",
+        "FEAR 1 → renewed French hegemony",
+        "FEAR 2 → revolutionary and national contagion",
+        "VIENNA 1814-15 → strategic peace plus conservative restoration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAPOLEON DEFEATED → Europe needs reconstruction",
+            "FEAR 1 → renewed French hegemony"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FEAR 2 → revolutionary and national contagion",
+            "VIENNA 1814-15 → strategic peace plus conservative restoration"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NAPOLEON DEFEATED → Europe needs reconstruction",
+            "FEAR 1 → renewed French hegemony"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VIENNA 1814-15 → strategic peace plus conservative restoration.",
+      "source_references": [
+        "Post-Napoleonic reconstruction"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE SETTLEMENT PRINCIPLES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE SETTLEMENT PRINCIPLES",
+          "role": "primary"
+        },
+        {
+          "text": "RESTORE DYNASTIES",
+          "role": "outcome"
+        },
+        {
+          "text": "BALANCE OF POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONTAIN FRANCE WITH BUFFERS",
+          "role": "evidence"
+        },
+        {
+          "text": "REWARD VICTORS WITH TERRITORY",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "POPULATIONS DO NOT SUPPLY CONSENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LEGITIMACY → restore dynasties",
+        "BALANCE OF POWER → contain France with buffers",
+        "COMPENSATION → reward victors with territory",
+        "COMMON LIMIT → populations do not supply consent"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LEGITIMACY → restore dynasties",
+          "COMPENSATION → reward victors with territory",
+          "LEGITIMACY → restore dynasties"
+        ],
+        [
+          "BALANCE OF POWER → contain France with buffers",
+          "COMMON LIMIT → populations do not supply consent",
+          "BALANCE OF POWER → contain France with buffers"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEGITIMACY → restore dynasties",
+            "BALANCE OF POWER → contain France with buffers"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPENSATION → reward victors with territory",
+            "COMMON LIMIT → populations do not supply consent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGITIMACY → restore dynasties",
+            "BALANCE OF POWER → contain France with buffers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON LIMIT → populations do not supply consent.",
+      "source_references": [
+        "Legitimacy and dynastic restoration",
+        "Balance of power and buffers",
+        "Compensation and territorial bargaining"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "NORTHERN AND CENTRAL MAP LOGIC",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NORTHERN AND CENTRAL MAP LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "BELGIUM + HOLLAND BUFFER FRANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMAN LANDS",
+          "role": "comparison"
+        },
+        {
+          "text": "39-STATE CONFEDERATION UNDER AUSTRIA",
+          "role": "institution"
+        },
+        {
+          "text": "RHINELAND, WESTPHALIA AND PART OF SAXONY",
+          "role": "primary"
+        },
+        {
+          "text": "NEUTRALITY RECOGNISED",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NETHERLANDS → Belgium + Holland buffer France",
+        "GERMAN LANDS → 39-state Confederation under Austria",
+        "PRUSSIA → Rhineland, Westphalia and part of Saxony",
+        "SWITZERLAND → neutrality recognised"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NETHERLANDS → Belgium + Holland buffer France",
+          "PRUSSIA → Rhineland, Westphalia and part of Saxony",
+          "NETHERLANDS → Belgium + Holland buffer France"
+        ],
+        [
+          "GERMAN LANDS → 39-state Confederation under Austria",
+          "SWITZERLAND → neutrality recognised",
+          "GERMAN LANDS → 39-state Confederation under Austria"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NETHERLANDS → Belgium + Holland buffer France",
+            "GERMAN LANDS → 39-state Confederation under Austria"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRUSSIA → Rhineland, Westphalia and part of Saxony",
+            "SWITZERLAND → neutrality recognised"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NETHERLANDS → Belgium + Holland buffer France",
+            "GERMAN LANDS → 39-state Confederation under Austria"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRUSSIA → Rhineland, Westphalia and part of Saxony.",
+      "source_references": [
+        "Balance of power and buffers",
+        "Germany: unity postponed",
+        "Poland, Prussia and Switzerland"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ITALIAN AND POLISH DEFERRAL",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ITALIAN AND POLISH DEFERRAL",
+          "role": "primary"
+        },
+        {
+          "text": "AUSTRIA GETS LOMBARDY AND VENETIA",
+          "role": "outcome"
+        },
+        {
+          "text": "STRENGTHENED BY GENOA",
+          "role": "comparison"
+        },
+        {
+          "text": "CONGRESS POLAND UNDER RUSSIAN CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL QUESTIONS POSTPONED, NOT RESOLVED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ITALY → Austria gets Lombardy and Venetia",
+        "PIEDMONT → strengthened by Genoa",
+        "POLAND → Congress Poland under Russian control",
+        "RESULT → national questions postponed, not resolved"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ITALY → Austria gets Lombardy and Venetia",
+          "POLAND → Congress Poland under Russian control",
+          "ITALY → Austria gets Lombardy and Venetia"
+        ],
+        [
+          "PIEDMONT → strengthened by Genoa",
+          "RESULT → national questions postponed, not resolved",
+          "PIEDMONT → strengthened by Genoa"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ITALY → Austria gets Lombardy and Venetia",
+            "PIEDMONT → strengthened by Genoa"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLAND → Congress Poland under Russian control",
+            "RESULT → national questions postponed, not resolved"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ITALY → Austria gets Lombardy and Venetia",
+            "PIEDMONT → strengthened by Genoa"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLAND → Congress Poland under Russian control; RESULT → national questions postponed, not resolved.",
+      "source_references": [
+        "Italy: Austrian control and Piedmont's strengthening",
+        "Poland, Prussia and Switzerland"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CONCERT OPERATING MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONCERT OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "GREAT POWERS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSULT RATHER THAN FIGHT IMMEDIATELY",
+          "role": "comparison"
+        },
+        {
+          "text": "PERIODIC MANAGEMENT OF DISPUTES",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUS QUO",
+          "role": "primary"
+        },
+        {
+          "text": "TERRITORIAL AND POLITICAL ORDER DEFENDED",
+          "role": "outcome"
+        },
+        {
+          "text": "NO PERMANENT TREATY-STATE OR DEMOCRATIC REPRESENTATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GREAT POWERS → consult rather than fight immediately",
+        "CONGRESSES → periodic management of disputes",
+        "STATUS QUO → territorial and political order defended",
+        "LIMIT → no permanent treaty-state or democratic representation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GREAT POWERS → consult rather than fight immediately",
+            "CONGRESSES → periodic management of disputes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATUS QUO → territorial and political order defended",
+            "LIMIT → no permanent treaty-state or democratic representation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GREAT POWERS → consult rather than fight immediately",
+            "CONGRESSES → periodic management of disputes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → no permanent treaty-state or democratic representation.",
+      "source_references": [
+        "The Concert as diplomatic practice"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CONCERT VERSUS HOLY ALLIANCE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONCERT VERSUS HOLY ALLIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "BROAD PRACTICAL GREAT-POWER CONSULTATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "HOLY ALLIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "RUSSIA, AUSTRIA, PRUSSIA; SYMBOLIC CONSERVATISM",
+          "role": "evidence"
+        },
+        {
+          "text": "BOTH EMERGE IN 1815 ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "NEVER USE THE NAMES AS SYNONYMS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CONCERT → broad practical great-power consultation",
+        "HOLY ALLIANCE → Russia, Austria, Prussia; symbolic conservatism",
+        "OVERLAP → both emerge in 1815 order",
+        "RULE → never use the names as synonyms"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONCERT → broad practical great-power consultation",
+          "OVERLAP → both emerge in 1815 order",
+          "CONCERT → broad practical great-power consultation"
+        ],
+        [
+          "HOLY ALLIANCE → Russia, Austria, Prussia; symbolic conservatism",
+          "RULE → never use the names as synonyms",
+          "HOLY ALLIANCE → Russia, Austria, Prussia; symbolic conservatism"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONCERT → broad practical great-power consultation",
+            "HOLY ALLIANCE → Russia, Austria, Prussia; symbolic conservatism"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OVERLAP → both emerge in 1815 order",
+            "RULE → never use the names as synonyms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCERT → broad practical great-power consultation",
+            "HOLY ALLIANCE → Russia, Austria, Prussia; symbolic conservatism"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never use the names as synonyms.",
+      "source_references": [
+        "Holy Alliance and practical limits"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REINTEGRATION AND REPRESSION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REINTEGRATION AND REPRESSION",
+          "role": "primary"
+        },
+        {
+          "text": "AIX 1818",
+          "role": "outcome"
+        },
+        {
+          "text": "FRANCE READMITTED TO CONSULTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CARLSBAD 1819",
+          "role": "evidence"
+        },
+        {
+          "text": "CENSORSHIP AND UNIVERSITY CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL LOGIC",
+          "role": "outcome"
+        },
+        {
+          "text": "INCLUDE A FORMER ENEMY",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL LOGIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AIX 1818 → France readmitted to consultation",
+        "CARLSBAD 1819 → censorship and university control",
+        "EXTERNAL LOGIC → include a former enemy",
+        "INTERNAL LOGIC → exclude liberal-national dissent"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AIX 1818 → France readmitted to consultation",
+          "EXTERNAL LOGIC → include a former enemy",
+          "AIX 1818 → France readmitted to consultation"
+        ],
+        [
+          "CARLSBAD 1819 → censorship and university control",
+          "INTERNAL LOGIC → exclude liberal-national dissent",
+          "CARLSBAD 1819 → censorship and university control"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AIX 1818 → France readmitted to consultation",
+            "CARLSBAD 1819 → censorship and university control"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXTERNAL LOGIC → include a former enemy",
+            "INTERNAL LOGIC → exclude liberal-national dissent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AIX 1818 → France readmitted to consultation",
+            "CARLSBAD 1819 → censorship and university control"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXTERNAL LOGIC → include a former enemy; INTERNAL LOGIC → exclude liberal-national dissent.",
+      "source_references": [
+        "Aix-la-Chapelle and reintegration",
+        "Carlsbad and domestic repression"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INTERVENTION CONGRESS SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INTERVENTION CONGRESS SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "TROPPAU 1820",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERVENTION PRINCIPLE ASSERTED",
+          "role": "comparison"
+        },
+        {
+          "text": "LAIBACH 1821",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERVENTION AGAINST REVOLUTION APPLIED",
+          "role": "primary"
+        },
+        {
+          "text": "VERONA 1822",
+          "role": "outcome"
+        },
+        {
+          "text": "FRENCH INTERVENTION IN SPAIN APPROVED",
+          "role": "comparison"
+        },
+        {
+          "text": "AFTER VERONA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TROPPAU 1820 → intervention principle asserted",
+        "LAIBACH 1821 → intervention against revolution applied",
+        "VERONA 1822 → French intervention in Spain approved",
+        "AFTER VERONA → old congress rhythm weakens"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TROPPAU 1820 → intervention principle asserted",
+            "LAIBACH 1821 → intervention against revolution applied"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VERONA 1822 → French intervention in Spain approved",
+            "AFTER VERONA → old congress rhythm weakens"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TROPPAU 1820 → intervention principle asserted",
+            "LAIBACH 1821 → intervention against revolution applied"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERONA 1822 → French intervention in Spain approved.",
+      "source_references": [
+        "Intervention at Troppau, Laibach and Verona"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BELGIUM TESTS FLEXIBILITY",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BELGIUM TESTS FLEXIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "BELGIUM JOINED WITH HOLLAND AS BUFFER",
+          "role": "outcome"
+        },
+        {
+          "text": "BELGIAN REVOLT BREAKS THE ARRANGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCEPTS INDEPENDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADAPTATION CAN PRESERVE WIDER EQUILIBRIUM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1815 → Belgium joined with Holland as buffer",
+        "1830 → Belgian revolt breaks the arrangement",
+        "CONCERT → accepts independence",
+        "LESSON → adaptation can preserve wider equilibrium"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1815 → Belgium joined with Holland as buffer",
+            "1830 → Belgian revolt breaks the arrangement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONCERT → accepts independence",
+            "LESSON → adaptation can preserve wider equilibrium"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1815 → Belgium joined with Holland as buffer",
+            "1830 → Belgian revolt breaks the arrangement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1815 → Belgium joined with Holland as buffer.",
+      "source_references": [
+        "Belgium and selective adaptation"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "1848 PRESSURE AND FAILURE",
+      "structural_type": "causal-system",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "1848 PRESSURE AND FAILURE",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL + LIBERAL + SOCIAL GRIEVANCES CONVERGE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIBERALS, NATIONALISTS AND WORKERS DIFFER",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL CLAIMS COLLIDE IN MULTINATIONAL EMPIRES",
+          "role": "evidence"
+        },
+        {
+          "text": "DYNASTIC ARMIES REMAIN LOYAL AND REVERSE REVOLUTIONS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRESSURE → national + liberal + social grievances converge",
+        "DIVISION → liberals, nationalists and workers differ",
+        "CONFLICT → national claims collide in multinational empires",
+        "FORCE → dynastic armies remain loyal and reverse revolutions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRESSURE → national + liberal + social grievances converge",
+            "DIVISION → liberals, nationalists and workers differ"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONFLICT → national claims collide in multinational empires",
+            "FORCE → dynastic armies remain loyal and reverse revolutions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRESSURE → national + liberal + social grievances converge",
+            "DIVISION → liberals, nationalists and workers differ"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORCE → dynastic armies remain loyal and reverse revolutions.",
+      "source_references": [
+        "Why 1848 came and failed"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "VIENNA'S UNINTENDED GRAVEDIGGERS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "VIENNA'S UNINTENDED GRAVEDIGGERS",
+          "role": "primary"
+        },
+        {
+          "text": "PRUSSIA GAINS RHINELAND",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGER WESTERN BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "PIEDMONT GAINS GENOA",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONGER ITALIAN STATE",
+          "role": "institution"
+        },
+        {
+          "text": "VIENNA INTENT",
+          "role": "outcome"
+        },
+        {
+          "text": "REINFORCE CONSERVATIVE BALANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER RESULT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRUSSIA GAINS RHINELAND → stronger western base",
+        "PIEDMONT GAINS GENOA → stronger Italian state",
+        "VIENNA INTENT → reinforce conservative balance",
+        "LATER RESULT → strengthened states lead national unification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRUSSIA GAINS RHINELAND → stronger western base",
+            "PIEDMONT GAINS GENOA → stronger Italian state"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VIENNA INTENT → reinforce conservative balance",
+            "LATER RESULT → strengthened states lead national unification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRUSSIA GAINS RHINELAND → stronger western base",
+            "PIEDMONT GAINS GENOA → stronger Italian state"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATER RESULT → strengthened states lead national unification.",
+      "source_references": [
+        "Compensation and territorial bargaining",
+        "Italy: Austrian control and Piedmont's strengthening"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PEACE-VERSUS-REPRESSION SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PEACE-VERSUS-REPRESSION SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO RENEWED NAPOLEONIC HEGEMONY",
+          "role": "caution"
+        },
+        {
+          "text": "BALANCE, REINTEGRATION AND CONSULTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CENSORSHIP, INTERVENTION AND DENIED NATIONALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PEACE AMONG POWERS, LEGITIMACY DEFICIT AMONG PEOPLES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SUCCESS → no renewed Napoleonic hegemony",
+        "METHOD → balance, reintegration and consultation",
+        "COST → censorship, intervention and denied nationality",
+        "VERDICT → peace among powers, legitimacy deficit among peoples"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUCCESS → no renewed Napoleonic hegemony",
+            "METHOD → balance, reintegration and consultation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COST → censorship, intervention and denied nationality",
+            "VERDICT → peace among powers, legitimacy deficit among peoples"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUCCESS → no renewed Napoleonic hegemony",
+            "METHOD → balance, reintegration and consultation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → peace among powers, legitimacy deficit among peoples.",
+      "source_references": [
+        "Peace, repression and the final verdict"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NCERT IS CLEAR THAT THE SETTLEMENT DID NOT RESPECT",
+          "role": "caution"
+        },
+        {
+          "text": "THEREFORE, THE VIENNA ORDER IS BEST UNDERSTOOD AS A",
+          "role": "comparison"
+        },
+        {
+          "text": "BRITANNICA NOTES THAT THE REVOLUTIONS OF 1830 AND 1848",
+          "role": "evidence"
+        },
+        {
+          "text": "VERONA EXPOSED DISAGREEMENT OVER INTERVENTION, ESPECIALLY ONCE BRITAIN RESISTED",
+          "role": "primary"
+        },
+        {
+          "text": "THE KEY WEAKNESS WAS STRUCTURAL",
+          "role": "outcome"
+        },
+        {
+          "text": "A DYNASTIC SETTLEMENT TRIED TO CONTAIN SOCIAL AND NATIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "VIENNA COULD RESTORE RULERS, BUT IT COULD NOT PERMANENTLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "NCERT is clear that the settlement did not respect national aspirations in Italy, Germany, Poland and elsewhere.",
+            "CAUTION: Therefore, the Vienna order is best understood as a successful short-term peace system with a long-term legitimacy deficit .",
+            "Britannica notes that the revolutions of 1830 and 1848 and later Italian and German unifications made the original form of the Concert obsolete.",
+            "Verona exposed disagreement over intervention, especially once Britain resisted continental policing beyond Europe."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: The key weakness was structural: a dynastic settlement tried to contain social and national forces released by the French Revolution.",
+            "CAUTION: Vienna could restore rulers, but it could not permanently reverse mass politics, public opinion and the national idea.",
+            "The Vienna settlement created the German Confederation , kept Italy divided and strengthened Sardinia-Piedmont.",
+            "CAUTION: That means the settlement directly shaped the later terrain of Italian and German unification ."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Advanced answers should connect Vienna to a longer arc: French",
+            "Revolution - conservative restoration - nationalist revolt - nation-state formation .",
+            "CAUTION: It also marks an early modern example of multilateral diplomacy, though not modern democracy.",
+            "Congress of Vienna met in 1814-15 ; Final Act signed in June 1815 ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

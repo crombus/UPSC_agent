@@ -1,0 +1,1120 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-08",
+  "subject": "Social-Justice",
+  "title": "SCHEDULED TRIBES, PVTGS AND TRIBAL WELFARE",
+  "short_route": "TWO AXES AND A → THREE RIGHTS CATEGORIES → MINISTRY STATEMENT CARD → CLAIM CHAIN → REJECTION IS NOT EVICTION → PROTECTED-AREA CONDITIONS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-08\\social-justice-08_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-08-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "d1e866617871e160488ceacb434bbdd88e521baf0a5c141235b569000fcd0000",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO AXES AND A THIRD",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO AXES AND A THIRD",
+          "role": "primary"
+        },
+        {
+          "text": "AXIS 1 DISPLACEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MINING AND INDUSTRY, DAMS AND SUBMERGENCE, PROTECTED AREAS, ALIENATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND, FOREST ACCESS, LIVELIHOOD, HABITATION",
+          "role": "evidence"
+        },
+        {
+          "text": "AXIS 2 REHABILITATION",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST-RIGHTS RECOGNITION, CONVERGENCE MISSION, PRODUCE, SCHOOLING",
+          "role": "outcome"
+        },
+        {
+          "text": "AXIS 3 CANDIDATE A",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVELIHOOD AND MARKET INTEGRATION; TITLE IS NOT INCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AXIS 1 DISPLACEMENT → mining and industry, dams and submergence, protected areas, alienation",
+        "LOSS: land, forest access, livelihood, habitation",
+        "AXIS 2 REHABILITATION → forest-rights recognition, convergence mission, produce, schooling",
+        "AXIS 3 CANDIDATE A: livelihood and market integration; title is not income",
+        "AXIS 3 CANDIDATE B: cultural autonomy; resettlement is not identity or self-government"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "AXIS 1 DISPLACEMENT → mining and industry, dams and submergence, protected areas, alienation",
+            "LOSS: land, forest access, livelihood, habitation"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "AXIS 2 REHABILITATION → forest-rights recognition, convergence mission, produce, schooling",
+            "AXIS 3 CANDIDATE A: livelihood and market integration; title is not income"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AXIS 3 CANDIDATE B: cultural autonomy; resettlement is not identity or self-government",
+            "AXIS 1 DISPLACEMENT → mining and industry, dams and submergence, protected areas, alienation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AXIS 3 CANDIDATE B: cultural autonomy; resettlement is not identity or self-government.",
+      "source_references": [
+        "The two-axis frame and the third-axis debate"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE RIGHTS CATEGORIES",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE RIGHTS CATEGORIES",
+          "role": "primary"
+        },
+        {
+          "text": "INDIVIDUAL FOREST RIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "HOLD AND LIVE IN FOREST LAND FOR HABITATION OR",
+          "role": "comparison"
+        },
+        {
+          "text": "AREA ACTUALLY OCCUPIED; CEILING OF FOUR HECTARES PER NUCLEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "HERITABLE BUT NOT TRANSFERABLE OR ALIENABLE",
+          "role": "caution"
+        },
+        {
+          "text": "COMMUNITY RIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MINOR FOREST PRODUCE, GRAZING, WATER BODIES, BIODIVERSITY, CUSTOM",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNITY FOREST RESOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIVIDUAL FOREST RIGHTS → hold and live in forest land for habitation or self-cultivation",
+        "LIMITS → area actually occupied; ceiling of four hectares per nuclear family",
+        "TENURE → heritable but not transferable or alienable",
+        "COMMUNITY RIGHTS → minor forest produce, grazing, water bodies, biodiversity, custom",
+        "COMMUNITY FOREST RESOURCE → Gram Sabha protects, regenerates, conserves and manages"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "INDIVIDUAL FOREST RIGHTS → hold and live in forest land for habitation or self-cultivation",
+            "LIMITS → area actually occupied; ceiling of four hectares per nuclear family"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "TENURE → heritable but not transferable or alienable",
+            "COMMUNITY RIGHTS → minor forest produce, grazing, water bodies, biodiversity, custom"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMUNITY FOREST RESOURCE → Gram Sabha protects, regenerates, conserves and manages",
+            "INDIVIDUAL FOREST RIGHTS → hold and live in forest land for habitation or self-cultivation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMUNITY FOREST RESOURCE → Gram Sabha protects, regenerates, conserves and manages.",
+      "source_references": [
+        "The forest-rights statute and its three categories of right",
+        "Individual forest rights and their exact limits",
+        "Community rights as the livelihood limb of the statute",
+        "Community forest resource rights as the governance limb"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MINISTRY STATEMENT CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MINISTRY STATEMENT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "DEPENDENCE OF FOREST DWELLERS FOR LIVELIHOOD, HABITATION, SOCIO-CULTURAL NEEDS",
+          "role": "outcome"
+        },
+        {
+          "text": "HABITAT RIGHTS FOR PARTICULARLY VULNERABLE GROUPS; NOMADIC SEASONAL ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNITY INTELLECTUAL PROPERTY AND TRADITIONAL KNOWLEDGE; DEVELOPMENTAL LAND USE",
+          "role": "evidence"
+        },
+        {
+          "text": "WITH THE 2013 LAW",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECTS AGAINST EVICTION WITHOUT REHABILITATION AND SETTLEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDO HISTORICAL INJUSTICE; SECURE TENURE AND FOOD SECURITY; STRENGTHEN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RECOGNISES → dependence of forest dwellers for livelihood, habitation, socio-cultural needs",
+        "INCLUDES → habitat rights for particularly vulnerable groups; nomadic seasonal access",
+        "ALSO → community intellectual property and traditional knowledge; developmental land use",
+        "WITH THE 2013 LAW → protects against eviction without rehabilitation and settlement",
+        "OBJECTIVES → undo historical injustice; secure tenure and food security; strengthen conservation"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "RECOGNISES → dependence of forest dwellers for livelihood, habitation, socio-cultural needs",
+          "ALSO → community intellectual property and traditional knowledge; developmental land use",
+          "OBJECTIVES → undo historical injustice; secure tenure and food security; strengthen conservation"
+        ],
+        [
+          "INCLUDES → habitat rights for particularly vulnerable groups; nomadic seasonal access",
+          "WITH THE 2013 LAW → protects against eviction without rehabilitation and settlement",
+          "RECOGNISES → dependence of forest dwellers for livelihood, habitation, socio-cultural needs"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "RECOGNISES → dependence of forest dwellers for livelihood, habitation, socio-cultural needs",
+            "INCLUDES → habitat rights for particularly vulnerable groups; nomadic seasonal access"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ALSO → community intellectual property and traditional knowledge; developmental land use",
+            "WITH THE 2013 LAW → protects against eviction without rehabilitation and settlement"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "OBJECTIVES → undo historical injustice; secure tenure and food security; strengthen conservation",
+            "RECOGNISES → dependence of forest dwellers for livelihood, habitation, socio-cultural needs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OBJECTIVES → undo historical injustice; secure tenure and food security; strengthen conservation.",
+      "source_references": [
+        "The ministry's own account of the statute, verified on the record date"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CLAIM CHAIN",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLAIM CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "GRAM SABHA RECEIVES CLAIMS, VERIFIES THEM AND RECOMMENDS",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "SUB-DIVISIONAL LEVEL COMMITTEE EXAMINES AND VERIFIES THE RECOMMENDATION",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRICT LEVEL COMMITTEE IS THE FINAL ADJUDICATING AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFY TIMELINES AND THE EVIDENCE A CLAIMANT MUST PRODUCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → Gram Sabha receives claims, verifies them and recommends",
+        "STEP 2 → Sub-Divisional Level Committee examines and verifies the recommendation",
+        "STEP 3 → District Level Committee is the final adjudicating authority",
+        "RULES → specify timelines and the evidence a claimant must produce",
+        "DIAGNOSIS → name the tier at which recognition actually failed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "STEP 1 → Gram Sabha receives claims, verifies them and recommends",
+            "STEP 2 → Sub-Divisional Level Committee examines and verifies the recommendation"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "STEP 3 → District Level Committee is the final adjudicating authority",
+            "RULES → specify timelines and the evidence a claimant must produce"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIAGNOSIS → name the tier at which recognition actually failed",
+            "STEP 1 → Gram Sabha receives claims, verifies them and recommends"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIAGNOSIS → name the tier at which recognition actually failed.",
+      "source_references": [
+        "The claim process from Gram Sabha to district committee"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "REJECTION IS NOT EVICTION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REJECTION IS NOT EVICTION",
+          "role": "caution"
+        },
+        {
+          "text": "LEGAL POSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "REJECTION DOES NOT ERASE DUE-PROCESS DUTIES",
+          "role": "caution"
+        },
+        {
+          "text": "NO AUTOMATIC POWER",
+          "role": "caution"
+        },
+        {
+          "text": "REJECTION IS NOT AUTHORITY TO EVICT A CLAIMANT",
+          "role": "caution"
+        },
+        {
+          "text": "2019 EPISODE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE EVICTION DIRECTION CONCERNING REJECTED CLAIMS WAS STAYED",
+          "role": "comparison"
+        },
+        {
+          "text": "PRACTICAL POSITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEGAL POSITION → rejection does not erase due-process duties",
+        "NO AUTOMATIC POWER → rejection is not authority to evict a claimant",
+        "2019 EPISODE → the eviction direction concerning rejected claims was stayed",
+        "PRACTICAL POSITION → high rejection rates still create real eviction risk",
+        "RULE → state the legal power and the practical risk as two separate facts"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "LEGAL POSITION → rejection does not erase due-process duties",
+          "2019 EPISODE → the eviction direction concerning rejected claims was stayed",
+          "RULE → state the legal power and the practical risk as two separate facts"
+        ],
+        [
+          "NO AUTOMATIC POWER → rejection is not authority to evict a claimant",
+          "PRACTICAL POSITION → high rejection rates still create real eviction risk",
+          "LEGAL POSITION → rejection does not erase due-process duties"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LEGAL POSITION → rejection does not erase due-process duties",
+            "NO AUTOMATIC POWER → rejection is not authority to evict a claimant"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "2019 EPISODE → the eviction direction concerning rejected claims was stayed",
+            "PRACTICAL POSITION → high rejection rates still create real eviction risk"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → state the legal power and the practical risk as two separate facts",
+            "LEGAL POSITION → rejection does not erase due-process duties"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → state the legal power and the practical risk as two separate facts.",
+      "source_references": [
+        "Rejection of a claim is not authority to evict"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PROTECTED-AREA CONDITIONS",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROTECTED-AREA CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CONDITION 1",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOGNITION OF RIGHTS IN THE AREA MUST FIRST BE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITION 2",
+          "role": "evidence"
+        },
+        {
+          "text": "A SCIENTIFIC CASE FOR MODIFICATION OF RIGHTS MUST BE",
+          "role": "primary"
+        },
+        {
+          "text": "CONDITION 3",
+          "role": "outcome"
+        },
+        {
+          "text": "COEXISTENCE MUST BE ASSESSED AND FOUND NOT TO BE",
+          "role": "caution"
+        },
+        {
+          "text": "CONDITION 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONDITION 1 → recognition of rights in the area must first be completed",
+        "CONDITION 2 → a scientific case for modification of rights must be made out",
+        "CONDITION 3 → coexistence must be assessed and found not to be possible",
+        "CONDITION 4 → the Gram Sabha must give free informed consent",
+        "CONDITION 5 → a secure resettlement and livelihood package must be in place"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "CONDITION 1 → recognition of rights in the area must first be completed",
+            "CONDITION 2 → a scientific case for modification of rights must be made out"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "CONDITION 3 → coexistence must be assessed and found not to be possible",
+            "CONDITION 4 → the Gram Sabha must give free informed consent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONDITION 5 → a secure resettlement and livelihood package must be in place",
+            "CONDITION 1 → recognition of rights in the area must first be completed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONDITION 5 → a secure resettlement and livelihood package must be in place.",
+      "source_references": [
+        "Rights in a critical wildlife habitat and the cumulative safeguards"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SCHEDULED-AREAS WELFARE POWERS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SCHEDULED-AREAS WELFARE POWERS",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULED AREAS NOTIFIED UNDER THE FIFTH SCHEDULE ONLY, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "MANDATORY BEFORE LAND ACQUISITION AND BEFORE RESETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "MINOR FOREST PRODUCE VESTS WITH THE GRAM SABHA",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTROL OVER MONEY-LENDING AFFECTING SCHEDULED TRIBES",
+          "role": "primary"
+        },
+        {
+          "text": "MANAGEMENT OF VILLAGE MARKETS; INSTITUTIONAL DESIGN OWNED BY THE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SCOPE → Scheduled Areas notified under the Fifth Schedule only, not all rural areas",
+        "CONSULTATION → mandatory before land acquisition and before resettlement",
+        "OWNERSHIP → minor forest produce vests with the Gram Sabha",
+        "REGULATION → control over money-lending affecting Scheduled Tribes",
+        "MARKETS → management of village markets; institutional design owned by the Polity owner"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "SCOPE → Scheduled Areas notified under the Fifth Schedule only, not all rural areas",
+            "CONSULTATION → mandatory before land acquisition and before resettlement"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "OWNERSHIP → minor forest produce vests with the Gram Sabha",
+            "REGULATION → control over money-lending affecting Scheduled Tribes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MARKETS → management of village markets; institutional design owned by the Polity owner",
+            "SCOPE → Scheduled Areas notified under the Fifth Schedule only, not all rural areas"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MARKETS → management of village markets; institutional design owned by the Polity owner.",
+      "source_references": [
+        "The self-governance law read for its welfare content"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "VULNERABLE-GROUP CRITERIA",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VULNERABLE-GROUP CRITERIA",
+          "role": "primary"
+        },
+        {
+          "text": "CRITERION 1",
+          "role": "outcome"
+        },
+        {
+          "text": "PRE-AGRICULTURAL OR LOW LEVEL OF TECHNOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "CRITERION 2",
+          "role": "evidence"
+        },
+        {
+          "text": "LOW LEVEL OF LITERACY",
+          "role": "primary"
+        },
+        {
+          "text": "CRITERION 3",
+          "role": "outcome"
+        },
+        {
+          "text": "DECLINING OR STAGNANT POPULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CRITERION 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CRITERION 1 → pre-agricultural or low level of technology",
+        "CRITERION 2 → low level of literacy",
+        "CRITERION 3 → declining or stagnant population",
+        "CRITERION 4 → economic backwardness relative to other tribal groups",
+        "COUNT → seventy-five communities officially identified; a sub-category, not all tribes"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "CRITERION 1 → pre-agricultural or low level of technology",
+          "CRITERION 3 → declining or stagnant population",
+          "COUNT → seventy-five communities officially identified; a sub-category, not all tribes"
+        ],
+        [
+          "CRITERION 2 → low level of literacy",
+          "CRITERION 4 → economic backwardness relative to other tribal groups",
+          "CRITERION 1 → pre-agricultural or low level of technology"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CRITERION 1 → pre-agricultural or low level of technology",
+            "CRITERION 2 → low level of literacy"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CRITERION 3 → declining or stagnant population",
+            "CRITERION 4 → economic backwardness relative to other tribal groups"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "COUNT → seventy-five communities officially identified; a sub-category, not all tribes",
+            "CRITERION 1 → pre-agricultural or low level of technology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COUNT → seventy-five communities officially identified; a sub-category, not all tribes.",
+      "source_references": [
+        "Particularly vulnerable tribal groups and their identification criteria"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONVERGENCE MISSION CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONVERGENCE MISSION CARD",
+          "role": "primary"
+        },
+        {
+          "text": "15 NOVEMBER 2023, MINISTRY OF TRIBAL AFFAIRS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SEVENTY-FIVE IDENTIFIED COMMUNITIES ACROSS EIGHTEEN STATES AND UNION",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSING AND INFRASTRUCTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "RURAL HOUSING CONVERGENCE; ROAD, ELECTRICITY AND WATER",
+          "role": "primary"
+        },
+        {
+          "text": "HEALTH AND EDUCATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MOBILE MEDICAL UNITS, ANGANWADI OUTREACH, SCHOOLS AND HOSTELS",
+          "role": "comparison"
+        },
+        {
+          "text": "A SANCTION OR DASHBOARD COUNT IS NOT PROOF OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LAUNCH → 15 November 2023, Ministry of Tribal Affairs",
+        "TARGET → the seventy-five identified communities across eighteen States and Union Territories",
+        "HOUSING AND INFRASTRUCTURE → rural housing convergence; road, electricity and water",
+        "HEALTH AND EDUCATION → mobile medical units, Anganwadi outreach, schools and hostels",
+        "CAUTION → a sanction or dashboard count is not proof of completed delivery"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "LAUNCH → 15 November 2023, Ministry of Tribal Affairs",
+          "HOUSING AND INFRASTRUCTURE → rural housing convergence; road, electricity and water",
+          "CAUTION → a sanction or dashboard count is not proof of completed delivery"
+        ],
+        [
+          "TARGET → the seventy-five identified communities across eighteen States and Union Territories",
+          "HEALTH AND EDUCATION → mobile medical units, Anganwadi outreach, schools and hostels",
+          "LAUNCH → 15 November 2023, Ministry of Tribal Affairs"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LAUNCH → 15 November 2023, Ministry of Tribal Affairs",
+            "TARGET → the seventy-five identified communities across eighteen States and Union Territories"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HOUSING AND INFRASTRUCTURE → rural housing convergence; road, electricity and water",
+            "HEALTH AND EDUCATION → mobile medical units, Anganwadi outreach, schools and hostels"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → a sanction or dashboard count is not proof of completed delivery",
+            "LAUNCH → 15 November 2023, Ministry of Tribal Affairs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → a sanction or dashboard count is not proof of completed delivery.",
+      "source_references": [
+        "The convergence mission for the most vulnerable groups"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PRODUCE TO INCOME",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRODUCE TO INCOME",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITY RIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "OWNERSHIP OF MINOR FOREST PRODUCE UNDER THE FOREST-RIGHTS STATUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "VILLAGE ENTERPRISE UNIT",
+          "role": "evidence"
+        },
+        {
+          "text": "AGGREGATION, PROCESSING AND PACKAGING AT VILLAGE LEVEL",
+          "role": "primary"
+        },
+        {
+          "text": "PRICE SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "MINIMUM-SUPPORT-PRICE ARRANGEMENT FOR MINOR FOREST PRODUCE",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKET LINKAGE THROUGH THE NATIONAL TRIBAL-PRODUCE MARKETING AGENCY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMUNITY RIGHT → ownership of minor forest produce under the forest-rights statute",
+        "VILLAGE ENTERPRISE UNIT: aggregation, processing and packaging at village level",
+        "PRICE SUPPORT: minimum-support-price arrangement for minor forest produce",
+        "MARKET LINKAGE through the national tribal-produce marketing agency",
+        "LIMIT → these village units are not universal, so benefits accrue unevenly"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "COMMUNITY RIGHT → ownership of minor forest produce under the forest-rights statute",
+            "VILLAGE ENTERPRISE UNIT: aggregation, processing and packaging at village level"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "PRICE SUPPORT: minimum-support-price arrangement for minor forest produce",
+            "MARKET LINKAGE through the national tribal-produce marketing agency"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → these village units are not universal, so benefits accrue unevenly",
+            "COMMUNITY RIGHT → ownership of minor forest produce under the forest-rights statute"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → these village units are not universal, so benefits accrue unevenly.",
+      "source_references": [
+        "Community rights as the livelihood limb of the statute",
+        "Minor forest produce, the village enterprise unit and price support"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EDUCATION AND INSTITUTIONS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EDUCATION AND INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "RESIDENTIAL SCHOOLS",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASS VI TO CLASS XII UNDER THE MINISTRY OF",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SCHOOL PER BLOCK WITH AT LEAST FIFTY PER",
+          "role": "evidence"
+        },
+        {
+          "text": "AT LEAST TWENTY THOUSAND SCHEDULED TRIBE PERSONS, OR AS",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL COMMISSION FOR SCHEDULED TRIBES UNDER ARTICLE 338A",
+          "role": "institution"
+        },
+        {
+          "text": "COMPOSITION AND MANDATE DETAIL BELONG TO THE POLITY COMMISSIONS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RESIDENTIAL SCHOOLS → Class VI to Class XII under the Ministry of Tribal Affairs",
+        "NORM → one school per block with at least fifty per cent Scheduled Tribe population",
+        "AND → at least twenty thousand Scheduled Tribe persons, or as per ministry criteria",
+        "COMMISSION → National Commission for Scheduled Tribes under Article 338A",
+        "ROUTING → composition and mandate detail belong to the Polity commissions owner"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "RESIDENTIAL SCHOOLS → Class VI to Class XII under the Ministry of Tribal Affairs",
+            "NORM → one school per block with at least fifty per cent Scheduled Tribe population"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "AND → at least twenty thousand Scheduled Tribe persons, or as per ministry criteria",
+            "COMMISSION → National Commission for Scheduled Tribes under Article 338A"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ROUTING → composition and mandate detail belong to the Polity commissions owner",
+            "RESIDENTIAL SCHOOLS → Class VI to Class XII under the Ministry of Tribal Affairs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROUTING → composition and mandate detail belong to the Polity commissions owner.",
+      "source_references": [
+        "Residential education and the block-level norm",
+        "The constitutional commission and the ownership of institutional detail"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ALIENATION AND AUTHORITIES",
+      "structural_type": "comparison",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ALIENATION AND AUTHORITIES",
+          "role": "primary"
+        },
+        {
+          "text": "PROHIBITION EXISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE TENANCY AND LAND-TRANSFER LAWS IN FIFTH SCHEDULE AREAS",
+          "role": "institution"
+        },
+        {
+          "text": "CHOTANAGPUR TENANCY ACT; ANDHRA PRADESH SCHEDULED AREAS LAND TRANSFER",
+          "role": "institution"
+        },
+        {
+          "text": "INFORMAL AND ILLEGAL TRANSFERS PERSIST; ENFORCEMENT IS THE WEAK",
+          "role": "primary"
+        },
+        {
+          "text": "SAMATHA ON TRANSFER AND MINING; NIYAMGIRI ON GRAM SABHA",
+          "role": "outcome"
+        },
+        {
+          "text": "THE XAXA COMMITTEE ON ALIENATION, DISPLACEMENT AND WEAK SELF-GOVERNMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROHIBITION EXISTS → State tenancy and land-transfer laws in Fifth Schedule areas",
+        "EXAMPLES → Chotanagpur Tenancy Act; Andhra Pradesh Scheduled Areas Land Transfer Regulation",
+        "FAILURE → informal and illegal transfers persist; enforcement is the weak link",
+        "AUTHORITIES → Samatha on transfer and mining; Niyamgiri on Gram Sabha determination",
+        "DIAGNOSIS → the Xaxa Committee on alienation, displacement and weak self-government"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PROHIBITION EXISTS → State tenancy and land-transfer laws in Fifth Schedule areas",
+            "EXAMPLES → Chotanagpur Tenancy Act; Andhra Pradesh Scheduled Areas Land Transfer Regulation"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FAILURE → informal and illegal transfers persist; enforcement is the weak link",
+            "AUTHORITIES → Samatha on transfer and mining; Niyamgiri on Gram Sabha determination"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIAGNOSIS → the Xaxa Committee on alienation, displacement and weak self-government",
+            "PROHIBITION EXISTS → State tenancy and land-transfer laws in Fifth Schedule areas"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIAGNOSIS → the Xaxa Committee on alienation, displacement and weak self-government.",
+      "source_references": [
+        "Land alienation and the State laws that address it",
+        "The case bank and the committee diagnosis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FRA IMPLEMENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GRAM SABHA (INITIAL AUTHORITY), SDLC (VERIFICATION), DLC",
+          "role": "comparison"
+        },
+        {
+          "text": "PESA (WELFARE ANGLE)",
+          "role": "evidence"
+        },
+        {
+          "text": "GRAM SABHA'S MANDATORY CONSULTATION BEFORE LAND ACQUISITION",
+          "role": "primary"
+        },
+        {
+          "text": "LAUNCHED 15 NOVEMBER 2023; CONVERGENCE DESIGN FOR 75 PVTG",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL-LEVEL AGENCY FOR TRIBAL-PRODUCE MARKETING; IMPLEMENTS VAN DHAN",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE LAND-TRANSFER LAWS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RIGHTS AND CAPABILITY DEPTH",
+          "role": "evidence",
+          "items": [
+            "FRA implementation: Gram Sabha (initial authority), SDLC (verification), DLC",
+            "PESA (welfare angle): Gram Sabha's mandatory consultation before land acquisition;",
+            "PM-JANMAN: launched 15 November 2023; convergence design for 75 PVTG",
+            "TRIFED: national-level agency for tribal-produce marketing; implements Van Dhan"
+          ]
+        },
+        {
+          "heading": "INDICATOR, ROUND AND STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "State land-transfer laws: Chotanagpur Tenancy Act (Jharkhand), AP Scheduled",
+            "CAUTION: A PVTG community in a remote forested area with no road connectivity: PM-JANMAN's",
+            "CAUTION: A tribal household with FRA individual-rights title but no market access for",
+            "CAUTION: Boundary case — tribals in protected areas: FRA's Section 4(2) provides for in-situ"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE WELFARE-DESIGN NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: FRA rejection rates: high rejection rates in some states indicate procedural/",
+            "CAUTION: PESA consultation vs project timelines: mandatory consultation can delay",
+            "CAUTION: PM-JANMAN scale: 75 PVTG communities across dispersed geographies; saturation",
+            "CAUTION: Van Dhan/TRIFED coverage: VDVKs are not universal; market-linkage benefits"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

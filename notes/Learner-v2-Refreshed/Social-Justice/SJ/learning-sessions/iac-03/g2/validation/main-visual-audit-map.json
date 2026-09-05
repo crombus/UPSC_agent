@@ -1,0 +1,2262 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g2\\social-justice-03_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g2\\social-justice-03_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "social-justice-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Health Systems, Public Health and Universal Health Coverage - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 554.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 148.89
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 52,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g2\\assets\\social-justice-03_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 497.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 190.156
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to What the health owner holds and how it is examined, and never upgrade a policy document into a statute or a targeted",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THE HEALTH OWNER HOLDS AND HOW IT IS EXAMINED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 113,
+      "markdown_body_line_end": 130,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT THE HEALTH OWNER HOLDS AND HOW IT IS EXAMINED",
+      "preview": "START / CONCEPT: FOUNDATION — What the health owner holds and how it is examined",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 800
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 338.091
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 141,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Universal health coverage means ensuring that all people have access to the promotive, preventive, curative and rehabilitative health services they need, of sufficient quality, without suffering financial hardship, and it is analysed on thr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 671.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 160,
+      "heading": "VISUAL FIRST",
+      "preview": "THE UNIVERSAL HEALTH COVERAGE CUBE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 476.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 435.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 205,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE UNIVERSAL HEALTH COVERAGE CUBE",
+      "preview": "START / CONCEPT: FOUNDATION — The universal health coverage cube",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 748
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 459.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 216,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The National Health Policy of 2017 and what it is not Qualified use: Cite the national target without upgrading a policy commitment into a legal right.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 263.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 196.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 231,
+      "markdown_body_line_end": 235,
+      "heading": "VISUAL FIRST",
+      "preview": "THE POLICY VISION AND ITS EXACT STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 280,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE POLICY VISION AND ITS EXACT STATUS",
+      "preview": "START / CONCEPT: FOUNDATION — The policy vision and its exact status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 589
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 339.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 68.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The National Health Mission's own official page, read on 2 September 2026, records that the National Rural Health Mission was launched by the Prime Minister on 12 April 2005 to provide accessible, affordable and quality health care to the r",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 560.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 380.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 310,
+      "heading": "VISUAL FIRST",
+      "preview": "THE MISSION, ITS SUB-MISSIONS AND ITS OFFICIAL DATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 355,
+      "heading": "CLOSING RECALL FLOW - CORE - THE MISSION, ITS SUB-MISSIONS AND ITS OFFICIAL DATES",
+      "preview": "START / CONCEPT: CORE — The mission, its sub-missions and its official dates",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1094
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 366,
+      "markdown_body_line_end": 366,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The primary-care pillar of Ayushman Bharat Qualified use: Show the first-contact layer that a grassroots-reach demand is actually asking about.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 255.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 188.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 385,
+      "heading": "VISUAL FIRST",
+      "preview": "THE PRIMARY-CARE PILLAR AND ITS TWELVE PACKAGES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 413,
+      "markdown_body_line_end": 430,
+      "heading": "CLOSING RECALL FLOW - CORE - THE PRIMARY-CARE PILLAR AND ITS TWELVE PACKAGES",
+      "preview": "START / CONCEPT: CORE — The primary-care pillar and its twelve packages",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 707
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 441,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The hospitalisation pillar of Ayushman Bharat and its two enrolment routes Qualified use: State an entitlement precisely instead of converting an expansion into universality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 295.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 228.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 456,
+      "markdown_body_line_end": 460,
+      "heading": "VISUAL FIRST",
+      "preview": "THE HOSPITALISATION PILLAR AND ITS TWO ENROLMENT ROUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 488,
+      "markdown_body_line_end": 505,
+      "heading": "CLOSING RECALL FLOW - CORE - THE HOSPITALISATION PILLAR AND ITS TWO ENROLMENT ROUTES",
+      "preview": "START / CONCEPT: CORE — The hospitalisation pillar and its two enrolment routes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 762
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 516,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The health authority and the health accounts must not be conflated - Out-of-pocket expenditure and its dated official sequence Qualified use: Attribute a financial-protection figure to the right body with its accounting year",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 228.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 147.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 538,
+      "heading": "VISUAL FIRST",
+      "preview": "THE AUTHORITY, THE ACCOUNTS AND THE EXPENDITURE SEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 659.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 567,
+      "markdown_body_line_end": 584,
+      "heading": "CLOSING RECALL FLOW - CORE - THE AUTHORITY, THE ACCOUNTS AND THE EXPENDITURE SEQUENCE",
+      "preview": "START / CONCEPT: CORE — The authority, the accounts and the expenditure sequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 720
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 595,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Catastrophic health expenditure as the impoverishment mechanism Qualified use: Connect health financing to poverty rather than treating it as service delivery alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 250.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 184.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 614,
+      "heading": "VISUAL FIRST",
+      "preview": "CATASTROPHIC EXPENDITURE AS THE IMPOVERISHMENT MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 659,
+      "heading": "CLOSING RECALL FLOW - CORE - CATASTROPHIC EXPENDITURE AS THE IMPOVERISHMENT MECHANISM",
+      "preview": "START / CONCEPT: CORE — Catastrophic expenditure as the impoverishment mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 571
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 670,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The public health system is tiered from the sub-centre through the primary health centre and the community health centre to the sub-district and district hospital, and this hierarchy is the referral spine on which the first pillar's upgrade",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 316.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 207.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 692,
+      "heading": "VISUAL FIRST",
+      "preview": "THE TIERED STRUCTURE AND THE THREE LEVELS OF CARE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 721,
+      "markdown_body_line_end": 738,
+      "heading": "CLOSING RECALL FLOW - CORE - THE TIERED STRUCTURE AND THE THREE LEVELS OF CARE",
+      "preview": "START / CONCEPT: CORE — The tiered structure and the three levels of care",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 632
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 749,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Marketisation of health care and what it produces Qualified use: Define the phenomenon the 2024 demand names before proposing any measure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 302.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 236.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 768,
+      "heading": "VISUAL FIRST",
+      "preview": "MARKETISATION AND WHAT IT PRODUCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 813,
+      "heading": "CLOSING RECALL FLOW - CORE - MARKETISATION AND WHAT IT PRODUCES",
+      "preview": "START / CONCEPT: CORE — Marketisation and what it produces",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 566
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 339.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 78.691
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 824,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The regulatory instruments recorded by the owners are the Clinical Establishments Act, 2010, a Central Act providing for the registration and regulation of clinical establishments which States must adopt or replace with equivalent legislati",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 603.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 465.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 839,
+      "markdown_body_line_end": 843,
+      "heading": "VISUAL FIRST",
+      "preview": "THE REGULATORY TOOLKIT AND ITS ADOPTION GAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 888,
+      "heading": "CLOSING RECALL FLOW - CORE - THE REGULATORY TOOLKIT AND ITS ADOPTION GAP",
+      "preview": "START / CONCEPT: CORE — The regulatory toolkit and its adoption gap",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 773
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 899,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Social health insurance pools contribution-linked cover, of which the employees' state insurance system is the Indian example, whereas tax-funded programmes draw on general revenue, which is how both the health mission and the hospitalisati",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 309.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 200.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 921,
+      "heading": "VISUAL FIRST",
+      "preview": "FINANCING FAMILIES AND THE CHAIN THAT INSURANCE CANNOT COMPLETE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 681.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 967,
+      "heading": "CLOSING RECALL FLOW - CORE - FINANCING FAMILIES AND THE CHAIN THAT INSURANCE CANNOT COMPLETE",
+      "preview": "START / CONCEPT: CORE — Financing families and the chain that insurance cannot complete",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 606
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 443.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 978,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Community health and the Alma-Ata inheritance Qualified use: Answer a community-health demand with named Indian institutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 246.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 180.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 993,
+      "markdown_body_line_end": 997,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMUNITY HEALTH AND THE ALMA-ATA INHERITANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1042,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - COMMUNITY HEALTH AND THE ALMA-ATA INHERITANCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Community health and the Alma-Ata inheritance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 635
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1053,
+      "markdown_body_line_end": 1053,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: System capacity, federalism and the workforce constraint - Mental health as a rights framework with a capacity gap Qualified use: Condition a verdict on State delivery capacity rather than on national announcements.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 305.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 238.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1068,
+      "markdown_body_line_end": 1075,
+      "heading": "VISUAL FIRST",
+      "preview": "CAPACITY, FEDERALISM AND THE MENTAL-HEALTH GAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1104,
+      "markdown_body_line_end": 1121,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CAPACITY, FEDERALISM AND THE MENTAL-HEALTH GAP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Capacity, federalism and the mental-health gap",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 584
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1132,
+      "markdown_body_line_end": 1132,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Delivery instruments and the State implementing layer - The dashboard-output boundary and honest question ownership Qualified use: Close with the two-layer delivery arrangement and an explicit dashboard boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 312.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 231.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1154,
+      "heading": "VISUAL FIRST",
+      "preview": "DELIVERY INSTRUMENTS, DASHBOARDS AND HONEST OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1182,
+      "markdown_body_line_end": 1189,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Social Justice | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II; GS-III (health-sector economics). **Core area:** NHP 2017; UHC concept; NHM; Ayushman Bharat (HWCs/AAM + PM-JAY); public-health infrastructure; OOPE and mar",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1193,
+      "markdown_body_line_end": 1236,
+      "heading": "1. Visual foundation",
+      "preview": "UNIVERSAL HEALTH COVERAGE (UHC) CUBE",
+      "metadata": {
+        "language": "text",
+        "line_count": 42,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 663.824
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 232.824
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1246,
+      "markdown_body_line_end": 1255,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 335.49
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1373,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** The state must contain the adverse impact of healthcare marketisation by expanding comprehensive primary care (HWC/AAM), strengthening the NHM-supported public-health infrastructure, providing financial protection (PM-JAY",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 305.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 232.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1412,
+      "markdown_body_line_end": 1413,
+      "heading": "Direct Mains demands owned by Core",
+      "preview": "**Reasoned verdict:** Sustainable UHC is built from community-linked primary care upward, not from hospital claims downward.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 487.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 442.424
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1429,
+      "markdown_body_line_end": 1431,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 279.824
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 170.556
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1437,
+      "markdown_body_line_end": 1440,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 654.39
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1447,
+      "markdown_body_line_end": 1447,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 597.99
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 553.322
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1456,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 553.322
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 458.254
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1462,
+      "markdown_body_line_end": 1468,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 406.654
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 91.253
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1478,
+      "markdown_body_line_end": 1478,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 707.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1483,
+      "markdown_body_line_end": 1500,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DELIVERY INSTRUMENTS, DASHBOARDS AND HONEST OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Delivery instruments, dashboards and honest ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 718
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 672.024
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2362,
+      "markdown_body_line_end": 2364,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 676.891
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 567.624
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2370,
+      "markdown_body_line_end": 2373,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 516.024
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 367.122
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2380,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 310.722
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 266.054
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2387,
+      "markdown_body_line_end": 2389,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 266.054
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 170.987
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2395,
+      "markdown_body_line_end": 2401,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 487.89
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2411,
+      "markdown_body_line_end": 2411,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 379.89
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 335.222
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2458,
+      "markdown_body_line_end": 2459,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 426.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 359.624
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2465,
+      "markdown_body_line_end": 2469,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 308.024
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 86.122
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2477,
+      "markdown_body_line_end": 2477,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2817,
+      "markdown_body_line_end": 2825,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Social Justice | **Tier:** Advanced | **GS Paper:** GS-II; GS-III (health-sector economics). **Core area:** NHP 2017 implementation gaps; UHC financing; NHM architecture; Ayushman Bharat design trade-offs; OOPE drivers; regulat",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 370.091
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 268.624
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2829,
+      "markdown_body_line_end": 2858,
+      "heading": "1. Architecture",
+      "preview": "UHC FINANCING TRIANGLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2868,
+      "markdown_body_line_end": 2875,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 417.491
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 52.89
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3050,
+      "markdown_body_line_end": 3051,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 632.491
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 565.824
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3057,
+      "markdown_body_line_end": 3061,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 514.224
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 292.322
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3069,
+      "markdown_body_line_end": 3069,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 218.722
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 174.054
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3118,
+      "markdown_body_line_end": 3125,
+      "heading": "Health Systems, Public Health and Universal Health Coverage: ANSWER-WRITING SPINE",
+      "preview": "NAME THE DEPRIVATION OR CLAIM -> IDENTIFY THE RIGHT-HOLDER AND THE DUTY-BEARER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 130,
+          "frame_y": 415.691
+        },
+        "end": {
+          "page": 130,
+          "frame_y": 344.691
+        }
+      },
+      "pdf_pages": [
+        130
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3135,
+      "markdown_body_line_end": 3141,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Coverage cube",
+      "preview": "POPULATION -> breadth: who is covered, all citizens or identified beneficiaries",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 518.891
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3145,
+      "markdown_body_line_end": 3152,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Policy and mission card",
+      "preview": "POLICY 2017 -> raise public health expenditure to 2.5 per cent of gross domestic product",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 496.891
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 424.691
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3156,
+      "markdown_body_line_end": 3162,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Two pillars kept apart",
+      "preview": "PILLAR ONE -> wellness centres and health mandirs; comprehensive primary health care",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 402.691
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 340.691
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3166,
+      "markdown_body_line_end": 3171,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Two enrolment routes",
+      "preview": "CORE ROUTE -> eligibility-based, identified through census deprivation criteria",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 131,
+          "frame_y": 318.691
+        },
+        "end": {
+          "page": 131,
+          "frame_y": 266.891
+        }
+      },
+      "pdf_pages": [
+        131
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3175,
+      "markdown_body_line_end": 3181,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Source discipline card",
+      "preview": "HEALTH AUTHORITY -> implements the hospitalisation pillar; empanels and pays claims",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3185,
+      "markdown_body_line_end": 3191,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Impoverishment mechanism",
+      "preview": "ILLNESS -> care is sought from a provider outside the funded public layer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3195,
+      "markdown_body_line_end": 3201,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Referral spine",
+      "preview": "SUB-CENTRE -> first contact; outreach and community-level services",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3205,
+      "markdown_body_line_end": 3210,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Marketisation and its harms",
+      "preview": "PRIVATE DOMINANCE IN CURATIVE CARE -> often unregulated or under-regulated",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3214,
+      "markdown_body_line_end": 3220,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Regulatory toolkit",
+      "preview": "CLINICAL ESTABLISHMENTS ACT, 2010 -> registration and regulation of establishments",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3224,
+      "markdown_body_line_end": 3231,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Financing families and chain",
+      "preview": "SOCIAL HEALTH INSURANCE -> contribution-linked pooling, as in the employees system",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3235,
+      "markdown_body_line_end": 3242,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Community health mapping",
+      "preview": "EQUITY -> reach the underserved first rather than the easiest to reach",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3246,
+      "markdown_body_line_end": 3252,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Capacity limits and answer spine",
+      "preview": "CONDITION -> Union financing and standards depend on State delivery capacity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    }
+  ]
+}

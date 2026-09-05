@@ -1,0 +1,1147 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-17",
+  "subject": "World-History",
+  "title": "CHINA, COMMUNISM AND ASIA",
+  "short_route": "CHINA'S STATE-COLLAPSE CHAIN → COMPETING POLITICAL ROUTES → MAO'S RURAL STRATEGY → LONG MARCH MECHANISM → WHY THE CCP WON → MAO-ERA BALANCE SHEET",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-17-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "53b94d8b1daf6c3c45292ca72ace63442260a3ae404eb2c740826fabc4efddd6",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CHINA'S STATE-COLLAPSE CHAIN",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHINA'S STATE-COLLAPSE CHAIN",
+          "role": "institution"
+        },
+        {
+          "text": "FOREIGN PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "QING LEGITIMACY ERODES",
+          "role": "comparison"
+        },
+        {
+          "text": "DYNASTY FALLS",
+          "role": "evidence"
+        },
+        {
+          "text": "YUAN SHIKAI",
+          "role": "primary"
+        },
+        {
+          "text": "REPUBLIC BECOMES MILITARY DICTATORSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL AUTHORITY FRAGMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOREIGN PRESSURE → Qing legitimacy erodes",
+        "1911 → dynasty falls",
+        "YUAN SHIKAI → republic becomes military dictatorship",
+        "WARLORDS → central authority fragments",
+        "MUST REMEMBER: Qing crisis, 1911 revolution, warlordism, CCP foundation (1921), KMT rupture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOREIGN PRESSURE → Qing legitimacy erodes",
+            "1911 → dynasty falls"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "YUAN SHIKAI → republic becomes military dictatorship",
+            "WARLORDS → central authority fragments"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Qing crisis, 1911 revolution, warlordism, CCP foundation (1921), KMT rupture",
+            "(1927), Long March, Japanese invasion, 1949 victory, Maoist campaigns and post-1978 reform form distinct state-building phases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(1927), Long March, Japanese invasion, 1949 victory, Maoist campaigns and post-1978 reform form distinct state-building phases.",
+      "source_references": [
+        "Foreign pressure and Qing legitimacy",
+        "1911 and Yuan's military state",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COMPETING POLITICAL ROUTES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPETING POLITICAL ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "SUN YAT-SEN",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONALISM, DEMOCRACY AND LIVELIHOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "REPUBLICAN-NATIONAL STATE PROJECT",
+          "role": "institution"
+        },
+        {
+          "text": "CCP 1921",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNIST ORGANISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ALLIANCE BREAKS INTO CIVIL WAR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SUN YAT-SEN → nationalism, democracy and livelihood",
+        "KMT → republican-national state project",
+        "CCP 1921 → communist organisation",
+        "1927 → alliance breaks into civil war"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SUN YAT-SEN → nationalism, democracy and livelihood",
+          "CCP 1921 → communist organisation",
+          "SUN YAT-SEN → nationalism, democracy and livelihood"
+        ],
+        [
+          "KMT → republican-national state project",
+          "1927 → alliance breaks into civil war",
+          "KMT → republican-national state project"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUN YAT-SEN → nationalism, democracy and livelihood",
+            "KMT → republican-national state project"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CCP 1921 → communist organisation",
+            "1927 → alliance breaks into civil war"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUN YAT-SEN → nationalism, democracy and livelihood",
+            "KMT → republican-national state project"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CCP 1921 → communist organisation; 1927 → alliance breaks into civil war.",
+      "source_references": [
+        "Sun Yat-sen and competing republicanism",
+        "CCP formation and KMT rupture",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MAO'S RURAL STRATEGY",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MAO'S RURAL STRATEGY",
+          "role": "primary"
+        },
+        {
+          "text": "SMALL URBAN PROLETARIAT",
+          "role": "outcome"
+        },
+        {
+          "text": "ORTHODOX ROUTE WEAK",
+          "role": "comparison"
+        },
+        {
+          "text": "MASS RURAL CONSTITUENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "LAND REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL POLITICAL CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL GOVERNING LEGITIMACY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SMALL URBAN PROLETARIAT → orthodox route weak",
+        "PEASANTS → mass rural constituency",
+        "LAND REFORM → material political claim",
+        "DISCIPLINE → local governing legitimacy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SMALL URBAN PROLETARIAT → orthodox route weak",
+            "PEASANTS → mass rural constituency"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAND REFORM → material political claim",
+            "DISCIPLINE → local governing legitimacy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SMALL URBAN PROLETARIAT → orthodox route weak",
+            "PEASANTS → mass rural constituency"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LAND REFORM → material political claim; DISCIPLINE → local governing legitimacy.",
+      "source_references": [
+        "Mao's rural strategy",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LONG MARCH MECHANISM",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LONG MARCH MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMMUNIST RETREAT",
+          "role": "outcome"
+        },
+        {
+          "text": "LEADERSHIP PRESERVED",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMINANCE CONSOLIDATED",
+          "role": "evidence"
+        },
+        {
+          "text": "RETREAT CONVERTED INTO LEGITIMACY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1934-35 → communist retreat",
+        "SURVIVAL → leadership preserved",
+        "MAO → dominance consolidated",
+        "MEMORY → retreat converted into legitimacy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1934-35 → communist retreat",
+            "SURVIVAL → leadership preserved"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAO → dominance consolidated",
+            "MEMORY → retreat converted into legitimacy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1934-35 → communist retreat",
+            "SURVIVAL → leadership preserved"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAO → dominance consolidated; MEMORY → retreat converted into legitimacy.",
+      "source_references": [
+        "Long March and leadership",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WHY THE CCP WON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHY THE CCP WON",
+          "role": "primary"
+        },
+        {
+          "text": "CORRUPTION, INFLATION AND POOR ADMINISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCIPLINE, LAND REFORM AND PEASANT CONTACT",
+          "role": "comparison"
+        },
+        {
+          "text": "JAPANESE WAR",
+          "role": "evidence"
+        },
+        {
+          "text": "KMT BURDEN RISES",
+          "role": "primary"
+        },
+        {
+          "text": "MAO PROCLAIMS PRC; CHIANG RETREATS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "KMT → corruption, inflation and poor administration",
+        "CCP → discipline, land reform and peasant contact",
+        "JAPANESE WAR → KMT burden rises",
+        "1949 → Mao proclaims PRC; Chiang retreats"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "KMT → corruption, inflation and poor administration",
+          "JAPANESE WAR → KMT burden rises",
+          "KMT → corruption, inflation and poor administration"
+        ],
+        [
+          "CCP → discipline, land reform and peasant contact",
+          "1949 → Mao proclaims PRC; Chiang retreats",
+          "CCP → discipline, land reform and peasant contact"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KMT → corruption, inflation and poor administration",
+            "CCP → discipline, land reform and peasant contact"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JAPANESE WAR → KMT burden rises",
+            "1949 → Mao proclaims PRC; Chiang retreats"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KMT → corruption, inflation and poor administration",
+            "CCP → discipline, land reform and peasant contact"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CCP → discipline, land reform and peasant contact.",
+      "source_references": [
+        "Japanese invasion reshapes civil war",
+        "Why the KMT lost",
+        "Why the CCP won and founded the PRC",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MAO-ERA BALANCE SHEET",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MAO-ERA BALANCE SHEET",
+          "role": "primary"
+        },
+        {
+          "text": "UNITY AND LANDLORD POWER WEAKENED",
+          "role": "mechanism"
+        },
+        {
+          "text": "HUNDRED FLOWERS",
+          "role": "comparison"
+        },
+        {
+          "text": "CRITICISM FOLLOWED BY REPRESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "GREAT LEAP",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNES, DISRUPTION AND FAMINE",
+          "role": "outcome"
+        },
+        {
+          "text": "CULTURAL REVOLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "EDUCATION AND ADMINISTRATION DAMAGED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSOLIDATION → unity and landlord power weakened",
+        "HUNDRED FLOWERS → criticism followed by repression",
+        "GREAT LEAP → communes, disruption and famine",
+        "CULTURAL REVOLUTION → education and administration damaged"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONSOLIDATION → unity and landlord power weakened",
+          "GREAT LEAP → communes, disruption and famine",
+          "CONSOLIDATION → unity and landlord power weakened"
+        ],
+        [
+          "HUNDRED FLOWERS → criticism followed by repression",
+          "CULTURAL REVOLUTION → education and administration damaged",
+          "HUNDRED FLOWERS → criticism followed by repression"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONSOLIDATION → unity and landlord power weakened",
+            "HUNDRED FLOWERS → criticism followed by repression"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GREAT LEAP → communes, disruption and famine",
+            "CULTURAL REVOLUTION → education and administration damaged"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSOLIDATION → unity and landlord power weakened",
+            "HUNDRED FLOWERS → criticism followed by repression"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GREAT LEAP → communes, disruption and famine; CULTURAL REVOLUTION → education and administration damaged.",
+      "source_references": [
+        "Early one-party consolidation",
+        "Great Leap Forward",
+        "Cultural Revolution",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GREAT LEAP MECHANISM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GREAT LEAP MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CRASH TARGETS",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE PRESSURE RISES",
+          "role": "comparison"
+        },
+        {
+          "text": "RURAL PRODUCTION REORGANISED",
+          "role": "evidence"
+        },
+        {
+          "text": "FEEDBACK FAILS",
+          "role": "primary"
+        },
+        {
+          "text": "ERROR TRAVELS UPWARD",
+          "role": "outcome"
+        },
+        {
+          "text": "SEVERE DISRUPTION AND FAMINE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CRASH TARGETS → administrative pressure rises",
+        "COMMUNES → rural production reorganised",
+        "FEEDBACK FAILS → error travels upward",
+        "RESULT → severe disruption and famine"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CRASH TARGETS → administrative pressure rises",
+            "COMMUNES → rural production reorganised"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FEEDBACK FAILS → error travels upward",
+            "RESULT → severe disruption and famine"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CRASH TARGETS → administrative pressure rises",
+            "COMMUNES → rural production reorganised"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FEEDBACK FAILS → error travels upward; RESULT → severe disruption and famine.",
+      "source_references": [
+        "Great Leap Forward",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CULTURAL REVOLUTION MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CULTURAL REVOLUTION MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "MASS CAMPAIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "ALLEGED ENEMIES ATTACKED",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUITY BROKEN",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHORITY DESTABILISED",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL ORDER",
+          "role": "outcome"
+        },
+        {
+          "text": "PROLONGED DAMAGE, 1966-76",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MASS CAMPAIGN → alleged enemies attacked",
+        "EDUCATION → continuity broken",
+        "ADMINISTRATION → authority destabilised",
+        "SOCIAL ORDER → prolonged damage, 1966-76"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MASS CAMPAIGN → alleged enemies attacked",
+            "EDUCATION → continuity broken"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADMINISTRATION → authority destabilised",
+            "SOCIAL ORDER → prolonged damage, 1966-76"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MASS CAMPAIGN → alleged enemies attacked",
+            "EDUCATION → continuity broken"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADMINISTRATION → authority destabilised; SOCIAL ORDER → prolonged damage, 1966-76.",
+      "source_references": [
+        "Cultural Revolution",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DENG'S REFORM BOUNDARY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DENG'S REFORM BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "DECOLLECTIVISATION AND MARKET MECHANISMS",
+          "role": "outcome"
+        },
+        {
+          "text": "INVESTMENT AND OPENING",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE-PARTY RULE RETAINED",
+          "role": "evidence"
+        },
+        {
+          "text": "FORCE BLOCKS POLITICAL LIBERALISATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ECONOMY → decollectivisation and market mechanisms",
+        "EXTERNAL → investment and opening",
+        "POLITICS → one-party rule retained",
+        "1989 → force blocks political liberalisation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ECONOMY → decollectivisation and market mechanisms",
+          "POLITICS → one-party rule retained",
+          "ECONOMY → decollectivisation and market mechanisms"
+        ],
+        [
+          "EXTERNAL → investment and opening",
+          "1989 → force blocks political liberalisation",
+          "EXTERNAL → investment and opening"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ECONOMY → decollectivisation and market mechanisms",
+            "EXTERNAL → investment and opening"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICS → one-party rule retained",
+            "1989 → force blocks political liberalisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ECONOMY → decollectivisation and market mechanisms",
+            "EXTERNAL → investment and opening"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLITICS → one-party rule retained; 1989 → force blocks political liberalisation.",
+      "source_references": [
+        "Deng reform and Tiananmen",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ASIAN COMMUNIST DIVERSITY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ASIAN COMMUNIST DIVERSITY",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH KOREA",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVISION AND EXTREME CENTRALISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ANTI-COLONIAL NATIONALISM PLUS COMMUNISM",
+          "role": "evidence"
+        },
+        {
+          "text": "KHMER ROUGE EXTREMISM",
+          "role": "primary"
+        },
+        {
+          "text": "DURABLE ONE-PARTY PRAGMATIC ADJUSTMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE KMT'S INFLATION, CORRUPTION AND WAR BURDEN MUST BE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORTH KOREA → division and extreme centralisation",
+        "VIETNAM → anti-colonial nationalism plus communism",
+        "CAMBODIA → Khmer Rouge extremism",
+        "LAOS → durable one-party pragmatic adjustment",
+        "CLOSE DISTINCTION: The KMT's inflation, corruption and war burden must be compared with CCP land"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NORTH KOREA → division and extreme centralisation",
+          "CAMBODIA → Khmer Rouge extremism",
+          "CLOSE DISTINCTION: The KMT's inflation, corruption and war burden must be compared with CCP land, discipline, peasant and national-defence strategies"
+        ],
+        [
+          "VIETNAM → anti-colonial nationalism plus communism",
+          "LAOS → durable one-party pragmatic adjustment",
+          "Soviet assistance is not a complete explanation."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NORTH KOREA → division and extreme centralisation",
+            "VIETNAM → anti-colonial nationalism plus communism"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAMBODIA → Khmer Rouge extremism",
+            "LAOS → durable one-party pragmatic adjustment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: The KMT's inflation, corruption and war burden must be compared with CCP land, discipline, peasant and national-defence strategies",
+            "Soviet assistance is not a complete explanation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: The KMT's inflation, corruption and war burden must be compared with CCP land, discipline, peasant and national-defence strategies; Soviet assistance is not a complete explanation.",
+      "source_references": [
+        "Comparative Asian communisms",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SINO-SOVIET SPLIT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SINO-SOVIET SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "TREATY OF FRIENDSHIP AND ASSISTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "AFTER 1956",
+          "role": "comparison"
+        },
+        {
+          "text": "DOCTRINE, AID AND TERRITORY DIVIDE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHINA ATTACKS SOVIET-ALIGNED VIETNAM",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL RECONCILIATION IN BEIJING",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "GREAT LEAP FAMINE, CULTURAL REVOLUTION, REFORM WITHOUT DEMOCRATISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1950 → treaty of friendship and assistance",
+        "AFTER 1956 → doctrine, aid and territory divide",
+        "1979 → China attacks Soviet-aligned Vietnam",
+        "1989 → formal reconciliation in Beijing",
+        "EVIDENCE LIMIT: Great Leap famine, Cultural Revolution, reform without democratisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1950 → treaty of friendship and assistance",
+            "AFTER 1956 → doctrine, aid and territory divide"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1979 → China attacks Soviet-aligned Vietnam",
+            "1989 → formal reconciliation in Beijing"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Great Leap famine, Cultural Revolution, reform without democratisation,",
+            "Sino-Soviet rupture and diverse Asian communist routes prevent a triumphalist or monolithic communist-bloc account."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Sino-Soviet rupture and diverse Asian communist routes prevent a triumphalist or monolithic communist-bloc account.",
+      "source_references": [
+        "Sino-Soviet fracture and final verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CHINA ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CHINA ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DYNASTY FALLS WITHOUT A FUNCTIONING STATE",
+          "role": "institution"
+        },
+        {
+          "text": "RURAL ORGANISATION OUT-GOVERNS KMT",
+          "role": "comparison"
+        },
+        {
+          "text": "UNITY PLUS SELF-GENERATED CATASTROPHE",
+          "role": "evidence"
+        },
+        {
+          "text": "MARKETS WITHOUT DEMOCRACY; BLOC FRACTURES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CRISIS → dynasty falls without a functioning state",
+        "VICTORY → rural organisation out-governs KMT",
+        "MAO → unity plus self-generated catastrophe",
+        "REFORM → markets without democracy; bloc fractures"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CRISIS → dynasty falls without a functioning state",
+            "VICTORY → rural organisation out-governs KMT"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAO → unity plus self-generated catastrophe",
+            "REFORM → markets without democracy; bloc fractures"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CRISIS → dynasty falls without a functioning state",
+            "VICTORY → rural organisation out-governs KMT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CRISIS → dynasty falls without a functioning state.",
+      "source_references": [
+        "Sino-Soviet fracture and final verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LOWE ARGUES IN EFFECT THAT MAO GAVE CHINA UNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "BUT AT A HUGE HUMAN AND INSTITUTIONAL COST WHEN",
+          "role": "comparison"
+        },
+        {
+          "text": "DENG ALLOWED MARKET INCENTIVES, FOREIGN INVESTMENT AND AGRICULTURAL DECOLLECTIVIZATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "ECONOMIC PRAGMATISM REPLACED PERMANENT MASS CAMPAIGN POLITICS.",
+          "role": "primary"
+        },
+        {
+          "text": "YET THE COMMUNIST PARTY REMAINED THE UNQUESTIONED POLITICAL CENTRE.",
+          "role": "outcome"
+        },
+        {
+          "text": "TIANANMEN IN 1989 PROVED THAT ECONOMIC OPENING DID NOT",
+          "role": "caution"
+        },
+        {
+          "text": "THIS IS A CLASSIC UPSC CONTRAST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Lowe argues in effect that Mao gave China unity, independence and revolutionary purpose,",
+            "but at a huge human and institutional cost when campaigns displaced administrative rationality.",
+            "Deng allowed market incentives, foreign investment and agricultural decollectivization.",
+            "Economic pragmatism replaced permanent mass campaign politics."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Yet the Communist Party remained the unquestioned political centre.",
+            "Tiananmen in 1989 proved that economic opening did not mean acceptance of organized political opposition.",
+            "CAUTION: This is a classic UPSC contrast: marketization inside a one-party Leninist shell .",
+            "Communist victory in China transformed the balance of power in Asia."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: For India, the relevant sequence is: 1949 PRC - 1954 Panchsheel - 1962 border war - long-term strategic caution .",
+            "CAUTION: Do not re-narrate India's China policy here; cross-link it.",
+            "20-23 October 2025: the official communique of the CCP's Fourth Plenary Session said the meeting adopted recommendations for",
+            "the Fifteenth Five-Year Plan and continued to frame policy around high-quality development, technological capacity and centralized Party leadership."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

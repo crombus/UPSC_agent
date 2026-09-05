@@ -1,0 +1,1089 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-11",
+  "subject": "World-History",
+  "title": "INTERNATIONAL RELATIONS 1919-39",
+  "short_route": "LEAGUE PROMISE AND MACHINERY → LEAGUE'S MIXED RECORD → 1920S RECOVERY LADDER → LOCARNO'S GEOGRAPHIC FLAW → DEPRESSION TRANSMISSION → LEAGUE-BREAKING CRISES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-11-deep-review-2026-09-01-g3.json",
+  "ascii_spec_sha256": "2ffb19bb0ee8001e5641a07d9dcda56b1090abbf124194cae986939ec0e1d44f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LEAGUE PROMISE AND MACHINERY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEAGUE PROMISE AND MACHINERY",
+          "role": "primary"
+        },
+        {
+          "text": "COLLECTIVE SECURITY AND COOPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL DELIBERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL AND ADMINISTRATIVE WORK",
+          "role": "evidence"
+        },
+        {
+          "text": "LABOUR, REFUGEES, HEALTH AND MANDATES",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "LEAGUE FORMATION (1920), WASHINGTON, DAWES, LOCARNO, KELLOGG-BRIAND, YOUNG PLAN",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSCHLUSS, MUNICH, PRAGUE AND THE NAZI-SOVIET PACT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AIM → collective security and cooperation",
+        "ASSEMBLY/COUNCIL → political deliberation",
+        "COURT/SECRETARIAT → legal and administrative work",
+        "COMMISSIONS → labour, refugees, health and mandates",
+        "MUST REMEMBER: League formation (1920), Washington, Dawes, Locarno, Kellogg-Briand, Young"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AIM → collective security and cooperation",
+            "ASSEMBLY/COUNCIL → political deliberation",
+            "COURT/SECRETARIAT → legal and administrative work"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMISSIONS → labour, refugees, health and mandates",
+            "MUST REMEMBER: League formation (1920), Washington, Dawes, Locarno, Kellogg-Briand, Young",
+            "Plan and conditional reconciliation precede Depression, Manchuria, Abyssinia, Rhineland, Spain,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Anschluss, Munich, Prague and the Nazi-Soviet Pact."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: League formation (1920), Washington, Dawes, Locarno, Kellogg-Briand, Young Plan and conditional reconciliation precede Depression, Manchuria, Abyssinia, Rhineland, Spain,.",
+      "source_references": [
+        "League aims and operating machinery",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LEAGUE'S MIXED RECORD",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEAGUE'S MIXED RECORD",
+          "role": "primary"
+        },
+        {
+          "text": "AALAND, SAAR, MOSUL AND SOCIAL WORK",
+          "role": "outcome"
+        },
+        {
+          "text": "NO ARMY AND UNANIMITY",
+          "role": "caution"
+        },
+        {
+          "text": "USA OUTSIDE; GERMANY AND USSR LATE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADMINISTRATION STRONGER THAN ENFORCEMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SUCCESS → Aaland, Saar, Mosul and social work",
+        "WEAKNESS → no army and unanimity",
+        "ABSENCE → USA outside; Germany and USSR late",
+        "VERDICT → administration stronger than enforcement"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SUCCESS → Aaland, Saar, Mosul and social work",
+          "ABSENCE → USA outside; Germany and USSR late",
+          "SUCCESS → Aaland, Saar, Mosul and social work"
+        ],
+        [
+          "WEAKNESS → no army and unanimity",
+          "VERDICT → administration stronger than enforcement",
+          "WEAKNESS → no army and unanimity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUCCESS → Aaland, Saar, Mosul and social work",
+            "WEAKNESS → no army and unanimity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ABSENCE → USA outside; Germany and USSR late",
+            "VERDICT → administration stronger than enforcement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUCCESS → Aaland, Saar, Mosul and social work",
+            "WEAKNESS → no army and unanimity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ABSENCE → USA outside; Germany and USSR late.",
+      "source_references": [
+        "League aims and operating machinery",
+        "Why collective security lacked force",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "1920S RECOVERY LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "1920S RECOVERY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "WASHINGTON NAVAL EASING",
+          "role": "outcome"
+        },
+        {
+          "text": "DAWES CREDIT AND RUHR WITHDRAWAL",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCARNO AND GERMANY IN LEAGUE",
+          "role": "evidence"
+        },
+        {
+          "text": "KELLOGG-BRIAND AND YOUNG PLAN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1921-22 → Washington naval easing",
+        "1924 → Dawes credit and Ruhr withdrawal",
+        "1925-26 → Locarno and Germany in League",
+        "1928-29 → Kellogg-Briand and Young Plan"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1921-22 → Washington naval easing",
+            "1924 → Dawes credit and Ruhr withdrawal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1925-26 → Locarno and Germany in League",
+            "1928-29 → Kellogg-Briand and Young Plan"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1921-22 → Washington naval easing",
+            "1924 → Dawes credit and Ruhr withdrawal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1925-26 → Locarno and Germany in League; 1928-29 → Kellogg-Briand and Young Plan.",
+      "source_references": [
+        "Washington and the limited Pacific easing",
+        "Dawes credit and Ruhr recovery",
+        "Locarno's western guarantee",
+        "Kellogg-Briand and Young Plan",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LOCARNO'S GEOGRAPHIC FLAW",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LOCARNO'S GEOGRAPHIC FLAW",
+          "role": "primary"
+        },
+        {
+          "text": "GERMAN FRONTIERS GUARANTEED",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMAN FRONTIERS NOT GUARANTEED",
+          "role": "caution"
+        },
+        {
+          "text": "AMERICAN CREDIT SUPPORTS CONFIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "EASTERN REVISIONISM REMAINS OPEN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WEST → German frontiers guaranteed",
+        "EAST → German frontiers not guaranteed",
+        "PROSPERITY → American credit supports confidence",
+        "RISK → eastern revisionism remains open"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WEST → German frontiers guaranteed",
+          "PROSPERITY → American credit supports confidence",
+          "WEST → German frontiers guaranteed"
+        ],
+        [
+          "EAST → German frontiers not guaranteed",
+          "RISK → eastern revisionism remains open",
+          "EAST → German frontiers not guaranteed"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WEST → German frontiers guaranteed",
+            "EAST → German frontiers not guaranteed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROSPERITY → American credit supports confidence",
+            "RISK → eastern revisionism remains open"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WEST → German frontiers guaranteed",
+            "EAST → German frontiers not guaranteed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROSPERITY → American credit supports confidence; RISK → eastern revisionism remains open.",
+      "source_references": [
+        "Locarno's western guarantee",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DEPRESSION TRANSMISSION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DEPRESSION TRANSMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "US CREDIT WITHDRAWS",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMAN RECOVERY CONTRACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMOCRATIC LEGITIMACY ERODES",
+          "role": "evidence"
+        },
+        {
+          "text": "RADICAL REGIMES",
+          "role": "primary"
+        },
+        {
+          "text": "REVISIONIST POLICY STRENGTHENS",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLECTIVE SECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "WILLINGNESS TO ENFORCE FALLS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "US CREDIT WITHDRAWS → German recovery contracts",
+        "UNEMPLOYMENT → democratic legitimacy erodes",
+        "RADICAL REGIMES → revisionist policy strengthens",
+        "COLLECTIVE SECURITY → willingness to enforce falls"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "US CREDIT WITHDRAWS → German recovery contracts",
+            "UNEMPLOYMENT → democratic legitimacy erodes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RADICAL REGIMES → revisionist policy strengthens",
+            "COLLECTIVE SECURITY → willingness to enforce falls"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "US CREDIT WITHDRAWS → German recovery contracts",
+            "UNEMPLOYMENT → democratic legitimacy erodes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RADICAL REGIMES → revisionist policy strengthens; COLLECTIVE SECURITY → willingness to enforce falls.",
+      "source_references": [
+        "Depression destroys the Locarno base",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LEAGUE-BREAKING CRISES",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LEAGUE-BREAKING CRISES",
+          "role": "primary"
+        },
+        {
+          "text": "MANCHURIA ESTABLISHES IMPUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ABYSSINIA EXPOSES WEAK SANCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NAVAL AGREEMENT BREAKS STRESA UNITY",
+          "role": "evidence"
+        },
+        {
+          "text": "RHINELAND RISK SUCCEEDS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1931 → Manchuria establishes impunity",
+        "1935 → Abyssinia exposes weak sanctions",
+        "1935 → naval agreement breaks Stresa unity",
+        "1936 → Rhineland risk succeeds"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1931 → Manchuria establishes impunity",
+            "1935 → Abyssinia exposes weak sanctions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1935 → naval agreement breaks Stresa unity",
+            "1936 → Rhineland risk succeeds"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1931 → Manchuria establishes impunity",
+            "1935 → Abyssinia exposes weak sanctions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1935 → naval agreement breaks Stresa unity; 1936 → Rhineland risk succeeds.",
+      "source_references": [
+        "Manchuria and the lesson of impunity",
+        "Abyssinia and League discredit",
+        "Separate bargains and Rhineland risk",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AGGRESSOR-LEARNING MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGGRESSOR-LEARNING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "TREATY OR FRONTIER CHALLENGED",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTEST WITHOUT EFFECTIVE FORCE",
+          "role": "comparison"
+        },
+        {
+          "text": "COST OF NEXT MOVE APPEARS LOWER",
+          "role": "evidence"
+        },
+        {
+          "text": "REVISION ESCALATES FROM TEST TO CONQUEST",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ACTION → treaty or frontier challenged",
+        "RESPONSE → protest without effective force",
+        "LESSON → cost of next move appears lower",
+        "RESULT → revision escalates from test to conquest"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ACTION → treaty or frontier challenged",
+            "RESPONSE → protest without effective force"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LESSON → cost of next move appears lower",
+            "RESULT → revision escalates from test to conquest"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACTION → treaty or frontier challenged",
+            "RESPONSE → protest without effective force"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → revision escalates from test to conquest.",
+      "source_references": [
+        "Abyssinia and League discredit",
+        "Failure-of-order verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "1938 CONCESSION SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "1938 CONCESSION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "AUSTRIA ABSORBED",
+          "role": "outcome"
+        },
+        {
+          "text": "SUDETENLAND CONCEDED",
+          "role": "comparison"
+        },
+        {
+          "text": "CZECHOSLOVAKIA AND USSR ABSENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PRAGUE 1939",
+          "role": "primary"
+        },
+        {
+          "text": "NON-GERMAN TERRITORY SEIZED",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ANSCHLUSS → Austria absorbed",
+        "MUNICH → Sudetenland conceded",
+        "EXCLUSION → Czechoslovakia and USSR absent",
+        "PRAGUE 1939 → non-German territory seized"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANSCHLUSS → Austria absorbed",
+            "MUNICH → Sudetenland conceded"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXCLUSION → Czechoslovakia and USSR absent",
+            "PRAGUE 1939 → non-German territory seized"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSCHLUSS → Austria absorbed",
+            "MUNICH → Sudetenland conceded"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXCLUSION → Czechoslovakia and USSR absent; PRAGUE 1939 → non-German territory seized.",
+      "source_references": [
+        "Anschluss and cumulative concession",
+        "Munich and excluded states",
+        "Prague, pact and Poland",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "APPEASEMENT ON ITS OWN TERMS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "APPEASEMENT ON ITS OWN TERMS",
+          "role": "primary"
+        },
+        {
+          "text": "WAR MEMORY AND INCOMPLETE REARMAMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "GRIEVANCES ARE FINITE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCESSIONS WEAKEN DETERRENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRAGUE DISPROVES THE ASSUMPTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RATIONALE → war memory and incomplete rearmament",
+        "ASSUMPTION → grievances are finite",
+        "FAILURE → concessions weaken deterrence",
+        "TEST → Prague disproves the assumption"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RATIONALE → war memory and incomplete rearmament",
+          "FAILURE → concessions weaken deterrence",
+          "RATIONALE → war memory and incomplete rearmament"
+        ],
+        [
+          "ASSUMPTION → grievances are finite",
+          "TEST → Prague disproves the assumption",
+          "ASSUMPTION → grievances are finite"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RATIONALE → war memory and incomplete rearmament",
+            "ASSUMPTION → grievances are finite"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FAILURE → concessions weaken deterrence",
+            "TEST → Prague disproves the assumption"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RATIONALE → war memory and incomplete rearmament",
+            "ASSUMPTION → grievances are finite"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FAILURE → concessions weaken deterrence; TEST → Prague disproves the assumption.",
+      "source_references": [
+        "Munich and excluded states",
+        "Failure-of-order verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ROAD TO POLAND",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ROAD TO POLAND",
+          "role": "primary"
+        },
+        {
+          "text": "APPEASEMENT RATIONALE COLLAPSES",
+          "role": "outcome"
+        },
+        {
+          "text": "NAZI-SOVIET PACT",
+          "role": "comparison"
+        },
+        {
+          "text": "EASTERN OBSTACLE REMOVED",
+          "role": "evidence"
+        },
+        {
+          "text": "GERMANY INVADES",
+          "role": "primary"
+        },
+        {
+          "text": "DECLARE WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTIONAL DESIGN WEAKNESSES AND MEMBER-STATE CHOICES MUST BE SEPARATED",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PRAGUE → appeasement rationale collapses",
+        "NAZI-SOVIET PACT → eastern obstacle removed",
+        "POLAND → Germany invades",
+        "BRITAIN/FRANCE → declare war",
+        "CLOSE DISTINCTION: Institutional design weaknesses and member-state choices must be separated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRAGUE → appeasement rationale collapses",
+            "NAZI-SOVIET PACT → eastern obstacle removed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLAND → Germany invades",
+            "BRITAIN/FRANCE → declare war"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Institutional design weaknesses and member-state choices must be separated",
+            "technical and humanitarian work could succeed while sanctions and collective enforcement failed."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "technical and humanitarian work could succeed while sanctions and collective enforcement failed.",
+      "source_references": [
+        "Prague, pact and Poland",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DESIGN VERSUS CHOICE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DESIGN VERSUS CHOICE",
+          "role": "comparison"
+        },
+        {
+          "text": "UNANIMITY, NO ARMY, INCOMPLETE MEMBERSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "MEMBERS REFUSE SANCTIONS AND MILITARY RISK",
+          "role": "caution"
+        },
+        {
+          "text": "DEPRESSION NARROWS COOPERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "WEAKNESSES BECOME FATAL THROUGH DECISIONS",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "APPEASEMENT SHOULD BE ASSESSED THROUGH WAR MEMORY, READINESS AND",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DESIGN → unanimity, no army, incomplete membership",
+        "CHOICE → members refuse sanctions and military risk",
+        "ECONOMY → Depression narrows cooperation",
+        "VERDICT → weaknesses become fatal through decisions",
+        "EVIDENCE LIMIT: Appeasement should be assessed through war memory, readiness and finite-grievance assumptions"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DESIGN → unanimity, no army, incomplete membership",
+          "ECONOMY → Depression narrows cooperation",
+          "EVIDENCE LIMIT: Appeasement should be assessed through war memory, readiness and finite-grievance assumptions,"
+        ],
+        [
+          "CHOICE → members refuse sanctions and military risk",
+          "VERDICT → weaknesses become fatal through decisions",
+          "then tested against deterrence erosion and Prague's destruction of the self-determination defence."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DESIGN → unanimity, no army, incomplete membership",
+            "CHOICE → members refuse sanctions and military risk"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ECONOMY → Depression narrows cooperation",
+            "VERDICT → weaknesses become fatal through decisions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Appeasement should be assessed through war memory, readiness and finite-grievance assumptions,",
+            "then tested against deterrence erosion and Prague's destruction of the self-determination defence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Appeasement should be assessed through war memory, readiness and finite-grievance assumptions, then tested against deterrence erosion and Prague's destruction of the self-determination defence.",
+      "source_references": [
+        "Why collective security lacked force",
+        "Failure-of-order verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INTERWAR ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INTERWAR ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "LEAGUE AND COLLECTIVE SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DAWES, LOCARNO AND CONDITIONAL STABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPRESSION, MANCHURIA AND ABYSSINIA",
+          "role": "evidence"
+        },
+        {
+          "text": "APPEASEMENT, PRAGUE, PACT AND POLAND",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PROMISE → League and collective security",
+        "RECOVERY → Dawes, Locarno and conditional stability",
+        "BREAKDOWN → Depression, Manchuria and Abyssinia",
+        "COLLAPSE → appeasement, Prague, pact and Poland"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROMISE → League and collective security",
+            "RECOVERY → Dawes, Locarno and conditional stability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BREAKDOWN → Depression, Manchuria and Abyssinia",
+            "COLLAPSE → appeasement, Prague, pact and Poland"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROMISE → League and collective security",
+            "RECOVERY → Dawes, Locarno and conditional stability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BREAKDOWN → Depression, Manchuria and Abyssinia; COLLAPSE → appeasement, Prague, pact and Poland.",
+      "source_references": [
+        "Failure-of-order verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FEAR OF ANOTHER CATASTROPHIC WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "PACIFIST PUBLIC OPINION AFTER 1914-18",
+          "role": "comparison"
+        },
+        {
+          "text": "BELIEF THAT GERMANY AND ITALY HAD GENUINE GRIEVANCES",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTRUST OF THE LEAGUE'S CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "PREFERENCE FOR LEADER-TO-LEADER DIPLOMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "FEAR OF COMMUNIST RUSSIA",
+          "role": "comparison"
+        },
+        {
+          "text": "BRITISH MILITARY UNREADINESS AND THE HOPE OF BUYING TIME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "fear of another catastrophic war;",
+            "pacifist public opinion after 1914-18;",
+            "belief that Germany and Italy had genuine grievances;",
+            "distrust of the League's capacity;"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "preference for leader-to-leader diplomacy;",
+            "fear of communist Russia;",
+            "British military unreadiness and the hope of buying time for rearmament.",
+            "At Munich, Britain and France pressed the Czechs hard and excluded both the Czechs and the USSR from the real decision."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Chamberlain returned claiming \"peace for our time\".",
+            "Churchill and Duff Cooper were early internal critics.",
+            "In March 1939 Hitler moved beyond German self-determination and seized non-German Czech territory.",
+            "CAUTION: The Depression, crisis of imperial credibility and collapse of collective-security"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

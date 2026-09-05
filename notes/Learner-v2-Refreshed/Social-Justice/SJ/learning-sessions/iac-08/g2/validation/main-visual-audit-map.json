@@ -1,0 +1,1934 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g2\\social-justice-08_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g2\\social-justice-08_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "social-justice-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Scheduled Tribes, PVTGs and Tribal Welfare - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 397.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 52,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g2\\assets\\social-justice-08_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 721.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 413.756
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to What the tribal-welfare owner holds and how it is examined, and never upgrade a policy document into a statute or a ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 226.356
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 145.488
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THE TRIBAL-WELFARE OWNER HOLDS AND HOW IT IS EXAMINED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 665.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 113,
+      "markdown_body_line_end": 130,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT THE TRIBAL-WELFARE OWNER HOLDS AND HOW IT IS EXAMINED",
+      "preview": "START / CONCEPT: FOUNDATION — What the tribal-welfare owner holds and how it is examined",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 314
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 141,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The two-axis frame and the third-axis debate Qualified use: Take a qualified position that adds a dimension instead of denying the frame.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 407.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 341.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 160,
+      "heading": "VISUAL FIRST",
+      "preview": "THE TWO-AXIS FRAME AND THE THIRD-AXIS DEBATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 205,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE TWO-AXIS FRAME AND THE THIRD-AXIS DEBATE",
+      "preview": "START / CONCEPT: FOUNDATION — The two-axis frame and the third-axis debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 908
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 216,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The forest-rights statute and its three categories of right Qualified use: Name all three recognition categories before evaluating the statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 303.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 237.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 231,
+      "markdown_body_line_end": 235,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FOREST-RIGHTS STATUTE AND ITS THREE CATEGORIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 280,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE FOREST-RIGHTS STATUTE AND ITS THREE CATEGORIES",
+      "preview": "START / CONCEPT: FOUNDATION — The forest-rights statute and its three categories",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 571
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 349.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 88.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Individual forest rights and their exact limits - Community rights as the livelihood limb of the statute Qualified use: Use the exact limit of a right rather than a general description of it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 313,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIVIDUAL AND COMMUNITY RIGHTS AND THEIR EXACT LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 289.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 359,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIVIDUAL AND COMMUNITY RIGHTS AND THEIR EXACT LIMITS",
+      "preview": "START / CONCEPT: CORE — Individual and community rights and their exact limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 680
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 403.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 72.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 370,
+      "markdown_body_line_end": 370,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Community forest resource rights are separate from both individual and community rights and constitute the governance limb of the statute, being the right of a Gram Sabha to protect, regenerate, conserve and manage the community forest reso",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 603.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 465.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 389,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMUNITY FOREST RESOURCE RIGHTS AS THE GOVERNANCE LIMB",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 434,
+      "heading": "CLOSING RECALL FLOW - CORE - COMMUNITY FOREST RESOURCE RIGHTS AS THE GOVERNANCE LIMB",
+      "preview": "START / CONCEPT: CORE — Community forest resource rights as the governance limb",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 713
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 445,
+      "markdown_body_line_end": 445,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Ministry of Tribal Affairs page for the forest-rights statute, read on 2 September 2026, records that the Act recognises the rights of forest-dwelling tribal communities and other traditional forest dwellers to forest resources on which",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 501.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 464,
+      "heading": "VISUAL FIRST",
+      "preview": "THE MINISTRY'S OWN ACCOUNT OF THE STATUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 306.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 265.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 492,
+      "markdown_body_line_end": 509,
+      "heading": "CLOSING RECALL FLOW - CORE - THE MINISTRY'S OWN ACCOUNT OF THE STATUTE",
+      "preview": "START / CONCEPT: CORE — The ministry's own account of the statute",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 2188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 520,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners set out the recognition procedure as a three-tier chain: the Gram Sabha receives claims, verifies them and makes its recommendation; the Sub-Divisional Level Committee examines and verifies the recommendation; and the District Le",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 671.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 535,
+      "markdown_body_line_end": 539,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CLAIM PROCESS FROM GRAM SABHA TO DISTRICT COMMITTEE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 476.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 435.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 567,
+      "markdown_body_line_end": 584,
+      "heading": "CLOSING RECALL FLOW - CORE - THE CLAIM PROCESS FROM GRAM SABHA TO DISTRICT COMMITTEE",
+      "preview": "START / CONCEPT: CORE — The claim process from Gram Sabha to district committee",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 722
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 459.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 595,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners state a precise legal boundary that is frequently misremembered: the statute provides a process for recognising rights, and rejection of a claim does not erase due-process duties or justify automatic eviction; they record that th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 249.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 125.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 617,
+      "heading": "VISUAL FIRST",
+      "preview": "REJECTION, EVICTION RISK AND THE PROTECTED-AREA CONDITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 642.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 663,
+      "heading": "CLOSING RECALL FLOW - CORE - REJECTION, EVICTION RISK AND THE PROTECTED-AREA CONDITION",
+      "preview": "START / CONCEPT: CORE — Rejection, eviction risk and the protected-area condition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 834
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 413.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 674,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The self-governance law read for its welfare content Qualified use: Use a self-governance power for its welfare effect and route the institutional design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 202.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 135.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 689,
+      "markdown_body_line_end": 693,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SELF-GOVERNANCE LAW READ FOR ITS WELFARE CONTENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 658.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 721,
+      "markdown_body_line_end": 738,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SELF-GOVERNANCE LAW READ FOR ITS WELFARE CONTENT",
+      "preview": "START / CONCEPT: CORE — The self-governance law read for its welfare content",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 710
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 749,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A particularly vulnerable tribal group is a sub-category within the Scheduled Tribes identified using four criteria that the owners state exactly, namely a pre-agricultural or low level of technology, low literacy, a declining or stagnant p",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 285.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 147.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 768,
+      "heading": "VISUAL FIRST",
+      "preview": "PARTICULARLY VULNERABLE TRIBAL GROUPS AND THEIR CRITERIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 665.491
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 813,
+      "heading": "CLOSING RECALL FLOW - CORE - PARTICULARLY VULNERABLE TRIBAL GROUPS AND THEIR CRITERIA",
+      "preview": "START / CONCEPT: CORE — Particularly vulnerable tribal groups and their criteria",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 750
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 824,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The convergence mission for the most vulnerable groups Qualified use: Describe a saturation design without converting sanction into delivery.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 271.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 204.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 839,
+      "markdown_body_line_end": 843,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CONVERGENCE MISSION FOR THE MOST VULNERABLE GROUPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 721.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 888,
+      "heading": "CLOSING RECALL FLOW - CORE - THE CONVERGENCE MISSION FOR THE MOST VULNERABLE GROUPS",
+      "preview": "START / CONCEPT: CORE — The convergence mission for the most vulnerable groups",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 874
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 899,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners record the livelihood limb as a national agency for tribal produce marketing which implements the village-enterprise scheme establishing Van Dhan Vikas Kendras at village level for aggregation, value addition through processing a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 295.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 157.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 921,
+      "heading": "VISUAL FIRST",
+      "preview": "PRODUCE OWNERSHIP, MARKET LINKAGE AND RESIDENTIAL EDUCATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 635.491
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 967,
+      "heading": "CLOSING RECALL FLOW - CORE - PRODUCE OWNERSHIP, MARKET LINKAGE AND RESIDENTIAL EDUCATION",
+      "preview": "START / CONCEPT: CORE — Produce ownership, market linkage and residential education",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 784
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 703.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 402.691
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 978,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The National Commission for Scheduled Tribes exists under Article 338A of the Constitution and is therefore a constitutional body that investigates and monitors safeguards, inquires into specific complaints and advises on planning and socio",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 177.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 40.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 993,
+      "markdown_body_line_end": 1000,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CONSTITUTIONAL COMMISSION AND THE LAND-ALIENATION PROBLEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 543.491
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1029,
+      "markdown_body_line_end": 1046,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE CONSTITUTIONAL COMMISSION AND THE LAND-ALIENATION PROBLEM",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The constitutional commission and the land-alienation problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 722
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 280.891
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1057,
+      "markdown_body_line_end": 1057,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The case bank and the committee diagnosis - Rehabilitation policy and what compensation cannot buy Qualified use: Support a displacement answer with bounded authorities and an explicit limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1079,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CASE BANK, THE COMMITTEE DIAGNOSIS AND REHABILITATION POLICY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 466.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1125,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE CASE BANK, THE COMMITTEE DIAGNOSIS AND REHABILITATION POLICY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The case bank, the committee diagnosis and rehabilitation policy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 849
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 522.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 161.891
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1136,
+      "markdown_body_line_end": 1136,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Heterogeneity discipline and the honest ownership statement Qualified use: Close a tribal answer with a differentiated verdict and an explicit ownership boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1151,
+      "markdown_body_line_end": 1155,
+      "heading": "VISUAL FIRST",
+      "preview": "HETEROGENEITY DISCIPLINE AND THE HONEST OWNERSHIP STATEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 329.424
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1182,
+      "markdown_body_line_end": 1191,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Social Justice | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II; GS-I society link (displacement-rehabilitation, 2025 PYQ). **Core area:** Forest rights, PVTG welfare, land alienation protection, tribal livelihood and edu",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 470.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 333.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1225,
+      "heading": "1. Visual foundation",
+      "preview": "TRIBAL WELFARE: DISPLACEMENT-REHABILITATION AXIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1244,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 257.09
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1360,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Tribal development in India does centre on two axes — displacement (mining, dams, protected areas, land alienation) and rehabilitation (FRA forest rights, PM-JANMAN PVTG saturation, Van Dhan livelihood, EMRS education) — ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 323.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 236.224
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1390,
+      "heading": "11A. Answer architecture (10/15/20-mark support)",
+      "preview": "**Reasoned verdict:** Services are just when they strengthen rather than extinguish community rights, habitat and self-government.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 641.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 596.824
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1405,
+      "markdown_body_line_end": 1407,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 467.624
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 386.756
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1413,
+      "markdown_body_line_end": 1416,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 335.156
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 217.754
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1423,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 161.354
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 116.687
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1445,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - HETEROGENEITY DISCIPLINE AND THE HONEST OWNERSHIP STATEMENT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Heterogeneity discipline and the honest ownership statement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 963
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 373.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2299,
+      "markdown_body_line_end": 2301,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 674.091
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 593.224
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2307,
+      "markdown_body_line_end": 2310,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 541.624
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 424.222
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2317,
+      "markdown_body_line_end": 2317,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 367.822
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 323.154
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2583,
+      "markdown_body_line_end": 2590,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Social Justice | **Tier:** Advanced | **GS Paper:** GS-II; GS-I society link (displacement-rehabilitation, 2025 PYQ). **Core area:** FRA implementation gaps, PVTG targeting, displacement-rehabilitation causal chain, third-axis ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 387.291
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 285.824
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2594,
+      "markdown_body_line_end": 2627,
+      "heading": "1. Architecture",
+      "preview": "TRIBAL DEVELOPMENT: THREE-AXIS MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 32,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 456.291
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2638,
+      "markdown_body_line_end": 2644,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 410.29
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2851,
+      "markdown_body_line_end": 2858,
+      "heading": "Scheduled Tribes, PVTGs and Tribal Welfare: ANSWER-WRITING SPINE",
+      "preview": "NAME THE DEPRIVATION OR CLAIM -> IDENTIFY THE RIGHT-HOLDER AND THE DUTY-BEARER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 313.291
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2868,
+      "markdown_body_line_end": 2875,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Two axes and a third",
+      "preview": "AXIS 1 DISPLACEMENT -> mining and industry, dams and submergence, protected areas, alienation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 137,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 137,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        137
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2879,
+      "markdown_body_line_end": 2885,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Three rights categories",
+      "preview": "INDIVIDUAL FOREST RIGHTS -> hold and live in forest land for habitation or self-cultivation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 137,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 137,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        137
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2889,
+      "markdown_body_line_end": 2895,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Ministry statement card",
+      "preview": "RECOGNISES -> dependence of forest dwellers for livelihood, habitation, socio-cultural needs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 137,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 137,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        137
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2899,
+      "markdown_body_line_end": 2905,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Claim chain",
+      "preview": "STEP 1 -> Gram Sabha receives claims, verifies them and recommends",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 137,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 137,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        137
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2909,
+      "markdown_body_line_end": 2915,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Rejection is not eviction",
+      "preview": "LEGAL POSITION -> rejection does not erase due-process duties",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 137,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 137,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        137
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2919,
+      "markdown_body_line_end": 2925,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Protected-area conditions",
+      "preview": "CONDITION 1 -> recognition of rights in the area must first be completed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 137,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 137,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        137
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2929,
+      "markdown_body_line_end": 2935,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Scheduled-Areas welfare powers",
+      "preview": "SCOPE -> Scheduled Areas notified under the Fifth Schedule only, not all rural areas",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 138,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 138,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        138
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2939,
+      "markdown_body_line_end": 2945,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Vulnerable-group criteria",
+      "preview": "CRITERION 1 -> pre-agricultural or low level of technology",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 138,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 138,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        138
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2949,
+      "markdown_body_line_end": 2955,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Convergence mission card",
+      "preview": "LAUNCH -> 15 November 2023, Ministry of Tribal Affairs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 138,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 138,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        138
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2959,
+      "markdown_body_line_end": 2966,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Produce to income",
+      "preview": "COMMUNITY RIGHT -> ownership of minor forest produce under the forest-rights statute",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 138,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 138,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        138
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2970,
+      "markdown_body_line_end": 2977,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Education and institutions",
+      "preview": "RESIDENTIAL SCHOOLS -> Class VI to Class XII under the Ministry of Tribal Affairs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 138,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 138,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        138
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2981,
+      "markdown_body_line_end": 2987,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Alienation and authorities",
+      "preview": "PROHIBITION EXISTS -> State tenancy and land-transfer laws in Fifth Schedule areas",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 138,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 138,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        138
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1160 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-14",
+  "subject": "Social-Justice",
+  "title": "SANITATION, MANUAL SCAVENGING AND SAFAI KARAMCHARIS",
+  "short_route": "FOUR LEVERS OF SANITATION → TWO PROHIBITED PRACTICES → STATUTORY DUTIES IN ONE → COMPENSATION LEDGER → JOINT SCHEME CARD → MECHANISATION LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-14-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "27804edbf574487af893a7412454a344fe55ef619fdef3612fe147e261d847de",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR LEVERS OF SANITATION LABOUR",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOUR LEVERS OF SANITATION LABOUR",
+          "role": "primary"
+        },
+        {
+          "text": "PROHIBITED HANDLING OF HUMAN EXCRETA AND UNSAFE ENTRY INTO",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVER 1 PROHIBITION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE 2013 ACT, OFFENCES, SURVEY DUTY, REHABILITATION MANDATE",
+          "role": "institution"
+        },
+        {
+          "text": "LEVER 2 MECHANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "THE JOINT 2022-23 SCHEME, EQUIPMENT, TRAINING, CAPITAL SUBSIDY",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVER 3 REHABILITATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTIFIED LIVELIHOOD, SKILL AND CONVERGENCE SUPPORT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → prohibited handling of human excreta and unsafe entry into sewers and septic tanks",
+        "LEVER 1 PROHIBITION: the 2013 Act, offences, survey duty, rehabilitation mandate",
+        "LEVER 2 MECHANISATION: the joint 2022-23 scheme, equipment, training, capital subsidy",
+        "LEVER 3 REHABILITATION: notified livelihood, skill and convergence support",
+        "LEVER 4 COMPENSATION: judicial tiers of 20 October 2023, monitored by the Commission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROBLEM → prohibited handling of human excreta and unsafe entry into sewers and septic tanks",
+            "LEVER 1 PROHIBITION: the 2013 Act, offences, survey duty, rehabilitation mandate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEVER 2 MECHANISATION: the joint 2022-23 scheme, equipment, training, capital subsidy",
+            "LEVER 3 REHABILITATION: notified livelihood, skill and convergence support"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEVER 4 COMPENSATION: judicial tiers of 20 October 2023, monitored by the Commission",
+            "MUST REMEMBER: Sanitation justice joins safe infrastructure, water, behaviour, municipal..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Sanitation justice joins safe infrastructure, water, behaviour, municipal.",
+      "source_references": [
+        "What this owner holds and how its routed demand is bounded",
+        "What the prohibition statute actually does",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TWO PROHIBITED PRACTICES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO PROHIBITED PRACTICES",
+          "role": "primary"
+        },
+        {
+          "text": "MANUAL SCAVENGING",
+          "role": "outcome"
+        },
+        {
+          "text": "HANDLING HUMAN EXCRETA FROM INSANITARY LATRINES AND COMPARABLE SETTINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "BEFORE THE EXCRETA FULLY DECOMPOSES; THE SETTING IS PART",
+          "role": "evidence"
+        },
+        {
+          "text": "HAZARDOUS CLEANING",
+          "role": "primary"
+        },
+        {
+          "text": "MANUAL CLEANING OF A SEWER, SEPTIC TANK OR SPECIFIED",
+          "role": "outcome"
+        },
+        {
+          "text": "WITHOUT THE PRESCRIBED PROTECTIVE GEAR, CLEANING DEVICES AND SAFETY",
+          "role": "comparison"
+        },
+        {
+          "text": "BOTH ARE PROHIBITED; PROTECTIVE EQUIPMENT DOES NOT MAKE SCAVENGING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MANUAL SCAVENGING → handling human excreta from insanitary latrines and comparable settings",
+        "TIMING → before the excreta fully decomposes; the setting is part of the definition",
+        "HAZARDOUS CLEANING → manual cleaning of a sewer, septic tank or specified space",
+        "CONDITION → without the prescribed protective gear, cleaning devices and safety precautions",
+        "RULE → both are prohibited; protective equipment does not make scavenging lawful"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MANUAL SCAVENGING → handling human excreta from insanitary latrines and comparable settings",
+          "HAZARDOUS CLEANING → manual cleaning of a sewer, septic tank or specified space",
+          "RULE → both are prohibited; protective equipment does not make scavenging lawful"
+        ],
+        [
+          "TIMING → before the excreta fully decomposes; the setting is part of the definition",
+          "CONDITION → without the prescribed protective gear, cleaning devices and safety precautions",
+          "MANUAL SCAVENGING → handling human excreta from insanitary latrines and comparable settings"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MANUAL SCAVENGING → handling human excreta from insanitary latrines and comparable settings",
+            "TIMING → before the excreta fully decomposes; the setting is part of the definition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HAZARDOUS CLEANING → manual cleaning of a sewer, septic tank or specified space",
+            "CONDITION → without the prescribed protective gear, cleaning devices and safety precautions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → both are prohibited; protective equipment does not make scavenging lawful",
+            "MANUAL SCAVENGING → handling human excreta from insanitary latrines and comparable settings"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → both are prohibited; protective equipment does not make scavenging lawful.",
+      "source_references": [
+        "What manual scavenging means in the statute",
+        "What hazardous cleaning means and why it is separate",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "STATUTORY DUTIES IN ONE ACT",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STATUTORY DUTIES IN ONE ACT",
+          "role": "institution"
+        },
+        {
+          "text": "EMPLOYING A PERSON FOR EITHER PROHIBITED PRACTICE IS AN",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPRISONMENT AND FINE; UP TO FIVE YEARS FOR A",
+          "role": "comparison"
+        },
+        {
+          "text": "BUILT FORM",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTRUCTION OF AN INSANITARY LATRINE IS PROHIBITED",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL AUTHORITIES MUST SURVEY AND IDENTIFY MANUAL SCAVENGERS",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFICATION IS FOLLOWED BY A DUTY OF REHABILITATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CRIMINAL → employing a person for either prohibited practice is an offence",
+        "PENALTY → imprisonment and fine; up to five years for a subsequent offence",
+        "BUILT FORM → construction of an insanitary latrine is prohibited",
+        "ADMINISTRATIVE → local authorities must survey and identify manual scavengers",
+        "WELFARE → identification is followed by a duty of rehabilitation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CRIMINAL → employing a person for either prohibited practice is an offence",
+            "PENALTY → imprisonment and fine; up to five years for a subsequent offence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BUILT FORM → construction of an insanitary latrine is prohibited",
+            "ADMINISTRATIVE → local authorities must survey and identify manual scavengers"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WELFARE → identification is followed by a duty of rehabilitation",
+            "CRIMINAL → employing a person for either prohibited practice is an offence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WELFARE → identification is followed by a duty of rehabilitation.",
+      "source_references": [
+        "The insanitary latrine as the anchor category",
+        "What the prohibition statute actually does",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "COMPENSATION LEDGER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COMPENSATION LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "SAFAI KARAMCHARI ANDOLAN SETS THE EARLIER BASELINE OF TEN",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME CASE",
+          "role": "comparison"
+        },
+        {
+          "text": "REINFORCES IDENTIFICATION, REHABILITATION AND MECHANISATION DIRECTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "20 OCTOBER 2023",
+          "role": "primary"
+        },
+        {
+          "text": "DR BALRAM SINGH RAISES SEWER-DEATH COMPENSATION TO THIRTY LAKH",
+          "role": "outcome"
+        },
+        {
+          "text": "INJURY TIERS",
+          "role": "comparison"
+        },
+        {
+          "text": "AT LEAST TWENTY LAKH FOR PERMANENT DISABILITY; TEN LAKH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2014 → Safai Karamchari Andolan sets the earlier baseline of ten lakh rupees",
+        "SAME CASE → reinforces identification, rehabilitation and mechanisation directions",
+        "20 OCTOBER 2023 → Dr Balram Singh raises sewer-death compensation to thirty lakh rupees",
+        "INJURY TIERS → at least twenty lakh for permanent disability; ten lakh for other injury",
+        "SOURCE RULE → these are judicial directions, not a schedule inside the 2013 Act"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2014 → Safai Karamchari Andolan sets the earlier baseline of ten lakh rupees",
+            "SAME CASE → reinforces identification, rehabilitation and mechanisation directions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "20 OCTOBER 2023 → Dr Balram Singh raises sewer-death compensation to thirty lakh rupees",
+            "INJURY TIERS → at least twenty lakh for permanent disability; ten lakh for other injury"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE RULE → these are judicial directions, not a schedule inside the 2013 Act",
+            "2014 → Safai Karamchari Andolan sets the earlier baseline of ten lakh rupees"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOURCE RULE → these are judicial directions, not a schedule inside the 2013 Act.",
+      "source_references": [
+        "The earlier judicial baseline and the current tiers",
+        "Why the source of the compensation matters in an answer",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "JOINT SCHEME CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JOINT SCHEME CARD",
+          "role": "primary"
+        },
+        {
+          "text": "2022-23 AS THE MECHANISED SANITATION ECOSYSTEM ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL JUSTICE AND EMPOWERMENT TOGETHER WITH HOUSING AND URBAN",
+          "role": "comparison"
+        },
+        {
+          "text": "PROFILING OF SEWER AND SEPTIC-TANK WORKERS; SAFETY TRAINING AND",
+          "role": "evidence"
+        },
+        {
+          "text": "MECHANISED SANITATION ACCESS, LIVELIHOOD SUPPORT, SOCIAL-SECURITY CONVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPLEMENTS THE EARLIER SELF-EMPLOYMENT SCHEME; COMPLEMENTS THE 2013 ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "LAUNCHED → 2022-23 as the mechanised sanitation ecosystem action",
+        "MINISTRIES → Social Justice and Empowerment together with Housing and Urban Affairs",
+        "COVERS → profiling of sewer and septic-tank workers; safety training and equipment",
+        "COVERS → mechanised sanitation access, livelihood support, social-security convergence",
+        "RELATION → supplements the earlier self-employment scheme; complements the 2013 Act"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LAUNCHED → 2022-23 as the mechanised sanitation ecosystem action",
+          "COVERS → profiling of sewer and septic-tank workers; safety training and equipment",
+          "RELATION → supplements the earlier self-employment scheme; complements the 2013 Act"
+        ],
+        [
+          "MINISTRIES → Social Justice and Empowerment together with Housing and Urban Affairs",
+          "COVERS → mechanised sanitation access, livelihood support, social-security convergence",
+          "LAUNCHED → 2022-23 as the mechanised sanitation ecosystem action"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LAUNCHED → 2022-23 as the mechanised sanitation ecosystem action",
+            "MINISTRIES → Social Justice and Empowerment together with Housing and Urban Affairs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COVERS → profiling of sewer and septic-tank workers; safety training and equipment",
+            "COVERS → mechanised sanitation access, livelihood support, social-security convergence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RELATION → supplements the earlier self-employment scheme; complements the 2013 Act",
+            "LAUNCHED → 2022-23 as the mechanised sanitation ecosystem action"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RELATION → supplements the earlier self-employment scheme; complements the 2013 Act.",
+      "source_references": [
+        "The joint mechanisation scheme and what it covers",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MECHANISATION LADDER",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MECHANISATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSIDY IS ANNOUNCED FOR EQUIPMENT AND FOR WORKER-ENTREPRENEUR PURCHASE",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "URBAN LOCAL BODIES LACK FUNDS; DISBURSEMENT IS SLOW",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKERS LACK CAPITAL AND CREDIT ACCESS, SO LOAN-SUBSIDY UPTAKE",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → subsidy is announced for equipment and for worker-entrepreneur purchase",
+        "STEP 2 → urban local bodies lack funds; disbursement is slow",
+        "STEP 3 → workers lack capital and credit access, so loan-subsidy uptake stays low",
+        "STEP 4 → machines need maintenance and trained operators or they fall into disuse",
+        "LIMIT → safety mechanisation still requires entry; full robotic substitution is nascent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STEP 1 → subsidy is announced for equipment and for worker-entrepreneur purchase",
+            "STEP 2 → urban local bodies lack funds; disbursement is slow"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEP 3 → workers lack capital and credit access, so loan-subsidy uptake stays low",
+            "STEP 4 → machines need maintenance and trained operators or they fall into disuse"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → safety mechanisation still requires entry; full robotic substitution is nascent",
+            "STEP 1 → subsidy is announced for equipment and for worker-entrepreneur purchase"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → safety mechanisation still requires entry; full robotic substitution is nascent.",
+      "source_references": [
+        "Mechanisation as safety against mechanisation as substitution",
+        "Why mechanisation uptake stalls",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COMMISSION TENURE RECORD",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COMMISSION TENURE RECORD",
+          "role": "primary"
+        },
+        {
+          "text": "THE NATIONAL COMMISSION FOR SAFAI KARAMCHARIS ACT IS ENACTED",
+          "role": "institution"
+        },
+        {
+          "text": "12 AUGUST 1994",
+          "role": "comparison"
+        },
+        {
+          "text": "THE COMMISSION IS CONSTITUTED AS A STATUTORY BODY FOR",
+          "role": "evidence"
+        },
+        {
+          "text": "SUB-SECTION (4) OF SECTION 1 FIXED CESSATION AFTER 31",
+          "role": "primary"
+        },
+        {
+          "text": "VALIDITY EXTENDED TO MARCH 2002 AND THEN TO FEBRUARY",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY TENURE LAPSED; AN EXECUTIVE RESOLUTION OF FEBRUARY 2025",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1993 → the National Commission for Safai Karamcharis Act is enacted",
+        "12 AUGUST 1994 → the Commission is constituted as a statutory body for three years",
+        "SUNSET → sub-section (4) of Section 1 fixed cessation after 31 March 1997",
+        "EXTENSIONS → validity extended to March 2002 and then to February 2004 by 1997 and",
+        "NOW → statutory tenure lapsed; an executive resolution of February 2025 runs to 31 March"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1993 → the National Commission for Safai Karamcharis Act is enacted",
+            "12 AUGUST 1994 → the Commission is constituted as a statutory body for three years"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUNSET → sub-section (4) of Section 1 fixed cessation after 31 March 1997",
+            "EXTENSIONS → validity extended to March 2002 and then to February 2004 by 1997 and 2001 Acts"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOW → statutory tenure lapsed; an executive resolution of February 2025 runs to 31 March 2028",
+            "1993 → the National Commission for Safai Karamcharis Act is enacted"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOW → statutory tenure lapsed; an executive resolution of February 2025 runs to 31 March 2028.",
+      "source_references": [
+        "The commission and its recorded institutional character",
+        "The commission's own account of its origin and tenure history",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INSTITUTIONAL CLASS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL CLASS",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULED CASTE AND SCHEDULED TRIBE COMMISSIONS UNDER ARTICLES 338",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY ORIGIN, NOW RESOLUTION-CONTINUED, WITH NO CONSTITUTIONAL BACKING",
+          "role": "caution"
+        },
+        {
+          "text": "MONITORS WELFARE SCHEMES, INVESTIGATES COMPLAINTS, RECOMMENDS CORRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "STANDING MANDATE, BINDING DIRECTIONS, GUARANTEED INSTITUTIONAL INDEPENDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMANENT STATUTORY COMMISSION WITH QUASI-JUDICIAL POWERS AND PARLIAMENTARY REPORTING",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL → Scheduled Caste and Scheduled Tribe commissions under Articles 338 and 338A",
+        "THIS BODY → statutory origin, now resolution-continued, with no constitutional backing",
+        "FUNCTIONS → monitors welfare schemes, investigates complaints, recommends correction",
+        "MISSING → standing mandate, binding directions, guaranteed institutional independence",
+        "PROPOSED → permanent statutory commission with quasi-judicial powers and parliamentary reporting"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONSTITUTIONAL → Scheduled Caste and Scheduled Tribe commissions under Articles 338 and 338A",
+          "FUNCTIONS → monitors welfare schemes, investigates complaints, recommends correction",
+          "PROPOSED → permanent statutory commission with quasi-judicial powers and parliamentary reporting"
+        ],
+        [
+          "THIS BODY → statutory origin, now resolution-continued, with no constitutional backing",
+          "MISSING → standing mandate, binding directions, guaranteed institutional independence",
+          "CONSTITUTIONAL → Scheduled Caste and Scheduled Tribe commissions under Articles 338 and 338A"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONSTITUTIONAL → Scheduled Caste and Scheduled Tribe commissions under Articles 338 and 338A",
+            "THIS BODY → statutory origin, now resolution-continued, with no constitutional backing"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FUNCTIONS → monitors welfare schemes, investigates complaints, recommends correction",
+            "MISSING → standing mandate, binding directions, guaranteed institutional independence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROPOSED → permanent statutory commission with quasi-judicial powers and parliamentary reporting",
+            "CONSTITUTIONAL → Scheduled Caste and Scheduled Tribe commissions under Articles 338 and 338A"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROPOSED → permanent statutory commission with quasi-judicial powers and parliamentary reporting.",
+      "source_references": [
+        "The commission and its recorded institutional character",
+        "The reform architecture the owners recommend and its cost",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ENFORCEMENT FAILURE CHAIN",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ENFORCEMENT FAILURE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RECOGNITION CREATES REHABILITATION LIABILITY, SO SURVEYS UNDER-REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "OUTSOURCED SEWER CLEANING LETS A MUNICIPAL BODY DISPUTE EMPLOYER",
+          "role": "comparison"
+        },
+        {
+          "text": "RARE PROSECUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRST INFORMATION REPORTS ARE RARE; DEATHS ARE FRAMED AS",
+          "role": "primary"
+        },
+        {
+          "text": "DELAYED RELIEF",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPENSATION IS DISPUTED AND FAMILIES LACK DOCUMENTATION TO CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE-TIME REHABILITATION WITHOUT STABLE WORK PUSHES WORKERS BACK INTO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNDER-COUNT → recognition creates rehabilitation liability, so surveys under-report",
+        "DIFFUSION → outsourced sewer cleaning lets a municipal body dispute employer status",
+        "RARE PROSECUTION → first information reports are rare; deaths are framed as accidents",
+        "DELAYED RELIEF → compensation is disputed and families lack documentation to claim",
+        "RETURN → one-time rehabilitation without stable work pushes workers back into sanitation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNDER-COUNT → recognition creates rehabilitation liability, so surveys under-report",
+            "DIFFUSION → outsourced sewer cleaning lets a municipal body dispute employer status"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RARE PROSECUTION → first information reports are rare; deaths are framed as accidents",
+            "DELAYED RELIEF → compensation is disputed and families lack documentation to claim"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RETURN → one-time rehabilitation without stable work pushes workers back into sanitation",
+            "UNDER-COUNT → recognition creates rehabilitation liability, so surveys under-report"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RETURN → one-time rehabilitation without stable work pushes workers back into sanitation.",
+      "source_references": [
+        "Who is responsible for identification and how it can fail",
+        "Why prohibition has not produced abolition",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CASTE-LABOUR PERSISTENCE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CASTE-LABOUR PERSISTENCE",
+          "role": "primary"
+        },
+        {
+          "text": "OCCUPATION LOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIFIC DALIT SUB-CASTES HAVE PERFORMED THE WORK ACROSS GENERATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "REHABILITATION INADEQUACY",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE-TIME CASH AND SHORT TRAINING DO NOT CLEAR SOCIAL",
+          "role": "caution"
+        },
+        {
+          "text": "DEMAND-SIDE PREFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "EMPLOYERS INCLUDING MUNICIPALITIES HIRE FROM TRADITIONAL CASTES",
+          "role": "comparison"
+        },
+        {
+          "text": "SEGREGATION REINFORCED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OCCUPATION LOCK → specific Dalit sub-castes have performed the work across generations",
+        "REHABILITATION INADEQUACY: one-time cash and short training do not clear social barriers",
+        "DEMAND-SIDE PREFERENCE: employers including municipalities hire from traditional castes",
+        "SEGREGATION REINFORCED: the occupation is inherited rather than chosen",
+        "CONSTITUTIONAL ANCHOR → Articles 17, 21 and 23 on untouchability, dignity and forced labour"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OCCUPATION LOCK → specific Dalit sub-castes have performed the work across generations",
+            "REHABILITATION INADEQUACY: one-time cash and short training do not clear social barriers"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEMAND-SIDE PREFERENCE: employers including municipalities hire from traditional castes",
+            "SEGREGATION REINFORCED: the occupation is inherited rather than chosen"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSTITUTIONAL ANCHOR → Articles 17, 21 and 23 on untouchability, dignity and forced labour",
+            "CLOSE DISTINCTION: Open-defecation-free status is not safely managed sanitation, toilet..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Open-defecation-free status is not safely managed sanitation, toilet.",
+      "source_references": [
+        "The caste-labour nexus and what it does to policy",
+        "Rehabilitation against reparation",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE DISCIPLINE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE DISCIPLINE CARD",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCES DIFFER",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMISSION, STATE AND CIVIL-SOCIETY DEATH COUNTS DO NOT AGREE",
+          "role": "caution"
+        },
+        {
+          "text": "CITE ANY FIGURE WITH ITS NAMED SOURCE AND ITS",
+          "role": "evidence"
+        },
+        {
+          "text": "RECORDED DEATHS AGAINST THE INCIDENCE OF ALL UNSAFE CLEANING",
+          "role": "primary"
+        },
+        {
+          "text": "PROFILED-WORKER AND EQUIPMENT TOTALS ARE OUTPUTS, NOT PROOF OF",
+          "role": "caution"
+        },
+        {
+          "text": "PERSISTENCE DESPITE PROHIBITION, RATHER THAN A SINGLE HEADLINE COUNT",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOURCES DIFFER → Commission, State and civil-society death counts do not agree",
+        "RULE → cite any figure with its named source and its date",
+        "DISTINGUISH → recorded deaths against the incidence of all unsafe cleaning",
+        "DASHBOARD → profiled-worker and equipment totals are outputs, not proof of no unsafe entry",
+        "ARGUE → persistence despite prohibition, rather than a single headline count"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SOURCES DIFFER → Commission, State and civil-society death counts do not agree",
+          "DISTINGUISH → recorded deaths against the incidence of all unsafe cleaning",
+          "ARGUE → persistence despite prohibition, rather than a single headline count"
+        ],
+        [
+          "RULE → cite any figure with its named source and its date",
+          "DASHBOARD → profiled-worker and equipment totals are outputs, not proof of no unsafe entry",
+          "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the 2013 prohibition/rehabilitation law,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCES DIFFER → Commission, State and civil-society death counts do not agree",
+            "RULE → cite any figure with its named source and its date"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISTINGUISH → recorded deaths against the incidence of all unsafe cleaning",
+            "DASHBOARD → profiled-worker and equipment totals are outputs, not proof of no unsafe entry"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARGUE → persistence despite prohibition, rather than a single headline count",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the 2013 prohibition/rehabilitation law,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → cite any figure with its named source and its date.",
+      "source_references": [
+        "How the death and incident evidence must be handled",
+        "What the current status statements do and do not establish",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ROUTED OBJECTIVE DEMAND",
+      "structural_type": "labelled-system",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ROUTED OBJECTIVE DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "YEAR AND PAPER",
+          "role": "outcome"
+        },
+        {
+          "text": "2024 PRELIMS GENERAL STUDIES PAPER I, QUESTION NUMBERED 24",
+          "role": "comparison"
+        },
+        {
+          "text": "THE WORLD TOILET ORGANIZATION, RENDERED NEUTRALLY IN THE AUDITED",
+          "role": "evidence"
+        },
+        {
+          "text": "KEY STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL SET-A KEY AVAILABLE LOCALLY; THE ANSWER IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "PACKAGE RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO OPTION, KEY OR INFERRED ANSWER LETTER IS STATED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "YEAR AND PAPER → 2024 Prelims General Studies Paper I, question numbered 24",
+        "DEMAND → the World Toilet Organization, rendered neutrally in the audited ledger",
+        "KEY STATUS → official Set-A key available locally; the answer is not recorded there",
+        "PACKAGE RULE → no option, key or inferred answer letter is stated anywhere here",
+        "COVERAGE → the named body is covered as taught content within the sanitation-dignity frame"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "YEAR AND PAPER → 2024 Prelims General Studies Paper I, question numbered 24",
+            "DEMAND → the World Toilet Organization, rendered neutrally in the audited ledger"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "KEY STATUS → official Set-A key available locally; the answer is not recorded there",
+            "PACKAGE RULE → no option, key or inferred answer letter is stated anywhere here"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COVERAGE → the named body is covered as taught content within the sanitation-dignity frame",
+            "YEAR AND PAPER → 2024 Prelims General Studies Paper I, question numbered 24"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PACKAGE RULE → no option, key or inferred answer letter is stated anywhere here.",
+      "source_references": [
+        "The 2024 objective demand and how it is covered",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-14\\g2\\social-justice-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PEMSR ACT, 2013",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL PROHIBITION STATUTE; STATE GOVERNMENTS IMPLEMENT",
+          "role": "institution"
+        },
+        {
+          "text": "NAMASTE (2022-23)",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINT MOSJE–MOHUA SANITATION-SAFETY INITIATIVE COVERING",
+          "role": "primary"
+        },
+        {
+          "text": "IT CURRENTLY MONITORS SAFAI KARAMCHARI WELFARE, INVESTIGATES COMPLAINTS AND",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOMMENDED REFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "RE-ENACT NCSK AS A PERMANENT STATUTORY COMMISSION WITH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "PEMSR Act, 2013: Central prohibition statute; state governments implement;",
+            "NAMASTE (2022-23): Joint MoSJE–MoHUA sanitation-safety initiative covering",
+            "NCSK: It currently monitors safai karamchari welfare, investigates complaints and",
+            "CAUTION: Recommended reform: re-enact NCSK as a permanent statutory commission with"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Recommended reform: mandate municipal FIRs for every sewer death as a statutory",
+            "CAUTION: A municipal corporation that contracts sewer cleaning to a private firm which",
+            "CAUTION: A sanitation worker who has received rehabilitation cash but returns to sewer",
+            "CAUTION: A city that procures mechanised equipment but stores it unused due to lack of"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Strict enforcement of the prohibition may leave sanitation workers without income",
+            "CAUTION: Mechanisation that merely adds PPE but still requires human entry into sewers does",
+            "CAUTION: NCSK's resolution-continued status means its mandate depends on government will;",
+            "PEMSR Act, 2013, criminalises both manual scavenging (insanitary latrines) and"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

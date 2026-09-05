@@ -1,0 +1,1935 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-15\\g2\\social-justice-15_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-15\\g2\\social-justice-15_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "social-justice-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Labour Social Security, Unorganised and Gig Workers - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 397.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 52,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-15\\g2\\assets\\social-justice-15_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 427.956
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to What the social-security owner holds and how its demand is bounded, and never upgrade a policy document into a statu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 240.556
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 159.688
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THE SOCIAL-SECURITY OWNER HOLDS AND HOW ITS DEMAND IS BOUNDED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 113,
+      "markdown_body_line_end": 130,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT THE SOCIAL-SECURITY OWNER HOLDS AND HOW ITS DEMAND IS BOUNDED",
+      "preview": "START / CONCEPT: FOUNDATION — What the social-security owner holds and how its demand is bounded",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 420
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 463.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 141,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners record the Code on Social Security, 2020 as one of four Labour Codes and record its status precisely: it commenced on 21 November 2025, and final Central Rules were notified in May 2026 for establishments in Central jurisdiction,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 295.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 200.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 163,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COMMENCED CODE AND THE STATUTORY GIG CATEGORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 192,
+      "markdown_body_line_end": 209,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE COMMENCED CODE AND THE STATUTORY GIG CATEGORY",
+      "preview": "START / CONCEPT: FOUNDATION — The commenced Code and the statutory gig category",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 390
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 220,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The definition is narrower than the gig-worker definition because it names the online platform as the means of access, and the owners keep the two apart deliberately, since an answer that uses the two terms interchangeably loses the distinc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 250.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 239,
+      "heading": "VISUAL FIRST",
+      "preview": "THE PLATFORM WORKER AS A NARROWER CATEGORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 284,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE PLATFORM WORKER AS A NARROWER CATEGORY",
+      "preview": "START / CONCEPT: FOUNDATION — The platform worker as a narrower category",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 401
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 321.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 80.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 295,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The aggregator is therefore the financing node of the design rather than a worker category, and the examinable relationship is that the Code recognises the worker, names the aggregator and then attaches a contribution power to the aggregato",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 314,
+      "heading": "VISUAL FIRST",
+      "preview": "THE AGGREGATOR AS THE FINANCING NODE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 359,
+      "heading": "CLOSING RECALL FLOW - CORE - THE AGGREGATOR AS THE FINANCING NODE",
+      "preview": "START / CONCEPT: CORE — The aggregator as the financing node",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 297
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 370,
+      "markdown_body_line_end": 370,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The turnover range and the payout cap are separate limits and both are testable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 360.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 307.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 389,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CONTRIBUTION FRAMEWORK AND BOTH OF ITS LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 434,
+      "heading": "CLOSING RECALL FLOW - CORE - THE CONTRIBUTION FRAMEWORK AND BOTH OF ITS LIMITS",
+      "preview": "START / CONCEPT: CORE — The contribution framework and both of its limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 369
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 321.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 70.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 445,
+      "markdown_body_line_end": 445,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Why a legislative range proves nothing about collection, and never upgrade a policy document into a statute or a tar",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 464,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY A LEGISLATIVE RANGE PROVES NOTHING ABOUT COLLECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 492,
+      "markdown_body_line_end": 509,
+      "heading": "CLOSING RECALL FLOW - CORE - WHY A LEGISLATIVE RANGE PROVES NOTHING ABOUT COLLECTION",
+      "preview": "START / CONCEPT: CORE — Why a legislative range proves nothing about collection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 311
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 520,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The status ladder that governs every claim here Qualified use: Name the rung reached before asserting coverage, financing or delivery.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 340.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 273.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 535,
+      "markdown_body_line_end": 539,
+      "heading": "VISUAL FIRST",
+      "preview": "THE STATUS LADDER THAT DISCIPLINES EVERY CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 567,
+      "markdown_body_line_end": 584,
+      "heading": "CLOSING RECALL FLOW - CORE - THE STATUS LADDER THAT DISCIPLINES EVERY CLAIM",
+      "preview": "START / CONCEPT: CORE — The status ladder that disciplines every claim",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 296
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 321.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 80.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 595,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The national database and what it actually is, and never upgrade a policy document into a statute or a targeted sche",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 614,
+      "heading": "VISUAL FIRST",
+      "preview": "THE NATIONAL DATABASE AND WHAT IT ACTUALLY IS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 659,
+      "heading": "CLOSING RECALL FLOW - CORE - THE NATIONAL DATABASE AND WHAT IT ACTUALLY IS",
+      "preview": "START / CONCEPT: CORE — The national database and what it actually is",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 301
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 449.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 670,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to From registration to a benefit that is actually received, and never upgrade a policy document into a statute or a ta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 281.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 200.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 692,
+      "heading": "VISUAL FIRST",
+      "preview": "FROM REGISTRATION TO A BENEFIT THAT IS ACTUALLY RECEIVED",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 721,
+      "markdown_body_line_end": 738,
+      "heading": "CLOSING RECALL FLOW - CORE - FROM REGISTRATION TO A BENEFIT THAT IS ACTUALLY RECEIVED",
+      "preview": "START / CONCEPT: CORE — From registration to a benefit that is actually received",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 506
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 749,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Occupation-specific welfare through the construction boards - The formal-sector institutions that continue to deliver Qualified use: Identify which institution owns the worker before judging whether they are protected.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 346.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 265.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 771,
+      "heading": "VISUAL FIRST",
+      "preview": "OCCUPATION-SPECIFIC BOARDS AND FORMAL-SECTOR INSTITUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 800,
+      "markdown_body_line_end": 817,
+      "heading": "CLOSING RECALL FLOW - CORE - OCCUPATION-SPECIFIC BOARDS AND FORMAL-SECTOR INSTITUTIONS",
+      "preview": "START / CONCEPT: CORE — Occupation-specific boards and formal-sector institutions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 331
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 828,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The scale anchor and the boundary on using it Qualified use: Cite a projection with its issuing body, year and scenario status attached.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 363.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 296.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 843,
+      "markdown_body_line_end": 847,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SCALE ANCHOR AND THE LIMIT ON QUOTING IT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 892,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SCALE ANCHOR AND THE LIMIT ON QUOTING IT",
+      "preview": "START / CONCEPT: CORE — The scale anchor and the limit on quoting it",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 321.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 90.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 903,
+      "markdown_body_line_end": 903,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Algorithmic management as a distinct policy problem Qualified use: Separate the financing question from the workplace-power question in a platform answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 922,
+      "heading": "VISUAL FIRST",
+      "preview": "ALGORITHMIC MANAGEMENT AS A SEPARATE PROBLEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 315.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 967,
+      "heading": "CLOSING RECALL FLOW - CORE - ALGORITHMIC MANAGEMENT AS A SEPARATE PROBLEM",
+      "preview": "START / CONCEPT: CORE — Algorithmic management as a separate problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 590
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 612.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 321.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 978,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Portability against interoperability Qualified use: Test a portability claim against records, eligibility, claims and grievance across borders.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 139.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 72.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 993,
+      "markdown_body_line_end": 997,
+      "heading": "VISUAL FIRST",
+      "preview": "PORTABILITY AGAINST INTEROPERABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1042,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PORTABILITY AGAINST INTEROPERABILITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Portability against interoperability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 470
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1053,
+      "markdown_body_line_end": 1053,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Financing design and the rules that must not be invented, and never upgrade a policy document into a statute or a ta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 315.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1068,
+      "markdown_body_line_end": 1075,
+      "heading": "VISUAL FIRST",
+      "preview": "FINANCING DESIGN AND THE RULES THAT MUST NOT BE INVENTED",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1104,
+      "markdown_body_line_end": 1121,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FINANCING DESIGN AND THE RULES THAT MUST NOT BE INVENTED",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Financing design and the rules that must not be invented",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 312
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1132,
+      "markdown_body_line_end": 1132,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The 2024 objective demand and how it is covered - The reform design the owners recommend and its costs Qualified use: Close with a graded verdict, a named correction and an explicit statement of what is not claimed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 250.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1154,
+      "heading": "VISUAL FIRST",
+      "preview": "THE ROUTED OBJECTIVE DEMAND AND THE REFORM ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1182,
+      "markdown_body_line_end": 1190,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Social Justice | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II; cross-reference GS-III (labour-market reform — see `Economy/basic/22`). **Core area:** Code on Social Security, 2020; enacted-versus-commenced labour-code s",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 671.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1217,
+      "heading": "1. Visual foundation",
+      "preview": "SOCIAL-SECURITY ARCHITECTURE: ENACTMENT IS NOT COMMENCEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 22,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 649.624
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 418.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1227,
+      "markdown_body_line_end": 1236,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 268.29
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1338,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** India has enacted a forward-looking social-security framework for gig and platform workers, including definitions and an aggregator-contribution design, but a commenced framework is not the same as a funded and delivered ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 486.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 399.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1364,
+      "markdown_body_line_end": 1365,
+      "heading": "11A. Answer architecture (10/15/20-mark support)",
+      "preview": "**Reasoned verdict:** Recognition matters only when portable, financed and contestable benefits reduce risk without allowing platforms or databases to evade accountability.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 94.024
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 49.356
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1381,
+      "markdown_body_line_end": 1383,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 646.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 551.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1391,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 500.024
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 413.622
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1397,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 374.422
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 329.754
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1402,
+      "markdown_body_line_end": 1419,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE ROUTED OBJECTIVE DEMAND AND THE REFORM ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The routed objective demand and the reform architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 366
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 294.754
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2245,
+      "markdown_body_line_end": 2247,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 315.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 220.024
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2253,
+      "markdown_body_line_end": 2255,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 168.424
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 82.022
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2261,
+      "markdown_body_line_end": 2261,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2526,
+      "markdown_body_line_end": 2535,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Social Justice | **Tier:** Advanced | **GS Paper:** GS-II; cross-reference GS-III (labour-market reform — see `Economy/advanced/22`). **Core area:** Enactment-versus-delivery analysis; Code on Social Security, aggregator-contri",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 703.491
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 587.824
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2539,
+      "markdown_body_line_end": 2563,
+      "heading": "1. Architecture",
+      "preview": "FROM LEGAL TEXT TO EFFECTIVE SOCIAL SECURITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 565.824
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 324.824
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2573,
+      "markdown_body_line_end": 2580,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 411.49
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2776,
+      "markdown_body_line_end": 2783,
+      "heading": "Labour Social Security, Unorganised and Gig Workers: ANSWER-WRITING SPINE",
+      "preview": "NAME THE DEPRIVATION OR CLAIM -> IDENTIFY THE RIGHT-HOLDER AND THE DUTY-BEARER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 244.491
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 173.491
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2793,
+      "markdown_body_line_end": 2800,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Status ladder",
+      "preview": "RUNG 1 -> enacted: the Code on Social Security, 2020 is passed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2804,
+      "markdown_body_line_end": 2810,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Three statutory categories",
+      "preview": "GIG WORKER -> earns from work outside a traditional employer-employee relationship",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2814,
+      "markdown_body_line_end": 2820,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Contribution framework card",
+      "preview": "PROVISION -> Section 114 of the Code on Social Security, 2020",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2824,
+      "markdown_body_line_end": 2830,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Registration to benefit",
+      "preview": "DATABASE ENTRY -> identity recorded with a universal account number since 2021",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2834,
+      "markdown_body_line_end": 2840,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Delivery institutions",
+      "preview": "PENSION ROUTE -> voluntary, contributory, matching contributions, separate enrolment required",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2844,
+      "markdown_body_line_end": 2850,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Scale anchor card",
+      "preview": "SOURCE -> a 2022 report of the national policy think tank",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2860,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Platform-power chain",
+      "preview": "ALGORITHMIC CONTROL -> ratings, incentives, task allocation and deactivation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2864,
+      "markdown_body_line_end": 2870,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Portability test",
+      "preview": "PORTABLE CARD -> a universal account number that follows the worker",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2874,
+      "markdown_body_line_end": 2880,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Financing mix",
+      "preview": "TAX-FINANCED FLOOR -> reduces exclusion of low and irregular earners; higher fiscal cost",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2884,
+      "markdown_body_line_end": 2891,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Prohibited inventions",
+      "preview": "NO THRESHOLD -> no ninety-day or one-hundred-and-twenty-day national eligibility rule",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2895,
+      "markdown_body_line_end": 2902,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Routed objective demand",
+      "preview": "YEAR AND PAPER -> 2024 Prelims General Studies Paper I, question numbered 100",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2906,
+      "markdown_body_line_end": 2912,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Reform architecture and its costs",
+      "preview": "PUBLISH STATUS -> provision-specific commencement and scheme status made readable",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    }
+  ]
+}

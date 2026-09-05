@@ -1,0 +1,1065 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-01",
+  "subject": "World-History",
+  "title": "ENLIGHTENMENT AND AGE OF REVOLUTIONS OVERVIEW",
+  "short_route": "ENLIGHTENMENT STARTING CONDITION → THINKER-TO-INSTITUTION MAP → IDEAS, CRISIS AND FORCE → PARALLEL ATLANTIC ROUTES → RIGHTS AND EXCLUSIONS LEDGER → LIBERALISM VERSUS CONSERVATISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-01\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-01-02-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "9493fc8b5f2f04323e2676edaef4590d6b572409658dd7fbdf99ab9ab1c580e4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ENLIGHTENMENT STARTING CONDITION",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ENLIGHTENMENT STARTING CONDITION",
+          "role": "primary"
+        },
+        {
+          "text": "INHERITED AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CHURCH, DYNASTY, PRIVILEGE BY BIRTH",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "REASON, NATURE, HUMANITY, FREEDOM, HAPPINESS",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "BY WHAT RIGHT DOES POWER COMMAND?",
+          "role": "mechanism"
+        },
+        {
+          "text": "AUTHORITY MUST JUSTIFY ITSELF IN PUBLIC TERMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INHERITED AUTHORITY → Church, dynasty, privilege by birth",
+        "NEW TEST → reason, nature, humanity, freedom, happiness",
+        "POLITICAL QUESTION → by what right does power command?",
+        "RESULT → authority must justify itself in public terms"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INHERITED AUTHORITY → Church, dynasty, privilege by birth",
+            "NEW TEST → reason, nature, humanity, freedom, happiness"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICAL QUESTION → by what right does power command?",
+            "RESULT → authority must justify itself in public terms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INHERITED AUTHORITY → Church, dynasty, privilege by birth",
+            "NEW TEST → reason, nature, humanity, freedom, happiness"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → authority must justify itself in public terms.",
+      "source_references": [
+        "The eighteenth-century intellectual break"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THINKER-TO-INSTITUTION MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THINKER-TO-INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "NATURAL RIGHTS + CONSENT",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMITED GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATION OF POWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONAL RESTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "POPULAR SOVEREIGNTY",
+          "role": "outcome"
+        },
+        {
+          "text": "PEOPLE AS SOURCE OF AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CLERICAL CRITICISM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOCKE → natural rights + consent → limited government",
+        "MONTESQUIEU → separation of powers → constitutional restraint",
+        "ROUSSEAU → popular sovereignty → people as source of authority",
+        "VOLTAIRE → clerical criticism → secular public debate"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LOCKE → natural rights + consent → limited government",
+          "ROUSSEAU → popular sovereignty → people as source of authority",
+          "LOCKE → natural rights + consent → limited government"
+        ],
+        [
+          "MONTESQUIEU → separation of powers → constitutional restraint",
+          "VOLTAIRE → clerical criticism → secular public debate",
+          "MONTESQUIEU → separation of powers → constitutional restraint"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOCKE → natural rights + consent → limited government",
+            "MONTESQUIEU → separation of powers → constitutional restraint"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ROUSSEAU → popular sovereignty → people as source of authority",
+            "VOLTAIRE → clerical criticism → secular public debate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCKE → natural rights + consent → limited government",
+            "MONTESQUIEU → separation of powers → constitutional restraint"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VOLTAIRE → clerical criticism → secular public debate.",
+      "source_references": [
+        "Locke: rights, consent and limited rule",
+        "Montesquieu: power checked by power",
+        "Rousseau and popular sovereignty"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "IDEAS, CRISIS AND FORCE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IDEAS, CRISIS AND FORCE",
+          "role": "primary"
+        },
+        {
+          "text": "MAKE INHERITED PRIVILEGE ILLEGITIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL STRESS, FOOD STRESS, IMPERIAL GRIEVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSEMBLIES, PAMPHLETS, CROWDS, ORGANISED GROUPS",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGITIMACY + MOMENTUM + FORCE MUST INTERACT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "IDEAS → make inherited privilege illegitimate",
+        "CRISIS → fiscal stress, food stress, imperial grievance",
+        "MOBILISATION → assemblies, pamphlets, crowds, organised groups",
+        "REVOLUTION → legitimacy + momentum + force must interact"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDEAS → make inherited privilege illegitimate",
+            "CRISIS → fiscal stress, food stress, imperial grievance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOBILISATION → assemblies, pamphlets, crowds, organised groups",
+            "REVOLUTION → legitimacy + momentum + force must interact"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IDEAS → make inherited privilege illegitimate",
+            "CRISIS → fiscal stress, food stress, imperial grievance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REVOLUTION → legitimacy + momentum + force must interact.",
+      "source_references": [
+        "From ideas to revolutionary action"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PARALLEL ATLANTIC ROUTES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PARALLEL ATLANTIC ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL EMPIRE CHALLENGED",
+          "role": "outcome"
+        },
+        {
+          "text": "FEDERAL REPUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL PRIVILEGE CHALLENGED",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL-LEGAL RUPTURE",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS, CONSENT, SOVEREIGNTY, CONSTITUTIONAL ARGUMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "AMERICA BROKE A LINK; FRANCE BROKE A STRUCTURE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "AMERICA → external empire challenged → federal republic",
+        "FRANCE → internal privilege challenged → social-legal rupture",
+        "SHARED → rights, consent, sovereignty, constitutional argument",
+        "DIFFERENCE → America broke a link; France broke a structure"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AMERICA → external empire challenged → federal republic",
+          "SHARED → rights, consent, sovereignty, constitutional argument",
+          "AMERICA → external empire challenged → federal republic"
+        ],
+        [
+          "FRANCE → internal privilege challenged → social-legal rupture",
+          "DIFFERENCE → America broke a link; France broke a structure",
+          "FRANCE → internal privilege challenged → social-legal rupture"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AMERICA → external empire challenged → federal republic",
+            "FRANCE → internal privilege challenged → social-legal rupture"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHARED → rights, consent, sovereignty, constitutional argument",
+            "DIFFERENCE → America broke a link; France broke a structure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AMERICA → external empire challenged → federal republic",
+            "FRANCE → internal privilege challenged → social-legal rupture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIFFERENCE → America broke a link; France broke a structure.",
+      "source_references": [
+        "America and France on the same axes"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RIGHTS AND EXCLUSIONS LEDGER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIGHTS AND EXCLUSIONS LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "UNIVERSAL CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS BELONG TO HUMAN BEINGS OR CITIZENS",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY BOUNDARY",
+          "role": "evidence"
+        },
+        {
+          "text": "PROPERTY, RACE, SEX AND COLONIAL STATUS RESTRICT MEMBERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "PROCLAIMED EQUALITY OUTRUNS POLITICAL PRACTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUDED GROUPS LATER USE THE SAME GRAMMAR TO DEMAND",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "UNIVERSAL CLAIM → rights belong to human beings or citizens",
+        "EARLY BOUNDARY → property, race, sex and colonial status restrict membership",
+        "CONTRADICTION → proclaimed equality outruns political practice",
+        "LEGACY → excluded groups later use the same grammar to demand entry"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "UNIVERSAL CLAIM → rights belong to human beings or citizens",
+          "CONTRADICTION → proclaimed equality outruns political practice",
+          "UNIVERSAL CLAIM → rights belong to human beings or citizens"
+        ],
+        [
+          "EARLY BOUNDARY → property, race, sex and colonial status restrict membership",
+          "LEGACY → excluded groups later use the same grammar to demand entry",
+          "EARLY BOUNDARY → property, race, sex and colonial status restrict membership"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNIVERSAL CLAIM → rights belong to human beings or citizens",
+            "EARLY BOUNDARY → property, race, sex and colonial status restrict membership"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTRADICTION → proclaimed equality outruns political practice",
+            "LEGACY → excluded groups later use the same grammar to demand entry"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNIVERSAL CLAIM → rights belong to human beings or citizens",
+            "EARLY BOUNDARY → property, race, sex and colonial status restrict membership"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEGACY → excluded groups later use the same grammar to demand entry.",
+      "source_references": [
+        "The American constitutional route",
+        "The French social-revolutionary route"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LIBERALISM VERSUS CONSERVATISM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LIBERALISM VERSUS CONSERVATISM",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSENT, RIGHTS, LAW, REPRESENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ORDER, PROPERTY, RELIGION, GRADUAL CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIBERAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "RESTRICTED FRANCHISE AND IMPERIAL COMPATIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "CONSERVATIVE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "CENSORSHIP AND DYNASTIC REPRESSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LIBERALISM → consent, rights, law, representation",
+        "CONSERVATISM → order, property, religion, gradual change",
+        "LIBERAL RISK → restricted franchise and imperial compatibility",
+        "CONSERVATIVE RISK → censorship and dynastic repression"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LIBERALISM → consent, rights, law, representation",
+          "LIBERAL RISK → restricted franchise and imperial compatibility",
+          "LIBERALISM → consent, rights, law, representation"
+        ],
+        [
+          "CONSERVATISM → order, property, religion, gradual change",
+          "CONSERVATIVE RISK → censorship and dynastic repression",
+          "CONSERVATISM → order, property, religion, gradual change"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LIBERALISM → consent, rights, law, representation",
+            "CONSERVATISM → order, property, religion, gradual change"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIBERAL RISK → restricted franchise and imperial compatibility",
+            "CONSERVATIVE RISK → censorship and dynastic repression"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIBERALISM → consent, rights, law, representation",
+            "CONSERVATISM → order, property, religion, gradual change"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIBERAL RISK → restricted franchise and imperial compatibility.",
+      "source_references": [
+        "Liberalism and conservatism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NATIONALISM'S CHANGING ALLIANCES",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NATIONALISM'S CHANGING ALLIANCES",
+          "role": "primary"
+        },
+        {
+          "text": "NATION CLAIMED AS PROPER UNIT OF SOVEREIGNTY",
+          "role": "outcome"
+        },
+        {
+          "text": "LIBERAL ALLIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONS AND NATIONAL SELF-RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSERVATIVE USE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE-LED UNIFICATION AND DISCIPLINE",
+          "role": "institution"
+        },
+        {
+          "text": "LATER FORMS",
+          "role": "comparison"
+        },
+        {
+          "text": "RACIAL, IMPERIAL AND ANTI-COLONIAL NATIONALISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE → nation claimed as proper unit of sovereignty",
+        "LIBERAL ALLIANCE → constitutions and national self-rule",
+        "CONSERVATIVE USE → state-led unification and discipline",
+        "LATER FORMS → racial, imperial and anti-colonial nationalisms"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CORE → nation claimed as proper unit of sovereignty",
+            "LIBERAL ALLIANCE → constitutions and national self-rule"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSERVATIVE USE → state-led unification and discipline",
+            "LATER FORMS → racial, imperial and anti-colonial nationalisms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CORE → nation claimed as proper unit of sovereignty",
+            "LIBERAL ALLIANCE → constitutions and national self-rule"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATER FORMS → racial, imperial and anti-colonial nationalisms.",
+      "source_references": [
+        "Nationalism as a mobile doctrine"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CAPITALISM'S SOCIAL MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAPITALISM'S SOCIAL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRIVATE OWNERSHIP + PROFIT",
+          "role": "outcome"
+        },
+        {
+          "text": "INVESTMENT AND FACTORY PRODUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WAGE LABOUR",
+          "role": "evidence"
+        },
+        {
+          "text": "WORKERS DEPEND ON EMPLOYERS FOR LIVELIHOOD",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT GROWTH",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCTIVE CAPACITY AND CONSUMPTION EXPAND",
+          "role": "comparison"
+        },
+        {
+          "text": "UNREGULATED COST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRIVATE OWNERSHIP + PROFIT → investment and factory production",
+        "WAGE LABOUR → workers depend on employers for livelihood",
+        "OUTPUT GROWTH → productive capacity and consumption expand",
+        "UNREGULATED COST → insecurity, long hours and class conflict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRIVATE OWNERSHIP + PROFIT → investment and factory production",
+            "WAGE LABOUR → workers depend on employers for livelihood"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTPUT GROWTH → productive capacity and consumption expand",
+            "UNREGULATED COST → insecurity, long hours and class conflict"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRIVATE OWNERSHIP + PROFIT → investment and factory production",
+            "WAGE LABOUR → workers depend on employers for livelihood"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNREGULATED COST → insecurity, long hours and class conflict.",
+      "source_references": [
+        "Capitalism and industrial society"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SOCIALIST FAMILY TREE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SOCIALIST FAMILY TREE",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL OWNERSHIP OR CONTROL; MANY METHODS",
+          "role": "outcome"
+        },
+        {
+          "text": "REVOLUTION + CENTRAL PLANNING + ONE-PARTY PRACTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL DEMOCRACY",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTIONS + REGULATION + REDISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "ASK WHO OWNS, WHO DECIDES AND BY WHAT METHOD",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SOCIALISM → social ownership or control; many methods",
+        "COMMUNISM → revolution + central planning + one-party practice",
+        "SOCIAL DEMOCRACY → elections + regulation + redistribution",
+        "TEST → ask who owns, who decides and by what method"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOCIALISM → social ownership or control; many methods",
+            "COMMUNISM → revolution + central planning + one-party practice"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOCIAL DEMOCRACY → elections + regulation + redistribution",
+            "TEST → ask who owns, who decides and by what method"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOCIALISM → social ownership or control; many methods",
+            "COMMUNISM → revolution + central planning + one-party practice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → ask who owns, who decides and by what method.",
+      "source_references": [
+        "Socialism, communism and social democracy"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LABOUR PRESSURE BECOMES LAW",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LABOUR PRESSURE BECOMES LAW",
+          "role": "primary"
+        },
+        {
+          "text": "ENGLAND REPEALS ANTI-UNION LAWS",
+          "role": "outcome"
+        },
+        {
+          "text": "CHARTISM LINKS LABOUR TO FRANCHISE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE UNIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "COLLECTIVE BARGAINING ENTERS MODERN POLITICS",
+          "role": "primary"
+        },
+        {
+          "text": "FACTORY LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "LAISSEZ-FAIRE YIELDS TO EVIDENCE OF HARM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1824 → England repeals anti-union laws",
+        "1830s-40s → Chartism links labour to franchise",
+        "TRADE UNIONS → collective bargaining enters modern politics",
+        "FACTORY LAW → laissez-faire yields to evidence of harm"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1824 → England repeals anti-union laws",
+            "1830s-40s → Chartism links labour to franchise"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRADE UNIONS → collective bargaining enters modern politics",
+            "FACTORY LAW → laissez-faire yields to evidence of harm"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1824 → England repeals anti-union laws",
+            "1830s-40s → Chartism links labour to franchise"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FACTORY LAW → laissez-faire yields to evidence of harm.",
+      "source_references": [
+        "Trade unions and the constitutional social question"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "WELFARE-STATE CAUSAL SYNTHESIS",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WELFARE-STATE CAUSAL SYNTHESIS",
+          "role": "institution"
+        },
+        {
+          "text": "SOCIALIST AND LABOUR DEMANDS FOR SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPRESSION DESTROYS PRIVATE SAFEGUARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "TOTAL WAR EXPANDS ADMINISTRATION AND SOLIDARITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL SECURITY 1935; BEVERIDGE REPORT 1942",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PROGRAMME → socialist and labour demands for security",
+        "OPENING → depression destroys private safeguards",
+        "CAPACITY → total war expands administration and solidarity",
+        "OUTPUT → Social Security 1935; Beveridge Report 1942"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROGRAMME → socialist and labour demands for security",
+            "OPENING → depression destroys private safeguards"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPACITY → total war expands administration and solidarity",
+            "OUTPUT → Social Security 1935; Beveridge Report 1942"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROGRAMME → socialist and labour demands for security",
+            "OPENING → depression destroys private safeguards"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTPUT → Social Security 1935; Beveridge Report 1942.",
+      "source_references": [
+        "The welfare-state synthesis and final verdict"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "OVERVIEW ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "OVERVIEW ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ENLIGHTENMENT CLIMATE OR NAMED DOCTRINE",
+          "role": "outcome"
+        },
+        {
+          "text": "THINKER, DOCUMENT, INSTITUTION AND SOCIAL BASE",
+          "role": "institution"
+        },
+        {
+          "text": "FORM, TIMING, DEPTH AND EFFECT ON SOCIETY",
+          "role": "evidence"
+        },
+        {
+          "text": "EXCLUSIONS, VARIANT FORMS AND NON-LINEAR OUTCOMES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → Enlightenment climate or named doctrine",
+        "EVIDENCE → thinker, document, institution and social base",
+        "ANALYSE → form, timing, depth and effect on society",
+        "QUALIFY → exclusions, variant forms and non-linear outcomes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → Enlightenment climate or named doctrine",
+            "EVIDENCE → thinker, document, institution and social base"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSE → form, timing, depth and effect on society",
+            "QUALIFY → exclusions, variant forms and non-linear outcomes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → Enlightenment climate or named doctrine",
+            "EVIDENCE → thinker, document, institution and social base"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → exclusions, variant forms and non-linear outcomes.",
+      "source_references": [
+        "The welfare-state synthesis and final verdict"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OLD NCERT DIRECTLY SAYS DISCONTENT ALONE IS NOT ENOUGH",
+          "role": "caution"
+        },
+        {
+          "text": "THEREFORE, THE CLEAN FORMULATION IS",
+          "role": "comparison"
+        },
+        {
+          "text": "IDEAS PROVIDED LEGITIMACY, CRISES PROVIDED MOMENTUM, AND MOBILISED GROUPS",
+          "role": "evidence"
+        },
+        {
+          "text": "A COMPACT UPSC LINE",
+          "role": "primary"
+        },
+        {
+          "text": "AMERICA INTERNATIONALISED REPUBLICAN CONSTITUTIONALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "FRANCE UNIVERSALISED THE LANGUAGE OF CITIZENSHIP, NATION AND ANTI-FEUDAL",
+          "role": "comparison"
+        },
+        {
+          "text": "OLD NCERT SAYS REVOLUTIONARY IDEAS SPREAD BEYOND THEIR PLACE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Old NCERT directly says discontent alone is not enough; revolutionary thinking and ideals must precede revolutionary action.",
+            "CAUTION: Therefore, the clean formulation is: ideas provided legitimacy, crises provided momentum, and mobilised groups provided force .",
+            "CAUTION: A compact UPSC line: America internationalised republican constitutionalism",
+            "France universalised the language of citizenship, nation and anti-feudal transformation."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Old NCERT says revolutionary ideas spread beyond their place of origin and influenced other peoples suffering under oppressive governments.",
+            "CAUTION: Later 19th-century constitutional and nationalist politics across Europe drew heavily on this rights-sovereignty vocabulary.",
+            "CAUTION: In Indian-context answers, use this cautiously: the direct actors differ, but the wider modern language",
+            "of liberty, equality, citizenship, representation and sovereignty becomes part of the same global political inheritance."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Do not overclaim direct straight-line influence on every anti-colonial movement",
+            "say these revolutions created a worldwide grammar of modern politics .",
+            "Old NCERT links the Enlightenment with attacks on privilege and with the rise of nationalism.",
+            "Rousseau = popular sovereignty; Montesquieu = constitutional distribution of power; Locke = natural rights."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

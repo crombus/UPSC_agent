@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-13",
+  "subject": "World-History",
+  "title": "RUSSIAN REVOLUTION AND USSR UNDER STALIN",
+  "short_route": "UNFINISHED REVOLUTION AFTER 1905 → WAR-TO-COLLAPSE CHAIN → DUAL-POWER MECHANISM → FEBRUARY VERSUS OCTOBER → PROVISIONAL GOVERNMENT FAILURE → BOLSHEVIK CONSOLIDATION TOOLKIT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-13-deep-review-2026-09-01-g2.json",
+  "ascii_spec_sha256": "c241c3b771d3c8d74d8bdd164f580f4a8b5ccc8c1615a15054181388acdc3887",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "UNFINISHED REVOLUTION AFTER 1905",
+      "structural_type": "causal-system",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "UNFINISHED REVOLUTION AFTER 1905",
+          "role": "primary"
+        },
+        {
+          "text": "DEFEAT BY JAPAN",
+          "role": "outcome"
+        },
+        {
+          "text": "UNREST AND OCTOBER MANIFESTO",
+          "role": "comparison"
+        },
+        {
+          "text": "PROMISED BUT FIRST TWO DISSOLVED",
+          "role": "evidence"
+        },
+        {
+          "text": "STOLYPIN REFORMS REACH TOO FEW",
+          "role": "primary"
+        },
+        {
+          "text": "REGIME SURVIVES WITHOUT SOLVING LEGITIMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "THE 1905 CRISIS, FEBRUARY AND OCTOBER 1917 REVOLUTIONS, CIVIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFEAT BY JAPAN → unrest and October Manifesto",
+        "DUMA → promised but first two dissolved",
+        "LAND → Stolypin reforms reach too few",
+        "RESULT → regime survives without solving legitimacy",
+        "MUST REMEMBER: The 1905 crisis, February and October 1917 revolutions, Civil War, War"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFEAT BY JAPAN → unrest and October Manifesto",
+            "DUMA → promised but first two dissolved"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAND → Stolypin reforms reach too few",
+            "RESULT → regime survives without solving legitimacy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: The 1905 crisis, February and October 1917 revolutions, Civil War, War",
+            "Communism, NEP, Lenin's death and Stalin's consolidation form a process rather than one inevitable Bolshevik event."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Communism, NEP, Lenin's death and Stalin's consolidation form a process rather than one inevitable Bolshevik event.",
+      "source_references": [
+        "Why 1905 did not settle the crisis",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WAR-TO-COLLAPSE CHAIN",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WAR-TO-COLLAPSE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "OLD WEAKNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTOCRACY, LAND AND LABOUR CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "WORLD WAR",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFEAT, SHORTAGE AND TRANSPORT FAILURE",
+          "role": "primary"
+        },
+        {
+          "text": "RIOTS, STRIKES AND MUTINY",
+          "role": "outcome"
+        },
+        {
+          "text": "2 MARCH 1917",
+          "role": "comparison"
+        },
+        {
+          "text": "NICHOLAS II ABDICATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OLD WEAKNESS → autocracy, land and labour conflict",
+        "WORLD WAR → defeat, shortage and transport failure",
+        "PETROGRAD → riots, strikes and mutiny",
+        "2 MARCH 1917 → Nicholas II abdicates"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OLD WEAKNESS → autocracy, land and labour conflict",
+            "WORLD WAR → defeat, shortage and transport failure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PETROGRAD → riots, strikes and mutiny",
+            "2 MARCH 1917 → Nicholas II abdicates"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OLD WEAKNESS → autocracy, land and labour conflict",
+            "WORLD WAR → defeat, shortage and transport failure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WORLD WAR → defeat, shortage and transport failure.",
+      "source_references": [
+        "War converts weakness into collapse",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DUAL-POWER MECHANISM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DUAL-POWER MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PROVISIONAL GOVERNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMAL STATE OFFICE",
+          "role": "institution"
+        },
+        {
+          "text": "PETROGRAD SOVIET",
+          "role": "evidence"
+        },
+        {
+          "text": "SOLDIER AND WORKER LOYALTY",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNMENT DELAYS DECISIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORITY EXISTS IN TWO INCOMPATIBLE CENTRES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROVISIONAL GOVERNMENT → formal state office",
+        "PETROGRAD SOVIET → soldier and worker loyalty",
+        "WAR/LAND → government delays decisions",
+        "RESULT → authority exists in two incompatible centres"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PROVISIONAL GOVERNMENT → formal state office",
+          "WAR/LAND → government delays decisions",
+          "PROVISIONAL GOVERNMENT → formal state office"
+        ],
+        [
+          "PETROGRAD SOVIET → soldier and worker loyalty",
+          "RESULT → authority exists in two incompatible centres",
+          "PETROGRAD SOVIET → soldier and worker loyalty"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROVISIONAL GOVERNMENT → formal state office",
+            "PETROGRAD SOVIET → soldier and worker loyalty"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WAR/LAND → government delays decisions",
+            "RESULT → authority exists in two incompatible centres"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROVISIONAL GOVERNMENT → formal state office",
+            "PETROGRAD SOVIET → soldier and worker loyalty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → authority exists in two incompatible centres.",
+      "source_references": [
+        "Dual power after abdication",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FEBRUARY VERSUS OCTOBER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FEBRUARY VERSUS OCTOBER",
+          "role": "comparison"
+        },
+        {
+          "text": "BROAD UPRISING AND TSARIST COLLAPSE",
+          "role": "outcome"
+        },
+        {
+          "text": "PREPARED BOLSHEVIK SEIZURE",
+          "role": "comparison"
+        },
+        {
+          "text": "NICHOLAS ABDICATES",
+          "role": "evidence"
+        },
+        {
+          "text": "MINISTERS ARRESTED, PARTY TAKES POWER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "FEBRUARY → broad uprising and tsarist collapse",
+        "OCTOBER → prepared Bolshevik seizure",
+        "FEBRUARY → Nicholas abdicates",
+        "OCTOBER → ministers arrested, party takes power"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FEBRUARY → broad uprising and tsarist collapse",
+          "FEBRUARY → Nicholas abdicates",
+          "FEBRUARY → broad uprising and tsarist collapse"
+        ],
+        [
+          "OCTOBER → prepared Bolshevik seizure",
+          "OCTOBER → ministers arrested, party takes power",
+          "OCTOBER → prepared Bolshevik seizure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FEBRUARY → broad uprising and tsarist collapse",
+            "OCTOBER → prepared Bolshevik seizure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FEBRUARY → Nicholas abdicates",
+            "OCTOBER → ministers arrested, party takes power"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FEBRUARY → broad uprising and tsarist collapse",
+            "OCTOBER → prepared Bolshevik seizure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FEBRUARY → Nicholas abdicates; OCTOBER → ministers arrested, party takes power.",
+      "source_references": [
+        "War converts weakness into collapse",
+        "October as organised seizure",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PROVISIONAL GOVERNMENT FAILURE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROVISIONAL GOVERNMENT FAILURE",
+          "role": "primary"
+        },
+        {
+          "text": "WAR CONTINUES",
+          "role": "outcome"
+        },
+        {
+          "text": "POPULAR SUPPORT FALLS",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND/ELECTIONS DELAYED",
+          "role": "evidence"
+        },
+        {
+          "text": "RURAL AND DEMOCRATIC TRUST FALLS",
+          "role": "primary"
+        },
+        {
+          "text": "ECONOMIC LEGITIMACY COLLAPSES",
+          "role": "outcome"
+        },
+        {
+          "text": "BOLSHEVIKS GAIN ORGANISATIONAL PRESTIGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WAR CONTINUES → popular support falls",
+        "LAND/ELECTIONS DELAYED → rural and democratic trust falls",
+        "SHORTAGES → economic legitimacy collapses",
+        "KORNILOV → Bolsheviks gain organisational prestige"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WAR CONTINUES → popular support falls",
+            "LAND/ELECTIONS DELAYED → rural and democratic trust falls"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHORTAGES → economic legitimacy collapses",
+            "KORNILOV → Bolsheviks gain organisational prestige"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WAR CONTINUES → popular support falls",
+            "LAND/ELECTIONS DELAYED → rural and democratic trust falls"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LAND/ELECTIONS DELAYED → rural and democratic trust falls.",
+      "source_references": [
+        "Why the Provisional Government failed",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BOLSHEVIK CONSOLIDATION TOOLKIT",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BOLSHEVIK CONSOLIDATION TOOLKIT",
+          "role": "primary"
+        },
+        {
+          "text": "LAND AND WORKER MEASURES",
+          "role": "outcome"
+        },
+        {
+          "text": "EXIT WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "BREST-LITOVSK, MARCH 1918",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSEMBLY DISPERSED, CHEKA AND RED TERROR",
+          "role": "institution"
+        },
+        {
+          "text": "CIVIL WAR VICTORY THEN NEP",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DECREE → land and worker measures",
+        "EXIT WAR → Brest-Litovsk, March 1918",
+        "COERCION → Assembly dispersed, Cheka and Red Terror",
+        "SURVIVAL → Civil War victory then NEP"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DECREE → land and worker measures",
+            "EXIT WAR → Brest-Litovsk, March 1918"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COERCION → Assembly dispersed, Cheka and Red Terror",
+            "SURVIVAL → Civil War victory then NEP"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DECREE → land and worker measures",
+            "EXIT WAR → Brest-Litovsk, March 1918"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COERCION → Assembly dispersed, Cheka and Red Terror.",
+      "source_references": [
+        "Decrees and constitutional closure",
+        "Brest-Litovsk and strategic retreat",
+        "Civil War and coercive consolidation",
+        "NEP and bounded market recovery",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WHY THE REDS WON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHY THE REDS WON",
+          "role": "primary"
+        },
+        {
+          "text": "LENIN AND TROTSKY FIRMER",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL RUSSIAN CORE CONTROLLED",
+          "role": "comparison"
+        },
+        {
+          "text": "WHITES DIVIDED IN AIM",
+          "role": "evidence"
+        },
+        {
+          "text": "REDS CLAIM DEFENCE OF RUSSIA",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LEADERSHIP → Lenin and Trotsky firmer",
+        "GEOGRAPHY → central Russian core controlled",
+        "OPPONENT → Whites divided in aim",
+        "INTERVENTION → Reds claim defence of Russia"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LEADERSHIP → Lenin and Trotsky firmer",
+          "OPPONENT → Whites divided in aim",
+          "LEADERSHIP → Lenin and Trotsky firmer"
+        ],
+        [
+          "GEOGRAPHY → central Russian core controlled",
+          "INTERVENTION → Reds claim defence of Russia",
+          "GEOGRAPHY → central Russian core controlled"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEADERSHIP → Lenin and Trotsky firmer",
+            "GEOGRAPHY → central Russian core controlled"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OPPONENT → Whites divided in aim",
+            "INTERVENTION → Reds claim defence of Russia"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEADERSHIP → Lenin and Trotsky firmer",
+            "GEOGRAPHY → central Russian core controlled"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OPPONENT → Whites divided in aim; INTERVENTION → Reds claim defence of Russia.",
+      "source_references": [
+        "Civil War and coercive consolidation",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NEP BOUNDARY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NEP BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "MARKET RETURNS",
+          "role": "outcome"
+        },
+        {
+          "text": "PEASANT SURPLUS AND SMALL TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE RETAINS",
+          "role": "institution"
+        },
+        {
+          "text": "HEAVY INDUSTRY, BANKS AND TRANSPORT",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNIST MONOPOLY CONTINUES",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC RETREAT WITHOUT POLITICAL RETREAT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MARKET RETURNS → peasant surplus and small trade",
+        "STATE RETAINS → heavy industry, banks and transport",
+        "POLITICS → communist monopoly continues",
+        "VERDICT → economic retreat without political retreat"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MARKET RETURNS → peasant surplus and small trade",
+          "POLITICS → communist monopoly continues",
+          "MARKET RETURNS → peasant surplus and small trade"
+        ],
+        [
+          "STATE RETAINS → heavy industry, banks and transport",
+          "VERDICT → economic retreat without political retreat",
+          "STATE RETAINS → heavy industry, banks and transport"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MARKET RETURNS → peasant surplus and small trade",
+            "STATE RETAINS → heavy industry, banks and transport"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICS → communist monopoly continues",
+            "VERDICT → economic retreat without political retreat"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MARKET RETURNS → peasant surplus and small trade",
+            "STATE RETAINS → heavy industry, banks and transport"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE RETAINS → heavy industry, banks and transport.",
+      "source_references": [
+        "NEP and bounded market recovery",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "STALIN'S RISE LADDER",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "STALIN'S RISE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "GENERAL SECRETARY",
+          "role": "outcome"
+        },
+        {
+          "text": "ORGANISATIONAL NETWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "UNDERESTIMATE STALIN",
+          "role": "evidence"
+        },
+        {
+          "text": "SHIFTING ALLIANCES",
+          "role": "primary"
+        },
+        {
+          "text": "TROTSKY ISOLATED FIRST",
+          "role": "outcome"
+        },
+        {
+          "text": "KAMENEV, ZINOVIEV AND BUKHARIN REMOVED",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GENERAL SECRETARY → organisational network",
+        "RIVALS → underestimate Stalin",
+        "SHIFTING ALLIANCES → Trotsky isolated first",
+        "END → Kamenev, Zinoviev and Bukharin removed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GENERAL SECRETARY → organisational network",
+            "RIVALS → underestimate Stalin"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHIFTING ALLIANCES → Trotsky isolated first",
+            "END → Kamenev, Zinoviev and Bukharin removed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GENERAL SECRETARY → organisational network",
+            "RIVALS → underestimate Stalin"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHIFTING ALLIANCES → Trotsky isolated first; END → Kamenev, Zinoviev and Bukharin removed.",
+      "source_references": [
+        "Stalin's organisational rise",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDUSTRIALISATION AND COLLECTIVISATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDUSTRIALISATION AND COLLECTIVISATION",
+          "role": "primary"
+        },
+        {
+          "text": "FIVE YEAR PLANS",
+          "role": "outcome"
+        },
+        {
+          "text": "HEAVY OUTPUT RISES",
+          "role": "comparison"
+        },
+        {
+          "text": "SCARCITY AND DISCIPLINE PERSIST",
+          "role": "evidence"
+        },
+        {
+          "text": "GRAIN CONTROL INCREASES",
+          "role": "primary"
+        },
+        {
+          "text": "RURAL COST",
+          "role": "outcome"
+        },
+        {
+          "text": "RESISTANCE, LIVESTOCK LOSS AND FAMINE",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FIVE YEAR PLANS → heavy output rises",
+        "CONSUMPTION → scarcity and discipline persist",
+        "COLLECTIVISATION → grain control increases",
+        "RURAL COST → resistance, livestock loss and famine",
+        "CLOSE DISTINCTION: February overthrew tsarism and created dual power"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FIVE YEAR PLANS → heavy output rises",
+          "COLLECTIVISATION → grain control increases",
+          "CLOSE DISTINCTION: February overthrew tsarism and created dual power"
+        ],
+        [
+          "CONSUMPTION → scarcity and discipline persist",
+          "RURAL COST → resistance, livestock loss and famine",
+          "October transferred power to the Bolsheviks, while decrees, coercion and Civil War changed the revolutionary coalition and state."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FIVE YEAR PLANS → heavy output rises",
+            "CONSUMPTION → scarcity and discipline persist"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COLLECTIVISATION → grain control increases",
+            "RURAL COST → resistance, livestock loss and famine"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: February overthrew tsarism and created dual power",
+            "October transferred power to the Bolsheviks, while decrees, coercion and Civil War changed the revolutionary coalition and state."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: February overthrew tsarism and created dual power; October transferred power to the Bolsheviks, while decrees, coercion and Civil War changed the revolutionary coalition and state.",
+      "source_references": [
+        "Five Year industrialisation",
+        "Collectivisation and famine",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CONSTITUTION AND TERROR",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONSTITUTION AND TERROR",
+          "role": "primary"
+        },
+        {
+          "text": "1936 CONSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMOCRATIC APPEARANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE PARTY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO REAL ELECTORAL COMPETITION",
+          "role": "caution"
+        },
+        {
+          "text": "STALIN BECOMES UNCHALLENGEABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPABILITY COST",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICERS AND OFFICIALS REMOVED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1936 CONSTITUTION → democratic appearance",
+        "ONE PARTY → no real electoral competition",
+        "PURGES → Stalin becomes unchallengeable",
+        "CAPABILITY COST → officers and officials removed",
+        "EVIDENCE LIMIT: Industrialisation and state capacity must be assessed alongside collectivisation, famine, purges"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "1936 CONSTITUTION → democratic appearance",
+          "PURGES → Stalin becomes unchallengeable",
+          "EVIDENCE LIMIT: Industrialisation and state capacity must be assessed alongside collectivisation, famine, purges,"
+        ],
+        [
+          "ONE PARTY → no real electoral competition",
+          "CAPABILITY COST → officers and officials removed",
+          "nationality policy and the evidentiary limits of official output or constitutional claims."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1936 CONSTITUTION → democratic appearance",
+            "ONE PARTY → no real electoral competition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PURGES → Stalin becomes unchallengeable",
+            "CAPABILITY COST → officers and officials removed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Industrialisation and state capacity must be assessed alongside collectivisation, famine, purges,",
+            "nationality policy and the evidentiary limits of official output or constitutional claims."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Industrialisation and state capacity must be assessed alongside collectivisation, famine, purges, nationality policy and the evidentiary limits of official output or constitutional claims.",
+      "source_references": [
+        "Purges and constitutional facade",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "REVOLUTION-TO-STALIN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "REVOLUTION-TO-STALIN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "UNRESOLVED 1905 ORDER PLUS WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "DUAL POWER AND ORGANISED OCTOBER",
+          "role": "mechanism"
+        },
+        {
+          "text": "DECREE, COERCION, CIVIL WAR AND NEP",
+          "role": "evidence"
+        },
+        {
+          "text": "INDUSTRY, COLLECTIVISATION AND TERROR",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "COLLAPSE → unresolved 1905 order plus war",
+        "SEIZURE → dual power and organised October",
+        "CONSOLIDATION → decree, coercion, Civil War and NEP",
+        "TRANSFORMATION → industry, collectivisation and terror"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COLLAPSE → unresolved 1905 order plus war",
+            "SEIZURE → dual power and organised October"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSOLIDATION → decree, coercion, Civil War and NEP",
+            "TRANSFORMATION → industry, collectivisation and terror"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COLLAPSE → unresolved 1905 order plus war",
+            "SEIZURE → dual power and organised October"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSOLIDATION → decree, coercion, Civil War and NEP.",
+      "source_references": [
+        "War, reconstruction and Stalinist verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "GEORGE KATKOV STRESSES ELITE CONSPIRACY AND ABDICATION FROM ABOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "W. H. CHAMBERLIN STRESSES A LEADERLESS, SPONTANEOUS UPRISING FROM",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER HISTORIANS HIGHLIGHTED WORKERS' MATERIAL GRIEVANCES MORE THAN PARTY",
+          "role": "evidence"
+        },
+        {
+          "text": "DISPERSED THE CONSTITUENT ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "JUSTIFIED EXECUTIONS AND COERCION",
+          "role": "outcome"
+        },
+        {
+          "text": "BANNED FACTIONALISM WITHIN THE PARTY.",
+          "role": "comparison"
+        },
+        {
+          "text": "\"SOCIALISM IN ONE COUNTRY\" VERSUS \"PERMANENT REVOLUTION\"",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "George Katkov stresses elite conspiracy and abdication from above;",
+            "W. H. Chamberlin stresses a leaderless, spontaneous uprising from below;",
+            "later historians highlighted workers' material grievances more than party direction.",
+            "dispersed the Constituent Assembly;"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "justified executions and coercion;",
+            "banned factionalism within the party.",
+            "\"socialism in one country\" versus \"permanent revolution\";",
+            "continuation of NEP versus rapid industrialization."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Robert Conquest offers very high estimates;",
+            "official post-Soviet data suggest lower but still enormous totals;",
+            "Ronald Suny's wider counting pushes the destroyed lives still higher when famine is included.",
+            "\"Inevitable revolution\" is a historiographical question, not a settled factual statement."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

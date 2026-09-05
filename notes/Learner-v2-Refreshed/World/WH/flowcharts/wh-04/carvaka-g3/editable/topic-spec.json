@@ -1,0 +1,1116 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-04",
+  "subject": "World-History",
+  "title": "INDUSTRIAL REVOLUTION",
+  "short_route": "WHY ENGLAND FIRST: CONJUNCTION → COTTON INNOVATION CHAIN → PUTTING-OUT TO FACTORY → TRANSPORT MULTIPLIER → INDUSTRIAL CLASS SOCIETY → GENDER AND CHILDHOOD LEDGER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-04-deep-review-2026-09-01-g3.json",
+  "ascii_spec_sha256": "3cf9aa919101af31e51ddc86cc4492967009fab9fcd01c8065b18cea85528629",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHY ENGLAND FIRST: CONJUNCTION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY ENGLAND FIRST",
+          "role": "primary"
+        },
+        {
+          "text": "FINANCES FIXED INVESTMENT BEFORE RETURNS",
+          "role": "outcome"
+        },
+        {
+          "text": "COAL + IRON",
+          "role": "comparison"
+        },
+        {
+          "text": "ENERGY AND MACHINERY BASE",
+          "role": "evidence"
+        },
+        {
+          "text": "LABOUR + FOOD",
+          "role": "primary"
+        },
+        {
+          "text": "ENCLOSURE AND AGRICULTURAL IMPROVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MARKETS + LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "SCALE, CONTRACTS AND COMMERCIAL SECURITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAPITAL → finances fixed investment before returns",
+        "COAL + IRON → energy and machinery base",
+        "LABOUR + FOOD → enclosure and agricultural improvement",
+        "MARKETS + LAW → scale, contracts and commercial security",
+        "MUST REMEMBER: Britain's first industrial breakthrough joined coal and iron, agricultural and demographic change, credit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAPITAL → finances fixed investment before returns",
+            "COAL + IRON → energy and machinery base"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LABOUR + FOOD → enclosure and agricultural improvement",
+            "MARKETS + LAW → scale, contracts and commercial security"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Britain's first industrial breakthrough joined coal and iron, agricultural and demographic change, credit, transport, imperial markets",
+            "invention alone does not explain timing."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Britain's first industrial breakthrough joined coal and iron, agricultural and demographic change, credit, transport, imperial markets and institutions; invention alone does not explain timing.",
+      "source_references": [
+        "Capital and commercial scale",
+        "Coal, iron and energy",
+        "Enclosure, agriculture and labour",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COTTON INNOVATION CHAIN",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COTTON INNOVATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SPINNING JENNY",
+          "role": "outcome"
+        },
+        {
+          "text": "ARKWRIGHT WATER FRAME; WATT IMPROVEMENT ERA",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER LOOM",
+          "role": "mechanism"
+        },
+        {
+          "text": "COTTON GIN IN THE UNITED STATES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1764 → Hargreaves: spinning jenny",
+        "1769 → Arkwright water frame; Watt improvement era",
+        "1785 → Cartwright: power loom",
+        "1793 → Whitney: cotton gin in the United States"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1764 → Hargreaves: spinning jenny",
+            "1769 → Arkwright water frame; Watt improvement era"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1785 → Cartwright: power loom",
+            "1793 → Whitney: cotton gin in the United States"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1764 → Hargreaves: spinning jenny",
+            "1769 → Arkwright water frame; Watt improvement era"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1793 → Whitney: cotton gin in the United States.",
+      "source_references": [
+        "Textile mechanisation sequence",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PUTTING-OUT TO FACTORY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PUTTING-OUT TO FACTORY",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "DISPERSED TOOLS AND HOUSEHOLD RHYTHM",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCENTRATED MACHINERY AND SUPERVISION",
+          "role": "evidence"
+        },
+        {
+          "text": "PRODUCTION FREED FROM MUSCLE AND WATER LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "TIME DISCIPLINE",
+          "role": "outcome"
+        },
+        {
+          "text": "WAGE LABOUR ORGANISED BY THE CLOCK",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DOMESTIC SYSTEM → dispersed tools and household rhythm",
+        "FACTORY → concentrated machinery and supervision",
+        "STEAM → production freed from muscle and water limits",
+        "TIME DISCIPLINE → wage labour organised by the clock"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DOMESTIC SYSTEM → dispersed tools and household rhythm",
+          "STEAM → production freed from muscle and water limits",
+          "DOMESTIC SYSTEM → dispersed tools and household rhythm"
+        ],
+        [
+          "FACTORY → concentrated machinery and supervision",
+          "TIME DISCIPLINE → wage labour organised by the clock",
+          "FACTORY → concentrated machinery and supervision"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DOMESTIC SYSTEM → dispersed tools and household rhythm",
+            "FACTORY → concentrated machinery and supervision"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEAM → production freed from muscle and water limits",
+            "TIME DISCIPLINE → wage labour organised by the clock"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DOMESTIC SYSTEM → dispersed tools and household rhythm",
+            "FACTORY → concentrated machinery and supervision"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TIME DISCIPLINE → wage labour organised by the clock.",
+      "source_references": [
+        "The factory system and time discipline",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TRANSPORT MULTIPLIER",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRANSPORT MULTIPLIER",
+          "role": "primary"
+        },
+        {
+          "text": "CANALS + ROADS",
+          "role": "outcome"
+        },
+        {
+          "text": "CHEAPER MOVEMENT OF BULK GOODS",
+          "role": "comparison"
+        },
+        {
+          "text": "STEAM BOATS",
+          "role": "evidence"
+        },
+        {
+          "text": "FASTER WATER TRANSPORT",
+          "role": "primary"
+        },
+        {
+          "text": "PASSENGER RAILWAY 1830",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL NETWORKS DEEPEN",
+          "role": "comparison"
+        },
+        {
+          "text": "COAL, IRON, ENGINEERING AND MARKETS REINFORCE EACH OTHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CANALS + ROADS → cheaper movement of bulk goods",
+        "STEAM BOATS → faster water transport",
+        "PASSENGER RAILWAY 1830 → national networks deepen",
+        "RESULT → coal, iron, engineering and markets reinforce each other"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CANALS + ROADS → cheaper movement of bulk goods",
+            "STEAM BOATS → faster water transport"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PASSENGER RAILWAY 1830 → national networks deepen",
+            "RESULT → coal, iron, engineering and markets reinforce each other"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CANALS + ROADS → cheaper movement of bulk goods",
+            "STEAM BOATS → faster water transport"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → coal, iron, engineering and markets reinforce each other.",
+      "source_references": [
+        "Transport and national markets",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDUSTRIAL CLASS SOCIETY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDUSTRIAL CLASS SOCIETY",
+          "role": "primary"
+        },
+        {
+          "text": "OWN PRODUCTIVE MACHINERY AND SEEK PROFIT",
+          "role": "outcome"
+        },
+        {
+          "text": "WAGE WORKERS",
+          "role": "comparison"
+        },
+        {
+          "text": "LACK TOOLS AND DEPEND ON EMPLOYERS",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSING, SANITATION AND HEALTH BECOME PUBLIC ISSUES",
+          "role": "primary"
+        },
+        {
+          "text": "CLASS GRIEVANCE ENTERS ORGANISATION AND FRANCHISE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CAPITALISTS → own productive machinery and seek profit",
+        "WAGE WORKERS → lack tools and depend on employers",
+        "CITY → housing, sanitation and health become public issues",
+        "POLITICS → class grievance enters organisation and franchise"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAPITALISTS → own productive machinery and seek profit",
+            "WAGE WORKERS → lack tools and depend on employers"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CITY → housing, sanitation and health become public issues",
+            "POLITICS → class grievance enters organisation and franchise"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPITALISTS → own productive machinery and seek profit",
+            "WAGE WORKERS → lack tools and depend on employers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLITICS → class grievance enters organisation and franchise.",
+      "source_references": [
+        "Urbanisation and new classes",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GENDER AND CHILDHOOD LEDGER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GENDER AND CHILDHOOD LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FACTORY WORKERS AND HOUSEHOLD EARNERS",
+          "role": "outcome"
+        },
+        {
+          "text": "CHEAP LABOUR UNDER WEAK PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "LONG HOURS, LOW WAGES AND INSECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPERIENCE VARIED BY TRADE, PLACE AND HOUSEHOLD",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WOMEN → central factory workers and household earners",
+        "CHILDREN → cheap labour under weak protection",
+        "CONDITIONS → long hours, low wages and insecurity",
+        "CAUTION → experience varied by trade, place and household"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WOMEN → central factory workers and household earners",
+          "CONDITIONS → long hours, low wages and insecurity",
+          "WOMEN → central factory workers and household earners"
+        ],
+        [
+          "CHILDREN → cheap labour under weak protection",
+          "CAUTION → experience varied by trade, place and household",
+          "CHILDREN → cheap labour under weak protection"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WOMEN → central factory workers and household earners",
+            "CHILDREN → cheap labour under weak protection"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONDITIONS → long hours, low wages and insecurity",
+            "CAUTION → experience varied by trade, place and household"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WOMEN → central factory workers and household earners",
+            "CHILDREN → cheap labour under weak protection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → experience varied by trade, place and household.",
+      "source_references": [
+        "Women, children and the industrial household",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SOCIAL RESPONSE LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SOCIAL RESPONSE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST FACTORY ACT BEGINS REGULATION",
+          "role": "institution"
+        },
+        {
+          "text": "ANTI-UNION LAWS REPEALED",
+          "role": "comparison"
+        },
+        {
+          "text": "CHARTISM DEMANDS POLITICAL RIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "LONG RESULT",
+          "role": "primary"
+        },
+        {
+          "text": "LAISSEZ-FAIRE YIELDS TO LABOUR EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1802 → first Factory Act begins regulation",
+        "1824 → anti-union laws repealed",
+        "1830s-40s → Chartism demands political rights",
+        "LONG RESULT → laissez-faire yields to labour evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1802 → first Factory Act begins regulation",
+            "1824 → anti-union laws repealed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1830s-40s → Chartism demands political rights",
+            "LONG RESULT → laissez-faire yields to labour evidence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1802 → first Factory Act begins regulation",
+            "1824 → anti-union laws repealed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LONG RESULT → laissez-faire yields to labour evidence.",
+      "source_references": [
+        "From Factory Acts to unions",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "UNEVEN DIFFUSION MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "UNEVEN DIFFUSION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "EARLIEST MACHINE-AND-FACTORY SURGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINENTAL GROWTH AFTER 1815",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER POWERFUL ACCELERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPRESSED, STATE-ASSISTED ROUTES",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ENGLAND → earliest machine-and-factory surge",
+        "FRANCE/BELGIUM → continental growth after 1815",
+        "GERMANY/USA → later powerful acceleration",
+        "RUSSIA/JAPAN → compressed, state-assisted routes"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ENGLAND → earliest machine-and-factory surge",
+          "GERMANY/USA → later powerful acceleration",
+          "ENGLAND → earliest machine-and-factory surge"
+        ],
+        [
+          "FRANCE/BELGIUM → continental growth after 1815",
+          "RUSSIA/JAPAN → compressed, state-assisted routes",
+          "FRANCE/BELGIUM → continental growth after 1815"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENGLAND → earliest machine-and-factory surge",
+            "FRANCE/BELGIUM → continental growth after 1815"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GERMANY/USA → later powerful acceleration",
+            "RUSSIA/JAPAN → compressed, state-assisted routes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ENGLAND → earliest machine-and-factory surge",
+            "FRANCE/BELGIUM → continental growth after 1815"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GERMANY/USA → later powerful acceleration; RUSSIA/JAPAN → compressed, state-assisted routes.",
+      "source_references": [
+        "Uneven spread across Europe and America",
+        "Japan and state-assisted late industrialisation",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BRITAIN VERSUS JAPAN",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BRITAIN VERSUS JAPAN",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIVATE PROFIT JOINS CAPITAL, COAL AND MARKETS",
+          "role": "outcome"
+        },
+        {
+          "text": "JAPAN 1868",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE TREATS INDUSTRY AS NATIONAL SECURITY",
+          "role": "institution"
+        },
+        {
+          "text": "DOMESTICALLY GENERATED INVENTION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "RAILWAYS, ROADS, COTTON AND SILK PROMOTED FROM ABOVE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BRITAIN → private profit joins capital, coal and markets",
+        "JAPAN 1868 → state treats industry as national security",
+        "BRITAIN → domestically generated invention sequence",
+        "JAPAN → railways, roads, cotton and silk promoted from above"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BRITAIN → private profit joins capital, coal and markets",
+          "BRITAIN → domestically generated invention sequence",
+          "BRITAIN → private profit joins capital, coal and markets"
+        ],
+        [
+          "JAPAN 1868 → state treats industry as national security",
+          "JAPAN → railways, roads, cotton and silk promoted from above",
+          "JAPAN 1868 → state treats industry as national security"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BRITAIN → private profit joins capital, coal and markets",
+            "JAPAN 1868 → state treats industry as national security"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BRITAIN → domestically generated invention sequence",
+            "JAPAN → railways, roads, cotton and silk promoted from above"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRITAIN → private profit joins capital, coal and markets",
+            "JAPAN 1868 → state treats industry as national security"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JAPAN → railways, roads, cotton and silk promoted from above.",
+      "source_references": [
+        "Japan and state-assisted late industrialisation",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RAILWAYS CHANGE WITH CONTEXT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RAILWAYS CHANGE WITH CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRATES MARKETS AND HEAVY INDUSTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINENTAL CATCH-UP",
+          "role": "comparison"
+        },
+        {
+          "text": "LINKS STATE POLICY AND NATIONAL MARKET",
+          "role": "institution"
+        },
+        {
+          "text": "SETTLER FRONTIER",
+          "role": "primary"
+        },
+        {
+          "text": "OPENS LAND AND DISPLACES INDIGENOUS PEOPLES",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVES EXPORTS AND ADMINISTRATIVE POWER TOWARD PORTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INDUSTRIALISER → integrates markets and heavy industry",
+        "CONTINENTAL CATCH-UP → links state policy and national market",
+        "SETTLER FRONTIER → opens land and displaces indigenous peoples",
+        "COLONY → moves exports and administrative power toward ports",
+        "CLOSE DISTINCTION: Textiles, steam, factory discipline and railways were connected mechanisms but had different"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "INDUSTRIALISER → integrates markets and heavy industry",
+          "SETTLER FRONTIER → opens land and displaces indigenous peoples",
+          "CLOSE DISTINCTION: Textiles, steam, factory discipline and railways were connected mechanisms but had different"
+        ],
+        [
+          "CONTINENTAL CATCH-UP → links state policy and national market",
+          "COLONY → moves exports and administrative power toward ports",
+          "chronologies and effects, while industrialisation outside Britain followed multiple state, labour and resource paths."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDUSTRIALISER → integrates markets and heavy industry",
+            "CONTINENTAL CATCH-UP → links state policy and national market"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SETTLER FRONTIER → opens land and displaces indigenous peoples",
+            "COLONY → moves exports and administrative power toward ports"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Textiles, steam, factory discipline and railways were connected mechanisms but had different",
+            "chronologies and effects, while industrialisation outside Britain followed multiple state, labour and resource paths."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Textiles, steam, factory discipline and railways were connected mechanisms but had different chronologies and effects, while industrialisation outside Britain followed multiple state, labour and resource paths.",
+      "source_references": [
+        "Railways in contrasting political economies",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDUSTRY-TO-EMPIRE PRESSURE",
+      "structural_type": "causal-system",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "INDUSTRY-TO-EMPIRE PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT RISES",
+          "role": "outcome"
+        },
+        {
+          "text": "RAW-MATERIAL DEMAND EXPANDS",
+          "role": "evidence"
+        },
+        {
+          "text": "SCALE RISES",
+          "role": "evidence"
+        },
+        {
+          "text": "OVERSEAS MARKETS BECOME MORE VALUABLE",
+          "role": "primary"
+        },
+        {
+          "text": "CAPITAL ACCUMULATES",
+          "role": "outcome"
+        },
+        {
+          "text": "INVESTMENT OUTLETS ARE SOUGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVALRY INTENSIFIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OUTPUT RISES → raw-material demand expands",
+        "SCALE RISES → overseas markets become more valuable",
+        "CAPITAL ACCUMULATES → investment outlets are sought",
+        "RIVALRY INTENSIFIES → empire gains economic weight",
+        "EVIDENCE LIMIT: Output and connectivity expanded alongside urban crowding, class conflict, gendered labour, ecological damage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OUTPUT RISES → raw-material demand expands",
+            "SCALE RISES → overseas markets become more valuable"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPITAL ACCUMULATES → investment outlets are sought",
+            "RIVALRY INTENSIFIES → empire gains economic weight"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Output and connectivity expanded alongside urban crowding, class conflict, gendered labour, ecological damage and colonial deindustrialisation",
+            "progress and harm require spatially differentiated evidence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Output and connectivity expanded alongside urban crowding, class conflict, gendered labour, ecological damage and colonial deindustrialisation; progress and harm require spatially differentiated evidence.",
+      "source_references": [
+        "Industrial capitalism and empire",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MIXED-BLESSING ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MIXED-BLESSING ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCTIVITY, TRANSPORT AND CHEAPER GOODS",
+          "role": "outcome"
+        },
+        {
+          "text": "LABOUR INSECURITY, SLUMS, WOMEN AND CHILD EXPLOITATION",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIONS, FACTORY ACTS AND CHARTISM",
+          "role": "evidence"
+        },
+        {
+          "text": "BROAD DELAYED GAINS, CONCENTRATED IMMEDIATE COSTS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GAIN → productivity, transport and cheaper goods",
+        "COST → labour insecurity, slums, women and child exploitation",
+        "RESPONSE → unions, Factory Acts and Chartism",
+        "VERDICT → broad delayed gains, concentrated immediate costs"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GAIN → productivity, transport and cheaper goods",
+            "COST → labour insecurity, slums, women and child exploitation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSE → unions, Factory Acts and Chartism",
+            "VERDICT → broad delayed gains, concentrated immediate costs"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GAIN → productivity, transport and cheaper goods",
+            "COST → labour insecurity, slums, women and child exploitation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → broad delayed gains, concentrated immediate costs.",
+      "source_references": [
+        "Mixed blessing and final judgement",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OLD NCERT ITSELF ENDS BY CALLING INDUSTRIALISATION A SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVILS .",
+          "role": "comparison"
+        },
+        {
+          "text": "THEREFORE THE PHRASE \"MIXED BLESSING\" IS ENTIRELY LEGITIMATE WHEN",
+          "role": "evidence"
+        },
+        {
+          "text": "OLD NCERT EXPLICITLY CONNECTS INDUSTRIALISATION WITH THE SEARCH FOR",
+          "role": "primary"
+        },
+        {
+          "text": "IT ALSO NOTES THAT INDUSTRIAL COUNTRIES SUBORDINATED THE ECONOMIES",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS IS THE CORRECT BRIDGE TO LATE-19TH-CENTURY IMPERIALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "INDUSTRY DID NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Old NCERT itself ends by calling industrialisation a source of both benefits and hardships / evils .",
+            "CAUTION: Therefore the phrase \"mixed blessing\" is entirely legitimate when supported with evidence.",
+            "Old NCERT explicitly connects industrialisation with the search for markets , raw materials , and eventually imperial expansion .",
+            "It also notes that industrial countries subordinated the economies of weaker regions to their own interests."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: This is the correct bridge to late-19th-century imperialism: industry did not",
+            "mechanically create empire, but it greatly intensified the pressure for empire .",
+            "CAUTION: For India-specific consequences such as deindustrialisation, drain and colonial market",
+            "subordination, cross-link rather than repeat: Modern-Indian-History/basic/07 Economic-Impact-of-British-Rule.md and Modern-Indian-History/advanced/07 Economic-Impact-of-British-Rule.md."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Enclosure movement, colonies, coal, iron, shipping and capital formation are central to the English lead.",
+            "Early labour reform included Factory Acts and the eventual legalisation of trade unions.",
+            "Laissez-faire is associated with the early capitalist belief in minimum state interference.",
+            "Industrialisation strengthened the pressure for tariff policy, market protection and imperial competition."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

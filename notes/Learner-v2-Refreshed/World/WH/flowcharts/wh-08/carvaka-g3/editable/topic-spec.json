@@ -1,0 +1,1089 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-08",
+  "subject": "World-History",
+  "title": "LATIN AMERICAN INDEPENDENCE MOVEMENTS",
+  "short_route": "COLONIAL HIERARCHY → IDEAS MEET IMPERIAL COLLAPSE → HAITI'S DISTINCT SEQUENCE → NORTHERN AND SOUTHERN LIBERATORS → MEXICO'S REVERSAL → BRAZIL'S SEPARATE ROUTE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-08-deep-review-2026-09-01-g3.json",
+  "ascii_spec_sha256": "ed1191cb13a8169291612e0ee83528fb03c55d015729cc74ebb74528d0644fc0",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COLONIAL HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COLONIAL HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "TOP IMPERIAL OFFICES",
+          "role": "outcome"
+        },
+        {
+          "text": "WEALTH WITHOUT EQUAL POLITICAL ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBORDINATE MASS BASE",
+          "role": "evidence"
+        },
+        {
+          "text": "ELITE GRIEVANCE RESTS ON UNEQUAL SOCIETY",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "HAITI, SPANISH AMERICAN WARS LED BY ACTORS INCLUDING BOLÍVAR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PENINSULARES → top imperial offices",
+        "CREOLES → wealth without equal political access",
+        "MESTIZOS/INDIGENOUS/ENSLAVED → subordinate mass base",
+        "CONFLICT → elite grievance rests on unequal society",
+        "MUST REMEMBER: Haiti, Spanish American wars led by actors including Bolívar and San Martín"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PENINSULARES → top imperial offices",
+            "CREOLES → wealth without equal political access"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MESTIZOS/INDIGENOUS/ENSLAVED → subordinate mass base",
+            "CONFLICT → elite grievance rests on unequal society"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Haiti, Spanish American wars led by actors including Bolívar and San Martín,",
+            "and Brazil's monarchical separation followed different chronologies, social coalitions and relations to Atlantic war."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Haiti, Spanish American wars led by actors including Bolívar and San Martín, and Brazil's monarchical separation followed different chronologies, social coalitions and relations to Atlantic war.",
+      "source_references": [
+        "Colonial hierarchy and economic grievance",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "IDEAS MEET IMPERIAL COLLAPSE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IDEAS MEET IMPERIAL COLLAPSE",
+          "role": "primary"
+        },
+        {
+          "text": "TRADE MONOPOLY",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC RESENTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ATLANTIC REVOLUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "ALTERNATIVE POLITICAL VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "1808 NAPOLEONIC SHOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "METROPOLITAN LEGITIMACY COLLAPSES",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTONOMY CLAIMS MOVE TOWARD INDEPENDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRADE MONOPOLY → economic resentment",
+        "ATLANTIC REVOLUTIONS → alternative political vocabulary",
+        "1808 NAPOLEONIC SHOCK → metropolitan legitimacy collapses",
+        "JUNTAS → autonomy claims move toward independence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRADE MONOPOLY → economic resentment",
+            "ATLANTIC REVOLUTIONS → alternative political vocabulary"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1808 NAPOLEONIC SHOCK → metropolitan legitimacy collapses",
+            "JUNTAS → autonomy claims move toward independence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRADE MONOPOLY → economic resentment",
+            "ATLANTIC REVOLUTIONS → alternative political vocabulary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1808 NAPOLEONIC SHOCK → metropolitan legitimacy collapses; JUNTAS → autonomy claims move toward independence.",
+      "source_references": [
+        "Colonial hierarchy and economic grievance",
+        "The Iberian legitimacy collapse",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "HAITI'S DISTINCT SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HAITI'S DISTINCT SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "SLAVE REVOLUTION BEGINS",
+          "role": "outcome"
+        },
+        {
+          "text": "ANTI-COLONIAL + ANTI-SLAVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SOCIAL STRUGGLE",
+          "role": "evidence"
+        },
+        {
+          "text": "INDEPENDENT HAITI",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST FREE BLACK REPUBLIC OF MODERN ERA",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1791 → slave revolution begins",
+        "ANTI-COLONIAL + ANTI-SLAVERY → one social struggle",
+        "1804 → independent Haiti",
+        "RESULT → first free Black republic of modern era"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1791 → slave revolution begins",
+            "ANTI-COLONIAL + ANTI-SLAVERY → one social struggle"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1804 → independent Haiti",
+            "RESULT → first free Black republic of modern era"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1791 → slave revolution begins",
+            "ANTI-COLONIAL + ANTI-SLAVERY → one social struggle"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → first free Black republic of modern era.",
+      "source_references": [
+        "Haiti's anti-slavery revolution",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NORTHERN AND SOUTHERN LIBERATORS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NORTHERN AND SOUTHERN LIBERATORS",
+          "role": "primary"
+        },
+        {
+          "text": "NEW GRANADA 1819; GRAN COLOMBIA; NORTHERN PROJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "SAN MARTIN",
+          "role": "comparison"
+        },
+        {
+          "text": "ANDES CROSSING 1817; CHILE AND PERU",
+          "role": "evidence"
+        },
+        {
+          "text": "MEETING POINT",
+          "role": "primary"
+        },
+        {
+          "text": "ROYALIST POWER BROKEN IN PERU",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONTINENTAL POLITICAL PROJECT VERSUS SOUTHERN ARMY ROUTE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BOLIVAR → New Granada 1819; Gran Colombia; northern project",
+        "SAN MARTIN → Andes crossing 1817; Chile and Peru",
+        "MEETING POINT → royalist power broken in Peru",
+        "DIFFERENCE → continental political project versus southern army route"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BOLIVAR → New Granada 1819; Gran Colombia; northern project",
+          "MEETING POINT → royalist power broken in Peru",
+          "BOLIVAR → New Granada 1819; Gran Colombia; northern project"
+        ],
+        [
+          "SAN MARTIN → Andes crossing 1817; Chile and Peru",
+          "DIFFERENCE → continental political project versus southern army route",
+          "SAN MARTIN → Andes crossing 1817; Chile and Peru"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BOLIVAR → New Granada 1819; Gran Colombia; northern project",
+            "SAN MARTIN → Andes crossing 1817; Chile and Peru"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEETING POINT → royalist power broken in Peru",
+            "DIFFERENCE → continental political project versus southern army route"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOLIVAR → New Granada 1819; Gran Colombia; northern project",
+            "SAN MARTIN → Andes crossing 1817; Chile and Peru"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIFFERENCE → continental political project versus southern army route.",
+      "source_references": [
+        "San Martin's southern theatre",
+        "Bolivar and northern liberation",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MEXICO'S REVERSAL",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MEXICO'S REVERSAL",
+          "role": "primary"
+        },
+        {
+          "text": "HIDALGO'S GRITO DE DOLORES",
+          "role": "outcome"
+        },
+        {
+          "text": "POPULAR PHASE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIGENOUS AND LOWER-CLASS MOBILISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "STRUGGLE CONTINUES",
+          "role": "primary"
+        },
+        {
+          "text": "CONSERVATIVE SETTLEMENT UNDER ITURBIDE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1810 → Hidalgo's Grito de Dolores",
+        "POPULAR PHASE → Indigenous and lower-class mobilisation",
+        "MORELOS → struggle continues",
+        "1821 → conservative settlement under Iturbide"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1810 → Hidalgo's Grito de Dolores",
+            "POPULAR PHASE → Indigenous and lower-class mobilisation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MORELOS → struggle continues",
+            "1821 → conservative settlement under Iturbide"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1810 → Hidalgo's Grito de Dolores",
+            "POPULAR PHASE → Indigenous and lower-class mobilisation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MORELOS → struggle continues; 1821 → conservative settlement under Iturbide.",
+      "source_references": [
+        "Mexico's reversed revolutionary path",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BRAZIL'S SEPARATE ROUTE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BRAZIL'S SEPARATE ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "PORTUGUESE COURT MOVES TO BRAZIL",
+          "role": "institution"
+        },
+        {
+          "text": "INDEPENDENCE UNDER PEDRO I",
+          "role": "comparison"
+        },
+        {
+          "text": "MONARCHY, NOT A NEW REPUBLIC",
+          "role": "caution"
+        },
+        {
+          "text": "SLAVERY AND HIERARCHY SURVIVE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1808 → Portuguese court moves to Brazil",
+        "1822 → independence under Pedro I",
+        "FORM → monarchy, not a new republic",
+        "LIMIT → slavery and hierarchy survive"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "1808 → Portuguese court moves to Brazil",
+          "FORM → monarchy, not a new republic",
+          "1808 → Portuguese court moves to Brazil"
+        ],
+        [
+          "1822 → independence under Pedro I",
+          "LIMIT → slavery and hierarchy survive",
+          "1822 → independence under Pedro I"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1808 → Portuguese court moves to Brazil",
+            "1822 → independence under Pedro I"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORM → monarchy, not a new republic",
+            "LIMIT → slavery and hierarchy survive"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1808 → Portuguese court moves to Brazil",
+            "1822 → independence under Pedro I"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORM → monarchy, not a new republic; LIMIT → slavery and hierarchy survive.",
+      "source_references": [
+        "Brazil's monarchical separation",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FIVE PATHS, ONE REGION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIVE PATHS, ONE REGION",
+          "role": "primary"
+        },
+        {
+          "text": "BOLIVAR AND GRAN COLOMBIA",
+          "role": "outcome"
+        },
+        {
+          "text": "SAN MARTIN, ANDES AND PERU",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULAR REVOLT TO CONSERVATIVE SETTLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "BRAZIL + HAITI",
+          "role": "primary"
+        },
+        {
+          "text": "MONARCHY VERSUS SOCIAL REVOLUTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NORTH → Bolivar and Gran Colombia",
+        "SOUTH → San Martin, Andes and Peru",
+        "MEXICO → popular revolt to conservative settlement",
+        "BRAZIL + HAITI → monarchy versus social revolution"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NORTH → Bolivar and Gran Colombia",
+          "MEXICO → popular revolt to conservative settlement",
+          "NORTH → Bolivar and Gran Colombia"
+        ],
+        [
+          "SOUTH → San Martin, Andes and Peru",
+          "BRAZIL + HAITI → monarchy versus social revolution",
+          "SOUTH → San Martin, Andes and Peru"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NORTH → Bolivar and Gran Colombia",
+            "SOUTH → San Martin, Andes and Peru"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEXICO → popular revolt to conservative settlement",
+            "BRAZIL + HAITI → monarchy versus social revolution"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NORTH → Bolivar and Gran Colombia",
+            "SOUTH → San Martin, Andes and Peru"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRAZIL + HAITI → monarchy versus social revolution.",
+      "source_references": [
+        "The five-path comparison",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MILITARY COMPLETION SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MILITARY COMPLETION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "NEW GRANADA AND GRAN COLOMBIA",
+          "role": "outcome"
+        },
+        {
+          "text": "MEXICAN INDEPENDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "AYACUCHO BREAKS MAJOR ROYALIST POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "BOLIVIA EMERGES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1819 → New Granada and Gran Colombia",
+        "1821 → Mexican independence",
+        "1824 → Ayacucho breaks major royalist power",
+        "1825 → Bolivia emerges"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1819 → New Granada and Gran Colombia",
+            "1821 → Mexican independence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1824 → Ayacucho breaks major royalist power",
+            "1825 → Bolivia emerges"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1819 → New Granada and Gran Colombia",
+            "1821 → Mexican independence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1824 → Ayacucho breaks major royalist power; 1825 → Bolivia emerges.",
+      "source_references": [
+        "Bolivar and northern liberation",
+        "Ayacucho and the military collapse of Spanish rule",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ELITE TRANSFER MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ELITE TRANSFER MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PENINSULAR OFFICIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CREOLE LANDOWNER",
+          "role": "comparison"
+        },
+        {
+          "text": "BECOMES RULING ELITE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "LAND AND RACIAL POWER REMAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "SOVEREIGNTY CHANGES FASTER THAN SOCIETY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PENINSULAR OFFICIAL → displaced",
+        "CREOLE LANDOWNER → becomes ruling elite",
+        "SOCIAL HIERARCHY → land and racial power remain",
+        "VERDICT → sovereignty changes faster than society"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PENINSULAR OFFICIAL → displaced",
+            "CREOLE LANDOWNER → becomes ruling elite"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOCIAL HIERARCHY → land and racial power remain",
+            "VERDICT → sovereignty changes faster than society"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PENINSULAR OFFICIAL → displaced",
+            "CREOLE LANDOWNER → becomes ruling elite"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOCIAL HIERARCHY → land and racial power remain.",
+      "source_references": [
+        "Creole leadership and elite transfer",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CAUDILLISMO MECHANISM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CAUDILLISMO MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "LONG WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "MILITARY COMMANDERS GAIN LEGITIMACY",
+          "role": "comparison"
+        },
+        {
+          "text": "WEAK INSTITUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "CIVILIAN AUTHORITY REMAINS FRAGILE",
+          "role": "primary"
+        },
+        {
+          "text": "ARMED CLIENTAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSONAL LOYALTY SUBSTITUTES FOR LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONGMAN POLITICS RECURS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LONG WAR → military commanders gain legitimacy",
+        "WEAK INSTITUTIONS → civilian authority remains fragile",
+        "ARMED CLIENTAGE → personal loyalty substitutes for law",
+        "CAUDILLISMO → strongman politics recurs",
+        "CLOSE DISTINCTION: Independence displaced Iberian sovereignty faster than it transformed landholding, racial hierarchy, slavery or"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LONG WAR → military commanders gain legitimacy",
+            "WEAK INSTITUTIONS → civilian authority remains fragile"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARMED CLIENTAGE → personal loyalty substitutes for law",
+            "CAUDILLISMO → strongman politics recurs"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Independence displaced Iberian sovereignty faster than it transformed landholding, racial hierarchy, slavery or creole elite power",
+            "state formation and social revolution are separate tests."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Independence displaced Iberian sovereignty faster than it transformed landholding, racial hierarchy, slavery or creole elite power; state formation and social revolution are separate tests.",
+      "source_references": [
+        "Caudillismo's institutional mechanism",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FRAGMENTATION AFTER LIBERATION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FRAGMENTATION AFTER LIBERATION",
+          "role": "primary"
+        },
+        {
+          "text": "GRAN COLOMBIA",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINENTAL FEDERATION ATTEMPTED",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTANCE + WEAK COMMUNICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ADMINISTRATION FRAGMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL ELITES",
+          "role": "outcome"
+        },
+        {
+          "text": "RESIST CENTRAL AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "STATES EMERGE BEFORE SHARED NATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GRAN COLOMBIA → continental federation attempted",
+        "DISTANCE + WEAK COMMUNICATION → administration fragments",
+        "REGIONAL ELITES → resist central authority",
+        "RESULT → states emerge before shared nations",
+        "EVIDENCE LIMIT: Napoleonic crisis and Atlantic ideas created openings, but enslaved"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRAN COLOMBIA → continental federation attempted",
+            "DISTANCE + WEAK COMMUNICATION → administration fragments"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REGIONAL ELITES → resist central authority",
+            "RESULT → states emerge before shared nations"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Napoleonic crisis and Atlantic ideas created openings, but enslaved,",
+            "Indigenous, mixed-race, creole and regional actors pursued different projects; Latin America was not a derivative European stage."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Indigenous, mixed-race, creole and regional actors pursued different projects; Latin America was not a derivative European stage.",
+      "source_references": [
+        "Gran Colombia and failed continental unity",
+        "States before nations: final verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "LATIN AMERICA ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "LATIN AMERICA ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "HIERARCHY + TRADE RESTRICTION + ATLANTIC IDEAS",
+          "role": "outcome"
+        },
+        {
+          "text": "IBERIAN COLLAPSE IN 1808",
+          "role": "comparison"
+        },
+        {
+          "text": "FIVE DISTINCT REGIONAL PATHS",
+          "role": "evidence"
+        },
+        {
+          "text": "INDEPENDENCE WITHOUT EQUAL SOCIAL TRANSFORMATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAUSE → hierarchy + trade restriction + Atlantic ideas",
+        "TRIGGER → Iberian collapse in 1808",
+        "COURSE → five distinct regional paths",
+        "VERDICT → independence without equal social transformation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAUSE → hierarchy + trade restriction + Atlantic ideas",
+            "TRIGGER → Iberian collapse in 1808"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COURSE → five distinct regional paths",
+            "VERDICT → independence without equal social transformation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUSE → hierarchy + trade restriction + Atlantic ideas",
+            "TRIGGER → Iberian collapse in 1808"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUSE → hierarchy + trade restriction + Atlantic ideas.",
+      "source_references": [
+        "States before nations: final verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BRITANNICA DESCRIBES THE HAITIAN REVOLUTION (1791-1804) AS A STRUGGLE",
+          "role": "outcome"
+        },
+        {
+          "text": "HAITI MATTERS ANALYTICALLY BECAUSE IT WAS FAR MORE SOCIALLY",
+          "role": "comparison"
+        },
+        {
+          "text": "IN ANSWER WRITING, HAITI IS THE BEST DEVICE FOR",
+          "role": "evidence"
+        },
+        {
+          "text": "NORMAN LOWE'S LATIN AMERICA CHAPTER OPENING SAYS THE NEW",
+          "role": "primary"
+        },
+        {
+          "text": "PROBLEMS OF UNDERDEVELOPMENT, POVERTY, ILLITERACY AND UNSTABLE POLITICAL SYSTEMS",
+          "role": "outcome"
+        },
+        {
+          "text": "THAT CONTINUITY HELPS EXPLAIN WHY COUPS, CAUDILLOS AND OLIGARCHIES",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEPENDENCE WARS WEAKENED COLONIAL RULE, BUT THEY DID NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Britannica describes the Haitian Revolution (1791-1804) as a struggle that ended French rule and created the first state founded by former slaves.",
+            "CAUTION: Haiti matters analytically because it was far more socially radical than most mainland independence movements.",
+            "CAUTION: In answer writing, Haiti is the best device for showing that \"Latin American independence\" was not one single social model.",
+            "Norman Lowe's Latin America chapter opening says the new states shared serious"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "problems of underdevelopment, poverty, illiteracy and unstable political systems after early-19th-century independence.",
+            "CAUTION: That continuity helps explain why coups, caudillos and oligarchies became recurring features.",
+            "CAUTION: Independence wars weakened colonial rule, but they did not solve land concentration, racial hierarchy or regional rivalry.",
+            "CAUTION: A balanced answer should therefore avoid saying \"Latin America failed because of culture\"; the problem was structural and historical."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Latin American independence was mostly an early-19th-century response to imperial",
+            "crisis and was often led by creole elites and military commanders.",
+            "CAUTION: Indian nationalism developed later as a longer anti-colonial movement with a larger organizational and mass-political component.",
+            "CAUTION: This comparison is useful in GS-I only when stated carefully: both are anti-colonial,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}
