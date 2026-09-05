@@ -1,0 +1,111 @@
+"""Polity 02 stages 7-8."""
+
+STAGES_D = [
+    {
+        "n": 7,
+        "kind": "core",
+        "title": "OBJECTIVES RESOLUTION → PREAMBLE — VALUES FIXED BEFORE THE CLAUSES",
+        "pills": [
+            {"t": "Moved by Nehru, 13 Dec 1946", "c": "amber"},
+            {"t": "Adopted unanimously, 22 Jan 1947", "c": "cyan"},
+            {"t": "Normative constraint on drafting", "c": "teal"},
+            {"t": "Modified form → Preamble", "c": "magenta"},
+            {"t": "Socialist & secular only in 1976", "c": "red"},
+            {"t": "Interpretive identity", "c": "green"},
+        ],
+        "blocks": [
+            {"type": "chain", "per_row": 5, "items": [
+                {"t": "13 DEC 1946", "s": "Jawaharlal Nehru moves the Objectives Resolution, four days after the first sitting", "c": "amber"},
+                {"t": "22 JAN 1947", "s": "The Assembly adopts it unanimously — before Partition and before sovereignty", "c": "cyan"},
+                {"t": "DRAFTING CONSTRAINT", "s": "Committees could disagree about machinery, but drafted within a publicly stated value framework", "c": "teal"},
+                {"t": "MODIFIED FORM", "s": "The Resolution, in modified form, became the Preamble of the Constitution", "c": "magenta"},
+                {"t": "26 NOV 1949", "s": "The modified values are enacted as the Preamble when the Constitution is adopted", "c": "green"},
+            ]},
+            {"type": "matrix", "c": "cyan", "title": "RESOLUTION IDEA → CONSTITUTIONAL DESTINATION → CAUTION",
+             "widths": [0.28, 0.34, 0.38],
+             "headers": ["RESOLUTION IDEA", "CONSTITUTIONAL DESTINATION", "CAUTION THAT MUST ACCOMPANY IT"],
+             "rows": [
+                 ["Resolve for an **independent sovereign republic** and a Union", "The Preamble's **sovereign democratic republic**", "**'Socialist' and 'secular' were added only by the 42nd Amendment, 1976** — they are not 1949 words."],
+                 ["**Authority derived from the people**", "**'WE, THE PEOPLE OF INDIA'**", "The Assembly declaring popular authority was **itself indirectly elected** — state the tension, do not hide it."],
+                 ["**Justice, equality and the freedoms**", "The Preamble **plus Parts III and IV**", "Specific rights doctrine belongs to later topics; here only the **transmission of the value** is claimed."],
+                 ["**Safeguards for minorities, backward and tribal areas**", "Rights provisions and special constitutional protections", "Do **not** reduce 'safeguards' to separate electorates — the Assembly moved away from that device."],
+                 ["**Territorial integrity and contribution to world peace**", "Preamble and Directive Principle ethos", "This is **not a justiciable foreign-policy command**; it is a declared orientation."],
+             ]},
+            {"type": "band", "label": "MECHANISM — WHY IT MATTERED →", "c": "teal", "outline": True,
+             "text": "The Resolution worked as a **normative constraint**, not a piece of rhetoric. Adopted **before** the Drafting Committee even existed, it meant that every later disagreement over machinery — federal balance, emergency powers, the shape of rights — had to be argued **inside an already declared value framework**. That is the difference between a constitution that discovers its values at the end and one that commits to them first."},
+            {"type": "answer", "label": "ANSWER-GRABBING LINE — OBJECTIVES RESOLUTION:",
+             "text": "The Objectives Resolution supplied the Constitution's **normative compass** by linking **popular sovereignty, justice, equality, freedom, safeguards and world peace** to the Preamble's final constitutional identity."},
+        ],
+    },
+    {
+        "n": 8,
+        "kind": "pivot",
+        "title": "PIVOT — INDIAN INDEPENDENCE ACT 1947: THE ASSEMBLY BECOMES SOVEREIGN",
+        "pills": [
+            {"t": "External subordination ends", "c": "yellow"},
+            {"t": "May frame ANY Constitution", "c": "green"},
+            {"t": "May repeal British statutes", "c": "cyan"},
+            {"t": "Dominion legislative authority", "c": "teal"},
+            {"t": "Two capacities, two chairs", "c": "magenta"},
+            {"t": "Periodise every criticism", "c": "red"},
+        ],
+        "blocks": [
+            {"type": "replace",
+             "before": {"h": "LEGAL POSITION BEFORE 15 AUGUST 1947", "c": "red", "items": [
+                 "Constituted **under the Cabinet Mission scheme** — a British plan.",
+                 "Framing power **derived from and bounded by** that scheme.",
+                 "Continuing **external constitutional subordination** to Westminster.",
+                 "No power to repeal British enactments applicable to India.",
+                 "No ordinary legislative authority for the country.",
+             ]},
+             "after": {"h": "LEGAL POSITION AFTER THE ACT OF 1947", "c": "green", "items": [
+                 "**Sovereign** constitution-making body.",
+                 "Free to **frame any Constitution** it pleased for India.",
+                 "Power to **alter or repeal British constitutional statutes applicable to India**.",
+                 "Power to exercise **legislative authority for the Dominion**.",
+                 "Same members, transformed legal standing — the change is in **status**, not in composition.",
+             ]},
+             "arrow": "INDIAN INDEPENDENCE ACT 1947",
+             "note": "The Act ended external constitutional subordination to Westminster and enabled the Assembly to repeal British enactments for India. Partition simultaneously caused members from areas allocated to Pakistan to withdraw, and the sanctioned strength became 299 — 229 provincial and 70 princely-state seats."},
+            {"type": "panels", "mid": "SAME MEMBERS", "mid2": "Two capacities, two presiding officers, two kinds of business",
+             "panels": [
+                 {"h": "CAPACITY 1 — CONSTITUENT BODY", "c": "cyan", "sub": "Presiding officer: Dr Rajendra Prasad",
+                  "items": [
+                      "Framed, debated and **adopted the Constitution**.",
+                      "Operated through committees, drafts, readings and amendments.",
+                      "Its product was the **supreme law**, not an ordinary statute.",
+                      "This capacity ended with **commencement on 26 January 1950**.",
+                  ]},
+                 {"h": "CAPACITY 2 — DOMINION LEGISLATURE", "c": "amber", "sub": "Presiding officer: G.V. Mavlankar",
+                  "items": [
+                      "Performed **ordinary legislative business** for the Dominion of India.",
+                      "Passed laws in the normal legislative manner, subject to ordinary amendment.",
+                      "Continued after 26 January 1950 as the **provisional Parliament until 1952**, when the first general elections produced a new legislature.",
+                      "Do **not** attribute constituent acts to this capacity, or legislation to the constituent one.",
+                  ]},
+             ]},
+            {"type": "band", "label": "PERIODISATION RULE →", "c": "yellow", "outline": True,
+             "text": "**Sovereignty criticism must be dated.** The Cabinet Mission shaped the Assembly's **origin**; the Act of 1947 removed the continuing **British legal veto**. Any statement that the Assembly 'was never sovereign' is wrong after 15 August 1947, and any statement that it 'was always sovereign' is wrong before it. Fix the date, then make the argument."},
+            {"type": "cols", "cols": [
+                {"h": "WHAT SOVEREIGNTY CURED", "c": "green", "items": [
+                    "The **legal derivation** of framing power from a British plan.",
+                    "The possibility of an **external veto** over the Constitution's content.",
+                    "The inability to **clear away colonial statutes** — later exercised through Article 395.",
+                ]},
+                {"h": "WHAT SOVEREIGNTY DID NOT CURE", "c": "red", "items": [
+                    "**Indirect election** of the members already sitting — no fresh election followed.",
+                    "The **restricted franchise** behind the provincial legislatures that had chosen them.",
+                    "**Princely nomination** as the route by which state representatives had entered.",
+                    "These remain fully relevant to **representativeness**, which is a different question from sovereignty.",
+                ]},
+                {"h": "HOW TO DEPLOY THE DISTINCTION", "c": "teal", "items": [
+                    "Separate the two charges explicitly: 'not sovereign' is answered by **1947**; 'not representative' is answered by **social range, deliberation and output**.",
+                    "Collapsing them is the commonest reason a strong-looking Mains answer loses evaluation marks.",
+                    "In Prelims, watch for statements that mix the **origin date** and the **sovereignty date**.",
+                ]},
+            ]},
+            {"type": "answer", "label": "ANSWER-GRABBING LINE — SOVEREIGNTY ARGUMENT:",
+             "text": "The Assembly began under the **Cabinet Mission scheme**, but the **Indian Independence Act 1947** removed external legal subordination and made it a **sovereign constitution-making and legislative body**."},
+        ],
+    },
+]

@@ -1,0 +1,1182 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-03_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-03_Solved-Workbook_2026-08-27.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 20,
+      "markdown_body_line_end": 20,
+      "heading": "RAPID REVISION 1 - The Individual-State Frame: Concepts and Why a State",
+      "preview": "Retrieve with MCQs 1-4.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 502.091
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 471.624
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 41,
+      "markdown_body_line_end": 41,
+      "heading": "RAPID REVISION 2 - Rights I: What a Right Is and Its Sources",
+      "preview": "Retrieve with MCQs 5-8.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 262.124
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 231.656
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "RAPID REVISION 3 - Rights II: Hohfeld, Will/Interest, Human Rights and Correlativity",
+      "preview": "Retrieve with MCQs 9-12.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 753.624
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 83,
+      "markdown_body_line_end": 83,
+      "heading": "RAPID REVISION 4 - Duties: Nature, Gandhi's Duty-Centrism and the Priority Debate",
+      "preview": "Retrieve with MCQs 13-16.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 549.124
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 518.656
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 102,
+      "markdown_body_line_end": 102,
+      "heading": "RAPID REVISION 5 - Accountability of Public Power",
+      "preview": "Retrieve with MCQs 17-20.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 319.156
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 288.688
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 124,
+      "markdown_body_line_end": 124,
+      "heading": "RAPID REVISION 6 - Theories of the Relationship: Liberal, Idealist and Social Contract",
+      "preview": "Retrieve with MCQs 21-24.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 64.988
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 146,
+      "markdown_body_line_end": 146,
+      "heading": "RAPID REVISION 7 - Radical and Situated Critiques: Anarchist, Marxist, Welfare, Communitarian, Feminist",
+      "preview": "Retrieve with MCQs 25-28.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 540.124
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 509.656
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 167,
+      "markdown_body_line_end": 167,
+      "heading": "RAPID REVISION 8 - Political Obligation: Why Should the Individual Obey the State?",
+      "preview": "Retrieve with MCQs 29-32.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 305.156
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 274.688
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 190,
+      "heading": "RAPID REVISION 9 - Disobedience, Resistance and the Indian Constitutional Application",
+      "preview": "Retrieve with MCQs 33-36.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 65.188
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 213,
+      "heading": "RAPID REVISION 10 - Inter-Thinker Debates, Criticisms and Common Traps",
+      "preview": "Retrieve with MCQs 37-40 and remedial 41-48.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 549.124
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 518.656
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 219,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Individual-and-State.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank, the corpus-dri",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 495.156
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 407.888
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 260,
+      "markdown_body_line_end": 260,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 9 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 503.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 458.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 272,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 458.624
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 187.222
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 288,
+      "heading": "10.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 132.022
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 613.89
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 295,
+      "heading": "10.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not run all six obligation families or all four rungs of the disobedience ladder. Use one family or one contrast, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 514.89
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 470.222
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 302,
+      "heading": "10.2 15-mark method (~220 words · 6 moves · ~18 minutes)",
+      "preview": "⚠️ For rights-versus-duties stems, the mark-bearing move is the **correlativity analysis**: show which rights have strict correlative duties (claim-rights) and which do not (liberties), instead of asserting that \"rights and duties are two s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 357.022
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 298.154
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 308,
+      "heading": "10.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On social-contract stems, the mark-bearing move is showing what each contractarian *changes*: Hobbes secures order by an irreversible transfer; Locke adds trust, limits and a right of resistance; Rousseau relocates sovereignty in the gen",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 159.554
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 72.287
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 363,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §4A (added in this pass):** the political-obligation grid, the Dworkin module and the disobedience ladder are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim w",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 103.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 371,
+      "markdown_body_line_end": 371,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 688.524
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 643.856
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1016,
+      "heading": "EXAM APPLICATION 1 - The Individual-State Frame: Concepts and Why a State",
+      "preview": "MEMORY: Frame spine -> distinguish individual/society/government/state -> \"why a state?\" (order, rights, public goods, justice, collective action) -> legitimacy vs coercion -> locate on the relation spectrum -> only then argue.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 461.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 416.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1037,
+      "heading": "EXAM APPLICATION 2 - Rights I: What a Right Is and Its Sources",
+      "preview": "MEMORY: 10-mark \"what is a right?\" -> define (claim/liberty/power/immunity) -> one source contrast (Locke vs Bentham) -> one limitation -> graded verdict that a mature order uses all three registers.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 256.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 212.156
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1057,
+      "markdown_body_line_end": 1058,
+      "heading": "EXAM APPLICATION 3 - Rights II: Hohfeld, Will/Interest, Human Rights and Correlativity",
+      "preview": "MEMORY: For \"necessarily connected?\" stems, the mark-bearing device is the correlativity analysis, NOT the slogan \"two sides of a coin.\"",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 693.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1079,
+      "heading": "EXAM APPLICATION 4 - Duties: Nature, Gandhi's Duty-Centrism and the Priority Debate",
+      "preview": "MEMORY: Priority stems reward a *graded verdict* (co-originality + sequencing caveat), never a flat \"duties win\" or \"rights win.\"",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 520.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 475.356
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1101,
+      "heading": "EXAM APPLICATION 5 - Accountability of Public Power",
+      "preview": "MEMORY: When a stem presupposes a one-way direction, the high-value move is a *reasoned category correction*, backed by named institutions (rule of law, judicial review, free press), not indignation.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 315.756
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 271.088
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1125,
+      "markdown_body_line_end": 1127,
+      "heading": "EXAM APPLICATION 6 - Theories of the Relationship: Liberal, Idealist and Social Contract",
+      "preview": "MEMORY: For contract stems, always *name the state-of-nature premise* -- the deal follows from the diagnosis. Change the premise (Hobbes vs Locke vs Rousseau) and you change the state.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 60.888
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1148,
+      "heading": "EXAM APPLICATION 7 - Radical and Situated Critiques: Anarchist, Marxist, Welfare, Communitarian, Feminist",
+      "preview": "MEMORY: Attack the qualifier \"unconditional/necessarily.\" Rights are *inalienable* yet *limitable*; that single distinction defuses the anarchy charge.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 570.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 526.156
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1168,
+      "markdown_body_line_end": 1169,
+      "heading": "EXAM APPLICATION 8 - Political Obligation: Why Should the Individual Obey the State?",
+      "preview": "MEMORY: In any \"should we obey / must we resist\" answer, first *name the ground* (consent/fair play/natural duty/associative/gratitude) and *run the four > tests*; a graded verdict follows almost automatically.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 372.756
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 328.088
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1187,
+      "heading": "EXAM APPLICATION 9 - Disobedience, Resistance and the Indian Constitutional Application",
+      "preview": "MEMORY: Never present disobedience as all-or-nothing. Marks come from the *ladder* + the *conditions* (unjust law, channels exhausted, public, > non-violent, penalty accepted) + the *Indian caution* (Article 19 limits, Ambedkar 1949).",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 182.688
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 138.02
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1207,
+      "heading": "EXAM APPLICATION 10 - Inter-Thinker Debates, Criticisms and Common Traps",
+      "preview": "MEMORY: A 20-marker is won in paragraphs 4-5: stage a real debate, voice the criticism of your own side, then deliver a graded verdict. The spine above makes this automatic.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 620.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1228,
+      "heading": "Practice Design",
+      "preview": "FINAL ANSWER SPINE (use it on every stem):",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 237.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 206.556
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1230,
+      "markdown_body_line_end": 1235,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE  ->  THESIS  ->  CONCEPT MAP (right/duty/accountability/",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 206.556
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 155.556
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1239,
+      "markdown_body_line_end": 1239,
+      "heading": "SOLVED PYQ BANK - EXACTLY 9 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 9 primary parts (2018:1, 2019:1, 2020:1, 2021:1, 2022:1, 2023:1, 2024:2, 2025:1). Ownership discipline:",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 641.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1281,
+      "markdown_body_line_end": 1284,
+      "heading": "Solved PYQ 1 - 2018 Q4(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks - it separates aspiration from formulation, voices and answers the relativist objection via overlapping consensus, and anchors the Indian constitutional synthesis instead of asserting a bare \"rights are universa",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 240.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 181.756
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1324,
+      "heading": "Solved PYQ 2 - 2019 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks - it performs a reasoned category correction, uses the accountability/responsibility distinction, and pins Article 19 + Part III + Article 51A precisely without overclaiming enforceability.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 560.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 515.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1370,
+      "heading": "Solved PYQ 3 - 2020 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it stays inside the human-rights doctrine as the stem demands, distinguishes different-starting-point from antagonism, and concedes the caste constraint with the Ambedkar/constitutional correction rather than ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 143.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 84.556
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1407,
+      "markdown_body_line_end": 1409,
+      "heading": "Solved PYQ 4 - 2021 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it grades adequacy by rights-type, names the abstraction-from-inequality problem, uses the FR-DPSP pairing as India evidence, and routes the modern contract without padding.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 501.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 457.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1445,
+      "heading": "Solved PYQ 5 - 2022 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it dismantles the modal \"necessarily,\" fixes the unconditional/inalienable equivocation, concedes the grain of truth, and anchors Article 19 + the grammar-of-anarchy guardrail.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 132.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 87.756
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1478,
+      "markdown_body_line_end": 1480,
+      "heading": "Solved PYQ 6 - 2023 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it splits duty from accountability, grants each its due, blocks the authoritarian misuse of duty-talk, and lands a graded verdict with Article 51A precision.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 506.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 462.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1516,
+      "markdown_body_line_end": 1518,
+      "heading": "Solved PYQ 7 - 2024 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks - at 10 marks it keeps origin + development + significance, names each thinker's premise crisply, and routes the modern contract without overspending the word budget.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 109.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 64.556
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1558,
+      "markdown_body_line_end": 1560,
+      "heading": "Solved PYQ 8 - 2024 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks - it stages the statism/individualism axis accurately, *compares* Plato and Aristotle rather than describing each, answers the comparative modal \"more successful,\" and voices two objections with replies.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 438.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 380.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1599,
+      "markdown_body_line_end": 1601,
+      "heading": "Solved PYQ 9 - 2025 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it uses Hohfeld to split necessary (claim-rights) from contingent (liberties), grants the modal distinction, anchors Article 51A + Part III, and refuses the false universal in the quotation.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 691.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1605,
+      "markdown_body_line_end": 1605,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 666.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 622.156
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1609,
+      "markdown_body_line_end": 1609,
+      "heading": "Original Mains 1",
+      "preview": "Original | Socio-Political Philosophy Paper II | 10 marks | Answer in 150 words.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 600.156
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 569.688
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1632,
+      "markdown_body_line_end": 1633,
+      "heading": "Original Mains 1",
+      "preview": "MEMORY: Why this earns marks - crisp definitions, the instrumental justification, and the legitimacy-vs-coercion caveat, all inside the 150-word budget.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 348.088
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 303.42
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1637,
+      "markdown_body_line_end": 1637,
+      "heading": "Original Mains 2",
+      "preview": "Original | Socio-Political Philosophy Paper II | 15 marks | Answer in 250 words.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 281.42
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 250.953
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1668,
+      "markdown_body_line_end": 1670,
+      "heading": "Original Mains 2",
+      "preview": "MEMORY: Why this earns marks - it deploys Hohfeld precisely, splits claim-rights from liberties, and evidences both correlative (Part III) and non-correlative (Article 51A) elements in the Indian order.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 691.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1674,
+      "markdown_body_line_end": 1674,
+      "heading": "Original Mains 3",
+      "preview": "Original | Socio-Political Philosophy Paper II | 20 marks | Answer in 250 words.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 669.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 639.356
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1711,
+      "markdown_body_line_end": 1713,
+      "heading": "Original Mains 3",
+      "preview": "MEMORY: Why this earns marks - it disambiguates 'prior', contrasts three traditions with strength-and-weakness each, answers the communitarian/feminist objection, and lands a graded India-anchored verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 294.156
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 249.488
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    }
+  ]
+}

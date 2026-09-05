@@ -1,0 +1,4452 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-04_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-04_Learning-Session_2026-08-27.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 9,
+      "heading": "Forms of Government - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Syllabus (verbatim):** Forms of Government : Monarchy; Theocracy and Democracy.  **Generation:** g2, 27 August 2026 · **Approval:** false pending explicit topic approval  **Evidence discipline:** Complete legacy teaching and workbook mate",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 16,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Monarchy, theocracy and democracy on shared axes",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\assets\\philosophy-paper-ii-socio-political-philosophy-04\\monarchy-theocracy-democracy-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 645.224
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 337.688
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 20,
+      "markdown_body_line_end": 20,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Forms of Government : Monarchy; Theocracy and Democracy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 304.288
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 273.82
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 32,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 229.62
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 99.019
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 60,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 163.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 651.49
+        }
+      },
+      "pdf_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 102,
+      "heading": "VISUAL - The four questions hidden inside every regime label",
+      "preview": "(1) WHO RULES?           one    |    few    |    many",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 444.59
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 183.59
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 108,
+      "markdown_body_line_end": 132,
+      "heading": "VISUAL - Three named forms, three different titles to rule",
+      "preview": "+-------------+------------------------+-------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 138,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Monarchy, theocracy and democracy are not three neutral names for the same activity: each answers who rules and by what title, and the marks are earned by also asking for whose good rule is exercised and under what limits of law, rights and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 515.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 457.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 171,
+      "markdown_body_line_end": 187,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE CLASSIFICATION TREE  --  four questions, not one",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 704.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 543.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 197,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Open every Forms-of-Government answer with the grid -- WHO rules, FOR WHOSE good, BY WHAT title, UNDER WHAT limits -- then say whether the stem wants description or evaluation. Distinguish first, judge last.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 481.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 436.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 203,
+      "markdown_body_line_end": 207,
+      "heading": "0. ONE-SCREEN MAP",
+      "preview": "Form | Basic meaning | Source of legitimacy | Main strength claimed | Main philosophical danger | UPSC hinge",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 3,
+        "headers": [
+          "Form",
+          "Basic meaning",
+          "Source of legitimacy",
+          "Main strength claimed",
+          "Main philosophical danger",
+          "UPSC hinge"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 414.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 255.722
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 228,
+      "heading": "0. ONE-SCREEN MAP",
+      "preview": "CLASSICAL FRAME",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 255.722
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 249,
+      "heading": "CLOSING RECALL FLOW - The Classification Problem: Who Rules, By What Title, For Whose Good",
+      "preview": "The Classification Problem: Who Rules, By What Title, For Whose Good",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 434.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 294.123
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 289,
+      "heading": "VISUAL - The degeneration sequence, with the value that fails at each step",
+      "preview": "ARISTOCRACY OF KNOWLEDGE  (wisdom rules)",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 319,
+      "heading": "VISUAL - Three charges against democracy, and what each really attacks",
+      "preview": "+---------------------------+--------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 485.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 264.091
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 325,
+      "markdown_body_line_end": 325,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plato's target is not participation as such but rule by unexamined opinion and unrestricted appetite: the ship of state needs a trained navigator, and a city that treats every opinion as equally qualified is already preparing its own demago",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 227.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 169.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 360,
+      "markdown_body_line_end": 379,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "PLATO'S DEGENERATION CYCLE  (Republic VIII)",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 426.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 235.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 386,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: A-T-O-D-T -- Aristocracy, Timocracy, Oligarchy, Democracy, Tyranny. \"Too much freedom is the seed of tyranny\" is the line that carries the answer.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 201.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 157.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 398,
+      "heading": "1.2 Plato's broad classification and the logic of degeneration",
+      "preview": "Stage | Dominant value | Why it degenerates",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Dominant value",
+          "Why it degenerates"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 87.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 715.09
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 423,
+      "heading": "CLOSING RECALL FLOW - Plato: The Degeneration of Constitutions and the Critique of Democracy",
+      "preview": "Plato: The Degeneration of Constitutions and the Critique of Democracy",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 438.09
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 297.521
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 435,
+      "markdown_body_line_end": 455,
+      "heading": "VISUAL - The six-fold classification: number crossed with purpose",
+      "preview": "+---------------+---------------------------+------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 461,
+      "markdown_body_line_end": 487,
+      "heading": "VISUAL - Why polity is a middle course and not a compromise",
+      "preview": "OLIGARCHY  <-------------  POLITY  ------------->  DEMOCRACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 565.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 324.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Classification needs two variables rather than one: number tells you who decides, orientation tells you for whom, and the right and corrupt version of each number differ in purpose rather than in size.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 287.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 243.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 527,
+      "markdown_body_line_end": 541,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "ARISTOTLE'S SIX-FOLD MATRIX  (Politics III)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 490.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 349.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 550,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: One / Few / Many, each with a good twin and a corrupt twin. Good-many = POLITY. Aristocracy = rule of the BEST; oligarchy = rule of the WEALTHY.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 302.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 257.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 561,
+      "heading": "1.4 Aristotle's six-fold classification",
+      "preview": "Number of rulers | Right form (common good) | Deviant form (private interest)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Number of rulers",
+          "Right form (common good)",
+          "Deviant form (private interest)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 202.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 113.822
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 590,
+      "heading": "CLOSING RECALL FLOW - Aristotle: The Six-Fold Classification and the Polity as Middle Course",
+      "preview": "Aristotle: The Six-Fold Classification and the Polity as Middle Course",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 522.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 391.223
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 602,
+      "markdown_body_line_end": 628,
+      "heading": "VISUAL - Two monarchies, and where accountability actually sits",
+      "preview": "+---------------------+----------------------------+---------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 658,
+      "heading": "VISUAL - Reading the above-politics claim without conceding too much",
+      "preview": "ABOVE PARTY CONFLICT                ABOVE CONSTITUTIONAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 505.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 284.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 664,
+      "markdown_body_line_end": 664,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Monarchy leaves room for individual freedom only where law, rights and representative institutions already restrain the crown: the institution does not itself ground freedom, and hereditary title guarantees neither wisdom nor virtue nor ans",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 247.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 189.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 717,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE MONARCHY SPECTRUM  (title of one, very different powers)",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 440.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 259.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 724,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Distinguish ABSOLUTE (rules, above the law) from CONSTITUTIONAL (reigns, above party). Most defences of monarchy quietly rely on the constitutional kind.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 211.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 167.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 737,
+      "heading": "2.2 Absolute monarchy and constitutional monarchy",
+      "preview": "Type | Basic character | Source of power | Accountability pattern | Philosophical verdict",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Basic character",
+          "Source of power",
+          "Accountability pattern",
+          "Philosophical verdict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 75.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 717.39
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 804,
+      "heading": "CLOSING RECALL FLOW - Monarchy: Absolute and Constitutional, Divine Right and the Freedom Question",
+      "preview": "Monarchy: Absolute and Constitutional, Divine Right and the Freedom Question",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 522.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 381.923
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 844,
+      "heading": "VISUAL - Three things that are constantly confused with theocracy",
+      "preview": "+-----------------------------+------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 850,
+      "markdown_body_line_end": 882,
+      "heading": "VISUAL - The validity test applied to theocracy",
+      "preview": "NAME THE TEST -> consent | equal citizenship | public reason |",
+      "metadata": {
+        "language": "text",
+        "line_count": 31,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 485.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 184.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 888,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive line runs between religiously informed public reasoning, which a constitutional democracy can accommodate, and theocratic sovereignty, which makes political authority derive from and answer to religious authority; an answer tha",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 147.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 89.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 939,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE RELIGION-AND-STATE SPECTRUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 325.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 164.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 948,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "FIVE ESSENTIAL FEATURES OF THEOCRACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 164.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 93.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 951,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: A theocracy relocates SOVEREIGNTY from the people to God-via-clergy. The line that earns marks: religious VALUES in public life != theocratic AUTHORITY.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 93.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 49.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 961,
+      "markdown_body_line_end": 967,
+      "heading": "3.2 Essential features",
+      "preview": "Feature | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 703.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 573.09
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1033,
+      "markdown_body_line_end": 1041,
+      "heading": "CLOSING RECALL FLOW - Theocracy: Divine Sovereignty, Sacred Law and the Validity Question",
+      "preview": "Theocracy: Divine Sovereignty, Sacred Law and the Validity Question",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 310.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 161.373
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1053,
+      "markdown_body_line_end": 1077,
+      "heading": "VISUAL - Three axes that generate every model of democracy",
+      "preview": "AXIS 1  DIRECT  <----------------------->  REPRESENTATIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 609.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 388.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1083,
+      "markdown_body_line_end": 1113,
+      "heading": "VISUAL - Minority protection: what liberal democracy delivers and what it misses",
+      "preview": "+-------------------------------------+-------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 333.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1119,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Democracy is not simply periodic election: its distinctive claim is that rule is equally authorised, publicly justified and peacefully replaceable, so a regime that keeps elections while dismantling those conditions retains the form and los",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 490.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 431.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1170,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE DEMOCRACY MODEL MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 641.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 480.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1181,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "INSTITUTIONAL FORM OF A REPRESENTATIVE DEMOCRACY  (comparative scaffolding)",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 480.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1185,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Map first (direct/representative; procedural/substantive; liberal/participatory/deliberative), THEN judge. Democracy-as-ideal != a single institutional blueprint.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1198,
+      "heading": "4.2 Direct and representative democracy",
+      "preview": "Type | Character | Strength | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Character",
+          "Strength",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 253.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 167.322
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1206,
+      "heading": "4.3 Procedural and substantive democracy",
+      "preview": "Model | Main focus | Core question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Model",
+          "Main focus",
+          "Core question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 116.922
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 38.72
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1271,
+      "heading": "CLOSING RECALL FLOW - Democracy: Direct, Representative, Procedural, Substantive and Deliberative",
+      "preview": "Democracy: Direct, Representative, Procedural, Substantive and Deliberative",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 713.991
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 565.073
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1283,
+      "markdown_body_line_end": 1309,
+      "heading": "VISUAL - Three pure types of legitimate authority and their crises",
+      "preview": "+------------------+---------------------+----------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 332.273
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 91.273
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1349,
+      "heading": "VISUAL - Two deflationary challenges to rule by the people",
+      "preview": "SCHUMPETER                       MICHELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 33,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1355,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Classification by number of rulers tells us who decides, while classification by type of legitimacy tells us why they are obeyed, and a complete assessment of monarchy, theocracy or democracy requires both grids laid over each other.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 430.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 385.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1409,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "WEBER'S THREE PURE TYPES OF LEGITIMATE AUTHORITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 607.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 416.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1411,
+      "markdown_body_line_end": 1417,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "SORTING THE NON-DEMOCRACIES  (do NOT conflate them -- comparative scaffolding)",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 416.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 355.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1419,
+      "markdown_body_line_end": 1420,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Traditional / Charismatic / Legal-rational -- ground of BELIEF in rightfulness. \"Legitimate\" here = BELIEVED rightful (sociological), NOT justified.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 311.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1426,
+      "markdown_body_line_end": 1426,
+      "heading": "4A. AUTHORITY, ELITE COMPETITION AND THE PATHOLOGIES OF DEMOCRACY",
+      "preview": "⚠️ **Why this section exists.** Classifying regimes by *who rules* (Plato, Aristotle) does not explain why rule is **obeyed**, why democratic forms can coexist with oligarchic substance, or how a regime can be electorally democratic and con",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 289.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 201.956
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1436,
+      "heading": "4A.1 Weber: the three pure types of legitimate authority",
+      "preview": "Type | Ground of legitimacy | Administrative form | Succession problem | Regime affinity",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 3,
+        "headers": [
+          "Type",
+          "Ground of legitimacy",
+          "Administrative form",
+          "Succession problem",
+          "Regime affinity"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 132.356
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 664.89
+        }
+      },
+      "pdf_pages": [
+        31,
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1504,
+      "markdown_body_line_end": 1512,
+      "heading": "CLOSING RECALL FLOW - Authority and Legitimacy: Weber, Schumpeter and Michels",
+      "preview": "Authority and Legitimacy: Weber, Schumpeter and Michels",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 38.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 662.723
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1524,
+      "markdown_body_line_end": 1556,
+      "heading": "VISUAL - The slide from representation deficit to illiberal democracy",
+      "preview": "[1] a genuine representation deficit exists",
+      "metadata": {
+        "language": "text",
+        "line_count": 31,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 448.923
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 147.923
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1562,
+      "markdown_body_line_end": 1590,
+      "heading": "VISUAL - Form retained, substance eroded",
+      "preview": "+---------------------------+----------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1596,
+      "markdown_body_line_end": 1596,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anti-elitism is ordinary democratic politics and is entirely compatible with democracy, whereas anti-pluralism, the claim that only one side represents the real people, is not, and that is the line on which any judgement of democratic decay",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 490.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 431.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1631,
+      "markdown_body_line_end": 1646,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "FORM RETAINED   vs   SUBSTANTIVE CONDITION ERODED",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 641.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 490.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1652,
+      "markdown_body_line_end": 1653,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Ask not \"were there elections?\" but \"did the FIVE substantive conditions survive?\" Form can persist while substance is emptied.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 456.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 412.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1676,
+      "markdown_body_line_end": 1682,
+      "heading": "4A.4 Populism, and the slide to illiberal democracy",
+      "preview": "Symptom | Democratic form retained | Substantive condition eroded",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Symptom",
+          "Democratic form retained",
+          "Substantive condition eroded"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 692.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 528.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1724,
+      "heading": "CLOSING RECALL FLOW - Populism, Illiberal Democracy and Propaganda",
+      "preview": "Populism, Illiberal Democracy and Propaganda",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 591.391
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 442.473
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1736,
+      "markdown_body_line_end": 1762,
+      "heading": "VISUAL - Where power sits: the unitary and federal poles",
+      "preview": "UNITARY  <------------------------------------------>  FEDERAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1768,
+      "markdown_body_line_end": 1798,
+      "heading": "VISUAL - The decentralisation ladder and the principle beneath it",
+      "preview": "SUBSIDIARITY -> decide at the LOWEST capable level",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 505.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 224.091
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1804,
+      "markdown_body_line_end": 1804,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A complete modern account of forms of government runs two axes rather than one: who rules and by what title, and where power sits territorially and how far down it is pushed under the principle that decisions belong at the lowest capable le",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 187.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 129.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1840,
+      "markdown_body_line_end": 1851,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "UNITARY  <----------------------------->  FEDERAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 349.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 238.091
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1853,
+      "markdown_body_line_end": 1859,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE DECENTRALISATION LADDER  (subsidiarity: decide at the LOWEST capable level)",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 238.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 177.091
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1861,
+      "markdown_body_line_end": 1862,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Two axes, not one -- who rules (form) AND where power sits (unitary/federal) + how far it is pushed down (centralisation/decentralisation, subsidiarity).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 177.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 132.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1870,
+      "markdown_body_line_end": 1875,
+      "heading": "5.1 Plato versus democratic self-government",
+      "preview": "Axis | Plato's objection | Democratic reply",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Plato's objection",
+          "Democratic reply"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 91.424
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 692.69
+        }
+      },
+      "pdf_pages": [
+        40,
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1894,
+      "markdown_body_line_end": 1899,
+      "heading": "5.3 Monarchy versus democracy",
+      "preview": "Question | Monarchical answer | Democratic answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Monarchical answer",
+          "Democratic answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 530.09
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 420.688
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1924,
+      "markdown_body_line_end": 1932,
+      "heading": "CLOSING RECALL FLOW - Institutional and Territorial Design: Unitary, Federal and Decentralised",
+      "preview": "Institutional and Territorial Design: Unitary, Federal and Decentralised",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 165.988
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 760.823
+        }
+      },
+      "pdf_pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1944,
+      "markdown_body_line_end": 1974,
+      "heading": "VISUAL - The constitutional machine that no pure form contains",
+      "preview": "+------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 542.223
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 261.223
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1980,
+      "markdown_body_line_end": 2010,
+      "heading": "VISUAL - The comparative verdict, run down shared axes",
+      "preview": "+---------------------+--------------+--------------+--------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2016,
+      "markdown_body_line_end": 2016,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Democracy's superiority is not that it guarantees wise decisions; it lies in equal standing, public justification and the institutionalised correction of error, and that is the axis on which the comparison of monarchy, theocracy and democra",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 470.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 411.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2051,
+      "markdown_body_line_end": 2069,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MIXED / CONSTITUTIONAL GOVERNMENT  --  checks and balances",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 622.091
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 441.091
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2071,
+      "markdown_body_line_end": 2076,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE EVALUATION / ANSWER SPINE  --  score every form on the same axes",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 390.091
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2078,
+      "markdown_body_line_end": 2079,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Pure types are textbook fictions; real government is MIXED. Judge on the axes -- and error-correction / peaceful transfer is the axis candidates forget.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 390.091
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 345.424
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2133,
+      "markdown_body_line_end": 2142,
+      "heading": "7. COMMON UPSC TRAPS",
+      "preview": "❌ Trap | ✅ Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "❌ Trap",
+          "✅ Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 589.591
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 339.39
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2148,
+      "markdown_body_line_end": 2156,
+      "heading": "CLOSING RECALL FLOW - Mixed and Constitutional Government: Criteria and the Comparative Verdict",
+      "preview": "Mixed and Constitutional Government: Criteria and the Comparative Verdict",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 315.89
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 166.971
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2350,
+      "markdown_body_line_end": 2350,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Forms-of-Government.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank with its corpus-",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 140.791
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 53.524
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2381,
+      "markdown_body_line_end": 2381,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 10 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 320.791
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 276.124
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2383,
+      "markdown_body_line_end": 2394,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 10,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 276.124
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 748.39
+        }
+      },
+      "pdf_pages": [
+        49,
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2410,
+      "heading": "10.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 693.19
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 410.288
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2417,
+      "markdown_body_line_end": 2417,
+      "heading": "10.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not run the full authority typology, the populism debate and the classical classification. One line of argument, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 297.088
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 252.42
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2426,
+      "markdown_body_line_end": 2426,
+      "heading": "10.2 15-mark method (~220 words · 6 moves · ~18 minutes)",
+      "preview": "⚠️ For theocracy stems, the mark-bearing move is the distinction between **religiously informed public reasoning** (compatible with constitutional democracy) and **theocratic sovereignty** (a claim that political authority derives from and ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 82.42
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        50,
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2433,
+      "markdown_body_line_end": 2433,
+      "heading": "10.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On propaganda stems, the mark-bearing move is the **regulator's dilemma** (§4A.5): the remedy hands the state power over public truth, so defensible responses must be structural — plurality, transparency, independent adjudication, civic ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 574.424
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 501.356
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2516,
+      "markdown_body_line_end": 2521,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §4A (added in this pass):** the Weber, Schumpeter, Michels and populism modules are named-scholar reconstructions adapted into this Philosophy owner. They assert no page, chapter, edition or verbatim wording, and ma",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 766.891
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 679.624
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2529,
+      "markdown_body_line_end": 2529,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 652.124
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 607.456
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3172,
+      "markdown_body_line_end": 3173,
+      "heading": "EXAM APPLICATION 1 - The Classification Problem: Who Rules, For Whom, Under What Limits",
+      "preview": "MEMORY: Concept spine -> WHO / FOR WHOSE GOOD / BY WHAT TITLE / UNDER WHAT LIMITS -> descriptive or normative? -> only then expound the specific form.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 606.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 561.824
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3193,
+      "markdown_body_line_end": 3194,
+      "heading": "EXAM APPLICATION 2 - Plato: The Degeneration of Constitutions and the Critique of Democracy",
+      "preview": "MEMORY: 2025 = \"Comment on Plato's critique of Democracy\". Four moves, ~150 words: target -> spine -> objection -> graded verdict. Never a description dump.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 394.224
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 349.556
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3214,
+      "markdown_body_line_end": 3215,
+      "heading": "EXAM APPLICATION 3 - Aristotle: The Six-Fold Matrix, Aristocracy/Oligarchy and the Polity",
+      "preview": "MEMORY: Matrix = number x purpose (F2). Middle-course = polity + middle class (F3). \"Common interest\" is not self-specifying -- name the standard you use.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 153.556
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 108.888
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3238,
+      "markdown_body_line_end": 3239,
+      "heading": "EXAM APPLICATION 4 - Monarchy: Absolute vs Constitutional, Freedom and the Above-Politics Claim",
+      "preview": "MEMORY: Freedom stem -> constitutional-only \"yes\". Systematic stem -> \"above party, not above the constitution\". Never let symbolic monarchy blur into autocracy.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 586.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 541.424
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3265,
+      "markdown_body_line_end": 3266,
+      "heading": "EXAM APPLICATION 5 - Theocracy: Divine Sovereignty, Secularism and the Validity Question",
+      "preview": "MEMORY: Theocracy = 3 owned stems. Status (2019, residual) / relation to monarchy (2022, divine-right bridge) / validity (2025, criterion verdict). Never caricature.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 302.824
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 258.156
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3291,
+      "markdown_body_line_end": 3293,
+      "heading": "EXAM APPLICATION 6 - Democracy: Models, Institutional Forms and Minority Protection",
+      "preview": "MEMORY: 2018 = liberal democracy + social cohesion (Indian context, Ambedkar). 2020 = minority protection, degree judgment (form vs substance). Liberty/equality as distinctive features (2018 Q2a) is Ideals, not here.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 739.424
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3314,
+      "markdown_body_line_end": 3316,
+      "heading": "EXAM APPLICATION 7 - Authority, Legitimacy and the Non-Democratic Forms (Weber, Schumpeter, Michels)",
+      "preview": "MEMORY: Authority types = ground of belief (F4). Routinisation (F5) = succession/ systematic. Sequence: Plato (competence) -> Michels (organisation) -> Schumpeter (redefine). Never equate \"legitimate\" with \"justified\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 529.424
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 484.756
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3340,
+      "markdown_body_line_end": 3341,
+      "heading": "EXAM APPLICATION 8 - Populism, Illiberal Democracy and Propaganda",
+      "preview": "MEMORY: 2022 propaganda (20) = regulator's dilemma + structural remedies. 2023 challenges (15) = form-vs-substance + institutional repairs. Never name actors.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 282.556
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 237.888
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3365,
+      "markdown_body_line_end": 3366,
+      "heading": "EXAM APPLICATION 9 - Institutional and Territorial Design: Federal/Unitary, Decentralisation and Inter-Form Debates",
+      "preview": "MEMORY: Federal/unitary + decentralisation = SCAFFOLDING (not owned PYQs). Comparison rule: shared axes in parallel; error-correction is the axis that decides verdicts.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 766.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 722.224
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3389,
+      "markdown_body_line_end": 3390,
+      "heading": "EXAM APPLICATION 10 - Mixed/Constitutional Government, Criteria of Evaluation and the Comparative Verdict",
+      "preview": "MEMORY: Same axes in parallel -> error-correction decides -> graded verdict. No form wins on every axis; say which axis you are weighting and why.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 498.024
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 453.356
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3411,
+      "markdown_body_line_end": 3413,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED EVIDENCE / EXAMPLE -> OBJECTION / REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 730.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3417,
+      "markdown_body_line_end": 3417,
+      "heading": "SOLVED PYQ BANK - EXACTLY 10 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 10 primary parts (2018:1, 2019:1, 2020:1, 2021:1, 2022:2, 2023:2, 2024:0, 2025:2). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 705.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 576.024
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3453,
+      "markdown_body_line_end": 3456,
+      "heading": "Solved PYQ 1 - 2018 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it DEFINES liberal democracy exactly (popular rule + constitutional limits + minority protection), answers the \"deeper principles\" half with Ambedkar's political-vs-social-equality thesis, and anchors India w",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 195.624
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 136.756
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3488,
+      "markdown_body_line_end": 3491,
+      "heading": "Solved PYQ 2 - 2019 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it states the residual/contested STATUS, grounds the defect in F13 (interpretation monopoly, unequal citizenship), draws the informed-public-reasoning vs theocratic-sovereignty line, and closes on the criteri",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 556.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 497.424
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3522,
+      "markdown_body_line_end": 3524,
+      "heading": "Solved PYQ 3 - 2020 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it runs the achievements/limits balance the stem demands, deploys F10 form-vs-substance as the critical engine, and grades with the form/substance verdict instead of a flat \"yes/no\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 173.824
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 129.156
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3554,
+      "markdown_body_line_end": 3556,
+      "heading": "Solved PYQ 4 - 2021 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it treats the \"does X leave room for Y\" directive conceptually (entailment of monarchy vs requirements of freedom), splits absolute from constitutional, and uses F4 to locate freedom in legal-rational limits,",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 570.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 511.624
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3602,
+      "markdown_body_line_end": 3605,
+      "heading": "Solved PYQ 5 - 2022 Q4(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it reframes propaganda as an attack on opinion-formation (F11), runs two objection/reply chains, lands the REGULATOR'S DILEMMA with structural remedies + F12, keeps India to Art 19(1)(a)/19(2) and RPA 1951 as",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 708.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 649.224
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3640,
+      "markdown_body_line_end": 3642,
+      "heading": "Solved PYQ 6 - 2022 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes the locus-of-sovereignty axis, states the canonical \"theologically legitimated vs politically constitutive\" line, uses F13/F4, and grades the relation as contingent-historical rather than necessary.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 252.824
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 193.956
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3672,
+      "markdown_body_line_end": 3674,
+      "heading": "Solved PYQ 7 - 2023 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the systematicity conditions, uses F5 (routinisation) to explain how a crown becomes rule-bound, and disambiguates \"above politics\" (above party, not above accountability) before a conditional verdic",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 626.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 567.224
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3709,
+      "markdown_body_line_end": 3711,
+      "heading": "Solved PYQ 8 - 2023 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it separates form from substance, itemises the challenges with named anchors (F9/F8/Laclau, F11, Michels/F7, F10), pairs each with a structural remedy plus F12, and answers the anti-democratic objection tempo",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 186.824
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 127.956
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3741,
+      "markdown_body_line_end": 3743,
+      "heading": "Solved PYQ 9 - 2025 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes Plato's TARGET (rule by appetite and opinion, not participation as such), runs the three-claim spine with F1, raises the epistemic objection, and lands the asymmetric verdict the \"Comment on\" directi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 535.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 477.024
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3781,
+      "markdown_body_line_end": 3783,
+      "heading": "Solved PYQ 10 - 2025 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it NAMES the validity test before judging, runs the for/against charitably on shared axes, drives the defect through F13 (interpretation monopoly) with F14 as a dated Indian fact, and closes on the criterion ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 46.024
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        72,
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3787,
+      "markdown_body_line_end": 3787,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 719.424
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 674.756
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3791,
+      "markdown_body_line_end": 3791,
+      "heading": "Original Mains 1",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 10 marks - answer in about 150 words - directive: Distinguish / Explain",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 652.756
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 608.088
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3819,
+      "markdown_body_line_end": 3821,
+      "heading": "Original Mains 1",
+      "preview": "MEMORY: Why this earns marks -- it distinguishes classical (number x purpose, F2) from modern (legitimacy F4, form/substance F10, design), and closes on the cross-typology verdict rather than a flat list.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 292.288
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 247.62
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3825,
+      "markdown_body_line_end": 3825,
+      "heading": "Original Mains 2",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 15 marks - answer in about 250 words - directive: Critically examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 225.62
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 180.953
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3858,
+      "markdown_body_line_end": 3861,
+      "heading": "Original Mains 2",
+      "preview": "MEMORY: Why this earns marks -- it fixes equal citizenship as the test, uses F5 to show the crown routinised under a public constitution and F13 to locate theocracy's defect in the interpretation monopoly, and grades with a criterion verdic",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 561.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 502.424
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3865,
+      "markdown_body_line_end": 3865,
+      "heading": "Original Mains 3",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 20 marks - answer in about 400 words - directive: Examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 480.424
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 449.956
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3912,
+      "markdown_body_line_end": 3915,
+      "heading": "Original Mains 3",
+      "preview": "MEMORY: Why this earns marks -- it makes the majority-rule/constitutional-democracy distinction the spine, runs F10 form/substance, two named objection/reply chains (F8/F9/Laclau; F11 + regulator's dilemma + F12), keeps India to dated legal",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 657.491
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 598.624
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3926,
+      "markdown_body_line_end": 3931,
+      "heading": "ADVANCED SESSION 1 - The Classification Problem: Who Rules, For Whom, Under What Limits",
+      "preview": "ANALYSIS: Descriptive vs normative. A *descriptive* classification records who > holds power and how it is organised; a *normative* classification judges whether that arrangement deserves obedience by some standard -- knowledge (Plato), com",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 521.424
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 434.156
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3933,
+      "markdown_body_line_end": 3938,
+      "heading": "ADVANCED SESSION 1 - The Classification Problem: Who Rules, For Whom, Under What Limits",
+      "preview": "ANALYSIS: Why one axis is never enough. \"Number of rulers\" alone cannot tell monarchy from tyranny, aristocracy from oligarchy, or polity from mob rule -- the good and the corrupt version of each number share the same headcount and differ o",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 434.156
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 361.088
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3940,
+      "markdown_body_line_end": 3943,
+      "heading": "ADVANCED SESSION 1 - The Classification Problem: Who Rules, For Whom, Under What Limits",
+      "preview": "WRONG: Treating the three named forms as sealed boxes. Real regimes MIX -- constitutional monarchy is monarchical in title but democratic in governance; a secular democracy may still confront theocratic claims. The classification is a set o",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 361.088
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 302.22
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3954,
+      "markdown_body_line_end": 3961,
+      "heading": "ADVANCED SESSION 2 - Plato: The Degeneration of Constitutions and the Critique of Democracy",
+      "preview": "ANALYSIS: Claim 1 -- rule is a CRAFT requiring knowledge. The ship-of-state analogy: you would not pick a navigator by lottery or by counting heads, so why pick rulers that way? Political judgment about justice and the good is expertise, no",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 243.82
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 142.353
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3963,
+      "markdown_body_line_end": 3965,
+      "heading": "ADVANCED SESSION 2 - Plato: The Degeneration of Constitutions and the Critique of Democracy",
+      "preview": "WRONG: Reading Plato as a defender of hereditary monarchy or of \"hating freedom\". His target is UNINFORMED MASS RULE and the leadership-selection it produces; his remedy is rule by KNOWLEDGE (a trained guardian class), not rule by birth.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 142.353
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 83.485
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3967,
+      "markdown_body_line_end": 3973,
+      "heading": "ADVANCED SESSION 2 - Plato: The Degeneration of Constitutions and the Critique of Democracy",
+      "preview": "ANALYSIS: The democratic reply (epistemic defence). Against Plato, moderns argue that inclusion has EPISTEMIC value: diverse perspectives, open criticism and contestation detect and correct error better than an insulated elite. The decisive",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 83.485
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        75,
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3984,
+      "markdown_body_line_end": 3991,
+      "heading": "ADVANCED SESSION 3 - Aristotle: The Six-Fold Matrix, Aristocracy/Oligarchy and the Polity",
+      "preview": "ANALYSIS: Aristocracy vs oligarchy. The expertise argument for aristocracy is that the virtuous and competent should govern for the common good; the standing danger is CAPTURE -- \"rule of the best\" quietly becoming \"rule of the wealthy few\"",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 657.624
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 556.156
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3993,
+      "markdown_body_line_end": 4000,
+      "heading": "ADVANCED SESSION 3 - Aristotle: The Six-Fold Matrix, Aristocracy/Oligarchy and the Polity",
+      "preview": "ANALYSIS: Polity as a mixed middle course. Polity blends oligarchic and democratic elements and leans on a large MIDDLE CLASS to resist both rule by wealth alone and rule by an unrestrained majority. Aristotle's lasting insight is instituti",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 556.156
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 454.688
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4002,
+      "markdown_body_line_end": 4007,
+      "heading": "ADVANCED SESSION 3 - Aristotle: The Six-Fold Matrix, Aristocracy/Oligarchy and the Polity",
+      "preview": "ANALYSIS: Plato vs Aristotle (the 2024-pattern angle). Plato asks who ought IDEALLY to rule (knowledge); Aristotle asks what constitution can SUSTAIN a good political life under real social conditions (the middle course between statism and ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 454.688
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 381.62
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4018,
+      "markdown_body_line_end": 4022,
+      "heading": "ADVANCED SESSION 4 - Monarchy: Absolute vs Constitutional, Freedom and the Above-Politics Claim",
+      "preview": "ANALYSIS: The case FOR. Unity and continuity -- one ruler can symbolise the state beyond party conflict, offering historical continuity and national identity; decisiveness -- less paralysed by faction than assemblies (a pre-modern point); t",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 309.22
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 250.353
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4024,
+      "markdown_body_line_end": 4029,
+      "heading": "ADVANCED SESSION 4 - Monarchy: Absolute vs Constitutional, Freedom and the Above-Politics Claim",
+      "preview": "ANALYSIS: The case AGAINST. Equality objection -- hereditary office violates the principle that public authority be open to all on equal terms; merit objection -- birth guarantees neither wisdom nor virtue (Plato's ruler is chosen by knowle",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 250.353
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 177.285
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4031,
+      "markdown_body_line_end": 4035,
+      "heading": "ADVANCED SESSION 4 - Monarchy: Absolute vs Constitutional, Freedom and the Above-Politics Claim",
+      "preview": "ANALYSIS: Divine right as the bridge to theocracy. The Divine Right of Kings holds the monarch answerable primarily to God, not the people -- it SACRALISES kingship without vesting sovereignty in clergy or sacred law. So monarchy and theocr",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 177.285
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 104.217
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4037,
+      "markdown_body_line_end": 4040,
+      "heading": "ADVANCED SESSION 4 - Monarchy: Absolute vs Constitutional, Freedom and the Above-Politics Claim",
+      "preview": "WRONG: Equating symbolic constitutional monarchy with autocracy. The whole mark-bearing move on \"freedom\" and \"systematic\" stems is that a constitutionalised, politically limited monarch is compatible with rights and responsible government,",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 104.217
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 45.35
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4051,
+      "markdown_body_line_end": 4055,
+      "heading": "ADVANCED SESSION 5 - Theocracy: Divine Sovereignty, Secularism and the Validity Question",
+      "preview": "ANALYSIS: The sovereignty-of-God claim and its problem. The appeal: humans do not INVENT ultimate norms, they RECEIVE them, so rulers are placed under a higher law that limits their arrogance. The problem: once interpretation is human, \"who",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 678.824
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4057,
+      "markdown_body_line_end": 4062,
+      "heading": "ADVANCED SESSION 5 - Theocracy: Divine Sovereignty, Secularism and the Validity Question",
+      "preview": "ANALYSIS: Theocracy vs secularism. Secularism protects equal citizenship, liberty of conscience and peaceful coexistence under plural faith; theocracy stands in structural tension with it because it privileges one sacred framework, constrai",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 678.824
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 605.756
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4064,
+      "markdown_body_line_end": 4069,
+      "heading": "ADVANCED SESSION 5 - Theocracy: Divine Sovereignty, Secularism and the Validity Question",
+      "preview": "ANALYSIS: The validity verdict (the 2025 hinge). FOR: moral unity, restraint on self-interested politics, a stable ethical order. AGAINST: no equal standing for other faiths or none; conscience compromised; dissent becomes impiety; clerical",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 605.756
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 518.488
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4071,
+      "markdown_body_line_end": 4074,
+      "heading": "ADVANCED SESSION 5 - Theocracy: Divine Sovereignty, Secularism and the Validity Question",
+      "preview": "WRONG: Caricaturing theocracy as \"any religious influence\" or naming particular countries/regimes as theocratic. Answer at the level of CRITERIA (source of authority, treatment of dissent, equality of citizenship), as the canonical file req",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 518.488
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 459.62
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4086,
+      "markdown_body_line_end": 4093,
+      "heading": "ADVANCED SESSION 6 - Democracy: Models, Institutional Forms and Minority Protection",
+      "preview": "ANALYSIS: Liberal democracy + minority protection. Liberal democracy combines popular rule with constitutional limits, rights, rule of law and safeguards for minorities -- the majority governs WITHOUT converting number into unrestricted pow",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 401.22
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 299.753
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4095,
+      "markdown_body_line_end": 4099,
+      "heading": "ADVANCED SESSION 6 - Democracy: Models, Institutional Forms and Minority Protection",
+      "preview": "ANALYSIS: Liberty and equality in tension. Democracy institutionalises rather than abolishes the tension: too much liberty without equality entrenches domination by wealth; too much equality without liberty flattens dissent. The strong Indi",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 299.753
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 226.685
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4101,
+      "markdown_body_line_end": 4106,
+      "heading": "ADVANCED SESSION 6 - Democracy: Models, Institutional Forms and Minority Protection",
+      "preview": "ANALYSIS: Deepening democracy. Participatory democracy (Mill's developmental case: participation educates citizens and resists alienation) and deliberative democracy (Habermas: legitimacy grows when laws emerge from public reasoning under c",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 226.685
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 153.617
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4108,
+      "markdown_body_line_end": 4115,
+      "heading": "ADVANCED SESSION 6 - Democracy: Models, Institutional Forms and Minority Protection",
+      "preview": "ANALYSIS: Parliamentary vs presidential (clearly-labelled comparative scaffolding, not canonical doctrine). FUSION (parliamentary) buys responsibility and easy removal but risks instability and coalition gridlock; SEPARATION (presidential) ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 153.617
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 52.15
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4126,
+      "markdown_body_line_end": 4132,
+      "heading": "ADVANCED SESSION 7 - Authority, Legitimacy and the Non-Democratic Forms (Weber, Schumpeter, Michels)",
+      "preview": "ANALYSIS: Power vs authority; the presupposition. Weber separates POWER (compliance despite resistance) from AUTHORITY (power believed rightful). Legitimacy here is a SOCIOLOGICAL fact about belief, not a normative verdict -- the commonest ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 752.091
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 664.824
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4134,
+      "markdown_body_line_end": 4140,
+      "heading": "ADVANCED SESSION 7 - Authority, Legitimacy and the Non-Democratic Forms (Weber, Schumpeter, Michels)",
+      "preview": "ANALYSIS: Schumpeter's competitive elitism. He rejects the \"classical doctrine\" (democracy realises the will of the people) and redefines democracy as the institutional arrangement in which individuals acquire power to decide by a COMPETITI",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 664.824
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 577.556
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4142,
+      "markdown_body_line_end": 4145,
+      "heading": "ADVANCED SESSION 7 - Authority, Legitimacy and the Non-Democratic Forms (Weber, Schumpeter, Michels)",
+      "preview": "ANALYSIS: Michels' iron law of oligarchy. Even avowedly democratic mass organisations drift toward rule by a small leadership, because scale, specialisation and control of information entrench full-time experts (F7). The defensible version ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 577.556
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 518.688
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4147,
+      "markdown_body_line_end": 4153,
+      "heading": "ADVANCED SESSION 7 - Authority, Legitimacy and the Non-Democratic Forms (Weber, Schumpeter, Michels)",
+      "preview": "ANALYSIS: The answer-building SEQUENCE. Plato objects to democracy on COMPETENCE; Michels on ORGANISATION; Schumpeter concedes both and REDEFINES democracy so neither is fatal. Running the three in that order converts a descriptive answer i",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 518.688
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 417.22
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4164,
+      "markdown_body_line_end": 4172,
+      "heading": "ADVANCED SESSION 8 - Populism, Illiberal Democracy and Propaganda",
+      "preview": "ANALYSIS: What populism is (name the contest, do not settle it). Mudde: a THIN-CENTRED ideology dividing society into \"the pure people\" vs \"the corrupt elite\", attaching to a host ideology (hence left, right and religious forms alike) (F8).",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 358.82
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 257.353
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4174,
+      "markdown_body_line_end": 4180,
+      "heading": "ADVANCED SESSION 8 - Populism, Illiberal Democracy and Propaganda",
+      "preview": "ANALYSIS: The slide to illiberal democracy. A real representation deficit -> a leader embodies \"the real people\" -> disagreement becomes betrayal -> checks (courts, second chambers, commissions, free press, federal units) are recast as elit",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 257.353
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 170.085
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4182,
+      "markdown_body_line_end": 4191,
+      "heading": "ADVANCED SESSION 8 - Populism, Illiberal Democracy and Propaganda",
+      "preview": "ANALYSIS: Propaganda and manufactured consent (the 20-mark hinge). Weber makes legitimacy a matter of belief; belief can be ENGINEERED. Authorisation is valuable only if judgment is formed under access to information, exposure to rival argu",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 170.085
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 40.217
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4193,
+      "markdown_body_line_end": 4198,
+      "heading": "ADVANCED SESSION 8 - Populism, Illiberal Democracy and Propaganda",
+      "preview": "WRONG: Ending at \"regulate fake news\", or naming any Indian party/government/period as populist or illiberal. India-anchor discipline: Article 19(1)(a) guarantees free speech SUBJECT TO reasonable restrictions under 19(2); the Representatio",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 40.217
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        78,
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4211,
+      "markdown_body_line_end": 4216,
+      "heading": "ADVANCED SESSION 9 - Institutional and Territorial Design: Federal/Unitary, Decentralisation and Inter-Form Debates",
+      "preview": "ANALYSIS: Federal vs unitary, evaluated. Federalism buys autonomy, diversity-management and a check on central overreach, at the price of coordination costs and possible deadlock; unitary systems buy uniformity and decisiveness at the price",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 629.424
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 542.156
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4218,
+      "markdown_body_line_end": 4222,
+      "heading": "ADVANCED SESSION 9 - Institutional and Territorial Design: Federal/Unitary, Decentralisation and Inter-Form Debates",
+      "preview": "ANALYSIS: India, described with care. India is a FEDERAL polity with strong UNITARY FEATURES -- a HOLDING-TOGETHER federation with a strong centre, single citizenship and an integrated judiciary, under CONSTITUTIONAL SUPREMACY and judicial ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 542.156
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 469.088
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4224,
+      "markdown_body_line_end": 4233,
+      "heading": "ADVANCED SESSION 9 - Institutional and Territorial Design: Federal/Unitary, Decentralisation and Inter-Form Debates",
+      "preview": "ANALYSIS: Centralisation vs decentralisation. The case for decentralisation is SUBSIDIARITY (decide at the lowest capable level), participation and responsiveness; the case for the centre is coordination, uniform standards and capacity. Loc",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 469.088
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 339.22
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4235,
+      "markdown_body_line_end": 4240,
+      "heading": "ADVANCED SESSION 9 - Institutional and Territorial Design: Federal/Unitary, Decentralisation and Inter-Form Debates",
+      "preview": "ANALYSIS: Semi-presidential / hybrid (brief, do not overexpand). A DUAL EXECUTIVE (a separately elected president alongside a legislature-dependent prime minister) can combine stability with responsibility, but risks COHABITATION friction w",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 339.22
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 251.953
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4251,
+      "markdown_body_line_end": 4259,
+      "heading": "ADVANCED SESSION 10 - Mixed/Constitutional Government, Criteria of Evaluation and the Comparative Verdict",
+      "preview": "ANALYSIS: Criticisms answered, not just listed. Monarchy: hereditary office offends equality -> reply, constitutional monarchy separates a neutral symbol from elected government -> assessment, defends ceremonial not absolute rule. Theocracy",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 179.553
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 63.885
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4261,
+      "markdown_body_line_end": 4268,
+      "heading": "ADVANCED SESSION 10 - Mixed/Constitutional Government, Criteria of Evaluation and the Comparative Verdict",
+      "preview": "ANALYSIS: Criteria of evaluation. Legitimacy, liberty, equality, participation, accountability, stability, efficiency, responsiveness, inclusion and PEACEFUL TRANSFER of power -- no single form scores best on all. Monarchy may offer continu",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 63.885
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 701.824
+        }
+      },
+      "pdf_pages": [
+        79,
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4270,
+      "markdown_body_line_end": 4275,
+      "heading": "ADVANCED SESSION 10 - Mixed/Constitutional Government, Criteria of Evaluation and the Comparative Verdict",
+      "preview": "ANALYSIS: The Indian constitutional comparison, precisely. India is a PARLIAMENTARY, FEDERAL, DEMOCRATIC REPUBLIC with RESPONSIBLE government, JUDICIAL REVIEW and CONSTITUTIONAL SUPREMACY. Live tensions -- centre-state / federal friction, e",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 701.824
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 614.556
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4277,
+      "markdown_body_line_end": 4281,
+      "heading": "ADVANCED SESSION 10 - Mixed/Constitutional Government, Criteria of Evaluation and the Comparative Verdict",
+      "preview": "ANALYSIS: Contemporary evaluation (analytical tags, not empirical claims). Democratic backsliding, technocracy and expert bodies, digital participation, coalition governance and institutional resilience are live analytical themes; treat the",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 614.556
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 541.488
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4283,
+      "markdown_body_line_end": 4287,
+      "heading": "ADVANCED SESSION 10 - Mixed/Constitutional Government, Criteria of Evaluation and the Comparative Verdict",
+      "preview": "WRONG (trap sweep): \"every monarch is absolute\"; \"any religious influence = theocracy\"; \"democracy = periodic elections\"; \"majority rule is unlimited\"; \"Plato just hated freedom\"; \"Aristotle's polity = modern democracy\"; \"secularism exclude",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 541.488
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 468.42
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4293,
+      "markdown_body_line_end": 4293,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** The residual dispute over why democracy is justified, the epistocracy quarrel and the republican anti-domination reading are unnecessary for a competent Core answer on this clause. Use them only once m",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 443.42
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 370.353
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4298,
+      "markdown_body_line_end": 4303,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 307.553
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 74.951
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4315,
+      "markdown_body_line_end": 4318,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "One-glance revision of the whole file. Every entry is compressed for recall, not for first learning; read it after the ten layered subtopics, never instead of them. Syllabus core is Monarchy, Theocracy and Democracy; comparative institution",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 554.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 495.624
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4322,
+      "markdown_body_line_end": 4327,
+      "heading": "A. The classification problem (open every answer here)",
+      "preview": "WHO rules? (one / few / many)   x   FOR WHOSE good? (common interest / self-interest)",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 470.624
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 419.624
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4436,
+      "markdown_body_line_end": 4446,
+      "heading": "K. Trap list (final pre-submission check)",
+      "preview": "WRONG: Plato's critique = defence of hereditary monarchy. It is a defence of rule by knowledge. WRONG: any religious influence = theocracy. Theocracy = sovereignty in God + clerical interpretation. WRONG: democracy = periodic elections. Add",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 267.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 137.424
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4461,
+      "markdown_body_line_end": 4463,
+      "heading": "L. PYQ ownership (2018-2025)",
+      "preview": "MEMORY: The whole file in one line -- classify by WHO rules, FOR WHOSE good, under WHAT design and WITH WHAT LIMITS; no form wins on every axis, and error-correction usually decides the verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 655.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 611.024
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4469,
+      "markdown_body_line_end": 4497,
+      "heading": "ASCII MASTER FLOW - PANEL 1/10: The central question of regime classification and its four axes",
+      "preview": "CENTRAL QUESTION -> by what title may one arrangement of rule bind everyone in a",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 27,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 564.024
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 277.624
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4501,
+      "markdown_body_line_end": 4530,
+      "heading": "ASCII MASTER FLOW - PANEL 2/10: Plato: the degeneration sequence and the three charges against democracy",
+      "preview": "ROOT CLAIM -> ruling is a CRAFT requiring KNOWLEDGE of justice and the good",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 477.691
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4534,
+      "markdown_body_line_end": 4561,
+      "heading": "ASCII MASTER FLOW - PANEL 3/10: Aristotle's six-fold matrix and the polity as the practicable mean",
+      "preview": "TWO VARIABLES -> [A] HOW MANY RULE    [B] FOR WHOSE ADVANTAGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 26,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 455.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 179.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4565,
+      "markdown_body_line_end": 4597,
+      "heading": "ASCII MASTER FLOW - PANEL 4/10: Monarchy: two types, four objections and the above-politics test",
+      "preview": "DEFINITION -> rule by ONE person, normally holding office by HEREDITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 460.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4601,
+      "markdown_body_line_end": 4633,
+      "heading": "ASCII MASTER FLOW - PANEL 5/10: Theocracy: divine sovereignty, the interpretation monopoly and validity",
+      "preview": "DEFINITION -> political authority claimed in the name of GOD, of divine law, or of",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 425.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 97.891
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4637,
+      "markdown_body_line_end": 4670,
+      "heading": "ASCII MASTER FLOW - PANEL 6/10: Democracy: the model taxonomy and the protection of minorities",
+      "preview": "DEFINITION -> rule of the people: political equality, consent, participation,",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 32,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 449.891
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4674,
+      "markdown_body_line_end": 4703,
+      "heading": "ASCII MASTER FLOW - PANEL 7/10: Authority and legitimacy: the Weberian grid laid across the classical one",
+      "preview": "POWER = compliance secured despite resistance | AUTHORITY = power believed RIGHTFUL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 414.891
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 118.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4707,
+      "markdown_body_line_end": 4740,
+      "heading": "ASCII MASTER FLOW - PANEL 8/10: Populism, illiberal democracy and the manufacture of consent",
+      "preview": "DEFINITIONAL CONTEST -> state it, never settle it silently",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 32,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 449.891
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4744,
+      "markdown_body_line_end": 4776,
+      "heading": "ASCII MASTER FLOW - PANEL 9/10: Where power sits: unitary against federal design and subsidiarity",
+      "preview": "SECOND AXIS (comparative scaffolding, clearly labelled -- not owned doctrine)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 427.891
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 100.691
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4780,
+      "markdown_body_line_end": 4812,
+      "heading": "ASCII MASTER FLOW - PANEL 10/10: The answer spine: shared axes, directive decoder and the graded verdict",
+      "preview": "STEP 1 DEFINE   -> name the form by its SOURCE OF AUTHORITY, not by a caricature",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 447.091
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    }
+  ]
+}

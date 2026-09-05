@@ -1,0 +1,1172 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-09",
+  "subject": "Philosophy",
+  "title": "INTERDISCIPLINARY POLITICAL ANALYSIS",
+  "short_route": "THE INTEGRATED POLITICAL QUESTION → DEFINITIONS, ARGUMENT SPINE AND → BOUNDARIES, THINKERS AND DISCIPLINARY → ILLUSTRATIONS AND THE FIVE-DISCIPLINE → TRAP REPAIR, CROSS-LINKS, REVISION → ANTHROPOLOGY, LAW AND GEOGRAPHY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-09_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-09-ascii-2026-08-28-g2.json",
+  "ascii_spec_sha256": "db0de0bd4255413c8f0ad2f55b4e0f8505783cebbc3c1c04ab651e6533366ae1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE INTEGRATED POLITICAL QUESTION",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE INTEGRATED POLITICAL QUESTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE CHAPTER ARGUES THAT SINGLE-DISCIPLINE APPROACHES ARE PARTIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] POLITICAL SCIENCE STUDIES POLITICS AS A SOCIAL PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] INTERDISCIPLINARY INQUIRY WIDENS PERSPECTIVE, HELPS VERIFY POLITICAL CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FOR UPSC, THIS TOPIC PREVENTS SHALLOW ANSWERS THAT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE INTEGRATED POLITICAL QUESTION IS BEST PRESENTED THROUGH ITS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Integrated Political Question",
+        "[1] The chapter argues that single-discipline approaches are partial, whereas an interdisciplinary approach seeks an",
+        "(PDF p.146)",
+        "[2] Political science studies politics as a social process, so it must use findings, theories"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Integrated Political Question",
+            "[1] The chapter argues that single-discipline approaches are partial, whereas an interdisciplinary approach seeks an integrated view of politics.",
+            "(PDF p.146)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Political science studies politics as a social process, so it must use findings, theories and models from",
+            "(PDF pp.136-137)",
+            "[3] Interdisciplinary inquiry widens perspective, helps verify political claims through other social sciences, and also enables political science",
+            "(PDF p.137)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] For UPSC, this topic prevents shallow answers that explain democracy, state",
+            "action or mass behaviour through only law, only morality or only economics.",
+            "SYNTHESIS → The Integrated Political Question is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → The Integrated Political Question is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DEFINITIONS, ARGUMENT SPINE AND PURPOSEFUL BORROWING",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEFINITIONS, ARGUMENT SPINE AND PURPOSEFUL BORROWING",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GAUBA BEGINS BY TREATING SOCIAL SCIENCES AS RELATED",
+          "role": "comparison"
+        },
+        {
+          "text": "(PDF P.136)",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] HE INSISTS THAT POLITICAL INQUIRY SHOULD BORROW FROM",
+          "role": "primary"
+        },
+        {
+          "text": "[3] EMPIRICAL ORIENTATION, BEHAVIOURAL ANALYSIS AND SYSTEMS ANALYSIS PUSHED",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] POLITICAL SCIENCE THEREFORE USES DATA, THEORIES AND MODELS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFINITIONS, ARGUMENT SPINE AND PURPOSEFUL BORROWING IS BEST PRESENTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Definitions, Argument Spine and Purposeful Borrowing",
+        "[1] Gauba begins by treating social sciences as related disciplines dealing",
+        "with common human problems, which makes interdisciplinarity especially suitable to politics.",
+        "(PDF p.136)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Definitions, Argument Spine and Purposeful Borrowing",
+            "[1] Gauba begins by treating social sciences as related disciplines dealing",
+            "with common human problems, which makes interdisciplinarity especially suitable to politics.",
+            "(PDF p.136)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] He insists that political inquiry should borrow from other disciplines purposefully, always to understand political problems, not",
+            "(PDF p.137)",
+            "[3] Empirical orientation, behavioural analysis and systems analysis pushed political science toward other social sciences because real politics",
+            "(PDF pp.138-139)",
+            "[4] Political science therefore uses data, theories and models from history, economics, sociology, psychology and philosophy. (PDF pp.139-146)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Definitions, Argument Spine and Purposeful Borrowing is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Definitions, Argument Spine and Purposeful Borrowing is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BOUNDARIES, THINKERS AND DISCIPLINARY AUTONOMY",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BOUNDARIES, THINKERS AND DISCIPLINARY AUTONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] INTERDISCIPLINARY VS RANDOM BORROWING",
+          "role": "comparison"
+        },
+        {
+          "text": "GAUBA WARNS THAT EXPANSION ACROSS DISCIPLINES MUST BE PURPOSEFUL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] EMPIRICAL VS NORMATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "EMPIRICAL INQUIRY ASKS WHAT IS; NORMATIVE INQUIRY ASKS WHAT",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] POLITICAL SCIENCE VS POLITICAL PHILOSOPHY",
+          "role": "comparison"
+        },
+        {
+          "text": "SCIENTIFIC-BEHAVIOURAL STUDIES HELP FIND FACTS AND TOOLS, WHILE POLITICAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Boundaries, Thinkers and Disciplinary Autonomy",
+        "[1] Interdisciplinary vs random borrowing: Gauba warns that expansion across disciplines must be purposeful and",
+        "[2] Empirical vs normative: empirical inquiry asks what is; normative inquiry asks what ought to",
+        "[3] Political science vs political philosophy: scientific-behavioural studies help find facts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Boundaries, Thinkers and Disciplinary Autonomy",
+            "[1] Interdisciplinary vs random borrowing: Gauba warns that expansion across disciplines must be purposeful and well-conceived. (PDF p.137)",
+            "[2] Empirical vs normative: empirical inquiry asks what is; normative inquiry asks what ought to be. (PDF p.138)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Political science vs political philosophy: scientific-behavioural studies help find facts",
+            "and tools, while political philosophy helps determine goals of public policy.",
+            "(PDF pp.145-146)",
+            "[4] Governance boundary: governance explains delivery mechanisms; this topic uses governance-like evidence only when it sharpens a political concept."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Boundaries, Thinkers and Disciplinary Autonomy is best presented through",
+            "its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Boundaries, Thinkers and Disciplinary Autonomy is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ILLUSTRATIONS AND THE FIVE-DISCIPLINE MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ILLUSTRATIONS AND THE FIVE-DISCIPLINE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GAUBA SAYS A POLITICAL SCIENTIST ASSESSING WHETHER DEMOCRACY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] LABOUR-MANAGEMENT RELATIONS OR CROWD PSYCHOLOGY SHOULD BE STUDIED",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] POLITICAL DEVELOPMENT REQUIRES UNDERSTANDING SOCIAL MOBILIZATION AND VALUE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] POLITICAL COMMUNICATION, PROPAGANDA, CHARISMATIC LEADERSHIP AND PUBLIC OPINION",
+          "role": "outcome"
+        },
+        {
+          "text": "ILLUSTRATIONS AND THE FIVE-DISCIPLINE MATRIX IS BEST PRESENTED THROUGH",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Illustrations and the Five-Discipline Matrix",
+        "[1] Gauba says a political scientist assessing whether democracy will be sustained may need data",
+        "(PDF p.139)",
+        "[2] Labour-management relations or crowd psychology should be studied politically only when they illuminate their"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Labour-management relations or crowd psychology should be studied politically only when they illuminate their impact on politics. (PDF p.137)",
+          "its central claim, causal logic, strongest limit and qualified verdict."
+        ],
+        [
+          "Illustrations and the Five-Discipline Matrix",
+          "[3] Political development requires understanding social mobilization and value change, not merely constitutions or legal forms. (PDF p.140)",
+          "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+        ],
+        [
+          "[1] Gauba says a political scientist assessing whether democracy will be sustained may need data on literacy, income",
+          "[4] Political communication, propaganda, charismatic leadership and public opinion formation draw directly on political psychology. (PDF pp.144-145)",
+          ""
+        ],
+        [
+          "(PDF p.139)",
+          "SYNTHESIS → Illustrations and the Five-Discipline Matrix is best presented through",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Illustrations and the Five-Discipline Matrix",
+            "[1] Gauba says a political scientist assessing whether democracy will be sustained may need data on literacy, income",
+            "(PDF p.139)"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Labour-management relations or crowd psychology should be studied politically only when they illuminate their impact on politics. (PDF p.137)",
+            "[3] Political development requires understanding social mobilization and value change, not merely constitutions or legal forms. (PDF p.140)",
+            "[4] Political communication, propaganda, charismatic leadership and public opinion formation draw directly on political psychology. (PDF pp.144-145)",
+            "SYNTHESIS → Illustrations and the Five-Discipline Matrix is best presented through"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Illustrations and the Five-Discipline Matrix is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TRAP REPAIR, CROSS-LINKS, REVISION AND SOURCES",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TRAP REPAIR, CROSS-LINKS, REVISION AND SOURCES",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] FOR ECONOMIC MECHANISMS, REFER OUTWARD TO THE ECONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] FOR DELIVERY AND INSTITUTIONAL PERFORMANCE, REFER OUTWARD TO",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] DEFINE INTERDISCIPLINARITY AS PURPOSEFUL USE OF MORE THAN",
+          "role": "primary"
+        },
+        {
+          "text": "[4] SHOW WHY EMPIRICAL ORIENTATION, BEHAVIOURALISM AND SYSTEMS ANALYSIS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAP REPAIR, CROSS-LINKS, REVISION AND SOURCES IS BEST PRESENTED",
+          "role": "caution"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Trap Repair, Cross-Links, Revision and Sources",
+        "[1] For economic mechanisms, refer outward to the Economy module in prose rather than reproducing",
+        "[2] For delivery and institutional performance, refer outward to the Governance module",
+        "in prose rather than turning this topic into an administrative note."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Trap Repair, Cross-Links, Revision and Sources",
+            "[1] For economic mechanisms, refer outward to the Economy module in prose rather than reproducing technical economics here.",
+            "[2] For delivery and institutional performance, refer outward to the Governance module"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "in prose rather than turning this topic into an administrative note.",
+            "[3] Define interdisciplinarity as purposeful use of more than one discipline. (PDF p.136)",
+            "[4] Show why empirical orientation, behaviouralism and systems analysis pushed political science outward. (PDF pp.138-139)",
+            "SYNTHESIS → Trap Repair, Cross-Links, Revision and Sources is best presented"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Trap Repair, Cross-Links, Revision and Sources is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ANTHROPOLOGY, LAW AND GEOGRAPHY",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ANTHROPOLOGY, LAW AND GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GAUBA'S CHAPTER (PDF PP.141-146) FOREGROUNDS HISTORY, ECONOMICS, SOCIOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "IF THE QUESTION SPECIFICALLY ASKS FOR AN \"INTERDISCIPLINARY\" ANSWER",
+          "role": "primary"
+        },
+        {
+          "text": "[3] LAW/JURISPRUDENCE AS A DATA SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINCT FROM THE LEGAL APPROACH TO STUDYING POLITICS (ALREADY",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] POLITICAL GEOGRAPHY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Anthropology, Law and Geography",
+        "[1] Gauba's chapter (PDF pp.141-146) foregrounds history, economics, sociology, psychology and philosophy.",
+        "A complete interdisciplinary answer should also be able to place anthropology, law and geography on",
+        "[2] Exam use: if the question specifically asks for an \"interdisciplinary\" answer without naming"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Anthropology, Law and Geography",
+            "[1] Gauba's chapter (PDF pp.141-146) foregrounds history, economics, sociology, psychology and philosophy.",
+            "A complete interdisciplinary answer should also be able to place anthropology, law and geography on the same map,",
+            "[2] Exam use: if the question specifically asks for an \"interdisciplinary\" answer without naming"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "disciplines, a strong 15/20-mark response should be able to name at least six to",
+            "seven disciplines (history, economics, sociology, psychology, philosophy, anthropology, law, geography) and give one distinct",
+            "contribution for each, rather than repeating the same five from Gauba's chapter alone.",
+            "[3] Law/jurisprudence as a data source: distinct from the legal approach to studying politics (already covered",
+            "under §8's traditional approaches), the interdisciplinary use of law supplies political analysis with constitutional text, statutes"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "and judicial reasoning as primary evidence of how authority is formally allocated and constrained.",
+            "[4] Political geography: studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.",
+            "SYNTHESIS → Anthropology, Law and Geography is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Anthropology, Law and Geography is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BORROWED MODELS AND NAMED REDUCTIONISMS",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BORROWED MODELS AND NAMED REDUCTIONISMS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GAUBA NAMES SPECIFIC BORROWED MODELS POLITICAL SCIENCE HAS",
+          "role": "comparison"
+        },
+        {
+          "text": "ELITE THEORY, BASE-SUPERSTRUCTURE ANALYSIS (FROM MARXIAN POLITICAL ECONOMY), STRUCTURAL-FUNCTIONALISM",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] REDUCTIONISM, NAMED PRECISELY",
+          "role": "primary"
+        },
+        {
+          "text": "EACH BORROWED MODEL RISKS A SPECIFIC REDUCTIONISM IF USED",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] GAUBA'S OWN CORRECTIVE APPLIES TO EACH",
+          "role": "comparison"
+        },
+        {
+          "text": "BORROWING MUST REMAIN PURPOSEFUL AND POLITICS-CENTRED; A BORROWED MODEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Borrowed Models and Named Reductionisms",
+        "[1] Gauba names specific borrowed models political science has drawn from other disciplines: elite theory",
+        "(PDF pp.139-140)",
+        "[2] Reductionism, named precisely: each borrowed model risks a specific reductionism if used alone —"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Borrowed Models and Named Reductionisms",
+            "[1] Gauba names specific borrowed models political science has drawn from other disciplines: elite theory, base-superstructure analysis (from",
+            "(PDF pp.139-140)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Reductionism, named precisely: each borrowed model risks a specific reductionism if used alone —",
+            "[3] Gauba's own corrective applies to each: borrowing must remain purposeful and politics-centred",
+            "a borrowed model sharpens political analysis only so long as the political question, not the donor discipline's own priorities, stays in view.",
+            "(PDF pp.137, 146)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Harold Lasswell's problem-solving model is cited by Gauba as an example of psychology and decision-theory feeding directly",
+            "(PDF p.140)",
+            "SYNTHESIS → Borrowed Models and Named Reductionisms is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Borrowed Models and Named Reductionisms is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "OBJECTIONS AND INTEGRATION WITHOUT MERGER",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "OBJECTIONS AND INTEGRATION WITHOUT MERGER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] \"DISCUSS THE INTERDISCIPLINARY CHARACTER OF POLITICAL SCIENCE\"",
+          "role": "comparison"
+        },
+        {
+          "text": "REQUIRES THE DEFINITION OF INTERDISCIPLINARITY, AT LEAST THREE DISCIPLINES",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] END WITH GAUBA'S CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "SINGLE-DISCIPLINE APPROACHES ARE PARTIAL; INTEGRATION IS NECESSARY, BUT MERGER",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] YET THE CONCLUSION IS NOT MERGER INTO ONE",
+          "role": "caution"
+        },
+        {
+          "text": "[4] SEYMOUR MARTIN LIPSET",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Objections and Integration Without Merger",
+        "[1] \"Discuss the interdisciplinary character of political science\" → requires the definition of interdisciplinarity, at",
+        "disciplines with one contribution each, and the integration-without-merger conclusion — not just a list of",
+        "[2] End with Gauba's conclusion: single-discipline approaches are partial; integration is necessary, but merger is"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Objections and Integration Without Merger",
+            "[1] \"Discuss the interdisciplinary character of political science\" → requires the definition of interdisciplinarity, at least three",
+            "disciplines with one contribution each, and the integration-without-merger conclusion — not just a list of subject names.",
+            "[2] End with Gauba's conclusion: single-discipline approaches are partial; integration is necessary, but merger is not. (PDF p.146)"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "[3] Yet the conclusion is not merger into one master science",
+            "the integrated approach keeps politics central while using all relevant disciplines for verification and understanding.",
+            "(PDF p.146)",
+            "[4] Seymour Martin Lipset: political development cannot be studied without social mobilization, value change, kinship patterns, caste and",
+            "(PDF p.140)"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "SYNTHESIS → Objections and Integration Without Merger is best presented through",
+            "its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Objections and Integration Without Merger is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CAUTIOUS INDIAN APPLICATION",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CAUTIOUS INDIAN APPLICATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] POLITICAL-ECONOMY LENS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEBATES ON ECONOMIC LIBERALISATION, WELFARE-SCHEME DESIGN OR FEDERAL FISCAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] POLITICAL-SOCIOLOGY LENS",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE, COMMUNITY AND REGIONAL IDENTITY'S ROLE IN INDIAN PARTY",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] POLITICAL-GEOGRAPHY LENS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA'S FEDERAL REORGANISATION OF STATES AND CONTINUING REGIONAL/RESOURCE-SHARING DISPUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Cautious Indian Application",
+        "[1] Political-economy lens: debates on economic liberalisation, welfare-scheme design or federal fiscal transfers illustrate how",
+        "political theory uses economic evidence to analyse policy conflict — cite as a type of",
+        "application, without asserting specific unverified figures, scheme names or years unless independently confirmed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Cautious Indian Application",
+            "[1] Political-economy lens: debates on economic liberalisation, welfare-scheme design or federal fiscal transfers illustrate how",
+            "political theory uses economic evidence to analyse policy conflict — cite as a type of",
+            "application, without asserting specific unverified figures, scheme names or years unless independently confirmed."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Political-sociology lens: caste, community and regional identity's role in Indian party mobilisation",
+            "and political culture is a standard illustrative anchor for the sociology-politics link —",
+            "use only as a general, well-known pattern, not with specific unverified electoral statistics.",
+            "[3] Political-geography lens: India's federal reorganisation of states and continuing regional/resource-sharing disputes (river-water disputes, hill-state demands) illustrate how",
+            "route exact dates, tribunal names or case detail to the"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Polity/Geography modules rather than asserting them here.",
+            "[4] Political science studies politics as a social process, so it must use findings, theories and models from",
+            "(PDF pp.136-137)",
+            "SYNTHESIS → Cautious Indian Application is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Cautious Indian Application is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DIRECTIVE DECODING AND MARK-SCALED ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIRECTIVE DECODING AND MARK-SCALED ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] \"EXAMINE THE CONTRIBUTION OF [A NAMED DISCIPLINE] TO",
+          "role": "comparison"
+        },
+        {
+          "text": "SINGLE-DISCIPLINE DIRECTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "GIVE THAT DISCIPLINE'S SPECIFIC CONTRIBUTION, ONE BORROWED MODEL OR",
+          "role": "primary"
+        },
+        {
+          "text": "[2] \"DISCUSS THE INTERDISCIPLINARY CHARACTER OF POLITICAL SCIENCE\"",
+          "role": "outcome"
+        },
+        {
+          "text": "REQUIRES THE DEFINITION OF INTERDISCIPLINARITY, AT LEAST THREE DISCIPLINES",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] \"CAN POLITICAL SCIENCE BE STUDIED INDEPENDENTLY OF OTHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Directive Decoding and Mark-Scaled Answer Architecture",
+        "[1] \"Examine the contribution of [a named discipline] to political analysis\" → single-discipline directive: give",
+        "that discipline's specific contribution, one borrowed model or example, and its limit if used alone.",
+        "[2] \"Discuss the interdisciplinary character of political science\" → requires the definition of interdisciplinarity, at"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Directive Decoding and Mark-Scaled Answer Architecture",
+            "[1] \"Examine the contribution of [a named discipline] to political analysis\" → single-discipline directive: give",
+            "that discipline's specific contribution, one borrowed model or example, and its limit if used alone."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] \"Discuss the interdisciplinary character of political science\" → requires the definition of interdisciplinarity, at least three",
+            "disciplines with one contribution each, and the integration-without-merger conclusion — not just a list of subject names.",
+            "[3] \"Can political science be studied independently of other social",
+            "sciences?\" → requires the objection/reply on subject-matter dissolution (§15.1) explicitly."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Thesis: political science needs other disciplines' evidence and models but keeps the political question central.",
+            "SYNTHESIS → Directive Decoding and Mark-Scaled Answer Architecture is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Directive Decoding and Mark-Scaled Answer Architecture is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] POLITICAL SCIENCE STUDIES POLITICS AS A SOCIAL PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] INTERDISCIPLINARY INQUIRY WIDENS PERSPECTIVE, HELPS VERIFY POLITICAL CLAIMS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THE CHAPTER ARGUES THAT SINGLE-DISCIPLINE APPROACHES ARE PARTIAL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FOR UPSC, THIS TOPIC PREVENTS SHALLOW ANSWERS THAT",
+          "role": "outcome"
+        },
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR IS BEST PRESENTED THROUGH",
+          "role": "caution"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Political science studies politics as a social process, so it must use findings, theories",
+        "(PDF pp.136-137)",
+        "[2] Interdisciplinary inquiry widens perspective, helps verify political claims through other social sciences, and also"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Political science studies politics as a social process, so it must use findings, theories and models from",
+            "(PDF pp.136-137)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Interdisciplinary inquiry widens perspective, helps verify political claims through other social sciences, and also enables political science",
+            "(PDF p.137)",
+            "[3] The chapter argues that single-discipline approaches are partial, whereas an interdisciplinary approach seeks an integrated view of politics.",
+            "(PDF p.146)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] For UPSC, this topic prevents shallow answers that explain democracy, state",
+            "action or mass behaviour through only law, only morality or only economics.",
+            "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GAUBA SAYS A POLITICAL SCIENTIST ASSESSING WHETHER DEMOCRACY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] A GOOD UPSC ANSWER ON WELFARE POLITICS CAN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GAUBA'S CHAPTER (PDF PP.141-146) FOREGROUNDS HISTORY, ECONOMICS, SOCIOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "[4] EXAM USE",
+          "role": "outcome"
+        },
+        {
+          "text": "IF THE QUESTION SPECIFICALLY ASKS FOR AN \"INTERDISCIPLINARY\" ANSWER",
+          "role": "comparison"
+        },
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE IS BEST PRESENTED THROUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] Gauba says a political scientist assessing whether democracy will be sustained may need data",
+        "(PDF p.139)",
+        "[2] A good UPSC answer on welfare politics can therefore move from economic scarcity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] Gauba says a political scientist assessing whether democracy will be sustained may need data on literacy, income",
+            "(PDF p.139)",
+            "[2] A good UPSC answer on welfare politics can therefore move from economic scarcity,"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "to class/group conflict, to mass attitudes, and finally to philosophical evaluation of justice.",
+            "[3] Gauba's chapter (PDF pp.141-146) foregrounds history, economics, sociology, psychology and philosophy.",
+            "A complete interdisciplinary answer should also be able to place anthropology, law and geography on the same map,",
+            "[4] Exam use: if the question specifically asks for an \"interdisciplinary\" answer without naming",
+            "disciplines, a strong 15/20-mark response should be able to name at least six to"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "seven disciplines (history, economics, sociology, psychology, philosophy, anthropology, law, geography) and give one distinct",
+            "contribution for each, rather than repeating the same five from Gauba's chapter alone.",
+            "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

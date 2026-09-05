@@ -1,0 +1,3665 @@
+{
+ "artifact": "Polity 03 — Salient Features of the Indian Constitution — continuous at-a-glance master flow",
+ "generation": "polity-03:flowchart:continuous-at-a-glance-carvaka-standard:g9",
+ "note_on_generation_index": "g9 is simply the next free index in the polity-03 folder, which already held continuous-at-a-glance-core-first g3-g8. This is the FIRST Carvaka-standard generation for Polity 03. The index carries no quality meaning and is unrelated to the Polity 01 g9 package.",
+ "approved": false,
+ "generated": "2026-08-22",
+ "design_reference": {
+  "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "status": "IMMUTABLE — read only, never modified",
+  "matched_properties": [
+   "4800 px wide master at 300 dpi metadata",
+   "strong title card with legend chips and reading instruction",
+   "numbered continuous rail with per-stage nodes and connectors",
+   "per-stage individually chosen internal layout, not a fixed card schema",
+   "dense decisive keyword pill rows",
+   "multi-column branches and direct institutional comparisons",
+   "compact high-information bullets",
+   "mechanism / bridge / trap bands",
+   "magenta answer-grabbing line unique to every stage",
+   "complete numbered core before a visually subordinate enrichment band",
+   "final synthesis stage with answer spine, PYQ routes and trap sweep",
+   "poster preserves the whole canvas; tiled PDF crops the same canvas with overlap"
+  ],
+  "reused_from_earlier_packages": "rendering primitives only (render_lib.py, shared with Polity 01 g9 and Polity 02 g8); no stage structure, layout signature, pill set or content is reused from either package"
+ },
+ "new_primitives": {
+  "wheel": "hub-and-four-node system definition wheel",
+  "fan": "causes -> core -> consequences fan for the length architecture",
+  "srcmap": "source country / adopted device / rejected-or-adapted three-column map",
+  "spectrum": "amendment-difficulty spectrum with graded stops and an entrenchment ceiling",
+  "quadrant": "four-quadrant federal / centralising / cooperative / asymmetric field",
+  "loop": "closed parliamentary accountability loop with a central slack panel",
+  "balance": "two-pan balance on a constitutional fulcrum",
+  "overlap": "three-organ separation diagram with explicit constitutional overlap zones",
+  "triangle": "apex-and-three-tests supremacy triangle",
+  "pyramid": "court hierarchy pyramid with an adjacent review-and-remedy rail",
+  "triad": "three-status column set with justiciability badges and a shared footer",
+  "vs3": "three-model comparison grid with the Indian middle column highlighted",
+  "bus": "integration bus line with device cards carrying function and tension",
+  "constel": "central core with four constitutional-body cards around it",
+  "switch": "normal-mode / exception-mode switch with trigger list and return path",
+  "tension": "strength / fault line / failure-mode three-column tension matrix",
+  "web": "feature-pair interaction web with outcome column"
+ },
+ "sources": {
+  "canonical_learner_v2_owner": "upsc-ai-kit/knowledge/Polity/learning-sessions/v2/subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7-core-first-g8/polity-03_Learning-Session.md",
+  "advanced_owner": "same file — OPTIONAL ADVANCED DEPTH block (Laxmikanth Ch. 3, Sixth Revised Edition)",
+  "complete_topic_package_owner": "same file — CONSOLIDATED REGISTER NOTES and PYQS AND ANSWER PRACTICE blocks",
+  "fabrication_policy": "No fact appears that is not present in the owners above. Where a PYQ key is unavailable or provisional locally, the canvas states that status explicitly."
+ },
+ "canvas": {
+  "width_px": 4800,
+  "height_px": 38332,
+  "dpi": 300,
+  "margin_px": 110,
+  "rail_x_px": 250,
+  "card_x0_px": 520,
+  "card_x1_px": 4690,
+  "card_padding_px": 46,
+  "stage_gap_px": 64
+ },
+ "palette": {
+  "cyan": [
+   68,
+   211,
+   255
+  ],
+  "teal": [
+   65,
+   228,
+   193
+  ],
+  "amber": [
+   255,
+   178,
+   91
+  ],
+  "yellow": [
+   255,
+   225,
+   122
+  ],
+  "magenta": [
+   230,
+   144,
+   255
+  ],
+  "green": [
+   126,
+   231,
+   135
+  ],
+  "red": [
+   255,
+   138,
+   128
+  ],
+  "white": [
+   237,
+   246,
+   251
+  ],
+  "dim": [
+   156,
+   180,
+   200
+  ],
+  "grey": [
+   150,
+   168,
+   185
+  ],
+  "background": [
+   7,
+   20,
+   33
+  ],
+  "card": [
+   16,
+   40,
+   61
+  ],
+  "card_title": [
+   11,
+   38,
+   58
+  ],
+  "card_extra": [
+   13,
+   26,
+   40
+  ],
+  "answer_fill": [
+   43,
+   37,
+   55
+  ]
+ },
+ "typography": {
+  "family": "Segoe UI / Segoe UI Bold",
+  "poster_title_px": 72,
+  "stage_title_px": 55,
+  "section_head_px": 34,
+  "body_px": 30,
+  "pill_px": 29,
+  "matrix_px": 27,
+  "big_number_px": 78,
+  "medium_number_px": 52
+ },
+ "outputs": {
+  "master_png": "master.png",
+  "poster_pdf": "Polity03_Continuous-At-a-Glance_g9_Poster_2026-08-22.pdf",
+  "tiled_pdf": "Polity03_Continuous-At-a-Glance_g9_Tiled_2026-08-22.pdf",
+  "tiles": 13,
+  "tile_height_px": 3242,
+  "tile_overlap_px": 318,
+  "tile_crops": [
+   {
+    "tile": 1,
+    "box": [
+     0,
+     0,
+     4800,
+     3242
+    ],
+    "sha256": "A32EBEC7FB0ADB9D2FA096CE9F709C27AE1E2B14D1283E11B1E2EB30E390E1BE"
+   },
+   {
+    "tile": 2,
+    "box": [
+     0,
+     2924,
+     4800,
+     6166
+    ],
+    "sha256": "3AAB863F503AD8D3653848C7B3A2679DB957FCED661F754D9A68AF1887A9661F"
+   },
+   {
+    "tile": 3,
+    "box": [
+     0,
+     5848,
+     4800,
+     9090
+    ],
+    "sha256": "E21B46B04F7F10B753663F93984C89C9F8091495A84F6EBA54003AAF44DD4352"
+   },
+   {
+    "tile": 4,
+    "box": [
+     0,
+     8772,
+     4800,
+     12014
+    ],
+    "sha256": "4ECBB40B11AFF93637B3051D2AC0974AD4E4A9A5DDBBEA925470B2D2771FE1BE"
+   },
+   {
+    "tile": 5,
+    "box": [
+     0,
+     11697,
+     4800,
+     14939
+    ],
+    "sha256": "FF1A7E7DAA7CC8AC10BD88182D11007D7B8FCE18FA724F704AD669A2FEE17F8A"
+   },
+   {
+    "tile": 6,
+    "box": [
+     0,
+     14621,
+     4800,
+     17863
+    ],
+    "sha256": "7D1A14E71DD46B8BA37E4ECF7E37B89B9EC5C610588DFFC38F591D68F63FD002"
+   },
+   {
+    "tile": 7,
+    "box": [
+     0,
+     17545,
+     4800,
+     20787
+    ],
+    "sha256": "5CE91280F250AD713E1E5EF83D6C96E7BC7CA6FE20819EA39E1E382EE8C0E26F"
+   },
+   {
+    "tile": 8,
+    "box": [
+     0,
+     20469,
+     4800,
+     23711
+    ],
+    "sha256": "37B32ECE5F10642B7DE7E1942EF4AFC5130EF48902AC7CCB17FB0085453547D0"
+   },
+   {
+    "tile": 9,
+    "box": [
+     0,
+     23393,
+     4800,
+     26635
+    ],
+    "sha256": "BDD9E99B47993DBFD04FE53BC21EDCB28302FBEFCF091F7E3B5BAA05DDE0BE5C"
+   },
+   {
+    "tile": 10,
+    "box": [
+     0,
+     26318,
+     4800,
+     29560
+    ],
+    "sha256": "650E5A71A80C5CAE9D36366A31EEF266A33DFF2A46443528BCD71404EDE336B8"
+   },
+   {
+    "tile": 11,
+    "box": [
+     0,
+     29242,
+     4800,
+     32484
+    ],
+    "sha256": "2B945132D7A692805E484EEDBF611A12436C6D27AE59E9CEC8F0CE750191936A"
+   },
+   {
+    "tile": 12,
+    "box": [
+     0,
+     32166,
+     4800,
+     35408
+    ],
+    "sha256": "7BE951D8FB936DE19D41D45436C753F64DA3A371235F92751EBAFC6640D21DE1"
+   },
+   {
+    "tile": 13,
+    "box": [
+     0,
+     35090,
+     4800,
+     38332
+    ],
+    "sha256": "426922883C182F844CD94ED0811D0B46CFFABB18676A62D34FA915D2F97CB269"
+   }
+  ],
+  "contact_sheets": [
+   {
+    "name": "contact-sheet-01.png",
+    "size": [
+     5545,
+     2640
+    ],
+    "pages": [
+     "page-001.png",
+     "page-002.png",
+     "page-003.png",
+     "page-004.png",
+     "page-005.png",
+     "page-006.png"
+    ],
+    "boxes": [
+     [
+      22,
+      22,
+      1841,
+      1309
+     ],
+     [
+      1863,
+      22,
+      3682,
+      1309
+     ],
+     [
+      3704,
+      22,
+      5523,
+      1309
+     ],
+     [
+      22,
+      1331,
+      1841,
+      2618
+     ],
+     [
+      1863,
+      1331,
+      3682,
+      2618
+     ],
+     [
+      3704,
+      1331,
+      5523,
+      2618
+     ]
+    ]
+   },
+   {
+    "name": "contact-sheet-02.png",
+    "size": [
+     5545,
+     2640
+    ],
+    "pages": [
+     "page-007.png",
+     "page-008.png",
+     "page-009.png",
+     "page-010.png",
+     "page-011.png",
+     "page-012.png"
+    ],
+    "boxes": [
+     [
+      22,
+      22,
+      1841,
+      1309
+     ],
+     [
+      1863,
+      22,
+      3682,
+      1309
+     ],
+     [
+      3704,
+      22,
+      5523,
+      1309
+     ],
+     [
+      22,
+      1331,
+      1841,
+      2618
+     ],
+     [
+      1863,
+      1331,
+      3682,
+      2618
+     ],
+     [
+      3704,
+      1331,
+      5523,
+      2618
+     ]
+    ]
+   },
+   {
+    "name": "contact-sheet-03.png",
+    "size": [
+     1863,
+     1331
+    ],
+    "pages": [
+     "page-013.png"
+    ],
+    "boxes": [
+     [
+      22,
+      22,
+      1841,
+      1309
+     ]
+    ]
+   }
+  ]
+ },
+ "header": {
+  "title": "POLITY 03 · SALIENT FEATURES OF THE INDIAN CONSTITUTION",
+  "subtitle": "CONTINUOUS AT-A-GLANCE MASTER FLOW — one unbroken numbered rail from what makes a feature 'salient' to the graded final verdict",
+  "note": "Read the rail top to bottom. Every stage is a different visual grammar chosen for its own argument — wheel, cause-fan, source map, amendment spectrum, federal quadrant, accountability loop, sovereignty balance, overlap map, supremacy triangle, judicial pyramid, rights triad, three-way secularism comparison, integration bus, institutional constellation, emergency switch, tension bars and an interaction map. STAGE 9 is the yellow keystone: it is the feature that makes every other feature legally binding.",
+  "legend": [
+   {
+    "t": "CORE STAGE",
+    "c": "cyan"
+   },
+   {
+    "t": "KEYSTONE — CONSTITUTIONAL SUPREMACY",
+    "c": "yellow"
+   },
+   {
+    "t": "ANSWER-GRABBING LINE",
+    "c": "magenta"
+   },
+   {
+    "t": "TRAP / LIMIT",
+    "c": "red"
+   },
+   {
+    "t": "SUBORDINATE ENRICHMENT",
+    "c": "grey"
+   }
+  ],
+  "approval": "APPROVAL: FALSE — user review pending",
+  "key": "EVIDENCE KEY — FACT = present in the canonical learner-v2 owner for Polity 03 · ANALYSIS = exam synthesis built only on that owner · LIMIT = an ownership, status or counting boundary that must be stated in the answer. Nothing outside the owner is asserted; where a present-day Article total or an official Prelims key is not held locally, the canvas says so."
+ },
+ "footer": "Polity 03 — Salient Features of the Indian Constitution · continuous at-a-glance master flow, generation g9 · built from the canonical learner-v2 owner only · design reference: the immutable Carvaka Continuous At-a-Glance (Core-First) poster, read-only and unmodified · APPROVED: FALSE.",
+ "stages": [
+  {
+   "n": 0,
+   "kind": "core",
+   "title": "WHAT MAKES A FEATURE 'SALIENT' — A SYSTEM PROPERTY, NOT A MEMORISED LIST",
+   "height_px": 1533,
+   "layout_signature": [
+    "wheel",
+    "matrix",
+    "cols2",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "SYSTEM-LEVEL CHARACTERISTIC",
+    "FEATURE ≠ ARTICLE",
+    "PROVISION · INSTITUTION · VALUE · PRACTICE",
+    "CONSTITUTES → DISTRIBUTES → LIMITS → DIRECTS",
+    "NOT A CLOSED CONSTITUTIONAL SCHEDULE",
+    "OVERLAPS BASIC STRUCTURE, NOT IDENTICAL"
+   ],
+   "blocks": [
+    {
+     "type": "wheel",
+     "hub_w": 0.3,
+     "centre": {
+      "t": "A SALIENT FEATURE",
+      "c": "yellow",
+      "s": "answers **'what kind of constitutional order is this?'** — wider than one provision, narrower than the whole Constitution"
+     },
+     "nodes": [
+      {
+       "t": "PROVISION",
+       "c": "cyan",
+       "s": "A textual rule or cluster. Answers **'what does the text command or permit?'** Example: **Article 1 — Union of States**."
+      },
+      {
+       "t": "INSTITUTION",
+       "c": "teal",
+       "s": "An office or body created or recognised by law. Answers **'who performs a function?'** Example: the **Election Commission of India**."
+      },
+      {
+       "t": "VALUE",
+       "c": "amber",
+       "s": "A normative commitment that guides interpretation and government. Answers **'towards what constitutional end?'** — **liberty, equality, dignity, fraternity**."
+      },
+      {
+       "t": "PRACTICE",
+       "c": "magenta",
+       "s": "Conventions, parties, administrative capacity and constitutional morality. This is why the text alone is never the whole feature."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "THE FOUR BUILDING BLOCKS, EXACTLY AS THE OWNER DEFINES THEM",
+     "headers": [
+      "TERM",
+      "MEANING",
+      "WORKED EXAMPLE"
+     ],
+     "widths": [
+      0.17,
+      0.5,
+      0.33
+     ],
+     "rows": [
+      [
+       "Feature",
+       "A system-level characteristic produced by **several rules** acting together",
+       "**Federal with centralising features**"
+      ],
+      [
+       "Provision",
+       "A textual rule or cluster in the Constitution",
+       "**Article 1: Union of States**"
+      ],
+      [
+       "Institution",
+       "An office or body created or recognised by law",
+       "**Election Commission of India**"
+      ],
+      [
+       "Value",
+       "A normative commitment that guides interpretation and government",
+       "**Liberty, equality, dignity, fraternity**"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 44,
+     "cols": [
+      {
+       "h": "HOW TO EXPLAIN A FEATURE (ANALYSIS)",
+       "c": "teal",
+       "items": [
+        "State features as **relationships**, never as isolated labels.",
+        "**Written detail** supports legal certainty; **federal distribution** accommodates territory.",
+        "**Parliamentary responsibility** links executive power to representation; **rights and review** limit public power.",
+        "**Constitutional supremacy** means every organ receives its authority from the Constitution — so **limited government** follows."
+       ]
+      },
+      {
+       "h": "THE TWO TRAPS SET HERE",
+       "c": "red",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "a feature is the same as an Article."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "a feature usually emerges from several provisions, institutions and practices."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "all important features are basic-structure elements."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "the categories overlap but are not identical — basic structure is a judicial limit on the amending power (Topic 10 owns it)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "LIMIT",
+     "c": "amber",
+     "outline": true,
+     "text": "'Salient features' is a **teaching classification, not a closed constitutional schedule**. Lists vary by author and by constitutional development. **Rule of law supplies the operating ethic**: public power must have legal authority, like cases must be treated alike, and remedies must exist against arbitrariness."
+    },
+    {
+     "type": "answer",
+     "label": "OPENING DEFINITION — WRITE THIS FIRST:",
+     "text": "A salient constitutional feature is a **system-level design characteristic produced by the interaction of provisions, institutions, values and practice**."
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "kind": "core",
+   "title": "CONSTITUTION → CONSTITUTIONAL LAW → CONSTITUTIONALISM: MOVING FROM DESIGN TO OPERATION",
+   "height_px": 1333,
+   "layout_signature": [
+    "ladder",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "CREATES POWER",
+    "GOVERNS POWER",
+    "LIMITS POWER EFFECTIVELY",
+    "ARTICLES 1 · 79 · 124 · 245-255 · 368",
+    "ARTICLES 13 · 32 · 141 · 226",
+    "LABELS ARE NOT SELF-EXECUTING"
+   ],
+   "blocks": [
+    {
+     "type": "ladder",
+     "indent": 96,
+     "steps": [
+      {
+       "t": "1 · A CONSTITUTION — it CREATES and DISTRIBUTES public power",
+       "c": "cyan",
+       "s": "The fundamental framework that creates institutions, distributes power, protects rights and prescribes change. Articles 1, 79, 124, 245-255 and 368 each illustrate a different one of those functions."
+      },
+      {
+       "t": "2 · CONSTITUTIONAL LAW — it GOVERNS that power",
+       "c": "teal",
+       "s": "The wider body of rules governing public power: the constitutional text, binding judgments and valid implementing law. Anchors: Articles 13, 32, 141 and 226."
+      },
+      {
+       "t": "3 · CONSTITUTIONALISM — it ASKS WHETHER THE LIMITS ACTUALLY OPERATE",
+       "c": "yellow",
+       "s": "Effective limitation and accountability of public power under law, delivered through rights, judicial review, responsible government, federalism and basic structure. Design describes the device; constitutionalism tests the restraint."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "teal",
+     "title": "INDIA IS BEST CLASSIFIED THROUGH PAIRED QUALIFICATIONS, NOT SINGLE LABELS",
+     "headers": [
+      "THE DESIGN SIDE",
+      "THE OPERATION SIDE",
+      "WHY THE PAIR EARNS THE MARK"
+     ],
+     "widths": [
+      0.26,
+      0.3,
+      0.44
+     ],
+     "rows": [
+      [
+       "**Enacted**",
+       "**evolutionary in operation**",
+       "A single dated enactment whose meaning is developed by interpretation and practice"
+      ],
+      [
+       "**Codified**",
+       "**supported by conventions**",
+       "Written supremacy does not displace parliamentary convention"
+      ],
+      [
+       "**Partly rigid**",
+       "**partly flexible**",
+       "Different subjects receive different levels of entrenchment"
+      ],
+      [
+       "**Federal**",
+       "**with centralising features**",
+       "Distribution of power coexists with strong Union capacity"
+      ],
+      [
+       "**Procedural**",
+       "**transformative**",
+       "It regulates process and simultaneously pursues social change"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "ANSWER-WRITING EVIDENCE CHAIN",
+     "c": "magenta",
+     "outline": true,
+     "text": "**Claim:** the Constitution both creates and limits public power. · **Named evidence:** Articles 79 and 124 constitute Parliament and the Supreme Court; Articles 13, 32 and 226 make public action reviewable. · **Analysis:** authority and restraint originate in the same supreme framework, which is what distinguishes Indian constitutional government from unlimited parliamentary sovereignty. · **Qualification:** text alone does not guarantee constitutionalism — conventions, institutional capacity, access to remedies and compliance decide whether limits operate."
+    },
+    {
+     "type": "answer",
+     "label": "CONCEPT LINE — USE TO OPEN ANY 'CONSTITUTIONALISM' DEMAND:",
+     "text": "A Constitution **creates public power**, constitutional law **governs it** and constitutionalism asks **whether effective limits, accountability and remedies actually operate**."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "kind": "core",
+   "title": "WRITTEN, LENGTHY AND DETAILED — FOUR CAUSES, ONE ACCOMMODATION DEVICE, TWO COSTS",
+   "height_px": 1559,
+   "layout_signature": [
+    "fan",
+    "matrix",
+    "cols2",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "WRITTEN ≠ RIGID",
+    "LENGTHY ≠ MERE VERBOSITY",
+    "ORIGINAL 1949: PREAMBLE + 395 ARTICLES + 22 PARTS + 8 SCHEDULES",
+    "SOURCE SNAPSHOT: 25 PARTS · 12 SCHEDULES",
+    "DETAIL = ACCOMMODATION TECHNOLOGY",
+    "WRITTEN ≠ SELF-EXECUTING"
+   ],
+   "blocks": [
+    {
+     "type": "fan",
+     "causes": [
+      {
+       "t": "GEOGRAPHICAL VASTNESS AND DIVERSITY",
+       "c": "amber",
+       "s": "One text had to speak to a **vast and diverse Union**."
+      },
+      {
+       "t": "THE BULKY GOVERNMENT OF INDIA ACT, 1935",
+       "c": "amber",
+       "s": "An already-detailed administrative inheritance was carried forward."
+      },
+      {
+       "t": "ONE CONSTITUTION FOR UNION AND STATES",
+       "c": "amber",
+       "s": "A **single framework** had to cover both levels of government."
+      },
+      {
+       "t": "INFLUENCE OF LEGAL SPECIALISTS",
+       "c": "amber",
+       "s": "Legal luminaries in the Constituent Assembly favoured **express provision**."
+      }
+     ],
+     "core": {
+      "t": "A WRITTEN, COMPREHENSIVE AND UNUSUALLY DETAILED CONSTITUTION",
+      "c": "yellow",
+      "s": "It combines **fundamental rules** with **substantial administrative design**, constitutionalising matters that other systems leave to ordinary legislation or convention — which raises legal visibility and permits judicial enforcement wherever the Constitution creates a standard."
+     },
+     "effects": [
+      {
+       "t": "GAIN · LEGAL CERTAINTY",
+       "c": "green",
+       "s": "An authoritative text and a **reviewable allocation of power**."
+      },
+      {
+       "t": "GAIN · ADVANCE ACCOMMODATION",
+       "c": "green",
+       "s": "Institutions, minority protections, territorial arrangements and emergency rules are **specified in advance**, reducing reliance on unwritten consensus."
+      },
+      {
+       "t": "COST · COMPLEXITY AND AMENDMENT PRESSURE",
+       "c": "red",
+       "s": "Technical complexity, litigation over fine distinctions and recurring amendment."
+      },
+      {
+       "t": "COST · THE IMPLEMENTATION ILLUSION",
+       "c": "red",
+       "s": "A tendency to mistake **constitutional design** for **guaranteed implementation**."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "EACH DIMENSION CARRIES ITS OWN QUALIFICATION — NEVER STATE ONE WITHOUT THE OTHER",
+     "headers": [
+      "DIMENSION",
+      "CONSTITUTIONAL SIGNIFICANCE",
+      "THE QUALIFICATION THAT MUST TRAVEL WITH IT"
+     ],
+     "widths": [
+      0.2,
+      0.4,
+      0.4
+     ],
+     "rows": [
+      [
+       "**Written**",
+       "Authoritative text and a reviewable allocation of power",
+       "The text still works **with conventions and judicial interpretation**"
+      ],
+      [
+       "**Detailed**",
+       "Administrative and institutional specificity",
+       "Detail can create **complexity and frequent amendment**"
+      ],
+      [
+       "**Original 1949 form**",
+       "**Preamble, 395 Articles, 22 Parts, 8 Schedules**",
+       "Use these as **historical counts** — they are safe"
+      ],
+      [
+       "**Later form**",
+       "**25 Parts and 12 Schedules** in the source snapshot",
+       "Exact Article totals **vary by counting method**"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 44,
+     "cols": [
+      {
+       "h": "TRAP · WRITTEN DOES NOT MEAN WHAT CANDIDATES THINK",
+       "c": "red",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "written means no conventions operate."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "India has written supremacy **alongside** conventions, especially in parliamentary government."
+        },
+        "Written is **not self-executing**: conventions, statutes, rules, parties, administrative capacity and constitutional morality decide whether text becomes practice."
+       ]
+      },
+      {
+       "h": "TRAP · THE ARTICLE-COUNT TRAP",
+       "c": "magenta",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "the current Article count is a single uncontested number."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "quote **Parts and Schedules**, then state the counting caveat."
+        },
+        "'Lengthiest' is a **comparative textbook description**, not a licence to quote an unsourced current Article count — inserted, omitted and renumbered Articles make totals method-dependent."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — THE LENGTH QUESTION:",
+     "text": "India's written detail is an **accommodation device**: it constitutionalises diversity and administration, while remaining dependent on **conventions, interpretation and implementation**."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "kind": "core",
+   "title": "BORROWED IN ANCESTRY, ORIGINAL IN DESIGN — WHAT WAS TAKEN, AND WHAT WAS DELIBERATELY REFUSED",
+   "height_px": 2192,
+   "layout_signature": [
+    "srcmap",
+    "cols3",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "BORROWED ≠ COPIED",
+    "ADAPTATION IS PROVED BY REJECTION",
+    "STRUCTURAL ← GoI ACT 1935",
+    "PHILOSOPHICAL ← US + IRELAND",
+    "POLITICAL ← BRITISH",
+    "NO ONE-TO-ONE ORIGIN CLAIMS"
+   ],
+   "blocks": [
+    {
+     "type": "srcmap",
+     "h_src": "SOURCE TRADITION",
+     "h_adopt": "SELECTED AND ADAPTED INTO INDIA",
+     "h_reject": "REJECTED OR ALTERED — THIS IS WHERE THE MARKS ARE",
+     "rows": [
+      {
+       "src": "UNITED KINGDOM",
+       "c": "cyan",
+       "adopt": "**Cabinet government** and cabinet responsibility, **rule of law**, **single citizenship**, **bicameralism**, legislative procedure, prerogative writs and parliamentary privileges",
+       "reject": "**Parliamentary sovereignty** and **hereditary monarchy** — India has a **republican head** and **written limits**"
+      },
+      {
+       "src": "UNITED STATES",
+       "c": "teal",
+       "adopt": "**Fundamental Rights**, **judicial review**, **independence of the judiciary**, the **post of Vice-President**, impeachment of the President and removal of judges",
+       "reject": "A **presidential executive**, **dual citizenship** and **rigid separation of powers**"
+      },
+      {
+       "src": "CANADA",
+       "c": "amber",
+       "adopt": "**Federation with a strong Centre**, **residuary powers at the Union**, **Centre-appointed Governors**, advisory jurisdiction of the Supreme Court",
+       "reject": "The **indestructible-State model** — combined instead with parliamentary government and asymmetric provisions"
+      },
+      {
+       "src": "IRELAND",
+       "c": "green",
+       "adopt": "**Directive Principles of State Policy**, **nomination of members to the Rajya Sabha**, the **method of electing the President**",
+       "reject": "One-to-one copying — DPSP were made **fundamental in governance but non-justiciable**"
+      },
+      {
+       "src": "AUSTRALIA",
+       "c": "magenta",
+       "adopt": "The **Concurrent List**, **freedom of trade, commerce and intercourse**, the **joint sitting** of the two Houses",
+       "reject": "One-to-one copying — each device was placed **within India's stronger Union framework**"
+      },
+      {
+       "src": "GOVERNMENT OF INDIA ACT, 1935",
+       "c": "yellow",
+       "adopt": "The **federal scheme**, the **office of Governor**, the **judiciary**, **Public Service Commissions**, **emergency provisions** and administrative detail — the **most profound and material single source**",
+       "reject": "**Colonial legitimacy, restricted franchise and communal representation** — popular sovereignty, universal franchise, enforceable rights and republican government transformed the purpose of what was retained"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 44,
+     "cols": [
+      {
+       "h": "STRUCTURAL PART",
+       "c": "amber",
+       "items": [
+        "Strongly influenced by the **Government of India Act, 1935**.",
+        "It supplied **federal, gubernatorial, judicial, public-service, emergency and administrative** material."
+       ]
+      },
+      {
+       "h": "PHILOSOPHICAL PART",
+       "c": "teal",
+       "items": [
+        "Drew notably on **American Fundamental Rights** and **Irish directive principles**.",
+        "Rights restrain power; directives orient the State towards social transformation."
+       ]
+      },
+      {
+       "h": "POLITICAL PART",
+       "c": "cyan",
+       "items": [
+        "Executive-legislative relations drew on the **British model**.",
+        "Cabinet government and collective responsibility were taken **without** parliamentary sovereignty."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "magenta",
+     "title": "THE REPOSITORY-VERIFIED SOURCE TABLE — QUOTE ONLY FROM HERE",
+     "headers": [
+      "SOURCE",
+      "FEATURES BORROWED"
+     ],
+     "widths": [
+      0.24,
+      0.76
+     ],
+     "rows": [
+      [
+       "**GoI Act 1935**",
+       "Federal scheme, office of Governor, judiciary, Public Service Commissions, emergency provisions, administrative details"
+      ],
+      [
+       "**British**",
+       "Parliamentary government, rule of law, legislative procedure, single citizenship, cabinet system, prerogative writs, parliamentary privileges, **bicameralism**"
+      ],
+      [
+       "**United States**",
+       "Fundamental Rights, independence of judiciary, judicial review, impeachment of the President, removal of Supreme Court and High Court judges, **post of Vice-President**"
+      ],
+      [
+       "**Ireland**",
+       "DPSP, **nomination of members to the Rajya Sabha**, method of election of the President"
+      ],
+      [
+       "**Canada**",
+       "Federation with a strong Centre, residuary powers in the Centre, Centre-appointed Governors, **advisory jurisdiction of the Supreme Court**"
+      ],
+      [
+       "**Australia**",
+       "**Concurrent List**, freedom of trade, commerce and intercourse, **joint sitting** of the two Houses"
+      ],
+      [
+       "**Weimar (Germany)**",
+       "**Suspension of Fundamental Rights during Emergency**"
+      ],
+      [
+       "**USSR (Soviet)**",
+       "**Fundamental Duties**, the ideal of justice — social, economic and political — in the Preamble"
+      ],
+      [
+       "**France**",
+       "**Republic**, and the ideals of liberty, equality and fraternity in the Preamble"
+      ],
+      [
+       "**South Africa**",
+       "**Procedure for amendment**, election of Rajya Sabha members"
+      ],
+      [
+       "**Japan**",
+       "**Procedure established by law**"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "CLOSE-OPTION TRAP SWEEP",
+     "c": "red",
+     "outline": true,
+     "text": "**Concurrent List → Australia**, not Canada (strong-Centre federalism is the Canadian link). **Fundamental Duties → USSR**, not the USA. **DPSP → Ireland**; **Fundamental Rights → USA**. **'Procedure established by law' → Japan**, not Britain. **Amendment procedure → South Africa**, not the USA. **LIMIT:** borrowed-source lists invite **false one-to-one claims** — a feature may have several intellectual and institutional influences, so use the verified table and avoid decorative trivia."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — THE 'BAG OF BORROWINGS' CHARGE:",
+     "text": "The Constitution is **borrowed in ancestry but original in design** because the framers **selected, adapted and rejected** foreign devices to serve Indian conditions."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "kind": "core",
+   "title": "THE AMENDMENT SPECTRUM — A GRADED BLEND OF FLEXIBILITY AND ENTRENCHMENT",
+   "height_px": 1178,
+   "layout_signature": [
+    "spectrum",
+    "cols2",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "WRITTEN ≠ RIGID",
+    "NOT AS FLEXIBLE AS BRITAIN",
+    "NOT AS RIGID AS THE UNITED STATES",
+    "ARTICLE 368 = CONSTITUENT POWER",
+    "SOME CHANGES SIT OUTSIDE ARTICLE 368",
+    "NO CONSTITUTIONAL REFERENDUM"
+   ],
+   "blocks": [
+    {
+     "type": "spectrum",
+     "left": "← FLEXIBLE · ordinary-law style change",
+     "right": "entrenched constitutional choice · RIGID →",
+     "ceiling": "JUDICIAL CEILING OVER THE WHOLE SPECTRUM — the amending power cannot damage the BASIC STRUCTURE. Flexibility is constitutionally bounded; the doctrine itself belongs to Topic 10 and has no exhaustive closed list.",
+     "stops": [
+      {
+       "t": "SIMPLE MAJORITY, OUTSIDE ARTICLE 368",
+       "c": "green",
+       "s": "Certain constitutional changes follow an **ordinary-law style procedure**. This gives adaptability **without treating every change as constituent amendment**."
+      },
+      {
+       "t": "SPECIAL MAJORITY UNDER ARTICLE 368",
+       "c": "cyan",
+       "s": "A **majority of the total membership** of each House **plus two-thirds of the members present and voting**. This entrenches constitutional choice."
+      },
+      {
+       "t": "SPECIAL MAJORITY + RATIFICATION BY AT LEAST HALF THE STATES",
+       "c": "amber",
+       "s": "Specified **federal** provisions additionally require **at least half of the States**. This protects the federal compact by adding State participation."
+      },
+      {
+       "t": "THE BASIC-STRUCTURE BOUNDARY",
+       "c": "magenta",
+       "s": "Amendment is **broad, not destructive**. Constitutional change may not become **constitutional destruction**."
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 44,
+     "cols": [
+      {
+       "h": "WHY A GRADED SYSTEM AT ALL (ANALYSIS)",
+       "c": "teal",
+       "items": [
+        "Graduated rules **align procedure with constitutional stakes**: technical or territorial adjustments may be easier, while federal balance receives **State participation**.",
+        "**Article 368 supplies constituent power and procedure**, yet some changes described as constitutional amendments lie **outside** it and use a simple majority.",
+        "The basic-structure doctrine creates a real tension between **democratic updating** and **constitutional identity**."
+       ]
+      },
+      {
+       "h": "NEVER SAY THIS ABOUT AMENDMENT",
+       "c": "red",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "all amendments use Article 368."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "some constitution-related changes use a simple majority outside it."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "basic structure prevents amendment."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "it prevents **destructive alteration**, not constitutional change as such."
+        },
+        "Never claim that every amendment needs **State ratification**, a **referendum** or a **joint sitting** — India has **no constitutional referendum requirement** for Article 368 amendments."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "POSITIONING LINE",
+     "c": "amber",
+     "outline": true,
+     "text": "India is **neither as flexible as the classic British model nor as rigid as the United States model**. Different subjects receive different levels of entrenchment — that graded quality, not any single route, is the salient feature."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — RIGIDITY AND FLEXIBILITY:",
+     "text": "India's graded amendment system **combines adaptability with entrenchment**, while the **basic-structure doctrine prevents constitutional change from becoming constitutional destruction**."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "kind": "core",
+   "title": "FEDERAL IN FORM, CENTRALISING IN CAPACITY, COOPERATIVE AND ASYMMETRIC IN OPERATION",
+   "height_px": 1736,
+   "layout_signature": [
+    "quadrant",
+    "matrix",
+    "cols2",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "ARTICLE 1: 'UNION OF STATES'",
+    "'FEDERATION' NEVER USED",
+    "NOT AN AGREEMENT OF STATES",
+    "NO RIGHT TO SECEDE",
+    "RESIDUARY POWER AT THE UNION",
+    "'QUASI-FEDERAL' IS A SCHOLAR'S LABEL, NOT TEXT"
+   ],
+   "blocks": [
+    {
+     "type": "quadrant",
+     "core": "INDIAN FEDERALISM",
+     "cells": [
+      {
+       "t": "FEDERAL STRUCTURE",
+       "c": "cyan",
+       "s": "Two levels of government · distribution of legislative power across the **Union, State and Concurrent Lists** · **written supremacy** · partial rigidity · **judicial review** · **bicameralism** · courts as umpire of competence disputes."
+      },
+      {
+       "t": "CENTRALISING CAPACITY",
+       "c": "red",
+       "s": "**Single citizenship** · **integrated courts** · **Union appointment of Governors** · **All-India Services** · **emergency provisions** · a **strong Union list** · **one Constitution** for the general Union-State framework · **residuary power at the Union**."
+      },
+      {
+       "t": "COOPERATIVE AND COMPETITIVE",
+       "c": "green",
+       "s": "Cooperative federalism appears where governments **jointly finance, deliberate or implement**; competitive federalism describes **comparison for investment and governance**."
+      },
+      {
+       "t": "ASYMMETRIC",
+       "c": "magenta",
+       "s": "Differentiated arrangements accommodate **distinct histories and communities** — integration through **accommodation** rather than coerced uniformity."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "EVERY FEDERAL INDICATOR CARRIES A CENTRALISING QUALIFIER — STATE BOTH, ALWAYS",
+     "headers": [
+      "FEDERAL DIMENSION",
+      "ILLUSTRATION",
+      "CENTRALISING / QUALIFYING FEATURE"
+     ],
+     "widths": [
+      0.24,
+      0.36,
+      0.4
+     ],
+     "rows": [
+      [
+       "**Dual governments**",
+       "Union and States each have constitutional fields",
+       "The Union has **residuary power** and stronger **crisis capacity**"
+      ],
+      [
+       "**Distribution of powers**",
+       "**Union, State and Concurrent Lists**",
+       "**Union priority** in constitutionally specified conflicts"
+      ],
+      [
+       "**Written supremacy**",
+       "Competence is constitutionally allocated",
+       "Parliament may **reorganise State boundaries** under the Constitution"
+      ],
+      [
+       "**Judicial umpire**",
+       "Courts decide competence disputes",
+       "The judiciary is **integrated, not dual**"
+      ],
+      [
+       "**Territorial chamber**",
+       "The **Rajya Sabha** represents the States",
+       "Representation is **unequal**, and party discipline matters"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 44,
+     "cols": [
+      {
+       "h": "ARTICLE 1 CONTROLS THE ANSWER",
+       "c": "yellow",
+       "items": [
+        "Article 1 calls India a **'Union of States'**; the Constitution **does not use the word 'Federation'**.",
+        "The Union was **not created by a compact among sovereign States**.",
+        "States have **no right to secede**.",
+        "**Scholarly labels describe operation, they are not constitutional text:** **'quasi-federal' (K.C. Wheare)** · **'bargaining federalism' (Morris Jones)** · **'co-operative federalism' (Granville Austin)** · **'federation with a centralising tendency' (Ivor Jennings)**.",
+        "The design seeks **survival and integration without erasing diversity**."
+       ]
+      },
+      {
+       "h": "THE TWO FEDERALISM TRAPS",
+       "c": "red",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "India is purely unitary because the Centre is strong."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "it has a constitutionally distributed federal structure **with** centralising features."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "asymmetry violates federalism."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "differentiated arrangements can be a **federal device for accommodation**."
+        },
+        "**LIMIT:** 'quasi-federal' is a **scholar's description, not constitutional text** — weigh domains and time periods instead of declaring India simply unitary."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "LIVE OFFICIAL — CHECKED 21 AUGUST 2026",
+     "c": "teal",
+     "outline": true,
+     "text": "Gazette notification **S.O. 1922(E)** brought the **Constitution (One Hundred and Sixth Amendment) Act, 2023** into force on **16 April 2026**. **LIMIT:** commencement is **not operational reservation** — **Article 334A** still links actual reservation to delimitation undertaken after publication of the relevant figures of the first census taken after commencement. No publication date, delimitation date, election year or seat projection is asserted here."
+    },
+    {
+     "type": "answer",
+     "label": "ANALYTICAL TRANSITION — THE FEDERALISM VERDICT:",
+     "text": "Indian federalism **distributes power to accommodate diversity**, but retains **centralising, cooperative and asymmetric devices** so the Union can coordinate **without erasing the States**."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "kind": "core",
+   "title": "PARLIAMENTARY GOVERNMENT — THE UNBROKEN LOOP OF RESPONSIBLE EXECUTIVE POWER",
+   "height_px": 1770,
+   "layout_signature": [
+    "loop",
+    "matrix",
+    "cols2",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "AT THE UNION AND IN THE STATES",
+    "NOMINAL HEAD + REAL EXECUTIVE",
+    "COLLECTIVE RESPONSIBILITY",
+    "FUSION ≠ ABSENCE OF CHECKS",
+    "PARLIAMENT NOT SOVEREIGN LIKE WESTMINSTER",
+    "CONFIDENCE OF THE LOWER HOUSE"
+   ],
+   "blocks": [
+    {
+     "type": "loop",
+     "nodes": [
+      {
+       "t": "THE ELECTORATE",
+       "c": "cyan",
+       "s": "Citizens choose representatives at periodic elections. This is where the **authorisation** of all executive power begins."
+      },
+      {
+       "t": "THE ELECTED LOWER HOUSE",
+       "c": "teal",
+       "s": "Lok Sabha at the Union and the Legislative Assembly in a State. It **sustains or removes the ministry** and scrutinises it through questions, debates, committees and budget control."
+      },
+      {
+       "t": "THE ADMINISTRATION",
+       "c": "amber",
+       "s": "Executive action carried out under **ministerial direction**, and answerable back through the same chain that authorised it."
+      },
+      {
+       "t": "THE COUNCIL OF MINISTERS",
+       "c": "green",
+       "s": "The **real executive**, led by the **Prime Minister or Chief Minister**, working with a **nominal constitutional head** and **collectively responsible** to the elected lower House."
+      }
+     ],
+     "centre": {
+      "t": "WHERE THE LOOP GOES SLACK",
+      "items": [
+       "**Confidence:** the government survives only while it retains **lower-House support**; a presidential executive by contrast has an **independently fixed tenure**.",
+       "**Collective responsibility:** the Council **stands or falls together** before the lower House.",
+       "**Fusion:** ministers normally sit in the legislature — but fusion is **not the absence of checks**.",
+       "**Risk:** a large majority and party discipline can weaken scrutiny; coalitions and the **anti-defection law** change the incentives."
+      ]
+     }
+    },
+    {
+     "type": "matrix",
+     "c": "teal",
+     "title": "FOUR MECHANISMS, FOUR RISKS — THE PAIRING IS THE ANSWER",
+     "headers": [
+      "FEATURE",
+      "MECHANISM",
+      "RISK / QUALIFICATION"
+     ],
+     "widths": [
+      0.22,
+      0.4,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Dual executive**",
+       "President or Governor as **formal head**; PM/CM-led Council as **real executive**",
+       "Discretion exists only in **constitutionally bounded situations**"
+      ],
+      [
+       "**Collective responsibility**",
+       "The Council stands or falls together before the lower House",
+       "A large majority and party discipline can **weaken scrutiny**"
+      ],
+      [
+       "**Fusion**",
+       "Ministers normally sit in the legislature",
+       "Fusion is **not** the absence of checks"
+      ],
+      [
+       "**Confidence**",
+       "Government requires **lower-House support**",
+       "Coalitions and the **anti-defection law** affect incentives"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 44,
+     "cols": [
+      {
+       "h": "INDIA IS NOT WESTMINSTER",
+       "c": "magenta",
+       "items": [
+        "**LIMIT:** the Indian Parliament is **not sovereign like Westminster**. Written limits, federal competence, **Fundamental Rights, judicial review and basic structure** constrain it.",
+        "Core parliamentary features: **nominal and real executives, majority leadership, collective responsibility, ministerial membership of the legislature, PM/CM leadership and possible dissolution of the lower House**.",
+        "**Responsible government** links executive **survival** to legislative **confidence** — that is the whole distinction from a presidential separation."
+       ]
+      },
+      {
+       "h": "TWO TRAPS AND ONE OFFICE CAUTION",
+       "c": "red",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "fusion means there is no separation of powers."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "parliamentary fusion coexists with **judicial review and institutional checks**."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "responsible government guarantees effective scrutiny."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "party majorities and anti-defection incentives may **reduce deliberative accountability**."
+        },
+        "**LIMIT:** do not call the President merely ceremonial in every context — the office has constitutional powers, generally exercised on **ministerial aid and advice** subject to specified text and conventions."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — RESPONSIBLE EXECUTIVE:",
+     "text": "Parliamentary government makes the executive **continuously responsible to the elected lower House**, although **disciplined majorities can turn legislative confidence into executive dominance**."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "kind": "core",
+   "title": "NEITHER PARLIAMENT NOR THE COURT IS SOVEREIGN — THE INDIAN SYNTHESIS",
+   "height_px": 1229,
+   "layout_signature": [
+    "balance",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "BRITISH IDEA: A POWERFUL PARLIAMENT",
+    "AMERICAN IDEA: JUDICIAL REVIEW",
+    "BOTH PLACED INSIDE A WRITTEN, SUPREME CONSTITUTION",
+    "ARTICLE 368 = CONSTITUENT POWER",
+    "ARTICLES 13 · 32 · 226 = ENFORCEABLE LIMITS",
+    "'JUDICIAL SUPREMACY' IS SHORTHAND, NOT THE ANSWER"
+   ],
+   "blocks": [
+    {
+     "type": "balance",
+     "left": {
+      "h": "PARLIAMENT'S POWERS",
+      "c": "cyan",
+      "items": [
+       "Legislates **within constitutional competence** — a majority **cannot validate an unconstitutional law**.",
+       "Exercises **constituent power** to amend under **Article 368**.",
+       "Borrowed from the **British idea of a powerful Parliament**, but without parliamentary sovereignty.",
+       "Its powers are **conferred by the Constitution**, not inherent — which is why competence and procedure remain testable."
+      ]
+     },
+     "right": {
+      "h": "JUDICIAL REVIEW",
+      "c": "teal",
+      "items": [
+       "**Articles 13, 32 and 226** make constitutional limits **enforceable**.",
+       "Courts may **invalidate unconstitutional action** — but review does **not** make courts an unlimited sovereign.",
+       "Borrowed from the **American idea of judicial review**, but exercised on text, structure, precedent and jurisdiction.",
+       "The **basic-structure limit** keeps the two powers in **equilibrium rather than in a hierarchy**."
+      ]
+     },
+     "fulcrum": {
+      "t": "THE SUPREME CONSTITUTION",
+      "s": "Both powers are **conferred by** and **answerable to** the same written text"
+     }
+    },
+    {
+     "type": "matrix",
+     "c": "yellow",
+     "title": "FOUR DIMENSIONS THAT DECIDE THE CLOSE OPTION",
+     "headers": [
+      "DIMENSION",
+      "THE INDIAN POSITION",
+      "CLOSE-OPTION CONTROL"
+     ],
+     "widths": [
+      0.2,
+      0.42,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Ordinary legislation**",
+       "Parliament legislates within constitutional competence",
+       "A majority **cannot validate an unconstitutional law**"
+      ],
+      [
+       "**Constituent power**",
+       "Parliament may amend under **Article 368**",
+       "The **basic-structure limit** prevents destructive amendment"
+      ],
+      [
+       "**Judicial review**",
+       "Courts may invalidate unconstitutional action",
+       "Review does **not** make courts an unlimited sovereign"
+      ],
+      [
+       "**Article 21**",
+       "The text says **'procedure established by law'**",
+       "**Maneka Gandhi** requires **fair, just and reasonable** procedure; India did **not** copy the entire US model wholesale"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "LIMIT — EXAM-SAFE FORMULATION",
+     "c": "red",
+     "outline": true,
+     "text": "**'Judicial supremacy' is textbook shorthand.** The exam-safe formulation is **constitutional supremacy enforced partly through judicial review**. The synthesis exists precisely to prevent **two absolutes**: Westminster-style parliamentary sovereignty and court-centred government. **WRONG:** Parliament is sovereign because it can amend the Constitution — **CORRECT:** the amending power is **constitutionally conferred and basic-structure limited**."
+    },
+    {
+     "type": "answer",
+     "label": "ANALYTICAL TRANSITION — SOVEREIGNTY QUESTION:",
+     "text": "India combines **Parliament's broad legislative and constituent powers** with **judicial review under a supreme Constitution**, making **neither Parliament nor the judiciary sovereign** in the British or American sense."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "kind": "core",
+   "title": "SEPARATION OF FUNCTIONS, NOT OF ORGANS — OVERLAP LEGITIMISED BY RECIPROCAL CHECKS",
+   "height_px": 1530,
+   "layout_signature": [
+    "overlap",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "NO STRICT MONTESQUIEU SEPARATION",
+    "FUNCTIONS DIFFERENTIATED, ORGANS NOT ISOLATED",
+    "ARTICLE 50 — A DPSP, NOT A RIGHT",
+    "ARTICLES 121/211 · 122/212 · 123/213",
+    "RAM JAWAYA KAPUR (1955)",
+    "DIRECT OWNER — 2019 GS-II Q1"
+   ],
+   "blocks": [
+    {
+     "type": "overlap",
+     "zone_h": "THE FOUR CONSTITUTIONAL OVERLAP ZONES — LEGITIMATE ONLY WHILE RECIPROCAL CHECKS SURVIVE",
+     "organs": [
+      {
+       "h": "LEGISLATURE",
+       "c": "cyan",
+       "items": [
+        "Holds the executive accountable through **confidence, questions, debates, committees and the budget process.**",
+        "Exercises **constituent power under Article 368**.",
+        "**Articles 122 and 212** protect the **procedural autonomy** of legislatures — but substantive constitutional illegality remains reviewable within doctrine."
+       ]
+      },
+      {
+       "h": "EXECUTIVE",
+       "c": "amber",
+       "items": [
+        "**Initiates most legislation** and may issue **ordinances under Articles 123 and 213** — a temporary, conditioned law-making power.",
+        "Survives only while it holds legislative confidence.",
+        "**Article 50** directs **separation of the judiciary from the executive** in the public services of the State."
+       ]
+      },
+      {
+       "h": "JUDICIARY",
+       "c": "teal",
+       "items": [
+        "Reviews legality through **Articles 13, 32 and 226** and supplies **remedies**.",
+        "**Frames procedural rules** and exercises **contempt power**.",
+        "**Articles 121 and 211** limit legislative discussion of judges' conduct except in the removal process — this does **not** immunise judgments from criticism."
+       ]
+      }
+     ],
+     "zones": [
+      {
+       "t": "EXECUTIVE LAW-MAKING",
+       "c": "amber",
+       "s": "**Ordinances, Articles 123 and 213** — temporary and conditioned"
+      },
+      {
+       "t": "LEGISLATIVE CONSTITUENT POWER",
+       "c": "cyan",
+       "s": "**Article 368** — broad, but basic-structure bounded"
+      },
+      {
+       "t": "JUDICIAL RULE-MAKING",
+       "c": "teal",
+       "s": "Courts **frame rules** and punish **contempt**"
+      },
+      {
+       "t": "REVIEW AND REMEDIES",
+       "c": "magenta",
+       "s": "**Articles 13, 32 and 226** — constitutional, not judicial government"
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "FIVE CONSTITUTIONAL MARKERS — AND THE QUALIFICATION EACH ONE CARRIES",
+     "headers": [
+      "CONSTITUTIONAL MARKER",
+      "WHAT IT PROTECTS",
+      "QUALIFICATION"
+     ],
+     "widths": [
+      0.22,
+      0.4,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Article 50**",
+       "Separation of the judiciary from the executive in the public services of the State",
+       "A **DPSP**, not by itself a directly enforceable right"
+      ],
+      [
+       "**Articles 121 and 211**",
+       "Limits legislative discussion of judges' conduct except in the removal process",
+       "Does **not** immunise judgments from criticism"
+      ],
+      [
+       "**Articles 122 and 212**",
+       "Procedural autonomy of legislatures",
+       "Substantive constitutional illegality **remains reviewable** within doctrine"
+      ],
+      [
+       "**Articles 123 and 213**",
+       "Executive ordinance law-making",
+       "**Temporary, conditioned** legislative power"
+      ],
+      [
+       "**Articles 13, 32 and 226**",
+       "Judicial review and remedies",
+       "Review is **constitutional**, not judicial government"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "CASE ANCHORS FOR THE 2019 GS-II DEMAND",
+     "c": "yellow",
+     "outline": true,
+     "text": "**Ram Jawaya Kapur (1955)** recognised that the Constitution does **not contemplate a rigid separation**, though functions are sufficiently differentiated. **Kesavananda Bharati (1973)** and **Indira Nehru Gandhi v. Raj Narain (1975)** anchor separation and review **within basic-structure reasoning**. The working test: does the overlap **preserve each organ's constitutionally assigned core and its accountability**? **LIMIT:** judicial independence is **not** judicial supremacy, and legislative privilege is **not** a zone of total immunity."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — SEPARATION OF POWERS:",
+     "text": "India **separates core functions without isolating organs**; constitutional overlaps are legitimate **only when reciprocal checks prevent concentration of power**."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "kind": "pivot",
+   "title": "KEYSTONE — CONSTITUTIONAL SUPREMACY, RULE OF LAW AND LIMITED GOVERNMENT",
+   "height_px": 1417,
+   "layout_signature": [
+    "triangle",
+    "matrix",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "THE FEATURE THAT MAKES EVERY OTHER FEATURE BINDING",
+    "COMPETENCE · PROCEDURE · RIGHTS",
+    "NOT BRITISH PARLIAMENTARY SOVEREIGNTY",
+    "RULE OF LAW ≠ RULE BY ANY ENACTED LAW",
+    "LIMITED ≠ WEAK GOVERNMENT",
+    "ARTICLES 13 · 32 · 226 · 368"
+   ],
+   "blocks": [
+    {
+     "type": "triangle",
+     "apex": {
+      "t": "THE CONSTITUTION — SUPERIOR SOURCE OF ALL PUBLIC AUTHORITY",
+      "c": "yellow",
+      "s": "Every organ must be able to **trace and justify** its power under the Constitution. This is the keystone of the whole flow: it converts the other salient features from **descriptions** into **legally binding constraints**. Constitutional government both **creates** power and **restrains** it."
+     },
+     "base": [
+      {
+       "t": "TEST 1 · COMPETENCE",
+       "c": "cyan",
+       "s": "Was the organ **constitutionally empowered** to act at all? Competence is **allocated, not assumed** — and a parliamentary majority is democratic evidence, **not a waiver of constitutional limits**."
+      },
+      {
+       "t": "TEST 2 · FAIR PROCEDURE",
+       "c": "teal",
+       "s": "**Article 21** says **'procedure established by law'**. After **Maneka Gandhi** the procedure must be **fair, just and reasonable** — but do not claim India simply copied the entire American substantive-due-process model."
+      },
+      {
+       "t": "TEST 3 · ENFORCEABLE RIGHTS",
+       "c": "magenta",
+       "s": "**Articles 13, 32 and 226** are the central **review and remedy anchors**; **Article 368** gives broad amendment power subject to the **basic-structure limit**."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "yellow",
+     "title": "FOUR IDEAS, FOUR TESTS, FOUR EXAM DISTINCTIONS",
+     "headers": [
+      "IDEA",
+      "CORE TEST",
+      "EXAM DISTINCTION"
+     ],
+     "widths": [
+      0.24,
+      0.42,
+      0.34
+     ],
+     "rows": [
+      [
+       "**Constitutional supremacy**",
+       "Can every organ **trace and justify** its power under the Constitution?",
+       "Different from **British parliamentary sovereignty**"
+      ],
+      [
+       "**Rule of law**",
+       "Is power **authorised, non-arbitrary and equally applied**?",
+       "**Not** rule by any enacted law"
+      ],
+      [
+       "**Limited government**",
+       "Are **competence, procedure and rights** enforceable limits?",
+       "**Elections alone do not create constitutionalism**"
+      ],
+      [
+       "**Judicial review**",
+       "Can unconstitutional action be **invalidated or corrected**?",
+       "Review is **not policy administration**"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 40,
+     "cols": [
+      {
+       "h": "DICEY, ADAPTED TO INDIA",
+       "c": "cyan",
+       "items": [
+        "Dicey's classic elements: **supremacy of regular law over arbitrary power**, **equality before law**, and a legal spirit in which **courts protect rights**.",
+        "India's **written rights and remedies** alter the British setting but preserve the **anti-arbitrariness core**."
+       ]
+      },
+      {
+       "h": "LAW AND LIBERTY ARE NOT OPPOSITES",
+       "c": "teal",
+       "items": [
+        "**General, prospective and reviewable law** can create **ordered liberty** by restraining arbitrary coercion.",
+        "Institutions need **sufficient capacity to govern**, yet must stay within jurisdiction, follow fair procedure and justify restrictions."
+       ]
+      },
+      {
+       "h": "THE TWO KEYSTONE TRAPS",
+       "c": "red",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "rule of law means any action backed by statute is valid."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "the law **and its application** must satisfy constitutional competence and rights."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "limited government means weak government."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "it means **legally bounded** government with adequate constitutional capacity."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — THE KEYSTONE LINE:",
+     "text": "Constitutional supremacy converts **political power into legally bounded authority**: every organ must show **competence, fair procedure and respect for enforceable rights**."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "kind": "core",
+   "title": "AN INTEGRATED AND INDEPENDENT JUDICIARY — ONE HIERARCHY, TWO BODIES OF LAW",
+   "height_px": 1575,
+   "layout_signature": [
+    "pyramid",
+    "matrix",
+    "cols2",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "INTEGRATED DESPITE FEDERALISM",
+    "NOT A DUAL COURT SYSTEM LIKE THE US",
+    "SUPREME COURT → HIGH COURTS → SUBORDINATE COURTS",
+    "CHARGED EXPENDITURE · SECURITY OF TENURE",
+    "INDEPENDENCE ≠ JUDICIAL SUPREMACY",
+    "WRITS UNDER ARTICLES 32 AND 226"
+   ],
+   "blocks": [
+    {
+     "type": "pyramid",
+     "tiers": [
+      {
+       "t": "SUPREME COURT",
+       "c": "yellow",
+       "s": "**Apex court · federal court · final appellate court · protector of Fundamental Rights · guardian of constitutional boundaries.**"
+      },
+      {
+       "t": "HIGH COURTS",
+       "c": "cyan",
+       "s": "**Constitutionally significant** within one integrated hierarchy — the trap is to think an integrated judiciary means States have no High Courts. They issue **writs within constitutional jurisdiction**."
+      },
+      {
+       "t": "SUBORDINATE COURTS",
+       "c": "teal",
+       "s": "The **same** hierarchy administers **both Union and State law** — this is what promotes **national legal unity**, unlike a fully dual federal judiciary."
+      }
+     ],
+     "rail": {
+      "h": "REVIEW AND REMEDY CHAIN",
+      "c": "magenta",
+      "items": [
+       "**Article 13** — laws inconsistent with Fundamental Rights are void; the doorway to review.",
+       "**Article 32** — the Supreme Court's remedial jurisdiction for Fundamental Rights.",
+       "**Article 226** — High Court writ jurisdiction, wider in field.",
+       "Judicial review makes **written supremacy operational** by providing **reasoned remedies against ultra vires action**.",
+       "**LIMIT:** access, delay and compliance affect how effective those remedies actually are."
+      ]
+     }
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "FOUR DIMENSIONS OF JUDICIAL DESIGN — EACH WITH ITS OWN LIMIT",
+     "headers": [
+      "DIMENSION",
+      "MEANING",
+      "LIMIT"
+     ],
+     "widths": [
+      0.18,
+      0.44,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Integrated**",
+       "Supreme Court, High Courts and subordinate courts form **one hierarchy**",
+       "Federal disputes still receive **constitutionally assigned jurisdiction**"
+      ],
+      [
+       "**Independent**",
+       "**Tenure, service conditions, charged expenditure** and institutional protections reduce external control",
+       "**Appointment and accountability debates continue**"
+      ],
+      [
+       "**Review**",
+       "Courts test legislative and executive action against the Constitution",
+       "Review does **not** confer unlimited governance power"
+      ],
+      [
+       "**Remedies**",
+       "Supreme Court and High Courts issue **writs** within constitutional jurisdiction",
+       "**Access, delay and compliance** affect effectiveness"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 44,
+     "cols": [
+      {
+       "h": "THE INDEPENDENCE SAFEGUARDS — NAME THEM",
+       "c": "teal",
+       "items": [
+        "**Security of tenure** and **protected service conditions**.",
+        "**Charged expenditure** — salaries and expenses are placed on the Consolidated Fund.",
+        "**Restrictions on legislative discussion** of judicial conduct.",
+        "**Contempt power** and **constitutional separation from the executive**."
+       ]
+      },
+      {
+       "h": "TWO TRAPS AND ONE BOUNDARY",
+       "c": "red",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "an integrated judiciary means States have no High Courts."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "High Courts are **constitutionally significant within one integrated hierarchy**."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "an independent judiciary equals judicial supremacy."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "the **Constitution**, not any organ, is supreme; independence is **institutional impartiality**, not absence of accountability."
+        },
+        "**LIMIT:** appointments, jurisdiction, PIL, activism and tribunal doctrine belong to the judicial owner topics, not to this feature overview."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — THE JUDICIARY LINE:",
+     "text": "An **integrated and independent judiciary** supplies **national legal unity** and makes **constitutional supremacy effective through review and remedies**."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "kind": "core",
+   "title": "RIGHTS, DIRECTIVE PRINCIPLES AND DUTIES — THREE LEGAL STATUSES, ONE NORMATIVE ARCHITECTURE",
+   "height_px": 1356,
+   "layout_signature": [
+    "triad",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "PART III · PART IV · PART IV-A",
+    "JUSTICIABLE versus NON-JUSTICIABLE",
+    "ARTICLE 37 — FUNDAMENTAL IN GOVERNANCE",
+    "42nd AMENDMENT + 86th AMENDMENT DUTIES",
+    "MINERVA MILLS (1980) — HARMONY",
+    "HARMONY ≠ AUTOMATIC HIERARCHY"
+   ],
+   "blocks": [
+    {
+     "type": "triad",
+     "cols": [
+      {
+       "h": "FUNDAMENTAL RIGHTS",
+       "c": "teal",
+       "sc": "green",
+       "status": "JUSTICIABLE",
+       "items": [
+        "**Part III.** They **restrain arbitrary public power** and enable **remedies**.",
+        "Subject to **constitutional restrictions** — they are **not absolute**.",
+        "**Not every right belongs only to citizens.**",
+        "Constitutional purpose: **political liberty, equality and remedies**."
+       ]
+      },
+      {
+       "h": "DIRECTIVE PRINCIPLES",
+       "c": "amber",
+       "sc": "yellow",
+       "status": "NON-JUSTICIABLE · FUNDAMENTAL IN GOVERNANCE",
+       "items": [
+        "**Part IV.** Not enforceable in court **merely as DPSP**.",
+        "**Article 37** declares them **fundamental in the governance of the country** and imposes a **duty on the State to apply them in law-making**.",
+        "Constitutional purpose: **social and economic democracy**, a welfare orientation."
+       ]
+      },
+      {
+       "h": "FUNDAMENTAL DUTIES",
+       "c": "magenta",
+       "sc": "red",
+       "status": "NON-JUSTICIABLE",
+       "items": [
+        "**Part IV-A.** Added by the **42nd Amendment**, with an additional duty later added by the **86th Amendment**.",
+        "Constitutional purpose: **civic responsibility** and **interpretive support**.",
+        "Their full content belongs to **Topic 09**."
+       ]
+      }
+     ],
+     "foot": {
+      "label": "MINERVA MILLS (1980)",
+      "text": "treats **harmony between Fundamental Rights and Directive Principles** as central to constitutional balance. The architecture answers three questions at once: **what the State may not unjustifiably do**, **what social order it should pursue**, and **what civic commitments citizens should cultivate**."
+     }
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "LEGAL POSITION AND CONSTITUTIONAL PURPOSE — NEVER COLLAPSE THE TWO COLUMNS",
+     "headers": [
+      "COMPONENT",
+      "LEGAL POSITION",
+      "CONSTITUTIONAL PURPOSE"
+     ],
+     "widths": [
+      0.24,
+      0.38,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Fundamental Rights**",
+       "**Justiciable**, subject to constitutional restrictions",
+       "Political liberty, equality and remedies"
+      ],
+      [
+       "**Directive Principles**",
+       "**Non-justiciable**; declared **fundamental in governance**",
+       "Social and economic democracy; welfare orientation"
+      ],
+      [
+       "**Fundamental Duties**",
+       "**Non-justiciable** citizen duties",
+       "Civic responsibility and interpretive support"
+      ],
+      [
+       "**Balance**",
+       "**Harmony, not automatic hierarchy**",
+       "Dignity, freedom and social justice"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "LIMIT AND TRAP SWEEP",
+     "c": "red",
+     "outline": true,
+     "text": "**Do not** turn DPSP into directly enforceable rights, or Duties into free-standing penal offences — legislation may give concrete legal effect, but **the source and legal status must be identified**. **WRONG:** DPSP are legally irrelevant because non-justiciable — **CORRECT:** they are **constitutionally fundamental in governance** and guide law and interpretation. **WRONG:** rights always defeat social reform — **CORRECT:** constitutional adjudication seeks **rights-compatible reform and balance**."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — NORMATIVE ARCHITECTURE:",
+     "text": "**Fundamental Rights restrain power**, **Directive Principles direct social transformation** and **Fundamental Duties express civic responsibility**; constitutional balance requires **harmony without erasing their different legal status**."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "kind": "core",
+   "title": "SECULAR REPUBLIC — PRINCIPLED STATE ENGAGEMENT BETWEEN TWO REJECTED EXTREMES",
+   "height_px": 1537,
+   "layout_signature": [
+    "vs3",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "NO OFFICIAL RELIGION",
+    "NOT THEOCRACY · NOT TOTAL WITHDRAWAL",
+    "'SOCIALIST' · 'SECULAR' · 'INTEGRITY' — 42nd AMENDMENT, 1976",
+    "COMMITMENTS PRE-DATED THE WORDS",
+    "ARTICLES 14 · 15 · 16 · 25–30 · 44",
+    "POSITIVE SECULARISM"
+   ],
+   "blocks": [
+    {
+     "type": "vs3",
+     "labw": 0.17,
+     "heads": [
+      {
+       "t": "THEOCRATIC / STATE-RELIGION MODEL",
+       "c": "red"
+      },
+      {
+       "t": "THE INDIAN MODEL — PRINCIPLED ENGAGEMENT",
+       "c": "green"
+      },
+      {
+       "t": "ABSOLUTE WALL OF SEPARATION",
+       "c": "amber"
+      }
+     ],
+     "rows": [
+      {
+       "l": "OFFICIAL RELIGION",
+       "v": [
+        "A **State religion** is established and privileged.",
+        "**No official religion** — the State does not establish or privilege one faith.",
+        "No official religion, achieved by **complete State absence**."
+       ]
+      },
+      {
+       "l": "STATE AND FAITH",
+       "v": [
+        "Religious authority shapes public law.",
+        "**Principled engagement:** the State may regulate **secular activity associated with religious practice** and act for **equality and social reform**.",
+        "**Strict non-interference**; the State stays outside religion entirely."
+       ]
+      },
+      {
+       "l": "EQUALITY",
+       "v": [
+        "Formal inequality between believers and others.",
+        "**Articles 14, 15 and 16** — equality and non-discrimination on grounds including religion, and equal access to public employment.",
+        "Equality pursued with minimal State engagement."
+       ]
+      },
+      {
+       "l": "FREEDOM OF RELIGION",
+       "v": [
+        "Confined to the established faith.",
+        "**Articles 25–28** — freedom of conscience and religion, subject to **public order, morality, health** and other constitutional limits.",
+        "Strong individual liberty, no regulatory role."
+       ]
+      },
+      {
+       "l": "GROUP RIGHTS",
+       "v": [
+        "Minority claims subordinated.",
+        "**Articles 29 and 30** — cultural and educational rights of minorities. Communal representation was **abolished**, except temporary **seat reservation for SCs and STs**.",
+        "No group-specific constitutional guarantees."
+       ]
+      },
+      {
+       "l": "REFORM MANDATE",
+       "v": [
+        "Reform is a religious, not a civil, question.",
+        "**Article 44** — a **uniform civil code is a Directive Principle**, a constitutional aspiration, **not an enforced code today**.",
+        "Social reform is left outside the State's concern."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "yellow",
+     "title": "PREAMBULAR VOCABULARY — EXACT SOURCE, EXACT MEANING",
+     "headers": [
+      "TERM",
+      "CONSTITUTIONAL LOCATION",
+      "EXACT MEANING FOR THE EXAM"
+     ],
+     "widths": [
+      0.2,
+      0.34,
+      0.46
+     ],
+     "rows": [
+      [
+       "**'Secular'**",
+       "Inserted into the Preamble by the **42nd Amendment, 1976**",
+       "The **commitment pre-dated the word** — equality, freedom of religion and minority rights were already in the text"
+      ],
+      [
+       "**'Socialist'**",
+       "Inserted by the **42nd Amendment, 1976**",
+       "Read with the welfare orientation of **Part IV**, not as a fixed economic doctrine"
+      ],
+      [
+       "**'Integrity'**",
+       "Inserted by the **42nd Amendment, 1976**",
+       "Read with unity, fraternity and the territorial framework"
+      ],
+      [
+       "**'Republic'**",
+       "Preamble, with an **elected head of State**",
+       "No hereditary office; **political sovereignty vests in the people**"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "LIMIT — THE THREE SECULARISM TRAPS",
+     "c": "red",
+     "outline": true,
+     "text": "**WRONG:** Indian secularism means total State withdrawal from religion — **CORRECT:** it permits **regulation of secular activity and reform-oriented intervention** consistent with rights. **WRONG:** the 42nd Amendment created Indian secularism — **CORRECT:** it **added the word** to a Preamble whose **substantive commitments already existed**. **WRONG:** a uniform civil code is already the enforced law — **CORRECT:** **Article 44 is a Directive Principle**. Do **not** convert this stage into the detailed doctrine of Articles 25–28, which belongs to the Fundamental Rights topics."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — SECULARISM:",
+     "text": "Indian secularism protects **equal citizenship and freedom of conscience** through **principled state engagement**, not a theocratic order or an absolute wall of separation."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "kind": "core",
+   "title": "UNIVERSAL ADULT FRANCHISE — EQUAL POLITICAL MEMBERSHIP FROM THE VERY COMMENCEMENT",
+   "height_px": 1478,
+   "layout_signature": [
+    "timeline",
+    "panels2",
+    "matrix",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "FROM COMMENCEMENT — NOT PHASED IN",
+    "NO PROPERTY · TAX · EDUCATION · GENDER TEST",
+    "61st AMENDMENT ACT, 1988 — 21 → 18",
+    "OPERATIVE FOR ELECTIONS FROM 1989",
+    "RAJYA SABHA ≠ US SENATE",
+    "BICAMERAL ASYMMETRY IS DELIBERATE"
+   ],
+   "blocks": [
+    {
+     "type": "timeline",
+     "c": "cyan",
+     "items": [
+      {
+       "d": "COLONIAL BASELINE",
+       "t": "Representation rested on a restricted franchise and communal electorates — political membership was rationed by property, tax, education and community."
+      },
+      {
+       "d": "26 JAN 1950",
+       "t": "Universal adult franchise operates from the commencement of the Constitution — no property, tax, education or gender qualification."
+      },
+      {
+       "d": "FROM COMMENCEMENT",
+       "t": "Communal representation abolished, except temporary seat reservation for Scheduled Castes and Scheduled Tribes."
+      },
+      {
+       "d": "61st AMENDMENT, 1988",
+       "t": "The voting age is reduced from 21 years to 18 years by the Constitution (Sixty-first Amendment) Act, 1988."
+      },
+      {
+       "d": "FROM 1989",
+       "t": "The reduced voting age operates for elections held from 1989 — the amendment year and the operative year are different facts."
+      }
+     ]
+    },
+    {
+     "type": "panels",
+     "mid": "PLUS",
+     "mid2": "Franchise creates the electorate; chamber design decides how that electorate is represented",
+     "panels": [
+      {
+       "h": "WHY UNIVERSAL FRANCHISE WAS A DECISIVE CHOICE",
+       "c": "green",
+       "sub": "A poor, largely non-literate, newly independent country did not phase it in",
+       "items": [
+        "It **constitutionalised equal political membership** at the outset instead of treating the vote as a reward for property, literacy or tax payment.",
+        "It broke decisively with the **restricted colonial franchise**, which had made representation a concession rather than a right.",
+        "It made **political equality** the foundation on which social and economic transformation could be pursued through ordinary politics.",
+        "It is a **constitutional commitment**, not an administrative convenience — which is why the change of voting age itself required a **constitutional amendment**."
+       ]
+      },
+      {
+       "h": "REPRESENTATION IS NOT ONLY ELECTORAL",
+       "c": "cyan",
+       "sub": "Institutions translate equal votes into accountable government",
+       "items": [
+        "**Bicameralism** at the Union gives a **directly elected popular chamber** and a **federal chamber** representing the States.",
+        "The **Rajya Sabha is a federal chamber, but not an equal-State chamber like the US Senate** — a very frequent close-option trap.",
+        "The two Houses are **deliberately asymmetric** on **confidence** and on **money bills**; the popular chamber controls the government's survival and the purse.",
+        "**LIMIT:** the machinery of elections, delimitation and party regulation belongs to the elections topic, not to this feature."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "teal",
+     "title": "FOUR EXACT CONTROLS ON THIS STAGE",
+     "headers": [
+      "POINT",
+      "EXACT POSITION",
+      "WHY THE PRECISION MATTERS"
+     ],
+     "widths": [
+      0.2,
+      0.42,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Start date**",
+       "Universal adult franchise applies **from the commencement of the Constitution**",
+       "It was **not** introduced gradually or by later statute"
+      ],
+      [
+       "**Voting age**",
+       "**21 → 18** by the **61st Amendment Act, 1988**, operating for elections **from 1989**",
+       "Two different years — amendment year and operative year"
+      ],
+      [
+       "**Republic**",
+       "An **elected head of State**; sovereignty vests in the people",
+       "Distinguishes India from a constitutional monarchy"
+      ],
+      [
+       "**Second chamber**",
+       "Federal in character, **not equal-State representation**",
+       "The US Senate analogy is the standard wrong option"
+      ]
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — FRANCHISE AND REPRESENTATION:",
+     "text": "Universal adult franchise constitutionalised **equal political membership from the beginning**, while representative institutions translate that equality into **accountable government**."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "kind": "core",
+   "title": "THE INTEGRATION BUS — SINGLE CITIZENSHIP AND THE DEVICES THAT HOLD A FEDERAL POLITY TOGETHER",
+   "height_px": 1322,
+   "layout_signature": [
+    "bus",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "SINGLE CITIZENSHIP",
+    "NOT US-STYLE DUAL CITIZENSHIP",
+    "ONE INTEGRATED JUDICIARY",
+    "ALL-INDIA SERVICES — COMMON RECRUITMENT",
+    "UNITY WITHIN FEDERALISM, NOT INSTEAD OF IT",
+    "INTEGRATION ≠ UNIFORMITY"
+   ],
+   "blocks": [
+    {
+     "type": "bus",
+     "label": "INTEGRATION DEVICES",
+     "l_fn": "INTEGRATIVE FUNCTION",
+     "l_ten": "TENSION / LIMIT",
+     "devices": [
+      {
+       "t": "SINGLE CITIZENSHIP",
+       "c": "cyan",
+       "fn": "Every Indian is a **citizen of India alone**, whatever the State of birth or residence — there is **no separate State citizenship**.",
+       "tension": "It does **not** abolish **domicile-based or residence-based provisions** made under the Constitution."
+      },
+      {
+       "t": "INTEGRATED JUDICIARY",
+       "c": "teal",
+       "fn": "**One hierarchy** administers **both Union and State law**, producing **uniform interpretation** of national law.",
+       "tension": "Access, delay and compliance decide how far that unity is felt on the ground."
+      },
+      {
+       "t": "ALL-INDIA SERVICES",
+       "c": "amber",
+       "fn": "**Common recruitment** for officers who serve **both the Union and the States**, creating a shared administrative culture.",
+       "tension": "Central influence over senior State administration is a recurring **federal grievance**."
+      },
+      {
+       "t": "COMMON CONSTITUTIONAL BODIES",
+       "c": "green",
+       "fn": "Shared **audit, election and public-service institutions** apply **uniform integrity standards** across the polity.",
+       "tension": "Uniform standards must not become a substitute for **State institutional capacity**."
+      },
+      {
+       "t": "SINGLE CONSTITUTION",
+       "c": "magenta",
+       "fn": "One document supplies the framework for the **Union and the States** — States do not draft separate constitutions.",
+       "tension": "**Asymmetric arrangements** still differentiate within that single framework."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "THE COMPARATIVE CONTRAST THAT DECIDES THE OPTION",
+     "headers": [
+      "DIMENSION",
+      "UNITED STATES MODEL",
+      "INDIAN POSITION"
+     ],
+     "widths": [
+      0.22,
+      0.34,
+      0.44
+     ],
+     "rows": [
+      [
+       "**Citizenship**",
+       "**Dual citizenship** — of the nation and of a State",
+       "**Single citizenship** — of India alone"
+      ],
+      [
+       "**Courts**",
+       "A **dual court system** with separate federal and State hierarchies",
+       "**One integrated hierarchy** applying Union and State law"
+      ],
+      [
+       "**Higher services**",
+       "No equivalent common all-India cadre",
+       "**All-India Services** serving both the Union and the States"
+      ],
+      [
+       "**Constitutions**",
+       "States have their **own constitutions**",
+       "A **single Constitution** for the Union and the States"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "LIMIT — UNITY WITHIN FEDERALISM",
+     "c": "yellow",
+     "outline": true,
+     "text": "These devices exist **within** a federal polity, not **instead of** it: the States retain their own governments, legislative fields and elected accountability. **WRONG:** single citizenship abolishes all residence-based distinctions — **CORRECT:** constitutionally permitted **residence or domicile provisions survive**. **WRONG:** integration means uniformity — **CORRECT:** the Constitution integrates **while retaining asymmetry and State autonomy**. The detailed law of citizenship acquisition and loss belongs to the citizenship topic."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — INTEGRATION DEVICES:",
+     "text": "**Single citizenship, integrated courts and All-India Services** create administrative and legal unity **within, not instead of, a federal polity**."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "kind": "core",
+   "title": "INDEPENDENT CONSTITUTIONAL BODIES — INTEGRITY FUNCTIONS PLACED OUTSIDE ORDINARY EXECUTIVE CONTROL",
+   "height_px": 1448,
+   "layout_signature": [
+    "constel",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "ELECTION COMMISSION — ARTICLE 324",
+    "CAG — 'GUARDIAN OF THE PUBLIC PURSE'",
+    "UPSC AND STATE PSCs",
+    "FINANCE COMMISSION",
+    "TENURE · FIXED CONDITIONS · CHARGED EXPENDITURE",
+    "NOT EVERY 'COMMISSION' IS CONSTITUTIONAL"
+   ],
+   "blocks": [
+    {
+     "type": "constel",
+     "l_fn": "CONSTITUTIONAL FUNCTION",
+     "l_ind": "INDEPENDENCE DEVICE",
+     "core": {
+      "t": "INTEGRITY FUNCTIONS",
+      "s": "Created or protected **by the Constitution itself**, so their **existence and independence do not depend on the government of the day**"
+     },
+     "bodies": [
+      {
+       "t": "ELECTION COMMISSION",
+       "art": "ARTICLE 324",
+       "c": "cyan",
+       "fn": "**Superintendence, direction and control** of elections — the institutional guarantee that universal adult franchise is exercised through **free and fair** elections.",
+       "ind": "**Constitutional status** plus protected **tenure and conditions of service**."
+      },
+      {
+       "t": "COMPTROLLER AND AUDITOR-GENERAL",
+       "art": "GUARDIAN OF THE PUBLIC PURSE",
+       "c": "teal",
+       "fn": "**Audits Union and State accounts**; the reports are what make **legislative financial accountability** possible after money is spent.",
+       "ind": "**Security of tenure**; salary and administrative expenses are **charged**, not voted."
+      },
+      {
+       "t": "UNION AND STATE PUBLIC SERVICE COMMISSIONS",
+       "art": "MERIT RECRUITMENT",
+       "c": "amber",
+       "fn": "Conduct examinations and advise on service matters, insulating **public employment from patronage**.",
+       "ind": "**Fixed conditions of service** and removal only in the **constitutionally specified manner**."
+      },
+      {
+       "t": "FINANCE COMMISSION",
+       "art": "FISCAL FEDERALISM",
+       "c": "green",
+       "fn": "Recommends the **distribution of taxes and the principles of grants** between the Union and the States — the fiscal hinge of cooperative federalism.",
+       "ind": "**Constitutionally mandated** periodic constitution and **independent recommendation**."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "yellow",
+     "title": "THE INDEPENDENCE DEVICES — AND WHAT EACH ONE DOES NOT DO",
+     "headers": [
+      "DEVICE",
+      "HOW IT OPERATES",
+      "WHAT IT DOES NOT DO"
+     ],
+     "widths": [
+      0.24,
+      0.38,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Constitutional status**",
+       "The body's existence rests on the **Constitution**, not on an ordinary statute or executive order",
+       "It does **not** place the body outside constitutional accountability"
+      ],
+      [
+       "**Security of tenure**",
+       "Removal only in the **specified manner**, not at executive pleasure",
+       "It does **not** immunise decisions from **judicial review**"
+      ],
+      [
+       "**Fixed service conditions**",
+       "Conditions cannot be varied to the holder's disadvantage after appointment",
+       "It does **not** guarantee adequate **capacity or resources**"
+      ],
+      [
+       "**Charged expenditure**",
+       "Salaries and expenses are **charged** on the Consolidated Fund and not subject to the annual vote",
+       "It does **not** exempt the body from **reporting and transparency**"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "LIMIT — CLASSIFICATION AND ACCOUNTABILITY",
+     "c": "red",
+     "outline": true,
+     "text": "**WRONG:** every body called a 'commission' is a constitutional body — **CORRECT:** many important bodies are **statutory or executive**, and the exam repeatedly tests that classification. **WRONG:** independence means freedom from accountability — **CORRECT:** functional independence must coexist with **transparency, reasoned decisions and review**. The detailed composition, appointment and powers of each body belong to their **owner topics**; here they matter as a **system-level feature** that disperses integrity functions."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — CONSTITUTIONAL BODIES:",
+     "text": "Independent constitutional bodies **disperse integrity functions outside ordinary executive control**, but functional independence must coexist with **transparency, reasons and review**."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "kind": "core",
+   "title": "EMERGENCY PROVISIONS — A CONSTITUTIONAL SWITCH BETWEEN NORMAL AND EXCEPTION MODE",
+   "height_px": 1676,
+   "layout_signature": [
+    "switch",
+    "matrix",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "FEDERAL → UNITARY, TEMPORARILY",
+    "WITHOUT ANY FORMAL AMENDMENT",
+    "ARTICLES 352 · 356 · 355 · 365 · 360",
+    "44th AMENDMENT — 'ARMED REBELLION'",
+    "ARTICLES 20 AND 21 PROTECTED",
+    "EXCEPTION ≠ SUSPENSION OF THE CONSTITUTION"
+   ],
+   "blocks": [
+    {
+     "type": "switch",
+     "normal": {
+      "h": "NORMAL MODE — FEDERAL DISTRIBUTION",
+      "c": "cyan",
+      "items": [
+       "Union and State governments operate in their **own constitutional spheres** with distributed legislative and executive power.",
+       "Fundamental Rights operate with their **ordinary constitutional restrictions**.",
+       "The State executive is responsible to its **own elected legislature**.",
+       "Financial powers of the Union and the States follow the **normal constitutional scheme**.",
+       "Rights are enforced in the ordinary way through **Articles 32 and 226**.",
+       "Any centralising reach must be traced to an **express constitutional provision**, not to convenience."
+      ]
+     },
+     "exception": {
+      "h": "EXCEPTION MODE — TEMPORARY CENTRALISATION",
+      "c": "red",
+      "items": [
+       "The system can **behave in a unitary way** — and it does so **without any formal amendment of the Constitution**.",
+       "The Union acquires **enlarged directive, legislative or financial reach** according to the provision invoked.",
+       "Rights operate under the **emergency regime of the relevant Articles** — but the Constitution itself is **not suspended**.",
+       "**Time limits, approval requirements and judicial review** are the constitutional conditions attached to the exception.",
+       "The switch is **a mode of operation, not a new constitution** — temporary and reversible by design.",
+       "**Article 356** is read **with Article 355**, so the exception operates **within a constitutional frame** rather than at large."
+      ]
+     },
+     "triggers": [
+      "ARTICLE 352 — war, external aggression or armed rebellion",
+      "ARTICLE 356 — failure of constitutional machinery in a State, read with Article 355",
+      "ARTICLE 365 — failure to comply with directions of the Union",
+      "ARTICLE 360 — financial emergency"
+     ],
+     "ret": "**RETURN PATH:** a proclamation is **temporary by design** — approval requirements, prescribed durations, revocation and **judicial review of the proclamation** are the routes back to normal mode. **Emergency provisions do not authorise permanent unitary rule or extra-constitutional government.**"
+    },
+    {
+     "type": "matrix",
+     "c": "amber",
+     "title": "THE FOUR TRIGGER ARTICLES — GROUND, EFFECT, CONTROL",
+     "headers": [
+      "ARTICLE",
+      "GROUND",
+      "SYSTEM EFFECT",
+      "CONTROL"
+     ],
+     "widths": [
+      0.13,
+      0.3,
+      0.31,
+      0.26
+     ],
+     "rows": [
+      [
+       "**Article 352**",
+       "**War, external aggression or armed rebellion**",
+       "National emergency — the widest centralising reach",
+       "Approval and duration conditions; **Articles 20 and 21 protected**"
+      ],
+      [
+       "**Article 356**",
+       "**Failure of constitutional machinery** in a State, read with **Article 355**",
+       "President's rule — State government functions taken over",
+       "Proclamation is **reviewable**; time limits apply"
+      ],
+      [
+       "**Article 365**",
+       "**Non-compliance with directions** of the Union",
+       "Supplies a ground on which failure of machinery may be held",
+       "Cannot be used as a routine substitute for federal bargaining"
+      ],
+      [
+       "**Article 360**",
+       "**Financial emergency**",
+       "Union directions on financial matters",
+       "Constitutional conditions and review continue to apply"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 40,
+     "cols": [
+      {
+       "h": "44th AMENDMENT — WHAT IT TIGHTENED",
+       "c": "green",
+       "items": [
+        "Replaced **'internal disturbance'** with **'armed rebellion'** as a ground under Article 352 — a narrower, harder threshold.",
+        "Protected **Articles 20 and 21** from suspension under **Article 359**, so the right to life and protection in respect of conviction survive the emergency.",
+        "The direction of the reform was to make the **exception harder to invoke and less destructive of rights**."
+       ]
+      },
+      {
+       "h": "WHY THIS IS A 'SALIENT FEATURE'",
+       "c": "cyan",
+       "items": [
+        "It shows that the Constitution **anticipated crisis** and located the response **inside** the constitutional order.",
+        "It is the clearest proof that **federal form and centralising operation coexist** in the same document.",
+        "It converts a political emergency into a **legally conditioned, reviewable and time-bound** state of affairs."
+       ]
+      },
+      {
+       "h": "THE THREE EMERGENCY TRAPS",
+       "c": "red",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "emergency suspends the Constitution."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "it **alters the operation** of specified provisions under **constitutional conditions**."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "all Fundamental Rights can be suspended."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "**Articles 20 and 21** are protected after the **44th Amendment**."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "a proclamation is beyond judicial scrutiny."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "it is **reviewable**."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — EMERGENCY:",
+     "text": "Emergency provisions permit **temporary constitutional centralisation for crisis management**, but they do **not authorise permanent unitary rule or extra-constitutional government**."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "kind": "core",
+   "title": "THE THIRD TIER AND CONSTITUTIONALISED COOPERATIVES — DEMOCRACY BELOW THE STATE",
+   "height_px": 1303,
+   "layout_signature": [
+    "chain",
+    "answer",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "73rd AMENDMENT, 1992 — PART IX + 11th SCHEDULE",
+    "74th AMENDMENT, 1992 — PART IX-A + 12th SCHEDULE",
+    "A THIRD TIER FOUND IN NO OTHER CONSTITUTION",
+    "FUNCTIONS · FUNDS · FUNCTIONARIES",
+    "97th AMENDMENT, 2011 — COOPERATIVES",
+    "NEVER SAY THE WHOLE 97th WAS STRUCK DOWN"
+   ],
+   "blocks": [
+    {
+     "type": "chain",
+     "per_row": 5,
+     "items": [
+      {
+       "t": "ORIGINAL CONSTITUTION",
+       "s": "Local self-government existed only as a directive on the organisation of village panchayats — an aspiration, not a guaranteed tier",
+       "c": "dim"
+      },
+      {
+       "t": "73rd AMENDMENT, 1992",
+       "s": "Panchayats constitutionalised through Part IX and the Eleventh Schedule",
+       "c": "cyan"
+      },
+      {
+       "t": "74th AMENDMENT, 1992",
+       "s": "Municipalities constitutionalised through Part IX-A and the Twelfth Schedule",
+       "c": "teal"
+      },
+      {
+       "t": "A DISTINCTIVE FEATURE",
+       "s": "A constitutionally guaranteed third tier of this kind is not found in any other constitution",
+       "c": "yellow"
+      },
+      {
+       "t": "THE REAL TEST",
+       "s": "Constitutional status guarantees existence and elections; effective devolution still requires functions, funds and functionaries",
+       "c": "amber"
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — THIRD TIER:",
+     "text": "The **73rd and 74th Amendments** deepened democracy by **constitutionalising a third tier**, yet real decentralisation still depends on **functions, funds and functionaries**."
+    },
+    {
+     "type": "matrix",
+     "c": "magenta",
+     "title": "97th AMENDMENT, 2011 — WHAT SURVIVES AND WHAT DOES NOT",
+     "headers": [
+      "PROVISION",
+      "WHAT IT DID",
+      "STATUS AFTER THE JUDGMENT"
+     ],
+     "widths": [
+      0.26,
+      0.36,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Article 19(1)(c)**",
+       "Made the **right to form cooperative societies** an express fundamental freedom",
+       "**Survives** — unaffected by the ruling"
+      ],
+      [
+       "**Article 43-B**",
+       "Added a **Directive Principle** on voluntary formation, autonomous functioning, democratic control and professional management",
+       "**Survives** — unaffected by the ruling"
+      ],
+      [
+       "**Part IX-B (Articles 243-ZH to 243-ZT)**",
+       "Supplied a constitutional framework for the governance of cooperative societies",
+       "In **Union of India v. Rajendra N. Shah (2021)** it was held invalid **for State cooperative societies** for want of **State ratification**"
+      ],
+      [
+       "**Multi-State cooperatives**",
+       "The framework as it applies to the **multi-State field**",
+       "**Operative** — the Union's competence over multi-State societies is not disturbed"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "PRECISION CONTROL — THE MOST COMMON ERROR ON THIS STAGE",
+     "c": "red",
+     "outline": true,
+     "text": "**Never say the whole 97th Amendment was struck down.** The judgment turned on the **federal amendment procedure**: a change affecting the **State legislative field** required **ratification by the States**. **Article 19(1)(c), Article 43-B and the multi-State field survive.** This is also a clean illustration of the earlier amendment stage — the **ratification requirement is a real federal safeguard**, not a formality."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — COOPERATIVES:",
+     "text": "The cooperative-society provisions **constitutionalise voluntary and democratic association**, while **federal competence limits Part IX-B's operation for State cooperatives**."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "kind": "core",
+   "title": "ASYMMETRY AND PLURAL ACCOMMODATION — INTEGRATION THROUGH DIFFERENTIATION, NOT COERCED UNIFORMITY",
+   "height_px": 1773,
+   "layout_signature": [
+    "panels2",
+    "matrix",
+    "cols2",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "FIFTH AND SIXTH SCHEDULE ARRANGEMENTS",
+    "SPECIAL PROVISIONS FOR STATES AND REGIONS",
+    "OFFICIAL-LANGUAGE FRAMEWORK",
+    "THERE IS NO NATIONAL LANGUAGE",
+    "ARTICLES 29 AND 30 — CULTURAL AND EDUCATIONAL RIGHTS",
+    "ASYMMETRY ≠ INEQUALITY"
+   ],
+   "blocks": [
+    {
+     "type": "panels",
+     "mid": "AND",
+     "mid2": "Differentiation is the integration strategy, not a departure from it",
+     "panels": [
+      {
+       "h": "TERRITORIAL AND TRIBAL DIFFERENTIATION",
+       "c": "cyan",
+       "sub": "Different histories and administrative realities are given different constitutional treatment",
+       "items": [
+        "**Special provisions for particular States and regions** respond to distinctive historical, developmental and administrative circumstances.",
+        "**Fifth Schedule** arrangements govern the administration and control of **Scheduled Areas and Scheduled Tribes**.",
+        "**Sixth Schedule** arrangements provide **autonomous district and regional administration** in the specified tribal areas.",
+        "**Affirmative representation** and protective measures address **historical exclusion** rather than creating new privilege."
+       ]
+      },
+      {
+       "h": "CULTURAL AND LINGUISTIC ACCOMMODATION",
+       "c": "teal",
+       "sub": "Plurality is protected inside a single constitutional framework",
+       "items": [
+        "An **official-language framework** manages a multilingual polity — **the Constitution does not create a national language**.",
+        "**Articles 29 and 30** protect the **cultural and educational rights** of minorities, including the right to establish and administer educational institutions.",
+        "Accommodation is a **constitutional method of integration**: unity is pursued **through recognition**, not through erasure of difference.",
+        "**LIMIT:** the detailed schemes belong to the federalism, tribal-administration and minority-rights topics."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "amber",
+     "title": "FOUR ASYMMETRY DEVICES — WHAT EACH ACCOMMODATES AND THE CONTROL IT CARRIES",
+     "headers": [
+      "DEVICE",
+      "WHAT IT ACCOMMODATES",
+      "EXAM CONTROL"
+     ],
+     "widths": [
+      0.24,
+      0.38,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Special State/region provisions**",
+       "Distinct historical and developmental circumstances",
+       "Differentiation is **constitutionally authorised**, not an exception to equality"
+      ],
+      [
+       "**Fifth and Sixth Schedules**",
+       "Scheduled Areas, Scheduled Tribes and autonomous tribal administration",
+       "Two **different schemes** — do not merge them into one"
+      ],
+      [
+       "**Official-language framework**",
+       "A genuinely multilingual polity",
+       "**No national language** is declared by the Constitution"
+      ],
+      [
+       "**Cultural and educational rights**",
+       "Minority language, script and culture",
+       "Group protection **within** individual equality, not against it"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 44,
+     "cols": [
+      {
+       "h": "ARTICLE 370 AND JAMMU & KASHMIR — THE EXACT, DATED POSITION",
+       "c": "magenta",
+       "items": [
+        "The **Supreme Court judgment of 11 December 2023** **upheld the 2019 constitutional changes** relating to **Article 370**.",
+        "The Court **directed restoration of statehood at the earliest**, **without fixing a deadline**.",
+        "**Official material continues to describe Jammu and Kashmir as a Union Territory with a legislature.**",
+        "**Write it as a dated position.** Undated present-tense claims about status are the single most common error on this sub-point."
+       ]
+      },
+      {
+       "h": "THE THREE ASYMMETRY TRAPS",
+       "c": "red",
+       "items": [
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "Hindi is the national language of India."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "the Constitution provides an **official-language framework**; **no national language** is declared."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "asymmetry violates equality."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "differentiated treatment of **differently situated regions and groups** is a recognised constitutional method."
+        },
+        {
+         "k": "WRONG:",
+         "kc": "red",
+         "v": "the Fifth and Sixth Schedules do the same job."
+        },
+        {
+         "k": "CORRECT:",
+         "kc": "green",
+         "v": "they are **distinct schemes** for different areas and forms of administration."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "WHY THIS IS A SYSTEM-LEVEL FEATURE",
+     "c": "yellow",
+     "outline": true,
+     "text": "Asymmetry is the point at which **federalism, rights and identity meet**. A uniform template imposed on radically unlike regions would have produced **either secessionary pressure or authoritarian enforcement**. The Constitution instead treats **differentiated arrangements as instruments of integration** — which is why this feature must be argued as **accommodation**, never as concession or appeasement."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — ASYMMETRY:",
+     "text": "Constitutional asymmetry uses **differentiated territorial, tribal, cultural and linguistic arrangements** to pursue **integration through accommodation rather than coerced uniformity**."
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "kind": "core",
+   "title": "CONTINUITY AND TRANSFORMATION — COLONIAL MACHINERY, REPUBLICAN LEGITIMACY, CONSTITUTIONAL MORALITY",
+   "height_px": 1508,
+   "layout_signature": [
+    "replace",
+    "answer",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "MACHINERY RETAINED",
+    "LEGITIMACY TRANSFORMED",
+    "GOVERNMENT OF INDIA ACT, 1935",
+    "AMBEDKAR VIA GEORGE GROTE",
+    "NOT PERSONAL JUDICIAL MORALITY",
+    "DIRECT OWNER — 2021 GS-II Q1"
+   ],
+   "blocks": [
+    {
+     "type": "replace",
+     "arrow": "SAME MACHINERY, DIFFERENT SOURCE AND ENDS OF AUTHORITY",
+     "before": {
+      "h": "WHAT WAS CARRIED FORWARD — ADMINISTRATIVE CONTINUITY",
+      "c": "amber",
+      "items": [
+       "The **Government of India Act, 1935** supplied a large part of the **administrative and federal machinery**, which is one reason for the Constitution's length.",
+       "**Executive structures, service traditions and administrative-law patterns** continued into the republic.",
+       "Continuity was a **deliberate governing choice**: a new state could not simultaneously invent every institution and administer a partitioned subcontinent.",
+       "This is the factual basis of the criticism that the Constitution is a **carry-over of colonial law**."
+      ]
+     },
+     "after": {
+      "h": "WHAT WAS TRANSFORMED — REPUBLICAN LEGITIMACY",
+      "c": "green",
+      "items": [
+       "**Popular sovereignty** replaced imperial authority as the **source** of all public power.",
+       "**Universal adult franchise** replaced a restricted, communal electorate.",
+       "**Justiciable Fundamental Rights** replaced statutory concessions revocable by the sovereign legislature.",
+       "**Responsible government** replaced administration accountable outward to an imperial authority."
+      ]
+     },
+     "note": "The correct formulation is that **institutional form persisted while constitutional legitimacy changed**. **WRONG:** the Constitution is merely a continuation of colonial law — **CORRECT:** it **retained machinery but replaced the source and ends of authority**. Continuity explains **capacity**; transformation explains **legitimacy**. An answer that states only one half is incomplete."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — CONTINUITY AND TRANSFORMATION:",
+     "text": "The Constitution **retained administrative machinery from colonial rule** but **transformed its legitimacy** through **popular sovereignty, rights, universal franchise and responsible government**."
+    },
+    {
+     "type": "matrix",
+     "c": "magenta",
+     "title": "CONSTITUTIONAL MORALITY — SOURCE, CONTENT, TEXTUAL ANCHOR, JUDICIAL USE",
+     "headers": [
+      "ELEMENT",
+      "EXACT POSITION",
+      "WHY IT CONTROLS THE ANSWER"
+     ],
+     "widths": [
+      0.22,
+      0.4,
+      0.38
+     ],
+     "rows": [
+      [
+       "**Origin**",
+       "**Ambedkar** invoked the idea in the Constituent Assembly, drawing on **George Grote**",
+       "Naming the source converts a vague phrase into a **traceable constitutional idea**"
+      ],
+      [
+       "**Content**",
+       "**Fidelity to constitutional forms, values and procedures**, and **self-restraint** by those who hold power",
+       "It disciplines **how** power is used, not merely **whether** it is authorised"
+      ],
+      [
+       "**Textual anchor**",
+       "The **Preamble** and **Articles 14, 15, 19, 21 and 25**",
+       "Anchoring prevents the concept from floating free of the text"
+      ],
+      [
+       "**Judicial use**",
+       "**Navtej Singh Johar (2018)**, **Indian Young Lawyers Association (2018)** and **Government of NCT of Delhi v. Union of India (2018)**",
+       "The 2021 GS-II question asks for the concept **with judicial decisions**"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "LIMIT — THE CRITICISM YOU MUST CONCEDE AND ANSWER",
+     "c": "red",
+     "outline": true,
+     "text": "The standard objection is that constitutional morality can become **a label for judicial preference**. The disciplined reply: it must be argued **through constitutional text, structure and precedent**, and it applies to **legislators, executives and citizens**, not to judges alone. **WRONG:** constitutional morality means personal moral views of judges — **CORRECT:** it means **fidelity to constitutional values and restraint**, reasoned from the Constitution itself."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — CONSTITUTIONAL MORALITY:",
+     "text": "Constitutional morality is **fidelity to constitutional forms, values and restraint**; it must discipline power **through text and structure** rather than become a **label for personal preference**."
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "kind": "core",
+   "title": "TENSIONS AND TRADE-OFFS — SIX FAULT LINES AND THE GRADED VERDICT THEY DEMAND",
+   "height_px": 1485,
+   "layout_signature": [
+    "tension",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "STRENGTH AND FAILURE MODE ARE THE SAME DESIGN",
+    "TENSION ≠ DESIGN FAILURE",
+    "CONCEDE · QUALIFY · EVALUATE",
+    "NO UNQUALIFIED PRAISE",
+    "NO WHOLESALE CONDEMNATION",
+    "THIS IS THE MAINS-SCORING STAGE"
+   ],
+   "blocks": [
+    {
+     "type": "tension",
+     "h_l": "DESIGN STRENGTH",
+     "h_v": "THE FAULT LINE",
+     "h_r": "FAILURE MODE / CRITICISM",
+     "rows": [
+      {
+       "c": "cyan",
+       "v": "FEDERALISM vs CENTRALISATION",
+       "l": "Centralising devices give the Union **crisis capacity and national coordination**.",
+       "r": "The same devices can **erode State autonomy** when used routinely rather than exceptionally."
+      },
+      {
+       "c": "teal",
+       "v": "LIBERTY vs SOCIAL REFORM",
+       "l": "Rights plus Directive Principles allow **reform-oriented regulation** of an unequal society.",
+       "r": "Reform can **overreach into protected freedoms** if restrictions are not justified."
+      },
+      {
+       "c": "amber",
+       "v": "ACCOUNTABILITY vs EXECUTIVE DOMINANCE",
+       "l": "Responsible government makes the executive **continuously answerable** to the elected House.",
+       "r": "**Disciplined majorities** can convert confidence into **executive dominance** and thin scrutiny."
+      },
+      {
+       "c": "green",
+       "v": "DETAIL vs COMPLEXITY",
+       "l": "Written detail **reduces uncertainty** and constitutionalises administration.",
+       "r": "Length and amendment traffic breed **complexity, litigation and technicality**."
+      },
+      {
+       "c": "magenta",
+       "v": "REVIEW vs DEMOCRATIC LEGITIMACY",
+       "l": "Judicial review makes constitutional limits **enforceable** against transient majorities.",
+       "r": "Expansive review invites the charge of **displacing elected decision-making**."
+      },
+      {
+       "c": "yellow",
+       "v": "UNIFORMITY vs ASYMMETRY",
+       "l": "Asymmetric arrangements **accommodate** deep regional and cultural difference.",
+       "r": "Differentiation can be attacked as **inconsistency** or become a bargaining instrument."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "red",
+     "title": "CRITICISM → COUNTER → RESIDUAL CONCERN — THE THREE-MOVE STRUCTURE THAT EARNS THE MARKS",
+     "headers": [
+      "CRITICISM",
+      "CONSTITUTIONAL COUNTER",
+      "RESIDUAL CONCERN"
+     ],
+     "widths": [
+      0.3,
+      0.36,
+      0.34
+     ],
+     "rows": [
+      [
+       "**Too long and too detailed**",
+       "Detail **constitutionalises diversity and administration** and reduces uncertainty",
+       "Complexity and frequent amendment raise **accessibility costs**"
+      ],
+      [
+       "**Merely borrowed**",
+       "Devices were **selected, adapted and rejected** to serve Indian conditions",
+       "Adaptation must be demonstrated with **examples**, not asserted"
+      ],
+      [
+       "**Not truly federal**",
+       "Two governments, division of powers and a supreme written text remain **federal in form**",
+       "**Routine** use of centralising devices weakens practice"
+      ],
+      [
+       "**Colonial continuity**",
+       "Legitimacy was transformed by **sovereignty, rights and franchise**",
+       "Retained machinery can carry **authoritarian administrative habits**"
+      ],
+      [
+       "**Judicial overreach**",
+       "Review is the mechanism that makes **written limits enforceable**",
+       "The **boundary with policy choice** is genuinely contested"
+      ],
+      [
+       "**Rights under-delivered**",
+       "Rights are **justiciable** and remedies are constitutionally guaranteed",
+       "**Access, delay and capacity** limit real enjoyment"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "THE GRADED VERDICT — HOW TO CLOSE A CRITICAL QUESTION",
+     "c": "yellow",
+     "outline": true,
+     "text": "Neither **unqualified praise** nor **wholesale condemnation** scores. The examiner rewards: **state the design intention → concede the demonstrated failure mode → identify the constitutional mechanism that answers it → name the residual concern that survives.** A tension is evidence of a **plural society being governed constitutionally**; it becomes a failure only when one side of the trade-off **stops being contestable**."
+    },
+    {
+     "type": "answer",
+     "label": "CORE ARGUMENT — CRITICAL EVALUATION:",
+     "text": "The Constitution's tensions are **not design failures by definition**; they become failures when **central capacity defeats federalism, majority rule defeats rights or institutional independence escapes accountability**."
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "kind": "core",
+   "title": "SYNTHESIS — HOW THE FEATURES INTERACT, THE ANSWER SPINE AND THE PYQ ROUTES",
+   "height_px": 2698,
+   "layout_signature": [
+    "web",
+    "chain",
+    "matrix",
+    "cols3",
+    "answer",
+    "band"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "FEATURES ARE A SYSTEM, NOT A LIST",
+    "INTERACTION IS THE MARK-CARRYING MOVE",
+    "2019 GS-II Q1 · SEPARATION OF POWERS",
+    "2021 GS-II Q1 · CONSTITUTIONAL MORALITY",
+    "DATE EVERY CHANGING POSITION",
+    "CLOSE ON A GRADED VERDICT"
+   ],
+   "blocks": [
+    {
+     "type": "web",
+     "h_pair": "FEATURE PAIR — THE INTERACTION",
+     "h_out": "WHAT THE INTERACTION PRODUCES",
+     "rows": [
+      {
+       "a": "WRITTEN DETAIL",
+       "b": "FEDERALISM",
+       "c": "cyan",
+       "t": "Detail **constitutionalises the distribution of powers**, so Centre–State disputes become **justiciable questions** instead of purely political ones."
+      },
+      {
+       "a": "FEDERAL FORM",
+       "b": "EMERGENCY",
+       "c": "red",
+       "t": "One document supplies **normal federal distribution** and a **temporary unitary mode** — which is why **federal form** and **centralising operation** must be answered as **two different questions**."
+      },
+      {
+       "a": "PARLIAMENTARY GOVERNMENT",
+       "b": "JUDICIAL REVIEW",
+       "c": "teal",
+       "t": "**Fusion** of executive and legislature is checked by **enforceable constitutional limits**, so **political responsibility and legal validity** operate together — neither Parliament nor the court is sovereign."
+      },
+      {
+       "a": "FUNDAMENTAL RIGHTS",
+       "b": "DIRECTIVE PRINCIPLES",
+       "c": "green",
+       "t": "**Harmony** — affirmed in **Minerva Mills (1980)** — converts liberty and social transformation into a **single reform-compatible programme** rather than rival claims."
+      },
+      {
+       "a": "UNIVERSAL FRANCHISE",
+       "b": "SECULARISM",
+       "c": "amber",
+       "t": "**Equal political membership** plus **principled state engagement** is how a deeply plural society sustains **equal citizenship** without a state religion or a wall of separation."
+      },
+      {
+       "a": "AMENDMENT POWER",
+       "b": "BASIC STRUCTURE",
+       "c": "yellow",
+       "t": "**Adaptability with entrenchment** — constitutional change remains possible while **constitutional destruction** does not; this is the hinge between rigidity and flexibility."
+      },
+      {
+       "a": "SINGLE CITIZENSHIP",
+       "b": "ASYMMETRY",
+       "c": "magenta",
+       "t": "Common legal membership coexists with **differentiated territorial, tribal and linguistic arrangements** — integration achieved **through accommodation**."
+      }
+     ]
+    },
+    {
+     "type": "chain",
+     "per_row": 5,
+     "items": [
+      {
+       "t": "1 · OPEN",
+       "s": "Define a salient feature as a system-level characteristic produced by interaction of provisions, institutions, values and practice",
+       "c": "cyan"
+      },
+      {
+       "t": "2 · CLASSIFY",
+       "s": "Group by function: form and length · power distribution · rights and duties · institutions · adaptability",
+       "c": "teal"
+      },
+      {
+       "t": "3 · EVIDENCE",
+       "s": "Name Articles, Parts, Schedules, amendments and cases precisely — vague praise scores nothing",
+       "c": "green"
+      },
+      {
+       "t": "4 · DISTINGUISH",
+       "s": "Written ≠ rigid · lengthy ≠ verbose · borrowed ≠ copied · federal form ≠ centralising operation",
+       "c": "amber"
+      },
+      {
+       "t": "5 · INTERACT",
+       "s": "Show at least one feature pair working together — this is the difference between a list and an argument",
+       "c": "yellow"
+      },
+      {
+       "t": "6 · CONCEDE",
+       "s": "State the criticism in its strongest form, not a weakened version",
+       "c": "magenta"
+      },
+      {
+       "t": "7 · COUNTER",
+       "s": "Give the constitutional mechanism that answers it",
+       "c": "cyan"
+      },
+      {
+       "t": "8 · RESIDUAL",
+       "s": "Name the concern that still survives the counter",
+       "c": "teal"
+      },
+      {
+       "t": "9 · DATE",
+       "s": "Attach dates to changing positions — amendments, judgments and status questions",
+       "c": "amber"
+      },
+      {
+       "t": "10 · CLOSE",
+       "s": "End on the graded verdict: adapted architecture whose success depends on morality and institutions",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "magenta",
+     "title": "VERIFIED PYQ ROUTES — WHICH STAGE OWNS THE QUESTION AND WHAT THE ANSWER MOVE IS",
+     "headers": [
+      "QUESTION",
+      "DEMAND",
+      "OWNER STAGE",
+      "THE ANSWER MOVE"
+     ],
+     "widths": [
+      0.2,
+      0.28,
+      0.18,
+      0.34
+     ],
+     "rows": [
+      [
+       "**Mains 2019 GS-II Q1** · 10 marks · 150 words",
+       "Strict separation of powers is not workable; checks and balances are essential",
+       "**Stage 8**",
+       "**Ram Jawaya Kapur (1955)** → four overlap zones → Articles 50, 121/211, 122/212, 123/213, 13/32/226 → reciprocal checks test"
+      ],
+      [
+       "**Mains 2021 GS-II Q1** · 10 marks · 150 words",
+       "Constitutional morality, illustrated with judicial decisions",
+       "**Stage 19**",
+       "**Ambedkar via George Grote** → Preamble and Articles 14, 15, 19, 21, 25 → **Navtej Singh Johar**, **Indian Young Lawyers Association**, **NCT of Delhi** (all 2018) → concede the preference objection"
+      ],
+      [
+       "**Prelims 2020 Q7**",
+       "Constitutional government — what it means",
+       "**Stage 9**",
+       "Reasoned answer: constitutional government means **limited government**. **Official key not held locally.**"
+      ],
+      [
+       "**Prelims 2023 Q33**",
+       "The chief purpose of having a Constitution",
+       "**Stage 9**",
+       "Reasoned answer: it **defines and limits the powers of government**. **Official key not held locally.**"
+      ],
+      [
+       "**Prelims 2024 GS-I Q74**",
+       "Match Parts of the Constitution with subject matter",
+       "**Stages 16–17**",
+       "**Officially verified Set-A answer: D** — **Part IX-A** Municipalities, **Part XVIII** Emergency Provisions, **Part XX** Amendment"
+      ],
+      [
+       "**Prelims 2018 Q40 and Q45 · 2021 Q87, Q90 and Q94 · 2023 Q84**",
+       "Feature-classification and provision-matching questions routed to this topic",
+       "**Stages 2–16**",
+       "Routed by stage; **no option text is reconstructed from memory** — verify against an official paper before quoting options"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 38,
+     "cols": [
+      {
+       "h": "PRELIMS DISCRIMINATORS — MEMORISE THE PAIRS",
+       "c": "cyan",
+       "items": [
+        "**Concurrent List → Australia** · **Fundamental Duties → USSR** · **DPSP → Ireland**.",
+        "**'Procedure established by law' → Japan** · **amendment procedure and Rajya Sabha election → South Africa**.",
+        "**Suspension of Fundamental Rights during Emergency → Weimar**.",
+        "**'Socialist', 'secular' and 'integrity' → 42nd Amendment, 1976**.",
+        "**Voting age 21 → 18 → 61st Amendment, 1988**, operating **from 1989**."
+       ]
+      },
+      {
+       "h": "MAINS PARAGRAPH TEMPLATE — FOUR SENTENCES",
+       "c": "teal",
+       "items": [
+        "**Sentence 1** — name the feature and its **system-level function**.",
+        "**Sentence 2** — supply the **exact constitutional evidence**: Article, Part, Schedule, amendment or case.",
+        "**Sentence 3** — state the **qualification or trade-off** that a strong answer must concede.",
+        "**Sentence 4** — close with the **controlled answer line** for that stage."
+       ]
+      },
+      {
+       "h": "NEVER WRITE THESE — AUTOMATIC MARK LOSS",
+       "c": "red",
+       "items": [
+        "**'Federation'** appears in the constitutional text — it does not; **Article 1** says **'Union of States'**.",
+        "**Every amendment** requires State ratification — only the specified federal matters do.",
+        "India follows a **strict separation of powers**.",
+        "**DPSP are irrelevant** because they are non-justiciable.",
+        "Indian secularism means **total State withdrawal** from religion.",
+        "**Hindi is the national language**.",
+        "The **whole 97th Amendment** was struck down.",
+        "A **single unqualified present-day total** of Articles, Parts or Schedules without a date."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "FINAL ANSWER-GRABBING LINE — USE OR ADAPT IN ANY SALIENT-FEATURES QUESTION:",
+     "text": "The Indian Constitution is a **carefully adapted architecture of authority, restraint, representation and transformation** whose success depends as much on **constitutional morality and institutions** as on text."
+    },
+    {
+     "type": "band",
+     "label": "SOURCE INTEGRITY",
+     "c": "yellow",
+     "outline": true,
+     "text": "Every figure, Article, amendment number, case name and date on this poster is taken from the canonical **Polity 03 learner-v2 teaching session**. Where the session records a **dated** position — the Article count snapshot, the **106th Amendment** commencement, the **Article 370** judgment and the status of Jammu and Kashmir — the date is printed with the fact. Where an official answer key is **not held locally**, that is stated instead of asserting a key. **Nothing on this poster is reconstructed from memory.**"
+    }
+   ]
+  },
+  {
+   "n": "EXTRA",
+   "kind": "extra",
+   "title": "SUBORDINATE ENRICHMENT — TEXTBOOK ENUMERATION, DATED SNAPSHOTS AND THE BORROWING DEBATE",
+   "height_px": 1536,
+   "layout_signature": [
+    "cols3",
+    "matrix",
+    "band"
+   ],
+   "pill_count": 4,
+   "pills": [
+    "NOT REQUIRED FOR A CORE ANSWER",
+    "READ ONLY AFTER STAGES 0–21",
+    "DATED FIGURES — QUOTE WITH THE DATE",
+    "ENRICHMENT, NEVER THE SPINE"
+   ],
+   "blocks": [
+    {
+     "type": "cols",
+     "gap": 38,
+     "cols": [
+      {
+       "h": "THE 17-FEATURE ENUMERATION · 1–6",
+       "c": "dim",
+       "items": [
+        "**1.** Lengthiest written constitution.",
+        "**2.** Drawn from various sources.",
+        "**3.** Blend of rigidity and flexibility.",
+        "**4.** Federal system with unitary bias.",
+        "**5.** Parliamentary form of government.",
+        "**6.** Synthesis of parliamentary sovereignty and judicial supremacy.",
+        "The **structural** part traces mainly to the **Government of India Act, 1935**; the **philosophical** part to the **US (Fundamental Rights)** and **Ireland (Directive Principles)**; the **political** part to the **British** cabinet system and executive–legislature relations."
+       ]
+      },
+      {
+       "h": "THE 17-FEATURE ENUMERATION · 7–12",
+       "c": "dim",
+       "items": [
+        "**7.** Integrated and independent judiciary.",
+        "**8.** Fundamental Rights — **Part III**, six rights.",
+        "**9.** Directive Principles of State Policy — **Part IV**.",
+        "**10.** Fundamental Duties — **Part IV-A, Article 51A, eleven duties**, Swaran Singh Committee.",
+        "**11.** A secular state — **positive secularism**, not the Western negative wall of separation.",
+        "**12.** Universal adult franchise — described in the source as a **bold experiment** given India's size, poverty and illiteracy."
+       ]
+      },
+      {
+       "h": "THE 17-FEATURE ENUMERATION · 13–17",
+       "c": "dim",
+       "items": [
+        "**13.** Single citizenship.",
+        "**14.** Independent bodies — **Election Commission (Article 324)**, **CAG**, **UPSC**, **State Public Service Commissions**.",
+        "**15.** Emergency provisions — three types under **Articles 352, 356/365 and 360**.",
+        "**16.** Three-tier government — **73rd and 74th Amendments, 1992**.",
+        "**17.** Co-operative societies — **97th Amendment, 2011**.",
+        "**LIMIT:** this enumeration is a **teaching classification**, not a closed constitutional schedule. The core stages argue features as an **interacting system**; the list is only a recall aid."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "dim",
+     "title": "DATED SNAPSHOTS AND AMENDMENT ARITHMETIC — ALWAYS QUOTE WITH THE DATE ATTACHED",
+     "headers": [
+      "ITEM",
+      "EXACT SOURCE POSITION",
+      "HOW TO USE IT SAFELY"
+     ],
+     "widths": [
+      0.22,
+      0.42,
+      0.36
+     ],
+     "rows": [
+      [
+       "**Original text, 1949**",
+       "Preamble + **395 Articles**, **22 Parts**, **8 Schedules**",
+       "Safe to state as the **original** figure — it does not change"
+      ],
+      [
+       "**Dated snapshot**",
+       "The source records **about 470 Articles**, **25 Parts** and **12 Schedules** as a **2019** position",
+       "Quote **only with the year**; never present it as an uncontested present-day total"
+      ],
+      [
+       "**Deletions**",
+       "Amendments deleted **about 20 Articles** and **Part VII**",
+       "Use as **direction of change**, not as an exact live count"
+      ],
+      [
+       "**Additions**",
+       "Added **about 95 Articles**, **4 Parts (IV-A, IX-A, IX-B, XIV-A)** and **4 Schedules (9, 10, 11, 12)**",
+       "The **Part and Schedule numbers are exact** and are frequently tested"
+      ],
+      [
+       "**Reshaping amendments**",
+       "**7th, 42nd, 44th, 73rd, 74th, 97th and 101st**",
+       "Name them when asked how the 1949 design was altered"
+      ],
+      [
+       "**'Mini-Constitution'**",
+       "The **42nd Amendment (1976)** carries this description; **Kesavananda (1973)** bars alteration of the **basic structure**",
+       "Pair the label with the **limit** — quoting the label alone is incomplete"
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "THE BORROWING CRITICISM AND AMBEDKAR'S REBUTTAL",
+     "c": "dim",
+     "outline": true,
+     "text": "The Constitution has been attacked as a **'bag of borrowings'**, a **'hotch-potch'** and a **'patchwork'**. **Ambedkar's rebuttal:** after more than a century of written constitutions, all of them must resemble one another in fundamentals; the only novelty left lies in **variation to suit a country's needs** — **'the charge of a blind copy is based on inadequate study.'** He described the Constitution as framed after **'ransacking all the known Constitutions of the World'**. Related dated note: **until 2019 Jammu and Kashmir had its own constitution** under Article 370; the Supreme Court **upheld the abrogation in December 2023**. Use these as **enrichment only** — the core argument remains **selection, adaptation and rejection**, argued in Stage 3."
+    }
+   ]
+  }
+ ],
+ "must_show_terms": [
+  "system-level",
+  "provisions, institutions, values and practice",
+  "constitutional law",
+  "constitutionalism",
+  "basic structure",
+  "395 Articles",
+  "22 Parts",
+  "8 Schedules",
+  "25 Parts",
+  "12 Schedules",
+  "470 Articles",
+  "Government of India Act, 1935",
+  "Part VII",
+  "ransacking all the known Constitutions of the World",
+  "Concurrent List",
+  "Ireland",
+  "Weimar",
+  "South Africa",
+  "Japan",
+  "Australia",
+  "Canada",
+  "USSR",
+  "France",
+  "procedure established by law",
+  "Article 368",
+  "special majority",
+  "ratification",
+  "simple majority",
+  "Union of States",
+  "no right to secede",
+  "quasi-federal",
+  "K.C. Wheare",
+  "Granville Austin",
+  "Morris Jones",
+  "Ivor Jennings",
+  "106th Amendment",
+  "16 April 2026",
+  "334A",
+  "residuary",
+  "collective responsibility",
+  "anti-defection",
+  "Maneka Gandhi",
+  "judicial review",
+  "nominal",
+  "real executive",
+  "Article 50",
+  "Articles 121 and 211",
+  "Articles 122 and 212",
+  "Articles 123 and 213",
+  "Ram Jawaya Kapur",
+  "Kesavananda Bharati",
+  "Indira Nehru Gandhi v. Raj Narain",
+  "Dicey",
+  "limited government",
+  "rule of law",
+  "competence",
+  "Consolidated Fund",
+  "High Courts",
+  "Article 13",
+  "Article 32",
+  "Article 226",
+  "Part III",
+  "Part IV",
+  "Part IV-A",
+  "Article 37",
+  "Article 51A",
+  "Swaran Singh Committee",
+  "Minerva Mills",
+  "justiciable",
+  "non-justiciable",
+  "42nd Amendment",
+  "Article 44",
+  "Articles 29 and 30",
+  "Articles 25–28",
+  "Articles 14, 15 and 16",
+  "principled state engagement",
+  "adult franchise",
+  "61st Amendment",
+  "1989",
+  "21",
+  "18",
+  "Rajya Sabha",
+  "All-India Services",
+  "citizen of India alone",
+  "dual citizenship",
+  "Article 324",
+  "PUBLIC PURSE",
+  "Finance Commission",
+  "Public Service Commissions",
+  "charged",
+  "Article 352",
+  "Article 356",
+  "Article 355",
+  "Article 365",
+  "Article 360",
+  "armed rebellion",
+  "44th Amendment",
+  "Article 359",
+  "Articles 20 and 21",
+  "73rd Amendment",
+  "74th Amendment",
+  "Part IX",
+  "Part IX-A",
+  "Eleventh Schedule",
+  "Twelfth Schedule",
+  "functions, funds and functionaries",
+  "97th Amendment",
+  "Article 19(1)(c)",
+  "Article 43-B",
+  "Part IX-B",
+  "243-ZH",
+  "Rajendra N. Shah",
+  "Fifth Schedule",
+  "Sixth Schedule",
+  "national language",
+  "Article 370",
+  "11 December 2023",
+  "Union Territory with a legislature",
+  "George Grote",
+  "Navtej Singh Johar",
+  "Indian Young Lawyers Association",
+  "Government of NCT of Delhi",
+  "constitutional morality",
+  "popular sovereignty",
+  "graded verdict",
+  "2019 GS-II Q1",
+  "2021 GS-II Q1",
+  "2024 GS-I Q74",
+  "Set-A answer: D",
+  "Part XVIII",
+  "Part XX",
+  "Official key not held locally",
+  "Mini-Constitution",
+  "bag of borrowings",
+  "42nd Amendment (1976)"
+ ]
+}

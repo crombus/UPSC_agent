@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-09_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-09_Learning-Session_2026-08-28.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 29,
+      "heading": "SESSION 1 - The Integrated Political Question",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** What history, economics, sociology, psychology a",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 306.624
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 49,
+      "heading": "1. One-screen conceptual map",
+      "preview": "POLITICAL QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 283.124
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 132.124
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 73,
+      "heading": "3. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 653.591
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 380.99
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 159,
+      "markdown_body_line_end": 159,
+      "heading": "11. Revision capsule / answer spine",
+      "preview": "⚠️ **Answer spine:** Politics is an open, socially embedded process; therefore political analysis must borrow evidence and models from history, economics, sociology, psychology and philosophy, while still keeping the political question at t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 229.791
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 170.924
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1103,
+      "markdown_body_line_end": 1108,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Reconstructing Gauba's case for interdisciplinarity as a met",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 664.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1113,
+      "markdown_body_line_end": 1125,
+      "heading": "1. One-screen advanced map",
+      "preview": "POLITICAL CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 637.124
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 516.124
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1148,
+      "markdown_body_line_end": 1154,
+      "heading": "4. Definitions and distinctions",
+      "preview": "Pair | Advanced distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Pair",
+          "Advanced distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 715.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 472.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1251,
+      "markdown_body_line_end": 1264,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 601.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 177.09
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    }
+  ]
+}

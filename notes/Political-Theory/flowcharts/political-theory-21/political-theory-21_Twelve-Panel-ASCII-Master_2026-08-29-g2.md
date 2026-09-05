@@ -1,0 +1,253 @@
+# Common Good and Community — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: Topic Stakes, Concept Map and Essential Definitions
+
+```ascii-master
+CENTRAL FOCUS
+Topic Stakes, Concept Map and Essential Definitions
+  [1] Common good is a normative ideal of welfare for the whole political community.
+        |
+        v
+  [2] Common interest is an empirical overlap among affected persons.
+        |
+        v
+  [3] Public interest is a public judgment that must answer to common good.
+        |
+        v
+  [4] Consensus means ongoing accommodation, not complete unanimity.
+        |
+        v
+VERDICT -> Separate normative, empirical and justificatory levels first.
+ANSWER USE -> Define all three terms before any thinker comparison.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: Gauba's Common-Good Argument
+
+```ascii-master
+CENTRAL FOCUS
+Gauba's Common-Good Argument
+  [1] Aristotle tests a constitution by the good of the whole community.
+        |
+        v
+  [2] Rousseau contrasts the general will with summed private wills.
+        |
+        v
+  [3] Green ties political obligation to common good and self-development.
+        |
+        v
+  [4] The opening sequence rejects state good and majority good as equivalents.
+        |
+        v
+VERDICT -> Aristotle, Rousseau and Green are linked but not merged.
+ANSWER USE -> Attach each thinker to one distinct mechanism.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: Common Good, Common Interest, Public Interest and Consensus
+
+```ascii-master
+CENTRAL FOCUS
+Common Good, Common Interest, Public Interest and Consensus
+  [1] Common good, common interest and public interest are not interchangeable.
+        |
+        v
+  [2] Public interest may justify policy, but common good still judges it.
+        |
+        v
+  [3] Interest overlap among parties does not prove welfare of the whole.
+        |
+        v
+  [4] This distinction blocks bureaucratic and factional misuse of the concept.
+        |
+        v
+VERDICT -> Precision blocks bureaucratic and factional misuse.
+ANSWER USE -> Public-interest language still needs a common-good test.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: The Liberal Route and Macpherson's Correction
+
+```ascii-master
+CENTRAL FOCUS
+The Liberal Route and Macpherson's Correction
+  [1] Liberal reconciliation sees common good as adjusted interests under civil rules.
+        |
+        v
+  [2] Rights matter because they prevent mutual oppression and protect plurality.
+        |
+        v
+  [3] Gauba adds Macpherson's correction to pure market-equilibrium liberalism.
+        |
+        v
+  [4] Prices may undervalue socially necessary human capacities.
+        |
+        v
+VERDICT -> Liberalism here is rights plus reconciliation, not market worship.
+ANSWER USE -> Pair liberal adjustment with Macpherson's correction.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: Communitarian Embeddedness and Thinker-Specific Mechanisms
+
+```ascii-master
+CENTRAL FOCUS
+Communitarian Embeddedness and Thinker-Specific Mechanisms
+  [1] Communitarianism treats persons as socially formed through membership and duty.
+        |
+        v
+  [2] Shared practices and traditions partly shape the goods people pursue.
+        |
+        v
+  [3] MacIntyre gives practices, Taylor recognition, and Walzer social meanings.
+        |
+        v
+  [4] Its danger is dominant-group morality dressed up as community.
+        |
+        v
+VERDICT -> Social depth must not become coerced conformity.
+ANSWER USE -> Name MacIntyre, Taylor or Walzer specifically.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: The Marxian Class Barrier
+
+```ascii-master
+CENTRAL FOCUS
+The Marxian Class Barrier
+  [1] Marxian theory denies genuine common good in class-divided society.
+        |
+        v
+  [2] Antagonistic ownership structures organise power and interest unequally.
+        |
+        v
+  [3] Common good becomes meaningful only after class domination is overcome.
+        |
+        v
+  [4] The owner's criticism adds the risk of new political domination.
+        |
+        v
+VERDICT -> Marxian strength is diagnosis; weakness is historical realisation.
+ANSWER USE -> Contrast class barrier with later domination risk.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: Gandhian Trusteeship, Bread Labour and Sarvodaya
+
+```ascii-master
+CENTRAL FOCUS
+Gandhian Trusteeship, Bread Labour and Sarvodaya
+  [1] Gandhian common good is moral, not arithmetical or merely administrative.
+        |
+        v
+  [2] Trusteeship treats surplus wealth as a trust for social welfare.
+        |
+        v
+  [3] Bread labour ties dignity, equality and restraint to bodily work.
+        |
+        v
+  [4] Sarvodaya seeks uplift of all through service and non-violence.
+        |
+        v
+VERDICT -> Gandhi moralises common good beyond utility and state command.
+ANSWER USE -> Use trusteeship, bread labour and sarvodaya together.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: Comparison, Trap Repair and Revision Spine
+
+```ascii-master
+CENTRAL FOCUS
+Comparison, Trap Repair and Revision Spine
+  [1] State good, majority good and aggregate happiness are rejected substitutes.
+        |
+        v
+  [2] A party bargain fails common good if hidden public costs remain.
+        |
+        v
+  [3] Liberal weakness is thin solidarity; communitarian weakness is weak machinery.
+        |
+        v
+  [4] Marxian and Gandhian routes also face realisation and voluntarism risks.
+        |
+        v
+VERDICT -> The core false equations are statist, majoritarian and utilitarian.
+ANSWER USE -> Repair one trap before moving to evaluation.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: Directive Control, Reconstructions and Objection-Reply Chains
+
+```ascii-master
+CENTRAL FOCUS
+Directive Control, Reconstructions and Objection-Reply Chains
+  [1] Minority rights and dissent test whether a claimed good is truly common.
+        |
+        v
+  [2] Group-rights claims fail if they silence women or lower-status members.
+        |
+        v
+  [3] Constitutional morality disciplines oppressive inherited social consensus.
+        |
+        v
+  [4] The safest modern formula is rights-bounded and revisable common good.
+        |
+        v
+VERDICT -> Rights, dissent and review are internal tests of common good.
+ANSWER USE -> Use the internal-domination objection when plurality appears.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: Plurality, Indian Applications, MCQ Ledger and PYQ Routes
+
+```ascii-master
+CENTRAL FOCUS
+Plurality, Indian Applications, MCQ Ledger and PYQ Routes
+  [1] Aquinas, Hegel, republicanism, commons and social capital are tagged bridges.
+        |
+        v
+  [2] Aquinas extends the natural-law genealogy toward human flourishing.
+        |
+        v
+  [3] Hegel links freedom to ethical life in family, society and state.
+        |
+        v
+  [4] These bridges deepen comparison but do not become Gauba Ch.21 claims.
+        |
+        v
+VERDICT -> Supplementary bridges help only when their boundary is stated.
+ANSWER USE -> Mark Aquinas and Hegel as comparative extensions.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
+
+```ascii-master
+CENTRAL FOCUS
+MCQ Remediation and Trap Repair
+  [1] High-risk traps confuse common good with majority will or public interest.
+        |
+        v
+  [2] Another trap treats communitarianism as permission to erase disagreement.
+        |
+        v
+  [3] Strong answers distinguish liberal, communitarian, Marxian and Gandhian routes.
+        |
+        v
+  [4] Quotation discipline prefers named propositions over unsafe verbatim lines.
+        |
+        v
+VERDICT -> Strong answers use propositions and distinctions over risky quotes.
+ANSWER USE -> Replace doubtful quotes with verified named positions.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
+
+```ascii-master
+CENTRAL FOCUS
+PYQ Ownership and Answer Practice
+  [1] Verified Philosophy PYQs stay with Philosophy as their primary owners.
+        |
+        v
+  [2] Borrowed routes concern democracy, minorities, Gandhi, Ambedkar and coexistence.
+        |
+        v
+  [3] Topic 21 keeps original Mains prompts while citing those routes carefully.
+        |
+        v
+  [4] Topic 23 owns democratisation, backsliding and social movements as bridges.
+        |
+        v
+VERDICT -> Philosophy PYQs stay with Philosophy owners.
+ANSWER USE -> Route democratisation and backsliding to Topic 23.
+```

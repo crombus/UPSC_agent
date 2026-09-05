@@ -1,0 +1,12 @@
+# Paper I Indian Philosophy Pilot — Notes PDF Index
+
+> **Section key:** `paper-i-indian-philosophy-pilot`
+> This index intentionally contains only one deliverable type.
+
+| # | Topic key | Display title | Notes PDF | Package state | Approval | Validation | Variant / generation |
+|---:|---|---|---|---|---|---|---|
+| 1 | `philosophy-paper-i-indian-philosophy-01` | Cārvāka (Carvaka / Lokāyata) | [`notes\Learner-v2-Refreshed\Philosophy\Paper-I-Indian-Philosophy\learning-sessions\topic-01\g13\topic-01_Complete-Learning-Session_2026-08-23.pdf`](../../../../Learner-v2-Refreshed/Philosophy/Paper-I-Indian-Philosophy/learning-sessions/topic-01/g13/topic-01_Complete-Learning-Session_2026-08-23.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g13 |
+| 2 | `philosophy-paper-i-indian-philosophy-02` | Jainism | [`notes\Learner-v2-Refreshed\Philosophy\Compatibility-Pilot\learning-sessions\topic-02\g12\topic-02_Complete-Learning-Session_2026-08-23.pdf`](../../../../Learner-v2-Refreshed/Philosophy/Compatibility-Pilot/learning-sessions/topic-02/g12/topic-02_Complete-Learning-Session_2026-08-23.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g12 |
+| 3 | `philosophy-paper-i-indian-philosophy-03` | Schools of Buddhism | [`notes\Learner-v2-Refreshed\Philosophy\Compatibility-Pilot\learning-sessions\topic-03\g12\topic-03_Complete-Learning-Session_2026-08-23.pdf`](../../../../Learner-v2-Refreshed/Philosophy/Compatibility-Pilot/learning-sessions/topic-03/g12/topic-03_Complete-Learning-Session_2026-08-23.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g12 |
+| 4 | `philosophy-paper-i-indian-philosophy-04` | Nyāya–Vaiśeṣika | [`notes\Learner-v2-Refreshed\Philosophy\Compatibility-Pilot\learning-sessions\topic-04\g12\topic-04_Complete-Learning-Session_2026-08-23.pdf`](../../../../Learner-v2-Refreshed/Philosophy/Compatibility-Pilot/learning-sessions/topic-04/g12/topic-04_Complete-Learning-Session_2026-08-23.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g12 |
+| 5 | `philosophy-paper-i-indian-philosophy-05` | Sāṃkhya | [`notes\Learner-v2-Refreshed\Philosophy\Compatibility-Pilot\learning-sessions\topic-05\g12\topic-05_Complete-Learning-Session_2026-08-23.pdf`](../../../../Learner-v2-Refreshed/Philosophy/Compatibility-Pilot/learning-sessions/topic-05/g12/topic-05_Complete-Learning-Session_2026-08-23.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g12 |

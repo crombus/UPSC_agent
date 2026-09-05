@@ -1,0 +1,325 @@
+# Socialism, Fascism, Anarchism and Gandhism — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: Orientation: Four Rival Responses to Modern Political Order
+
+```ascii-master
+CENTRAL FOCUS
+Orientation: Four Rival Responses to Modern Political Order
+  [1] Socialism, anarchism and Gandhism each criticize capitalism/coercion while still
+      valuing liberty or equality in some form; fascism is the outlier that explicitly.
+        |
+        v
+  [2] Socialism broadens the anti-capitalist field beyond Marxism and asks how equality
+      can be secured through public control of production. (PDF pp.55-56)
+        |
+        v
+  [3] Fascism is essential for the exam candidate as the standard case of a modern
+      totalitarian ideology that rejected both liberal-democracy and Marxism, and as
+      Gauba.
+        |
+        v
+  [4] Anarchism forces the exam candidate to distinguish opposition to coercive state
+      authority from mere chaos or disorder. (PDF pp.73-78)
+        |
+        v
+SYNTHESIS -> Orientation: Four Rival Responses to Modern Political Order is best presented
+             through its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: Socialism: Definitions, Types and Democratic Reform
+
+```ascii-master
+CENTRAL FOCUS
+Socialism: Definitions, Types and Democratic Reform
+  [1] Socialism: ownership or control of the means of production by the community or
+      public authority in the interest of all. (PDF p.55)
+        |
+        v
+  [2] Evolutionary / democratic socialism: socialism pursued gradually, constitutionally
+      and democratically rather than through wholesale revolutionary rupture. (PDF.
+        |
+        v
+  [3] Fascism: the doctrine/movement founded by Benito Mussolini in Italy (1919), built
+      from an incoherent bundle of principles rather than a systematic philosophy.
+        |
+        v
+  [4] Leader principle: concentration of unconditional authority in a supreme
+      leader/dictator whose will is treated as law, with the individual holding no rights
+      against.
+        |
+        v
+SYNTHESIS -> Socialism: Definitions, Types and Democratic Reform is best presented through its
+             central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: Fascism: Doctrine, Leader Principle and Totalitarian State
+
+```ascii-master
+CENTRAL FOCUS
+Fascism: Doctrine, Leader Principle and Totalitarian State
+  [1] Socialism vs Marxism: socialism is a wider family; Gauba's own exposition includes
+      democratic, Fabian, revisionist and syndicalist variants beyond Marxian.
+        |
+        v
+  [2] Evolutionary vs revolutionary socialism: one seeks gradual democratic transition;
+      the other seeks revolutionary overthrow of capitalism. (PDF p.56)
+        |
+        v
+  [3] Fascism vs liberalism: fascism exalts the state as an end and reduces the individual
+      to a means, the reverse of the liberal individual-as-end premise. (PDF p.66)
+        |
+        v
+  [4] Fascism vs Marxism: fascism denies the economic conception of history and class
+      conflict, replacing it with the myth of an indivisible national interest, whereas.
+        |
+        v
+SYNTHESIS -> Fascism: Doctrine, Leader Principle and Totalitarian State is best presented
+             through its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: Fascism: Social Basis, Critiques and Gauba's Verdict
+
+```ascii-master
+CENTRAL FOCUS
+Fascism: Social Basis, Critiques and Gauba's Verdict
+  [1] Fabianism uses the already existing democratic state as an instrument of reform
+      instead of destroying it first. (PDF pp.57-58)
+        |
+        v
+  [2] Mussolini's dismantling of Italy's parliamentary parties into "the" party, and his
+      conversion of the premiership into "head of the government," illustrates the.
+        |
+        v
+  [3] Fascist states brought the press, radio, publishing and cinema under government
+      control and subordinated even the judiciary to fascist ideals, illustrating the.
+        |
+        v
+  [4] Proudhon's model imagines producers' associations linked by a federal principle and
+      supported by a mutual credit bank. (PDF p.75)
+        |
+        v
+SYNTHESIS -> Fascism: Social Basis, Critiques and Gauba's Verdict is best presented through
+             its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: Anarchism: Voluntary Order, Thinkers and Internal Strands
+
+```ascii-master
+CENTRAL FOCUS
+Anarchism: Voluntary Order, Thinkers and Internal Strands
+  [1] Define fascism as an incoherent, leader-led, single-party totalitarian doctrine that
+      rejects liberalism, Marxism and democracy through extreme nationalism.
+        |
+        v
+  [2] Use Mussolini and Hitler as the two chief historical instances, noting Nazism's
+      added racist doctrine. (PDF pp.64, 69)
+        |
+        v
+  [3] Close fascism with Gauba's appraisal: a political pathology and "sick mental
+      attitude," not a genuine theory, criticized by both liberals and Marxists. (PDF.
+        |
+        v
+  [4] Define anarchism as opposition to coercive state authority, not to all order. (PDF
+      pp.73-74)
+        |
+        v
+SYNTHESIS -> Anarchism: Voluntary Order, Thinkers and Internal Strands is best presented
+             through its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya
+
+```ascii-master
+CENTRAL FOCUS
+Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya
+  [1] Synthesis verdict: reading the four doctrines along these same four axes shows that
+      fascism alone answers "equality" with hierarchy and "liberty" with subordination.
+        |
+        v
+  [2] Premises: (a) capitalism generates class inequality and, in some readings, coercive
+      concentration of power — a diagnosis shared by socialism, anarchism and Gandhism.
+        |
+        v
+  [3] Mechanism: because premise (a) is read differently at the level of instrument (b),
+      each doctrine proposes a distinct transformative mechanism —.
+        |
+        v
+  [4] Conclusion: an answer that files all "anti-liberal" or "anti-capitalist" doctrines
+      together misses the topic's deepest fault line, which is not liberalism versus.
+        |
+        v
+SYNTHESIS -> Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya is best presented through
+             its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: Four-Doctrine Synthesis, Traps and Answer Architecture
+
+```ascii-master
+CENTRAL FOCUS
+Four-Doctrine Synthesis, Traps and Answer Architecture
+  [1] The Gandhi-Tolstoy influence link (§12.3) and the cross-chapter Sarvodaya citation
+      (§12.4, Gauba PDF pp.489-490, drawn from the common-good chapter rather than this.
+        |
+        v
+  [2] Fascism factual discipline is unchanged by this update: all fascism content remains
+      confined to §§2-9 above, sourced only from Gauba's own critical framing (PDF.
+        |
+        v
+  [3] Primary source used directly: O. P. Gauba, An Introduction to Political Theory,
+      Fifth Edition (2009), Ch.2, PDF pp.55-83, with a cross-chapter Sarvodaya anchor at.
+        |
+        v
+  [4] Key anchors: definition and routes of socialism (PDF pp.55-56); Fabians, Webb and
+      democratic socialism (PDF pp.57-63); fascism's origin, leader principle.
+        |
+        v
+SYNTHESIS -> Four-Doctrine Synthesis, Traps and Answer Architecture is best presented through
+             its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: Conservatism I: Burke, Oakeshott and the Four Pillars
+
+```ascii-master
+CENTRAL FOCUS
+Conservatism I: Burke, Oakeshott and the Four Pillars
+  [1] Genus/differentia line for a "Define" directive: conservatism belongs to the genus
+      of
+        |
+        v
+  [2] Inheritance: Burke reads a political order as an intergenerational trust rather than
+      a
+        |
+        v
+  [3] Prudential reform — the decisive point: prescription creates a presumption in favour
+      of
+        |
+        v
+  [4] Prejudice as latent wisdom (state carefully): Burke uses "prejudice" in its older
+      sense of
+        |
+        v
+SYNTHESIS -> Conservatism I: Burke, Oakeshott and the Four Pillars is best presented through
+             its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: Conservatism II: Strands, Critiques and Comparative Change
+
+```ascii-master
+CENTRAL FOCUS
+Conservatism II: Strands, Critiques and Comparative Change
+  [1] P1 (epistemic): the knowledge required to run a society is dispersed, largely tacit
+      and
+        |
+        v
+  [2] Mechanism: P1 and P2 together mean the designer systematically underestimates what
+      is being
+        |
+        v
+  [3] Conclusion: reform should be particular (one defect at a time), evidenced (against
+      the
+        |
+        v
+  [4] What this rules out: it rules out justifying an institution purely by its age (that
+      would
+        |
+        v
+SYNTHESIS -> Conservatism II: Strands, Critiques and Comparative Change is best presented
+             through its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers
+
+```ascii-master
+CENTRAL FOCUS
+Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers
+  [1] Unit C1 — Claim: a political order that cannot change cannot preserve itself, so
+      reform is
+        |
+        v
+  [2] Unit C2 — Claim: long usage and repeated adjustment are evidence of an institution's
+      tested
+        |
+        v
+  [3] Unit C3 — Claim: political knowledge is not exhausted by what can be written in a
+      manual →
+        |
+        v
+  [4] Unit C4 — Claim: social division is itself a threat to order, so amelioration is a
+        |
+        v
+SYNTHESIS -> Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers is best
+             presented through its central claim, causal logic, strongest limit and qualified
+             verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
+
+```ascii-master
+CENTRAL FOCUS
+MCQ Remediation and Trap Repair
+  [1] Socialism, anarchism and Gandhism each criticize capitalism/coercion while still
+      valuing liberty or equality in some form; fascism is the outlier that explicitly.
+        |
+        v
+  [2] Socialism broadens the anti-capitalist field beyond Marxism and asks how equality
+      can be secured through public control of production. (PDF pp.55-56)
+        |
+        v
+  [3] Fascism is essential for the exam candidate as the standard case of a modern
+      totalitarian ideology that rejected both liberal-democracy and Marxism, and as
+      Gauba.
+        |
+        v
+  [4] Anarchism forces the exam candidate to distinguish opposition to coercive state
+      authority from mere chaos or disorder. (PDF pp.73-78)
+        |
+        v
+SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,
+             causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
+
+```ascii-master
+CENTRAL FOCUS
+PYQ Ownership and Answer Practice
+  [1] Why I accept the critique (evidence P9). Property and the state can function
+        |
+        v
+  [2] Why I stop short (objection -> reply -> residual). Objection: without public
+        |
+        v
+  [3] The anarchist affinity. Gandhi's self-rule (swarāj) begins with rule over oneself;
+      political
+        |
+        v
+  [4] The strongest case for dispensing with authority (evidence P9). The state has
+        |
+        v
+SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,
+             causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```

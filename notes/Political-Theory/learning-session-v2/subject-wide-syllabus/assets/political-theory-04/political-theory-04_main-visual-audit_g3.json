@@ -1,0 +1,367 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-04_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-04_Learning-Session_2026-08-28.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 19,
+      "heading": "SESSION 1 - Marxism, Scientific Socialism and Core Vocabulary",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Classical Marxism as a critique of capitalism, a",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 653.691
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 538.024
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 42,
+      "heading": "1. One-screen conceptual map",
+      "preview": "capitalist exploitation",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 514.524
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 333.524
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 103,
+      "heading": "8. Comparison table",
+      "preview": "Dimension | Classical Marxism | Neo-Marxism",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Classical Marxism",
+          "Neo-Marxism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 658.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 472.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 193,
+      "heading": "16. Qualified answer thesis and directive-specific decoding",
+      "preview": "Directive | What it demands here | Trap to avoid",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Directive",
+          "What it demands here",
+          "Trap to avoid"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 573.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 342.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 959,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Ownership note:** These are verified Philosophy Optional Paper II questions. Their primary owner remains the Philosophy Political Ideologies corpus; they are reproduced here only where the Political Theory topic supplies the directly test",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 187.591
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 128.724
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 1000,
+      "heading": "Solved PYQ 2 - 2018 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it turns \"consistent?\" into the \"only if... otherwise self-defeats\" conditional (P3 + §2.8), brings M. N. Roy as the internal Indian reply, concedes the adverse record, and grades rather than answers yes/no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 499.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 440.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1041,
+      "heading": "Solved PYQ 4 - 2019 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it splits diagnosis (P2/P4, still explains) from prediction and remedy (falsified), uses the neo-Marxist relocation (P6/P8) as the survival mechanism, and grades without commenting on any actual regime.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 58.724
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1083,
+      "heading": "Solved PYQ 6 - 2020 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it isolates the philosophical core (P2/P3/P6/P7), concedes the necessary-not-sufficient limit and the authoritarian residual, and closes on the diagnosis/remedy split rather than a yes/no on \"relevance\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 362.524
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 303.656
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1127,
+      "markdown_body_line_end": 1129,
+      "heading": "Solved PYQ 10 - 2023 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it runs P2 as six numbered premises (not slogans), states the base/superstructure caution pre-emptively, extends via P6/P7, and grades with the necessary-not-sufficient verdict tuned to Indian social change.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 643.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 584.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1170,
+      "heading": "Solved PYQ 11 - 2024 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- as an EXPOSITION it leads with the definition and the four dimensions (P3), makes the \"broader than low wages\" distinction the centrepiece, adds only one controlled objection/reply, and keeps exposition domin",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 230.924
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 172.056
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1218,
+      "heading": "Solved PYQ 13 - 2025 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it evaluates on BOTH senses of ideology, banks the strengths (P2/P4/P6/P7), runs all four §2.9 objections to residuals with the P5 revision, adds the P8 relocation, and closes on the diagnosis/remedy split, n",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 471.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 412.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1338,
+      "markdown_body_line_end": 1343,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** From classical Marxism's economy-centred critique of capital",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 546.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 416.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1363,
+      "heading": "1. One-screen advanced map",
+      "preview": "capitalist contradiction",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 389.124
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 238.124
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1493,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 618.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 194.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    }
+  ]
+}

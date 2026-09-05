@@ -1,0 +1,29 @@
+topic=philosophy-paper-ii-philosophy-of-religion-09
+generated=2026-08-22T13:28:15.695230+05:30
+source=upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\paper-ii-philosophy-of-religion\philosophy-paper-ii-philosophy-of-religion-09_Learning-Session.md
+master_png=master.png
+master_dimensions_px=3600x2914
+master_dpi_metadata=200x200
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x1376.69
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=2
+same_master_split=yes
+tile_overlap_px=260
+preview_count=2
+contact_sheet_count=1
+closure_stage_count=3
+node_pattern=heading -> decisive context -> exact terms/details -> consequence/contrast
+core_before_extra=PASS
+poster_pdf_validation=PASS
+renderability=PASS
+tile_coordinates=
+  page-001: y=0..2200; overlap=0; from=1; continues=3
+  page-002: y=714..2914; overlap=260; from=1; continues=3
+errors=none
+
+post_render_box_clipping_check=PASS
+post_render_stage_overlap_check=PASS
+post_render_unsupported_glyph_check=PASS — no replacement glyph was found in the source-derived learning PDF
+post_render_same_master_identity_check=PASS

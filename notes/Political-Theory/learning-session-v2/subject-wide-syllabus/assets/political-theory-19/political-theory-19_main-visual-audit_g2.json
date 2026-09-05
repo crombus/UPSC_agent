@@ -1,0 +1,1486 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-19_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-19_Learning-Session_2026-08-28.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-19",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 28,
+      "heading": "SESSION 1 - Gauba's Allocative Frame, Rightness and Dynamic Justice",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Justice as allocation, legal/political/socio-eco",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 460.091
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 330.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 33,
+      "markdown_body_line_end": 54,
+      "heading": "1. One-screen conceptual map",
+      "preview": "GAUBA'S ALLOCATIVE FRAME = fair allocation of benefits + burdens",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 306.724
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 95.724
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 74,
+      "heading": "3. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 642.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 235.69
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 92,
+      "markdown_body_line_end": 96,
+      "heading": "5. Essential distinctions",
+      "preview": "Distinction | What to say precisely",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Distinction",
+          "What to say precisely"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 583.991
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 439.79
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 99,
+      "markdown_body_line_end": 104,
+      "heading": "5. Essential distinctions",
+      "preview": "Distinction | What to say precisely",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Distinction",
+          "What to say precisely"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 420.59
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 199.188
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 107,
+      "markdown_body_line_end": 116,
+      "heading": "6. Thinkers and positions",
+      "preview": "Thinker | Position in this chapter",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Thinker",
+          "Position in this chapter"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 177.188
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 594.29
+        }
+      },
+      "pdf_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 131,
+      "heading": "8. Comparison table",
+      "preview": "Dimension | What it focuses on | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "What it focuses on",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 362.89
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 196.288
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 134,
+      "markdown_body_line_end": 138,
+      "heading": "8. Comparison table",
+      "preview": "Value | Justice-related role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Value",
+          "Justice-related role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 177.088
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 55.287
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 285,
+      "heading": "19. Directive decoder and qualified-thesis templates",
+      "preview": "Directive word | What the examiner expects | How to open this topic's answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Directive word",
+          "What the examiner expects",
+          "How to open this topic's answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 517.991
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 297.79
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 305,
+      "heading": "21. Executable answer architecture (10/15/20-mark blueprints)",
+      "preview": "⚠️ Word/mark convention follows the standard PSIR-optional pattern (10 marks/~150 words, 15 marks/~200 words, 20 marks/~250 words); stated here as an analytical scaffold, not a book-sourced fact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 568.391
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 523.724
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 314,
+      "heading": "21. Executable answer architecture (10/15/20-mark blueprints)",
+      "preview": "⚠️ Local implementation of `Political-Theory/00_Master-Framework.md` §5D, tuned to this file's justice vocabulary. Justice stems are very often propositions (\"justice is giving each his due\"; \"justice delayed is justice denied\"; \"social jus",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 396.124
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 337.256
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 316,
+      "markdown_body_line_end": 322,
+      "heading": "21. Executable answer architecture (10/15/20-mark blueprints)",
+      "preview": "# | Move | What to do here",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "#",
+          "Move",
+          "What to do here"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 337.256
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1215,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owners are Social and Political Ideals, Crime and Punishment, Development and Social Progress, Gender Discrimination, Caste Discrimination:",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 206.391
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 133.324
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1217,
+      "markdown_body_line_end": 1217,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 133.324
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 102.856
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1249,
+      "heading": "Solved PYQ 1 - 2019 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the axis of continuity before judging, and separates a shared question from opposed answers instead of forcing a single verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 514.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 469.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1253,
+      "markdown_body_line_end": 1253,
+      "heading": "Solved PYQ 1 - 2019 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 466.924
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 436.456
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1285,
+      "markdown_body_line_end": 1287,
+      "heading": "Solved PYQ 2 - 2021 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes the historical/patterned distinction, uses Wilt Chamberlain as argument (not decoration), and lands the critique on acquisition/rectification.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 127.056
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 82.388
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1291,
+      "heading": "Solved PYQ 2 - 2021 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 79.888
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 49.42
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1324,
+      "markdown_body_line_end": 1326,
+      "heading": "Solved PYQ 3 - 2021 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it states the criterion of improvement first, uses niti/nyaya and capabilities as argument, concedes what Rawls still does better, and gives a criterion-relative verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 449.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 404.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1330,
+      "markdown_body_line_end": 1330,
+      "heading": "Solved PYQ 3 - 2021 Q2(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 402.124
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 371.656
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1363,
+      "heading": "Solved PYQ 4 - 2023 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it defines fairness through the fair choice situation, states the principles with their PRIORITY, and adds reflective equilibrium rather than listing slogans.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 514.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 469.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1367,
+      "heading": "Solved PYQ 4 - 2023 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 466.924
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 436.456
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1395,
+      "markdown_body_line_end": 1396,
+      "heading": "Solved PYQ 5 - 2024 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it gives the soul-city parallel, distinguishes harmony from distribution, and balances the standard criticism with its reply.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 155.456
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 110.788
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1400,
+      "markdown_body_line_end": 1400,
+      "heading": "Solved PYQ 5 - 2024 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 108.288
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 77.82
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1437,
+      "heading": "Solved PYQ 6 - 2025 Q4(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it proves inadequacy by showing each ideal is indeterminate about its own content, compares three ordering positions, anchors in Ambedkar, and ends with the architectonic verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 420.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 376.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1441,
+      "markdown_body_line_end": 1441,
+      "heading": "Solved PYQ 6 - 2025 Q4(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Crime and Punishment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 373.724
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 343.256
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1471,
+      "markdown_body_line_end": 1473,
+      "heading": "Solved PYQ 7 - 2019 Q4(c), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it routes \"social justice\" through the arbitrariness objection plus Duff's standing (C6), and separates philosophical validity from implementation rather than moralising.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 507.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 463.224
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1477,
+      "heading": "Solved PYQ 7 - 2019 Q4(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Crime and Punishment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 460.724
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 430.256
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1505,
+      "markdown_body_line_end": 1507,
+      "heading": "Solved PYQ 8 - 2020 Q3(c), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it turns the expected \"retribution vs rights\" clash on its head via limiting retributivism (desert as ceiling, C1/C2) and answers the cruelty and inequality objections directly.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 157.256
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 112.588
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1511,
+      "markdown_body_line_end": 1511,
+      "heading": "Solved PYQ 8 - 2020 Q3(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Crime and Punishment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 110.088
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 79.62
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1538,
+      "markdown_body_line_end": 1540,
+      "heading": "Solved PYQ 9 - 2021 Q2(b), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it gives a CONDITIONAL yes, states reform's dignity credentials AND the Foucault/indeterminacy dangers (C7), and resolves via the bounded mixed theory.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 536.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 491.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1544,
+      "markdown_body_line_end": 1544,
+      "heading": "Solved PYQ 9 - 2021 Q2(b), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Crime and Punishment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 489.124
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 458.656
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1584,
+      "markdown_body_line_end": 1586,
+      "heading": "Solved PYQ 10 - 2023 Q4(a), 20 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- a 20-marker that separates the three questions (C4), deploys ordinal/cardinal proportionality (C10) and the responsibility gradient, runs two objection chains, and lands a genuinely graded verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1590,
+      "markdown_body_line_end": 1590,
+      "heading": "Solved PYQ 10 - 2023 Q4(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Development and Social Progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 694.324
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 663.856
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1617,
+      "markdown_body_line_end": 1617,
+      "heading": "Solved PYQ 11 - 2022 Q3(a), 20 marks",
+      "preview": "**Why this earns marks:** it takes a clear stance, uses the ladder + capability map + recognition + democracy + ecology as *reasons*, answers the strongest counter (co-occurrence), and lands a qualified, defended verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 139.656
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 94.988
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1621,
+      "markdown_body_line_end": 1621,
+      "heading": "Solved PYQ 11 - 2022 Q3(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Gender Discrimination.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 92.488
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 62.02
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1651,
+      "markdown_body_line_end": 1651,
+      "heading": "PYQ 12 - 2025 · 1(b) (10 marks)",
+      "preview": "**Primary owner:** Philosophy Paper II - Caste Discrimination: Gandhi and Ambedkar.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 484.991
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 454.524
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1803,
+      "markdown_body_line_end": 1808,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Justice as rightness, social ordering and allocation across ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 689.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 573.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1813,
+      "markdown_body_line_end": 1842,
+      "heading": "1. One-screen advanced map",
+      "preview": "GAUBA'S ALLOCATIVE FRAME:",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 546.124
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 255.124
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1867,
+      "markdown_body_line_end": 1876,
+      "heading": "4. Definitions and distinctions",
+      "preview": "Concept | Advanced clarification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Advanced clarification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 312.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 723.89
+        }
+      },
+      "pdf_pages": [
+        46,
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1879,
+      "markdown_body_line_end": 1890,
+      "heading": "5. Thinker-by-thinker positions",
+      "preview": "Thinker | Position to retain",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Thinker",
+          "Position to retain"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 698.89
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 227.088
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1927,
+      "markdown_body_line_end": 1931,
+      "heading": "Dimensions of justice",
+      "preview": "Dimension | Core concern | Typical institutional implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "Core concern",
+          "Typical institutional implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 289.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 145.49
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1934,
+      "markdown_body_line_end": 1939,
+      "heading": "Procedural vs substantive/distributive justice",
+      "preview": "Issue | Procedural justice | Substantive / distributive justice",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Issue",
+          "Procedural justice",
+          "Substantive / distributive justice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 123.49
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 681.49
+        }
+      },
+      "pdf_pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1985,
+      "markdown_body_line_end": 2004,
+      "heading": "ASCII PANEL 1/12 - Gauba's Allocative Frame, Rightness and Dynamic Justice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 306.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 115.491
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2008,
+      "markdown_body_line_end": 2028,
+      "heading": "ASCII PANEL 2/12 - Traditional Justice, Social Justice and Barker's Ordering",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 93.491
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        50,
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2032,
+      "markdown_body_line_end": 2050,
+      "heading": "ASCII PANEL 3/12 - Law, Legality and the Institutional Dimensions of Justice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 584.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 403.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2054,
+      "markdown_body_line_end": 2072,
+      "heading": "ASCII PANEL 4/12 - Aristotle, Distribution and Corrective Justice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 381.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 200.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2076,
+      "markdown_body_line_end": 2095,
+      "heading": "ASCII PANEL 5/12 - Procedural Liberalism, Background Inequality and Macpherson",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 178.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        51,
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2099,
+      "markdown_body_line_end": 2116,
+      "heading": "ASCII PANEL 6/12 - Nozick, Merit, Need and Desert",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2120,
+      "markdown_body_line_end": 2139,
+      "heading": "ASCII PANEL 7/12 - Rawls, Sen and the Information of Justice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 210.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2143,
+      "markdown_body_line_end": 2162,
+      "heading": "ASCII PANEL 8/12 - Recognition, Representation and Indian Applications",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 188.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        52,
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2166,
+      "markdown_body_line_end": 2185,
+      "heading": "ASCII PANEL 9/12 - Objection-Reply Chains and Directive Control",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 403.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2189,
+      "markdown_body_line_end": 2208,
+      "heading": "ASCII PANEL 10/12 - Argument Architecture, Provenance and Final Recall",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 381.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 190.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2212,
+      "markdown_body_line_end": 2225,
+      "heading": "ASCII PANEL 11/12 - MCQ Remediation and Trap Repair",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 168.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        53,
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2229,
+      "markdown_body_line_end": 2240,
+      "heading": "ASCII PANEL 12/12 - PYQ Ownership and Answer Practice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 654.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2244,
+      "markdown_body_line_end": 2257,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 518.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 702.69
+        }
+      },
+      "pdf_pages": [
+        54,
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2309,
+      "markdown_body_line_end": 2326,
+      "heading": "MASTER ANSWER FLOW",
+      "preview": "DEFINE THE JUSTICE QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 294.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 123.891
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    }
+  ]
+}

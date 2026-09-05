@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-05_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-05_Learning-Session_2026-08-28.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 19,
+      "heading": "SESSION 1 - Orientation: Four Rival Responses to Modern Political Order",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Competing responses to capitalism, liberal-democ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 613.691
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 483.824
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 42,
+      "heading": "1. One-screen conceptual map",
+      "preview": "socialism -> social ownership/control for common welfare",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 460.324
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 279.324
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 251,
+      "heading": "14. Qualified answer thesis and directive-specific decoding",
+      "preview": "Directive | What it demands here | Trap to avoid",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Directive",
+          "What it demands here",
+          "Trap to avoid"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 619.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 387.69
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 321,
+      "heading": "22. Conservatism: the missing fifth doctrine in this ideology block (complete module)",
+      "preview": "⚠️ **Provenance and scope note (read first).** Gauba's Ch.2 range used for this file (PDF pp.55-83) covers socialism, fascism, anarchism and Gandhism; it does **not** contain a conservatism section, so **no claim in §22 carries a PDF pp.55-",
+      "metadata": {
+        "line_count": 15
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 669.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 440.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 345,
+      "heading": "22. Conservatism: the missing fifth doctrine in this ideology block (complete module)",
+      "preview": "CONSERVATISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 209.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1399,
+      "markdown_body_line_end": 1399,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Ownership note:** These are verified Philosophy Optional Paper II questions. Their primary owner remains the Philosophy Political Ideologies corpus; they are reproduced here only where the Political Theory topic supplies the directly test",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 592.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1439,
+      "markdown_body_line_end": 1441,
+      "heading": "Solved PYQ 1 - 2018 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers \"do you subscribe?\" with a graded yes/no (accept the critique via P9, reject the strong constructive claim via the hidden-authority residual) and closes on the asymmetric verdict, not a slogan.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 183.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 124.356
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1479,
+      "heading": "Solved PYQ 3 - 2019 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it grades the label (affinity via self-rule/swarāj/minimal state; divergence via P10 means-ends and non-violence) and lands the precise \"ideal vs method\" verdict instead of a flat yes or no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 527.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 483.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1516,
+      "markdown_body_line_end": 1518,
+      "heading": "Solved PYQ 5 - 2020 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it refuses the anarchy/anarchism conflation up front, reads the pandemic through P9 (mutual aid, bounded), and grades to \"shows the insight, not the conclusion\" rather than answering a careless yes.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 143.924
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 85.056
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1561,
+      "markdown_body_line_end": 1564,
+      "heading": "Solved PYQ 7 - 2021 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it expounds anarchism as an argument with named strands, presses the strongest case (P9), then answers \"completely?\" through the hidden-authority residual and Bakunin's double-edged warning, closing on the as",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 343.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1608,
+      "markdown_body_line_end": 1610,
+      "heading": "Solved PYQ 8 - 2021 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the trusteeship/self-rule (swarāj)/sarvodaya cluster, contrasts it with Marxian socialism, presses the voluntary-conversion objection to a residual (Ambedkar), and grounds relevance in means-ends + e",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 643.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 584.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1651,
+      "markdown_body_line_end": 1653,
+      "heading": "Solved PYQ 9 - 2023 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it \"critically examines\" by reconstructing the claim via P9, isolating the fatal word \"always/everywhere\", and rescuing the defensible philosophical-anarchist core with a graded criterion verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 188.324
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 143.656
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1693,
+      "markdown_body_line_end": 1696,
+      "heading": "Solved PYQ 12 - 2024 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it COMPARES on fixed axes (property/state/ distribution/method) via P11 and P12 rather than writing two summaries, flags the lower-phase/higher-phase vocabulary, and lands the \"all communists are socialists, ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 494.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 435.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1816,
+      "markdown_body_line_end": 1821,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Rival responses to capitalism, liberal-democracy and Marxism",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 475.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1826,
+      "markdown_body_line_end": 1849,
+      "heading": "1. One-screen advanced map",
+      "preview": "socialism",
+      "metadata": {
+        "language": "text",
+        "line_count": 22,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 318.124
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 87.124
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2013,
+      "markdown_body_line_end": 2026,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 230.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 519.49
+        }
+      },
+      "pdf_pages": [
+        46,
+        47
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+# Justice: Concepts and Dimensions — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: Gauba's Allocative Frame, Rightness and Dynamic Justice
+
+```ascii-master
+CENTRAL FOCUS
+Gauba's Allocative Frame, Rightness and Dynamic Justice
+  [1] Gauba frames justice through allocative contest under scarcity and openness.
+        |
+        v
+  [2] Rightness cannot be reduced to aggregate usefulness, though Mill complicates a
+      blanket anti-utilitarian claim.
+        |
+        v
+  [3] Dynamic social consciousness explains why accepted hierarchy can become recognised
+      injustice.
+        |
+        v
+  [4] The allocative frame is not an exhaustive definition of corrective or penal justice.
+        |
+        v
+VERDICT -> Gauba's scarcity-open society frame is allocative, not universal.
+ANSWER USE -> Define the frame and immediately state its boundary.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: Traditional Justice, Social Justice and Barker's Ordering
+
+```ascii-master
+CENTRAL FOCUS
+Traditional Justice, Social Justice and Barker's Ordering
+  [1] Traditional justice orders differentiated roles; modern social justice transforms
+      oppressive arrangements.
+        |
+        v
+  [2] Plato's functional harmony is hierarchical but should not be simplified into
+      completely closed hereditary caste.
+        |
+        v
+  [3] Barker orders liberty, equality and fraternity rather than listing them separately.
+        |
+        v
+  [4] Fraternity converts protection of weaker members from charity into a claim of common
+      life.
+        |
+        v
+VERDICT -> Justice orders liberty, equality and fraternity into one scheme.
+ANSWER USE -> Move from Plato's roles to modern structural transformation.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: Law, Legality and the Institutional Dimensions of Justice
+
+```ascii-master
+CENTRAL FOCUS
+Law, Legality and the Institutional Dimensions of Justice
+  [1] Ross asks whether existing law is impartially administered.
+        |
+        v
+  [2] Barker asks whether law itself possesses defensible moral value.
+        |
+        v
+  [3] Legal, political and socio-economic justice test different but connected
+      institutions.
+        |
+        v
+  [4] Validity, democratic voice and material access must remain analytically distinct.
+        |
+        v
+VERDICT -> Valid administration cannot settle the justice of legal content.
+ANSWER USE -> Compare Ross and Barker before adding political and material dimensions.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: Aristotle, Distribution and Corrective Justice
+
+```ascii-master
+CENTRAL FOCUS
+Aristotle, Distribution and Corrective Justice
+  [1] Aristotle separates geometric distributive proportion from arithmetic corrective
+      equality.
+        |
+        v
+  [2] Modern need-based allocation is not Aristotle's own coordinate criterion.
+        |
+        v
+  [3] Corrective justice is bilateral and transactional.
+        |
+        v
+  [4] Retributive and restorative justice remain separate penal-philosophy owners.
+        |
+        v
+VERDICT -> Distribution, bilateral correction and punishment ask different questions.
+ANSWER USE -> State Aristotle's standard and the penal-justice boundary.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: Procedural Liberalism, Background Inequality and Macpherson
+
+```ascii-master
+CENTRAL FOCUS
+Procedural Liberalism, Background Inequality and Macpherson
+  [1] Hayek, Friedman and Nozick are grouped by Gauba but defend different procedural
+      arguments.
+        |
+        v
+  [2] Macpherson shows how background inequality can hollow out formally voluntary
+      competition.
+        |
+        v
+  [3] Due process remains necessary even when procedure is substantively incomplete.
+        |
+        v
+  [4] A fair-looking rule is not sufficient proof of a fair social order.
+        |
+        v
+VERDICT -> Procedure is necessary but background power can defeat its purpose.
+ANSWER USE -> Distinguish Hayek, Friedman and Nozick before using Macpherson.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: Nozick, Merit, Need and Desert
+
+```ascii-master
+CENTRAL FOCUS
+Nozick, Merit, Need and Desert
+  [1] Nozick's theory is historical, entitlement-based and unpatterned.
+        |
+        v
+  [2] Acquisition is limited by a Lockean proviso; unjust history activates rectification.
+        |
+        v
+  [3] Merit, need and desert answer different distributive questions.
+        |
+        v
+  [4] Progressive taxation can finance a floor but does not itself reward merit.
+        |
+        v
+VERDICT -> Entitlement requires acquisition, transfer, proviso and rectification.
+ANSWER USE -> Separate merit, need and desert rather than calling all fairness.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: Rawls, Sen and the Information of Justice
+
+```ascii-master
+CENTRAL FOCUS
+Rawls, Sen and the Information of Justice
+  [1] Rawls states two lexically ordered principles, not three independent principles.
+        |
+        v
+  [2] Fair equality of opportunity precedes the difference principle within the second
+      principle.
+        |
+        v
+  [3] Sen separates capability as informational space from comparative,
+      realisation-focused method.
+        |
+        v
+  [4] Rawls, Nozick and Sen disagree over procedure, object and institutional requirement.
+        |
+        v
+VERDICT -> Rawls, Nozick and Sen evaluate different objects by different methods.
+ANSWER USE -> Preserve Rawls's priority rules and Sen's information-method distinction.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: Recognition, Representation and Indian Applications
+
+```ascii-master
+CENTRAL FOCUS
+Recognition, Representation and Indian Applications
+  [1] Fraser joins redistribution and recognition through parity of participation.
+        |
+        v
+  [2] Her mature framework adds representation without claiming ownership of every
+      recognition theory.
+        |
+        v
+  [3] Affirmative action is not ordinary need-based welfare.
+        |
+        v
+  [4] The 2026-27 National Overseas Scholarship illustrates group-sensitive opportunity,
+      not proof of one theory.
+        |
+        v
+VERDICT -> Distribution alone misses status and political representation.
+ANSWER USE -> Use the scholarship anchor only as an illustration of opportunity.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: Objection-Reply Chains and Directive Control
+
+```ascii-master
+CENTRAL FOCUS
+Objection-Reply Chains and Directive Control
+  [1] Objection-reply chains must test procedure, historical entitlement and substantive
+      life-chances.
+        |
+        v
+  [2] Directive words determine whether the answer distinguishes, evaluates or
+      reconstructs.
+        |
+        v
+  [3] Global and intergenerational bridges require specified duty-bearers.
+        |
+        v
+  [4] Current applications must remain illustrations rather than doctrinal proof.
+        |
+        v
+VERDICT -> Expanded justice needs named institutions and accountable duties.
+ANSWER USE -> Run one objection-reply chain before the global or future bridge.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: Argument Architecture, Provenance and Final Recall
+
+```ascii-master
+CENTRAL FOCUS
+Argument Architecture, Provenance and Final Recall
+  [1] A justice answer moves from standard to institution, distribution, objection and
+      graded verdict.
+        |
+        v
+  [2] Quotation discipline separates verified wording from paraphrased positions.
+        |
+        v
+  [3] Thirteen cross-applied PYQs retain five distinct Philosophy owners.
+        |
+        v
+  [4] Final recall: justice joins fair procedure, defensible purpose, status and effective
+      participation.
+        |
+        v
+VERDICT -> Justice joins rule, purpose, history, capability and participation.
+ANSWER USE -> End with a graded institutional judgment, not a slogan.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
+
+```ascii-master
+CENTRAL FOCUS
+MCQ Remediation and Trap Repair
+  [1] Close options turn on allocation, transaction, punishment and recognition
+      boundaries.
+        |
+        v
+  [2] Original position differs from veil of ignorance; capability differs from
+      functioning.
+        |
+        v
+VERDICT -> Close options fail when adjacent justice categories are collapsed.
+ANSWER USE -> Identify object, standard and remedy before selecting an answer.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
+
+```ascii-master
+CENTRAL FOCUS
+PYQ Ownership and Answer Practice
+  [1] The master flow ends with ownership, current-anchor caution and answer architecture.
+        |
+        v
+  [2] No Political Theory topic acquires proxy ownership of Philosophy PYQs.
+        |
+        v
+VERDICT -> Cross-application preserves five Philosophy ownership routes.
+ANSWER USE -> Keep PYQ provenance and current-anchor caution explicit.
+```

@@ -1,0 +1,1033 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-06_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-06_Solved-Workbook_2026-08-27.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 233,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Humanism-Secularism-Multiculturalism.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 363.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 262.424
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 265,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 16 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 504.591
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 459.924
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 284,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 16,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 459.924
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 66.022
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 299,
+      "heading": "9.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 537.39
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 315,
+      "heading": "9.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On multiculturalism-versus-feminism stems, the mark-bearing move is Fraser's **affirmative/transformative** distinction: what is owed is not endorsement of a group's existing self-description but transformation of the value patterns that",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 184.39
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 111.322
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 382,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §3A (added in this pass):** the recognition/redistribution module and the anthropocentrism-limit module are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wor",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 657.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 541.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 390,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 514.324
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 469.656
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1039,
+      "heading": "EXAM APPLICATION 1 - Humanism I: Dignity, Agency and the Human-Centred Argument",
+      "preview": "🔑 MEMORY: define -> distinguish from the nearest look-alike -> three-step argument -> one named anchor (H1) -> limit-specifying verdict. Never celebrate the value; specify what it cannot do.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 197.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 152.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1062,
+      "heading": "EXAM APPLICATION 2 - Humanism II: Genealogy and Forms (Renaissance, Enlightenment, Branches)",
+      "preview": "🔑 MEMORY: tenets (DRAF + forms) -> five paving steps -> \"decisive articulation, not the sole source\" qualification. The qualification is the mark-separator.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 586.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 541.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1084,
+      "markdown_body_line_end": 1086,
+      "heading": "EXAM APPLICATION 3 - Humanism III: Indian Humanism and Its Critics (Tagore, Gandhi, Vivekananda, Roy)",
+      "preview": "🔑 MEMORY: for any Indian-humanism stem, pick a NAMED ground (Tagore relation / Gandhi non-violence / Roy autonomy), then add the structural supplement (Ambedkar/Marx). The supplement is the evaluation.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 317.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 272.556
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1111,
+      "markdown_body_line_end": 1113,
+      "heading": "EXAM APPLICATION 4 - Secularism I: Secular, Secularisation, Secularism and the Core Argument",
+      "preview": "🔑 MEMORY: fix the meaning (adjective/process/doctrine) -> two freedoms (of AND from) -> two failure-modes (state capture / community immunity) -> equal citizenship is the end, separation only a means.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1138,
+      "heading": "EXAM APPLICATION 5 - Secularism II: Western Models and the Secularism-Pluralism Relation",
+      "preview": "🔑 MEMORY: name the model + device + strength + risk; for pluralism stems run the three decoupling cases; keep \"necessary\" (conceptual) apart from \"coexists\" (historical).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 534.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 489.556
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1164,
+      "markdown_body_line_end": 1166,
+      "heading": "EXAM APPLICATION 6 - Secularism III: Indian Secularism, Principled Distance and Its Critics",
+      "preview": "🔑 MEMORY: expound before you evaluate; hold 1976/1994 as illustration not proof; Gandhi (ethical religion) + Ambedkar (constitutional morality) + Bhargava (institutional distance) is the Indian secular-democracy triangle.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 250.956
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 192.088
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1191,
+      "heading": "EXAM APPLICATION 7 - Multiculturalism I: Recognition, Group-Differentiated Rights and Dialogue",
+      "preview": "🔑 MEMORY: define normatively (recognition + accommodation), then split descriptive (fact of diversity) from normative (justice of recognition); external protections = yes, internal restrictions = no is the criterion that earns the marks.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 733.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 674.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1213,
+      "markdown_body_line_end": 1215,
+      "heading": "EXAM APPLICATION 8 - Multiculturalism II: India, Globalisation, Feminism and the Objections",
+      "preview": "🔑 MEMORY: run each objection with its reply; for tolerance stems climb the ladder to recognition; \"who bears the cost?\" is the feminist test; caste hierarchy is domination, not diversity.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 478.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 433.956
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1242,
+      "markdown_body_line_end": 1244,
+      "heading": "EXAM APPLICATION 9 - Recognition and Redistribution: Fraser, Honneth and the Two Grammars of Justice",
+      "preview": "🔑 MEMORY: money vs esteem; Fraser (dual, parity of participation) vs Honneth (recognition foundational, three spheres); verdict = distinct-but-entangled; affirmative/transformative is the criterion for internal-restriction stems.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 144.956
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 86.088
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1268,
+      "markdown_body_line_end": 1270,
+      "heading": "EXAM APPLICATION 10 - Synthesis and Limits: The Anthropocentric Boundary, Debates, Criticisms and Traps",
+      "preview": "🔑 MEMORY: end humanism 20-markers on the ecological limit (state the residue); pick the §4 debate spine that matches the two names in the stem; name the REMAINING danger to turn a summary into a verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 571.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 527.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1290,
+      "markdown_body_line_end": 1293,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED EVIDENCE (H1-H13) / EXAMPLE -> OBJECTION / REPLY /",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 161.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 130.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1297,
+      "markdown_body_line_end": 1297,
+      "heading": "SOLVED PYQ BANK - EXACTLY 16 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 16 primary parts (2018:3, 2019:1, 2020:2, 2021:1, 2022:2, 2023:2, 2024:3, 2025:2). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 669.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1330,
+      "heading": "Solved PYQ 1 - 2018 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers \"do you subscribe?\" with a graded yes, pairs H6 (recognition) with H1/H7 (dignity as the internal-restriction limit), and closes on complementarity rather than praise.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 354.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 309.356
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1366,
+      "markdown_body_line_end": 1368,
+      "heading": "Solved PYQ 2 - 2018 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers all THREE sub-questions (definition, relation, effect on change), uses the four-point two-way relation, and lands the exact canonical phrase \"contested translation under unequal power\" with H8.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 671.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 612.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1403,
+      "heading": "Solved PYQ 3 - 2018 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the forms, MAKES a choice, defends it against the strongest objection (abstract universalism), and closes on the anthropocentric limit (H13) as a limit, exactly as the 20-mark humanism spine prescrib",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 260.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 201.956
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1439,
+      "markdown_body_line_end": 1441,
+      "heading": "Solved PYQ 4 - 2019 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it cleanly separates fact (descriptive) from justice (normative), supplies the ARGUMENT that bridges them, and adds the critical dimension plus the external/internal limit rather than a diversity catalogue.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 592.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 533.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1472,
+      "markdown_body_line_end": 1474,
+      "heading": "Solved PYQ 5 - 2020 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it treats \"complete separation\" as a model, not the definition, deploys H4 and H5, and closes on the means/end distinction with the principled-distance verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 210.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 165.556
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1510,
+      "heading": "Solved PYQ 6 - 2020 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it defines normatively, lists the STRUCTURAL features the stem asks for, ties each to recognition (H6/H7), and adds the internal-restriction caution instead of a bare list.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 561.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 516.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1543,
+      "markdown_body_line_end": 1545,
+      "heading": "Solved PYQ 7 - 2021 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it distinguishes ethical from meaning-conferring functions, uses the religious-objection ladder plus Gandhi/Vivekananda, and gives a graded (partial-substitute) verdict rather than a yes/no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 150.424
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 91.556
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1571,
+      "markdown_body_line_end": 1573,
+      "heading": "Solved PYQ 8 - 2022 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it gives three-plus of the five concrete paving steps and lands the \"decisive articulation, not sole source\" qualification, avoiding the chronological over-claim.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 572.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 527.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1608,
+      "markdown_body_line_end": 1610,
+      "heading": "Solved PYQ 9 - 2022 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- \"critically analyse\" is answered with two-sided critique (essentialism + internal restriction), each with a reply, plus the recognition/ redistribution upgrade (H9/H11) and the affirmative/transformative crit",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 125.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 66.356
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1644,
+      "markdown_body_line_end": 1646,
+      "heading": "Solved PYQ 10 - 2023 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it \"critically examines\" by pairing each India-referenced challenge with its canonical reply and adds the caste-hierarchy caution rather than listing problems.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 487.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 442.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1678,
+      "markdown_body_line_end": 1680,
+      "heading": "Solved PYQ 11 - 2023 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it endorses the statement via H4, then critically distinguishes equal respect from strict separation and blocks the \"acceptance = immunity\" misreading with H5.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 90.824
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 46.156
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1718,
+      "heading": "Solved PYQ 12 - 2024 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers BOTH parts (tenets + enlightenment) with the five paving steps, lands the \"decisive not sole source\" qualification, and closes on the anthropocentric limit (H13) at 20-mark depth.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 392.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1751,
+      "markdown_body_line_end": 1753,
+      "heading": "Solved PYQ 13 - 2024 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- \"present an exposition\" is honoured (five-step exposition first), then evaluated with the majoritarian objection and the Bhargava/Ambedkar supplements, not left as reverent summary.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1783,
+      "markdown_body_line_end": 1784,
+      "heading": "Solved PYQ 14 - 2024 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it walks the tolerance->coexistence->recognition ladder, shows tolerance is necessary-but-hierarchical, and gives recognition as the completing move.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 382.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 337.756
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1815,
+      "markdown_body_line_end": 1816,
+      "heading": "Solved PYQ 15 - 2025 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it separates plurality/pluralism/secularism, runs the three decoupling cases, and answers \"necessarily\" as a conceptual (not historical) question.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 711.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1850,
+      "markdown_body_line_end": 1852,
+      "heading": "Solved PYQ 16 - 2025 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it explains the mechanism (relation, not synthesis-slogan), uses the opposites table and H3, and evaluates with the structural (Ambedkar) objection and residual, matching the canonical Tagore spine.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 344.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 285.956
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1856,
+      "markdown_body_line_end": 1856,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 260.956
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 216.288
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1860,
+      "markdown_body_line_end": 1860,
+      "heading": "Original Mains 1",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 10 marks - answer in about 150 words - directive: Distinguish / Give reasons",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 194.288
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 149.62
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1874,
+      "markdown_body_line_end": 1874,
+      "heading": "Original Mains 1",
+      "preview": "MEMORY: process vs doctrine; declining belief is neither necessary nor sufficient for a secularist state (H4).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 660.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 630.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1878,
+      "markdown_body_line_end": 1878,
+      "heading": "Original Mains 2",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 15 marks - answer in about 250 words - directive: Critically examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 608.024
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 563.356
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1894,
+      "markdown_body_line_end": 1894,
+      "heading": "Original Mains 2",
+      "preview": "MEMORY: direction of the right (outward/inward); H7 test, H11 depth for hard cases, H8 dialogue for interpretation; criterion not mechanical rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 256.556
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 211.888
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1898,
+      "markdown_body_line_end": 1898,
+      "heading": "Original Mains 3",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 20 marks - answer in about 300 words - directive: Critically examine and identify conflict",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 189.888
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 145.22
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1914,
+      "markdown_body_line_end": 1914,
+      "heading": "Original Mains 3",
+      "preview": "MEMORY: dignity->terms->recognition; three conflict points (universal/particular, recognition/internal, recognition/redistribution); managed by H7/H11 + public reason, limited by H13.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 527.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 483.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    }
+  ]
+}

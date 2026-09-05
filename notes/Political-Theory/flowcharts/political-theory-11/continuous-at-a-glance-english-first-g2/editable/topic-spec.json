@@ -1,0 +1,1164 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-11",
+  "subject": "Philosophy",
+  "title": "SOVEREIGNTY AND PLURALISM",
+  "short_route": "CONCEPT MAP AND DEFINITIONS → CLASSICAL CHARACTERISTICS AND CORE → BODIN, GROTIUS AND HOBBES → LOCKE, ROUSSEAU, BENTHAM AND → PLURALIST CRITIQUE, KAUTILYA, TRAPS → THESES AND DIRECTIVE DECODING",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-11_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-11-ascii-2026-08-28-g2.json",
+  "ascii_spec_sha256": "500954d2a68eb800bb1ada5d643cc88a21a3427f7e4e7586a4eb7019295e1fde",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONCEPT MAP AND DEFINITIONS",
+      "structural_type": "root-axes",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONCEPT MAP AND DEFINITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GAUBA SHOWS THAT TROUBLE BEGINS WHEN A LEGAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] SOVEREIGNTY IS TREATED AS AN ESSENTIAL ATTRIBUTE OF",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] UPSC REPEATEDLY TESTS THIS TOPIC INDIRECTLY THROUGH QUESTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] A GOOD ANSWER HERE PREVENTS TWO COMMON MISTAKES",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCING SOVEREIGNTY TO MERE COERCION, AND MISTAKING ANY INCUMBENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCEPT MAP AND DEFINITIONS IS BEST PRESENTED THROUGH ITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Concept Map and Definitions",
+        "[1] Gauba shows that trouble begins when a legal concept is stretched into moral, social",
+        "that is precisely where pluralists intervene (PDF pp.179",
+        "[2] Sovereignty is treated as an essential attribute of the modern state because it explains"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Concept Map and Definitions",
+            "[1] Gauba shows that trouble begins when a legal concept is stretched into moral, social and political omnipotence",
+            "that is precisely where pluralists intervene (PDF pp.179,"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Sovereignty is treated as an essential attribute of the modern state because it explains why the state's",
+            "laws and decisions are binding within a territory and why the state claims independence externally (PDF pp.179-180).",
+            "[3] UPSC repeatedly tests this topic indirectly through questions on state, democracy, federalism, legitimacy, globalisation and civil society.",
+            "[4] A good answer here prevents two common mistakes: reducing sovereignty to"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "mere coercion, and mistaking any incumbent government for the sovereign people.",
+            "SYNTHESIS → Concept Map and Definitions is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Concept Map and Definitions is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CLASSICAL CHARACTERISTICS AND CORE DISTINCTIONS",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CLASSICAL CHARACTERISTICS AND CORE DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE FIVE CLASSICAL CHARACTERISTICS OF SOVEREIGNTY",
+          "role": "comparison"
+        },
+        {
+          "text": "THESE FIVE ATTRIBUTES SHOULD BE READ AS THE CLASSICAL/AUSTINIAN",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MONISTIC SOVEREIGNTY",
+          "role": "primary"
+        },
+        {
+          "text": "THE CLASSICAL VIEW FROM BODIN TO AUSTIN THAT SOVEREIGNTY",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] HE THEN RECONSTRUCTS THE CLASSICAL THEORY THROUGH BODIN",
+          "role": "comparison"
+        },
+        {
+          "text": "BENTHAM AND AUSTIN, SHOWING HOW LEGAL SOVEREIGNTY BECAME ASSOCIATED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Classical Characteristics and Core Distinctions",
+        "[1] The five classical characteristics of sovereignty: These five attributes should be read as the",
+        "the fuller five-part list is Gauba's consolidated exposition of the same monist tradition.",
+        "[2] Monistic sovereignty: the classical view from Bodin to Austin that sovereignty is"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Classical Characteristics and Core Distinctions",
+            "[1] The five classical characteristics of sovereignty: These five attributes should be read as the classical/Austinian doctrine taken",
+            "the fuller five-part list is Gauba's consolidated exposition of the same monist tradition.",
+            "[2] Monistic sovereignty: the classical view from Bodin to Austin that sovereignty is"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "one, supreme, indivisible and located in a definite person or body (PDF pp.194-195).",
+            "[3] He then reconstructs the classical theory through Bodin, Hobbes, Locke, Rousseau,",
+            "Bentham and Austin, showing how legal sovereignty became associated with absoluteness, permanence, universality, inalienability and indivisibility (PDF pp.181-188).",
+            "[4] Sovereignty: supreme legal authority of the state",
+            "the power to issue binding laws, commands and decisions within jurisdiction, and to remain independent from external control (PDF pp.179-180)."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Classical Characteristics and Core Distinctions is best presented through",
+            "its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Classical Characteristics and Core Distinctions is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BODIN, GROTIUS AND HOBBES",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BODIN, GROTIUS AND HOBBES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GROTIUS (DUTCH JURIST, \"FATHER OF INTERNATIONAL LAW\")",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT HALF A CENTURY AFTER",
+          "role": "evidence"
+        },
+        {
+          "text": "BODIN, GROTIUS EXTENDED SOVEREIGNTY INTO THE EXTERNAL/INTERNATIONAL SPHERE —",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONS ARE SUBJECT TO NATURAL LAW/\"THE DICTATE OF RIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] BODIN",
+          "role": "comparison"
+        },
+        {
+          "text": "SOVEREIGNTY IS ABSOLUTE AND PERPETUAL; THE SOVEREIGN IS SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Bodin, Grotius and Hobbes",
+        "[1] Grotius (Dutch jurist, \"father of international law\"): about half a century after",
+        "Bodin, Grotius extended sovereignty into the external/international sphere — independence of the sovereign state from",
+        "He grounded this on two foundations: nations are subject to natural law/\"the dictate of right"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Bodin, Grotius and Hobbes",
+            "[1] Grotius (Dutch jurist, \"father of international law\"): about half a century after",
+            "Bodin, Grotius extended sovereignty into the external/international sphere — independence of the sovereign state from foreign control.",
+            "He grounded this on two foundations: nations are subject to natural law/\"the dictate of right reason\" just as citizens are"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Grotius thus attributed moral responsibility to sovereignty like Bodin, but extended that responsibility outward, giving internal sovereignty its",
+            "[2] Bodin: sovereignty is absolute and perpetual",
+            "the sovereign is source of law, though not freed from duty or moral responsibility altogether (PDF p.181).",
+            "[3] Hobbes: people create a sovereign for order, peace and security",
+            "once created, sovereign authority is near-irrevocable because challenge risks a return to anarchy"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] De jure vs de facto sovereignty: de jure refers to legal title",
+            "de facto refers to actual effective control, especially in revolutionary situations (PDF pp.187-188).",
+            "SYNTHESIS → Bodin, Grotius and Hobbes is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Bodin, Grotius and Hobbes is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LOCKE, ROUSSEAU, BENTHAM AND AUSTIN",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LOCKE, ROUSSEAU, BENTHAM AND AUSTIN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] HE THEN RECONSTRUCTS THE CLASSICAL THEORY THROUGH BODIN",
+          "role": "comparison"
+        },
+        {
+          "text": "BENTHAM AND AUSTIN, SHOWING HOW LEGAL SOVEREIGNTY BECAME ASSOCIATED",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] BRING IN THINKERS IN SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ROUSSEAU →",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] A CLASSROOM SHORTCUT IS USEFUL",
+          "role": "comparison"
+        },
+        {
+          "text": "WHEN A QUESTION ASKS \"WHO IS LEGALLY FINAL?\" THINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Locke, Rousseau, Bentham and Austin",
+        "[1] He then reconstructs the classical theory through Bodin, Hobbes, Locke, Rousseau",
+        "Bentham and Austin, showing how legal sovereignty became associated with absoluteness, permanence, universality, inalienability and",
+        "[2] Bring in thinkers in sequence: Bodin → Grotius → Hobbes → Locke → Rousseau"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Bring in thinkers in sequence: Bodin → Grotius → Hobbes → Locke → Rousseau →",
+          "[4] Locke: people retain fundamental natural rights and remain supreme; ruler or government cannot be sovereign in the Hobbesian sense (PDF p.182)."
+        ],
+        [
+          "Locke, Rousseau, Bentham and Austin",
+          "Bentham → Austin.",
+          "SYNTHESIS → Locke, Rousseau, Bentham and Austin is best presented through its central claim, causal logic, strongest limit and qualified verdict."
+        ],
+        [
+          "[1] He then reconstructs the classical theory through Bodin, Hobbes, Locke, Rousseau,",
+          "[3] A classroom shortcut is useful: when a question asks \"who is legally final?\" think",
+          "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+        ],
+        [
+          "Bentham and Austin, showing how legal sovereignty became associated with absoluteness, permanence, universality, inalienability and indivisibility (PDF pp.181-188).",
+          "Austin; when it asks \"who is really obeyed?\" think political sovereignty; when it asks \"who is the source of legitimacy?\" think popular sovereignty.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Locke, Rousseau, Bentham and Austin",
+            "[1] He then reconstructs the classical theory through Bodin, Hobbes, Locke, Rousseau,",
+            "Bentham and Austin, showing how legal sovereignty became associated with absoluteness, permanence, universality, inalienability and indivisibility (PDF pp.181-188)."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Bring in thinkers in sequence: Bodin → Grotius → Hobbes → Locke → Rousseau →",
+            "Bentham → Austin.",
+            "[3] A classroom shortcut is useful: when a question asks \"who is legally final?\" think",
+            "Austin; when it asks \"who is really obeyed?\" think political sovereignty; when it asks \"who is the source of legitimacy?\" think popular sovereignty."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "[4] Locke: people retain fundamental natural rights and remain supreme; ruler or government cannot be sovereign in the Hobbesian sense (PDF p.182).",
+            "SYNTHESIS → Locke, Rousseau, Bentham and Austin is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Locke, Rousseau, Bentham and Austin is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PLURALIST CRITIQUE, KAUTILYA, TRAPS AND SOURCES",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PLURALIST CRITIQUE, KAUTILYA, TRAPS AND SOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] KEY PAGE CLUSTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCEPT AND THINKERS (PDF PP.179-185, INCL. GROTIUS PP.181-182)",
+          "role": "evidence"
+        },
+        {
+          "text": "CHARACTERISTICS AND ASPECTS (PDF PP.185-188); POPULAR SOVEREIGNTY (PDF PP.189-193)",
+          "role": "primary"
+        },
+        {
+          "text": "PLURALIST CRITIQUE, LASKI (PDF PP.201-203) AND MACIVER (PDF PP.204-206).",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] PYQ TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "IDENTIFY THE THINKER'S DISTINCTIVE PROBLEM FIRST—LEGAL FINALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Pluralist Critique, Kautilya, Traps and Sources",
+        "[1] Key page clusters: concept and thinkers (PDF pp.179-185, incl. Grotius pp.181-182)",
+        "characteristics and aspects (PDF pp.185-188); popular sovereignty (PDF pp.189-193)",
+        "pluralist critique, Laski (PDF pp.201-203) and MacIver (PDF pp.204-206)."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Pluralist Critique, Kautilya, Traps and Sources",
+            "[1] Key page clusters: concept and thinkers (PDF pp.179-185, incl. Grotius pp.181-182)",
+            "characteristics and aspects (PDF pp.185-188); popular sovereignty (PDF pp.189-193)",
+            "pluralist critique, Laski (PDF pp.201-203) and MacIver (PDF pp.204-206)."
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "[2] PYQ trap: identify the thinker's distinctive problem first—legal finality",
+            "(Bodin/Austin), plural allegiance (Laski), or preservation of a seven-limbed state under changing internal and external conditions (Kautilya).",
+            "[3] Then introduce pluralism: Laski (three-front critique) and MacIver (supremacy of law,",
+            "associational analogy) reject state-omnipotence because society contains multiple associations with real loyalties.",
+            "[4] Primary source used: Gauba, Ch.7 \"Concept of Sovereignty\" and Ch.8 \"Pluralist Theory of Sovereignty\" (PDF pp.179-208)."
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "SYNTHESIS → Pluralist Critique, Kautilya, Traps and Sources is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Pluralist Critique, Kautilya, Traps and Sources is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THESES AND DIRECTIVE DECODING",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THESES AND DIRECTIVE DECODING",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SOVEREIGNTY QUESTION",
+          "role": "comparison"
+        },
+        {
+          "text": "\"SOVEREIGNTY IS BEST UNDERSTOOD AS A LEGAL CONCEPT OF",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PLURALISM QUESTION",
+          "role": "primary"
+        },
+        {
+          "text": "\"PLURALISM DOES NOT DENY THE STATE'S COERCIVE SUPREMACY; IT",
+          "role": "caution"
+        },
+        {
+          "text": "THESES AND DIRECTIVE DECODING IS BEST PRESENTED THROUGH ITS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Theses and Directive Decoding",
+        "[1] Sovereignty question: \"Sovereignty is best understood as a legal concept of final authority",
+        "the classical monist account (Bodin–Austin) supplies its clearest form, but pluralists such as Laski and",
+        "[2] Pluralism question: \"Pluralism does not deny the state's coercive supremacy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Theses and Directive Decoding",
+            "[1] Sovereignty question: \"Sovereignty is best understood as a legal concept of final authority"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "the classical monist account (Bodin–Austin) supplies its clearest form, but pluralists such as Laski and MacIver show that",
+            "[2] Pluralism question: \"Pluralism does not deny the state's coercive supremacy",
+            "it denies that legal supremacy is the same as moral omnipotence, and relocates authority in a coordinated federation of associations.\""
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Theses and Directive Decoding is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Theses and Directive Decoding is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MONIST ARGUMENT AND PLURALIST REPLY",
+      "structural_type": "institution-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MONIST ARGUMENT AND PLURALIST REPLY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PLURALIST REPLY (MACIVER)",
+          "role": "comparison"
+        },
+        {
+          "text": "THE STATE'S AUTHORITY IS NOT CATEGORICALLY DIFFERENT FROM OTHER",
+          "role": "caution"
+        },
+        {
+          "text": "[2] MONIST ARGUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "P1 — A STATE'S LAWS MUST HAVE ONE FINAL",
+          "role": "institution"
+        },
+        {
+          "text": "[3] PLURALIST REPLY (LASKI, THREE FRONTS)",
+          "role": "comparison"
+        },
+        {
+          "text": "(I) HISTORICALLY, CUSTOM LIMITS SOVEREIGN POWER IN PRACTICE EVEN",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Monist Argument and Pluralist Reply",
+        "[1] Pluralist reply (MacIver): the state's authority is not categorically different from other associations' authority",
+        "law (not sovereignty) is the true mark of the state, and the state only recognises",
+        "[2] Monist argument: P1 — A state's laws must have one final, determinate source or"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Monist Argument and Pluralist Reply",
+            "[1] Pluralist reply (MacIver): the state's authority is not categorically different from other associations' authority",
+            "law (not sovereignty) is the true mark of the state, and the state only recognises, not creates, law",
+            "[2] Monist argument: P1 — A state's laws must have one final, determinate source or law becomes contradictory and unenforceable."
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "P2 — Only a legally supreme, indivisible sovereign can be that final source.",
+            "C — Therefore sovereignty must be absolute, perpetual, universal, inalienable and indivisible (Bodin/Austin, PDF pp.184-187).",
+            "[3] Pluralist reply (Laski, three fronts): (i) historically, custom limits sovereign power in practice even without legal sanction",
+            "(ii) internationally, interdependence makes \"absolute\" external sovereignty descriptively false",
+            "(iii) organisationally, federal states cannot even locate a single Austinian sovereign — so premise P2 is empirically unsound (PDF pp.201-203)."
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "[4] Objection to the pluralist reply: if authority is merely coordinative and federal,",
+            "who arbitrates when associations conflict, and what stops \"federal authority\" from producing stalemate?",
+            "SYNTHESIS → Monist Argument and Pluralist Reply is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Monist Argument and Pluralist Reply is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NAMED EVIDENCE UNITS",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "NAMED EVIDENCE UNITS",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] BODIN'S DEFINITION (\"ABSOLUTE AND PERPETUAL POWER OF COMMANDING",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] GROTIUS'S EXTENSION OF SOVEREIGNTY TO THE EXTERNAL/CONSENSUAL SPHERE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] AUSTIN'S DETERMINATE-SUPERIOR TEST AND HIS EXPRESS ADMISSION THAT",
+          "role": "primary"
+        },
+        {
+          "text": "[4] LASKI'S FEDERAL-STATE EXAMPLE (THE UNITED STATES) — ANCHORS",
+          "role": "institution"
+        },
+        {
+          "text": "NAMED EVIDENCE UNITS IS BEST PRESENTED THROUGH ITS CENTRAL",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Named Evidence Units",
+        "[1] Bodin's definition (\"absolute and perpetual power of commanding in a state\") — anchors monism.",
+        "[2] Grotius's extension of sovereignty to the external/consensual sphere of international law — anchors internal/external",
+        "[3] Austin's determinate-superior test and his express admission that morality still constrains"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Named Evidence Units",
+            "[1] Bodin's definition (\"absolute and perpetual power... of commanding in a state\") — anchors monism."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Grotius's extension of sovereignty to the external/consensual sphere of international law — anchors internal/external distinction.",
+            "[3] Austin's determinate-superior test and his express admission that morality still constrains",
+            "the sovereign in practice — anchors the \"legal, not moral, omnipotence\" caution."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Laski's federal-state example (the United States) — anchors the organisational difficulty of locating a single sovereign.",
+            "SYNTHESIS → Named Evidence Units is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Named Evidence Units is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WORKED ANALYSIS AND MARK-SCALED ARCHITECTURE",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WORKED ANALYSIS AND MARK-SCALED ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "AUSTIN'S OWN CONCESSION THAT THE SOVEREIGN, WHILE LEGALLY UNBOUND",
+          "role": "evidence"
+        },
+        {
+          "text": "\"HABITUALLY OBSERVES FUNDAMENTAL MORAL PRINCIPLES\" (PDF P.184).",
+          "role": "primary"
+        },
+        {
+          "text": "[2] SIGNIFICANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHOWS EVEN THE STRONGEST MONIST ACCOUNT SEPARATES LEGAL VALIDITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Worked Analysis and Mark-Scaled Architecture",
+        "[1] Evidence: Austin's own concession that the sovereign, while legally unbound",
+        "\"habitually observes fundamental moral principles\" (PDF p.184).",
+        "[2] Significance: shows even the strongest monist account separates legal validity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Worked Analysis and Mark-Scaled Architecture",
+            "[1] Evidence: Austin's own concession that the sovereign, while legally unbound,",
+            "\"habitually observes fundamental moral principles\" (PDF p.184).",
+            "[2] Significance: shows even the strongest monist account separates legal validity"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "from moral desert — a distinction later exploited fully by pluralists.",
+            "[3] Limit: Austin's concession is descriptive, not a legal guarantee",
+            "nothing in his theory legally compels a sovereign to remain moral, which is precisely pluralism's opening.",
+            "[4] 10-marker (≈150 words): thesis (1-2 lines) → Bodin/Austin's monist definition with 1",
+            "named attribute-set → Laski/MacIver's core objection (pick one front) → one-line balanced verdict."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Worked Analysis and Mark-Scaled Architecture is best presented through",
+            "its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Worked Analysis and Mark-Scaled Architecture is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CAUTIOUS INDIAN APPLICATION",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAUTIOUS INDIAN APPLICATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] IF A QUESTION INVITES A KAUTILYA-BASED INDIAN CIVILISATIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CAUTIOUS INDIAN APPLICATION IS BEST PRESENTED THROUGH ITS CENTRAL",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE PRECISELY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLAIN THE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "TEST THE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Cautious Indian Application",
+        "[1] If a question invites a Kautilya-based Indian civilisational comparator, use the verified",
+        "saptānga material only, and explicitly flag the friend/enemy maxim as unverified if the",
+        "question script uses it — do not silently reproduce it as settled doctrine."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Cautious Indian Application",
+            "[1] If a question invites a Kautilya-based Indian civilisational comparator, use the verified"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "saptānga material only, and explicitly flag the friend/enemy maxim as unverified if the",
+            "question script uses it — do not silently reproduce it as settled doctrine.",
+            "SYNTHESIS → Cautious Indian Application is best presented through its central claim, causal logic, strongest limit and qualified verdict."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Cautious Indian Application is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PYQ TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "IDENTIFY THE THINKER'S DISTINCTIVE PROBLEM FIRST—LEGAL FINALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "(BODIN/AUSTIN), PLURAL ALLEGIANCE (LASKI), OR PRESERVATION OF A SEVEN-LIMBED",
+          "role": "primary"
+        },
+        {
+          "text": "[2] SOVEREIGNTY",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPREME LEGAL AUTHORITY OF THE STATE; THE POWER TO",
+          "role": "institution"
+        },
+        {
+          "text": "[3] LEGAL SOVEREIGNTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] PYQ trap: identify the thinker's distinctive problem first—legal finality",
+        "(Bodin/Austin), plural allegiance (Laski), or preservation of a seven-limbed state under changing internal and external",
+        "[2] Sovereignty: supreme legal authority of the state"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] PYQ trap: identify the thinker's distinctive problem first—legal finality",
+            "(Bodin/Austin), plural allegiance (Laski), or preservation of a seven-limbed state under changing internal and external conditions (Kautilya).",
+            "[2] Sovereignty: supreme legal authority of the state"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "the power to issue binding laws, commands and decisions within jurisdiction, and to remain independent from external control (PDF pp.179-180).",
+            "[3] Legal sovereignty: the definite, legally recognized authority whose commands",
+            "count as law and whose disobedience attracts sanction (PDF pp.183-190).",
+            "[4] Political sovereignty: the power behind the legal sovereign to which the legal sovereign must ultimately respond",
+            "Gauba introduces it through Dicey's distinction"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "(PDF p.189).",
+            "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE CAUTION. THE FORM IS MONARCHICAL AND THE",
+          "role": "caution"
+        },
+        {
+          "text": "[2] ATTRIBUTION DISCIPLINE. STATE THE CAUTION BEFORE INTERPRETATION",
+          "role": "caution"
+        },
+        {
+          "text": "THE WORDING IS UNSAFE AS A SETTLED KAUTILYA QUOTATION.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ABSOLUTE. TO END FACTION THE SOVEREIGN MUST HAVE",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PERPETUAL. SOVEREIGNTY ATTACHES TO THE OFFICE, NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE IS BEST PRESENTED THROUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] The caution.",
+        "The form is monarchical and the methods sometimes ruthless",
+        "relevance lies in the underlying principles of statecraft, not in reproducing ancient kingship or espionage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] The caution.",
+            "The form is monarchical and the methods sometimes ruthless",
+            "relevance lies in the underlying principles of statecraft, not in reproducing ancient kingship or espionage practice."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Attribution discipline.",
+            "State the caution before interpretation: the wording is unsafe as a settled Kautilya quotation.",
+            "This prevents a question's framing from becoming fabricated textual ownership.",
+            "[3] Absolute.",
+            "To end faction the sovereign must have no human superior within the commonwealth and be able to make"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Perpetual.",
+            "Sovereignty attaches to the office, not a temporary magistrate, so authority persists across rulers and cannot be reclaimed by those who conferred it.",
+            "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+============================================================================================================
+VALIDATION REPORT — POLITY 03 · SALIENT FEATURES OF THE INDIAN CONSTITUTION
+CONTINUOUS AT-A-GLANCE MASTER FLOW — GENERATION g9 (Carvaka-standard, first for this topic)
+generated 2026-08-23T06:59:07
+============================================================================================================
+
+1. IMMUTABLE APPROVED REFERENCE — Philosophy Paper-I Indian Philosophy 01 / Carvaka
+  [PASS] Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf — sha256 F291DDE859557D822B919020…
+  [PASS] Carvaka_Continuous-At-a-Glance-Core-First_Master.png — sha256 C9AE34E995375348A6998885…
+  [PASS] Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf — sha256 EB3E452797F15BAC2599431E…
+  [PASS] every file in the reference folder unchanged — 15 files re-hashed
+  [PASS] immutable reference untouched across the build
+  NOTE: the reference folder was opened read-only; no write occurred at any point.
+
+2. PRESERVATION — EVERY PRE-EXISTING POLITY 03 ARTEFACT
+  [PASS] sibling hashes identical before and after the g9 build — 136 files
+  [PASS] still byte-identical at validation time — 136 files re-hashed
+  [PASS] prior generations preserved in place — continuous-at-a-glance-core-first-g3, continuous-at-a-glance-core-first-g4, continuous-at-a-glance-core-first-g5, continuous-at-a-glance-core-first-g6, continuous-at-a-glance-core-first-g7, continuous-at-a-glance-core-first-g8
+  [PASS] legacy root master set preserved — 9 root files
+
+3. MASTER CANVAS
+  [PASS] master width is 4800 px — 4800
+  [PASS] master dpi metadata is 300 — (299.9994, 299.9994)
+  [PASS] height matches the design spec — 38332 px  (127.8 in tall)
+  [PASS] no text overflow or measure/draw height mismatch recorded during rendering — 0 events
+
+4. STAGE COMPLETENESS — REQUIRED SPINE 0..21 PLUS SUBORDINATE ENRICHMENT
+  [PASS] all twenty-three stages present in order — 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 EXTRA
+  [PASS] each stage carries its required subject — 22-stage core + enrichment
+  [PASS] enrichment is last and visually subordinate; the core is complete before it
+  [PASS] constitutional supremacy is rendered as the keystone pivot (yellow node)
+
+5. LAYOUT DIVERSITY — NO REPEATED GENERIC CARDS
+  [PASS] no two stages share an identical block signature — 23 distinct signatures / 23 stages
+  [PASS] rich block vocabulary actually used — answer, balance, band, bus, chain, cols2, cols3, constel, fan, ladder, loop, matrix, overlap, panels2, pyramid, quadrant, replace, spectrum, srcmap, switch, tension, timeline, triad, triangle, vs3, web, wheel
+      stage     0 : wheel|matrix|cols2|band|answer
+      stage     1 : ladder|matrix|band|answer
+      stage     2 : fan|matrix|cols2|answer
+      stage     3 : srcmap|cols3|matrix|band|answer
+      stage     4 : spectrum|cols2|band|answer
+      stage     5 : quadrant|matrix|cols2|band|answer
+      stage     6 : loop|matrix|cols2|answer
+      stage     7 : balance|matrix|band|answer
+      stage     8 : overlap|matrix|band|answer
+      stage     9 : triangle|matrix|cols3|answer
+      stage    10 : pyramid|matrix|cols2|answer
+      stage    11 : triad|matrix|band|answer
+      stage    12 : vs3|matrix|band|answer
+      stage    13 : timeline|panels2|matrix|answer
+      stage    14 : bus|matrix|band|answer
+      stage    15 : constel|matrix|band|answer
+      stage    16 : switch|matrix|cols3|answer
+      stage    17 : chain|answer|matrix|band|answer
+      stage    18 : panels2|matrix|cols2|band|answer
+      stage    19 : replace|answer|matrix|band|answer
+      stage    20 : tension|matrix|band|answer
+      stage    21 : web|chain|matrix|cols3|answer|band
+      stage EXTRA : cols3|matrix|band
+  [PASS] every bespoke Polity-03 primitive is actually on the canvas — balance, bus, constel, fan, loop, overlap, pyramid, quadrant, spectrum, srcmap, switch, tension, triad, triangle, vs3, web, wheel
+  [PASS] no stage signature is copied from the Polity 01 g9 package — all twenty-three signatures are new
+  [PASS] no bespoke primitive is recycled from the Polity 01 g9 package — 17 primitives authored only for Polity 03
+  [PASS] no stage signature is copied from the Polity 02 g8 package — all twenty-three signatures are new
+  [PASS] no bespoke primitive is recycled from the Polity 02 g8 package — 17 primitives authored only for Polity 03
+  [PASS] no stage is a bare three-column card
+
+6. INFORMATION DENSITY PER STAGE
+      stage     0 :  6 pills · 5 blocks · ~418 words · 1533 px tall
+      stage     1 :  6 pills · 4 blocks · ~354 words · 1333 px tall
+      stage     2 :  6 pills · 4 blocks · ~443 words · 1559 px tall
+      stage     3 :  6 pills · 5 blocks · ~651 words · 2192 px tall
+      stage     4 :  6 pills · 4 blocks · ~399 words · 1178 px tall
+      stage     5 :  6 pills · 5 blocks · ~503 words · 1736 px tall
+      stage     6 :  6 pills · 4 blocks · ~499 words · 1770 px tall
+      stage     7 :  6 pills · 4 blocks · ~369 words · 1229 px tall
+      stage     8 :  6 pills · 4 blocks · ~459 words · 1530 px tall
+      stage     9 :  6 pills · 4 blocks · ~453 words · 1417 px tall
+      stage    10 :  6 pills · 4 blocks · ~438 words · 1575 px tall
+      stage    11 :  6 pills · 4 blocks · ~408 words · 1356 px tall
+      stage    12 :  6 pills · 4 blocks · ~481 words · 1537 px tall
+      stage    13 :  6 pills · 4 blocks · ~488 words · 1478 px tall
+      stage    14 :  6 pills · 4 blocks · ~409 words · 1322 px tall
+      stage    15 :  6 pills · 4 blocks · ~465 words · 1448 px tall
+      stage    16 :  6 pills · 4 blocks · ~631 words · 1676 px tall
+      stage    17 :  6 pills · 5 blocks · ~397 words · 1303 px tall
+      stage    18 :  6 pills · 5 blocks · ~560 words · 1773 px tall
+      stage    19 :  6 pills · 5 blocks · ~501 words · 1508 px tall
+      stage    20 :  6 pills · 4 blocks · ~455 words · 1485 px tall
+      stage    21 :  6 pills · 6 blocks · ~932 words · 2698 px tall
+      stage EXTRA :  4 pills · 3 blocks · ~550 words · 1536 px tall
+  [PASS] every stage carries at least four decisive keyword pills — minimum 4
+  [PASS] every stage carries at least three internal blocks — minimum 3
+  [PASS] no literal markdown markers left in plain-text fields — rich text is only used where the renderer parses it
+      rich-parsed fields carrying bold runs: answer.text×24, balance.s×1, band.text×17, cols.v×17, constel.s×1, fan.s×7, loop.s×4, overlap.s×4, pyramid.s×3, quadrant.s×4, replace.note×1, spectrum.s×4, tension.l×6, triad.text×1, triangle.s×4, web.t×7, wheel.s×4
+  [PASS] canvas depth reflects real content, not padding — 38332 px tall at 300 dpi
+
+7. ANSWER-GRABBING LINES — TOPIC-SPECIFIC, NOT BOILERPLATE
+  [PASS] answer lines present across the flow — 24 bands
+  [PASS] every answer line is unique — 24 distinct
+  [PASS] no stub answer lines
+  [PASS] every answer band carries its own labelled head — 24 distinct heads
+
+8. MUST-SHOW CONTENT AUDIT (terms required by the commissioning brief)
+  [PASS] all 135 required terms are on the canvas — 135/135 present
+  [PASS] source limit respected — 'Federation' is never claimed to be constitutional text — only ever printed inside an explicit trap / never-write line
+  [PASS] source limit respected — no claim that every amendment needs State ratification — only ever printed inside an explicit trap / never-write line
+  [PASS] source limit respected — no claim that India uses a strict separation of powers — only ever printed inside an explicit trap / never-write line
+  [PASS] source limit respected — no claim that the Directive Principles are irrelevant — only ever printed inside an explicit trap / never-write line
+  [PASS] source limit respected — no claim that Indian secularism means total State withdrawal — only ever printed inside an explicit trap / never-write line
+  [PASS] source limit respected — no claim that Hindi is the national language — only ever printed inside an explicit trap / never-write line
+  [PASS] source limit respected — no claim that the whole 97th Amendment was struck down — only ever printed inside an explicit trap / never-write line
+      (every occurrence of these strings on the canvas is inside a WRONG:/NEVER WRITE
+       control line, which is exactly how the owner file teaches them.)
+  [PASS] present-day Article totals always carry the source's dated wording — 1 occurrences, each printed as a dated 2019 snapshot
+
+9. POSTER AND TILED PDF
+  [PASS] poster is a single page — 1
+  [PASS] poster within the 200-inch PDF page limit — 23.79 x 190.00 in
+  [PASS] poster preserves the master aspect ratio — the whole canvas on one page
+  [PASS] tiled page count matches the spec — 13 A3-landscape pages
+  [PASS] tiles are A3 landscape — 1190.6 x 841.9 pt
+
+   same-master pixel identity — every embedded tile image re-hashed against a fresh
+   crop taken from master.png at the recorded row range:
+      tile 1/13  rows 0–3242  size (4800, 3242)  identical
+      tile 2/13  rows 2924–6166  size (4800, 3242)  identical
+      tile 3/13  rows 5848–9090  size (4800, 3242)  identical
+      tile 4/13  rows 8772–12014  size (4800, 3242)  identical
+      tile 5/13  rows 11697–14939  size (4800, 3242)  identical
+      tile 6/13  rows 14621–17863  size (4800, 3242)  identical
+      tile 7/13  rows 17545–20787  size (4800, 3242)  identical
+      tile 8/13  rows 20469–23711  size (4800, 3242)  identical
+      tile 9/13  rows 23393–26635  size (4800, 3242)  identical
+      tile 10/13  rows 26318–29560  size (4800, 3242)  identical
+      tile 11/13  rows 29242–32484  size (4800, 3242)  identical
+      tile 12/13  rows 32166–35408  size (4800, 3242)  identical
+      tile 13/13  rows 35090–38332  size (4800, 3242)  identical
+  [PASS] all tiles are pixel-identical crops of the same master canvas
+  [PASS] tiles overlap so no line is lost at a cut — 318 px overlap, uniform
+  [PASS] no duplicated tile page
+  [PASS] tiling covers the canvas from the first row to the last
+
+10. PAGE PREVIEWS AND CONTACT SHEETS
+  [PASS] one preview per tiled page — 13
+  [PASS] contact sheets produced — 3
+  [PASS] all page previews share one page geometry — (1819, 1287)
+   sheets are justified galleries: every row fills the sheet width, so no grid cell is
+   ever left empty and the only background left is the gutter:
+  [PASS] contact-sheet-01.png carries no blank region — 5545x2640 · 6 pages cover 96.0% of the sheet · largest empty horizontal band 0.76% of sheet height
+  [PASS] contact-sheet-02.png carries no blank region — 5545x2640 · 6 pages cover 96.0% of the sheet · largest empty horizontal band 0.76% of sheet height
+  [PASS] contact-sheet-03.png carries no blank region — 1863x1331 · 1 pages cover 94.4% of the sheet · largest empty horizontal band 1.50% of sheet height
+  [PASS] every tiled page appears on exactly one contact sheet — 13 pages
+
+11. SOURCE INTEGRITY
+  [PASS] canonical learner-v2 owner exists — upsc-ai-kit/knowledge/Polity/learning-sessions/v2/subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7-core-first-g8/polity-03_Learning-Session.md
+      advanced depth owner  : same file — OPTIONAL ADVANCED DEPTH block (Laxmikanth Ch. 3, Sixth Revised Edition)
+      topic package owner   : same file — CONSOLIDATED REGISTER NOTES and PYQS AND ANSWER PRACTICE blocks
+  [PASS] canvas carries the not-approved status line — APPROVAL: FALSE — user review pending
+  [PASS] design spec records approved = false
+
+12. DELIVERABLES
+  [PASS] bespoke-design-spec.json — 130.9 KB
+  [PASS] build-audit.json — 39.0 KB
+  [PASS] master.png — 9102.8 KB
+  [PASS] Polity03_Continuous-At-a-Glance_g9_Poster_2026-08-22.pdf — 10085.8 KB
+  [PASS] Polity03_Continuous-At-a-Glance_g9_Tiled_2026-08-22.pdf — 11175.9 KB
+  [PASS] README.txt — 7.4 KB
+  [PASS] preservation-hashes.json — 22.2 KB
+  [PASS] render_lib.py — 25.4 KB
+  [PASS] render_p3.py — 21.0 KB
+  [PASS] render_p3b.py — 20.1 KB
+  [PASS] spec_header.py — 2.5 KB
+  [PASS] spec_content.py — 4.6 KB
+  [PASS] build_g9.py — 22.0 KB
+  [PASS] validate_g9.py — 20.0 KB
+  [PASS] spec_a.py — 13.3 KB
+  [PASS] spec_b.py — 16.4 KB
+  [PASS] spec_c.py — 14.0 KB
+  [PASS] spec_d.py — 14.0 KB
+  [PASS] spec_e.py — 14.4 KB
+  [PASS] spec_f.py — 15.0 KB
+  [PASS] spec_g.py — 15.8 KB
+  [PASS] spec_h.py — 9.7 KB
+  [PASS] spec_i.py — 5.5 KB
+
+============================================================================================================
+RESULT: ALL CHECKS PASSED
+Approval state: NOT APPROVED — user review pending. No Markdown, workbook, PDF note or
+tracker file was created or modified by this package.
+============================================================================================================

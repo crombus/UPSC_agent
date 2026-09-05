@@ -1,0 +1,1094 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-23",
+  "subject": "Political Theory",
+  "title": "CONTEMPORARY DEMOCRACY, SOCIAL CHANGE AND DEVELOPMENT",
+  "short_route": "THE CONTEMPORARY-DEMOCRACY MAP AND... → CORE DEFINITIONS AND THE... → DEMOCRACY MODELS, THINKERS AND... → REVOLUTION, EVOLUTION, DEVELOPMENT AND... → DEVELOPMENT MODELS BEYOND GDP → APPLICATIONS, BOUNDARIES AND REVISION...",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-23_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-23-ascii-2026-08-29-g2.json",
+  "ascii_spec_sha256": "0a8da27fb5a3c0bbedacd4e7f0b0971c698b5a31fe1adce8af60fcedeec16163",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CONTEMPORARY-DEMOCRACY MAP AND STAKES",
+      "structural_type": "root-axes",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE CONTEMPORARY-DEMOCRACY MAP AND STAKES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CONTEMPORARY DEMOCRACY ASKS WHO COMPETES, PARTICIPATES, REASONS AND...",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] SOCIAL CHANGE DIFFERS BY PACE, AGENCY, STRUCTURE AND...",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] DEVELOPMENT IS WIDER THAN OUTPUT BECAUSE INSTITUTIONS AND...",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE MASTER TEST IS WHETHER PUBLIC AGENCY AND...",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMOCRACY IN MASS SOCIETY NEEDS REALISM AND JUSTIFICATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Contemporary-Democracy Map and Stakes",
+        "[1] Contemporary democracy asks who competes, participates, reasons and benefits.",
+        "[2] Social change differs by pace, agency, structure and moral direction.",
+        "[3] Development is wider than output because institutions and capabilities matter."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Contemporary-Democracy Map and Stakes",
+            "[1] Contemporary democracy asks who competes, participates, reasons and benefits."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Social change differs by pace, agency, structure and moral direction.",
+            "[3] Development is wider than output because institutions and capabilities matter.",
+            "[4] The master test is whether public agency and human welfare actually improve."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Democracy in mass society needs realism and justification.",
+            "ANSWER USE → Define each model, then name its central democratic deficit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Democracy in mass society needs realism and justification.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CORE DEFINITIONS AND THE CHAPTER SPINE",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CORE DEFINITIONS AND THE CHAPTER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ELITIST DEMOCRACY CENTRES COMPETITIVE LEADERSHIP CHOICE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PLURALIST DEMOCRACY CENTRES BARGAINING AMONG ORGANISED GROUPS.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] PARTICIPATION WIDENS CITIZEN ACTION; DELIBERATION ADDS PUBLIC JUSTIFICATION.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] REVOLUTION, EVOLUTION, DEVELOPMENT AND PROGRESS ARE DISTINCT CHANGE...",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINITIONS ARE USEFUL ONLY WHEN THEIR THRESHOLD DIFFERENCES STAY...",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Core Definitions and the Chapter Spine",
+        "[1] Elitist democracy centres competitive leadership choice.",
+        "[2] Pluralist democracy centres bargaining among organised groups.",
+        "[3] Participation widens citizen action; deliberation adds public justification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Core Definitions and the Chapter Spine",
+            "[1] Elitist democracy centres competitive leadership choice."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Pluralist democracy centres bargaining among organised groups.",
+            "[3] Participation widens citizen action; deliberation adds public justification.",
+            "[4] Revolution, evolution, development and progress are distinct change concepts."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Definitions are useful only when their threshold differences stay clear.",
+            "ANSWER USE → Separate democracy models and change concepts before comparison."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Definitions are useful only when their threshold differences stay clear.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DEMOCRACY MODELS, THINKERS AND COMPARATIVE TESTS",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DEMOCRACY MODELS, THINKERS AND COMPARATIVE TESTS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SCHUMPETER TREATS DEMOCRACY AS COMPETITION AMONG LEADERSHIP TEAMS.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DAHL'S PLURALISM DISPERSES INFLUENCE WITHOUT PROVING EQUAL POLITICAL...",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MACPHERSON CRITICISES MARKET-STYLE DEMOCRACY AS TOO THIN AND...",
+          "role": "primary"
+        },
+        {
+          "text": "[4] MARXIST AND DELIBERATIVE TESTS ADD CLASS POWER AND...",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO SINGLE DEMOCRACY MODEL CAPTURES LEADERSHIP, POWER AND LEGITIMACY.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Democracy Models, Thinkers and Comparative Tests",
+        "[1] Schumpeter treats democracy as competition among leadership teams.",
+        "[2] Dahl's pluralism disperses influence without proving equal political voice.",
+        "[3] Macpherson criticises market-style democracy as too thin and possessive."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Democracy Models, Thinkers and Comparative Tests",
+            "[1] Schumpeter treats democracy as competition among leadership teams."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Dahl's pluralism disperses influence without proving equal political voice.",
+            "[3] Macpherson criticises market-style democracy as too thin and possessive.",
+            "[4] Marxist and deliberative tests add class power and public justification."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → No single democracy model captures leadership, power and legitimacy.",
+            "ANSWER USE → Compare the models through one strength and one democratic deficit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → No single democracy model captures leadership, power and legitimacy.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "REVOLUTION, EVOLUTION, DEVELOPMENT AND PROGRESS",
+      "structural_type": "comparison",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "REVOLUTION, EVOLUTION, DEVELOPMENT AND PROGRESS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] REVOLUTION IS ABRUPT STRUCTURAL RUPTURE; EVOLUTION IS CUMULATIVE...",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DEVELOPMENT CONCERNS STRONGER AND MORE EFFECTIVE ORGANISATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] PROGRESS ADDS A MORAL JUDGMENT THAT CHANGE IS...",
+          "role": "primary"
+        },
+        {
+          "text": "[4] POPPER REJECTS HISTORICIST INEVITABILITY AND PREFERS PIECEMEAL REFORM.",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANGE CONCEPTS DIFFER BY PACE, STRUCTURE AND MORAL CONTENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Revolution, Evolution, Development and Progress",
+        "[1] Revolution is abrupt structural rupture; evolution is cumulative gradual change.",
+        "[2] Development concerns stronger and more effective organisation.",
+        "[3] Progress adds a moral judgment that change is better."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Revolution, Evolution, Development and Progress",
+            "[1] Revolution is abrupt structural rupture; evolution is cumulative gradual change."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Development concerns stronger and more effective organisation.",
+            "[3] Progress adds a moral judgment that change is better.",
+            "[4] Popper rejects historicist inevitability and prefers piecemeal reform."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Change concepts differ by pace, structure and moral content.",
+            "ANSWER USE → Separate revolution, evolution, development and progress first."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Change concepts differ by pace, structure and moral content.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DEVELOPMENT MODELS BEYOND GDP",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DEVELOPMENT MODELS BEYOND GDP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DEVELOPMENT IS WIDER THAN GDP BECAUSE RIGHTS, WELFARE...",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MARKET, WELFARE, SOCIALIST, GANDHIAN AND SUSTAINABLE PATHS DIFFER...",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GROWTH MAY COEXIST WITH EXCLUSION, INEQUALITY OR ECOLOGICAL...",
+          "role": "primary"
+        },
+        {
+          "text": "[4] MODEL COMPARISON MUST TEST OWNERSHIP, WELFARE, FREEDOM AND...",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVELOPMENT IS BROADER THAN OUTPUT AND DISPUTED ACROSS RIVAL...",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Development Models Beyond GDP",
+        "[1] Development is wider than GDP because rights, welfare and capability matter.",
+        "[2] Market, welfare, socialist, Gandhian and sustainable paths differ normatively.",
+        "[3] Growth may coexist with exclusion, inequality or ecological harm."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Development Models Beyond GDP",
+            "[1] Development is wider than GDP because rights, welfare and capability matter."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Market, welfare, socialist, Gandhian and sustainable paths differ normatively.",
+            "[3] Growth may coexist with exclusion, inequality or ecological harm.",
+            "[4] Model comparison must test ownership, welfare, freedom and sustainability."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Development is broader than output and disputed across rival models.",
+            "ANSWER USE → Compare ownership, welfare, freedom and ecology before the verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → Compare ownership, welfare, freedom and ecology before the verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "APPLICATIONS, BOUNDARIES AND REVISION CONTROL",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "APPLICATIONS, BOUNDARIES AND REVISION CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GDP GROWTH, INSTITUTIONAL DEVELOPMENT AND MORAL PROGRESS MUST...",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] INDIA-SPECIFIC ILLUSTRATIONS REQUIRE DIVERSITY AND INSTITUTIONAL-CAPACITY CAUTION.",
+          "role": "caution"
+        },
+        {
+          "text": "[3] CURRENT EXAMPLES ILLUSTRATE CONCEPTS BUT DO NOT PROVE...",
+          "role": "caution"
+        },
+        {
+          "text": "[4] REVISION SHOULD MOVE FROM DEFINITION TO DISTINCTION, OBJECTION...",
+          "role": "comparison"
+        },
+        {
+          "text": "APPLICATION IS SOUND ONLY WHEN BOUNDARIES AND SOURCE LIMITS...",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Applications, Boundaries and Revision Control",
+        "[1] GDP growth, institutional development and moral progress must stay separate.",
+        "[2] India-specific illustrations require diversity and institutional-capacity caution.",
+        "[3] Current examples illustrate concepts but do not prove a whole theory."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Applications, Boundaries and Revision Control",
+            "[1] GDP growth, institutional development and moral progress must stay separate."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] India-specific illustrations require diversity and institutional-capacity caution.",
+            "[3] Current examples illustrate concepts but do not prove a whole theory.",
+            "[4] Revision should move from definition to distinction, objection and verdict."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Application is sound only when boundaries and source limits stay visible.",
+            "ANSWER USE → Use India as illustration, then state the conceptual caveat."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Application is sound only when boundaries and source limits stay visible.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ELITE THEORY, GRAMSCI AND COMPETITIVE LEADERSHIP",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ELITE THEORY, GRAMSCI AND COMPETITIVE LEADERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ELITE THEORY EXPLAINS LEADERSHIP CONCENTRATION IN LARGE ORGANISATIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MICHELS IDENTIFIES OLIGARCHIC TENDENCIES WITHIN ORGANISED MOVEMENTS.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GRAMSCI ADDS HEGEMONY",
+          "role": "primary"
+        },
+        {
+          "text": "RULE ALSO WORKS THROUGH CONSENT AND COMMON SENSE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] COMPETITIVE RECRUITMENT MAY CIRCULATE ELITES WITHOUT EQUALISING PUBLIC...",
+          "role": "comparison"
+        },
+        {
+          "text": "ELITE REALISM NEEDS A POWER-AND-HEGEMONY CORRECTION.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Elite Theory, Gramsci and Competitive Leadership",
+        "[1] Elite theory explains leadership concentration in large organisations.",
+        "[2] Michels identifies oligarchic tendencies within organised movements.",
+        "[3] Gramsci adds hegemony: rule also works through consent and common sense."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Elite Theory, Gramsci and Competitive Leadership",
+            "[1] Elite theory explains leadership concentration in large organisations."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Michels identifies oligarchic tendencies within organised movements.",
+            "[3] Gramsci adds hegemony: rule also works through consent and common sense.",
+            "[4] Competitive recruitment may circulate elites without equalising public power."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Elite realism needs a power-and-hegemony correction.",
+            "ANSWER USE → Pair organisational concentration with consent and accountability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Elite realism needs a power-and-hegemony correction.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POLITICAL DEVELOPMENT, MODERNISATION AND KOTHARI",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "POLITICAL DEVELOPMENT, MODERNISATION AND KOTHARI",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] COLEMAN, PYE, ALMOND AND POWELL STRESS DIFFERENTIATION AND...",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PYE'S CRISES INCLUDE IDENTITY, LEGITIMACY AND PARTICIPATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MODERNISATION BECOMES UNSAFE WHEN ONE WESTERN ENDPOINT IS...",
+          "role": "primary"
+        },
+        {
+          "text": "[4] KOTHARI IS A FLAGGED INDIAN BRIDGE, NOT A...",
+          "role": "caution"
+        },
+        {
+          "text": "POLITICAL DEVELOPMENT THEORY IS USEFUL ONLY WHEN TELEOLOGY IS...",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Political Development, Modernisation and Kothari",
+        "[1] Coleman, Pye, Almond and Powell stress differentiation and political capacity.",
+        "[2] Pye's crises include identity, legitimacy and participation.",
+        "[3] Modernisation becomes unsafe when one Western endpoint is assumed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Political Development, Modernisation and Kothari",
+            "[1] Coleman, Pye, Almond and Powell stress differentiation and political capacity."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Pye's crises include identity, legitimacy and participation.",
+            "[3] Modernisation becomes unsafe when one Western endpoint is assumed.",
+            "[4] Kothari is a flagged Indian bridge, not a silent Gauba-page attribution."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Political development theory is useful only when teleology is checked.",
+            "ANSWER USE → Pair one capacity insight with one ethnocentric danger."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Political development theory is useful only when teleology is checked.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DEPENDENCY, INDIAN APPLICATION AND OBJECTION-REPLY CHAINS",
+      "structural_type": "application-pyq",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DEPENDENCY, INDIAN APPLICATION AND OBJECTION-REPLY CHAINS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DEPENDENCY TREATS UNDERDEVELOPMENT AS HISTORICALLY PRODUCED, NOT MERELY...",
+          "role": "caution"
+        },
+        {
+          "text": "[2] WORLD-SYSTEMS ANALYSIS MAKES UNEQUAL CORE-PERIPHERY RELATIONS CENTRAL.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] INDIAN DEVELOPMENT CANNOT BE REDUCED TO IMITATION OF...",
+          "role": "primary"
+        },
+        {
+          "text": "[4] OBJECTIONS MUST TEST TELEOLOGY, CLASS STRUCTURE, DIVERSITY AND...",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDERDEVELOPMENT MAY BE HISTORICALLY STRUCTURED, NOT SIMPLY DELAYED.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Dependency, Indian Application and Objection-Reply Chains",
+        "[1] Dependency treats underdevelopment as historically produced, not merely delayed.",
+        "[2] World-systems analysis makes unequal core-periphery relations central.",
+        "[3] Indian development cannot be reduced to imitation of a single Western path."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Dependency, Indian Application and Objection-Reply Chains",
+            "[1] Dependency treats underdevelopment as historically produced, not merely delayed."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] World-systems analysis makes unequal core-periphery relations central.",
+            "[3] Indian development cannot be reduced to imitation of a single Western path.",
+            "[4] Objections must test teleology, class structure, diversity and institutional reach."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "VERDICT → Underdevelopment may be historically structured, not simply delayed.",
+            "ANSWER USE → Compare modernisation with dependency, then add Indian caution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Underdevelopment may be historically structured, not simply delayed.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DIRECTIVE CONTROL, QUOTATION SAFETY AND SOURCE DISCIPLINE",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIRECTIVE CONTROL, QUOTATION SAFETY AND SOURCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DIRECTIVE WORDS DETERMINE WHETHER AN ANSWER DEFINES, COMPARES...",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] QUOTATIONS AND NAMED ADDITIONS REQUIRE EXPLICIT SOURCE CERTAINTY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] INDIA EXAMPLES SHOULD ILLUSTRATE A MECHANISM WITHOUT BECOMING...",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] ANSWERS SHOULD MOVE FROM THESIS TO DISTINCTION, MECHANISM...",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE DISCIPLINE AND DIRECTIVE CONTROL TURN KNOWLEDGE INTO MARKS.",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Directive Control, Quotation Safety and Source Discipline",
+        "[1] Directive words determine whether an answer defines, compares or evaluates.",
+        "[2] Quotations and named additions require explicit source certainty.",
+        "[3] India examples should illustrate a mechanism without becoming proof-texts."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Directive Control, Quotation Safety and Source Discipline",
+            "[1] Directive words determine whether an answer defines, compares or evaluates."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Quotations and named additions require explicit source certainty.",
+            "[3] India examples should illustrate a mechanism without becoming proof-texts.",
+            "[4] Answers should move from thesis to distinction, mechanism and graded verdict."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Source discipline and directive control turn knowledge into marks.",
+            "ANSWER USE → State ownership, mechanism, objection and graded conclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → State ownership, mechanism, objection and graded conclusion.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] POPULISM RISKS ANTI-PLURAL CLAIMS TO REPRESENT ONE AUTHENTIC...",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ECOLOGICAL THEORY TESTS STANDING, PRODUCTIVISM AND ENVIRONMENTAL JUSTICE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] DIGITAL DEMOCRACY CHANGES CONSENT, INFORMATION AND ORGANISATION.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] DEMOCRATISATION, BACKSLIDING AND MOVEMENTS NAME DISTINCT POLITICAL PROCESSES.",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTEMPORARY EXTENSIONS MUST REMAIN DISTINCT AND EXPLICITLY SUPPLEMENTAL.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Populism risks anti-plural claims to represent one authentic people.",
+        "[2] Ecological theory tests standing, productivism and environmental justice.",
+        "[3] Digital democracy changes consent, information and organisation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Populism risks anti-plural claims to represent one authentic people."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Ecological theory tests standing, productivism and environmental justice.",
+            "[3] Digital democracy changes consent, information and organisation.",
+            "[4] Democratisation, backsliding and movements name distinct political processes."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Contemporary extensions must remain distinct and explicitly supplemental.",
+            "ANSWER USE → Name the process and democratic function before applying it."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Contemporary extensions must remain distinct and explicitly supplemental.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PHILOSOPHY CROSS-APPLIED PYQS STAY SECONDARILY ROUTED HERE, NOT...",
+          "role": "caution"
+        },
+        {
+          "text": "[2] USE THEM AS TESTED BRIDGES ON DEMOCRACY, DEVELOPMENT...",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] TOPIC 23 ORIGINAL PRACTICE MUST REMAIN ORIGINAL WHILE...",
+          "role": "primary"
+        },
+        {
+          "text": "[4] ANSWERS SHOULD MOVE FROM THESIS TO DISTINCTION, MECHANISM...",
+          "role": "comparison"
+        },
+        {
+          "text": "TESTED BRIDGES MAY BE USED, BUT OWNERSHIP DISCIPLINE REMAINS...",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] Philosophy cross-applied PYQs stay secondarily routed here, not re-owned.",
+        "[2] Use them as tested bridges on democracy, development and social change.",
+        "[3] Topic 23 original practice must remain original while preserving ownership."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] Philosophy cross-applied PYQs stay secondarily routed here, not re-owned."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Use them as tested bridges on democracy, development and social change.",
+            "[3] Topic 23 original practice must remain original while preserving ownership.",
+            "[4] Answers should move from thesis to distinction, mechanism and graded verdict."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Tested bridges may be used, but ownership discipline remains explicit.",
+            "ANSWER USE → Mark Philosophy PYQs as secondary and keep Topic 23 practice original."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Tested bridges may be used, but ownership discipline remains explicit.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "21. POPULISM",
+          "role": "outcome"
+        },
+        {
+          "text": "AN ANSWER-READY MODULE",
+          "role": "comparison"
+        },
+        {
+          "text": "22. ECOLOGICAL POLITICAL THEORY (DISTINCT FROM \"ECOLOGICAL DEVELOPMENT\")",
+          "role": "evidence"
+        },
+        {
+          "text": "23. DIGITAL DEMOCRACY AND SURVEILLANCE",
+          "role": "primary"
+        },
+        {
+          "text": "THE DEMOCRATIC-THEORY LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "24. DEMOCRATISATION, DEMOCRATIC BACKSLIDING AND SOCIAL MOVEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "21. Populism: an answer-ready module",
+            "22. Ecological political theory (distinct from \"ecological development\")",
+            "23. Digital democracy and surveillance: the democratic-theory layer",
+            "24. Democratisation, democratic backsliding and social movements"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

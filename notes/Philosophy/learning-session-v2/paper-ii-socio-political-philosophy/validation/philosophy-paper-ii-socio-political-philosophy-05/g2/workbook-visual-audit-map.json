@@ -1,0 +1,987 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-05_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-05_Solved-Workbook_2026-08-27.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 210,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Political-Ideologies.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank with its corpus",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 596.791
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 509.524
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 241,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 13 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 721.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 676.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 257,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 13,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 676.824
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 375.922
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 272,
+      "heading": "9.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 320.722
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 89.82
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 279,
+      "heading": "9.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not run the classical-to-neo trajectory. Use one doctrine or one revision, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 293,
+      "heading": "9.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On \"is Marxism still relevant\" stems, the mark-bearing structure is a three-column judgment: what the analysis still explains (concentration, precarity, ideological reproduction, global inequality), what it failed to predict (the sequenc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 447.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 373.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 351,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §2A (added in this pass):** the Lenin, Gramsci, Althusser and Miliband–Poulantzas modules are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is assert",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 253.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 359,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 226.124
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 181.456
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1005,
+      "heading": "EXAM APPLICATION 1 - What an Ideology Is: The Discriminating Question of Domination",
+      "preview": "MEMORY: Concept spine -> which SENSE of ideology is in play -> which DIAGNOSIS of domination (authority / property / mode of production) -> only then expound the specific doctrine.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 345.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 301.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1027,
+      "heading": "EXAM APPLICATION 2 - Anarchism I: The Case Against the State",
+      "preview": "MEMORY: 10-mark anarchism = burden-of-justification argument in four moves + one named anchor (Bakunin corruption / Proudhon property / Kropotkin mutual aid) + a graded verdict; do not narrate a movement's history.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 141.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 96.756
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1049,
+      "markdown_body_line_end": 1050,
+      "heading": "EXAM APPLICATION 3 - Anarchism II: Strands, Voluntary Order, Objections, and Gandhi",
+      "preview": "MEMORY: Gandhi = anarchist in ideal, reformer in method. Objection ladder = security / scale / anthropology / HIDDEN AUTHORITY (the residual).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 614.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 569.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1070,
+      "markdown_body_line_end": 1072,
+      "heading": "EXAM APPLICATION 4 - Marxism I: Method, Dialectical and Historical Materialism",
+      "preview": "MEMORY: Historical materialism = the six-step chain in premises + the reciprocal base/superstructure caution. Relevance stems = three columns: what it still explains / what it failed to predict / what its institutional record forecloses.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 424.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 365.356
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1095,
+      "heading": "EXAM APPLICATION 5 - Marxism II: Alienation, Exploitation and Surplus Value",
+      "preview": "MEMORY: Alienation 10-marker = definition + four dimensions + \"broader than low wages\" + species-being objection + verdict. Keep exposition dominant when the verb is \"expound/present\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 205.756
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 161.088
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1121,
+      "heading": "EXAM APPLICATION 6 - Marxism III: Ideology, State, Revolution, Communism, Equality",
+      "preview": "MEMORY: Freedom-consistency = the \"only if... otherwise self-defeats\" conditional. Marxism-as-ideology = the four §2.9 objections, each graded, + diagnosis/remedy split.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 614.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 569.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1143,
+      "heading": "EXAM APPLICATION 7 - Marx After Marx: Lenin, Gramsci, Althusser, Miliband and Poulantzas",
+      "preview": "MEMORY: On any \"is Marxism still relevant\" stem, deploy the four-revision table + the relocation verdict; on any \"state and class\" stem, run Miliband -> Poulantzas -> relative-autonomy-must-stay-relative.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 402.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 357.356
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1168,
+      "heading": "EXAM APPLICATION 8 - Socialism: The Family, Its Varieties, and Gandhian Socialism",
+      "preview": "MEMORY: Compare-socialism-communism = shared axes in parallel (property/state/ distribution/method). Gandhian socialism = trusteeship cluster + voluntary- conversion objection + means-ends verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 161.356
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 116.688
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1189,
+      "heading": "EXAM APPLICATION 9 - Inter-School Debates: Anarchism, Marxism, Democratic Socialism, Gandhi, M. N. Roy",
+      "preview": "MEMORY: Bring M. N. Roy to the freedom stem; run Bakunin-Marx on the state-abolition stem; always adjudicate the debate, never declare a knockout.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 584.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1210,
+      "heading": "EXAM APPLICATION 10 - Criticisms, Replies and the Common Traps",
+      "preview": "MEMORY: Critically-examine = two objections, each with reply + residual, + graded verdict. Relevance = analytical survival vs institutional record. Never \"prove\" an ideology with a scheme or statute.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 402.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 357.556
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1234,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED EVIDENCE (P1-P12) / EXAMPLE -> OBJECTION / REPLY /",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 727.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 696.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1238,
+      "markdown_body_line_end": 1238,
+      "heading": "SOLVED PYQ BANK - EXACTLY 13 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 13 primary parts (2018:2, 2019:2, 2020:2, 2021:2, 2022:0, 2023:2, 2024:2, 2025:1). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 671.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 541.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1278,
+      "markdown_body_line_end": 1280,
+      "heading": "Solved PYQ 1 - 2018 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers \"do you subscribe?\" with a graded yes/no (accept the critique via P9, reject the strong constructive claim via the hidden-authority residual) and closes on the asymmetric verdict, not a slogan.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 133.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 74.156
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1321,
+      "heading": "Solved PYQ 2 - 2018 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it turns \"consistent?\" into the \"only if... otherwise self-defeats\" conditional (P3 + §2.8), brings M. N. Roy as the internal Indian reply, concedes the adverse record, and grades rather than answers yes/no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 450.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 392.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1357,
+      "heading": "Solved PYQ 3 - 2019 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it grades the label (affinity via self-rule/swarāj/minimal state; divergence via P10 means-ends and non-violence) and lands the precise \"ideal vs method\" verdict instead of a flat yes or no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 54.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1394,
+      "markdown_body_line_end": 1396,
+      "heading": "Solved PYQ 4 - 2019 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it splits diagnosis (P2/P4, still explains) from prediction and remedy (falsified), uses the neo-Marxist relocation (P6/P8) as the survival mechanism, and grades without commenting on any actual regime.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 378.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 319.356
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1433,
+      "heading": "Solved PYQ 5 - 2020 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it refuses the anarchy/anarchism conflation up front, reads the pandemic through P9 (mutual aid, bounded), and grades to \"shows the insight, not the conclusion\" rather than answering a careless yes.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 663.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1471,
+      "markdown_body_line_end": 1473,
+      "heading": "Solved PYQ 6 - 2020 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it isolates the philosophical core (P2/P3/P6/P7), concedes the necessary-not-sufficient limit and the authoritarian residual, and closes on the diagnosis/remedy split rather than a yes/no on \"relevance\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 283.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 224.156
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1514,
+      "markdown_body_line_end": 1517,
+      "heading": "Solved PYQ 7 - 2021 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it expounds anarchism as an argument with named strands, presses the strongest case (P9), then answers \"completely?\" through the hidden-authority residual and Bakunin's double-edged warning, closing on the as",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 564.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 505.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1559,
+      "markdown_body_line_end": 1561,
+      "heading": "Solved PYQ 8 - 2021 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the trusteeship/self-rule (swarāj)/sarvodaya cluster, contrasts it with Marxian socialism, presses the voluntary-conversion objection to a residual (Ambedkar), and grounds relevance in means-ends + e",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 60.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1600,
+      "markdown_body_line_end": 1602,
+      "heading": "Solved PYQ 9 - 2023 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it \"critically examines\" by reconstructing the claim via P9, isolating the fatal word \"always/everywhere\", and rescuing the defensible philosophical-anarchist core with a graded criterion verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 349.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 305.156
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1644,
+      "markdown_body_line_end": 1646,
+      "heading": "Solved PYQ 10 - 2023 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it runs P2 as six numbered premises (not slogans), states the base/superstructure caution pre-emptively, extends via P6/P7, and grades with the necessary-not-sufficient verdict tuned to Indian social change.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 643.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 584.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1682,
+      "markdown_body_line_end": 1685,
+      "heading": "Solved PYQ 11 - 2024 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- as an EXPOSITION it leads with the definition and the four dimensions (P3), makes the \"broader than low wages\" distinction the centrepiece, adds only one controlled objection/reply, and keeps exposition domin",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 232.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 173.556
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1723,
+      "markdown_body_line_end": 1726,
+      "heading": "Solved PYQ 12 - 2024 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it COMPARES on fixed axes (property/state/ distribution/method) via P11 and P12 rather than writing two summaries, flags the lower-phase/higher-phase vocabulary, and lands the \"all communists are socialists, ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 528.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 469.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1769,
+      "markdown_body_line_end": 1772,
+      "heading": "Solved PYQ 13 - 2025 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it evaluates on BOTH senses of ideology, banks the strengths (P2/P4/P6/P7), runs all four §2.9 objections to residuals with the P5 revision, adds the P8 relocation, and closes on the diagnosis/remedy split, n",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 711.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1776,
+      "markdown_body_line_end": 1776,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 686.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 641.356
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1780,
+      "markdown_body_line_end": 1780,
+      "heading": "Original Mains 1",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 10 marks - answer in about 150 words - directive: Bring out / Assess",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 619.356
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 574.688
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1796,
+      "markdown_body_line_end": 1796,
+      "heading": "Original Mains 1",
+      "preview": "MEMORY: Two senses (neutral vs naturalising) + persistence of mobilisation + 'end of ideology is itself ideological' = full marks.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 353.088
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 308.42
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1800,
+      "markdown_body_line_end": 1800,
+      "heading": "Original Mains 2",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 15 marks - answer in about 250 words - directive: Critically examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 286.42
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 241.753
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1818,
+      "markdown_body_line_end": 1818,
+      "heading": "Original Mains 2",
+      "preview": "MEMORY: socialisation = control by society; nationalisation without democracy = bureaucratic domination (P11). State the axes, then the self-defeat condition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 674.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 630.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1822,
+      "markdown_body_line_end": 1822,
+      "heading": "Original Mains 3",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 20 marks - answer in about 300 words - directive: Critically examine and assess",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 608.024
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 563.356
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1840,
+      "markdown_body_line_end": 1840,
+      "heading": "Original Mains 3",
+      "preview": "MEMORY: shared enemy + state-as-method split; P9/Bakunin vs P1/P5/Lenin; hidden-authority objection both ways; conditional verdict, not a knock-out.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 166.356
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 121.688
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+============================================================================================================
+VALIDATION REPORT — POLITY 01 · HISTORICAL BACKGROUND OF THE INDIAN CONSTITUTION
+CONTINUOUS AT-A-GLANCE MASTER FLOW — GENERATION g9 (Carvaka-standard)
+generated 2026-08-22T18:59:02
+============================================================================================================
+
+1. IMMUTABLE APPROVED REFERENCE — Philosophy Paper-I Indian Philosophy 01 / Carvaka
+  [PASS] Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf — sha256 F291DDE859557D822B919020…
+  [PASS] Carvaka_Continuous-At-a-Glance-Core-First_Master.png — sha256 C9AE34E995375348A6998885…
+  [PASS] Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf — sha256 EB3E452797F15BAC2599431E…
+  [PASS] every file in the reference folder unchanged — 15 files re-hashed
+  NOTE: the reference folder was opened read-only; no write occurred at any point.
+
+2. REJECTED GENERATION g8 — PRESERVED FOR TRACEABILITY
+  [PASS] g8 hashes identical before and after the g9 build — 11 files
+  [PASS] g8 still byte-identical at validation time
+  [PASS] immutable reference untouched across the build
+
+3. MASTER CANVAS
+  [PASS] master width is 4800 px — 4800
+  [PASS] master dpi metadata is 300 — (299.9994, 299.9994)
+  [PASS] height matches the design spec — 24513 px  (81.7 in tall)
+  [PASS] no text overflow or measure/draw height mismatch recorded during rendering — 0 events
+
+4. STAGE COMPLETENESS — REQUIRED SPINE 0..14 PLUS SUBORDINATE ENRICHMENT
+  [PASS] all sixteen stages present in order — 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 E
+  [PASS] each stage carries its required subject
+  [PASS] enrichment is last and visually subordinate; the core is complete before it
+  [PASS] 1858 is rendered as the Crown-rule pivot (yellow rail node and border)
+
+5. LAYOUT DIVERSITY — THE DIRECT REBUTTAL OF THE g8 REJECTION
+  [PASS] no two stages share an identical block signature — 16 distinct signatures / 16 stages
+  [PASS] rich block vocabulary actually used — answer, band, chain, cols2, cols3, ladder, matrix, panels2, replace, row(chain+cols), row(cols+cols), row(cols+matrix), timeline
+      stage  0 : cols3|matrix|band|answer
+      stage  1 : chain|cols3|band
+      stage  2 : panels2|band|answer
+      stage  3 : matrix|cols3|band
+      stage  4 : panels2|row(chain+cols)|cols3|answer
+      stage  5 : matrix|chain|cols3|answer
+      stage  6 : replace|cols3|band
+      stage  7 : ladder|cols3|answer
+      stage  8 : replace|chain|band|cols3|answer
+      stage  9 : matrix|cols3|answer
+      stage 10 : panels2|cols3|band|answer
+      stage 11 : panels2|cols3|band|timeline|cols2|answer
+      stage 12 : matrix|row(cols+cols)|band|band|answer
+      stage 13 : timeline|cols3|band|answer
+      stage 14 : chain|matrix|row(cols+matrix)|cols3|answer|band
+      stage  E : cols3|band
+  [PASS] no stage is a bare three-column card (the g8 failure mode)
+
+6. INFORMATION DENSITY PER STAGE
+      stage  0 :  6 pills · 4 blocks · ~380 words · 1381 px tall
+      stage  1 :  6 pills · 3 blocks · ~367 words · 1142 px tall
+      stage  2 :  8 pills · 3 blocks · ~388 words · 1187 px tall
+      stage  3 :  5 pills · 3 blocks · ~377 words · 1167 px tall
+      stage  4 :  8 pills · 4 blocks · ~561 words · 1567 px tall
+      stage  5 :  8 pills · 4 blocks · ~477 words · 1299 px tall
+      stage  6 :  9 pills · 3 blocks · ~413 words · 1210 px tall
+      stage  7 :  9 pills · 3 blocks · ~366 words · 1397 px tall
+      stage  8 :  9 pills · 5 blocks · ~472 words · 1365 px tall
+      stage  9 :  8 pills · 3 blocks · ~395 words · 1158 px tall
+      stage 10 :  8 pills · 4 blocks · ~441 words · 1349 px tall
+      stage 11 : 10 pills · 6 blocks · ~685 words · 2059 px tall
+      stage 12 : 10 pills · 5 blocks · ~537 words · 1576 px tall
+      stage 13 : 10 pills · 4 blocks · ~364 words · 1139 px tall
+      stage 14 :  6 pills · 6 blocks · ~885 words · 2814 px tall
+      stage  E :  7 pills · 2 blocks · ~375 words · 1034 px tall
+  [PASS] every stage carries at least five decisive keyword pills — minimum 5
+  [PASS] no literal markdown markers left in pill, header or chain labels — rich text is only used where the renderer parses it
+  [PASS] canvas depth reflects real content, not padding — 24513 px tall at 300 dpi
+
+7. ANSWER-GRABBING LINES — TOPIC-SPECIFIC, NOT BOILERPLATE
+  [PASS] answer lines present across the flow — 12 bands
+  [PASS] every answer line is unique — 12 distinct
+  [PASS] no stub answer lines
+
+8. MUST-SHOW CONTENT AUDIT (terms required by the commissioning brief)
+  [PASS] all 55 required terms are on the canvas — 55/55 present
+
+9. POSTER AND TILED PDF
+  [PASS] poster is a single page — 1
+  [PASS] poster within the 200-inch PDF page limit — 37.20 x 190.00 in
+  [PASS] poster preserves the master aspect ratio — the whole canvas on one page
+  [PASS] tiled page count matches the spec — 9 A3-landscape pages
+  [PASS] tiles are A3 landscape — 1190.6 x 841.9 pt
+
+   same-master pixel identity — every embedded tile image re-hashed against a fresh
+   crop taken from master.png at the recorded row range:
+      tile 1/9  rows 0–3242  size (4800, 3242)  identical
+      tile 2/9  rows 2659–5901  size (4800, 3242)  identical
+      tile 3/9  rows 5318–8560  size (4800, 3242)  identical
+      tile 4/9  rows 7977–11219  size (4800, 3242)  identical
+      tile 5/9  rows 10636–13878  size (4800, 3242)  identical
+      tile 6/9  rows 13294–16536  size (4800, 3242)  identical
+      tile 7/9  rows 15953–19195  size (4800, 3242)  identical
+      tile 8/9  rows 18612–21854  size (4800, 3242)  identical
+      tile 9/9  rows 21271–24513  size (4800, 3242)  identical
+  [PASS] all tiles are pixel-identical crops of the same master canvas
+  [PASS] tiles overlap so no line is lost at a cut — 583 px overlap, uniform
+  [PASS] no duplicated tile page
+
+10. PAGE PREVIEWS AND CONTACT SHEETS
+  [PASS] one preview per tiled page — 9
+  [PASS] contact sheets produced — 2
+   the g8 rejection listed a large blank region on the contact sheet. Each sheet below is
+   sized from the actual tile count, so the only background left is the 22 px grid gutter:
+  [PASS] contact-sheet-01.png carries no blank region — 5545x2640 · page area covers 96.0% of the sheet · largest empty horizontal band 0.76% of sheet height
+  [PASS] contact-sheet-02.png carries no blank region — 5545x1331 · page area covers 95.2% of the sheet · largest empty horizontal band 1.50% of sheet height
+
+11. SOURCE INTEGRITY
+  [PASS] canonical learner-v2 owner exists — upsc-ai-kit/knowledge/Polity/learning-sessions/v2/subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7/polity-01_Learning-Session.md
+  [PASS] advanced owner exists — upsc-ai-kit/knowledge/Polity/advanced/01_Historical-Background.md
+  [PASS] cross-owned mechanism owner exists — upsc-ai-kit/knowledge/Modern-Indian-History/06_Structure-of-Government-and-Constitutional-Development-1757-1858_Complete-Topic-Package.md
+  [PASS] canvas carries the not-approved status line — Approval: FALSE • Pending user review • Prior artefacts, including generation g8, unchanged
+  [PASS] design spec records approved = false
+
+12. DELIVERABLES
+  [PASS] bespoke-design-spec.json — 82.7 KB
+  [PASS] master.png — 6089.2 KB
+  [PASS] Polity01_Continuous-At-a-Glance_g9_Poster_2026-08-22.pdf — 6691.1 KB
+  [PASS] Polity01_Continuous-At-a-Glance_g9_Tiled_2026-08-22.pdf — 8050.4 KB
+  [PASS] README.txt — 7.9 KB
+  [PASS] preservation-hashes.json — 4.7 KB
+  [PASS] render_lib.py — 25.3 KB
+  [PASS] spec_content.py — 80.6 KB
+  [PASS] build_g9.py — 19.7 KB
+
+============================================================================================================
+RESULT: ALL CHECKS PASSED
+Approval state: NOT APPROVED — user review pending. No tracker or Markdown file was modified.
+============================================================================================================

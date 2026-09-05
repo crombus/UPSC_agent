@@ -1,0 +1,32 @@
+{
+  "generated_on": "2026-08-27",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-03",
+  "official_syllabus_verbatim": "Individual and State : Rights; Duties and Accountability.",
+  "source_order": [
+    "Markdown knowledge owners and the retained layered package",
+    "OCR/PDF evidence already reconciled in the source owners",
+    "Live web not used for static doctrine or PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 9,
+  "verified_pyqs": [
+    "\"Duties are of the nature of obligation while Rights are of the nature of entitlement. Therefore there is no necessary connection between the two.\" Do you agree with this statement? Give reasons and justification for your answer.",
+    "Present a brief account of origin and development of Social Contract Theory.",
+    "Do you agree with the view that Aristotle was more successful than Plato in steering a middle course between 'Statism' and 'individualism'? Discuss with arguments.",
+    "Do you agree that duty and accountability must be given priority over rights for the better functioning of a State? Justify your answer.",
+    "Does idea of unconditional rights necessarily lead to anarchy? Critically examine.",
+    "Evaluate whether the social contract theory adequately addresses the different issues of human rights.",
+    "Is Indian tradition antagonistic to Individual Rights? Consider it by taking recourse to the doctrine of Human Rights.",
+    "Do rights make citizens accountable to the State? Argue in the context of the present Indian scenario.",
+    "“Human rights and human dignity would no longer be the product of a particular culture, rather a common human aspiration for an ideal world.” Discuss."
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Individual-and-State.md": "1456b9d4ff58d5f980fe8cd4e789d3b592b46e80f168bf77c344164f7c3964d5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Individual-and-State\\Individual-and-State_Layered-Complete-Learning-Session_2026-08-19.md": "86271c59baf42261dc5c101e6eb1454dbaee45357d616a3e8e30de9c75ddc106",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Individual-and-State\\Individual-and-State_Layered-Solved-Practice-Workbook_2026-08-19.md": "6d39bb531f53c74df73159075526c7addb5f580395b8efe7859cf13a9d1fec75"
+  }
+}

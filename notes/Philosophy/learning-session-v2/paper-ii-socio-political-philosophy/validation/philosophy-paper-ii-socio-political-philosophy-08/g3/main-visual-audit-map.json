@@ -1,0 +1,3472 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-08_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-08_Learning-Session_2026-08-28.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 9,
+      "heading": "Development and Social Progress - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Syllabus (verbatim):** Development and Social Progress.  **Generation:** g3, 2026-08-28 · **Approval:** false pending explicit topic approval  **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ❓ contested/e",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 14,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Development and Social Progress concept map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\assets\\philosophy-paper-ii-socio-political-philosophy-08\\development-and-social-progress-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 645.224
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 337.688
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 18,
+      "markdown_body_line_end": 18,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Development and Social Progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 304.288
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 273.82
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 30,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 229.62
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 99.019
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 47,
+      "markdown_body_line_end": 58,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 548.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 104,
+      "heading": "VISUAL - The five-rung ladder: means are not the verdict",
+      "preview": "ECONOMIC GROWTH -> more output / income",
+      "metadata": {
+        "language": "text",
+        "line_count": 31,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 360.79
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 136,
+      "heading": "VISUAL - The economistic claim, its enabling truth and its limit",
+      "preview": "SCARCITY -> productivity / investment -> larger resource base",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 465.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 224.091
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Growth can finance development, but only just conversion into capability, dignity, participation and sustainable institutions can make material change social progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 187.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 143.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 175,
+      "markdown_body_line_end": 175,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** more output is not the same as a better life, and a better life is not the same as a *justified* better society; keep the three rungs separate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 422.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 377.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 190,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "RUNG 3   SOCIAL PROGRESS     evaluative / normative",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 358.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 247.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 219,
+      "heading": "0. ONE-SCREEN MAP",
+      "preview": "ECONOMIC GROWTH",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 64.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 238,
+      "markdown_body_line_end": 244,
+      "heading": "1.2 Growth, development and progress",
+      "preview": "Concept | Primary measure | Question | Failure",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Primary measure",
+          "Question",
+          "Failure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 475.391
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 296.49
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 283,
+      "heading": "CLOSING RECALL FLOW - Development: Five Rungs, One Normative Question",
+      "preview": "Development: Five Rungs, One Normative Question",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 40.89
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 715.123
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 325,
+      "heading": "VISUAL - Sen's conversion chain: why equal resources diverge",
+      "preview": "RESOURCE (income, school, transport, law)",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 524.923
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 243.923
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 353,
+      "heading": "VISUAL - The three false substitutes for capability",
+      "preview": "RESOURCE: 'what a person has'         -- necessary, not enough",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 359,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Income is a means; capability records what that means actually enables a person to be and do, with the person as agent rather than merely beneficiary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 550.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 505.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 392,
+      "markdown_body_line_end": 392,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** stop asking \"how rich is a person?\" and start asking \"what is this person actually able to be and to do?\"",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 755.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 396,
+      "markdown_body_line_end": 406,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "RESOURCE  --->  CONVERSION  --->  FUNCTIONING  --->  CAPABILITY  --->  AGENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 736.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 635.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 431,
+      "markdown_body_line_end": 437,
+      "heading": "1.5 Amartya Sen: development as freedom",
+      "preview": "Term | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Term",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 287.624
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 157.022
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 478,
+      "heading": "CLOSING RECALL FLOW - Human Development and Sen: Resources into Real Freedom",
+      "preview": "Human Development and Sen: Resources into Real Freedom",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 629.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 549.873
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 512,
+      "heading": "VISUAL - Sen and Nussbaum: one evaluative space, different closure",
+      "preview": "SEN                                  NUSSBAUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 345.473
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 144.473
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 544,
+      "heading": "VISUAL - Three critiques of a single development path",
+      "preview": "LINEAR MODERNISATION: every society follows one route",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 550,
+      "markdown_body_line_end": 550,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plural development rejects an imposed single path without surrendering universal constraints of dignity, capability and non-domination.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 510.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 465.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 583,
+      "markdown_body_line_end": 583,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** two critiques ask \"development *for whom* and *on whose terms*?\", and one reframing asks \"development *within what limits*?\"",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 734.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 689.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 587,
+      "markdown_body_line_end": 600,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MAINSTREAM MODEL: growth -> modern institutions -> universal progress",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 670.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 539.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 655,
+      "heading": "CLOSING RECALL FLOW - Nussbaum, Dependency, Post-Development and Sustainability",
+      "preview": "Nussbaum, Dependency, Post-Development and Sustainability",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 707.473
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 693,
+      "heading": "VISUAL - Why progress is not an automatic consequence of knowledge",
+      "preview": "REASON / SCIENCE / TECHNOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 536.273
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 295.273
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 721,
+      "heading": "VISUAL - The plural criteria wheel",
+      "preview": "FREEDOM -- real options and voice",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 727,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Social progress is neither an automatic historical law nor a single aggregate: it is a defensible, multidimensional judgment about how people stand to one another and to their future.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 550.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 505.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 760,
+      "markdown_body_line_end": 760,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** progress is a *value judgement* about change, and history gives no guarantee that change is always for the better.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 775,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "ENLIGHTENMENT / LINEAR VIEW            SCEPTICAL / PLURALIST VIEWS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 705.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 594.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 807,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - Social Progress: Criteria, Conflict and Non-Inevitability",
+      "preview": "Social Progress: Criteria, Conflict and Non-Inevitability",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 170.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 91.005
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 835,
+      "markdown_body_line_end": 859,
+      "heading": "VISUAL - The modal test: necessary is not sufficient",
+      "preview": "TEST 1: NECESSITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 609.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 388.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 889,
+      "heading": "VISUAL - From provision to social equality",
+      "preview": "RESOURCES -----------------> REDISTRIBUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 347.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 126.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 895,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Economic development is a threshold-level enabling condition, not a sufficient condition: resources become progress only when they are converted into equal status, agency and durable freedom.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 90.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 45.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 928,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** progress has *many* criteria that can pull against each other, and economic development is at most a *necessary enabler*, never a *sufficient guarantee*.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 320.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 275.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 947,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "CRITERIA OF PROGRESS (plural, sometimes conflicting)",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 256.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 105.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 961,
+      "markdown_body_line_end": 969,
+      "heading": "2.3 Criteria of social progress",
+      "preview": "Criterion | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Criterion",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 672.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 499.89
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1020,
+      "heading": "CLOSING RECALL FLOW - Economic Development, Social Progress and Democratic Equality",
+      "preview": "Economic Development, Social Progress and Democratic Equality",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 107.59
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 779.823
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1058,
+      "heading": "VISUAL - Technology: capacity branches before ethical verdict",
+      "preview": "TECHNICAL CAPACITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 575.423
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 334.423
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1064,
+      "markdown_body_line_end": 1088,
+      "heading": "VISUAL - Skill education: from formal learning to agency",
+      "preview": "EDUCATION -> relevant skill -> competence -> work options",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1094,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Technology expands power and skill expands possible agency; neither automatically supplies the ethical ends, fair access or institutions that turn expanded capacity into social progress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 530.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 485.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1127,
+      "markdown_body_line_end": 1127,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** technology multiplies human *power*, but power is not the same as goodness - and skills that only feed the market are not the same as development.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 707.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1144,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "TECHNOLOGY (amplifies human power)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 687.824
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 556.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1161,
+      "markdown_body_line_end": 1166,
+      "heading": "3.1 Does technological development improve ethical standards?",
+      "preview": "Optimist case | Critical case",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Optimist case",
+          "Critical case"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 367.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 257.622
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1212,
+      "heading": "CLOSING RECALL FLOW - Technology and Skill Education: Power Needs Ethical Direction",
+      "preview": "Technology and Skill Education: Power Needs Ethical Direction",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 712.991
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 633.173
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1248,
+      "heading": "VISUAL - Gandhi's development argument",
+      "preview": "UNLIMITED WANTS -> dependence + competition + violence",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 442.973
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 221.973
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1278,
+      "heading": "VISUAL - Reconstructing the village ideal without romanticism",
+      "preview": "GANDHI: village can be a school of swaraj",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1284,
+      "markdown_body_line_end": 1284,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "For Gandhi, development is not the multiplication of wants but the moral and material self-rule of all, in which means already prefigure the society they claim to build.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 530.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 485.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1317,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** for Gandhi, real development grows people morally from the village outward - it measures *restraint, self-rule and dignity*, not the volume of production.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 707.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1340,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "+---------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 687.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 496.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1406,
+      "heading": "CLOSING RECALL FLOW - Gandhian Social Development: Sarvodaya, Swaraj and its Test",
+      "preview": "Gandhian Social Development: Sarvodaya, Swaraj and its Test",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 713.991
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 634.173
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1418,
+      "markdown_body_line_end": 1442,
+      "heading": "VISUAL - The tribal reconciliation four-test gate",
+      "preview": "A PROJECT CLAIMED AS DEVELOPMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 429.773
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 208.773
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1448,
+      "markdown_body_line_end": 1468,
+      "heading": "VISUAL - Indian illustrations: status before philosophical use",
+      "preview": "PESA, 1996 -> ENACTED STATUTE -> adapted panchayat arrangements",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1474,
+      "markdown_body_line_end": 1474,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Development is reconcilable with tribal values only where communities are agents rather than objects: gains and losses count together, participation precedes decision, irreversible loss attracts precaution, and costs are not offloaded downw",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 570.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 511.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1507,
+      "markdown_body_line_end": 1507,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** development framed as extraction *displaces* tribal communities and erases their values; genuine reconciliation changes *decision-power*, not just compensation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 737.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 692.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1511,
+      "markdown_body_line_end": 1526,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "\"DEVELOPMENT AS EXTRACTION\"                RECONCILED DEVELOPMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 673.624
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 522.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1579,
+      "markdown_body_line_end": 1598,
+      "heading": "CLOSING RECALL FLOW - Development and Tribal Values: Agency, Rights and Reconciliation",
+      "preview": "Development and Tribal Values: Agency, Rights and Reconciliation",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 533.991
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 454.173
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1610,
+      "markdown_body_line_end": 1630,
+      "heading": "VISUAL - Three answers to 'what counts morally?'",
+      "preview": "ORIENTATION       MORAL OBJECT              MAIN WEAKNESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1636,
+      "markdown_body_line_end": 1658,
+      "heading": "VISUAL - Naess: symptom control versus framework change",
+      "preview": "SHALLOW ECOLOGY -> pollution / depletion symptoms",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 565.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 364.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1664,
+      "markdown_body_line_end": 1664,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ecology becomes political philosophy when the question changes from how much nature to manage to what has moral standing, what a good life demands, and who may bear the cost of restraint.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 327.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 283.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1697,
+      "markdown_body_line_end": 1697,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** the ecology module bounds the whole clause - development is legitimate only *within* ecological limits and *without* dumping its costs on the future or the poor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 538.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 493.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1701,
+      "markdown_body_line_end": 1718,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "ECOLOGICAL LIMIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 474.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 303.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1732,
+      "markdown_body_line_end": 1732,
+      "heading": "5A. ECOLOGICAL POLITICAL PHILOSOPHY AND THE LIMITS OF DEVELOPMENT",
+      "preview": "⚠️ **Why this section exists.** §1.8 names sustainable development; that is a policy formula, not a philosophy. The prior questions are **what has moral standing**, **whether growth is a coherent permanent objective**, **what is owed to tho",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 106.224
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        34,
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1736,
+      "markdown_body_line_end": 1740,
+      "heading": "5A.1 Three orientations: what has moral standing?",
+      "preview": "Orientation | Who or what counts morally | Why nature is protected | Characteristic weakness",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Orientation",
+          "Who or what counts morally",
+          "Why nature is protected",
+          "Characteristic weakness"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 694.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 524.622
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1843,
+      "markdown_body_line_end": 1851,
+      "heading": "5A.7 Binding to tribal development (§5)",
+      "preview": "Question from §5 | Ecological argument that answers it | Where",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Question from §5",
+          "Ecological argument that answers it",
+          "Where"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 456.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 115.09
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1866,
+      "markdown_body_line_end": 1883,
+      "heading": "CLOSING RECALL FLOW - Ecological Development I: Moral Standing and Deep Ecology",
+      "preview": "Ecological Development I: Moral Standing and Deep Ecology",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 519.591
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 439.773
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1895,
+      "markdown_body_line_end": 1923,
+      "heading": "VISUAL - Productivism, degrowth and the asymmetry rule",
+      "preview": "PRODUCTIVISM: more production = master aim + solution to distribution",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1929,
+      "markdown_body_line_end": 1952,
+      "heading": "VISUAL - Future justice and just transition: two distributive tests",
+      "preview": "FUTURE PEOPLE -> cannot vote, bargain or reciprocate",
+      "metadata": {
+        "language": "text",
+        "line_count": 22,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 485.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 274.091
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1958,
+      "markdown_body_line_end": 1976,
+      "heading": "VISUAL - Directive decoder: the verb fixes the argument",
+      "preview": "EXPLAIN -> definition -> components -> neighbouring distinction -> example",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1982,
+      "markdown_body_line_end": 2004,
+      "heading": "VISUAL - Universal development answer spine",
+      "preview": "1  NAME the conception under dispute: growth / human / capability / progress",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 384.091
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2010,
+      "markdown_body_line_end": 2010,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Development is bounded by ecological justice, but the bound is asymmetric: restrain luxury throughput where consumption is high, expand base capabilities where deprivation persists, and make the transition participatory and fair.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 347.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 289.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2050,
+      "markdown_body_line_end": 2050,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "**In one line:** the clause is a *conversation* between models - and your marks come from staging the debate cleanly and refusing the standard traps.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 302.224
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2054,
+      "markdown_body_line_end": 2074,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MODEL          | END (metric)        | AGENT        | STATE/MARKET/COMMUNITY | NATURE      |",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 283.024
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 72.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2089,
+      "markdown_body_line_end": 2094,
+      "heading": "6.1 Growth model vs Sen",
+      "preview": "Axis | Growth-centred model | Capability approach",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Growth-centred model",
+          "Capability approach"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 680.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 570.89
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2120,
+      "markdown_body_line_end": 2127,
+      "heading": "7. CRITICISMS AND REPLIES",
+      "preview": "Criticism | Reply | Residual problem",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Criticism",
+          "Reply",
+          "Residual problem"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 246.59
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 735.09
+        }
+      },
+      "pdf_pages": [
+        43,
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2145,
+      "markdown_body_line_end": 2171,
+      "heading": "CLOSING RECALL FLOW - Ecological Development II: Degrowth, Future Justice, Just Transition and Answer Synthesis",
+      "preview": "Ecological Development II: Degrowth, Future Justice, Just Transition and Answer",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 513.09
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 433.271
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2186,
+      "markdown_body_line_end": 2186,
+      "heading": "RAPID REVISION 1 - Growth, Development and Progress - the Core Distinction",
+      "preview": "🔑 Mnemonic: **G-D-P is not GDP** - Growth, Development, Progress are three rungs, not one number.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 270.071
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 239.604
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2207,
+      "markdown_body_line_end": 2207,
+      "heading": "RAPID REVISION 2 - Human Development and the Capability Approach - Sen, Nussbaum, Haq",
+      "preview": "🔑 Mnemonic: **R-C-F-C-A** - \"Resources Convert to Functionings; Capabilities Anchor agency.\"",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 55.304
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        44,
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2228,
+      "markdown_body_line_end": 2228,
+      "heading": "RAPID REVISION 3 - Dependency, Post-Development and Sustainable Development",
+      "preview": "🔑 Mnemonic: **WHOM . TERMS . LIMITS** - dependency (whom/terms), post-dev (whose terms), sustainability (what limits).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 588.524
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 543.856
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2249,
+      "markdown_body_line_end": 2249,
+      "heading": "RAPID REVISION 4 - Social Progress - Is It Inevitable?",
+      "preview": "🔑 Mnemonic: **C-P-P** against inevitability - Cyclical, Pluralist, Postcolonial.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 359.556
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 329.088
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2270,
+      "markdown_body_line_end": 2270,
+      "heading": "RAPID REVISION 5 - Criteria, Necessary/Sufficient, Recognition and Democracy",
+      "preview": "🔑 Mnemonic: **N-not-S** - \"Necessary enabler, never Sufficient.\"",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 158.988
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 128.52
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2291,
+      "markdown_body_line_end": 2291,
+      "heading": "RAPID REVISION 6 - Technology, Ethics and Skill Education",
+      "preview": "🔑 Mnemonic: **POWER != GOOD** - technology amplifies power; ethics decides good.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 680.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 649.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2312,
+      "markdown_body_line_end": 2312,
+      "heading": "RAPID REVISION 7 - Gandhian Social Development",
+      "preview": "🔑 Mnemonic: **S-S-T-R-D** - Sarvodaya, Swaraj, Trusteeship, Restraint, Dignity of labour.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 451.124
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 420.656
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2333,
+      "markdown_body_line_end": 2333,
+      "heading": "RAPID REVISION 8 - Development and Tribal Values - the Reconciliation Model",
+      "preview": "🔑 Mnemonic: **C-P-I-B** - Capability, Participation, Irreversibility, Burden.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 236.356
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 205.888
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2354,
+      "markdown_body_line_end": 2354,
+      "heading": "RAPID REVISION 9 - Ecological Political Philosophy and the Limits of Development",
+      "preview": "🔑 Mnemonic: **LIMIT + 2 JUSTICES** - stay within limits, be fair to the future AND the poor now.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 680.091
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 649.624
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2375,
+      "markdown_body_line_end": 2375,
+      "heading": "RAPID REVISION 10 - Inter-School Debates, Criticisms and Common Traps",
+      "preview": "🔑 Mnemonic: **MATRIX + SPINE** - compare with the matrix, structure with the spine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 422.724
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 392.256
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2385,
+      "markdown_body_line_end": 2385,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Development-Social-Progress.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank with its",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 317.156
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 229.888
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2415,
+      "markdown_body_line_end": 2415,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 6 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 547.191
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 502.524
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2417,
+      "markdown_body_line_end": 2424,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 502.524
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 324.122
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2432,
+      "markdown_body_line_end": 2440,
+      "heading": "11.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 268.922
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 696.39
+        }
+      },
+      "pdf_pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2446,
+      "markdown_body_line_end": 2446,
+      "heading": "11.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not attempt Sen, Nussbaum, Gandhi and ecology together. One relation, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 600.39
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 569.922
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2452,
+      "markdown_body_line_end": 2452,
+      "heading": "11.2 15-mark method (~220 words · 6 moves · ~18 minutes)",
+      "preview": "⚠️ For necessary/sufficient stems, run the two tests separately and name the counter-case for each: growth without capability expansion defeats sufficiency; severe material deprivation blocking health, education and voice supports a thresho",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 445.522
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 386.654
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2459,
+      "markdown_body_line_end": 2459,
+      "heading": "11.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On tribal-development stems, the mark-bearing structure is the four-test conclusion at §5A.7: capabilities destroyed as well as gained; participation in the decision and not only in compensation; a precautionary presumption against irrev",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 202.454
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 143.587
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2525,
+      "markdown_body_line_end": 2525,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §5A (added in this pass):** the ecological political-philosophy module is a named-scholar reconstruction adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Naess, Guha,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2533,
+      "markdown_body_line_end": 2533,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 365.524
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 320.856
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3169,
+      "markdown_body_line_end": 3179,
+      "heading": "EXAM APPLICATION 1 - Growth, Development and Progress - the Core Distinction",
+      "preview": "THESIS      : agree with a qualification - economic development is a means, not",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 639.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 538.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3192,
+      "markdown_body_line_end": 3198,
+      "heading": "EXAM APPLICATION 2 - Human Development and the Capability Approach - Sen, Nussbaum, Haq",
+      "preview": "DEFINE   : functioning / capability / agency in one clean line each.",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 426.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 365.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3211,
+      "markdown_body_line_end": 3217,
+      "heading": "EXAM APPLICATION 3 - Dependency, Post-Development and Sustainable Development",
+      "preview": "TRIGGER  : stem attacks \"one model for all\" or \"development that displaces\".",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 239.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 178.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3230,
+      "markdown_body_line_end": 3236,
+      "heading": "EXAM APPLICATION 4 - Social Progress - Is It Inevitable?",
+      "preview": "FRAME    : distinguish change (fact) from progress (value).",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 669.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 608.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3249,
+      "markdown_body_line_end": 3255,
+      "heading": "EXAM APPLICATION 5 - Criteria, Necessary/Sufficient, Recognition and Democracy",
+      "preview": "DEFINE   : necessary condition vs sufficient condition (one line each).",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 482.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 421.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3268,
+      "markdown_body_line_end": 3275,
+      "heading": "EXAM APPLICATION 6 - Technology, Ethics and Skill Education",
+      "preview": "2019 \"Explain\": claim -> distinguish capacity vs morality -> new ethical harms",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 281.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 210.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3287,
+      "markdown_body_line_end": 3296,
+      "heading": "EXAM APPLICATION 7 - Gandhian Social Development",
+      "preview": "STATE   : sarvodaya (hub) + swaraj + trusteeship + restraint + dignity of labour",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 101.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        63,
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3308,
+      "markdown_body_line_end": 3317,
+      "heading": "EXAM APPLICATION 8 - Development and Tribal Values - the Reconciliation Model",
+      "preview": "FRAME    : development-as-extraction vs development-as-capability-expansion.",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 621.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 530.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3330,
+      "markdown_body_line_end": 3337,
+      "heading": "EXAM APPLICATION 9 - Ecological Political Philosophy and the Limits of Development",
+      "preview": "STANDING : place the stem on anthropo/bio/ecocentric + shallow/deep (Naess 1973).",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 418.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 347.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3350,
+      "markdown_body_line_end": 3357,
+      "heading": "EXAM APPLICATION 10 - Inter-School Debates, Criticisms and Common Traps",
+      "preview": "DIRECTIVE : decode the verb (Explain / Examine / Evaluate / Discuss / Do you agree).",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 235.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 164.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3377,
+      "markdown_body_line_end": 3380,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED EVIDENCE (D1-D15) / EXAMPLE -> OBJECTION / REPLY /",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 430.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 399.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3384,
+      "markdown_body_line_end": 3384,
+      "heading": "SOLVED PYQ BANK - EXACTLY 6 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 6 primary parts (2018:0, 2019:1, 2020:1, 2021:0, 2022:1, 2023:1, 2024:1, 2025:1). Ownership discipline ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 374.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 215.824
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3406,
+      "markdown_body_line_end": 3406,
+      "heading": "Solved PYQ 1 - 2019 Q2(c), 15 marks",
+      "preview": "**Why this earns marks:** it refuses the one-sided \"yes\", names the fact/value gap explicitly, gives concrete new-harm categories, handles the correlation objection, and closes with a graded verdict rather than a slogan.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 583.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 538.824
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3427,
+      "markdown_body_line_end": 3427,
+      "heading": "Solved PYQ 2 - 2020 Q2(a), 20 marks",
+      "preview": "**Why this earns marks:** it \"states\" the concept completely (all five commitments + means-ends unity), \"examines\" with a genuine objection/reply set, concedes the Ambedkar critique honestly, and delivers a balanced, non-hagiographic verdic",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 101.624
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 42.756
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3454,
+      "markdown_body_line_end": 3454,
+      "heading": "Solved PYQ 3 - 2022 Q3(a), 20 marks",
+      "preview": "**Why this earns marks:** it takes a clear stance, uses the ladder + capability map + recognition + democracy + ecology as *reasons*, answers the strongest counter (co-occurrence), and lands a qualified, defended verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 285.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 240.424
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3478,
+      "markdown_body_line_end": 3478,
+      "heading": "Solved PYQ 4 - 2023 Q2(c), 15 marks",
+      "preview": "**Why this earns marks:** it \"evaluates\" (two-sided, criterion-based), deploys the employability-vs-capability distinction, answers the practicality objection, and gives a conditional graded verdict rather than a yes/no.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 577.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 532.824
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3504,
+      "markdown_body_line_end": 3504,
+      "heading": "Solved PYQ 5 - 2024 Q3(c), 10+5=15 marks",
+      "preview": "**Why this earns marks:** it defines the modal terms, answers *both* necessity and sufficiency with the material-threshold and counter-case nuance (not a flat \"necessary but not sufficient\"), justifies with distribution/conversion/recogniti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 68.424
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        68,
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3530,
+      "markdown_body_line_end": 3530,
+      "heading": "Solved PYQ 6 - 2025 Q3(c), 15 marks",
+      "preview": "**Why this earns marks:** it answers \"is it possible\" with a conditional thesis, supplies a concrete four-test engine, uses the Indian statutes/judgment/Articles correctly as *facts* (not proof), refuses both romanticising and steamrolling,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 194.824
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 135.956
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3534,
+      "markdown_body_line_end": 3534,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3538,
+      "markdown_body_line_end": 3538,
+      "heading": "Original Mains 1",
+      "preview": "Original question (not a PYQ) - Philosophy Paper II, Socio-Political Philosophy | 10 marks | ~150 words | directive: Distinguish + Explain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 718.624
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 673.956
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3555,
+      "markdown_body_line_end": 3555,
+      "heading": "Original Mains 1",
+      "preview": "**Why this earns marks:** three clean definitions, the category-slide point, and a policy pay-off with a crisp verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 405.756
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 375.288
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3559,
+      "markdown_body_line_end": 3559,
+      "heading": "Original Mains 2",
+      "preview": "Original question (not a PYQ) - Philosophy Paper II, Socio-Political Philosophy | 15 marks | ~220 words | directive: Examine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 353.288
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 308.62
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3577,
+      "markdown_body_line_end": 3577,
+      "heading": "Original Mains 2",
+      "preview": "**Why this earns marks:** it examines both the gain and the two genuine limits, names the internal debate precisely, and reaches a qualified verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 707.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 662.424
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3581,
+      "markdown_body_line_end": 3581,
+      "heading": "Original Mains 3",
+      "preview": "Original question (not a PYQ) - Philosophy Paper II, Socio-Political Philosophy | 20 marks | ~300 words | directive: Critically examine + Assess.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 640.424
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 595.756
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3597,
+      "markdown_body_line_end": 3597,
+      "heading": "Original Mains 3",
+      "preview": "**Why this earns marks:** it critically examines the limits thesis, assesses degrowth with the India-specific asymmetry, answers the eco-authoritarian objection, and closes with a calibrated verdict and correct legal-status discipline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 217.956
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 173.288
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3756,
+      "markdown_body_line_end": 3756,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** This matching dossier section is unnecessary for a competent Core answer and must be used only after the complete Basic owner has been secured.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 440.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 395.624
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3761,
+      "markdown_body_line_end": 3766,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 332.824
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 111.422
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3778,
+      "markdown_body_line_end": 3778,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "Last-mile revision. Every line below is compressed from the canonical doctrine and the layered teaching above. Represent thinkers by position only; cite the statutes, the 2013 judgment and the two Articles as dated legal facts, never as phi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 602.091
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 543.224
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3844,
+      "markdown_body_line_end": 3866,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The central development question and the five-rung ladder",
+      "preview": "CENTRAL QUESTION -> what counts as a better society, and how do",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 485.491
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3870,
+      "markdown_body_line_end": 3889,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Human development and Sen's resource-to-freedom conversion",
+      "preview": "HAQ / UNDP -> shift from wealth of economy to lives of people:",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 463.491
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 268.891
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3893,
+      "markdown_body_line_end": 3911,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Nussbaum, dependency, post-development and sustainability",
+      "preview": "SEN vs NUSSBAUM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3915,
+      "markdown_body_line_end": 3934,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Social progress: weak teleology, plural criteria and non-inevitability",
+      "preview": "SOCIAL PROGRESS = justified improvement in relations, institutions and lives",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3938,
+      "markdown_body_line_end": 3955,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Necessary, sufficient, redistribution, recognition and democracy",
+      "preview": "2024 MODAL TEST -> Is economic development necessary, sufficient, both or neither?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 364.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 190.091
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3959,
+      "markdown_body_line_end": 3975,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Technology and skill education: conditional routes to development",
+      "preview": "TECHNOLOGY -> changes capacities and social relations; supplies NO ethical end",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3979,
+      "markdown_body_line_end": 3996,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Gandhian social development and the Ambedkarite safeguard",
+      "preview": "GANDHIAN END -> SARVODAYA: welfare and moral elevation of all",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4000,
+      "markdown_body_line_end": 4019,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Tribal reconciliation: the four tests and legal-status discipline",
+      "preview": "THE COLLISION -> who defines benefit? who bears cost/risk? is land commodity or",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 210.491
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4023,
+      "markdown_body_line_end": 4041,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Moral standing and Naess: ecology before environmental policy",
+      "preview": "PRIOR QUESTION -> what has MORAL STANDING?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4045,
+      "markdown_body_line_end": 4062,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Productivism, degrowth and intergenerational justice",
+      "preview": "PRODUCTIVISM -> expanding production is master objective and solvent of distributional conflict",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 406.691
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4066,
+      "markdown_body_line_end": 4082,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Environmentalism of the poor and the just-transition reply",
+      "preview": "ENVIRONMENTALISM OF THE POOR (Guha and Martinez-Alier, 1997)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 384.691
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 220.691
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4086,
+      "markdown_body_line_end": 4105,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: The directive decoder and complete development answer spine",
+      "preview": "READ THE DIRECTIVE FIRST",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    }
+  ]
+}

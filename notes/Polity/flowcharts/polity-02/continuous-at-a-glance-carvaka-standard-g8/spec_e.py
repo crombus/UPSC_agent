@@ -1,0 +1,140 @@
+"""Polity 02 stages 9-10."""
+
+STAGES_E = [
+    {
+        "n": 9,
+        "kind": "core",
+        "title": "COMMITTEE ARCHITECTURE — SPECIALISATION, REPORTING AND ASSEMBLY CONTROL",
+        "pills": [
+            {"t": "Nehru — Union side", "c": "cyan"},
+            {"t": "Patel — Provincial & Advisory", "c": "amber"},
+            {"t": "Ambedkar — Drafting, 29 Aug 1947", "c": "green"},
+            {"t": "Kripalani — Fundamental Rights", "c": "magenta"},
+            {"t": "Mukherjee — Minorities", "c": "teal"},
+            {"t": "Chairmanship ≠ authorship", "c": "red"},
+        ],
+        "blocks": [
+            {"type": "tree",
+             "root": {"t": "THE CONSTITUENT ASSEMBLY IN PLENARY — FINAL INSTITUTIONAL AUTHORITY",
+                      "s": "Every committee reported to it; every recommendation remained subject to its debate, amendment and vote",
+                      "c": "yellow"},
+             "branches": [
+                 {"h": "UNION SIDE — NEHRU", "c": "cyan", "leaves": [
+                     {"t": "Union Powers Committee", "s": "Chair: Jawaharlal Nehru — distribution and character of Union powers"},
+                     {"t": "Union Constitution Committee", "s": "Chair: Jawaharlal Nehru — structure of the Union constitution"},
+                     {"t": "States Committee", "s": "Chair: Jawaharlal Nehru — relations with the princely states"},
+                 ]},
+                 {"h": "PROVINCIAL & RIGHTS SIDE — PATEL", "c": "amber", "leaves": [
+                     {"t": "Provincial Constitution Committee", "s": "Chair: Vallabhbhai Patel — provincial constitutional structure"},
+                     {"t": "Advisory Committee", "s": "Chair: Vallabhbhai Patel — fundamental rights, minorities, tribal and excluded areas"},
+                 ]},
+                 {"h": "ADVISORY SUB-COMMITTEES", "c": "magenta", "leaves": [
+                     {"t": "Fundamental Rights Sub-Committee", "s": "Chair: J.B. Kripalani — rights recommendations"},
+                     {"t": "Minorities Sub-Committee", "s": "Chair: H.C. Mukherjee — minority safeguards"},
+                     {"t": "North-East Frontier (Assam) Tribal and Excluded Areas Sub-Committee", "s": "Chair: Gopinath Bardoloi"},
+                     {"t": "Excluded and Partially Excluded Areas Sub-Committee (other than Assam)", "s": "Chair: A.V. Thakkar"},
+                 ]},
+                 {"h": "PROCEDURE & DRAFTING", "c": "green", "leaves": [
+                     {"t": "Rules of Procedure Committee", "s": "Chair: Dr Rajendra Prasad — how the Assembly would conduct itself"},
+                     {"t": "Steering Committee", "s": "Chair: Dr Rajendra Prasad — business management of the Assembly"},
+                     {"t": "Drafting Committee", "s": "Chair: B.R. Ambedkar — appointed 29 August 1947 to convert decisions and reports into a coherent draft"},
+                 ]},
+             ]},
+            {"type": "matrix", "c": "cyan", "title": "COMMITTEE → CHAIR → CORE SCOPE (LEARN AS A TABLE, NOT AS A LIST OF NAMES)",
+             "widths": [0.34, 0.22, 0.44],
+             "headers": ["COMMITTEE", "CHAIR", "CORE SCOPE"],
+             "rows": [
+                 ["Union Powers Committee", "**Jawaharlal Nehru**", "Distribution and character of Union powers"],
+                 ["Union Constitution Committee", "**Jawaharlal Nehru**", "Structure of the Union constitution"],
+                 ["States Committee", "**Jawaharlal Nehru**", "Relations between the Union and the princely states"],
+                 ["Provincial Constitution Committee", "**Vallabhbhai Patel**", "Provincial constitutional structure"],
+                 ["Advisory Committee", "**Vallabhbhai Patel**", "Fundamental rights, minorities, tribal and excluded areas"],
+                 ["Fundamental Rights Sub-Committee", "**J.B. Kripalani**", "Rights recommendations to the Advisory Committee"],
+                 ["Minorities Sub-Committee", "**H.C. Mukherjee**", "Minority safeguards"],
+                 ["North-East Frontier (Assam) Tribal / Excluded Areas Sub-Committee", "**Gopinath Bardoloi**", "Assam tribal and excluded areas"],
+                 ["Excluded and Partially Excluded Areas Sub-Committee (other than Assam)", "**A.V. Thakkar**", "Tribal and excluded areas outside Assam"],
+                 ["Rules of Procedure and Steering Committees", "**Dr Rajendra Prasad**", "Procedure and business management of the Assembly"],
+                 ["Drafting Committee", "**B.R. Ambedkar**", "Convert committee decisions and reports into a coherent draft"],
+             ]},
+            {"type": "cols", "gap": 40, "cols": [
+                {"h": "WHAT THE ARCHITECTURE ACHIEVED", "c": "teal", "items": [
+                    "It **separated four functions that are usually confused**: agenda formation, negotiated settlement, legal drafting and plenary authorisation.",
+                    "The Advisory Committee was itself supported by **specialised sub-committees** on fundamental rights, minorities and tribal / excluded areas — expertise was pushed downwards, authority pulled upwards.",
+                    "It explains why **'Ambedkar wrote the Constitution' is useful shorthand but bad institutional history**: reports, adviser work, drafting, amendments and final Assembly votes were separate stages.",
+                    "It also explains the **speed**: parallel committees worked through 1946–47 while the plenary handled the Objectives Resolution and, after 1947, Dominion legislation.",
+                ]},
+                {"h": "COMMITTEE TRAPS", "c": "red", "items": [
+                    "**Wrong:** the Drafting Committee decided every constitutional principle independently.  **Correct:** it drafted **within Assembly and committee decisions**.",
+                    "**Wrong:** Patel chaired the Fundamental Rights Sub-Committee.  **Correct:** **J.B. Kripalani** chaired it; **Patel chaired the parent Advisory Committee**.",
+                    "**Wrong:** Nehru chaired the Provincial Constitution Committee.  **Correct:** that was **Patel**; Nehru held the **Union** side and the **States Committee**.",
+                    "**Chairmanship does not imply sole authorship**; committee recommendations remained subject to the Assembly at every stage.",
+                ]},
+            ]},
+            {"type": "answer", "label": "ANSWER-GRABBING LINE — COMMITTEE ARCHITECTURE:",
+             "text": "The committee system made constitution-making **institutionally intelligible**: Nehru's committees fixed the Union's powers and structure, Patel's fixed provincial structure and rights, specialised sub-committees carried minority and tribal questions, and the Drafting Committee gave legal form — while **plenary authorisation remained undivided**."},
+        ],
+    },
+    {
+        "n": 10,
+        "kind": "core",
+        "title": "B.N. RAU versus THE DRAFTING COMMITTEE — RESEARCH IS NOT DRAFTING, DRAFTING IS NOT ADOPTION",
+        "pills": [
+            {"t": "Rau — Constitutional Adviser", "c": "magenta"},
+            {"t": "Adviser draft, Oct 1947", "c": "amber"},
+            {"t": "DC appointed 29 Aug 1947", "c": "cyan"},
+            {"t": "Seven members", "c": "teal"},
+            {"t": "141 sitting days", "c": "yellow"},
+            {"t": "Assembly = final author", "c": "green"},
+        ],
+        "blocks": [
+            {"type": "panels", "mid": "ADJACENT", "mid2": "Two different offices, two different products — the single most tested distinction on this topic",
+             "panels": [
+                 {"h": "B.N. RAU — CONSTITUTIONAL ADVISER", "c": "magenta", "sub": "An officer of the Assembly, not a member of the Drafting Committee",
+                  "items": [
+                      "Provided **comparative research and advice** on constitutional techniques drawn from other systems.",
+                      "Prepared the **initial constitutional-adviser draft in October 1947**, which **preceded** the Drafting Committee's published Draft.",
+                      "**Widened the menu** of available constitutional devices for the Assembly to choose from.",
+                      "**Boundary:** he did **not** chair the Drafting Committee and did **not** adopt anything — advice is not authority.",
+                  ]},
+                 {"h": "DRAFTING COMMITTEE — CHAIRED BY B.R. AMBEDKAR", "c": "cyan", "sub": "Appointed 29 August 1947  •  seven members  •  sat for 141 days",
+                  "items": [
+                      "**Scrutinised** the adviser's material and the committee reports, **reconciled** decisions and **framed the Draft Constitution**.",
+                      "Published a **Draft Constitution in February 1948** and a **revised draft in October 1948**.",
+                      "**Ambedkar introduced the Draft in the Assembly on 4 November 1948** and piloted and defended it clause by clause.",
+                      "**Boundary:** it could **not replace the plenary Assembly's authority**; its text did not become law without plenary amendment and adoption.",
+                  ]},
+             ]},
+            {"type": "chain", "per_row": 5, "items": [
+                {"t": "RESEARCH", "s": "B.N. Rau: comparative advice and the adviser draft of October 1947", "c": "magenta"},
+                {"t": "DRAFTING", "s": "Drafting Committee: reconciles decisions and frames the Draft Constitution", "c": "cyan"},
+                {"t": "PILOTING", "s": "Ambedkar introduces the Draft on 4 November 1948 and defends it in debate", "c": "amber"},
+                {"t": "AMENDMENT", "s": "The Assembly debates, moves amendments and alters the text clause by clause", "c": "teal"},
+                {"t": "ADOPTION", "s": "The Assembly adopts and later signs — democratic-deliberative authority supplied here", "c": "green"},
+            ]},
+            {"type": "cols", "cols": [
+                {"h": "THE SEVEN MEMBERS AND THE TWO REPLACEMENTS", "c": "amber", "items": [
+                    "**B.R. Ambedkar** — Chairman.",
+                    "**N. Gopalaswami Ayyangar**  ·  **Alladi Krishnaswami Ayyar**  ·  **K.M. Munshi**.",
+                    "**Mohammad Saadulla**  ·  **B.L. Mitter**  ·  **D.P. Khaitan**.",
+                    "**N. Madhava Rau replaced B.L. Mitter**; **T.T. Krishnamachari replaced D.P. Khaitan**.",
+                    "Committee strength stayed at **seven** throughout — replacements, not additions.",
+                ]},
+                {"h": "EXACT BOUNDARIES — WHO COULD DO WHAT", "c": "teal", "items": [
+                    "**B.N. Rau** — research, advice, adviser draft.  **Could not** chair the Drafting Committee or adopt the Constitution.",
+                    "**Drafting Committee** — scrutiny, reconciliation, drafting.  **Could not** replace plenary authority.",
+                    "**B.R. Ambedkar** — chaired, piloted and defended the Draft.  Central role, but **not solitary authorship**.",
+                    "**S.N. Mukerjee** — technical drafting and language.  **Not the constitutional decision-maker**.",
+                    "**The Assembly** — debated, amended, adopted and signed.  **Final institutional author**.",
+                ]},
+                {"h": "THE TWIN ERRORS TO AVOID", "c": "red", "items": [
+                    "**Wrong:** B.N. Rau was a member of the Drafting Committee.  **Correct:** he was **Constitutional Adviser**.",
+                    "**Wrong:** the Drafting Committee's text became law without plenary amendment.  **Correct:** the Assembly **debated and amended it**.",
+                    "Avoid **both** failures of judgement: erasing Ambedkar's exceptional leadership, **and** reducing a collective process to one person.",
+                    "'Father of the Constitution' is a **label**, not an analytical claim — never use it as evidence.",
+                ]},
+            ]},
+            {"type": "answer", "label": "ANSWER-GRABBING LINE — PROCESS ANALYSIS:",
+             "text": "Indian constitution-making was **distributed authorship**: committees settled principles, **B.N. Rau** prepared comparative advice, the **Drafting Committee** produced legal form and the **Assembly** amended and adopted the text."},
+        ],
+    },
+]

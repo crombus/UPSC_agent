@@ -1,0 +1,5 @@
+reference_hash=F291DDE859557D822B91902027B070BB649E92F20C52E9031B1521A9DDE16D90
+master_bytes=784784
+poster_pages=1
+tiled_pages=4
+reference_unchanged=True

@@ -1,0 +1,2 @@
+Bespoke Cārvāka-standard Polity 01 companion
+Reference SHA256 before/after: f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90

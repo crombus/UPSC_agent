@@ -1,0 +1,2211 @@
+{
+ "artifact": "Polity 01 — Historical Background of the Indian Constitution — continuous at-a-glance master flow",
+ "generation": "polity-01:flowchart:continuous-at-a-glance-carvaka-standard:g9",
+ "supersedes": "continuous-at-a-glance-carvaka-standard-g8 (REJECTED — repeated identical three-column cards, thin content, no internal branching, superficial pills, blank contact-sheet region)",
+ "approved": false,
+ "generated": "2026-08-22",
+ "design_reference": {
+  "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "status": "IMMUTABLE — read only, never modified",
+  "matched_properties": [
+   "4800 px wide master at 300 dpi metadata",
+   "strong title card with legend chips and reading instruction",
+   "numbered continuous rail with per-stage nodes and connectors",
+   "per-stage individually chosen internal layout, not a fixed card schema",
+   "dense decisive keyword pill rows",
+   "multi-column branches and direct institutional comparisons",
+   "compact high-information bullets",
+   "mechanism / bridge / trap bands",
+   "magenta answer-grabbing line",
+   "complete numbered core before a visually subordinate enrichment band",
+   "final synthesis stage with comparison matrix and PYQ routes",
+   "poster preserves the whole canvas; tiled PDF crops the same canvas with overlap"
+  ]
+ },
+ "sources": {
+  "canonical_learner_v2_owner": "upsc-ai-kit/knowledge/Polity/learning-sessions/v2/subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7/polity-01_Learning-Session.md",
+  "advanced_owner": "upsc-ai-kit/knowledge/Polity/advanced/01_Historical-Background.md",
+  "cross_owned_mechanism_owner": "upsc-ai-kit/knowledge/Modern-Indian-History/06_Structure-of-Government-and-Constitutional-Development-1757-1858_Complete-Topic-Package.md",
+  "fabrication_policy": "No fact is introduced that is not present in the owners above. Inferred PYQ keys are labelled inferred on the canvas."
+ },
+ "canvas": {
+  "width_px": 4800,
+  "height_px": 24513,
+  "dpi": 300,
+  "margin_px": 110,
+  "rail_x_px": 250,
+  "card_x0_px": 520,
+  "card_x1_px": 4690,
+  "card_padding_px": 46,
+  "stage_gap_px": 64
+ },
+ "palette": {
+  "cyan": [
+   68,
+   211,
+   255
+  ],
+  "teal": [
+   65,
+   228,
+   193
+  ],
+  "amber": [
+   255,
+   178,
+   91
+  ],
+  "yellow": [
+   255,
+   225,
+   122
+  ],
+  "magenta": [
+   230,
+   144,
+   255
+  ],
+  "green": [
+   126,
+   231,
+   135
+  ],
+  "red": [
+   255,
+   138,
+   128
+  ],
+  "white": [
+   237,
+   246,
+   251
+  ],
+  "dim": [
+   156,
+   180,
+   200
+  ],
+  "grey": [
+   150,
+   168,
+   185
+  ],
+  "background": [
+   7,
+   20,
+   33
+  ],
+  "card": [
+   16,
+   40,
+   61
+  ],
+  "card_title": [
+   11,
+   38,
+   58
+  ],
+  "card_extra": [
+   13,
+   26,
+   40
+  ],
+  "answer_fill": [
+   43,
+   37,
+   55
+  ]
+ },
+ "typography": {
+  "family": "Segoe UI / Segoe UI Bold",
+  "poster_title_px": 72,
+  "stage_title_px": 55,
+  "section_head_px": 34,
+  "body_px": 30,
+  "pill_px": 29,
+  "matrix_px": 27
+ },
+ "block_vocabulary": {
+  "cols": "n-column branch with coloured section heads and compact bullets",
+  "pills": "wrapped rows of decisive keyword chips",
+  "chain": "horizontal causal chain of boxes with arrows",
+  "panels": "institution-versus-function split with a centre relation label",
+  "replace": "before/after institutional replacement with a large transfer arrow and continuity caution",
+  "matrix": "comparison / repair / commenced-versus-not-commenced table",
+  "timeline": "dated horizontal bridge strip",
+  "ladder": "stepped vertical progression of a single institution",
+  "band": "labelled mechanism, bridge, trap, source-caution or PYQ band",
+  "answer": "magenta answer-grabbing line",
+  "row": "side-by-side container for two heterogeneous blocks"
+ },
+ "outputs": {
+  "master_png": "master.png",
+  "poster_pdf": "Polity01_Continuous-At-a-Glance_g9_Poster_2026-08-22.pdf",
+  "tiled_pdf": "Polity01_Continuous-At-a-Glance_g9_Tiled_2026-08-22.pdf",
+  "tiles": 9,
+  "tile_height_px": 3242,
+  "tile_overlap_px": 583,
+  "tile_crops": [
+   {
+    "tile": 1,
+    "box": [
+     0,
+     0,
+     4800,
+     3242
+    ],
+    "sha256": "5D5BC550936C0F918545A8213E77A50999BF972C7AA01350C51F6CC9AC7D2190"
+   },
+   {
+    "tile": 2,
+    "box": [
+     0,
+     2659,
+     4800,
+     5901
+    ],
+    "sha256": "8B645758C08C078C023267002BC583A3A0393E4FB6C1481E002A522F48C34747"
+   },
+   {
+    "tile": 3,
+    "box": [
+     0,
+     5318,
+     4800,
+     8560
+    ],
+    "sha256": "FA26A5A27A618F527556FD8B7726BC0DEADD1E82A8B627E2D8027DC38E35D6F2"
+   },
+   {
+    "tile": 4,
+    "box": [
+     0,
+     7977,
+     4800,
+     11219
+    ],
+    "sha256": "918EAB367467A9A99604AD2DC42CED123821D06ABA27DE3DF2CD04176EC952AF"
+   },
+   {
+    "tile": 5,
+    "box": [
+     0,
+     10636,
+     4800,
+     13878
+    ],
+    "sha256": "E1A5EA853DEE7FE751D62825C0CB09931B6315A33E1F5D23A7A0112F01EA5D30"
+   },
+   {
+    "tile": 6,
+    "box": [
+     0,
+     13294,
+     4800,
+     16536
+    ],
+    "sha256": "E547254688040E5E942D3377EFABCE795EC72E0E26BDA0FABBF21CD0CF9F31B5"
+   },
+   {
+    "tile": 7,
+    "box": [
+     0,
+     15953,
+     4800,
+     19195
+    ],
+    "sha256": "C6C945FACB3C8B30747DA749C78E103CE91AEAAB836C870B9A7BD857BA20A6BC"
+   },
+   {
+    "tile": 8,
+    "box": [
+     0,
+     18612,
+     4800,
+     21854
+    ],
+    "sha256": "139C9F92AEAC0CA4C26B8696B52D415FBA78EAA256E149D8F38B6C06EDAB716F"
+   },
+   {
+    "tile": 9,
+    "box": [
+     0,
+     21271,
+     4800,
+     24513
+    ],
+    "sha256": "C34B6EA9725466B8C727163BCB9F5FBCD7FB9D81C054064E06B9CE677CD685DA"
+   }
+  ]
+ },
+ "header": {
+  "title": "POLITY 01 — HISTORICAL BACKGROUND OF THE INDIAN CONSTITUTION",
+  "subtitle": "ONE CONTINUOUS AT-A-GLANCE MASTER FLOW  •  CORE BEFORE EXTRA  •  COMPANY TRADE → PARLIAMENTARY CONTROL → DUAL CONTROL → CROWN RULE → ASSOCIATION → REPRESENTATION → PROVINCIAL RESPONSIBILITY → FEDERAL ARCHITECTURE → SOVEREIGNTY",
+  "note": "Read the thick cyan rail from top to bottom. Each numbered stage carries its own layout: causal chain, institution-versus-function split, before/after replacement, repair matrix, reserved-versus-transferred comparison, commenced-versus-not-commenced ledger, timeline bridge and synthesis matrix. The 15-stage core is complete before the lighter enrichment band begins.",
+  "legend": [
+   {
+    "t": "PRIMARY CORE FLOW",
+    "c": "cyan"
+   },
+   {
+    "t": "CROWN-RULE PIVOT",
+    "c": "yellow"
+   },
+   {
+    "t": "SUBORDINATE ENRICHMENT",
+    "c": "grey"
+   }
+  ],
+  "key": "AMBER headings = sourced statutory provisions  •  CYAN headings = mechanism and analysis  •  RED headings = defects, limits and traps  •  MAGENTA band = answer-grabbing line",
+  "approval": "Approval: FALSE • Pending user review • Prior artefacts, including generation g8, unchanged"
+ },
+ "footer": "END OF MASTER CANVAS  •  THE SAME CANVAS IS CROPPED WITH OVERLAP INTO THE TILED PDF  •  POLITY 01 · GENERATION g9 · APPROVAL FALSE",
+ "stages": [
+  {
+   "n": "0",
+   "kind": "core",
+   "title": "IDENTITY + SOURCE CAUTION — WHAT THIS TOPIC ACTUALLY IS",
+   "height_px": 1381,
+   "layout_signature": [
+    "cols3",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "CONSTITUTIONAL EVOLUTION, NOT A MEMORISED ACT LIST",
+    "COMPANY RULE 1773–1858",
+    "CROWN RULE 1858–1947",
+    "RESPONSIBLE GOVERNMENT = EXECUTIVE REMOVABLE BY THE LEGISLATURE",
+    "PROVIDED ≠ OPERATED",
+    "ASSOCIATION ≠ REPRESENTATION ≠ RESPONSIBILITY"
+   ],
+   "blocks": [
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT THE SYLLABUS OWNS",
+       "c": "amber",
+       "items": [
+        "**Mains GS-II:** historical underpinnings and evolution of the Constitution.",
+        "**Prelims GS-I:** Indian Polity and Governance.",
+        "GS-I Modern History uses are **adjacent and cross-owned**, not a separate syllabus claim.",
+        "This is a **high-frequency static constitutional chapter**; no current-affairs insertion is evidentiary here."
+       ]
+      },
+      {
+       "h": "THE FOUR-QUESTION READING RULE",
+       "c": "cyan",
+       "items": [
+        "Read **every statute** through four questions, in this order.",
+        "**1. Who controlled the executive?**",
+        "**2. Who made law?**",
+        "**3. Who paid?**",
+        "**4. Who was represented?**",
+        "A date without an answer to one of these four earns nothing."
+       ]
+      },
+      {
+       "h": "THREE WORDS UPSC KEEPS APART",
+       "c": "red",
+       "items": [
+        "**Company rule** — corporate government under progressively tighter parliamentary supervision, 1773–1858.",
+        "**Crown rule** — Secretary of State for India plus Viceroy, from 1858; a change of sovereign, not of democracy.",
+        "**Responsible government** — an executive politically answerable to, and removable through, the representative legislature. Never granted at the centre before 1947."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "yellow",
+     "title": "FIRST-USE TERMINOLOGY — WRITE THESE EXACT MEANINGS",
+     "widths": [
+      0.17,
+      0.83
+     ],
+     "headers": [
+      "TERM",
+      "EXAM-SAFE ENGLISH MEANING"
+     ],
+     "rows": [
+      [
+       "Diwani",
+       "Revenue-administration and civil-justice authority granted to the Company in 1765 over Bengal, Bihar and Orissa."
+      ],
+      [
+       "Dyarchy",
+       "Dual government: subjects divided between responsible ministers and an executive authority not responsible to the legislature."
+      ],
+      [
+       "Paramountcy",
+       "The British Crown's superior authority over the princely states."
+      ],
+      [
+       "Separate electorate",
+       "A community-specific electoral roll in which community voters elect community representatives."
+      ],
+      [
+       "Reserved seat",
+       "A seat earmarked for a community, capable of operating **within a common or joint electorate**."
+      ],
+      [
+       "Responsible government",
+       "An executive politically answerable to, and removable through, the representative legislature."
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "SOURCE CAUTION →",
+     "c": "red",
+     "outline": true,
+     "text": "Two different failures lose marks here. Narrating conquest instead of constitutional design is one; listing statutes without naming the institution each created is the other. Every claim below is anchored to a named provision, and every operational limit is stated explicitly because UPSC tests the gap between what a statute **provided** and what actually **operated**."
+    },
+    {
+     "type": "answer",
+     "text": "The historical background of the Constitution is the gradual conversion of a revenue-seeking Company state into a centralised colonial administration and, finally, a sovereign democratic Constitution."
+    }
+   ]
+  },
+  {
+   "n": "1",
+   "kind": "core",
+   "title": "PRE-1773 — THE CORPORATE STATE: TRADE BECOMES TERRITORIAL REVENUE POWER",
+   "height_px": 1142,
+   "layout_signature": [
+    "chain",
+    "cols3",
+    "band"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "1600 CHARTER = TRADE, NOT SOVEREIGNTY",
+    "QUEEN ELIZABETH I",
+    "1765 DIWANI = REVENUE + CIVIL JUSTICE",
+    "BENGAL, BIHAR, ORISSA",
+    "BENGAL DUAL GOVERNMENT 1765–72",
+    "CROWN RULE ONLY IN 1858"
+   ],
+   "blocks": [
+    {
+     "type": "chain",
+     "per_row": 4,
+     "items": [
+      {
+       "t": "1600 — CHARTER",
+       "s": "East India Company enters India as a trading corporation under the charter of Queen Elizabeth I.",
+       "c": "cyan"
+      },
+      {
+       "t": "1757 — PLASSEY",
+       "s": "Supplies political leverage; the Company begins to intervene in government.",
+       "c": "cyan"
+      },
+      {
+       "t": "1764 — BUXAR",
+       "s": "Supplies military superiority; a durable coercive base.",
+       "c": "cyan"
+      },
+      {
+       "t": "1765 — DIWANI",
+       "s": "Revenue and civil-justice authority in Bengal, Bihar and Orissa. A private corporation now exercises public power.",
+       "c": "amber"
+      },
+      {
+       "t": "1765–72 — BENGAL DUAL GOVERNMENT",
+       "s": "Company holds effective revenue power; the Nawab retains nominal responsibility. Power without answerability.",
+       "c": "magenta"
+      },
+      {
+       "t": "1772 — DUAL GOVERNMENT ENDED",
+       "s": "The Company assumes open responsibility for Bengal administration.",
+       "c": "teal"
+      },
+      {
+       "t": "1772 — LOAN APPLICATION",
+       "s": "Court of Directors applies to the British government for a loan; financial mismanagement is exposed to Parliament.",
+       "c": "yellow"
+      },
+      {
+       "t": "1773 — PARLIAMENT ACTS",
+       "s": "A Parliamentary Secret Committee and a Select Committee of enquiry (April 1772) lead directly to the Regulating Act.",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT DIWANI ACTUALLY GAVE",
+       "c": "amber",
+       "items": [
+        "Revenue and civil-justice authority in **Bengal, Bihar and Orissa** — it did **not** begin Crown rule.",
+        "Converted intermittent military success into a **durable fiscal-administrative state**.",
+        "Made the Company a **territorial power** while its legal identity remained a chartered trading corporation."
+       ]
+      },
+      {
+       "h": "THE ACCOUNTABILITY GAP",
+       "c": "cyan",
+       "items": [
+        "Bengal's Dual Government **separated effective power from nominal responsibility**: the Company collected, the Nawab answered.",
+        "Parliament's problem was therefore **constitutional, not moral**: a private corporation exercised sovereign functions with no public accountability chain."
+       ]
+      },
+      {
+       "h": "WHY PARLIAMENT COULD NOT WAIT",
+       "c": "cyan",
+       "items": [
+        "**Fiscal trigger:** the 1772 loan application exposed the Company's finances to parliamentary scrutiny.",
+        "**Patronage trigger:** returning 'Nabobs' converted Indian wealth into domestic political influence, alarming Parliament.",
+        "The documented drivers were **fiscal crisis, patronage anxiety and a demand for accountability** — not humanitarian concern."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "TRAP →",
+     "c": "red",
+     "outline": true,
+     "text": "Diwani did **not** begin direct Crown government, and Plassey alone did not create a colonial state. Plassey created leverage; Buxar and Diwani supplied the coercive and fiscal foundations. Crown government begins only in **1858**. These events are constitutional **background**, not constitutional statutes — do not narrate eighteenth-century conquest."
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "kind": "core",
+   "title": "REGULATING ACT 1773 — FIRST PARLIAMENTARY CONSTITUTION FOR COMPANY GOVERNMENT",
+   "height_px": 1187,
+   "layout_signature": [
+    "panels2",
+    "band",
+    "answer"
+   ],
+   "pill_count": 8,
+   "pills": [
+    "GOVERNOR-GENERAL OF BENGAL — NOT OF INDIA",
+    "NOT GOVERNOR-GENERAL OF INDIA",
+    "WARREN HASTINGS — FIRST",
+    "FOUR-MEMBER EXECUTIVE COUNCIL",
+    "BOMBAY + MADRAS SUBORDINATED",
+    "SUPREME COURT AT CALCUTTA — 1774",
+    "1 CHIEF JUSTICE + 3 JUDGES",
+    "COURT OF DIRECTORS MUST REPORT"
+   ],
+   "blocks": [
+    {
+     "type": "panels",
+     "mid": "CENTRALISATION WITHOUT RESPONSIBILITY",
+     "mid2": "Institutions were created; a chain of political answerability was not.",
+     "panels": [
+      {
+       "h": "WHAT THE ACT BUILT",
+       "c": "teal",
+       "sub": "Parliament's first major statutory intervention in Company government.",
+       "items": [
+        "**Governor-General of Bengal** with a four-member Executive Council; first holder **Warren Hastings**.",
+        "Governors of **Bombay and Madras made subordinate** to the Governor-General of Bengal in specified matters — notably war and peace.",
+        "**Supreme Court at Calcutta**, one Chief Justice and three judges, functioning from **1774**.",
+        "Company servants **barred from private trade and from accepting presents or bribes**.",
+        "**Court of Directors** required to report **revenue, civil and military** affairs to the British government."
+       ]
+      },
+      {
+       "h": "DEFECTS THE ACT LEFT BEHIND",
+       "c": "red",
+       "sub": "Each defect names the later statute that repaired it.",
+       "items": [
+        "**No responsible government:** no Indian representation and no executive answerable to any legislature.",
+        "**Council arithmetic:** the four-member Council gave the Governor-General no tie-breaking advantage beyond a casting vote usable only on an even split. Hastings was regularly outvoted three-to-one on Bengal policy in 1774–76; the deadlock ended only when Monson died in 1776 — chance, not a statutory fix. Repaired by **1784's smaller council and the 1786 override**.",
+        "**Undefined jurisdiction:** the Supreme Court's authority over Company servants' official acts and the Diwani-derived Adalats was left dangerously vague, producing the **Nand Kumar (1775), Patna (1777–79) and Cossijurah (1779–80)** collisions. Repaired by **1781**.",
+        "**Weak supervision:** a mere reporting duty owed by the Court of Directors gave Parliament **disclosure, not control**. Repaired by **1784**.",
+        "**Partial subordination:** Bombay and Madras were subordinate only in specified matters, so central control remained incomplete."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "MECHANISM →",
+     "c": "cyan",
+     "text": "The statute began **centralisation and judicialisation** simultaneously — one central executive office and one royal court — but it supplied no rule for resolving conflict either **inside** the executive or **between** executive and court. Every subsequent Company-era statute until 1858 is a repair of one of those two unresolved relationships."
+    },
+    {
+     "type": "answer",
+     "text": "The Regulating Act 1773 was Parliament's first constitutional response to the mismatch between the Company's territorial power and its public accountability."
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "kind": "core",
+   "title": "AMENDING (SETTLEMENT) ACT 1781 — A NARROW, EXACT JURISDICTIONAL REPAIR",
+   "height_px": 1167,
+   "layout_signature": [
+    "matrix",
+    "cols3",
+    "band"
+   ],
+   "pill_count": 5,
+   "pills": [
+    "OFFICIAL ACTS EXEMPTED",
+    "REVENUE MATTERS EXCLUDED",
+    "HINDU LAW TO HINDUS, MUSLIM LAW TO MUSLIMS",
+    "APPEALS → GOVERNOR-GENERAL-IN-COUNCIL",
+    "JURISDICTION REPAIR ≠ EXECUTIVE REPAIR"
+   ],
+   "blocks": [
+    {
+     "type": "matrix",
+     "c": "teal",
+     "widths": [
+      0.19,
+      0.38,
+      0.43
+     ],
+     "headers": [
+      "POINT OF COLLISION",
+      "POSITION LEFT BY 1773",
+      "EXACT 1781 REPAIR"
+     ],
+     "rows": [
+      [
+       "Executive vs court",
+       "Governor-General-in-Council and Company servants exposed to Supreme Court process for acts done in office.",
+       "**Exempted** the Governor-General-in-Council's own official acts, and Company servants' acts done in an official or public capacity, from Supreme Court jurisdiction."
+      ],
+      [
+       "Revenue",
+       "Revenue administration open to Supreme Court interference — the Cossijurah flashpoint.",
+       "**Excluded revenue-collection matters entirely**, routing them to the Company's own revenue courts with appeal before the Governor-General-in-Council."
+      ],
+      [
+       "Which law for whom",
+       "Uncertain application of personal law to Calcutta's inhabitants.",
+       "Directed the Supreme Court to apply **Hindu law to Hindus and Muslim law to Muslims** in personal-law matters — marriage, inheritance, caste usage and religious practice."
+      ],
+      [
+       "Appeals",
+       "No settled route from provincial Company courts — the Patna Case flashpoint.",
+       "Appeals from **provincial courts routed to the Governor-General-in-Council** (and the Sadar Diwani Adalat), not to the Supreme Court."
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT IT REPAIRED",
+       "c": "green",
+       "items": [
+        "Removed the **disputed zone** between the royal court and the Company's Diwani-derived judicial system.",
+        "Protected the **capacity to administer revenue** free from ordinary civil-court interference.",
+        "Gave the executive a defensible legal shield for official action."
+       ]
+      },
+      {
+       "h": "WHAT IT DID NOT REPAIR",
+       "c": "red",
+       "items": [
+        "It corrected **Supreme Court jurisdiction only**.",
+        "It did **not** resolve the Council's three-to-one deadlock — that needed **1784's smaller council and 1786's override power**.",
+        "It did **not** transfer general appellate authority in provincial matters to the Supreme Court, and it did **not** establish modern judicial review.",
+        "It gave Indians no share in legislation or executive power."
+       ]
+      },
+      {
+       "h": "HOW TO USE IT IN AN ANSWER",
+       "c": "cyan",
+       "items": [
+        "Treat 1781 as evidence of **institutional improvisation**, not of a settled separation of powers.",
+        "Keep **jurisdiction correction** and **executive deadlock correction** as two entirely separate statutory fixes arriving in different Acts and different years."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "BRIDGE →",
+     "c": "yellow",
+     "text": "1781 repaired the courts. It left untouched the deeper question of **who in London actually controlled Indian government**. The next statute answers that question by splitting the control chain itself."
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "kind": "core",
+   "title": "PITT'S INDIA ACT 1784 (+ THE ACT OF 1786) — DOUBLE GOVERNMENT: THE INSTITUTIONAL SPLIT",
+   "height_px": 1567,
+   "layout_signature": [
+    "panels2",
+    "row(chain+cols)",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 8,
+   "pills": [
+    "COMMERCIAL vs POLITICAL FUNCTIONS DISTINGUISHED",
+    "BOARD OF CONTROL",
+    "COURT OF DIRECTORS RETAINED",
+    "DOUBLE GOVERNMENT / DUAL CONTROL",
+    "“SUPERINTEND, DIRECT AND CONTROL”",
+    "“BRITISH POSSESSIONS IN INDIA” — FIRST TIME",
+    "SECRET COMMITTEE TRANSMISSION",
+    "1786 — OVERRIDE + COMMANDER-IN-CHIEF"
+   ],
+   "blocks": [
+    {
+     "type": "panels",
+     "mid": "DOUBLE GOVERNMENT 1784–1858",
+     "mid2": "Two bodies in London, one administration in India. Policy control moved to the British state while operational machinery stayed corporate.",
+     "panels": [
+      {
+       "h": "BOARD OF CONTROL — POLITICAL SIDE",
+       "c": "yellow",
+       "sub": "The British Government's own instrument, created in 1784.",
+       "items": [
+        "Empowered in the Act's own phrasing to **“superintend, direct and control”** the government of the Company's possessions.",
+        "Covered the **political, civil, military and revenue** government of the territories — the whole of public administration.",
+        "Constituted as a board of **six commissioners**, including a **Secretary of State** and the **Chancellor of the Exchequer**.",
+        "Board orders binding on Indian administration were **transmitted to the Court of Directors through a Secret Committee of Directors**, providing a channel for urgent or confidential orders without full deliberation by the whole Court.",
+        "Result: the **British Government acquired supreme control** over Indian administration."
+       ]
+      },
+      {
+       "h": "COURT OF DIRECTORS — COMMERCIAL SIDE",
+       "c": "teal",
+       "sub": "The Company's own body — retained, not abolished, in 1784.",
+       "items": [
+        "Retained **commercial administration** of the Company and its **patronage**.",
+        "The Company's **trade monopoly remained fully intact** under this Act, in exchange for accepting the new political superintendence.",
+        "The Company's governing council in India was **reduced in size**, curing part of the 1773 deadlock defect.",
+        "The Court of Directors **continued until 1858** — Pitt's Act did not abolish Company rule.",
+        "Consequence: the Crown could direct policy **without nationalising Company assets or assuming its fiscal liabilities**."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "children": [
+      {
+       "w": 0.52,
+       "block": {
+        "type": "chain",
+        "per_row": 2,
+        "items": [
+         {
+          "t": "ACT OF 1786",
+          "s": "Lord Cornwallis appointed Governor-General with power to OVERRIDE his own council, and additionally made Commander-in-Chief.",
+          "c": "red"
+         },
+         {
+          "t": "CHARTER ACT 1793",
+          "s": "The override power is extended to all future Governors-General and Governors; Board of Control staff paid from Indian revenues.",
+          "c": "amber"
+         }
+        ]
+       }
+      },
+      {
+       "w": 0.48,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "EXACT CONSEQUENCE",
+          "c": "cyan",
+          "items": [
+           "The Act **first described the Company's territories as “British possessions in India”**.",
+           "Executive command was strengthened **faster than legislative accountability** — the 1786 override precedes any Indian legislative voice by three-quarters of a century.",
+           "Dual control was a genuine **accountability ambiguity**, not merely an administrative arrangement."
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT PITT'S ACT DID NOT DO",
+       "c": "red",
+       "items": [
+        "It did **not** transfer India to the Crown — that is **1858**.",
+        "It did **not** create cabinet responsibility in India.",
+        "It did **not** abolish the Company or its monopoly."
+       ]
+      },
+      {
+       "h": "CLOSE-OPTION CONTROL",
+       "c": "red",
+       "items": [
+        "Wrong: the Board of Control managed only Company trade. **Correct:** it supervised political, civil, military and revenue affairs; **trade stayed with the Court of Directors**.",
+        "**Dual control (1784–1858)** in London is not **Bengal's Dual Government (1765–72)**. Different bodies, different countries, different century-problems."
+       ]
+      },
+      {
+       "h": "WHY THIS STAGE DECIDES MARKS",
+       "c": "cyan",
+       "items": [
+        "1784 is the only statute where the examiner can test a **clean two-column institutional split**: name the body, name its function, name what it did not touch.",
+        "It is also the design that **1858 abolishes wholesale** — so this split is the 'before' picture of the Crown-rule diagram."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "text": "Pitt's India Act 1784 created dual control: Company directors retained commercial administration while the British government, through the Board of Control, acquired supreme political supervision."
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "kind": "core",
+   "title": "CHARTER ACTS 1793 AND 1813 — MONOPOLY RENEWED, THEN LOST EXCEPT TEA AND CHINA",
+   "height_px": 1299,
+   "layout_signature": [
+    "matrix",
+    "chain",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 8,
+   "pills": [
+    "1793 — MONOPOLY EXTENDED 20 YEARS",
+    "BOARD OF CONTROL STAFF PAID FROM INDIAN REVENUES",
+    "1813 — MONOPOLY ENDS",
+    "EXCEPT TEA AND TRADE WITH CHINA",
+    "CROWN SOVEREIGNTY ASSERTED",
+    "MISSIONARIES PERMITTED",
+    "ONE LAKH RUPEES ANNUALLY FOR EDUCATION",
+    "LOCAL GOVERNMENTS MAY IMPOSE TAXES"
+   ],
+   "blocks": [
+    {
+     "type": "matrix",
+     "c": "amber",
+     "widths": [
+      0.16,
+      0.42,
+      0.42
+     ],
+     "headers": [
+      "DIMENSION",
+      "CHARTER ACT 1793",
+      "CHARTER ACT 1813"
+     ],
+     "rows": [
+      [
+       "Trade",
+       "Company's commercial **monopoly extended for a further twenty years**.",
+       "**Ended the Company's monopoly over Indian trade, opening it to all British merchants — except trade in tea and trade with China.**"
+      ],
+      [
+       "Constitutional claim",
+       "Existing control consolidated; the 1786 override extended to all future Governors-General and Governors.",
+       "**Expressly asserted the sovereignty of the British Crown** over the Indian territories held by the Company."
+      ],
+      [
+       "Money",
+       "**Board of Control staff paid from Indian revenues** — British supervision financed by Indian taxpayers.",
+       "Local governments in India empowered to **impose taxes**."
+      ],
+      [
+       "Education and mission",
+       "No comparable opening.",
+       "Sanctioned **one lakh rupees annually** for education and the encouragement of learning; **permitted Christian missionaries**."
+      ]
+     ]
+    },
+    {
+     "type": "chain",
+     "per_row": 5,
+     "items": [
+      {
+       "t": "1793 — MONOPOLY RENEWED",
+       "s": "Company's commercial monopoly extended twenty years; the dual-control machinery of 1784 consolidated.",
+       "c": "teal"
+      },
+      {
+       "t": "BRITISH FREE-TRADE PRESSURE",
+       "s": "Industrial and mercantile interests in Britain demand entry to the Indian market.",
+       "c": "cyan"
+      },
+      {
+       "t": "1813 — MONOPOLY BROKEN",
+       "s": "Indian trade thrown open to all British merchants; tea and the China trade kept back.",
+       "c": "amber"
+      },
+      {
+       "t": "SOVEREIGNTY ASSERTED",
+       "s": "The same statute expressly declares the sovereignty of the British Crown over the Company's Indian territories.",
+       "c": "yellow"
+      },
+      {
+       "t": "STATE ENTERS SOCIETY",
+       "s": "Missionaries permitted; one lakh rupees annually for education — the state begins acting on Indian society.",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHY BOTH STATUTES MATTER",
+       "c": "cyan",
+       "items": [
+        "**Three pressures converged in one statute:** British free-trade interests wanted the Indian market, missionary lobbies wanted entry, and the imperial state wanted an unambiguous claim of sovereignty.",
+        "The direction of travel is therefore **economic opening plus constitutional tightening at the same moment** — commerce liberalised while sovereignty was asserted.",
+        "Crown **sovereignty** is asserted in 1813; Crown **rule** begins only in 1858. Hold the two apart."
+       ]
+      },
+      {
+       "h": "LIMITS — STATE THEM EXPLICITLY",
+       "c": "red",
+       "items": [
+        "The education grant **did not settle the Orientalist–Anglicist controversy** and did not itself create mass education.",
+        "Parliament did **not** thereby take direct control of Indian revenues.",
+        "Wrong: 1813 ended every Company monopoly. **Correct:** tea and China trade remained exceptions."
+       ]
+      },
+      {
+       "h": "PYQ CONTROL — 2019 PRELIMS GS-I Q4",
+       "c": "yellow",
+       "items": [
+        "Statement 1 (monopoly ended except tea and China) — **correct**.",
+        "Statement 2 (Crown sovereignty asserted) — **correct**.",
+        "Statement 3 (revenues of India now controlled by the British Parliament) — **overstated, therefore false**.",
+        "**Answer: (a) 1 and 2 only.** Official key unavailable locally; inferred, high confidence. True routing owner: Modern Indian History Topic 06."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "text": "The Charter Acts 1793 and 1813 show that monopoly could be renewed even as Crown sovereignty and regulated commercial opening advanced."
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "kind": "core",
+   "title": "CHARTER ACT 1833 — THE ALL-INDIA STATE: FINAL STEP OF CENTRALISATION",
+   "height_px": 1210,
+   "layout_signature": [
+    "replace",
+    "cols3",
+    "band"
+   ],
+   "pill_count": 9,
+   "pills": [
+    "GOVERNOR-GENERAL OF BENGAL → OF INDIA",
+    "WILLIAM BENTINCK — FIRST",
+    "GOVERNMENT OF INDIA CREATED",
+    "BOMBAY + MADRAS LOSE LEGISLATIVE POWER",
+    "“REGULATIONS” → “ACTS”",
+    "COMPANY BECOMES PURELY ADMINISTRATIVE",
+    "TERRITORIES HELD “IN TRUST FOR HIS MAJESTY”",
+    "LAW MEMBER — MACAULAY",
+    "FIRST LAW COMMISSION 1834"
+   ],
+   "blocks": [
+    {
+     "type": "replace",
+     "arrow": "ONE GOVERNMENT FOR ALL BRITISH INDIA",
+     "before": {
+      "h": "BEFORE 1833",
+      "c": "red",
+      "items": [
+       "**Governor-General of Bengal** — a presidency office with partial supervisory reach.",
+       "Three presidencies **legislating separately**; presidency law-making called **Regulations**.",
+       "Company still a **trading corporation** that also governed territory.",
+       "Civil-service entry effectively by **patronage** of the Court of Directors."
+      ]
+     },
+     "after": {
+      "h": "AFTER 1833",
+      "c": "green",
+      "items": [
+       "**Governor-General of India** with all civil and military powers; first holder **Lord William Bentinck**.",
+       "A single **Government of India** over all British India; **Bombay and Madras lose legislative powers**; central law is now called **Acts**.",
+       "Company becomes a **purely administrative body**, holding territories **“in trust for His Majesty”** — its commercial character ends.",
+       "A fourth, **Law Member** added to the Council — **Macaulay** the first — and the **first Law Commission (1834)** follows."
+      ]
+     },
+     "note": "The 1833 Act attempted **open competition** for the civil services, but the attempt was **negated by the Court of Directors' opposition**; and its **equality clause did not produce equal recruitment in practice**. Centralisation was real; merit and equality remained rhetoric until later statutes and, in substance, long after."
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "LAW AND CODIFICATION",
+       "c": "amber",
+       "items": [
+        "The Law Member plus the Law Commission converted colonial rule into a **codifying, legislating state**.",
+        "Renaming presidency **Regulations** as central **Acts** is not cosmetic: it marks the **legislative monopoly of one all-India authority**."
+       ]
+      },
+      {
+       "h": "WHY THIS IS THE 'ALL-INDIA STATE' SHIFT",
+       "c": "cyan",
+       "items": [
+        "Before 1833 the Company governed **territories**; after 1833 it administers a **single state** with one legislature and one executive head.",
+        "Centralisation, codification and merit rhetoric together built a **professional state**, while racial and imperial constraints limited equality."
+       ]
+      },
+      {
+       "h": "WHAT DID NOT CHANGE",
+       "c": "red",
+       "items": [
+        "**No Indian representation** and no responsible government.",
+        "**Company government continued** — abolition belongs to **1858**, not 1833 and not 1853.",
+        "Wrong: open competition was fully realised in 1833. **Correct:** the 1833 opening was frustrated; 1853 established open competition in principle."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "PYQ CONTROL →",
+     "c": "yellow",
+     "outline": true,
+     "text": "**2023 Prelims GS-I Q50** — by which Act was the Governor-General of Bengal designated Governor-General of India? **Answer: (d) The Charter Act of 1833.** William Bentinck was the first. Official key unavailable locally; inferred, very high confidence. True routing owner: Modern Indian History Topic 06."
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "kind": "core",
+   "title": "CHARTER ACT 1853 — LAST CHARTER ACT: FUNCTION SPLIT, COMPETITION, NO FIXED TERM",
+   "height_px": 1397,
+   "layout_signature": [
+    "ladder",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 9,
+   "pills": [
+    "LEGISLATIVE AND EXECUTIVE FUNCTIONS SEPARATED",
+    "SIX NEW LEGISLATIVE COUNCILLORS",
+    "INDIAN (CENTRAL) LEGISLATIVE COUNCIL",
+    "“MINI-PARLIAMENT”",
+    "OPEN COMPETITION FOR CIVIL SERVICE",
+    "OPEN TO INDIANS",
+    "MACAULAY COMMITTEE 1854",
+    "4 OF 6 FROM MADRAS, BOMBAY, BENGAL, AGRA",
+    "NO FIXED RENEWAL TERM"
+   ],
+   "blocks": [
+    {
+     "type": "ladder",
+     "indent": 80,
+     "steps": [
+      {
+       "t": "GOVERNOR-GENERAL'S COUNCIL BEFORE 1853",
+       "s": "One body performing executive administration and law-making together — legislation was an incident of executive business.",
+       "c": "red"
+      },
+      {
+       "t": "1853 SPLITS THE FUNCTIONS",
+       "s": "The legislative and executive work of the Governor-General's Council is separated for the first time.",
+       "c": "amber"
+      },
+      {
+       "t": "SIX NEW LEGISLATIVE COUNCILLORS ADDED",
+       "s": "A differentiated central legislative council — the Indian (Central) Legislative Council — begins to behave like a deliberative chamber and is sometimes described as a 'mini-Parliament'.",
+       "c": "cyan"
+      },
+      {
+       "t": "FOUR OF THE SIX REPRESENT MADRAS, BOMBAY, BENGAL AND AGRA",
+       "s": "The first appearance of local representation inside central law-making — territorial, not popular, and by nomination.",
+       "c": "teal"
+      },
+      {
+       "t": "LEGISLATION BECOMES A DISTINCT STATE FUNCTION",
+       "s": "Law-making is now differentiated from executive administration and from patronage. This is the institutional ancestor of every later legislative-council reform.",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "OPEN COMPETITION — THE SERVICE STATE",
+       "c": "amber",
+       "items": [
+        "Introduced **open competition** for the civil service, **open to Indians**, ending recruitment purely by directors' patronage in principle.",
+        "The **Macaulay Committee of 1854** on the civil service followed directly.",
+        "1833 attempted competition and was frustrated; **1853 establishes the principle**. Keep the two Acts distinct."
+       ]
+      },
+      {
+       "h": "TENURE — THE POLITICAL TIME-BOMB",
+       "c": "red",
+       "items": [
+        "Company rule was extended **without a fixed renewal term**, so **Parliament could end it at any time**.",
+        "This is the last Charter Act; there is no 1873 renewal to look for.",
+        "Wrong: 1853 ended Company government. **Correct:** it made Company tenure provisional; government ended in **1858**."
+       ]
+      },
+      {
+       "h": "BRIDGE TO CROWN TAKEOVER",
+       "c": "cyan",
+       "items": [
+        "The Revolt of 1857 supplied the **occasion** for transfer; the 1853 tenure clause supplied the **legal ease**.",
+        "By 1853 the Company had already lost its **commerce (1833)** and its **security of tenure (1853)**. Only the shell of corporate government remained for 1858 to remove."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "text": "The Charter Acts 1833 and 1853 completed legislative centralisation, ended the Company's commercial character and differentiated law-making from executive administration and patronage."
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "kind": "pivot",
+   "title": "GOVERNMENT OF INDIA ACT 1858 — CROWN RULE BEGINS",
+   "height_px": 1365,
+   "layout_signature": [
+    "replace",
+    "chain",
+    "band",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 9,
+   "pills": [
+    "“ACT FOR THE GOOD GOVERNMENT OF INDIA”",
+    "EAST INDIA COMPANY ABOLISHED",
+    "DOUBLE GOVERNMENT ENDED",
+    "SECRETARY OF STATE FOR INDIA",
+    "MEMBER OF THE BRITISH CABINET",
+    "COUNCIL OF INDIA — 15 MEMBERS, ADVISORY",
+    "GOVERNOR-GENERAL ALSO STYLED VICEROY",
+    "LORD CANNING — FIRST VICEROY",
+    "AFTER THE REVOLT OF 1857"
+   ],
+   "blocks": [
+    {
+     "type": "replace",
+     "arrow": "TRANSFER OF GOVERNMENT TO THE BRITISH CROWN, 1858",
+     "before": {
+      "h": "ABOLISHED IN 1858",
+      "c": "red",
+      "items": [
+       "The **East India Company** as a governing body — power transferred to the British Crown.",
+       "The **Court of Directors**.",
+       "The **Board of Control**.",
+       "The whole **double government / dual control** design created around 1784 and operating since."
+      ]
+     },
+     "after": {
+      "h": "CREATED IN 1858",
+      "c": "green",
+      "items": [
+       "**Secretary of State for India** — a member of the British Cabinet, holding direct responsibility for Indian government.",
+       "**Council of India** — fifteen members in the original arrangement, assisting the Secretary of State.",
+       "**Viceroy** — the Governor-General of India additionally becomes the direct representative of the Crown; **Lord Canning** the first.",
+       "A single, undivided **imperial line of command** replacing two competing London bodies."
+      ]
+     },
+     "note": "Administrative personnel, machinery and habits **substantially continued** across 1858. The Act changed the **sovereign and the supervision architecture**; it was not a total institutional rupture, and it created **no Indian popular responsibility whatever**."
+    },
+    {
+     "type": "chain",
+     "per_row": 6,
+     "items": [
+      {
+       "t": "BRITISH ELECTORATE",
+       "s": "Votes in Britain.",
+       "c": "teal"
+      },
+      {
+       "t": "BRITISH PARLIAMENT",
+       "s": "Holds the Cabinet to account.",
+       "c": "teal"
+      },
+      {
+       "t": "BRITISH CABINET",
+       "s": "Contains the Secretary of State for India.",
+       "c": "amber"
+      },
+      {
+       "t": "SECRETARY OF STATE FOR INDIA",
+       "s": "Assisted by the Council of India (advisory).",
+       "c": "amber"
+      },
+      {
+       "t": "VICEROY / GOVERNOR-GENERAL",
+       "s": "Executive head in India, Crown's representative.",
+       "c": "cyan"
+      },
+      {
+       "t": "INDIAN ADMINISTRATION",
+       "s": "Provinces, services, revenue and army.",
+       "c": "cyan"
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "READ THE CHAIN ABOVE →",
+     "c": "magenta",
+     "outline": true,
+     "text": "There is **no Indian link anywhere in it**. The transfer clarified the imperial **principal–agent chain** but did not democratise it: the Secretary of State was responsible to **British**, not Indian, politics. This single observation converts 1858 from a date into an argument."
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT INDIANS DID NOT GET",
+       "c": "red",
+       "items": [
+        "No responsible government; the executive remained answerable only through London.",
+        "No legislature with control over supply, and no electorate.",
+        "Crown proclamations of non-interference and equal treatment must be **distinguished from implementation**."
+       ]
+      },
+      {
+       "h": "CLOSE-OPTION CONTROL",
+       "c": "red",
+       "items": [
+        "Wrong: Viceroy was a wholly separate office from Governor-General. **Correct:** the Governor-General **also acted as** Viceroy, the Crown's representative.",
+        "Wrong: 1858 introduced responsible government. **Correct:** it centralised imperial accountability without making the executive responsible to Indians."
+       ]
+      },
+      {
+       "h": "THE ONE-LINE PERIODISATION MARKER",
+       "c": "cyan",
+       "items": [
+        "Everything **above** this stage is **Company rule under parliamentary supervision**.",
+        "Everything **below** it is **Crown rule** — and from here the constitutional question changes from *who supervises the Company* to *who, if anyone, represents Indians*."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "text": "The Government of India Act 1858 replaced dual control with direct Crown responsibility, but centralised imperial accountability without Indian popular responsibility."
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "kind": "core",
+   "title": "INDIAN COUNCILS ACTS 1861 AND 1892 — ASSOCIATION AND SCRUTINY, NOT RESPONSIBILITY",
+   "height_px": 1158,
+   "layout_signature": [
+    "matrix",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 8,
+   "pills": [
+    "PORTFOLIO SYSTEM RECOGNISED — CANNING 1859",
+    "NON-OFFICIAL INDIANS NOMINATED — 1862",
+    "DECENTRALISATION: BOMBAY + MADRAS RESTORED",
+    "VICEROY'S ORDINANCE — SIX-MONTH LIFE",
+    "1892 — BUDGET DISCUSSION + QUESTIONS",
+    "THE WORD “ELECTION” AVOIDED",
+    "“NOMINATION ON RECOMMENDATION”",
+    "OFFICIAL MAJORITY RETAINED"
+   ],
+   "blocks": [
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "widths": [
+      0.16,
+      0.42,
+      0.42
+     ],
+     "headers": [
+      "TEST",
+      "INDIAN COUNCILS ACT 1861",
+      "INDIAN COUNCILS ACT 1892"
+     ],
+     "rows": [
+      [
+       "Entry of Indians",
+       "**Nomination** of non-official Indians to legislative work — the beginning of representative institutions in form.",
+       "**Indirect election in substance** through bodies recommending nominees; the word 'election' was deliberately avoided."
+      ],
+      [
+       "Legislative geography",
+       "**Decentralisation** — legislative powers restored to **Bombay and Madras**; new councils for Bengal, the North-Western Provinces and Punjab.",
+       "Councils **enlarged** with more non-official members, but the balance of control was untouched."
+      ],
+      [
+       "Executive control",
+       "Viceroy retained legislative control and could issue **ordinances with a six-month life**; the **portfolio system** was recognised.",
+       "**Official majority retained** at the centre; the executive remained irremovable."
+      ],
+      [
+       "Financial power",
+       "No financial control conceded.",
+       "Power to **discuss the budget** and to **question the executive** — discussion, not the vote of supply."
+      ],
+      [
+       "Constitutional name for it",
+       "**Association** — Indians present in law-making, chosen by government.",
+       "**Scrutiny** — Indians questioning government, still unable to remove it."
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "NAMED EVIDENCE — 1862 NOMINEES",
+       "c": "amber",
+       "items": [
+        "Canning's first non-official Indian nominees were the **Raja of Benaras**, the **Maharaja of Patiala** and **Sir Dinkar Rao**.",
+        "New legislative councils followed for **Bengal (1862), the North-Western Provinces (1886) and Punjab (1897)**.",
+        "The **portfolio system**, used by Canning from **1859**, was given statutory recognition in 1861."
+       ]
+      },
+      {
+       "h": "THE MECHANISM: SCRUTINY BEFORE RESPONSIBILITY",
+       "c": "cyan",
+       "items": [
+        "Legislative **scrutiny developed decades before executive responsibility** — that ordering is the whole argument of this stage.",
+        "Association was designed to **strengthen colonial legitimacy**, not to surrender executive control: loyal notables were brought inside the machinery rather than left outside it.",
+        "1861 is also a **decentralising** statute, reversing part of the 1833 legislative monopoly — centralisation and decentralisation alternate across this topic."
+       ]
+      },
+      {
+       "h": "TRAPS",
+       "c": "red",
+       "items": [
+        "Wrong: 1861 introduced elected Indian representatives. **Correct:** it associated **nominated** non-official Indians.",
+        "Wrong: budget discussion in 1892 made the executive removable. **Correct:** discussion and questions create **no confidence responsibility**.",
+        "**Indirect election is not direct popular election**, and neither Act created a democratic franchise."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "text": "The Councils Acts 1861 and 1892 moved from nominated association to limited scrutiny, not to responsible government."
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "kind": "core",
+   "title": "INDIAN COUNCILS ACT 1909 (MORLEY–MINTO) — REPRESENTATION PLUS COMMUNAL SEPARATION",
+   "height_px": 1349,
+   "layout_signature": [
+    "panels2",
+    "cols3",
+    "band",
+    "answer"
+   ],
+   "pill_count": 8,
+   "pills": [
+    "CENTRAL LEGISLATIVE COUNCIL 16 → 60",
+    "OFFICIAL MAJORITY RETAINED AT THE CENTRE",
+    "NON-OFFICIAL MAJORITY IN PROVINCES",
+    "SEPARATE ELECTORATE FOR MUSLIMS",
+    "S. P. SINHA — FIRST INDIAN IN VICEROY'S EXECUTIVE COUNCIL",
+    "LAW MEMBER",
+    "MINTO — “FATHER OF COMMUNAL ELECTORATE”",
+    "“LEGALISED COMMUNALISM”"
+   ],
+   "blocks": [
+    {
+     "type": "panels",
+     "mid": "NOT THE SAME DEVICE",
+     "mid2": "UPSC repeatedly tests this exact distinction. Learn it as two separate electoral architectures, not two words for one idea.",
+     "panels": [
+      {
+       "h": "SEPARATE ELECTORATE — 1909",
+       "c": "magenta",
+       "sub": "What the Act actually introduced.",
+       "items": [
+        "A **community-specific electoral roll**: Muslim voters elect Muslim representatives in designated seats.",
+        "It separates **the electorate itself**, not merely the seat.",
+        "Communal political identity thereby received **statutory form** — the reason it is called 'legalised communalism'.",
+        "Extended in **1919** to Sikhs, Indian Christians, Anglo-Indians and Europeans; in **1932** by the Communal Award to the depressed classes."
+       ]
+      },
+      {
+       "h": "RESERVED SEAT IN A JOINT ELECTORATE",
+       "c": "green",
+       "sub": "The contrasting device — the one adopted later at Poona and retained in 1950.",
+       "items": [
+        "A seat **earmarked for a community** but filled by a **common or joint electorate** in which all voters participate.",
+        "The roll stays **single**; only the candidate's eligibility is restricted.",
+        "This is the **Poona Pact (1932)** settlement for the depressed classes, replacing the Communal Award's separate electorates.",
+        "The Constitution of 1950 **rejected separate electorates** and retained reservation inside a **joint electorate with universal adult franchise**."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT WAS ENLARGED",
+       "c": "amber",
+       "items": [
+        "Central legislative council membership raised from **sixteen to sixty**.",
+        "**Non-official majorities** appeared in some provincial councils.",
+        "**Satyendra Prasad Sinha** became the **first Indian on the Viceroy's Executive Council**, as **Law Member**.",
+        "More discussion, more non-official presence, wider representative procedure."
+       ]
+      },
+      {
+       "h": "WHAT WAS NOT GIVEN",
+       "c": "red",
+       "items": [
+        "**Official control at the centre survived** — the central council kept an official majority.",
+        "The executive **remained irresponsible**: no removal, no confidence, no ministry.",
+        "The Act did **not** introduce dyarchy, provincial autonomy or responsible government."
+       ]
+      },
+      {
+       "h": "CAUSATION — DO NOT WRITE A MONO-CAUSAL LINE",
+       "c": "cyan",
+       "items": [
+        "**Both** British divide-and-rule incentives **and** organised Muslim elite demands formed the political context; single-cause answers are weak.",
+        "The paradox to state: **representation widened at the very moment the electorate was segmented by community** — a concession and a constitutional warning in one statute."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "TRAP →",
+     "c": "red",
+     "outline": true,
+     "text": "1909 is **not** dyarchy — dyarchy is **1919**. S. P. Sinha is a **1909** fact, not a 1919 appointee. And a separate electorate is **not merely a reserved seat**: it also separates the electoral roll and the electorate by community."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM):",
+     "text": "The 1909 reforms widened representation by institutionalising religious separation, making separate electorates both a concession and a constitutional warning."
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "kind": "core",
+   "title": "GOVERNMENT OF INDIA ACT 1919 (MONTAGU–CHELMSFORD) — DYARCHY: RESPONSIBILITY WITHOUT CONTROL",
+   "height_px": 2059,
+   "layout_signature": [
+    "panels2",
+    "cols3",
+    "band",
+    "timeline",
+    "cols2",
+    "answer"
+   ],
+   "pill_count": 10,
+   "pills": [
+    "MONTAGU DECLARATION 1917",
+    "MAIN REFORMS IN FORCE 1921",
+    "CENTRAL AND PROVINCIAL SUBJECTS SEPARATED",
+    "DYARCHY = DI-ARCHE = DOUBLE RULE",
+    "RESERVED vs TRANSFERRED",
+    "FIRST BICAMERALISM AT THE CENTRE",
+    "FIRST DIRECT ELECTIONS",
+    "3 OF 6 IN VICEROY'S COUNCIL TO BE INDIAN",
+    "CENTRAL PUBLIC SERVICE COMMISSION 1926",
+    "STATUTORY COMMISSION AFTER TEN YEARS"
+   ],
+   "blocks": [
+    {
+     "type": "panels",
+     "mid": "DYARCHY IN THE PROVINCES",
+     "mid2": "One province, one Governor, two halves of government answerable to two different masters.",
+     "panels": [
+      {
+       "h": "RESERVED SUBJECTS",
+       "c": "red",
+       "sub": "Administered by the Governor and his Executive Council.",
+       "items": [
+        "**Not responsible** to the provincial legislature in any way.",
+        "Retained the **core fields of finance and police** — money and coercion.",
+        "The Governor kept **override authority** over the whole provincial government.",
+        "Ministers had **no control** over these subjects, yet shared the blame for the government's record."
+       ]
+      },
+      {
+       "h": "TRANSFERRED SUBJECTS",
+       "c": "green",
+       "sub": "Administered by the Governor acting with ministers responsible to the provincial legislature.",
+       "items": [
+        "The **first real responsibility** conceded anywhere in British India — and only at provincial level.",
+        "**Local self-government** was a transferred field under dyarchy.",
+        "Ministers were answerable to an electorate defined by **property, tax and education qualifications**.",
+        "Their departments depended on funds they did **not** control."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "THE CENTRE — WHAT CHANGED",
+       "c": "amber",
+       "items": [
+        "Central and provincial subjects **separated for the first time**, though the structure remained **unitary**.",
+        "**Bicameralism** at the centre: **Council of State** (upper) and **Legislative Assembly** (lower).",
+        "**Direct elections** appeared at the central level.",
+        "**Three of six** members of the Viceroy's Executive Council, excluding the Commander-in-Chief, were to be **Indian**.",
+        "The central executive remained **not responsible** to the legislature."
+       ]
+      },
+      {
+       "h": "FRANCHISE AND ELECTORATES",
+       "c": "amber",
+       "items": [
+        "Franchise limited by **property, tax and education** qualifications — a small and unequal electorate.",
+        "**Separate electorates extended beyond Muslims** to **Sikhs, Indian Christians, Anglo-Indians and Europeans**.",
+        "Communal representation therefore **widened** in the same statute that promised responsible government."
+       ]
+      },
+      {
+       "h": "MONEY, SERVICES AND REVIEW",
+       "c": "amber",
+       "items": [
+        "**Provincial budgets separated** from the central budget.",
+        "**High Commissioner for India** provided in London.",
+        "**Central Public Service Commission** established in **1926** — the institutional ancestor of the UPSC.",
+        "A **statutory commission after ten years** was promised — the clause that produces the Simon Commission."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "MECHANISM — WHY DYARCHY FAILED →",
+     "c": "cyan",
+     "outline": true,
+     "text": "Apply the governance test of **functions, finances and functionaries**. Ministers received **functions** but neither **finances** (finance was reserved) nor **functionaries** (the services and the police answered elsewhere), and the Governor retained **override**. Political responsibility was therefore never matched by fiscal, coercive or overriding authority — responsibility without control is the exact formulation to write."
+    },
+    {
+     "type": "timeline",
+     "c": "yellow",
+     "items": [
+      {
+       "d": "1927",
+       "t": "Simon Commission appointed — seven members, all British"
+      },
+      {
+       "d": "1928",
+       "t": "Commission reaches India; nationwide boycott over Indian exclusion"
+      },
+      {
+       "d": "1930",
+       "t": "Report: abolish provincial dyarchy, responsible government in provinces, federation including princely states + First Round Table Conference"
+      },
+      {
+       "d": "1931",
+       "t": "Second Round Table Conference"
+      },
+      {
+       "d": "1932",
+       "t": "Communal Award extends separate electorates to depressed classes; Poona Pact substitutes reserved seats in a joint electorate; Third Round Table Conference"
+      },
+      {
+       "d": "1933–34",
+       "t": "White Paper and Joint Select Committee"
+      },
+      {
+       "d": "1935",
+       "t": "Government of India Act enacted"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "BRIDGE — WHAT THE ROAD TO 1935 PROVES",
+       "c": "cyan",
+       "items": [
+        "Indian political pressure **altered the reform agenda**; British safeguards **bounded the concession**. Constitutional reform here is **bargaining under unequal sovereignty**.",
+        "Gandhi's fast and the negotiations with **B. R. Ambedkar** produced the **Poona Pact**: reservation **inside** joint electorates, in place of Ramsay MacDonald's Communal Award.",
+        "These are **bridges**, not substitutes for the enacted 1935 text."
+       ]
+      },
+      {
+       "h": "TRAPS ACROSS 1919 AND THE BRIDGE",
+       "c": "red",
+       "items": [
+        "Wrong: transferred ministers controlled finance and police. **Correct:** core reserved fields stayed with the Governor and Executive Council.",
+        "Wrong: 1919 created provincial autonomy. **Correct:** provincial autonomy belongs to **1935**; 1919 is **dyarchy**.",
+        "Wrong: the Poona Pact retained separate electorates for depressed classes. **Correct:** it substituted **reserved seats within joint electorates**.",
+        "Wrong: Simon alone wrote the 1935 Act. **Correct:** report → conferences → White Paper → Joint Select Committee → Act."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM):",
+     "text": "The 1919 Act introduced provincial dyarchy — responsibility without control over finance and coercion — and thereby exposed the limits of divided executive authority."
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "kind": "core",
+   "title": "GOVERNMENT OF INDIA ACT 1935 — INSTITUTIONAL TEMPLATE WITHOUT SOVEREIGNTY",
+   "height_px": 1576,
+   "layout_signature": [
+    "matrix",
+    "row(cols+cols)",
+    "band",
+    "band",
+    "answer"
+   ],
+   "pill_count": 10,
+   "pills": [
+    "321 SECTIONS • 10 SCHEDULES",
+    "FEDERAL 59 / PROVINCIAL 54 / CONCURRENT 36",
+    "RESIDUARY → GOVERNOR-GENERAL",
+    "PROVINCIAL DYARCHY ABOLISHED",
+    "PROVINCIAL AUTONOMY FROM 1937",
+    "DYARCHY AT THE CENTRE — NEVER OPERATED",
+    "FEDERATION — NEVER COMMENCED",
+    "FEDERAL COURT 1937",
+    "COUNCIL OF INDIA ABOLISHED",
+    "BICAMERALISM IN 6 OF 11 PROVINCES"
+   ],
+   "blocks": [
+    {
+     "type": "matrix",
+     "c": "red",
+     "title": "COMMENCED versus NOT COMMENCED — BUILD EVERY 1935 ANSWER IN THESE TWO COLUMNS",
+     "widths": [
+      0.2,
+      0.42,
+      0.38
+     ],
+     "headers": [
+      "PROVISION",
+      "LEGAL DESIGN IN THE ACT",
+      "OPERATIONAL STATUS"
+     ],
+     "rows": [
+      [
+       "All-India Federation",
+       "A federation of the British Indian **provinces plus acceding princely states**.",
+       "**NEVER COMMENCED** — the accession condition failed; the princely states stayed out."
+      ],
+      [
+       "Provincial autonomy",
+       "Provincial dyarchy **abolished**; ministers responsible to provincial legislatures.",
+       "**OPERATED from 1937**, subject to gubernatorial safeguards; Congress ministries resigned in **1939**."
+      ],
+      [
+       "Dyarchy at the Centre",
+       "Reserved and transferred **federal** subjects at the proposed centre.",
+       "**NEVER OPERATED.**"
+      ],
+      [
+       "Three lists + residuary",
+       "**Federal 59, Provincial 54, Concurrent 36** entries; residuary authority vested in the **Governor-General**, who could allocate a matter.",
+       "Distribution **influenced 1950 but is not identical** to the Union/State/Concurrent scheme."
+      ],
+      [
+       "Federal Court",
+       "Federal adjudication provided for.",
+       "**OPENED IN 1937** — the predecessor environment of the Supreme Court."
+      ],
+      [
+       "Franchise",
+       "Expanded but **qualification-based**, roughly one-tenth of the population.",
+       "Operated, and remained **restricted** — rejected in 1950 by universal adult franchise."
+      ]
+     ]
+    },
+    {
+     "type": "row",
+     "children": [
+      {
+       "w": 0.5,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "SAFEGUARDS AND DISCRETION — THE CEILING",
+          "c": "red",
+          "items": [
+           "Governors retained extensive **discretionary powers and special responsibilities**; provincial ministers held no unrestricted power.",
+           "**Defence, external affairs, ecclesiastical affairs and tribal areas** were reserved under the Governor-General at the proposed centre.",
+           "Autonomy was therefore **conditional, not sovereign** — the safeguards define the ceiling of the concession."
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "w": 0.5,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "INSTITUTIONS ADDED OR ALTERED",
+          "c": "amber",
+          "items": [
+           "**Federal, Provincial and Joint Public Service Commissions** — the UPSC/SPSC lineage.",
+           "**Bicameralism in six provinces**: Bengal, Bombay, Madras, Bihar, Assam and the United Provinces.",
+           "**Council of India abolished.**",
+           "Separate representation **extended to the depressed classes, women and labour**.",
+           "**Burma separated** under the statutory arrangement (1937)."
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "SOURCE CAUTION — RBI →",
+     "c": "yellow",
+     "outline": true,
+     "text": "The Reserve Bank of India appears in the Advanced owner's 1935 feature list, but the Basic owner records the precise position: **the RBI was constituted under the Reserve Bank of India Act 1934 and began in 1935**. Describe the 1935 constitutional framework as **providing for or recognising** the central-banking arrangement — never as the sole creating statute. Likewise, do not convert the approximate one-tenth franchise share into a precise electorate count."
+    },
+    {
+     "type": "band",
+     "label": "PYQ CONTROL →",
+     "c": "magenta",
+     "outline": true,
+     "text": "**2024 Prelims GS-I Q62 (direct Polity 01 owner, official Set-A paper and key verified locally): Answer (a) 1 only.** Statement 1 is correct **as a provision** even though the federation never commenced; statement 2 is false because **defence and foreign affairs were reserved under the Governor-General**, not controlled by the federal legislature. **2018 Prelims GS-I Q38: Answer (b) Governor-General** held the residuary allocation — official key unavailable locally, inferred, very high confidence."
+    },
+    {
+     "type": "answer",
+     "text": "The 1935 Act designed a federation and operative provincial autonomy, but the All-India Federation and central dyarchy never commenced; it supplied much of the institutional architecture later adapted in 1950, yet its restricted franchise, safeguards and executive supremacy remained colonial."
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "kind": "core",
+   "title": "INDIAN INDEPENDENCE ACT 1947 — THE SOVEREIGNTY BRIDGE",
+   "height_px": 1139,
+   "layout_signature": [
+    "timeline",
+    "cols3",
+    "band",
+    "answer"
+   ],
+   "pill_count": 10,
+   "pills": [
+    "ATTLEE ANNOUNCEMENT — 20 FEB 1947",
+    "MOUNTBATTEN PLAN — 3 JUN 1947",
+    "ROYAL ASSENT — 18 JUL 1947",
+    "APPOINTED DAY — 15 AUG 1947",
+    "TWO DOMINIONS",
+    "PARAMOUNTCY LAPSED",
+    "VICEROY ABOLISHED",
+    "SECRETARY OF STATE ABOLISHED",
+    "“EMPEROR OF INDIA” TITLE DROPPED",
+    "1935 ACT ADAPTED AS INTERIM LAW"
+   ],
+   "blocks": [
+    {
+     "type": "timeline",
+     "c": "green",
+     "items": [
+      {
+       "d": "20 Feb 1947",
+       "t": "Attlee announces the transfer deadline"
+      },
+      {
+       "d": "3 Jun 1947",
+       "t": "Mountbatten Plan"
+      },
+      {
+       "d": "18 Jul 1947",
+       "t": "Indian Independence Act receives royal assent"
+      },
+      {
+       "d": "15 Aug 1947",
+       "t": "Appointed day: two Dominions come into being"
+      },
+      {
+       "d": "26 Nov 1949",
+       "t": "Constitution adopted — endpoint belongs to Polity 02"
+      },
+      {
+       "d": "26 Jan 1950",
+       "t": "Constitution commences; India becomes a Republic"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT ENDED",
+       "c": "red",
+       "items": [
+        "**British rule and British sovereignty** over India.",
+        "The office of **Viceroy**.",
+        "The office of **Secretary of State for India**.",
+        "The **British Parliament's power to legislate** for a Dominion after the appointed day.",
+        "The title **“Emperor of India”**."
+       ]
+      },
+      {
+       "h": "WHAT WAS CREATED",
+       "c": "green",
+       "items": [
+        "Two independent **Dominions, India and Pakistan**, with the right to secede from the Commonwealth.",
+        "A **Governor-General for each Dominion**, and — with the provincial Governors — a **constitutional, nominal head acting on ministers' advice**.",
+        "**Constituent Assemblies as sovereign legislative bodies**, able to frame any constitution and to repeal British Acts, and to legislate until the new constitutions.",
+        "Interim governance under the **adapted Government of India Act 1935**."
+       ]
+      },
+      {
+       "h": "WHAT LAPSED — AND THE PROBLEM IT CREATED",
+       "c": "amber",
+       "items": [
+        "**British paramountcy over the princely states lapsed**, along with treaty relations.",
+        "States were left **free to join India or Pakistan or remain independent**.",
+        "Paramountcy did **not** transfer automatically to India: **integration became an Indian political task, not an automatic legal succession**."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "LIMIT →",
+     "c": "red",
+     "outline": true,
+     "text": "The Constituent Assembly did **not** first come into existence under this Act: it was formed earlier under the **Cabinet Mission framework**, and the 1947 Act made it **sovereign**. Legal sovereignty therefore arrived **before** the Republic. Detailed Assembly composition, committees and debates belong to **Polity 02** — do not import them here."
+    },
+    {
+     "type": "answer",
+     "text": "The Independence Act 1947 ended British sovereignty and paramountcy and made the Constituent Assemblies sovereign legislatures, but left integration and constitution-making to Indian agency."
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "kind": "core",
+   "title": "EXAM SYNTHESIS — SPINE, FOUR-QUESTION MATRIX, TRAP LEDGER AND PYQ ROUTES",
+   "height_px": 2814,
+   "layout_signature": [
+    "chain",
+    "matrix",
+    "row(cols+matrix)",
+    "cols3",
+    "answer",
+    "band"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "THE SPINE IS THE ANSWER STRUCTURE",
+    "PROVIDED ≠ OPERATED",
+    "ASSOCIATION ≠ REPRESENTATION ≠ RESPONSIBILITY",
+    "STRUCTURAL CONTINUITY + NORMATIVE RUPTURE",
+    "4 VERIFIED PRELIMS PYQS",
+    "NO DIRECT MAINS PYQ IN THE AUDITED LOCAL CORPUS"
+   ],
+   "blocks": [
+    {
+     "type": "chain",
+     "per_row": 5,
+     "items": [
+      {
+       "t": "COMPANY TRADE",
+       "s": "1600 charter",
+       "c": "teal"
+      },
+      {
+       "t": "TERRITORIAL-REVENUE POWER",
+       "s": "1757–1765",
+       "c": "teal"
+      },
+      {
+       "t": "PARLIAMENTARY REGULATION",
+       "s": "1773–1781",
+       "c": "amber"
+      },
+      {
+       "t": "DUAL CONTROL",
+       "s": "1784–1858",
+       "c": "amber"
+      },
+      {
+       "t": "CROWN RULE",
+       "s": "1858",
+       "c": "yellow"
+      },
+      {
+       "t": "ASSOCIATION",
+       "s": "1861–1892",
+       "c": "cyan"
+      },
+      {
+       "t": "REPRESENTATION",
+       "s": "1909",
+       "c": "cyan"
+      },
+      {
+       "t": "PROVINCIAL RESPONSIBILITY",
+       "s": "1919",
+       "c": "green"
+      },
+      {
+       "t": "FEDERAL / AUTONOMY ARCHITECTURE",
+       "s": "1935",
+       "c": "green"
+      },
+      {
+       "t": "SOVEREIGNTY",
+       "s": "1947 → 1950",
+       "c": "magenta"
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "yellow",
+     "title": "THE FOUR-QUESTION COMPARISON MATRIX — 1773 · 1784 · 1858 · 1919 · 1935 · 1947",
+     "widths": [
+      0.1,
+      0.22,
+      0.2,
+      0.22,
+      0.26
+     ],
+     "headers": [
+      "ACT",
+      "WHO CONTROLLED THE EXECUTIVE",
+      "WHO MADE LAW",
+      "WHO WAS REPRESENTED",
+      "CEILING OF THE STATUTE"
+     ],
+     "rows": [
+      [
+       "1773",
+       "Governor-General of Bengal in a four-member Council; Court of Directors merely reports.",
+       "Governor-General-in-Council for Bengal; presidency Regulations.",
+       "**Nobody Indian.**",
+       "Centralisation and a royal court, with no rule for resolving executive or jurisdictional conflict."
+      ],
+      [
+       "1784",
+       "British Government through the **Board of Control**; Company machinery executes.",
+       "Unchanged in form; policy direction moves to London.",
+       "**Nobody Indian.**",
+       "Dual control: supreme political supervision without transfer of the territories."
+      ],
+      [
+       "1858",
+       "**Secretary of State for India** in the British Cabinet; **Viceroy** in India.",
+       "Governor-General-in-Council under Crown authority.",
+       "**Nobody Indian** — the accountability chain runs to the British electorate.",
+       "Imperial accountability centralised; Indian popular responsibility absent."
+      ],
+      [
+       "1919",
+       "Governor with Executive Council for **reserved** subjects; ministers for **transferred** subjects.",
+       "Bicameral central legislature; provincial legislatures with elected members.",
+       "A **restricted, communally segmented** electorate.",
+       "Provincial responsibility without finance, police or freedom from override."
+      ],
+      [
+       "1935",
+       "Provincial ministries under **gubernatorial safeguards**; proposed central dyarchy never operated.",
+       "Federal, Provincial and Concurrent Lists; residuary with the Governor-General.",
+       "Roughly **one-tenth**, qualification-based, with widened separate representation.",
+       "A federal and autonomy template that never became sovereign."
+      ],
+      [
+       "1947",
+       "**Governor-General as constitutional head** acting on ministers' advice.",
+       "**Constituent Assemblies as sovereign legislatures**; 1935 Act adapted as interim law.",
+       "Representation now determined by **Indian constituent power**.",
+       "Sovereignty transferred; integration and constitution-making left to Indian agency."
+      ]
+     ]
+    },
+    {
+     "type": "row",
+     "children": [
+      {
+       "w": 0.54,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "TRAP LEDGER — DO NOT WRITE THESE",
+          "c": "red",
+          "items": [
+           "Regulating Act created the Governor-General of **India** → it created the Governor-General of **Bengal**; India comes with **1833**.",
+           "1853 abolished the Company → the Company was abolished by the **1858 Act**.",
+           "Morley–Minto 1909 introduced dyarchy → dyarchy is **1919**; 1909 is the **communal electorate**.",
+           "1919 introduced provincial autonomy → that is **1935**; 1919 is **dyarchy**.",
+           "Residuary powers under 1935 went to the provinces → they went to the **Governor-General / Viceroy**.",
+           "The 1935 federation actually functioned → it was **never formed**; the princely states stayed out.",
+           "First Indian on the Viceroy's council under 1919 → **S. P. Sinha, under 1909**.",
+           "More dates mean more marks → dates earn marks **only when tied to institutional meaning**."
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "w": 0.46,
+       "block": {
+        "type": "matrix",
+        "c": "teal",
+        "title": "FIRSTS — PRELIMS GOLD",
+        "widths": [
+         0.62,
+         0.38
+        ],
+        "headers": [
+         "FIRST",
+         "ACT"
+        ],
+        "rows": [
+         [
+          "Governor-General of Bengal (Warren Hastings)",
+          "Regulating Act 1773"
+         ],
+         [
+          "Supreme Court at Calcutta",
+          "Regulating Act 1773"
+         ],
+         [
+          "Board of Control / double government",
+          "Pitt's India Act 1784"
+         ],
+         [
+          "Governor-General of India (William Bentinck)",
+          "Charter Act 1833"
+         ],
+         [
+          "Separation of legislative and executive; open competition",
+          "Charter Act 1853"
+         ],
+         [
+          "Viceroy (Lord Canning); Secretary of State",
+          "GoI Act 1858"
+         ],
+         [
+          "Portfolio system recognised; Indians in law-making",
+          "Councils Act 1861"
+         ],
+         [
+          "Separate electorate for Muslims (Minto)",
+          "Councils Act 1909"
+         ],
+         [
+          "First Indian in Viceroy's Executive Council (S. P. Sinha)",
+          "Councils Act 1909"
+         ],
+         [
+          "Dyarchy in provinces; bicameralism; direct election",
+          "GoI Act 1919"
+         ],
+         [
+          "Provincial autonomy; Federal Court; PSC scheme",
+          "GoI Act 1935"
+         ]
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "VERIFIED PYQ ROUTES",
+       "c": "cyan",
+       "items": [
+        "**2018 Prelims GS-I Q38** — residuary powers under the 1935 federation → **(b) Governor-General**. Cross-owned by Modern History; key inferred.",
+        "**2019 Prelims GS-I Q4** — Charter Act 1813 statements → **(a) 1 and 2 only**. Cross-owned; key inferred.",
+        "**2023 Prelims GS-I Q50** — GG of Bengal redesignated GG of India → **(d) Charter Act 1833**. Cross-owned; key inferred.",
+        "**2024 Prelims GS-I Q62** — 1935 federation and defence/foreign affairs → **(a) 1 only**. **Direct Polity 01 owner; official paper and key verified locally.**"
+       ]
+      },
+      {
+       "h": "ANSWER ARCHITECTURE BY MARKS",
+       "c": "amber",
+       "items": [
+        "**10 marks:** three to four named statutes.",
+        "**15 marks:** six to seven, with one comparison.",
+        "**20 marks:** eight to ten, with comparison and explicit qualification.",
+        "Evidence density must rise with marks **without becoming a catalogue**.",
+        "Periodise by **constitutional function**, never by monarch or viceroy."
+       ]
+      },
+      {
+       "h": "PARAGRAPH FORMULA — USE IT EVERY TIME",
+       "c": "green",
+       "items": [
+        "**Claim** → **named provision or evidence** → **significance for power, accountability or representation** → **limitation**.",
+        "For continuity questions: **structural continuity plus normative rupture**, then two retained examples, two rejected devices, one qualification.",
+        "Retained: three-list distribution, Governors, courts, services, emergency and strong centre — all **re-founded on popular sovereignty**.",
+        "Rejected: **separate electorates, restricted franchise, imperial supremacy**.",
+        "End with a **calibrated verdict**, never 'therefore British rule was good or bad'."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — CONTINUITY (WRITE/ADAPT):",
+     "text": "The Constitution retained and transformed colonial machinery — lists, Governors, courts and services — while rejecting communal electorates, restricted franchise and imperial supremacy; constitutional continuity lies in structures, not in democratic legitimacy."
+    },
+    {
+     "type": "band",
+     "label": "REQUIRED FINAL VERDICT →",
+     "c": "yellow",
+     "outline": true,
+     "text": "The best periodisation is **centralisation, association, limited responsibility and sovereign constitution-making**; chronology earns marks only when converted into institutional argument. Colonial constitutional reform was neither a linear gift nor a single nationalist victory: British control incentives and Indian political pressure interacted, while authority remained deliberately short of popular sovereignty. **CORE FLOW COMPLETE HERE** — everything below is optional enrichment and cannot repair or replace a missing primary stage."
+    }
+   ]
+  },
+  {
+   "n": "E",
+   "kind": "extra",
+   "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+   "height_px": 1034,
+   "layout_signature": [
+    "cols3",
+    "band"
+   ],
+   "pill_count": 7,
+   "pills": [
+    "OPTIONAL DEPTH",
+    "LIGHTER VISUAL WEIGHT",
+    "THE CORE ABOVE REMAINS SUFFICIENT",
+    "NAMED OFFICERS AND MINOR PERSONS",
+    "SOURCE DISPUTES FLAGGED, NOT RESOLVED",
+    "SUPPLEMENTARY FACTS — LOW YIELD",
+    "READ LAST, REVISE FIRST FROM THE CORE"
+   ],
+   "blocks": [
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "MINOR OFFICERS AND NAMED PERSONS",
+       "c": "dim",
+       "items": [
+        "**Warren Hastings** — first Governor-General of Bengal; **Cornwallis** — 1786 override and Commander-in-Chief; **Bentinck** — first Governor-General of India.",
+        "**Macaulay** — first Law Member (1833) and chair of the 1854 civil-service committee.",
+        "**Canning** — portfolio system from 1859, first Viceroy in 1858, and the nominator of the 1862 non-officials.",
+        "**Raja of Benaras, Maharaja of Patiala, Sir Dinkar Rao** — the 1862 nominated non-officials.",
+        "**Satyendra Prasad Sinha**, **Lord Minto**, **Ramsay MacDonald**, **Gandhi and B. R. Ambedkar** at Poona."
+       ]
+      },
+      {
+       "h": "SOURCE AND EVIDENCE DISPUTES",
+       "c": "dim",
+       "items": [
+        "Official answer keys for the **2018, 2019 and 2023** Prelims items are **unavailable locally**; those answers are prominently **inferred**, not officially verified. Only **2024 Q62** has both official paper and official key verified locally.",
+        "**RBI attribution** to the 1935 Act is a standard shorthand; the constituting statute is the **Reserve Bank of India Act 1934**.",
+        "The **~10% franchise** figure is an approximation and must not be converted into a precise electorate count.",
+        "UPSC stems sometimes use **'established'** loosely for the 1935 federation; state the **legal-operational distinction** rather than contradicting the stem.",
+        "Cross-owned mechanism detail on 1773–1784 (Council deadlock, Nand Kumar/Patna/Cossijurah, Secret Committee) comes from the **Modern Indian History Topic 06** owner, not from the Polity Basic owner."
+       ]
+      },
+      {
+       "h": "SUPPLEMENTARY FACTS",
+       "c": "dim",
+       "items": [
+        "New legislative councils: **Bengal 1862, North-Western Provinces 1886, Punjab 1897**.",
+        "**Board of Control staff paid from Indian revenues** under the Charter Act 1793.",
+        "**Local governments empowered to impose taxes** under the Charter Act 1813.",
+        "**High Commissioner for India** in London under the 1919 Act; **Burma separated** in 1937; **Congress ministries resigned in 1939**.",
+        "Local self-government history also involves **executive resolutions and provincial laws** beyond the central Acts; constitutional devolution arrives only with **Parts IX and IX-A**."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "STATUS →",
+     "c": "grey",
+     "text": "**APPROVAL: FALSE.** This is generation g9, a non-canonical alternative pending user review. No prior artefact — including the rejected generation g8, the canonical learner-v2 Markdown, the notes and workbook PDFs, or the tracker — has been modified."
+    }
+   ]
+  }
+ ],
+ "must_show_terms": [
+  "Governor-General of Bengal",
+  "Executive Council",
+  "Supreme Court at Calcutta",
+  "Court of Directors",
+  "Board of Control",
+  "Secret Committee",
+  "British possessions in India",
+  "double government",
+  "Commander-in-Chief",
+  "tea",
+  "China",
+  "sovereignty of the British Crown",
+  "missionaries",
+  "one lakh",
+  "Governor-General of India",
+  "Law Member",
+  "Law Commission",
+  "open competition",
+  "Macaulay",
+  "mini-Parliament",
+  "Secretary of State for India",
+  "Council of India",
+  "Viceroy",
+  "Canning",
+  "portfolio system",
+  "ordinance",
+  "budget",
+  "questions",
+  "separate electorate",
+  "Satyendra Prasad Sinha",
+  "dyarchy",
+  "reserved",
+  "transferred",
+  "bicameralism",
+  "franchise",
+  "Public Service Commission",
+  "Simon",
+  "Round Table",
+  "Communal Award",
+  "Poona Pact",
+  "All-India Federation",
+  "Concurrent",
+  "provincial autonomy",
+  "residuary",
+  "Federal Court",
+  "Reserve Bank of India",
+  "paramountcy",
+  "Dominion",
+  "Constituent Assemblies",
+  "Diwani",
+  "Warren Hastings",
+  "William Bentinck",
+  "Regulations",
+  "in trust for His Majesty",
+  "responsible government"
+ ]
+}

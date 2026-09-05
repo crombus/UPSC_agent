@@ -1,0 +1,964 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-07_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-07_Solved-Workbook_2026-08-27.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-07",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 223,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Crime-and-Punishment.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank with its corpus",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 511.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 424.224
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 253,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 12 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 690.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 645.424
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 268,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 12,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 645.424
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 344.022
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 276,
+      "markdown_body_line_end": 284,
+      "heading": "11.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 288.822
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 748.39
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "11.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not run the full theory catalogue. One theory or one distinction, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 649.39
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 618.922
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 302,
+      "heading": "11.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On capital-punishment stems, the mark-bearing sequence is: the right to life is not treated as absolute even by its defenders (self-defence, necessity) → so the question is whether *custodial* killing meets the same conditions → desert a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 341.722
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 268.654
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 366,
+      "markdown_body_line_end": 366,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §1A, §3.4A, §3.4B and §4.1A (added in this pass):** these are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Feinberg, Duff, Foucault,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 632.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 530.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 374,
+      "markdown_body_line_end": 374,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 503.124
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 458.456
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1025,
+      "heading": "EXAM APPLICATION 1 - Crime as Legal Wrong versus Moral Wrong; the Criminalisation Question",
+      "preview": "🔑 MEMORY: crime (legal) vs moral wrong (ethical), overlap not identity; then the three doors WRONG -> CRIME -> PUNISH, each with its own key. Open with the distinction, never with the emotion.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 116.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 71.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1048,
+      "markdown_body_line_end": 1049,
+      "heading": "EXAM APPLICATION 2 - Conditions of Just Punishment: Responsibility, Culpability and the Five Theories",
+      "preview": "🔑 MEMORY: seven-condition checklist for \"just punishment\"; five-theory menu with direction + test + danger for \"why punish?\"; responsibility is not causation.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 571.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 527.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1074,
+      "heading": "EXAM APPLICATION 3 - Retributivism: Desert, Kant, Hegel and the Limits of Punishment",
+      "preview": "🔑 MEMORY: desert = floor + ceiling; retribution =/= revenge (public, proportionate, impartial); limiting not maximising; the social-inequality objection is the bridge to social justice.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 302.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 258.156
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1099,
+      "heading": "EXAM APPLICATION 4 - Deterrence and Incapacitation: the Utilitarian Justification of Punishment",
+      "preview": "🔑 MEMORY: deterrence (choices) + incapacitation (ability); certainty > severity; never say \"deterrence is proved\"; separate EFFECTIVENESS from PERMISSIBILITY.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 47.956
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1122,
+      "markdown_body_line_end": 1124,
+      "heading": "EXAM APPLICATION 5 - Reform, Dignity, Proportionality and Juveniles",
+      "preview": "🔑 MEMORY: reform in tune with dignity ONLY if bounded (consent, proportionality, determinate ceiling); ordinal vs cardinal proportionality; juvenile = nature is an input, culpability is reduced.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 567.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 522.956
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1146,
+      "heading": "EXAM APPLICATION 6 - The Three-Question Grid and the Mixed / Limiting Theory",
+      "preview": "🔑 MEMORY: three questions -- AIM (forward), DISTRIBUTION (desert floor), AMOUNT (desert ceiling). Limiting retributivism = utility WITHIN desert limits; hold the ceiling lexically firm or it collapses into utilitarianism.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 326.956
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 282.288
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1168,
+      "markdown_body_line_end": 1170,
+      "heading": "EXAM APPLICATION 7 - Expressive, Communicative and Restorative Theories; Foucault's Caution",
+      "preview": "🔑 MEMORY: Feinberg = censure (SPEAK); Duff = penance/standing (ADDRESS); Braithwaite = reintegrative shaming (REPAIR); Foucault = disciplinary critique, not a justifying theory. Restorative =/= leniency; limited by power imbalance and grave",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1196,
+      "markdown_body_line_end": 1199,
+      "heading": "EXAM APPLICATION 8 - Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "preview": "🔑 MEMORY: corruption = particular over universal in a trusted role; systemic AND ethical; conditions not determines; mass-violence analogy PARTIAL (effects yes, intention no); genocide = specific intent vs a group \"as such\"; structure condi",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 453.424
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 394.556
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1225,
+      "markdown_body_line_end": 1227,
+      "heading": "EXAM APPLICATION 9 - Capital Punishment: the Argument Tree and the Indian Position",
+      "preview": "🔑 MEMORY: argue both sides fully; Kant retained, Beccaria abolished (state both accurately); right to life not absolute BUT custodial killing =/= self-defence; fallibility + irreversibility is the pivot; Indian facts are FACTS not proofs.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 125.756
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 66.888
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1256,
+      "heading": "EXAM APPLICATION 10 - Inter-School Debates, Criticisms, Traps and the Universal Answer Spine",
+      "preview": "🔑 MEMORY: FRAME-SEPARATE-THEORY-RIVAL-OBJECT-CRITICAL-INDIA-VERDICT; match the directive; every reply leaves a residue; separate validity from implementation from empirical effect.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 499.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 454.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1279,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED EVIDENCE (C1-C15) / EXAMPLE -> OBJECTION / REPLY /",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 720.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1283,
+      "markdown_body_line_end": 1283,
+      "heading": "SOLVED PYQ BANK - EXACTLY 12 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 12 primary parts (2018:1, 2019:2, 2020:2, 2021:1, 2022:2, 2023:1, 2024:1, 2025:2). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 695.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 566.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1317,
+      "heading": "Solved PYQ 1 - 2018 Q1(e), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- a 10-marker kept to one worked distinction (systemic/ethical) with correctly classified statutes (C15) and a twin-tracked verdict, not a scattershot list of \"solutions\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 242.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 197.756
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1346,
+      "heading": "Solved PYQ 2 - 2019 Q1(d), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it refuses both the easy \"yes\" and the dismissive \"no\", states the conditions of violence, and lands the exact C14 discipline (effects yes, intention no).",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 705.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 660.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1376,
+      "markdown_body_line_end": 1378,
+      "heading": "Solved PYQ 3 - 2019 Q4(c), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it routes \"social justice\" through the arbitrariness objection plus Duff's standing (C6), and separates philosophical validity from implementation rather than moralising.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 359.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 314.356
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1408,
+      "heading": "Solved PYQ 4 - 2020 Q3(c), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it turns the expected \"retribution vs rights\" clash on its head via limiting retributivism (desert as ceiling, C1/C2) and answers the cruelty and inequality objections directly.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 41.356
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1437,
+      "heading": "Solved PYQ 5 - 2020 Q4(c), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it answers \"how far\" with a graded \"strongly but not deterministically\", names the opportunity/discretion/accountability mechanism, and keeps agency intact.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 471.424
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 426.756
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1464,
+      "markdown_body_line_end": 1466,
+      "heading": "Solved PYQ 6 - 2021 Q2(b), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it gives a CONDITIONAL yes, states reform's dignity credentials AND the Foucault/indeterminacy dangers (C7), and resolves via the bounded mixed theory.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 153.756
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 109.088
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1493,
+      "heading": "Solved PYQ 7 - 2022 Q1(c), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it names the either/or as a false dichotomy, holds both levels with C14, and keeps the 10-marker tight around one controlling distinction.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 621.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 576.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1519,
+      "markdown_body_line_end": 1521,
+      "heading": "Solved PYQ 8 - 2022 Q1(e), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it answers the \"justifications\" demand fully (C1 desert, deterrence, incapacitation) but a 10-marker still lands the decisive fallibility limit rather than eulogising the penalty.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 317.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 272.956
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1561,
+      "markdown_body_line_end": 1563,
+      "heading": "Solved PYQ 9 - 2023 Q4(a), 20 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- a 20-marker that separates the three questions (C4), deploys ordinal/cardinal proportionality (C10) and the responsibility gradient, runs two objection chains, and lands a genuinely graded verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 592.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 533.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1591,
+      "markdown_body_line_end": 1592,
+      "heading": "Solved PYQ 10 - 2024 Q3(b), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it splits effectiveness from permissibility, uses Beccaria's certainty-over-severity (C3), and refuses to assert deterrence as proven.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 232.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 187.756
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1619,
+      "markdown_body_line_end": 1621,
+      "heading": "Solved PYQ 11 - 2025 Q1(a), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it endorses the statement while disciplining it (wrongful subordination, not all partiality), grounding the answer in C14's definition rather than generic anti-corruption rhetoric.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 671.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 627.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1666,
+      "markdown_body_line_end": 1668,
+      "heading": "Solved PYQ 12 - 2025 Q3(a), 20 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it concedes \"not absolute\", then blocks the inference with the custodial-killing-is-not-self-defence move, runs fallibility and standing (C6), and classifies the Indian facts (C15) as facts, not proofs.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 131.224
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 72.356
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1672,
+      "markdown_body_line_end": 1672,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1676,
+      "markdown_body_line_end": 1676,
+      "heading": "Original Mains 1",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 10 marks - answer in about 150 words - directive: State / Explain",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 718.624
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 673.956
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1690,
+      "markdown_body_line_end": 1690,
+      "heading": "Original Mains 1",
+      "preview": "🔑 MEMORY: seven conditions (public law, voluntary act, proportionate culpability, fair procedure, competent authority, proportionality, equal application); responsibility = agency, not causal contribution (canonical 1.2).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 428.956
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 370.088
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1694,
+      "markdown_body_line_end": 1694,
+      "heading": "Original Mains 2",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 15 marks - answer in about 250 words - directive: Critically examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 348.088
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 303.42
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1708,
+      "markdown_body_line_end": 1708,
+      "heading": "Original Mains 2",
+      "preview": "🔑 MEMORY: restoration = repair (C8/C9) inside desert bands; three objections (proportionality, power imbalance, public wrong); supplement not replace for grave crimes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1712,
+      "markdown_body_line_end": 1712,
+      "heading": "Original Mains 3",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 20 marks - answer in about 300 words - directive: Discuss",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 703.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 672.756
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1730,
+      "markdown_body_line_end": 1730,
+      "heading": "Original Mains 3",
+      "preview": "🔑 MEMORY: constrained practice = aim (Q1) inside desert limits (Q2/Q3); constraints = legality, culpability, proportionality, dignity, due process, equality, reintegration; capital punishment = right-to-life-not-absolute + custody distincti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 289.956
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 231.088
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    }
+  ]
+}

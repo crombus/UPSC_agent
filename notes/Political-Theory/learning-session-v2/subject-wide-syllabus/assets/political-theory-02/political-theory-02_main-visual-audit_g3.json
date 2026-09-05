@@ -1,0 +1,375 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-02_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-02_Learning-Session_2026-08-28.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 19,
+      "heading": "SESSION 1 - The Dual Meaning and Political Work of Ideology",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Ideology, false consciousness, totalitarianism, ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 653.691
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 538.024
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 43,
+      "heading": "1. One-screen conceptual map",
+      "preview": "IDEOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 514.524
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 323.524
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 58,
+      "markdown_body_line_end": 67,
+      "heading": "3. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 454.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 87,
+      "markdown_body_line_end": 94,
+      "heading": "5. Essential distinctions",
+      "preview": "Distinction | What to say precisely",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Distinction",
+          "What to say precisely"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 474.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 110,
+      "heading": "6. Thinkers and positions",
+      "preview": "Thinker | Position in brief",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Thinker",
+          "Position in brief"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 417.59
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 657.89
+        }
+      },
+      "pdf_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 155,
+      "heading": "8. Comparison table",
+      "preview": "Axis | Ideology as set of ideas | Ideology as science of ideas",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "Ideology as set of ideas",
+          "Ideology as science of ideas"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 284.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 54.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 178,
+      "heading": "14. Qualified answer thesis and directive-specific decoding",
+      "preview": "Directive | What it demands here | Trap to avoid",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Directive",
+          "What it demands here",
+          "Trap to avoid"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 483.591
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 196.19
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1093,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Ideology, false consciousness, totalitarianism, end-of-ideol",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 565.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 450.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1114,
+      "heading": "1. One-screen advanced map",
+      "preview": "IDEOLOGY AS DISTORTION?      IDEOLOGY AS MOBILIZATION?      IDEOLOGY AS CLOSED RULE?",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 422.524
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 261.524
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1141,
+      "heading": "4. Definitions and distinctions",
+      "preview": "Concept | Advanced clarification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Advanced clarification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 497.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 267.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1156,
+      "heading": "5. Thinker-by-thinker positions",
+      "preview": "Thinker | Position to remember",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Thinker",
+          "Position to remember"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 242.69
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 452.29
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1165,
+      "heading": "6. Competing perspectives",
+      "preview": "Perspective | Core intuition | Limitation or tension",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Perspective",
+          "Core intuition",
+          "Limitation or tension"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 427.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 151.088
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1260,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 584.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 59.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2785 @@
+{
+ "artifact": "Polity 02 — Making of the Constitution — continuous at-a-glance master flow",
+ "generation": "polity-02:flowchart:continuous-at-a-glance-carvaka-standard:g8",
+ "note_on_generation_index": "g8 is simply the next free index in the polity-02 folder, which already held continuous-at-a-glance-core-first g3-g7. This is the FIRST Carvaka-standard generation for Polity 02 and is unrelated to the rejected Polity 01 g8.",
+ "approved": false,
+ "generated": "2026-08-22",
+ "design_reference": {
+  "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "status": "IMMUTABLE — read only, never modified",
+  "matched_properties": [
+   "4800 px wide master at 300 dpi metadata",
+   "strong title card with legend chips and reading instruction",
+   "numbered continuous rail with per-stage nodes and connectors",
+   "per-stage individually chosen internal layout, not a fixed card schema",
+   "dense decisive keyword pill rows",
+   "multi-column branches and direct institutional comparisons",
+   "compact high-information bullets",
+   "mechanism / bridge / trap bands",
+   "magenta answer-grabbing line unique to every stage",
+   "complete numbered core before a visually subordinate enrichment band",
+   "final synthesis stage with answer spine, PYQ routes and trap sweep",
+   "poster preserves the whole canvas; tiled PDF crops the same canvas with overlap"
+  ],
+  "reused_from_polity01_g9": "rendering primitives only (render_lib.py); no stage structure, signature or content"
+ },
+ "new_primitives": {
+  "dash": "big-number metric dashboard cells",
+  "alloc": "proportional seat-allocation diagram with a bus line and weighted parts",
+  "funnel": "narrowing legitimacy / selection funnel",
+  "hub": "central institution with left/right officer-role spokes",
+  "tree": "root-and-branch committee architecture with leaf cards",
+  "pipeline": "dated multi-stage drafting and reading pipeline",
+  "adapt": "three-column source-family / feature / Indian-adaptation map"
+ },
+ "sources": {
+  "canonical_learner_v2_owner": "upsc-ai-kit/knowledge/Polity/learning-sessions/v2/subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7/polity-02_Learning-Session.md",
+  "advanced_owner": "upsc-ai-kit/knowledge/Polity/advanced/02_Making-of-the-Constitution.md",
+  "complete_topic_package_owner": "upsc-ai-kit/knowledge/Polity/02_Making-of-the-Constitution_Complete-Topic-Package.md",
+  "fabrication_policy": "No fact appears that is not present in the owners above. Where a PYQ key is unavailable or provisional locally, the canvas states that status explicitly."
+ },
+ "canvas": {
+  "width_px": 4800,
+  "height_px": 30422,
+  "dpi": 300,
+  "margin_px": 110,
+  "rail_x_px": 250,
+  "card_x0_px": 520,
+  "card_x1_px": 4690,
+  "card_padding_px": 46,
+  "stage_gap_px": 64
+ },
+ "palette": {
+  "cyan": [
+   68,
+   211,
+   255
+  ],
+  "teal": [
+   65,
+   228,
+   193
+  ],
+  "amber": [
+   255,
+   178,
+   91
+  ],
+  "yellow": [
+   255,
+   225,
+   122
+  ],
+  "magenta": [
+   230,
+   144,
+   255
+  ],
+  "green": [
+   126,
+   231,
+   135
+  ],
+  "red": [
+   255,
+   138,
+   128
+  ],
+  "white": [
+   237,
+   246,
+   251
+  ],
+  "dim": [
+   156,
+   180,
+   200
+  ],
+  "grey": [
+   150,
+   168,
+   185
+  ],
+  "background": [
+   7,
+   20,
+   33
+  ],
+  "card": [
+   16,
+   40,
+   61
+  ],
+  "card_title": [
+   11,
+   38,
+   58
+  ],
+  "card_extra": [
+   13,
+   26,
+   40
+  ],
+  "answer_fill": [
+   43,
+   37,
+   55
+  ]
+ },
+ "typography": {
+  "family": "Segoe UI / Segoe UI Bold",
+  "poster_title_px": 72,
+  "stage_title_px": 55,
+  "section_head_px": 34,
+  "body_px": 30,
+  "pill_px": 29,
+  "matrix_px": 27,
+  "dashboard_number_px": 78,
+  "allocation_number_px": 52
+ },
+ "outputs": {
+  "master_png": "master.png",
+  "poster_pdf": "Polity02_Continuous-At-a-Glance_g8_Poster_2026-08-22.pdf",
+  "tiled_pdf": "Polity02_Continuous-At-a-Glance_g8_Tiled_2026-08-22.pdf",
+  "tiles": 11,
+  "tile_height_px": 3242,
+  "tile_overlap_px": 524,
+  "tile_crops": [
+   {
+    "tile": 1,
+    "box": [
+     0,
+     0,
+     4800,
+     3242
+    ],
+    "sha256": "E0ABB2FE08E5F2FE3030F9B975B3E36DA129646C1ADB26B877A1A2A5048204D9"
+   },
+   {
+    "tile": 2,
+    "box": [
+     0,
+     2718,
+     4800,
+     5960
+    ],
+    "sha256": "15063153742FFA81ACFA150D958CB198609B0F0828CE081AF1A65F3115BA805E"
+   },
+   {
+    "tile": 3,
+    "box": [
+     0,
+     5436,
+     4800,
+     8678
+    ],
+    "sha256": "C426F552EFFB8C7084A3B29973550BE5F1DE7982D3C826930A555DC6651B8BF5"
+   },
+   {
+    "tile": 4,
+    "box": [
+     0,
+     8154,
+     4800,
+     11396
+    ],
+    "sha256": "7B73FABF364738CA62B64B5DBCF25DC2AFB919DE69A5F5118DD8543408312346"
+   },
+   {
+    "tile": 5,
+    "box": [
+     0,
+     10872,
+     4800,
+     14114
+    ],
+    "sha256": "BCE0D8F766BA7D29B0B1CF5D963DEF4F133461B57FD6138274F6F12481EDB54B"
+   },
+   {
+    "tile": 6,
+    "box": [
+     0,
+     13590,
+     4800,
+     16832
+    ],
+    "sha256": "E307CD8C7A982FE9C061103C6A38DE41D95EC5A818C0778CBDABB6D7D25C5DE3"
+   },
+   {
+    "tile": 7,
+    "box": [
+     0,
+     16308,
+     4800,
+     19550
+    ],
+    "sha256": "7E0BB2D5457D40890EE1F197256CA58FA4B3BC58DCB45EBC2172125DBC51140C"
+   },
+   {
+    "tile": 8,
+    "box": [
+     0,
+     19026,
+     4800,
+     22268
+    ],
+    "sha256": "6633AB39F73014EF668E743754161496A99BF01C0249FC438ADA674D22D9124A"
+   },
+   {
+    "tile": 9,
+    "box": [
+     0,
+     21744,
+     4800,
+     24986
+    ],
+    "sha256": "52A980FBDA6D8E7E2DBA5AFE3E8E54E7803904274F60E5EFCE3BBD05D9022369"
+   },
+   {
+    "tile": 10,
+    "box": [
+     0,
+     24462,
+     4800,
+     27704
+    ],
+    "sha256": "14DFF8B5988A23B7DEE810756852B0F859B0586667C2C96B411EA8533FDBB06C"
+   },
+   {
+    "tile": 11,
+    "box": [
+     0,
+     27180,
+     4800,
+     30422
+    ],
+    "sha256": "EE70CC8C5B9CF30FEB100558478793A4785E038FE2740E9CE11443B1D61E9F02"
+   }
+  ],
+  "contact_sheets": [
+   {
+    "name": "contact-sheet-01.png",
+    "size": [
+     5545,
+     2640
+    ],
+    "pages": [
+     "page-001.png",
+     "page-002.png",
+     "page-003.png",
+     "page-004.png",
+     "page-005.png",
+     "page-006.png"
+    ],
+    "boxes": [
+     [
+      22,
+      22,
+      1841,
+      1309
+     ],
+     [
+      1863,
+      22,
+      3682,
+      1309
+     ],
+     [
+      3704,
+      22,
+      5523,
+      1309
+     ],
+     [
+      22,
+      1331,
+      1841,
+      2618
+     ],
+     [
+      1863,
+      1331,
+      3682,
+      2618
+     ],
+     [
+      3704,
+      1331,
+      5523,
+      2618
+     ]
+    ]
+   },
+   {
+    "name": "contact-sheet-02.png",
+    "size": [
+     5545,
+     3291
+    ],
+    "pages": [
+     "page-007.png",
+     "page-008.png",
+     "page-009.png",
+     "page-010.png",
+     "page-011.png"
+    ],
+    "boxes": [
+     [
+      22,
+      22,
+      1841,
+      1309
+     ],
+     [
+      1863,
+      22,
+      3682,
+      1309
+     ],
+     [
+      3704,
+      22,
+      5523,
+      1309
+     ],
+     [
+      22,
+      1331,
+      2761,
+      3269
+     ],
+     [
+      2783,
+      1331,
+      5522,
+      3269
+     ]
+    ]
+   }
+  ]
+ },
+ "header": {
+  "title": "POLITY 02 — MAKING OF THE CONSTITUTION",
+  "subtitle": "ONE CONTINUOUS AT-A-GLANCE MASTER FLOW  •  CORE BEFORE EXTRA  •  DEMAND → CABINET MISSION SCHEME → INDIRECT ELECTION → COMPOSITION 389/299 → FIRST SITTING & OFFICERS → OBJECTIVES RESOLUTION → SOVEREIGNTY 1947 → COMMITTEES → RAU vs DRAFTING COMMITTEE → THREE READINGS → ADOPTION 26 NOV 1949 → COMMENCEMENT 26 JAN 1950",
+  "note": "Read the thick cyan rail from top to bottom. Every numbered stage uses a layout chosen for its own argument: legitimacy funnel, seat-allocation diagram, composition before/after ledger, officer role map, Objectives-Resolution-to-Preamble chain, committee tree, adjacent adviser-versus-drafter comparison, dated reading pipeline, adoption timeline, criticism-versus-reply matrix and a source-adaptation map. The 17-stage core is complete before the lighter enrichment band begins.",
+  "legend": [
+   {
+    "t": "PRIMARY CORE FLOW",
+    "c": "cyan"
+   },
+   {
+    "t": "SOVEREIGNTY PIVOT — 15 AUG 1947",
+    "c": "yellow"
+   },
+   {
+    "t": "SUBORDINATE ENRICHMENT",
+    "c": "grey"
+   }
+  ],
+  "key": "AMBER headings = sourced facts, dates and numbers  •  CYAN headings = mechanism and analysis  •  RED headings = limits, denominator traps and misreadings  •  GREEN headings = evidence-led replies  •  MAGENTA band = answer-grabbing line",
+  "approval": "Approval: FALSE • Pending user review • All prior Polity 02 artefacts, including generations g3–g7 and the 2026-08-21 legacy set, unchanged"
+ },
+ "footer": "END OF MASTER CANVAS  •  THE SAME CANVAS IS CROPPED WITH OVERLAP INTO THE TILED PDF  •  POLITY 02 · GENERATION g8 · CARVAKA STANDARD · APPROVAL FALSE",
+ "stages": [
+  {
+   "n": 0,
+   "kind": "core",
+   "title": "IDENTITY & METRIC DISCIPLINE — THIS IS CONSTITUENT AUTHORITY, NOT A LIST OF DATES",
+   "height_px": 1467,
+   "layout_signature": [
+    "dash",
+    "cols3",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Constituent Assembly",
+    "Cabinet Mission scheme 1946",
+    "Indirectly elected + partly nominated",
+    "389 planned → 299 after Partition",
+    "Sovereign only after 1947",
+    "2 years 11 months 18 days"
+   ],
+   "blocks": [
+    {
+     "type": "dash",
+     "per_row": 3,
+     "items": [
+      {
+       "n": "389",
+       "l": "PLANNED TOTAL STRENGTH",
+       "s": "Cabinet Mission scheme: 296 British India + 93 princely states",
+       "c": "amber"
+      },
+      {
+       "n": "296",
+       "l": "BRITISH INDIA SEATS",
+       "s": "292 from the eleven Governors' provinces + 4 from the Chief Commissioners' provinces",
+       "c": "cyan"
+      },
+      {
+       "n": "93",
+       "l": "PRINCELY-STATE SEATS",
+       "s": "Reserved for the states; their representatives were to be nominated by the rulers",
+       "c": "magenta"
+      },
+      {
+       "n": "211",
+       "l": "PRESENT ON 9 DEC 1946",
+       "s": "Attendance at the first sitting amid the Muslim League boycott — never the strength",
+       "c": "teal"
+      },
+      {
+       "n": "299",
+       "l": "STRENGTH AFTER PARTITION",
+       "s": "229 provincial representatives + 70 princely-state representatives",
+       "c": "green"
+      },
+      {
+       "n": "284",
+       "l": "SIGNED ON 24 JAN 1950",
+       "s": "Members who signed the enrolled copies — not the number who adopted on 26 Nov 1949",
+       "c": "yellow"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT THIS TOPIC ACTUALLY IS",
+       "c": "cyan",
+       "items": [
+        "A **transfer of constituent authority**: the power to frame a constitution moves from colonial prescription to an Indian Assembly.",
+        "A **legal scheme** (Cabinet Mission Plan 1946) that becomes a **sovereign** body after the Indian Independence Act 1947.",
+        "A **deliberative process**: committees settle principles, an adviser drafts comparatively, a Drafting Committee gives legal form, the Assembly amends and adopts.",
+        "An **output**: Preamble + **395 Articles + 8 Schedules** adopted 26 November 1949."
+       ]
+      },
+      {
+       "h": "WHAT IT IS NOT — REJECT THESE FRAMINGS",
+       "c": "red",
+       "items": [
+        "Not a **directly elected** constituent assembly: provincial members were chosen by **provincial legislative assembly** members; princely representatives were **nominated**.",
+        "Not the **work of one author**: 'Father of the Constitution' is a shorthand, not a description of the process.",
+        "Not a mere **copy** of foreign constitutions: borrowing was **selective adaptation** under Indian conditions.",
+        "Not a body that was sovereign from the start: sovereignty is **acquired**, in 1947, not original."
+       ]
+      },
+      {
+       "h": "HOW EVERY ANSWER IS BUILT HERE",
+       "c": "teal",
+       "items": [
+        "**Origin** (constrained) → **process** (deliberative) → **output** (democratic). Never stop at origin.",
+        "Every criticism gets an **evidence-led reply plus a residual concession** — that is what earns evaluation marks.",
+        "Every number is tied to its own **denominator**; mixed numbers are the commonest Prelims trap on this topic.",
+        "Every date is tied to its own **legal event**: adoption, signing and commencement are three different things."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "DENOMINATOR RULE →",
+     "c": "red",
+     "outline": true,
+     "text": "**Never merge these six numbers.** 389 is a **planned** strength that was never fully realised; 296 and 93 are **allocations**; 211 is **attendance on one day**; 299 is the **post-Partition sanctioned strength**; 284 is **signatories on 24 January 1950**. A statement is wrong the moment it says 'the Assembly had 389 members' as a fact of its working life, or 'the Constitution was signed by 299 members'."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — RECOMMENDED OPENING DEFINITION:",
+     "text": "The making of India's Constitution was a **negotiated transfer of constituent authority** from colonial prescription to an Indian Assembly that converted nationalist claims, committee work and public deliberation into a **sovereign democratic text**."
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "kind": "core",
+   "title": "PREHISTORY OF THE DEMAND, 1934–1946 — FROM RADICAL PROPOSAL TO ACCEPTED PRINCIPLE",
+   "height_px": 1217,
+   "layout_signature": [
+    "timeline",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "M.N. Roy 1934 — the idea",
+    "Congress official demand 1935",
+    "Nehru 1938 — adult franchise",
+    "August Offer 1940 — principle",
+    "Cripps 1942 — League wants two",
+    "Cabinet Mission 1946 — the scheme"
+   ],
+   "blocks": [
+    {
+     "type": "timeline",
+     "c": "amber",
+     "items": [
+      {
+       "d": "1934",
+       "t": "M.N. Roy, a pioneer of the communist movement in India, first puts forward the idea of a Constituent Assembly for India."
+      },
+      {
+       "d": "1935",
+       "t": "The Indian National Congress officially demands a Constituent Assembly to frame the Constitution of India."
+      },
+      {
+       "d": "1938",
+       "t": "Jawaharlal Nehru formulates the demand precisely: the Constitution of free India must be framed without outside interference, by a Constituent Assembly elected on adult franchise."
+      },
+      {
+       "d": "Aug 1940",
+       "t": "August Offer — the British Government accepts in principle that Indians should frame their own constitution. Acceptance of a principle only."
+      },
+      {
+       "d": "1942",
+       "t": "Cripps Mission — a draft proposal for a constitution-making body after the war. The Muslim League presses for two separate constitution-making bodies for two states."
+      },
+      {
+       "d": "1946",
+       "t": "Cabinet Mission Plan rejects the demand for two constituent assemblies and supplies the actual scheme under which the Assembly is constituted."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "THREE BRITISH PROPOSALS — WHAT EACH CONCEDED AND WHAT IT DID NOT DO",
+     "widths": [
+      0.16,
+      0.3,
+      0.28,
+      0.26
+     ],
+     "headers": [
+      "PROPOSAL",
+      "WHAT IT CONCEDED",
+      "WHAT IT DID NOT DO",
+      "EXAM CONSEQUENCE"
+     ],
+     "rows": [
+      [
+       "**AUGUST OFFER 1940**",
+       "Accepted **in principle** that the framing of India's constitution should primarily be an Indian responsibility.",
+       "Did **not** create any Assembly, fix any composition, or transfer any constituent power.",
+       "A statement saying the Assembly was 'set up under the August Offer' is **wrong**."
+      ],
+      [
+       "**CRIPPS PROPOSALS 1942**",
+       "Offered a concrete constitution-making body for the post-war settlement, with a Dominion framework.",
+       "Was **not accepted**; the Muslim League pressed instead for **two** constitution-making bodies.",
+       "Marks the point at which the **number of assemblies** becomes the political question."
+      ],
+      [
+       "**CABINET MISSION PLAN 1946**",
+       "**Rejected two constituent assemblies** and laid down the seat allocation, electorate and voting method actually used.",
+       "Did not make the resulting Assembly **sovereign** — that came only with the Act of 1947.",
+       "This, and only this, is the **legal source** of the Assembly's constitution."
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "MECHANISM SHIFT →",
+     "c": "teal",
+     "outline": true,
+     "text": "The demand travels through three registers: **idea** (1934) → **party demand** (1935–1938, with the adult-franchise standard attached) → **conceded principle** (1940) → **operational scheme** (1946). Only the last register has legal effect. In an answer, treat 1934–1942 as building the **claim**, and 1946 as supplying the **machinery**."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — ORIGINS OF THE DEMAND:",
+     "text": "The Constituent Assembly was not a British gift but the institutional form of a **nationalist claim** raised in 1934, adopted as Congress policy in 1935 and given its democratic standard in 1938; British proposals from 1940 onwards conceded the principle in stages before the **Cabinet Mission Plan 1946** finally supplied the machinery."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "kind": "core",
+   "title": "CABINET MISSION PLAN 1946 — THE LEGAL DESIGN AND THE ALLOCATION ARITHMETIC",
+   "height_px": 1460,
+   "layout_signature": [
+    "alloc",
+    "cols3",
+    "band"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "May 1946 — Mission statement",
+    "One seat per million (broadly)",
+    "292 + 4 + 93 = 389",
+    "Muslim · Sikh · General categories",
+    "Nominated princely representatives",
+    "Nov 1946 — Assembly constituted"
+   ],
+   "blocks": [
+    {
+     "type": "alloc",
+     "total": {
+      "n": "389",
+      "l": "PLANNED STRENGTH UNDER THE CABINET MISSION SCHEME",
+      "s": "Allocation broadly ONE SEAT PER MILLION of population  •  statement issued May 1946  •  elections July–August 1946  •  Assembly constituted November 1946",
+      "c": "yellow"
+     },
+     "parts": [
+      {
+       "n": "296",
+       "l": "BRITISH INDIA — FILLED BY INDIRECT ELECTION",
+       "w": 296.0,
+       "c": "cyan",
+       "sub": [
+        "**292** seats from the **eleven Governors' provinces**.",
+        "**4** seats from the **Chief Commissioners' provinces** — one each under the scheme.",
+        "Provincial seats divided among **Muslim, Sikh and General** categories **in proportion to their population**.",
+        "Each community's members in the **provincial legislative assembly** elected that community's representatives by **proportional representation through the single transferable vote**."
+       ]
+      },
+      {
+       "n": "93",
+       "l": "PRINCELY STATES — FILLED BY NOMINATION",
+       "w": 93.0,
+       "c": "magenta",
+       "sub": [
+        "Seats **reserved** for the Indian states.",
+        "Representatives were to be **nominated by the rulers**.",
+        "[LIMIT] The Mission statement contemplated settling the precise method through **consultation**; standard texts describe those who joined as **nominated by rulers**. Do not imply a popular election in the states."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "THE THREE DESIGN RULES OF THE SCHEME",
+       "c": "cyan",
+       "items": [
+        "**Population rule** — seats allotted broadly at the rate of **one seat per million** people, so that size, not status, fixed weight.",
+        "**Community rule** — within each province, seats were split among **Muslim, Sikh and General** categories **in proportion to their population**, to give negotiated assurance.",
+        "**Territorial rule** — every province and the princely states received a defined share, keeping the body **federal in composition** before it framed a federal constitution."
+       ]
+      },
+      {
+       "h": "WHY THIS COMBINATION WAS CHOSEN",
+       "c": "teal",
+       "items": [
+        "It answered the **League's demand for two constitution-making bodies** by conceding **category assurance inside one body** instead of splitting the body itself.",
+        "It used **existing provincial legislatures** as the electoral college, so a new mass election — impossible in 1946 — was not required.",
+        "**PR through STV** ensured minority opinion within each community group could still secure seats rather than being swept by a bare majority.",
+        "Nomination for the states avoided forcing an immediate democratic settlement on the princely order while still seating it."
+       ]
+      },
+      {
+       "h": "LIMITS THE SCHEME COULD NOT CURE",
+       "c": "red",
+       "items": [
+        "Provincial assembly members themselves rested on the **limited franchise of the period** — so the chain is democratic only at the **second remove**.",
+        "The scheme **entrenched categories inherited from late-colonial politics** even while trying to include everyone.",
+        "It conferred **no sovereignty**: the Assembly still sat under a British scheme until the Indian Independence Act 1947.",
+        "**Trap:** the four Chief Commissioners' province seats are a **distinct component**; do not fold them into the 292."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "IMMEDIATE CONSEQUENCE →",
+     "c": "magenta",
+     "outline": true,
+     "text": "The scheme produced a body that was **federal in composition, indirect in election and partly nominated in origin** — three characteristics that fix the entire representativeness debate later on the rail. It **enhanced negotiated inclusion** but simultaneously **entrenched community categories** inherited from late-colonial politics."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "kind": "core",
+   "title": "THE SELECTION CHAIN — HOW A CONSTITUENT ASSEMBLY SEAT WAS ACTUALLY FILLED",
+   "height_px": 1865,
+   "layout_signature": [
+    "funnel",
+    "cols2",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Indirect election",
+    "Limited colonial franchise",
+    "Provincial legislative assemblies",
+    "PR through STV",
+    "Partly nominated",
+    "Not universal adult suffrage"
+   ],
+   "blocks": [
+    {
+     "type": "funnel",
+     "end": 0.44,
+     "steps": [
+      {
+       "t": "ADULT POPULATION OF BRITISH INDIA",
+       "s": "The overwhelming majority stood **outside** the electorate of the period. No mass vote occurred for the Constituent Assembly.",
+       "c": "red"
+      },
+      {
+       "t": "THE LIMITED FRANCHISE OF THE PERIOD",
+       "s": "Provincial legislative assemblies were themselves elected on the **restricted franchise** then in force — this is the ceiling on the Assembly's electoral mandate.",
+       "c": "amber",
+       "note": "First narrowing"
+      },
+      {
+       "t": "MEMBERS OF THE PROVINCIAL LEGISLATIVE ASSEMBLIES",
+       "s": "These sitting legislators — not the electorate — form the **electoral college** for the British Indian seats.",
+       "c": "yellow"
+      },
+      {
+       "t": "COMMUNITY GROUPS INSIDE EACH PROVINCIAL ASSEMBLY",
+       "s": "Provincial seats were divided among **Muslim, Sikh and General** categories **in proportion to their population**; each group voted only for its own allotted seats.",
+       "c": "cyan",
+       "note": "Second narrowing"
+      },
+      {
+       "t": "ELECTION BY PROPORTIONAL REPRESENTATION THROUGH THE SINGLE TRANSFERABLE VOTE",
+       "s": "The actual voting method inside each community group in each province.",
+       "c": "teal"
+      },
+      {
+       "t": "296 BRITISH INDIAN MEMBERS  +  93 NOMINATED PRINCELY-STATE REPRESENTATIVES",
+       "s": "Result: an Assembly that is **indirectly elected and partly nominated** — never one elected by universal adult suffrage.",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 40,
+     "cols": [
+      {
+       "h": "WHY THE EXACT CHAIN MUST BE STATED BEFORE JUDGING LEGITIMACY",
+       "c": "cyan",
+       "items": [
+        "A representativeness answer that opens with a verdict scores less than one that opens with the **mechanism**: electorate → provincial legislature → community group → PR-STV → member.",
+        "Stating the chain lets you concede the **franchise limitation honestly** and still argue legitimacy from **social range, deliberation and output** — the concession becomes evidence of control, not weakness.",
+        "It also explains the **federal composition** of the body: members arrived carrying provincial and state mandates, which shaped the later Union–State debates.",
+        "Finally, it sets up the sharpest compensating argument on this rail: the body formed on a **restricted electorate** went on to constitutionalise **universal adult franchise**."
+       ]
+      },
+      {
+       "h": "THE TWO STOCK PRELIMS TRAPS",
+       "c": "red",
+       "items": [
+        "**Wrong:** the people of India directly elected the Constituent Assembly.  **Correct:** members of the **provincial legislative assemblies** elected the provincial representatives — the election was **indirect**.",
+        "**Wrong:** princely-state representatives were elected by the provincial assemblies.  **Correct:** they were **nominated by their rulers**.",
+        "**Wrong:** all 296 British Indian seats were filled through an identical direct popular ballot.  **Correct:** the chain ran through provincial legislatures, and the **four Chief Commissioners' province seats** formed a distinct component.",
+        "**Wrong:** PR-STV means the whole province voted as one constituency.  **Correct:** voting ran **within each community group in each provincial assembly**."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "BRIDGE TO COMPOSITION →",
+     "c": "teal",
+     "outline": true,
+     "text": "Once the chain is fixed, the numbers become intelligible rather than memorised. The **elections of July–August 1946** filled the British Indian seats; Partition then removed a large part of that body and produced a **different, smaller and more homogeneous Assembly** — which is the next stage on the rail."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — REPRESENTATION ARGUMENT:",
+     "text": "The Assembly was **indirectly elected and partly nominated**, so its electoral mandate was limited; its legitimacy rests additionally on **social range, reasoned deliberation and the universal adult franchise it constitutionalised**."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "kind": "core",
+   "title": "COMPOSITION LEDGER — 389 PLANNED → 299 AFTER PARTITION, WITH THE CATEGORY LOGIC INTACT",
+   "height_px": 1704,
+   "layout_signature": [
+    "replace",
+    "matrix",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "389 planned",
+    "292 + 4 + 93",
+    "Partition re-fixes strength",
+    "299 = 229 + 70",
+    "211 = attendance only",
+    "284 = signatories only"
+   ],
+   "blocks": [
+    {
+     "type": "replace",
+     "before": {
+      "h": "PLANNED COMPOSITION UNDER THE CABINET MISSION SCHEME",
+      "c": "amber",
+      "items": [
+       "**389** total planned strength.",
+       "**292** — eleven **Governors' provinces**.",
+       "**4** — **Chief Commissioners' provinces**, one each.",
+       "**93** — **princely states**, representatives to be nominated by rulers.",
+       "Provincial seats split among **Muslim, Sikh and General** categories in proportion to population.",
+       "The 93 princely-state seats were **initially unfilled** because the states stayed away."
+      ]
+     },
+     "after": {
+      "h": "SANCTIONED STRENGTH AFTER PARTITION",
+      "c": "green",
+      "items": [
+       "**299** total sanctioned strength.",
+       "**229** — **provincial** representatives.",
+       "**70** — **princely-state** representatives.",
+       "Members from areas that went to Pakistan ceased to sit in this Assembly.",
+       "The body became **smaller and considerably more homogeneous**, which sharpened the later charge of Congress dominance.",
+       "This — not 389 — is the strength against which the working Assembly must be described."
+      ]
+     },
+     "arrow": "PARTITION 1947",
+     "note": "Partition did not merely subtract members: it removed the principal political counterweight inside the Assembly, and thereby changed both the arithmetic and the character of the deliberation that produced the final text."
+    },
+    {
+     "type": "matrix",
+     "c": "red",
+     "title": "THE FIVE-METRIC BOX — EACH NUMBER WITH ITS OWN DENOMINATOR (OPEN LEGITIMACY ANSWERS WITH THIS)",
+     "widths": [
+      0.11,
+      0.3,
+      0.34,
+      0.25
+     ],
+     "headers": [
+      "FIGURE",
+      "WHAT IT COUNTS",
+      "EXACT MEANING",
+      "THE MISREADING TO KILL"
+     ],
+     "rows": [
+      [
+       "**389**",
+       "Original **planned** strength",
+       "Design ceiling under the Cabinet Mission scheme: 296 British India + 93 princely states.",
+       "'389 members attended the first meeting.'"
+      ],
+      [
+       "**296**",
+       "British India **allocation / election frame**",
+       "292 Governors' provinces + 4 Chief Commissioners' provinces — the seats actually contested in 1946.",
+       "Treating 296 as a body that ever sat as such."
+      ],
+      [
+       "**211**",
+       "**Attendance** on 9 December 1946",
+       "Members present at the first sitting amid the Muslim League boycott.",
+       "'The Assembly's strength was 211.'"
+      ],
+      [
+       "**299**",
+       "**Post-Partition sanctioned strength**",
+       "229 provincial + 70 princely-state seats — the working Assembly.",
+       "'299 members signed the Constitution.'"
+      ],
+      [
+       "**284**",
+       "**Signatories** on 24 January 1950",
+       "Members who actually appended signatures, after adoption.",
+       "'284 was the post-Partition strength.'"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT PARTITION CHANGED",
+       "c": "red",
+       "items": [
+        "**Strength**: 389 → **299**.",
+        "**Internal balance**: the principal opposition bloc left, leaving Congress arithmetically preponderant.",
+        "**Agenda**: separate electorates and the grouping scheme lost their political basis; the Assembly moved decisively towards a **strong Union**."
+       ]
+      },
+      {
+       "h": "WHAT PARTITION DID NOT CHANGE",
+       "c": "cyan",
+       "items": [
+        "The **selection method** of the sitting members — they had been chosen under the 1946 scheme and were not re-elected.",
+        "The **committee structure** already at work since December 1946–January 1947.",
+        "The **normative compass** already fixed by the Objectives Resolution adopted on **22 January 1947**."
+       ]
+      },
+      {
+       "h": "HOW TO USE THIS IN AN ANSWER",
+       "c": "teal",
+       "items": [
+        "Never answer 'how representative was the Assembly?' with **one number**. Use **selection method, social range, political dominance, boycott and post-Partition change together**.",
+        "Congress dominance was **arithmetically real** — concede it; then show Congress functioned as a **broad coalition** and that the Assembly included non-Congress experts and diverse social voices.",
+        "Sequence: numbers → mechanism → concession → compensating evidence → qualified verdict."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — METRIC DISCIPLINE:",
+     "text": "Planned strength, election frame, attendance, post-Partition strength and signatures are **five different denominators**: 389 describes a scheme, 296 an allocation, 211 a single day's attendance, 299 the working Assembly and 284 the act of signing — and no legitimacy argument survives their conflation."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "kind": "core",
+   "title": "ELECTIONS OF JULY–AUGUST 1946 AND THE LEGITIMACY NUANCE",
+   "height_px": 1384,
+   "layout_signature": [
+    "matrix",
+    "panels2",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Congress 208",
+    "Muslim League 73",
+    "Others & independents 15",
+    "93 princely seats unfilled",
+    "League boycott of first sitting",
+    "Dominance real, not decisive"
+   ],
+   "blocks": [
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "RESULT OF THE 1946 ELECTIONS FOR THE 296 BRITISH INDIAN SEATS",
+     "widths": [
+      0.26,
+      0.13,
+      0.35,
+      0.26
+     ],
+     "headers": [
+      "GROUP",
+      "SEATS",
+      "WHAT IT MEANT INSIDE THE ASSEMBLY",
+      "WHAT IT DID NOT MEAN"
+     ],
+     "rows": [
+      [
+       "**Indian National Congress**",
+       "**208**",
+       "A commanding bloc that could carry any proposal it united behind.",
+       "Not a monolith — Congress functioned as a **broad coalition** of ideological strands."
+      ],
+      [
+       "**Muslim League**",
+       "**73**",
+       "The principal counterweight; **boycotted** the first meeting and pressed for a separate constituent body.",
+       "Not an absent voice by design — its withdrawal was political, not structural exclusion."
+      ],
+      [
+       "**Smaller groups and independents**",
+       "**15**",
+       "Carried non-Congress expertise and minority positions into the debates.",
+       "Not decorative — several were given decisive drafting and committee roles."
+      ],
+      [
+       "**Princely states**",
+       "**93**",
+       "Seats **initially unfilled**: the states stayed away at the outset.",
+       "Not a boycott by election — these seats were to be filled by **nomination**."
+      ]
+     ]
+    },
+    {
+     "type": "panels",
+     "mid": "VERSUS",
+     "mid2": "Both sides must appear in a Mains answer; the reply is evidence-led, not defensive",
+     "panels": [
+      {
+       "h": "THE CHARGE — DOMINANCE COMPROMISED THE BODY",
+       "c": "red",
+       "sub": "State it fully; a suppressed objection loses marks",
+       "items": [
+        "Congress held **208 of 296** contested seats and, after Partition, an even larger share of a smaller house.",
+        "The **Muslim League boycott** meant the largest opposing political formation was absent from the opening deliberations.",
+        "The electorate behind the provincial legislators was the **restricted franchise** of the period, not the Indian people.",
+        "**93** princely-state representatives entered by **nomination**, adding an unelected element."
+       ]
+      },
+      {
+       "h": "THE EVIDENCE-LED REPLY",
+       "c": "green",
+       "sub": "Concede the arithmetic, contest the inference",
+       "items": [
+        "Congress dominance was **arithmetically real**, but Congress operated as a **broad coalition** containing conservative, socialist, Gandhian and liberal strands that argued openly against one another.",
+        "The Assembly deliberately seated **non-Congress experts** — Ambedkar and Alladi Krishnaswami Ayyar among them — in the most decisive drafting positions.",
+        "Every clause passed through **clause-by-clause scrutiny**, public comment and thousands of amendments — dominance did not remove contestation.",
+        "The body's **output** extended political equality to every adult Indian, which no restricted electorate had demanded of it."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "CALIBRATION →",
+     "c": "yellow",
+     "outline": true,
+     "text": "The honest position is neither 'a Congress body' nor 'a fully representative parliament'. It is that a **numerically dominant party** used a **deliberative machinery** it did not fully control — committees, an independent constitutional adviser, a Drafting Committee led by a political outsider, public comment and recorded debate — and produced a text more democratic than its own electorate."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — LEGITIMACY COMPENSATION:",
+     "text": "By constitutionalising **universal adult franchise**, the Assembly prospectively widened political equality **far beyond the restricted electorate through which it had been formed**."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "kind": "core",
+   "title": "FIRST SITTING, 9 DECEMBER 1946 — OFFICERS, SECRETARIAT AND THE PRODUCTION CHAIN",
+   "height_px": 1363,
+   "layout_signature": [
+    "hub",
+    "cols3",
+    "band"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "9 Dec 1946 — first sitting",
+    "211 attended",
+    "Sinha temporary President",
+    "Prasad permanent, 11 Dec 1946",
+    "B.N. Rau Constitutional Adviser",
+    "Institution, not a gathering"
+   ],
+   "blocks": [
+    {
+     "type": "hub",
+     "centre_w": 0.3,
+     "centre": {
+      "t": "THE ASSEMBLY AS AN INSTITUTION",
+      "s": "First sitting **9 December 1946** in the Constitution Hall, New Delhi  •  **211** members attended amid the **Muslim League boycott**  •  offices and a secretariat, not merely an assembly of famous leaders",
+      "c": "yellow"
+     },
+     "spokes": [
+      {
+       "h": "TEMPORARY PRESIDENT",
+       "n": "Dr Sachchidananda Sinha",
+       "s": "The oldest member; presided at the opening following the French practice.",
+       "c": "amber"
+      },
+      {
+       "h": "PERMANENT PRESIDENT — elected 11 December 1946",
+       "n": "Dr Rajendra Prasad",
+       "s": "Presided over the constituent deliberations throughout.",
+       "c": "cyan"
+      },
+      {
+       "h": "VICE-PRESIDENTS",
+       "n": "H.C. Mukherjee  ·  V.T. Krishnamachari",
+       "s": "Assisted the presidency and presided in the President's absence.",
+       "c": "teal"
+      },
+      {
+       "h": "CONSTITUTIONAL ADVISER",
+       "n": "Sir B.N. Rau",
+       "s": "Research, comparative advice and the initial constitutional-adviser draft.",
+       "c": "magenta"
+      },
+      {
+       "h": "SECRETARY",
+       "n": "H.V.R. Iyengar",
+       "s": "Ran the Assembly secretariat that serviced every committee.",
+       "c": "green"
+      },
+      {
+       "h": "CHIEF DRAFTSMAN",
+       "n": "S.N. Mukerjee",
+       "s": "Technical legislative drafting of the constitutional text.",
+       "c": "white"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHY ROLE DIFFERENTIATION IS ITSELF THE ANSWER",
+       "c": "cyan",
+       "items": [
+        "**Secretariat and drafting expertise converted political settlements into administrable text.** A leader-only narrative misses this production chain entirely.",
+        "Three distinct competences were separated: **political authority** (President and committees), **comparative expertise** (Constitutional Adviser) and **legal form** (Chief Draftsman and Drafting Committee).",
+        "This separation is what makes 'distributed authorship' a defensible thesis rather than a slogan."
+       ]
+      },
+      {
+       "h": "THE DUAL CAPACITY AFTER INDEPENDENCE",
+       "c": "amber",
+       "items": [
+        "After 15 August 1947 the same body held **two distinct capacities**.",
+        "As the **constituent body** framing the Constitution, it was presided over by **Dr Rajendra Prasad**.",
+        "As the **Dominion legislature** making ordinary law, it was presided over by **G.V. Mavlankar**.",
+        "The two capacities met on different days with different agendas — a favourite Prelims discriminator."
+       ]
+      },
+      {
+       "h": "OFFICER TRAPS",
+       "c": "red",
+       "items": [
+        "**Wrong:** Rajendra Prasad was the temporary President.  **Correct:** **Sachchidananda Sinha** was temporary; Prasad was elected permanent President.",
+        "**Wrong:** B.N. Rau chaired the Drafting Committee.  **Correct:** **Ambedkar** chaired it; **Rau was Constitutional Adviser**.",
+        "**Wrong:** the Vice-President of the Assembly later became Vice-President of India.  **Correct:** the offices are unconnected; do not transfer titles.",
+        "**Wrong:** Mavlankar presided over constitution-making.  **Correct:** he presided over the **legislative** capacity only."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "BRIDGE TO VALUES →",
+     "c": "magenta",
+     "outline": true,
+     "text": "Within four days of the first sitting the Assembly turned from constituting itself to declaring what it stood for. On **13 December 1946** Jawaharlal Nehru moved the **Objectives Resolution** — the document that fixed the Constitution's normative compass **before** its clauses were settled."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "kind": "core",
+   "title": "OBJECTIVES RESOLUTION → PREAMBLE — VALUES FIXED BEFORE THE CLAUSES",
+   "height_px": 1072,
+   "layout_signature": [
+    "chain",
+    "matrix",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Moved by Nehru, 13 Dec 1946",
+    "Adopted unanimously, 22 Jan 1947",
+    "Normative constraint on drafting",
+    "Modified form → Preamble",
+    "Socialist & secular only in 1976",
+    "Interpretive identity"
+   ],
+   "blocks": [
+    {
+     "type": "chain",
+     "per_row": 5,
+     "items": [
+      {
+       "t": "13 DEC 1946",
+       "s": "Jawaharlal Nehru moves the Objectives Resolution, four days after the first sitting",
+       "c": "amber"
+      },
+      {
+       "t": "22 JAN 1947",
+       "s": "The Assembly adopts it unanimously — before Partition and before sovereignty",
+       "c": "cyan"
+      },
+      {
+       "t": "DRAFTING CONSTRAINT",
+       "s": "Committees could disagree about machinery, but drafted within a publicly stated value framework",
+       "c": "teal"
+      },
+      {
+       "t": "MODIFIED FORM",
+       "s": "The Resolution, in modified form, became the Preamble of the Constitution",
+       "c": "magenta"
+      },
+      {
+       "t": "26 NOV 1949",
+       "s": "The modified values are enacted as the Preamble when the Constitution is adopted",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "RESOLUTION IDEA → CONSTITUTIONAL DESTINATION → CAUTION",
+     "widths": [
+      0.28,
+      0.34,
+      0.38
+     ],
+     "headers": [
+      "RESOLUTION IDEA",
+      "CONSTITUTIONAL DESTINATION",
+      "CAUTION THAT MUST ACCOMPANY IT"
+     ],
+     "rows": [
+      [
+       "Resolve for an **independent sovereign republic** and a Union",
+       "The Preamble's **sovereign democratic republic**",
+       "**'Socialist' and 'secular' were added only by the 42nd Amendment, 1976** — they are not 1949 words."
+      ],
+      [
+       "**Authority derived from the people**",
+       "**'WE, THE PEOPLE OF INDIA'**",
+       "The Assembly declaring popular authority was **itself indirectly elected** — state the tension, do not hide it."
+      ],
+      [
+       "**Justice, equality and the freedoms**",
+       "The Preamble **plus Parts III and IV**",
+       "Specific rights doctrine belongs to later topics; here only the **transmission of the value** is claimed."
+      ],
+      [
+       "**Safeguards for minorities, backward and tribal areas**",
+       "Rights provisions and special constitutional protections",
+       "Do **not** reduce 'safeguards' to separate electorates — the Assembly moved away from that device."
+      ],
+      [
+       "**Territorial integrity and contribution to world peace**",
+       "Preamble and Directive Principle ethos",
+       "This is **not a justiciable foreign-policy command**; it is a declared orientation."
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "MECHANISM — WHY IT MATTERED →",
+     "c": "teal",
+     "outline": true,
+     "text": "The Resolution worked as a **normative constraint**, not a piece of rhetoric. Adopted **before** the Drafting Committee even existed, it meant that every later disagreement over machinery — federal balance, emergency powers, the shape of rights — had to be argued **inside an already declared value framework**. That is the difference between a constitution that discovers its values at the end and one that commits to them first."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — OBJECTIVES RESOLUTION:",
+     "text": "The Objectives Resolution supplied the Constitution's **normative compass** by linking **popular sovereignty, justice, equality, freedom, safeguards and world peace** to the Preamble's final constitutional identity."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "kind": "pivot",
+   "title": "PIVOT — INDIAN INDEPENDENCE ACT 1947: THE ASSEMBLY BECOMES SOVEREIGN",
+   "height_px": 1770,
+   "layout_signature": [
+    "replace",
+    "panels2",
+    "band",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "External subordination ends",
+    "May frame ANY Constitution",
+    "May repeal British statutes",
+    "Dominion legislative authority",
+    "Two capacities, two chairs",
+    "Periodise every criticism"
+   ],
+   "blocks": [
+    {
+     "type": "replace",
+     "before": {
+      "h": "LEGAL POSITION BEFORE 15 AUGUST 1947",
+      "c": "red",
+      "items": [
+       "Constituted **under the Cabinet Mission scheme** — a British plan.",
+       "Framing power **derived from and bounded by** that scheme.",
+       "Continuing **external constitutional subordination** to Westminster.",
+       "No power to repeal British enactments applicable to India.",
+       "No ordinary legislative authority for the country."
+      ]
+     },
+     "after": {
+      "h": "LEGAL POSITION AFTER THE ACT OF 1947",
+      "c": "green",
+      "items": [
+       "**Sovereign** constitution-making body.",
+       "Free to **frame any Constitution** it pleased for India.",
+       "Power to **alter or repeal British constitutional statutes applicable to India**.",
+       "Power to exercise **legislative authority for the Dominion**.",
+       "Same members, transformed legal standing — the change is in **status**, not in composition."
+      ]
+     },
+     "arrow": "INDIAN INDEPENDENCE ACT 1947",
+     "note": "The Act ended external constitutional subordination to Westminster and enabled the Assembly to repeal British enactments for India. Partition simultaneously caused members from areas allocated to Pakistan to withdraw, and the sanctioned strength became 299 — 229 provincial and 70 princely-state seats."
+    },
+    {
+     "type": "panels",
+     "mid": "SAME MEMBERS",
+     "mid2": "Two capacities, two presiding officers, two kinds of business",
+     "panels": [
+      {
+       "h": "CAPACITY 1 — CONSTITUENT BODY",
+       "c": "cyan",
+       "sub": "Presiding officer: Dr Rajendra Prasad",
+       "items": [
+        "Framed, debated and **adopted the Constitution**.",
+        "Operated through committees, drafts, readings and amendments.",
+        "Its product was the **supreme law**, not an ordinary statute.",
+        "This capacity ended with **commencement on 26 January 1950**."
+       ]
+      },
+      {
+       "h": "CAPACITY 2 — DOMINION LEGISLATURE",
+       "c": "amber",
+       "sub": "Presiding officer: G.V. Mavlankar",
+       "items": [
+        "Performed **ordinary legislative business** for the Dominion of India.",
+        "Passed laws in the normal legislative manner, subject to ordinary amendment.",
+        "Continued after 26 January 1950 as the **provisional Parliament until 1952**, when the first general elections produced a new legislature.",
+        "Do **not** attribute constituent acts to this capacity, or legislation to the constituent one."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "PERIODISATION RULE →",
+     "c": "yellow",
+     "outline": true,
+     "text": "**Sovereignty criticism must be dated.** The Cabinet Mission shaped the Assembly's **origin**; the Act of 1947 removed the continuing **British legal veto**. Any statement that the Assembly 'was never sovereign' is wrong after 15 August 1947, and any statement that it 'was always sovereign' is wrong before it. Fix the date, then make the argument."
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT SOVEREIGNTY CURED",
+       "c": "green",
+       "items": [
+        "The **legal derivation** of framing power from a British plan.",
+        "The possibility of an **external veto** over the Constitution's content.",
+        "The inability to **clear away colonial statutes** — later exercised through Article 395."
+       ]
+      },
+      {
+       "h": "WHAT SOVEREIGNTY DID NOT CURE",
+       "c": "red",
+       "items": [
+        "**Indirect election** of the members already sitting — no fresh election followed.",
+        "The **restricted franchise** behind the provincial legislatures that had chosen them.",
+        "**Princely nomination** as the route by which state representatives had entered.",
+        "These remain fully relevant to **representativeness**, which is a different question from sovereignty."
+       ]
+      },
+      {
+       "h": "HOW TO DEPLOY THE DISTINCTION",
+       "c": "teal",
+       "items": [
+        "Separate the two charges explicitly: 'not sovereign' is answered by **1947**; 'not representative' is answered by **social range, deliberation and output**.",
+        "Collapsing them is the commonest reason a strong-looking Mains answer loses evaluation marks.",
+        "In Prelims, watch for statements that mix the **origin date** and the **sovereignty date**."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — SOVEREIGNTY ARGUMENT:",
+     "text": "The Assembly began under the **Cabinet Mission scheme**, but the **Indian Independence Act 1947** removed external legal subordination and made it a **sovereign constitution-making and legislative body**."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "kind": "core",
+   "title": "COMMITTEE ARCHITECTURE — SPECIALISATION, REPORTING AND ASSEMBLY CONTROL",
+   "height_px": 2301,
+   "layout_signature": [
+    "tree",
+    "matrix",
+    "cols2",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Nehru — Union side",
+    "Patel — Provincial & Advisory",
+    "Ambedkar — Drafting, 29 Aug 1947",
+    "Kripalani — Fundamental Rights",
+    "Mukherjee — Minorities",
+    "Chairmanship ≠ authorship"
+   ],
+   "blocks": [
+    {
+     "type": "tree",
+     "root": {
+      "t": "THE CONSTITUENT ASSEMBLY IN PLENARY — FINAL INSTITUTIONAL AUTHORITY",
+      "s": "Every committee reported to it; every recommendation remained subject to its debate, amendment and vote",
+      "c": "yellow"
+     },
+     "branches": [
+      {
+       "h": "UNION SIDE — NEHRU",
+       "c": "cyan",
+       "leaves": [
+        {
+         "t": "Union Powers Committee",
+         "s": "Chair: Jawaharlal Nehru — distribution and character of Union powers"
+        },
+        {
+         "t": "Union Constitution Committee",
+         "s": "Chair: Jawaharlal Nehru — structure of the Union constitution"
+        },
+        {
+         "t": "States Committee",
+         "s": "Chair: Jawaharlal Nehru — relations with the princely states"
+        }
+       ]
+      },
+      {
+       "h": "PROVINCIAL & RIGHTS SIDE — PATEL",
+       "c": "amber",
+       "leaves": [
+        {
+         "t": "Provincial Constitution Committee",
+         "s": "Chair: Vallabhbhai Patel — provincial constitutional structure"
+        },
+        {
+         "t": "Advisory Committee",
+         "s": "Chair: Vallabhbhai Patel — fundamental rights, minorities, tribal and excluded areas"
+        }
+       ]
+      },
+      {
+       "h": "ADVISORY SUB-COMMITTEES",
+       "c": "magenta",
+       "leaves": [
+        {
+         "t": "Fundamental Rights Sub-Committee",
+         "s": "Chair: J.B. Kripalani — rights recommendations"
+        },
+        {
+         "t": "Minorities Sub-Committee",
+         "s": "Chair: H.C. Mukherjee — minority safeguards"
+        },
+        {
+         "t": "North-East Frontier (Assam) Tribal and Excluded Areas Sub-Committee",
+         "s": "Chair: Gopinath Bardoloi"
+        },
+        {
+         "t": "Excluded and Partially Excluded Areas Sub-Committee (other than Assam)",
+         "s": "Chair: A.V. Thakkar"
+        }
+       ]
+      },
+      {
+       "h": "PROCEDURE & DRAFTING",
+       "c": "green",
+       "leaves": [
+        {
+         "t": "Rules of Procedure Committee",
+         "s": "Chair: Dr Rajendra Prasad — how the Assembly would conduct itself"
+        },
+        {
+         "t": "Steering Committee",
+         "s": "Chair: Dr Rajendra Prasad — business management of the Assembly"
+        },
+        {
+         "t": "Drafting Committee",
+         "s": "Chair: B.R. Ambedkar — appointed 29 August 1947 to convert decisions and reports into a coherent draft"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "COMMITTEE → CHAIR → CORE SCOPE (LEARN AS A TABLE, NOT AS A LIST OF NAMES)",
+     "widths": [
+      0.34,
+      0.22,
+      0.44
+     ],
+     "headers": [
+      "COMMITTEE",
+      "CHAIR",
+      "CORE SCOPE"
+     ],
+     "rows": [
+      [
+       "Union Powers Committee",
+       "**Jawaharlal Nehru**",
+       "Distribution and character of Union powers"
+      ],
+      [
+       "Union Constitution Committee",
+       "**Jawaharlal Nehru**",
+       "Structure of the Union constitution"
+      ],
+      [
+       "States Committee",
+       "**Jawaharlal Nehru**",
+       "Relations between the Union and the princely states"
+      ],
+      [
+       "Provincial Constitution Committee",
+       "**Vallabhbhai Patel**",
+       "Provincial constitutional structure"
+      ],
+      [
+       "Advisory Committee",
+       "**Vallabhbhai Patel**",
+       "Fundamental rights, minorities, tribal and excluded areas"
+      ],
+      [
+       "Fundamental Rights Sub-Committee",
+       "**J.B. Kripalani**",
+       "Rights recommendations to the Advisory Committee"
+      ],
+      [
+       "Minorities Sub-Committee",
+       "**H.C. Mukherjee**",
+       "Minority safeguards"
+      ],
+      [
+       "North-East Frontier (Assam) Tribal / Excluded Areas Sub-Committee",
+       "**Gopinath Bardoloi**",
+       "Assam tribal and excluded areas"
+      ],
+      [
+       "Excluded and Partially Excluded Areas Sub-Committee (other than Assam)",
+       "**A.V. Thakkar**",
+       "Tribal and excluded areas outside Assam"
+      ],
+      [
+       "Rules of Procedure and Steering Committees",
+       "**Dr Rajendra Prasad**",
+       "Procedure and business management of the Assembly"
+      ],
+      [
+       "Drafting Committee",
+       "**B.R. Ambedkar**",
+       "Convert committee decisions and reports into a coherent draft"
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 40,
+     "cols": [
+      {
+       "h": "WHAT THE ARCHITECTURE ACHIEVED",
+       "c": "teal",
+       "items": [
+        "It **separated four functions that are usually confused**: agenda formation, negotiated settlement, legal drafting and plenary authorisation.",
+        "The Advisory Committee was itself supported by **specialised sub-committees** on fundamental rights, minorities and tribal / excluded areas — expertise was pushed downwards, authority pulled upwards.",
+        "It explains why **'Ambedkar wrote the Constitution' is useful shorthand but bad institutional history**: reports, adviser work, drafting, amendments and final Assembly votes were separate stages.",
+        "It also explains the **speed**: parallel committees worked through 1946–47 while the plenary handled the Objectives Resolution and, after 1947, Dominion legislation."
+       ]
+      },
+      {
+       "h": "COMMITTEE TRAPS",
+       "c": "red",
+       "items": [
+        "**Wrong:** the Drafting Committee decided every constitutional principle independently.  **Correct:** it drafted **within Assembly and committee decisions**.",
+        "**Wrong:** Patel chaired the Fundamental Rights Sub-Committee.  **Correct:** **J.B. Kripalani** chaired it; **Patel chaired the parent Advisory Committee**.",
+        "**Wrong:** Nehru chaired the Provincial Constitution Committee.  **Correct:** that was **Patel**; Nehru held the **Union** side and the **States Committee**.",
+        "**Chairmanship does not imply sole authorship**; committee recommendations remained subject to the Assembly at every stage."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — COMMITTEE ARCHITECTURE:",
+     "text": "The committee system made constitution-making **institutionally intelligible**: Nehru's committees fixed the Union's powers and structure, Patel's fixed provincial structure and rights, specialised sub-committees carried minority and tribal questions, and the Drafting Committee gave legal form — while **plenary authorisation remained undivided**."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "kind": "core",
+   "title": "B.N. RAU versus THE DRAFTING COMMITTEE — RESEARCH IS NOT DRAFTING, DRAFTING IS NOT ADOPTION",
+   "height_px": 1432,
+   "layout_signature": [
+    "panels2",
+    "chain",
+    "cols3",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Rau — Constitutional Adviser",
+    "Adviser draft, Oct 1947",
+    "DC appointed 29 Aug 1947",
+    "Seven members",
+    "141 sitting days",
+    "Assembly = final author"
+   ],
+   "blocks": [
+    {
+     "type": "panels",
+     "mid": "ADJACENT",
+     "mid2": "Two different offices, two different products — the single most tested distinction on this topic",
+     "panels": [
+      {
+       "h": "B.N. RAU — CONSTITUTIONAL ADVISER",
+       "c": "magenta",
+       "sub": "An officer of the Assembly, not a member of the Drafting Committee",
+       "items": [
+        "Provided **comparative research and advice** on constitutional techniques drawn from other systems.",
+        "Prepared the **initial constitutional-adviser draft in October 1947**, which **preceded** the Drafting Committee's published Draft.",
+        "**Widened the menu** of available constitutional devices for the Assembly to choose from.",
+        "**Boundary:** he did **not** chair the Drafting Committee and did **not** adopt anything — advice is not authority."
+       ]
+      },
+      {
+       "h": "DRAFTING COMMITTEE — CHAIRED BY B.R. AMBEDKAR",
+       "c": "cyan",
+       "sub": "Appointed 29 August 1947  •  seven members  •  sat for 141 days",
+       "items": [
+        "**Scrutinised** the adviser's material and the committee reports, **reconciled** decisions and **framed the Draft Constitution**.",
+        "Published a **Draft Constitution in February 1948** and a **revised draft in October 1948**.",
+        "**Ambedkar introduced the Draft in the Assembly on 4 November 1948** and piloted and defended it clause by clause.",
+        "**Boundary:** it could **not replace the plenary Assembly's authority**; its text did not become law without plenary amendment and adoption."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "chain",
+     "per_row": 5,
+     "items": [
+      {
+       "t": "RESEARCH",
+       "s": "B.N. Rau: comparative advice and the adviser draft of October 1947",
+       "c": "magenta"
+      },
+      {
+       "t": "DRAFTING",
+       "s": "Drafting Committee: reconciles decisions and frames the Draft Constitution",
+       "c": "cyan"
+      },
+      {
+       "t": "PILOTING",
+       "s": "Ambedkar introduces the Draft on 4 November 1948 and defends it in debate",
+       "c": "amber"
+      },
+      {
+       "t": "AMENDMENT",
+       "s": "The Assembly debates, moves amendments and alters the text clause by clause",
+       "c": "teal"
+      },
+      {
+       "t": "ADOPTION",
+       "s": "The Assembly adopts and later signs — democratic-deliberative authority supplied here",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "THE SEVEN MEMBERS AND THE TWO REPLACEMENTS",
+       "c": "amber",
+       "items": [
+        "**B.R. Ambedkar** — Chairman.",
+        "**N. Gopalaswami Ayyangar**  ·  **Alladi Krishnaswami Ayyar**  ·  **K.M. Munshi**.",
+        "**Mohammad Saadulla**  ·  **B.L. Mitter**  ·  **D.P. Khaitan**.",
+        "**N. Madhava Rau replaced B.L. Mitter**; **T.T. Krishnamachari replaced D.P. Khaitan**.",
+        "Committee strength stayed at **seven** throughout — replacements, not additions."
+       ]
+      },
+      {
+       "h": "EXACT BOUNDARIES — WHO COULD DO WHAT",
+       "c": "teal",
+       "items": [
+        "**B.N. Rau** — research, advice, adviser draft.  **Could not** chair the Drafting Committee or adopt the Constitution.",
+        "**Drafting Committee** — scrutiny, reconciliation, drafting.  **Could not** replace plenary authority.",
+        "**B.R. Ambedkar** — chaired, piloted and defended the Draft.  Central role, but **not solitary authorship**.",
+        "**S.N. Mukerjee** — technical drafting and language.  **Not the constitutional decision-maker**.",
+        "**The Assembly** — debated, amended, adopted and signed.  **Final institutional author**."
+       ]
+      },
+      {
+       "h": "THE TWIN ERRORS TO AVOID",
+       "c": "red",
+       "items": [
+        "**Wrong:** B.N. Rau was a member of the Drafting Committee.  **Correct:** he was **Constitutional Adviser**.",
+        "**Wrong:** the Drafting Committee's text became law without plenary amendment.  **Correct:** the Assembly **debated and amended it**.",
+        "Avoid **both** failures of judgement: erasing Ambedkar's exceptional leadership, **and** reducing a collective process to one person.",
+        "'Father of the Constitution' is a **label**, not an analytical claim — never use it as evidence."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — PROCESS ANALYSIS:",
+     "text": "Indian constitution-making was **distributed authorship**: committees settled principles, **B.N. Rau** prepared comparative advice, the **Drafting Committee** produced legal form and the **Assembly** amended and adopted the text."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "kind": "core",
+   "title": "DRAFTS, PUBLIC COMMENT AND THE THREE READINGS — WHERE THE TEXT WAS ACTUALLY MADE",
+   "height_px": 1481,
+   "layout_signature": [
+    "pipeline",
+    "cols3",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Adviser draft Oct 1947",
+    "Draft published Feb 1948",
+    "Revised draft Oct 1948",
+    "First reading 4 Nov 1948",
+    "Second reading to 17 Oct 1949",
+    "Third reading 14–26 Nov 1949"
+   ],
+   "blocks": [
+    {
+     "type": "pipeline",
+     "per_row": 3,
+     "stages": [
+      {
+       "d": "OCT 1947",
+       "t": "CONSTITUTIONAL-ADVISER DRAFT",
+       "s": "**B.N. Rau** prepares the initial draft. Committee reports and this adviser draft **precede** the Drafting Committee's Draft Constitution.",
+       "c": "magenta"
+      },
+      {
+       "d": "FEB 1948",
+       "t": "DRAFT CONSTITUTION PUBLISHED",
+       "s": "The Drafting Committee's **Draft Constitution is published**, opening it to public scrutiny and comment rather than keeping it internal.",
+       "c": "amber"
+      },
+      {
+       "d": "OCT 1948",
+       "t": "REVISED DRAFT",
+       "s": "The **public draft and the comments received feed further revision**; a revised draft is published before the plenary stage begins.",
+       "c": "yellow"
+      },
+      {
+       "d": "4 NOV 1948",
+       "t": "FIRST READING — GENERAL DISCUSSION",
+       "s": "**Ambedkar introduces the Draft in the Assembly.** The house debates the Constitution's **principles and structure as a whole**, not its clauses.",
+       "c": "cyan"
+      },
+      {
+       "d": "15 NOV 1948 – 17 OCT 1949",
+       "t": "SECOND READING — CLAUSE BY CLAUSE",
+       "s": "The **longest and most decisive stage**: every clause is considered, amendments are moved, and text is altered. This is where the Assembly's authorship is exercised.",
+       "c": "teal"
+      },
+      {
+       "d": "14–26 NOV 1949",
+       "t": "THIRD READING — ADOPTION",
+       "s": "Final consideration of the Constitution **as a whole**, ending in **adoption on 26 November 1949**.",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "WHAT EACH READING ACTUALLY DID",
+       "c": "cyan",
+       "items": [
+        "**First reading** — general discussion of principles; no clause is settled here.",
+        "**Second reading** — clause-by-clause consideration; amendments are moved and disposed of; the operative text is fixed here and the stage closes on **17 October 1949**.",
+        "**Third reading** — the Constitution is considered as a completed instrument and adopted.",
+        "The three readings are **sequential legal stages**, not three debates on the same thing. Mixing them is a standard Prelims error."
+       ]
+      },
+      {
+       "h": "WHY PUBLICATION AND PUBLIC COMMENT MATTER",
+       "c": "teal",
+       "items": [
+        "Publishing the Draft in **February 1948** converted an internal committee document into a **publicly contestable text**.",
+        "Comments received fed the **October 1948 revision** — so the public stage had traceable textual effect, not merely symbolic value.",
+        "This is the strongest procedural answer to the charge that a dominant party simply imposed a text.",
+        "It also explains the interval between the adviser draft (Oct 1947) and the first reading (Nov 1948): the year was spent on scrutiny."
+       ]
+      },
+      {
+       "h": "READING-STAGE TRAPS",
+       "c": "red",
+       "items": [
+        "**Wrong:** the Drafting Committee's text became law as drafted.  **Correct:** the Assembly **debated and amended it** through the second reading.",
+        "**Wrong:** clause-by-clause consideration began on 4 November 1948.  **Correct:** that date began the **first reading**; clause-by-clause work began **15 November 1948**.",
+        "**Wrong:** all proposed amendments were accepted.  **Correct:** use the source wording — **proposed** and **moved/disposed** are different counts.",
+        "**Wrong:** the third reading ran through 1949 generally.  **Correct:** **14–26 November 1949**."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "SCALE OF THE SCRUTINY →",
+     "c": "amber",
+     "outline": true,
+     "text": "In the commonly cited Assembly account, **7,653 amendments were proposed and 2,473 were moved or disposed of** in the Assembly. Use this wording carefully: **do not say that all were accepted**, and do not merge the two figures. The **Draft Constitution was debated for 114 days**, which is not the same as the Assembly's total working days."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — DELIBERATIVE SCRUTINY:",
+     "text": "Between the **published Draft of February 1948** and **adoption in November 1949** the text passed through public comment, revision and **clause-by-clause second reading** — so the Constitution's authority rests not on who drafted it but on **how exhaustively it was contested before it was adopted**."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "kind": "core",
+   "title": "ADOPTION, SIGNING AND COMMENCEMENT — THREE DISTINCT CONSTITUTIONAL EVENTS",
+   "height_px": 1596,
+   "layout_signature": [
+    "timeline",
+    "matrix",
+    "cols3",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Adopted 26 Nov 1949",
+    "Preamble + 395 Articles + 8 Schedules",
+    "Signed 24 Jan 1950 by 284",
+    "Commenced 26 Jan 1950",
+    "Article 394 — commencement",
+    "Article 395 — repeals"
+   ],
+   "blocks": [
+    {
+     "type": "timeline",
+     "c": "green",
+     "items": [
+      {
+       "d": "26 Nov 1949",
+       "t": "ADOPTION / ENACTMENT — the Constituent Assembly adopts the Constitution: a Preamble, 395 Articles and 8 Schedules. Specified provisions commence at once."
+      },
+      {
+       "d": "24 Jan 1950",
+       "t": "SIGNING — 284 members append their signatures to the enrolled copies. Signing occurs AFTER adoption and is a separate event."
+      },
+      {
+       "d": "26 Jan 1950",
+       "t": "GENERAL COMMENCEMENT — the remaining provisions come into force under Article 394; India becomes a republic. Article 395 repeals the Indian Independence Act 1947 and the Government of India Act 1935."
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "cyan",
+     "title": "EVENT → DATE → EXACT LEGAL MEANING (THE SAFEST PRESENTATION FOR BOTH PRELIMS AND MAINS)",
+     "widths": [
+      0.24,
+      0.16,
+      0.6
+     ],
+     "headers": [
+      "EVENT",
+      "DATE",
+      "LEGAL MEANING"
+     ],
+     "rows": [
+      [
+       "**Adoption / enactment**",
+       "**26 Nov 1949**",
+       "The Assembly adopted the Constitution; **specified provisions commenced at once**."
+      ],
+      [
+       "**Original output**",
+       "**26 Nov 1949**",
+       "**Preamble, 395 Articles and 8 Schedules** — the Constitution as originally adopted."
+      ],
+      [
+       "**Signing**",
+       "**24 Jan 1950**",
+       "**284 members appended signatures**. Not an adoption, not a commencement."
+      ],
+      [
+       "**General commencement**",
+       "**26 Jan 1950**",
+       "The **remaining provisions** commenced under **Article 394**."
+      ],
+      [
+       "**Repeal transition**",
+       "**26 Jan 1950**",
+       "**Article 395** repealed the **Indian Independence Act 1947** and the **Government of India Act 1935**, subject to its own text."
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "ARTICLE 394 — WHAT COMMENCED AT ONCE",
+       "c": "teal",
+       "items": [
+        "Article **394** brought **Articles 5–9, 60, 324, 366, 367, 379, 380, 388 and 391–393** into force **at once** on adoption.",
+        "The **remaining provisions** came into force on **26 January 1950**.",
+        "The logic is functional: **citizenship (5–9)**, the **President's oath (60)**, the **Election Commission (324)** and **definitions and interpretation (366, 367)** had to operate **before** the rest of the Constitution could sensibly begin.",
+        "**Articles 379, 380, 388 and 391–393** are transitional and machinery provisions of the same character."
+       ]
+      },
+      {
+       "h": "ARTICLES 393 AND 395 — TITLE AND REPEAL",
+       "c": "amber",
+       "items": [
+        "Article **393** gives the **short title** — 'This Constitution may be called the Constitution of India.'",
+        "Article **395** **repealed the Indian Independence Act 1947 and the Government of India Act 1935**, together with the enactments amending or supplementing them.",
+        "The **Abolition of Privy Council Jurisdiction Act 1949 continued** — it was not swept away by Article 395.",
+        "Read Articles **393–395 together**: title, commencement and repeal are the closing machinery of the document."
+       ]
+      },
+      {
+       "h": "DATE TRAPS THAT DECIDE MARKS",
+       "c": "red",
+       "items": [
+        "**Wrong:** adoption, signing and commencement occurred together.  **Correct:** **three distinct dates**.",
+        "**Wrong:** the whole Constitution commenced on 26 November 1949.  **Correct:** only **specified provisions** did; the remainder on **26 January 1950**.",
+        "**Wrong:** the Constitution was adopted on Republic Day, or signed on 26 November.  **Correct:** adopted **26 Nov 1949**, signed **24 Jan 1950**, commenced **26 Jan 1950**.",
+        "**Wrong:** 299 members signed.  **Correct:** **284** signed; **299** was the post-Partition strength."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "WHY 26 JANUARY →",
+     "c": "yellow",
+     "outline": true,
+     "text": "The date was **chosen, not administrative**. **26 January 1930** had been observed as **Purna Swaraj Day** following the Lahore Congress resolution on complete independence. Commencing the Constitution on that anniversary tied the republic's legal birth to the nationalist movement's own declaration — the symbolic argument that makes this a Mains point, not merely a date."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — ADOPTION / COMMENCEMENT:",
+     "text": "Adoption on **26 November 1949**, signing on **24 January 1950** and general commencement on **26 January 1950** were **distinct constitutional events governed by Articles 393–395**."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "kind": "core",
+   "title": "TIME, SITTINGS, COST, OTHER FUNCTIONS AND CONSTITUTIONAL CRAFT",
+   "height_px": 1454,
+   "layout_signature": [
+    "dash",
+    "row(cols+cols)",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "2 years 11 months 18 days",
+    "11 sessions",
+    "114 days of Draft debate",
+    "141 Drafting Committee days",
+    "About Rs 64 lakh",
+    "About 60 countries studied"
+   ],
+   "blocks": [
+    {
+     "type": "dash",
+     "per_row": 3,
+     "items": [
+      {
+       "n": "2y 11m 18d",
+       "l": "TIME TAKEN",
+       "s": "From the first sitting on 9 December 1946 to adoption on 26 November 1949",
+       "c": "amber"
+      },
+      {
+       "n": "11",
+       "u": "sessions",
+       "l": "SESSIONS HELD",
+       "s": "The standard Assembly account records eleven sessions",
+       "c": "cyan"
+      },
+      {
+       "n": "114",
+       "u": "days",
+       "l": "DRAFT DEBATED",
+       "s": "Days on which the Draft Constitution was debated — NOT the Assembly's total working days",
+       "c": "teal"
+      },
+      {
+       "n": "141",
+       "u": "days",
+       "l": "DRAFTING COMMITTEE SAT",
+       "s": "Sitting days of the seven-member Drafting Committee under Ambedkar",
+       "c": "magenta"
+      },
+      {
+       "n": "Rs 64",
+       "u": "lakh",
+       "l": "COMMONLY RECORDED COST",
+       "s": "Historical nominal figure — do not modernise it without stating a method",
+       "c": "yellow"
+      },
+      {
+       "n": "~60",
+       "u": "countries",
+       "l": "CONSTITUTIONS STUDIED",
+       "s": "Comparative experience informed selection and adaptation, not mechanical copying",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "gap": 40,
+     "children": [
+      {
+       "w": 0.5,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "OTHER FUNCTIONS THE ASSEMBLY PERFORMED — WITH EXACT DATES",
+          "c": "amber",
+          "items": [
+           "**Adopted the National Flag — 22 July 1947.** Separate from the adoption of the Constitution; do not merge the two dates.",
+           "**Ratified continued Commonwealth membership — May 1949.** This did **not** preserve Dominion status after 26 January 1950.",
+           "**Adopted the National Anthem and the National Song — 24 January 1950**, at the same sitting at which members signed.",
+           "**Elected Dr Rajendra Prasad first President of India — 24 January 1950.** The office began with the Republic.",
+           "**Continued as the provisional Parliament from 26 January 1950 until 1952**, when the first elected Parliament assembled after the general elections.",
+           "So the Assembly was a **state-building body**, not merely a drafting body — that framing earns marks in a process question."
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "w": 0.5,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "CRAFT, SYMBOL AND THE MATERIAL RECORD",
+          "c": "magenta",
+          "items": [
+           "**The Preamble was enacted last**, after the operative provisions, so that it reflected the Constitution **as finally settled**.",
+           "**The seal or symbol of the Assembly was the elephant.**",
+           "**Prem Behari Narain Raizada calligraphed the English text** in a flowing italic hand.",
+           "**Nandalal Bose led the Shantiniketan artwork**; **Beohar Rammanohar Sinha illuminated the Preamble page**.",
+           "**The authoritative Hindi text** was constitutionally provided later, through the **58th Amendment, 1987**.",
+           "**26 November was designated Samvidhan Divas (Constitution Day) in 2015**, marking the adoption date — not the commencement date.",
+           "The **Constituent Assembly Debates** survive as the deliberative record of all this, and are used in interpretation."
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "PROPORTION RULE →",
+     "c": "red",
+     "outline": true,
+     "text": "These are **Prelims support facts**. They must **not displace institutional analysis in a Mains answer**. Deploy one or two — the elephant seal, the calligraphy, the Preamble enacted last — as texture inside an argument about constitutional culture; never let them become the argument itself."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — INTERPRETIVE STATUS OF THE DEBATES:",
+     "text": "Constituent Assembly Debates are **persuasive external aids to purpose where text is ambiguous**, but they are **neither binding law nor a licence to override the enacted Constitution**."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "kind": "core",
+   "title": "REPRESENTATIVENESS — CRITICISM versus EVIDENCE-LED REPLY, WITH THE RESIDUE KEPT",
+   "height_px": 1574,
+   "layout_signature": [
+    "matrix",
+    "row(cols+cols)",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Concede the kernel",
+    "Answer with named evidence",
+    "Retain the qualification",
+    "Periodise sovereignty",
+    "Electoral vs deliberative",
+    "No rhetorical quotations"
+   ],
+   "blocks": [
+    {
+     "type": "matrix",
+     "c": "yellow",
+     "title": "THE SEVEN STANDARD CRITICISMS — EACH WITH ITS EVIDENCE-LED REPLY AND RESIDUAL QUALIFICATION",
+     "widths": [
+      0.19,
+      0.42,
+      0.39
+     ],
+     "headers": [
+      "CRITICISM",
+      "EVIDENCE-LED REPLY",
+      "QUALIFICATION THAT MUST SURVIVE"
+     ],
+     "rows": [
+      [
+       "**Non-sovereign**",
+       "The **Indian Independence Act 1947** made it **fully sovereign** to frame any Constitution and repeal British statutes.",
+       "A **British plan shaped its origin** — the Cabinet Mission scheme was not Indian in authorship."
+      ],
+      [
+       "**Non-representative**",
+       "**Social diversity, recorded debate** and the **future universal franchise** it constitutionalised.",
+       "There was **no direct adult-franchise election** to the Assembly."
+      ],
+      [
+       "**Congress-dominated**",
+       "Congress was a **broad coalition**; **non-Congress experts and dissent were included** in decisive roles.",
+       "**208 of 296** electoral seats **confirms the dominance** — it cannot be argued away."
+      ],
+      [
+       "**Lawyer-heavy**",
+       "**Legal expertise produced a detailed, workable text** capable of surviving litigation and administration.",
+       "**Professional and social imbalance remained** in the body's composition."
+      ],
+      [
+       "**Time-consuming**",
+       "**11 sessions**, a complex political transition and **extended clause-by-clause scrutiny**.",
+       "Comparisons with shorter constitutions are **context-sensitive**, not decisive either way."
+      ],
+      [
+       "**Borrowed**",
+       "Foreign devices were **adapted and integrated**, not transplanted.",
+       "**Colonial and foreign continuities were substantial** and should be admitted."
+      ],
+      [
+       "**Hindu-dominated**",
+       "The **League boycott and Partition altered composition**; **minority channels remained** through the Advisory Committee structure.",
+       "**Post-Partition imbalance cannot be denied.**"
+      ]
+     ]
+    },
+    {
+     "type": "row",
+     "gap": 40,
+     "children": [
+      {
+       "w": 0.5,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "THE FIVE-MOVE EVALUATION TEMPLATE",
+          "c": "green",
+          "items": [
+           "**1 — State the criticism** in its strongest form; a suppressed objection reads as evasion.",
+           "**2 — Concede the factual kernel.** The strongest reply **never denies the criticism's factual kernel**.",
+           "**3 — Identify the contextual constraint or institutional answer** — Partition, the absence of any adult-franchise machinery in 1946, the committee system, the 1947 Act.",
+           "**4 — Give named evidence**: dates, numbers, offices, procedures.",
+           "**5 — Retain a residual limitation.** Every reply must leave something conceded.",
+           "Written as: **criticism → conceded kernel → named evidence → reply → residual limit**."
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "w": 0.5,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "THE THREE ANALYTICAL DISTINCTIONS THAT RAISE THE GRADE",
+          "c": "cyan",
+          "items": [
+           "**Periodise sovereignty.** The criticism is **plausible at the British-created origin** and **substantially answered after the Indian Independence Act 1947** — it is not true or false timelessly.",
+           "**Split representativeness into two dimensions.** The Assembly was **weak on direct electoral mandate** but **stronger on social range, reason-giving and the universal franchise it created**.",
+           "**Separate the effects of dominance.** Congress dominance **aided settlement** but **raises questions about agenda control**; lawyerly expertise **aided drafting** but **could not substitute for social representation**.",
+           "**[LIMIT] Do not use unverifiable rhetorical quotations from critics.** The evidence is sufficient without decorative attribution.",
+           "**Trap:** 'defence requires denying defects.'  **Correct:** high-quality evaluation **concedes and qualifies**."
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "DATING THE CHARGE →",
+     "c": "cyan",
+     "outline": true,
+     "text": "**Wrong:** the Independence Act made the Assembly sovereign from its first meeting.  **Correct:** the change occurred in **1947** — the Assembly of December 1946 and the Assembly of August 1947 stood in different legal positions with the same members. Every sovereignty criticism must be **dated before it is answered**."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — CRITICISM / REPLY:",
+     "text": "A balanced evaluation concedes the Assembly's **restricted franchise, Congress dominance and social imbalance**, but weighs them against **post-1947 sovereignty, plural participation, clause-by-clause scrutiny and democratic constitutional output**."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "kind": "core",
+   "title": "BORROWED PROVISIONS AS ADAPTATION, NOT COPYING — SOURCE → FEATURE → INDIAN TRANSFORMATION",
+   "height_px": 1477,
+   "layout_signature": [
+    "adapt",
+    "cols3",
+    "band",
+    "answer"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Comparative study ≠ copying",
+    "Select · modify · integrate",
+    "1935 Act = administrative source",
+    "Not the democratic source",
+    "Continuity + rupture",
+    "No one-feature-one-country lists"
+   ],
+   "blocks": [
+    {
+     "type": "adapt",
+     "h1": "SOURCE FAMILY",
+     "h2": "OFTEN-ASSOCIATED FEATURE",
+     "h3": "INDIAN ADAPTATION — WHAT ACTUALLY CHANGED",
+     "rows": [
+      {
+       "src": "UNITED KINGDOM",
+       "c": "cyan",
+       "dev": "Parliamentary government, cabinet responsibility and rule-of-law traditions.",
+       "ind": "Placed under a **written and supreme Constitution** with **judicially enforceable rights** — the opposite of an unwritten, parliamentary-sovereign order."
+      },
+      {
+       "src": "UNITED STATES",
+       "c": "teal",
+       "dev": "Fundamental rights and judicial review / federal devices.",
+       "ind": "A **parliamentary rather than presidential executive**, and rights written with **detailed limits and exceptions** rather than open-textured guarantees."
+      },
+      {
+       "src": "IRELAND",
+       "c": "green",
+       "dev": "Directive Principles of State Policy.",
+       "ind": "**Non-justiciable goals integrated with enforceable rights**, so that social aims and legal remedies sit in one instrument."
+      },
+      {
+       "src": "CANADA",
+       "c": "magenta",
+       "dev": "A federation with a strong centre.",
+       "ind": "**Distinct Union and State lists** operating in the **Indian emergency and integration context** created by Partition and princely accession."
+      },
+      {
+       "src": "GOVERNMENT OF INDIA ACT 1935",
+       "c": "amber",
+       "dev": "Federal-administrative machinery, offices and legislative lists.",
+       "ind": "**Democratised, rights-bound and placed under popular sovereignty** — the machinery survived, but its **source of authority was replaced**."
+      }
+     ]
+    },
+    {
+     "type": "cols",
+     "cols": [
+      {
+       "h": "THE TEST OF ADAPTATION",
+       "c": "teal",
+       "items": [
+        "**Borrowing is a technique, not a verdict.** The correct test is whether an institution was **selected, modified and integrated** to meet Indian conditions.",
+        "Adaptation must be demonstrated through **changed function**, not asserted.",
+        "Three secure examples of synthesis: **parliamentary government under a written supreme Constitution**; **enforceable rights alongside Directive Principles**; **a federation with a strong Union**.",
+        "The framers studied constitutional experience from **about sixty countries** — breadth of study is itself evidence of selection rather than transplant."
+       ]
+      },
+      {
+       "h": "CONTINUITY AND RUPTURE — THE SHARPEST FRAME",
+       "c": "magenta",
+       "items": [
+        "The Constitution combined **continuity of institutions with rupture in legitimacy**.",
+        "**Continuity:** colonial offices, lists and administrative machinery were retained where useful — the 1935 Act supplied an inheritance the new state could actually run.",
+        "**Rupture:** authority was **relocated to the people** and to **universal adult citizenship**; the same machinery now answered to a different sovereign.",
+        "This is why 'the Constitution simply reproduced the 1935 Act' is wrong: it **transformed source, rights, accountability and citizenship**."
+       ]
+      },
+      {
+       "h": "BORROWING TRAPS",
+       "c": "red",
+       "items": [
+        "**Wrong:** a borrowed device is necessarily unsuitable.  **Correct:** suitability depends on **adaptation and integration**.",
+        "**Wrong:** the 1935 Act was the democratic source of the Constitution.  **Correct:** it was an **administrative source only**.",
+        "**[LIMIT] Avoid unverified one-feature-one-country lists.** Many ideas have **multiple lineages**; use only securely established associations and **explain the adaptation**.",
+        "In Mains, present this as a **three-column source–feature–adaptation table**, never as a memorised list."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "band",
+     "label": "SEQUENCE OF THE COMPARATIVE WORK →",
+     "c": "amber",
+     "outline": true,
+     "text": "**Before 1947** the 1935 Act provided an administrative inheritance  →  **1946–48** B.N. Rau and the committees studied comparative models  →  **1948–49** the Assembly **selected, modified and integrated** the devices during the readings. Comparative learning was therefore **filtered through Indian problems** at a definite stage of the process, not imported wholesale at the start."
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — BORROWING AS ADAPTATION:",
+     "text": "The charge of borrowing mistakes a **method for a verdict**: the framers selected devices from about sixty constitutional systems and from the 1935 Act's machinery, but **changed their function** — parliamentary government was placed under a supreme written text, rights were made enforceable, and colonial administration was **re-founded on popular sovereignty**."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "kind": "core",
+   "title": "SYNTHESIS — THE ANSWER SPINE, PYQ ROUTES AND THE GRADED VERDICT",
+   "height_px": 2396,
+   "layout_signature": [
+    "chain",
+    "row(matrix+cols)",
+    "matrix",
+    "cols2",
+    "answer",
+    "band"
+   ],
+   "pill_count": 6,
+   "pills": [
+    "Demand → scheme → sovereignty → text",
+    "Claim · evidence · significance · limit",
+    "4 routed Prelims demands",
+    "No direct Mains PYQ found locally",
+    "Relevance is institutional design",
+    "End with a graded verdict"
+   ],
+   "blocks": [
+    {
+     "type": "chain",
+     "per_row": 3,
+     "items": [
+      {
+       "t": "1934–1946 — THE DEMAND",
+       "s": "Roy's idea, Congress demand, adult-franchise standard, British concessions in stages",
+       "c": "amber"
+      },
+      {
+       "t": "1946 — THE SCHEME",
+       "s": "Cabinet Mission Plan supplies allocation, electorate and voting method: 292 + 4 + 93 = 389",
+       "c": "cyan"
+      },
+      {
+       "t": "1946 — THE BODY",
+       "s": "Indirect election plus nomination; first sitting 9 December; Objectives Resolution fixes the values",
+       "c": "teal"
+      },
+      {
+       "t": "1947 — SOVEREIGNTY",
+       "s": "Independence Act removes external subordination; Partition re-fixes strength at 299",
+       "c": "yellow"
+      },
+      {
+       "t": "1947–1949 — DELIBERATION",
+       "s": "Committees, adviser draft, Drafting Committee, public comment, three readings, amendments",
+       "c": "magenta"
+      },
+      {
+       "t": "1949–1950 — THE TEXT",
+       "s": "Adopted 26 Nov 1949, signed 24 Jan 1950, commenced 26 Jan 1950 under Article 394",
+       "c": "green"
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "gap": 40,
+     "children": [
+      {
+       "w": 0.62,
+       "block": {
+        "type": "matrix",
+        "c": "cyan",
+        "title": "DEMAND → ANSWER SPINE → EVIDENCE MINIMUM",
+        "widths": [
+         0.24,
+         0.44,
+         0.32
+        ],
+        "headers": [
+         "QUESTION DEMAND",
+         "ANSWER SPINE",
+         "EVIDENCE MINIMUM"
+        ],
+        "rows": [
+         [
+          "**How representative?**",
+          "Method → composition → inclusion → defects → verdict",
+          "**389/299**, indirect election, boycott, universal franchise"
+         ],
+         [
+          "**Who made it?**",
+          "Rau → committees → Drafting Committee → Assembly",
+          "**Named roles and dates**"
+         ],
+         [
+          "**Borrowed?**",
+          "Source → adaptation → Indian problem → limitation",
+          "**Three secure examples**"
+         ],
+         [
+          "**Why durable?**",
+          "Values → committee bargaining → legal coherence → legitimacy limits",
+          "Objectives Resolution, readings, criticism/reply"
+         ],
+         [
+          "**Current relevance**",
+          "Design principles for plural bargaining and institutional restraint",
+          "**No forced daily-news peg required**"
+         ]
+        ]
+       }
+      },
+      {
+       "w": 0.38,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "MARK-BAND ARCHITECTURE",
+          "c": "teal",
+          "items": [
+           "**Prelims** — identify **dates, roles, selection method and metrics**; nothing else is being tested.",
+           "**10 marks** — one claim, **three evidence units**, one qualification.",
+           "**15 marks** — **process plus debate plus balanced verdict**.",
+           "**20 marks** — **origins, composition, mechanisms, criticism/reply and legacy**.",
+           "Every paragraph: **claim → named institutional evidence → significance → limitation/qualification**.",
+           "**Current relevance lies in method** — public reasons, committee scrutiny, opposition channels, federal negotiation, rights constraints and clear transition rules — **not** in claiming that a present controversy reproduces 1946–49."
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "amber",
+     "title": "LOCALLY ROUTED PRELIMS PYQ DEMANDS — WITH HONEST PROVENANCE STATUS",
+     "widths": [
+      0.14,
+      0.34,
+      0.16,
+      0.36
+     ],
+     "headers": [
+      "PYQ",
+      "DEMAND",
+      "MODEL ANSWER",
+      "PROVENANCE STATUS"
+     ],
+     "rows": [
+      [
+       "**2021 GS-I Q93**",
+       "Exact constitutional status of India on 26 January 1950.",
+       "**B — A Sovereign Democratic Republic**",
+       "Exact Set-A paper held locally; **official key unavailable**. Text-supported: 'socialist' and 'secular' came only in **1976**."
+      ],
+      [
+       "**2023 GS-I Q85**",
+       "Constitution Day on 26 November, and the claim that the Drafting Committee was set up on 26 November 1949.",
+       "**C — Statement I correct, Statement II incorrect**",
+       "Exact paper held locally; **official key unavailable**. The Drafting Committee was appointed **29 August 1947**."
+      ],
+      [
+       "**2024 GS-I Q61**",
+       "Provisional President of the Constituent Assembly before Dr Rajendra Prasad.",
+       "**D — Dr Sachchidananda Sinha**",
+       "**Official Set-A question and official Set-A key held locally.** The one fully keyed item."
+      ],
+      [
+       "**2026 GS-I Q55**",
+       "Whether any Article supplies the short title, the repeals and the commencement date.",
+       "**D — no correct statement**",
+       "Exact Set-A paper held locally. The repository key is **provisional and says B**, which conflicts with **Articles 393–395**. The conflict is disclosed, not resolved."
+      ]
+     ]
+    },
+    {
+     "type": "cols",
+     "gap": 40,
+     "cols": [
+      {
+       "h": "HIGH-YIELD TRAP SWEEP — THE TEN THAT DECIDE MARKS",
+       "c": "red",
+       "items": [
+        "**1** Directly elected → **indirectly elected**, and partly **nominated**.",
+        "**2** 389 as a working strength → **299** after Partition; **211** was one day's attendance.",
+        "**3** 284 as the post-Partition strength → **284 signed**; **299** was the strength.",
+        "**4** August Offer created the Assembly → it accepted a **principle**; the **Cabinet Mission** supplied the scheme.",
+        "**5** Rajendra Prasad temporary President → **Sachchidananda Sinha** was temporary.",
+        "**6** B.N. Rau chaired the Drafting Committee → he was **Constitutional Adviser**.",
+        "**7** Patel chaired the Fundamental Rights Sub-Committee → **J.B. Kripalani** did.",
+        "**8** Drafting Committee appointed 26 November 1949 → **29 August 1947**.",
+        "**9** The whole Constitution commenced on adoption → only **specified provisions**; the rest on **26 January 1950**.",
+        "**10** 'Socialist' and 'secular' in the 1949 Preamble → inserted by the **42nd Amendment, 1976**."
+       ]
+      },
+      {
+       "h": "PROVENANCE DISCIPLINE — WHAT MAY AND MAY NOT BE CLAIMED",
+       "c": "yellow",
+       "items": [
+        "**[LIMIT] No direct Mains PYQ on the making process was found in the locally audited GS-I/GS-II corpus.** None is invented, and **cross-owned applications must not be relabelled as direct PYQs**.",
+        "**Wrong:** a practice Mains question is a PYQ.  **Correct:** label original practice **honestly**.",
+        "**Wrong:** current relevance requires a recent headline.  **Correct:** **static institutional relevance can be genuine and sufficient**.",
+        "**Wrong:** quote a critic for effect.  **Correct:** **do not reproduce an exact quotation unless its wording has been independently verified**; a source-owned criticism may be **paraphrased without quotation marks**.",
+        "Where an official key is unavailable or provisional, **say so** — a text-supported answer is not an official-key claim."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "answer",
+     "label": "ANSWER-GRABBING LINE — FINAL VERDICT:",
+     "text": "The Constituent Assembly was **neither perfectly representative nor merely colonial**: it earned **qualified founding legitimacy** by converting a constrained origin into an **inclusive, deliberative and universally democratic constitutional order**."
+    },
+    {
+     "type": "band",
+     "label": "END OF CORE →",
+     "c": "green",
+     "outline": true,
+     "text": "The seventeen-stage core is now complete: **demand → Cabinet Mission scheme → indirect election → composition → first sitting and officers → Objectives Resolution → sovereignty 1947 → committees → Rau versus the Drafting Committee → drafts and readings → adoption, signing and commencement → dashboard → criticism and reply → adaptation → synthesis**. Everything below this line is **subordinate enrichment**: it adds source depth and refinement but is **unnecessary for a competent core answer**."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "kind": "extra",
+   "title": "SUBORDINATE ENRICHMENT — OPTIONAL ADVANCED DEPTH, ONLY AFTER THE CORE IS SECURE",
+   "height_px": 1521,
+   "layout_signature": [
+    "row(cols+cols)",
+    "matrix",
+    "band"
+   ],
+   "pill_count": 5,
+   "pills": [
+    "Congress Experts Committee 8 Jul 1946",
+    "Plural voices, verified only",
+    "Labels are not evidence",
+    "Paraphrase, never quote unverified",
+    "Keep denominators distinct"
+   ],
+   "blocks": [
+    {
+     "type": "row",
+     "gap": 40,
+     "children": [
+      {
+       "w": 0.5,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "PRE-ASSEMBLY PREPARATION — CONGRESS EXPERTS COMMITTEE",
+          "c": "grey",
+          "items": [
+           "Congress appointed an **Experts Committee on 8 July 1946 under Jawaharlal Nehru** to prepare constitutional material **before the Assembly met**.",
+           "Members included **Asaf Ali, K.M. Munshi, N. Gopalaswami Ayyangar, K.T. Shah, D.R. Gadgil, Humayun Kabir and K. Santhanam**; **Krishna Kripalani** served as convener.",
+           "It shows that formal Assembly committees **did not begin from a blank slate**: nationalist constitutional preparation preceded the first sitting.",
+           "**[LIMIT]** Use as enrichment only. It must **not displace the Cabinet Mission composition or the Assembly committee map** in a core answer."
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "w": 0.5,
+       "block": {
+        "type": "cols",
+        "cols": [
+         {
+          "h": "PLURAL VOICES — VERIFIED PARTICIPATION, NOT DECORATION",
+          "c": "grey",
+          "items": [
+           "**Gandhi was not a member.** Political and moral influence is **not** institutional membership.",
+           "**Hansa Mehta** — equality and women's-status interventions.  **Dakshayani Velayudhan** — Dalit woman member who opposed untouchability and pressed social transformation.",
+           "**Begum Aizaz Rasul** — Muslim woman member who **opposed separate electorates**.  **Durgabai Deshmukh** and **Rajkumari Amrit Kaur** — social reform, language, welfare and rights.",
+           "**[LIMIT]** Social presence was **real but not equal or proportionate**; do not convert a list of communities into proof of perfect representation, and **do not invent quotations**."
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "type": "matrix",
+     "c": "grey",
+     "title": "ADVANCED ITEMS AND THE HANDLING RULE FOR EACH",
+     "widths": [
+      0.26,
+      0.38,
+      0.36
+     ],
+     "headers": [
+      "ITEM",
+      "SOURCE-OWNED CONTENT",
+      "HANDLING RULE"
+     ],
+     "rows": [
+      [
+       "**Chair memory map**",
+       "Nehru — Union Powers, Union Constitution, States. Patel — Provincial Constitution and the parent Advisory Committee. Rajendra Prasad — Rules of Procedure and Steering.",
+       "**Always name the committee** rather than relying on a count; chairmanship identifies **responsibility, not sole authorship**."
+      ],
+      [
+       "**'Drifting Committee'**",
+       "**Naziruddin Ahmed** used the expression in criticising delay; British political critics emphasised post-Partition religious imbalance.",
+       "**Paraphrase without quotation marks.** Answer with institutional evidence — 1947 sovereignty, committee scrutiny, universal-franchise output — not counter-quotation."
+      ],
+      [
+       "**'Father of the Constitution'**",
+       "Textbooks commonly describe Ambedkar so, because of his Drafting Committee leadership and defence of the Draft.",
+       "A **label, not analytical evidence**. It must not replace the distributed-authorship chain."
+      ],
+      [
+       "**'Modern Manu'**",
+       "The label appears in some textbook treatments.",
+       "**Not analytical evidence**; do not deploy it as an argument."
+      ],
+      [
+       "**Drafting intensity**",
+       "About **sixty** constitutions studied; Drafting Committee **141 days**; Draft debated **114 days**; **7,653** amendments proposed and **2,473** moved or disposed.",
+       "**Keep denominators distinct**: committee days, plenary debate days, proposed amendments and moved amendments are **not interchangeable**."
+      ],
+      [
+       "**Living-Constitution refinement**",
+       "Strict originalism is difficult because a multi-member Assembly had **plural intentions** and enacted wording often embodied **compromise**. **Maneka Gandhi** shows rights doctrine developing beyond the narrowest historical choice; **Kesavananda Bharati** shows an implied identity limit on amendment.",
+       "**A living Constitution is not an untethered Constitution** — text, structure, precedent and reasoned justification constrain development."
+      ]
+     ]
+    },
+    {
+     "type": "band",
+     "label": "ENRICHMENT CAUTION →",
+     "c": "grey",
+     "outline": true,
+     "fill": true,
+     "text": "This band is **deliberately visually subordinate**. It adds source depth and refinement but is **unnecessary for a competent core answer**. If time in the examination hall is short, everything above the END OF CORE line is sufficient; nothing in this band should be written at the cost of the dates, denominators, role distinctions and criticism–reply structure established in the numbered core."
+    }
+   ]
+  }
+ ],
+ "must_show_terms": [
+  "M.N. Roy",
+  "1934",
+  "1935",
+  "1938",
+  "August Offer",
+  "Cripps",
+  "Cabinet Mission",
+  "one seat per million",
+  "Governors' provinces",
+  "Chief Commissioners' provinces",
+  "292",
+  "296",
+  "93",
+  "389",
+  "Muslim, Sikh and General",
+  "proportional representation through the single transferable vote",
+  "nominated by the rulers",
+  "indirectly elected",
+  "208",
+  "73",
+  "15",
+  "211",
+  "9 December 1946",
+  "299",
+  "229",
+  "70",
+  "284",
+  "24 January 1950",
+  "Sachchidananda Sinha",
+  "Rajendra Prasad",
+  "11 December 1946",
+  "H.C. Mukherjee",
+  "V.T. Krishnamachari",
+  "B.N. Rau",
+  "Constitutional Adviser",
+  "H.V.R. Iyengar",
+  "S.N. Mukerjee",
+  "G.V. Mavlankar",
+  "Objectives Resolution",
+  "13 December 1946",
+  "22 January 1947",
+  "Preamble",
+  "42nd Amendment",
+  "1976",
+  "Indian Independence Act 1947",
+  "Union Powers Committee",
+  "Union Constitution Committee",
+  "States Committee",
+  "Provincial Constitution Committee",
+  "Advisory Committee",
+  "J.B. Kripalani",
+  "Minorities Sub-Committee",
+  "Gopinath Bardoloi",
+  "A.V. Thakkar",
+  "Rules of Procedure",
+  "Steering Committee",
+  "Drafting Committee",
+  "B.R. Ambedkar",
+  "29 August 1947",
+  "N. Gopalaswami Ayyangar",
+  "Alladi Krishnaswami Ayyar",
+  "K.M. Munshi",
+  "Mohammad Saadulla",
+  "B.L. Mitter",
+  "D.P. Khaitan",
+  "N. Madhava Rau",
+  "T.T. Krishnamachari",
+  "141",
+  "October 1947",
+  "February 1948",
+  "October 1948",
+  "4 November 1948",
+  "15 November 1948",
+  "17 October 1949",
+  "14–26 November 1949",
+  "26 November 1949",
+  "26 January 1950",
+  "395 Articles",
+  "8 Schedules",
+  "Article 394",
+  "Articles 5–9",
+  "60",
+  "324",
+  "366",
+  "367",
+  "379",
+  "393",
+  "395",
+  "Abolition of Privy Council Jurisdiction Act 1949",
+  "2 years 11 months 18 days",
+  "11 sessions",
+  "114",
+  "Rs 64",
+  "sixty countries",
+  "22 July 1947",
+  "May 1949",
+  "provisional Parliament",
+  "Purna Swaraj",
+  "elephant",
+  "Prem Behari Narain Raizada",
+  "Nandalal Bose",
+  "Beohar Rammanohar Sinha",
+  "58th Amendment",
+  "Samvidhan Divas",
+  "7,653",
+  "2,473",
+  "Constituent Assembly Debates",
+  "Congress Experts Committee",
+  "8 July 1946",
+  "Krishna Kripalani",
+  "Hansa Mehta",
+  "Dakshayani Velayudhan",
+  "Begum Aizaz Rasul",
+  "Durgabai Deshmukh",
+  "Rajkumari Amrit Kaur",
+  "Naziruddin Ahmed",
+  "Government of India Act 1935"
+ ]
+}

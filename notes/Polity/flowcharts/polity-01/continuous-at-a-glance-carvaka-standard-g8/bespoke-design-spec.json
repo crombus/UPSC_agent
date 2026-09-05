@@ -1,0 +1,208 @@
+{
+  "topic": "polity-01",
+  "spine": "Company trade -> parliamentary control -> dual control -> Crown rule -> association -> representation -> provincial responsibility -> federation/autonomy -> sovereignty",
+  "stages": [
+    {
+      "title": "CORPORATE STATE BEFORE 1773",
+      "pills": [
+        "COMPANY: TRADE + TERRITORIAL POWER",
+        "NO SETTLED PARLIAMENTARY CONTROL",
+        "BENGAL CRISIS -> REGULATION"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "Company commercial rule acquired governmental functions.",
+        "Defect: private corporation exercised public power without constitutional accountability.",
+        "Consequence: Parliament intervenes, not because Company ceased to trade."
+      ],
+      "answer_band": "Corporate power first produced the need for statutory control."
+    },
+    {
+      "title": "REGULATING ACT 1773",
+      "pills": [
+        "GOVERNOR-GENERAL OF BENGAL",
+        "COUNCIL: 4 MEMBERS",
+        "CALCUTTA SUPREME COURT",
+        "CONTROL STILL IMPERFECT"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "Bengal presidency made supervisory centre over Bombay and Madras.",
+        "Governor-General in Council and Supreme Court created dual authorities.",
+        "Defect: jurisdictional conflict and weak central control remained."
+      ],
+      "answer_band": "1773 begins regulation, but did not create a coherent central government."
+    },
+    {
+      "title": "SETTLEMENT ACT 1781",
+      "pills": [
+        "COURT JURISDICTION CLARIFIED",
+        "REVENUE ACTS PROTECTED",
+        "EXECUTIVE\u2013JUDICIARY BOUNDARY"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "Clarified Supreme Court limits over revenue administration.",
+        "Protected acts done in public/revenue capacity from ordinary court interference.",
+        "Bridge: exposed why Parliament needed a control system above ad-hoc clarification."
+      ],
+      "answer_band": "1781 repaired the 1773 court\u2013executive conflict; it did not settle political control."
+    },
+    {
+      "title": "PITT'S INDIA ACT 1784",
+      "pills": [
+        "DUAL CONTROL",
+        "BOARD OF CONTROL = GOVERNMENT",
+        "COURT OF DIRECTORS = COMMERCE"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "BOARD OF CONTROL: political, civil, military and revenue government.",
+        "COURT OF DIRECTORS: commercial administration retained.",
+        "Consequence: Company survived commercially; British Government gained decisive state supervision."
+      ],
+      "answer_band": "Pitt's Act separated commercial management from sovereign supervision."
+    },
+    {
+      "title": "1786 + CHARTER ACT 1793",
+      "pills": [
+        "1786: GOVERNOR-GENERAL POWER",
+        "1793: COMPANY MONOPOLY RENEWED",
+        "CENTRALISING TREND"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "1786 strengthened Governor-General where council opposition obstructed policy.",
+        "1793 renewed monopoly without altering dual-control principle.",
+        "Direction: executive capacity and Parliamentary oversight deepened together."
+      ],
+      "answer_band": "The early Charter phase retained Company commerce while tightening imperial direction."
+    },
+    {
+      "title": "CHARTER ACT 1813",
+      "pills": [
+        "MONOPOLY ENDS: INDIA TRADE",
+        "TEA + CHINA EXCEPTED",
+        "MISSION + EDUCATION OPENING"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "Ended Company monopoly in Indian trade; tea/China remained excepted.",
+        "Opened India to other British merchants and missionaries.",
+        "Marked Company shift from trader toward governing agency."
+      ],
+      "answer_band": "1813 weakened commercial exclusivity without yet ending Company rule."
+    },
+    {
+      "title": "CHARTER ACT 1833",
+      "pills": [
+        "ALL-INDIA GOVERNMENT",
+        "BENGAL GG -> GOVERNOR-GENERAL OF INDIA",
+        "COMPANY COMMERCIAL ROLE ENDS",
+        "LAW MEMBER"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "Centralised legislative power under Governor-General of India.",
+        "Company ceased commercial functions; remained administrative instrument.",
+        "Law Member/legislative machinery signalled uniform imperial governance."
+      ],
+      "answer_band": "1833 converted the Company from trader-ruler into a governing instrument."
+    },
+    {
+      "title": "CHARTER ACT 1853",
+      "pills": [
+        "LEGISLATIVE\u2013EXECUTIVE SEPARATION",
+        "OPEN COMPETITIVE CIVIL SERVICE",
+        "NO FIXED RENEWAL"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "Separated legislative functions of Governor-General\u2019s Council.",
+        "Opened civil-service competition in principle.",
+        "No fixed twenty-year renewal: Company tenure became provisional."
+      ],
+      "answer_band": "1853 made the Company constitutional machinery awaiting replacement."
+    },
+    {
+      "title": "GOVERNMENT OF INDIA ACT 1858",
+      "pills": [
+        "CROWN RULE",
+        "COMPANY ABOLISHED",
+        "SECRETARY OF STATE",
+        "VICEROY"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "Company rule ended after 1857; Crown assumed government.",
+        "Secretary of State in Council replaced Board/Court control machinery.",
+        "Governor-General became Viceroy: imperial executive now directly responsible to Crown."
+      ],
+      "answer_band": "1858 replaces Company governance with Crown responsibility, not representative government."
+    },
+    {
+      "title": "COUNCILS ACTS 1861 + 1892",
+      "pills": [
+        "1861: PORTFOLIOS + NOMINATION",
+        "1892: INDIRECT ELECTION ELEMENT",
+        "ASSOCIATION, NOT RESPONSIBILITY"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "1861 restored legislative councils and recognised portfolio administration.",
+        "1892 enlarged councils and introduced an indirect electoral principle.",
+        "Limit: executives remained unresponsible to elected Indians."
+      ],
+      "answer_band": "Councils widened consultation; they did not yet transfer executive responsibility."
+    },
+    {
+      "title": "1909 + 1919",
+      "pills": [
+        "1909: COMMUNAL ELECTORATES",
+        "1919: DYARCHY IN PROVINCES",
+        "CENTRE STILL RESPONSIBLE TO BRITAIN"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "1909 institutionalised separate communal electorates.",
+        "1919 split provincial subjects: transferred ministers versus reserved Governor control.",
+        "Responsible government remained partial and provincial, not central."
+      ],
+      "answer_band": "1909 changed representation; 1919 tested limited responsibility through dyarchy."
+    },
+    {
+      "title": "GOVERNMENT OF INDIA ACT 1935",
+      "pills": [
+        "FEDERAL SCHEME",
+        "3 LEGISLATIVE LISTS",
+        "PROVINCIAL AUTONOMY",
+        "GOVERNOR SAFEGUARDS"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "Proposed federation; federal part did not fully operate.",
+        "Federal, provincial and concurrent lists structured legislative power.",
+        "Provincial autonomy expanded, but Governors retained safeguards/discretion."
+      ],
+      "answer_band": "1935 supplied the institutional grammar later adapted by the Constitution."
+    },
+    {
+      "title": "INDEPENDENCE ACT 1947",
+      "pills": [
+        "SOVEREIGN DOMINIONS",
+        "PARAMOUNTCY LAPSED",
+        "CONSTITUENT ASSEMBLIES SOVEREIGN"
+      ],
+      "layout": "three-column constitutional timeline",
+      "must_show": [
+        "Created India and Pakistan as independent Dominions.",
+        "Lapsed British paramountcy over princely states.",
+        "Constituent Assembly acquired sovereign law-making authority."
+      ],
+      "answer_band": "1947 ends imperial constitutional control and opens constitution-making sovereignty."
+    }
+  ],
+  "subordinate_enrichment": [
+    "comparative Acts/PYQ route after core"
+  ]
+}

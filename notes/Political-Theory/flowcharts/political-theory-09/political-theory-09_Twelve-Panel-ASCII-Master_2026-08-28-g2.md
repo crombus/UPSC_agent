@@ -1,0 +1,370 @@
+# Interdisciplinary Political Analysis — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: The Integrated Political Question
+
+```ascii-master
+CENTRAL FOCUS
+The Integrated Political Question
+  [1] The chapter argues that single-discipline approaches are partial, whereas an
+      interdisciplinary approach seeks an integrated view of politics. (PDF p.146)
+        |
+        v
+  [2] Political science studies politics as a social process, so it must use findings,
+      theories and models from other social sciences where they illuminate political
+      phenomena. (PDF pp.136-137)
+        |
+        v
+  [3] Interdisciplinary inquiry widens perspective, helps verify political claims through
+      other social sciences, and also enables political science to contribute back to
+      them. (PDF p.137)
+        |
+        v
+  [4] For UPSC, this topic prevents shallow answers that explain democracy, state action
+      or mass behaviour through only law, only morality or only economics.
+        |
+        v
+SYNTHESIS -> The Integrated Political Question is best presented through its central claim,
+             causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: Definitions, Argument Spine and Purposeful Borrowing
+
+```ascii-master
+CENTRAL FOCUS
+Definitions, Argument Spine and Purposeful Borrowing
+  [1] Gauba begins by treating social sciences as related disciplines dealing with common
+      human problems, which makes interdisciplinarity especially suitable to politics.
+      (PDF p.136)
+        |
+        v
+  [2] He insists that political inquiry should borrow from other disciplines purposefully,
+      always to understand political problems, not randomly for their own sake. (PDF
+      p.137)
+        |
+        v
+  [3] Empirical orientation, behavioural analysis and systems analysis pushed political
+      science toward other social sciences because real politics cannot be grasped by
+      ideal-state speculation or formal institutions alone. (PDF pp.138-139)
+        |
+        v
+  [4] Political science therefore uses data, theories and models from history, economics,
+      sociology, psychology and philosophy. (PDF pp.139-146)
+        |
+        v
+SYNTHESIS -> Definitions, Argument Spine and Purposeful Borrowing is best presented through
+             its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: Boundaries, Thinkers and Disciplinary Autonomy
+
+```ascii-master
+CENTRAL FOCUS
+Boundaries, Thinkers and Disciplinary Autonomy
+  [1] Interdisciplinary vs random borrowing: Gauba warns that expansion across disciplines
+      must be purposeful and well-conceived. (PDF p.137)
+        |
+        v
+  [2] Empirical vs normative: empirical inquiry asks what is; normative inquiry asks what
+      ought to be. (PDF p.138)
+        |
+        v
+  [3] Political science vs political philosophy: scientific-behavioural studies help find
+      facts and tools, while political philosophy helps determine goals of public policy.
+      (PDF pp.145-146)
+        |
+        v
+  [4] Governance boundary: governance explains delivery mechanisms; this topic uses
+      governance-like evidence only when it sharpens a political concept.
+        |
+        v
+SYNTHESIS -> Boundaries, Thinkers and Disciplinary Autonomy is best presented through its
+             central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: Illustrations and the Five-Discipline Matrix
+
+```ascii-master
+CENTRAL FOCUS
+Illustrations and the Five-Discipline Matrix
+  [1] Gauba says a political scientist assessing whether democracy will be sustained may
+      need data on literacy, income distribution, ownership patterns, religious attitudes,
+      family structure and rural-urban composition. (PDF p.139)
+        |
+        v
+  [2] Labour-management relations or crowd psychology should be studied politically only
+      when they illuminate their impact on politics. (PDF p.137)
+        |
+        v
+  [3] Political development requires understanding social mobilization and value change,
+      not merely constitutions or legal forms. (PDF p.140)
+        |
+        v
+  [4] Political communication, propaganda, charismatic leadership and public opinion
+      formation draw directly on political psychology. (PDF pp.144-145)
+        |
+        v
+SYNTHESIS -> Illustrations and the Five-Discipline Matrix is best presented through its
+             central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: Trap Repair, Cross-Links, Revision and Sources
+
+```ascii-master
+CENTRAL FOCUS
+Trap Repair, Cross-Links, Revision and Sources
+  [1] For economic mechanisms, refer outward to the Economy module in prose rather than
+      reproducing technical economics here.
+        |
+        v
+  [2] For delivery and institutional performance, refer outward to the Governance module
+      in prose rather than turning this topic into an administrative note.
+        |
+        v
+  [3] Define interdisciplinarity as purposeful use of more than one discipline. (PDF
+      p.136)
+        |
+        v
+  [4] Show why empirical orientation, behaviouralism and systems analysis pushed political
+      science outward. (PDF pp.138-139)
+        |
+        v
+SYNTHESIS -> Trap Repair, Cross-Links, Revision and Sources is best presented through its
+             central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: Anthropology, Law and Geography
+
+```ascii-master
+CENTRAL FOCUS
+Anthropology, Law and Geography
+  [1] Gauba's chapter (PDF pp.141-146) foregrounds history, economics, sociology,
+      psychology and philosophy. A complete interdisciplinary answer should also be able
+      to place anthropology, law and geography on the same map, since these are commonly
+      tested alongside the five above:
+        |
+        v
+  [2] Exam use: if the question specifically asks for an "interdisciplinary" answer
+      without naming disciplines, a strong 15/20-mark response should be able to name at
+      least six to seven disciplines (history, economics, sociology, psychology,
+      philosophy, anthropology, law, geography) and give one distinct contribution for
+      each, rather than repeating the same five from Gauba's chapter alone.
+        |
+        v
+  [3] Law/jurisprudence as a data source: distinct from the legal approach to studying
+      politics (already covered under §8's traditional approaches), the interdisciplinary
+      use of law supplies political analysis with constitutional text, statutes and
+      judicial reasoning as primary evidence of how authority is formally allocated and
+      constrained.
+        |
+        v
+  [4] Political geography: studies the spatial dimension of politics — territory,
+      boundaries, resource distribution, federalism and regional/electoral geography.
+        |
+        v
+SYNTHESIS -> Anthropology, Law and Geography is best presented through its central claim,
+             causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: Borrowed Models and Named Reductionisms
+
+```ascii-master
+CENTRAL FOCUS
+Borrowed Models and Named Reductionisms
+  [1] Gauba names specific borrowed models political science has drawn from other
+      disciplines: elite theory, base-superstructure analysis (from Marxian political
+      economy), structural-functionalism (from sociology/anthropology),
+      problem-solving/decision models (from psychology and organisational theory), and
+      market/bargaining analogies (from economics). (PDF pp.139-140)
+        |
+        v
+  [2] Reductionism, named precisely: each borrowed model risks a specific reductionism if
+      used alone —
+        |
+        v
+  [3] Gauba's own corrective applies to each: borrowing must remain purposeful and
+      politics-centred; a borrowed model sharpens political analysis only so long as the
+      political question, not the donor discipline's own priorities, stays in view. (PDF
+      pp.137, 146)
+        |
+        v
+  [4] Harold Lasswell's problem-solving model is cited by Gauba as an example of
+      psychology and decision-theory feeding directly into political analysis, reframing
+      political inquiry around identifying problems, generating alternatives and
+      evaluating outcomes. (PDF p.140)
+        |
+        v
+SYNTHESIS -> Borrowed Models and Named Reductionisms is best presented through its central
+             claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: Objections and Integration Without Merger
+
+```ascii-master
+CENTRAL FOCUS
+Objections and Integration Without Merger
+  [1] "Discuss the interdisciplinary character of political science" → requires the
+      definition of interdisciplinarity, at least three disciplines with one contribution
+      each, and the integration-without-merger conclusion — not just a list of subject
+      names.
+        |
+        v
+  [2] End with Gauba's conclusion: single-discipline approaches are partial; integration
+      is necessary, but merger is not. (PDF p.146)
+        |
+        v
+  [3] Yet the conclusion is not merger into one master science; the integrated approach
+      keeps politics central while using all relevant disciplines for verification and
+      understanding. (PDF p.146)
+        |
+        v
+  [4] Seymour Martin Lipset: political development cannot be studied without social
+      mobilization, value change, kinship patterns, caste and class relations. (PDF p.140)
+        |
+        v
+SYNTHESIS -> Objections and Integration Without Merger is best presented through its central
+             claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: Cautious Indian Application
+
+```ascii-master
+CENTRAL FOCUS
+Cautious Indian Application
+  [1] Political-economy lens: debates on economic liberalisation, welfare-scheme design or
+      federal fiscal transfers illustrate how political theory uses economic evidence to
+      analyse policy conflict — cite as a type of application, without asserting specific
+      unverified figures, scheme names or years unless independently confirmed.
+        |
+        v
+  [2] Political-sociology lens: caste, community and regional identity's role in Indian
+      party mobilisation and political culture is a standard illustrative anchor for the
+      sociology-politics link — use only as a general, well-known pattern, not with
+      specific unverified electoral statistics.
+        |
+        v
+  [3] Political-geography lens: India's federal reorganisation of states and continuing
+      regional/resource-sharing disputes (river-water disputes, hill-state demands)
+      illustrate how territory and resource distribution shape political conflict — cite
+      as a type of illustration; route exact dates, tribunal names or case detail to the
+      Polity/Geography modules rather than asserting them here.
+        |
+        v
+  [4] Political science studies politics as a social process, so it must use findings,
+      theories and models from other social sciences where they illuminate political
+      phenomena. (PDF pp.136-137)
+        |
+        v
+SYNTHESIS -> Cautious Indian Application is best presented through its central claim, causal
+             logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: Directive Decoding and Mark-Scaled Answer Architecture
+
+```ascii-master
+CENTRAL FOCUS
+Directive Decoding and Mark-Scaled Answer Architecture
+  [1] "Examine the contribution of [a named discipline] to political analysis" →
+      single-discipline directive: give that discipline's specific contribution, one
+      borrowed model or example, and its limit if used alone.
+        |
+        v
+  [2] "Discuss the interdisciplinary character of political science" → requires the
+      definition of interdisciplinarity, at least three disciplines with one contribution
+      each, and the integration-without-merger conclusion — not just a list of subject
+      names.
+        |
+        v
+  [3] "Can political science be studied independently of other social sciences?" →
+      requires the objection/reply on subject-matter dissolution (§15.1) explicitly.
+        |
+        v
+  [4] Thesis: political science needs other disciplines' evidence and models but keeps the
+      political question central.
+        |
+        v
+SYNTHESIS -> Directive Decoding and Mark-Scaled Answer Architecture is best presented through
+             its central claim, causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
+
+```ascii-master
+CENTRAL FOCUS
+MCQ Remediation and Trap Repair
+  [1] Political science studies politics as a social process, so it must use findings,
+      theories and models from other social sciences where they illuminate political
+      phenomena. (PDF pp.136-137)
+        |
+        v
+  [2] Interdisciplinary inquiry widens perspective, helps verify political claims through
+      other social sciences, and also enables political science to contribute back to
+      them. (PDF p.137)
+        |
+        v
+  [3] The chapter argues that single-discipline approaches are partial, whereas an
+      interdisciplinary approach seeks an integrated view of politics. (PDF p.146)
+        |
+        v
+  [4] For UPSC, this topic prevents shallow answers that explain democracy, state action
+      or mass behaviour through only law, only morality or only economics.
+        |
+        v
+SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,
+             causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
+
+```ascii-master
+CENTRAL FOCUS
+PYQ Ownership and Answer Practice
+  [1] Gauba says a political scientist assessing whether democracy will be sustained may
+      need data on literacy, income distribution, ownership patterns, religious attitudes,
+      family structure and rural-urban composition. (PDF p.139)
+        |
+        v
+  [2] A good UPSC answer on welfare politics can therefore move from economic scarcity, to
+      class/group conflict, to mass attitudes, and finally to philosophical evaluation of
+      justice.
+        |
+        v
+  [3] Gauba's chapter (PDF pp.141-146) foregrounds history, economics, sociology,
+      psychology and philosophy. A complete interdisciplinary answer should also be able
+      to place anthropology, law and geography on the same map, since these are commonly
+      tested alongside the five above:
+        |
+        v
+  [4] Exam use: if the question specifically asks for an "interdisciplinary" answer
+      without naming disciplines, a strong 15/20-mark response should be able to name at
+      least six to seven disciplines (history, economics, sociology, psychology,
+      philosophy, anthropology, law, geography) and give one distinct contribution for
+      each, rather than repeating the same five from Gauba's chapter alone.
+        |
+        v
+SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,
+             causal logic, strongest limit and qualified verdict.
+EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
+              conclude with a qualified political judgment.
+```

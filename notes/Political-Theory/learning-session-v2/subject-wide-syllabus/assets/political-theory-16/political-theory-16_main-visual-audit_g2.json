@@ -1,0 +1,673 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-16_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-16_Learning-Session_2026-08-28.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 28,
+      "heading": "SESSION 1 - Citizenship: Meaning, Status and Democratic Practice",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Citizenship as reciprocal membership, its civil-",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 514.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 398.624
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 33,
+      "markdown_body_line_end": 44,
+      "heading": "1. One-screen conceptual map",
+      "preview": "CITIZENSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 375.124
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 264.124
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 253,
+      "heading": "17. Directive decoder and qualified-thesis templates",
+      "preview": "Directive word | What the examiner expects | How to open this topic's answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Directive word",
+          "What the examiner expects",
+          "How to open this topic's answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 184.791
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 702.69
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 273,
+      "markdown_body_line_end": 273,
+      "heading": "19. Executable answer architecture (10/15/20-mark blueprints)",
+      "preview": "⚠️ Word/mark convention follows the standard PSIR-optional pattern (10 marks/~150 words, 15 marks/~200 words, 20 marks/~250 words); this convention is stated here as an analytical scaffold, not as a book-sourced fact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 239.39
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 180.522
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 283,
+      "heading": "19. Executable answer architecture (10/15/20-mark blueprints)",
+      "preview": "⚠️ Local implementation of `Political-Theory/00_Master-Framework.md` §5D, tuned to this file's citizenship vocabulary. Run it before writing whenever the stem is an attributed line or a bald proposition (\"citizenship is the right to have ri",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 38.722
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 291,
+      "heading": "19. Executable answer architecture (10/15/20-mark blueprints)",
+      "preview": "# | Move | What to do here",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "#",
+          "Move",
+          "What to do here"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 744.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 255.422
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1182,
+      "markdown_body_line_end": 1182,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owner is Philosophy Paper II - Individual and State. They are not re-routed to Political Theory; they are included because this topic provi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 551.591
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 492.724
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1220,
+      "markdown_body_line_end": 1222,
+      "heading": "Solved PYQ 1 - 2019 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks - it performs a reasoned category correction, uses the accountability/responsibility distinction, and pins Article 19 + Part III + Article 51A precisely without overclaiming enforceability.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 120.524
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 75.856
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1338,
+      "markdown_body_line_end": 1343,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Citizenship as a historically layered and contested status w",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1362,
+      "heading": "1. One-screen advanced map",
+      "preview": "CITIZENSHIP AS STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 622.924
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 481.924
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1514,
+      "markdown_body_line_end": 1531,
+      "heading": "ASCII PANEL 1/12 - Citizenship: Meaning, Status and Democratic Practice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 155.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1535,
+      "markdown_body_line_end": 1554,
+      "heading": "ASCII PANEL 2/12 - Historical Genealogy: Aristotle, Locke and Marshall",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 614.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1558,
+      "markdown_body_line_end": 1576,
+      "heading": "ASCII PANEL 3/12 - Liberal, Libertarian, Marxist and Communitarian Models",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 220.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1580,
+      "markdown_body_line_end": 1597,
+      "heading": "ASCII PANEL 4/12 - Republican Citizenship, Public Action and Membership",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 198.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1601,
+      "markdown_body_line_end": 1620,
+      "heading": "ASCII PANEL 5/12 - Rights, Duties, Obligation and Reciprocity",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 614.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1624,
+      "markdown_body_line_end": 1642,
+      "heading": "ASCII PANEL 6/12 - Theses, Directives and Comparative Answer Design",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 220.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1646,
+      "markdown_body_line_end": 1664,
+      "heading": "ASCII PANEL 7/12 - Feminist, Differentiated, Minority and Subaltern Critiques",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 198.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1668,
+      "markdown_body_line_end": 1686,
+      "heading": "ASCII PANEL 8/12 - Giddens, Held, Turner and Advanced Citizenship Debates",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 604.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1690,
+      "markdown_body_line_end": 1709,
+      "heading": "ASCII PANEL 9/12 - Migration, Jus Soli, Jus Sanguinis, Statelessness and Denizenship",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 210.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1713,
+      "markdown_body_line_end": 1732,
+      "heading": "ASCII PANEL 10/12 - Citizenship, Legal Nationality, National Identity and Civic Capability",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 188.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        38,
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1736,
+      "markdown_body_line_end": 1757,
+      "heading": "ASCII PANEL 11/12 - MCQ Remediation and Trap Repair",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 383.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1761,
+      "markdown_body_line_end": 1779,
+      "heading": "ASCII PANEL 12/12 - PYQ Ownership and Answer Practice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 361.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 180.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1783,
+      "markdown_body_line_end": 1796,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 155.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 276.69
+        }
+      },
+      "pdf_pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1842,
+      "markdown_body_line_end": 1849,
+      "heading": "CONCEPT GRID",
+      "preview": "Concept | Core meaning | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Core meaning",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 588.69
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1863,
+      "markdown_body_line_end": 1868,
+      "heading": "CRITIQUE GRID",
+      "preview": "Critique | Mechanism of exclusion | Constructive response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Critique",
+          "Mechanism of exclusion",
+          "Constructive response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 361.49
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 207.288
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    }
+  ]
+}

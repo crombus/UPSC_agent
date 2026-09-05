@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-10_Solved-Workbook.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\workbooks\\political-theory-10_Solved-Workbook_2026-08-28.pdf",
+  "mode": "workbook",
+  "topic_key": "political-theory-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 729,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owner is Philosophy Paper II — Humanism, Secularism and Multiculturalism. They are not re-routed to Political Theory; they are included bec",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 400.391
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 341.524
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 766,
+      "heading": "Solved PYQ 9 - 2022 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- \"critically analyse\" is answered with two-sided critique (essentialism + internal restriction), each with a reply, plus the recognition/ redistribution upgrade (H9/H11) and the affirmative/transformative crit",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 705.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 646.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 802,
+      "markdown_body_line_end": 804,
+      "heading": "Solved PYQ 10 - 2023 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it \"critically examines\" by pairing each India-referenced challenge with its canonical reply and adds the caste-hierarchy caution rather than listing problems.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 306.924
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 262.256
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 840,
+      "heading": "Solved PYQ 11 - 2023 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it endorses the statement via H4, then critically distinguishes equal respect from strict separation and blocks the \"acceptance = immunity\" misreading with H5.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 671.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 627.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 872,
+      "markdown_body_line_end": 873,
+      "heading": "Solved PYQ 14 - 2024 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it walks the tolerance->coexistence->recognition ladder, shows tolerance is necessary-but-hierarchical, and gives recognition as the completing move.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 301.924
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 257.256
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 907,
+      "heading": "Solved PYQ 15 - 2025 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it separates plurality/pluralism/secularism, runs the three decoupling cases, and answers \"necessarily\" as a conceptual (not historical) question.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 657.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 612.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    }
+  ]
+}

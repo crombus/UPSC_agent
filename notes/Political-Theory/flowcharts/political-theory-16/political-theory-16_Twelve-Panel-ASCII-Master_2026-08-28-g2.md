@@ -1,0 +1,270 @@
+# Citizenship and Its Critiques — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: Citizenship: Meaning, Status and Democratic Practice
+
+```ascii-master
+CENTRAL FOCUS
+Citizenship: Meaning, Status and Democratic Practice
+  [1] Citizenship is a legal status, a bundle of rights and a democratic practice.
+        |
+        v
+  [2] Substantive citizenship tests whether formally equal members can use those rights.
+        |
+        v
+  [3] Citizen-subject is an ideal-type contrast, not a complete history of every regime.
+        |
+        v
+  [4] Answers must distinguish membership, participation, identity and social capacity.
+        |
+        v
+VERDICT -> Citizenship joins legal membership to substantive political agency.
+ANSWER USE -> Begin by distinguishing status, rights, participation and capability.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: Historical Genealogy: Aristotle, Locke and Marshall
+
+```ascii-master
+CENTRAL FOCUS
+Historical Genealogy: Aristotle, Locke and Marshall
+  [1] Aristotle links citizenship to participation in deliberative and judicial office.
+        |
+        v
+  [2] Modern citizenship expands beyond the polis through rights, representation and
+      nation-state membership.
+        |
+        v
+  [3] Locke supplies a rights-and-trust tradition rather than a full modern citizenship
+      theory.
+        |
+        v
+  [4] Marshall reconstructs civil, political and social rights from the English case.
+        |
+        v
+VERDICT -> Citizenship expanded historically without following one universal sequence.
+ANSWER USE -> Use Aristotle, Locke and Marshall with explicit scope limits.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: Liberal, Libertarian, Marxist and Communitarian Models
+
+```ascii-master
+CENTRAL FOCUS
+Liberal, Libertarian, Marxist and Communitarian Models
+  [1] Liberal theory protects equal legal status and individual rights.
+        |
+        v
+  [2] Libertarian theory narrows compulsory provision and redistributive social
+      citizenship.
+        |
+        v
+  [3] Marxist critique asks whether formal equality masks class dependence.
+        |
+        v
+  [4] Communitarian theory stresses belonging, shared practices and reciprocal obligation.
+        |
+        v
+VERDICT -> Citizenship theories disagree over liberty, equality, class and belonging.
+ANSWER USE -> Compare each model through rights, duties, membership and exclusion.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: Republican Citizenship, Public Action and Membership
+
+```ascii-master
+CENTRAL FOCUS
+Republican Citizenship, Public Action and Membership
+  [1] Republican citizenship connects freedom with participation and non-domination.
+        |
+        v
+  [2] Arendt links citizenship to a public world in which persons can appear and act.
+        |
+        v
+  [3] Walzer treats membership as a distinct sphere with distributive significance.
+        |
+        v
+  [4] Barber's strong democracy intensifies participatory self-government.
+        |
+        v
+VERDICT -> Public action, membership and participation are related but distinct.
+ANSWER USE -> Keep Arendt, Walzer and Barber in their correct argumentative roles.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: Rights, Duties, Obligation and Reciprocity
+
+```ascii-master
+CENTRAL FOCUS
+Rights, Duties, Obligation and Reciprocity
+  [1] Duties include lawfulness, taxes, civic contribution and protection of institutions.
+        |
+        v
+  [2] Political obligation remains conditional on legitimacy rather than mere legal
+      status.
+        |
+        v
+  [3] Reciprocity asks whether members both receive protection and sustain common
+      institutions.
+        |
+        v
+  [4] A rights-duty answer must not convert citizenship into unconditional obedience.
+        |
+        v
+VERDICT -> Reciprocal citizenship supports duties without licensing unconditional obedience.
+ANSWER USE -> Connect contribution to legitimate and non-dominating institutions.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: Theses, Directives and Comparative Answer Design
+
+```ascii-master
+CENTRAL FOCUS
+Theses, Directives and Comparative Answer Design
+  [1] A thesis should name the model of citizenship and the exclusion it diagnoses.
+        |
+        v
+  [2] Directive control determines whether the answer explains, compares or evaluates.
+        |
+        v
+  [3] Marshall answers need sequence, English-case limits and the welfare-state mechanism.
+        |
+        v
+  [4] Migration answers must separate nationality, identity, residence and political
+      membership.
+        |
+        v
+VERDICT -> Directive control prevents history, theory and critique from becoming a list.
+ANSWER USE -> State the citizenship model and the precise exclusion under review.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: Feminist, Differentiated, Minority and Subaltern Critiques
+
+```ascii-master
+CENTRAL FOCUS
+Feminist, Differentiated, Minority and Subaltern Critiques
+  [1] Feminist critique exposes the public-private split and unequal care burdens.
+        |
+        v
+  [2] Young challenges universal citizenship that assimilates group difference.
+        |
+        v
+  [3] Kymlicka defends differentiated minority rights within liberal citizenship.
+        |
+        v
+  [4] Subaltern critique asks who can speak, organise and convert formal rights into
+      voice.
+        |
+        v
+VERDICT -> Equal treatment can reproduce exclusion when social positions are unequal.
+ANSWER USE -> Distinguish feminist, Young, Kymlicka and subaltern mechanisms.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: Giddens, Held, Turner and Advanced Citizenship Debates
+
+```ascii-master
+CENTRAL FOCUS
+Giddens, Held, Turner and Advanced Citizenship Debates
+  [1] Giddens's conflict account links citizenship expansion to organised struggle.
+        |
+        v
+  [2] His later surveillance analysis should remain separate from the 1982 rights
+      argument.
+        |
+        v
+  [3] Held studies citizenship under overlapping national and transnational authority.
+        |
+        v
+  [4] Turner links citizenship to social closure, embodiment and contested membership.
+        |
+        v
+VERDICT -> Citizenship rights emerge through conflict and changing authority structures.
+ANSWER USE -> Separate Giddens's two arguments and mark later extensions clearly.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: Migration, Jus Soli, Jus Sanguinis, Statelessness and Denizenship
+
+```ascii-master
+CENTRAL FOCUS
+Migration, Jus Soli, Jus Sanguinis, Statelessness and Denizenship
+  [1] Jus soli assigns nationality through territorial birth; jus sanguinis through
+      descent.
+        |
+        v
+  [2] Statelessness means no state considers the person its national under its law.
+        |
+        v
+  [3] Denizens possess durable residence and substantial rights without full political
+      membership.
+        |
+        v
+  [4] Migration reveals governance without equal authorship of binding rules.
+        |
+        v
+VERDICT -> Migration separates residence, nationality and political authorship.
+ANSWER USE -> Define each legal status before evaluating inclusion or exclusion.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: Citizenship, Legal Nationality, National Identity and Civic Capability
+
+```ascii-master
+CENTRAL FOCUS
+Citizenship, Legal Nationality, National Identity and Civic Capability
+  [1] Citizenship names domestic legal-political membership and its rights and duties.
+        |
+        v
+  [2] Legal nationality is the person-state bond recognised in international law.
+        |
+        v
+  [3] National identity is cultural or political identification, not a documentary
+      synonym.
+        |
+        v
+  [4] The ECI literacy anchor illustrates civic capability without proving equal
+      participation.
+        |
+        v
+VERDICT -> Civic literacy builds capability but does not prove equal democratic power.
+ANSWER USE -> Use the verified ECI anchor with a clear evidence boundary.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
+
+```ascii-master
+CENTRAL FOCUS
+MCQ Remediation and Trap Repair
+  [1] Close options test legal status versus effective capability and identity versus
+      nationality.
+        |
+        v
+  [2] Arendt, Walzer and Barber address public action, membership and participation
+      differently.
+        |
+        v
+  [3] Young's differentiated citizenship is not Kymlicka's complete minority-rights
+      framework.
+        |
+        v
+  [4] Marshall's sequence is an English reconstruction, not a universal law of
+      development.
+        |
+        v
+VERDICT -> Close options turn on holder, mechanism, provenance and scope.
+ANSWER USE -> Correct the tempting overclaim before selecting the answer.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
+
+```ascii-master
+CENTRAL FOCUS
+PYQ Ownership and Answer Practice
+  [1] One cross-applied PYQ asks whether rights make citizens accountable to the state.
+        |
+        v
+  [2] Primary ownership remains Philosophy Paper II - Individual and State.
+        |
+        v
+  [3] Six original questions test genealogy, theories, critiques and migration boundaries.
+        |
+        v
+  [4] Final recall: equal status is incomplete without usable voice and non-dominated
+      membership.
+        |
+        v
+VERDICT -> Cross-application preserves PYQ ownership while testing citizenship logic.
+ANSWER USE -> End on fair membership, usable voice and resistance to domination.
+```

@@ -1,0 +1,1152 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-05",
+  "subject": "Philosophy",
+  "title": "SOCIALISM, FASCISM, ANARCHISM AND GANDHISM",
+  "short_route": "ORIENTATION: FOUR RIVAL RESPONSES → SOCIALISM: DEFINITIONS, TYPES AND → FASCISM: DOCTRINE, LEADER PRINCIPLE → FASCISM: SOCIAL BASIS, CRITIQUES → ANARCHISM: VOLUNTARY ORDER, THINKERS → GANDHISM: SATYAGRAHA, TRUSTEESHIP, SWARAJ",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-05_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-05-ascii-2026-08-28-g3.json",
+  "ascii_spec_sha256": "97827d94f2a209fecea2fff3e5844b5af0a9633c68b6a9934575eda5d5650ad7",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ORIENTATION: FOUR RIVAL RESPONSES TO MODERN POLITICAL ORDER",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FOUR RIVAL RESPONSES TO MODERN POLITICAL ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SOCIALISM, ANARCHISM AND GANDHISM EACH CRITICIZE CAPITALISM/COERCION WHILE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] SOCIALISM BROADENS THE ANTI-CAPITALIST FIELD BEYOND MARXISM AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] FASCISM IS ESSENTIAL FOR THE EXAM CANDIDATE AS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] ANARCHISM FORCES THE EXAM CANDIDATE TO DISTINGUISH OPPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUR RIVAL RESPONSES TO MODERN POLITICAL ORDER IS BEST",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Orientation: Four Rival Responses to Modern Political Order",
+        "[1] Socialism, anarchism and Gandhism each criticize capitalism/coercion while still valuing liberty or equality in",
+        "fascism is the outlier that explicitly.",
+        "[2] Socialism broadens the anti-capitalist field beyond Marxism and asks how equality can be secured"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Orientation: Four Rival Responses to Modern Political Order",
+            "[1] Socialism, anarchism and Gandhism each criticize capitalism/coercion while still valuing liberty or equality in some form",
+            "fascism is the outlier that explicitly."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Socialism broadens the anti-capitalist field beyond Marxism and asks how equality can be secured through public control of production.",
+            "(PDF pp.55-56)",
+            "[3] Fascism is essential for the exam candidate as the standard case of a modern totalitarian ideology that",
+            "rejected both liberal-democracy and Marxism, and as"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Anarchism forces the exam candidate to distinguish opposition to coercive state authority from mere chaos or disorder. (PDF pp.73-78)",
+            "SYNTHESIS → Orientation: Four Rival Responses to Modern Political Order is best presented through its central claim, causal",
+            "logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Four Rival Responses to Modern Political Order is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SOCIALISM: DEFINITIONS, TYPES AND DEMOCRATIC REFORM",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEFINITIONS, TYPES AND DEMOCRATIC REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SOCIALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "OWNERSHIP OR CONTROL OF THE MEANS OF PRODUCTION BY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] EVOLUTIONARY",
+          "role": "primary"
+        },
+        {
+          "text": "DEMOCRATIC SOCIALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIALISM PURSUED GRADUALLY, CONSTITUTIONALLY AND DEMOCRATICALLY RATHER THAN THROUGH",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] FASCISM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Socialism: Definitions, Types and Democratic Reform",
+        "[1] Socialism: ownership or control of the means of production by the community or public",
+        "[2] Evolutionary / democratic socialism: socialism pursued gradually, constitutionally and democratically rather than through wholesale",
+        "[3] Fascism: the doctrine/movement founded by Benito Mussolini in Italy (1919), built from an incoherent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Socialism: Definitions, Types and Democratic Reform",
+            "[1] Socialism: ownership or control of the means of production by the community or public authority in the interest of all. (PDF p.55)",
+            "[2] Evolutionary / democratic socialism: socialism pursued gradually, constitutionally and democratically rather than through wholesale revolutionary rupture."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Fascism: the doctrine/movement founded by Benito Mussolini in Italy (1919), built from an incoherent bundle of principles",
+            "rather than a systematic philosophy.",
+            "[4] Leader principle: concentration of unconditional authority in a supreme leader/dictator whose will is treated as law, with",
+            "the individual holding no rights against."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Socialism: Definitions, Types and Democratic Reform is best presented through its central claim, causal logic, strongest",
+            "limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Definitions, Types and Democratic Reform is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FASCISM: DOCTRINE, LEADER PRINCIPLE AND TOTALITARIAN STATE",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DOCTRINE, LEADER PRINCIPLE AND TOTALITARIAN STATE",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SOCIALISM VS MARXISM",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIALISM IS A WIDER FAMILY; GAUBA'S OWN EXPOSITION INCLUDES",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] EVOLUTIONARY VS REVOLUTIONARY SOCIALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SEEKS GRADUAL DEMOCRATIC TRANSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE OTHER SEEKS REVOLUTIONARY OVERTHROW OF CAPITALISM. (PDF P.56)",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] FASCISM VS LIBERALISM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Fascism: Doctrine, Leader Principle and Totalitarian State",
+        "[1] Socialism vs Marxism: socialism is a wider family",
+        "Gauba's own exposition includes democratic, Fabian, revisionist and syndicalist variants beyond Marxian.",
+        "[2] Evolutionary vs revolutionary socialism: one seeks gradual democratic transition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Fascism: Doctrine, Leader Principle and Totalitarian State",
+            "[1] Socialism vs Marxism: socialism is a wider family",
+            "Gauba's own exposition includes democratic, Fabian, revisionist and syndicalist variants beyond Marxian.",
+            "[2] Evolutionary vs revolutionary socialism: one seeks gradual democratic transition"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "the other seeks revolutionary overthrow of capitalism. (PDF p.56)",
+            "[3] Fascism vs liberalism: fascism exalts the state as an end and reduces the individual to a means,",
+            "(PDF p.66)",
+            "[4] Fascism vs Marxism: fascism denies the economic conception of history and class conflict, replacing it with the",
+            "myth of an indivisible national interest, whereas."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Fascism: Doctrine, Leader Principle and Totalitarian State is best presented through its central claim, causal logic,",
+            "strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Doctrine, Leader Principle and Totalitarian State is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FASCISM: SOCIAL BASIS, CRITIQUES AND GAUBA'S VERDICT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIAL BASIS, CRITIQUES AND GAUBA'S VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] FABIANISM USES THE ALREADY EXISTING DEMOCRATIC STATE AS",
+          "role": "institution"
+        },
+        {
+          "text": "[2] MUSSOLINI'S DISMANTLING OF ITALY'S PARLIAMENTARY PARTIES INTO \"THE\"",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] FASCIST STATES BROUGHT THE PRESS, RADIO, PUBLISHING AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PROUDHON'S MODEL IMAGINES PRODUCERS' ASSOCIATIONS LINKED BY A",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL BASIS, CRITIQUES AND GAUBA'S VERDICT IS BEST PRESENTED",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Fascism: Social Basis, Critiques and Gauba's Verdict",
+        "[1] Fabianism uses the already existing democratic state as an instrument of reform instead of",
+        "[2] Mussolini's dismantling of Italy's parliamentary parties into \"the\" party, and his conversion of the",
+        "of the government,\" illustrates the."
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "of the government,\" illustrates the.",
+          "SYNTHESIS → Fascism: Social Basis, Critiques and Gauba's Verdict is best presented through its central claim, causal logic,"
+        ],
+        [
+          "Fascism: Social Basis, Critiques and Gauba's Verdict",
+          "[3] Fascist states brought the press, radio, publishing and cinema under government control and subordinated even the judiciary",
+          "strongest limit and qualified verdict."
+        ],
+        [
+          "[1] Fabianism uses the already existing democratic state as an instrument of reform instead of destroying it first. (PDF pp.57-58)",
+          "to fascist ideals, illustrating the.",
+          "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+        ],
+        [
+          "[2] Mussolini's dismantling of Italy's parliamentary parties into \"the\" party, and his conversion of the premiership into \"head",
+          "[4] Proudhon's model imagines producers' associations linked by a federal principle and supported by a mutual credit bank. (PDF p.75)",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Fascism: Social Basis, Critiques and Gauba's Verdict",
+            "[1] Fabianism uses the already existing democratic state as an instrument of reform instead of destroying it first. (PDF pp.57-58)",
+            "[2] Mussolini's dismantling of Italy's parliamentary parties into \"the\" party, and his conversion of the premiership into \"head"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "of the government,\" illustrates the.",
+            "[3] Fascist states brought the press, radio, publishing and cinema under government control and subordinated even the judiciary",
+            "to fascist ideals, illustrating the.",
+            "[4] Proudhon's model imagines producers' associations linked by a federal principle and supported by a mutual credit bank. (PDF p.75)"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "SYNTHESIS → Fascism: Social Basis, Critiques and Gauba's Verdict is best presented through its central claim, causal logic,",
+            "strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Social Basis, Critiques and Gauba's Verdict is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ANARCHISM: VOLUNTARY ORDER, THINKERS AND INTERNAL STRANDS",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "VOLUNTARY ORDER, THINKERS AND INTERNAL STRANDS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DEFINE FASCISM AS AN INCOHERENT, LEADER-LED, SINGLE-PARTY TOTALITARIAN",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] USE MUSSOLINI AND HITLER AS THE TWO CHIEF",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] CLOSE FASCISM WITH GAUBA'S APPRAISAL",
+          "role": "primary"
+        },
+        {
+          "text": "A POLITICAL PATHOLOGY AND \"SICK MENTAL ATTITUDE,\" NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "[4] DEFINE ANARCHISM AS OPPOSITION TO COERCIVE STATE AUTHORITY",
+          "role": "institution"
+        },
+        {
+          "text": "VOLUNTARY ORDER, THINKERS AND INTERNAL STRANDS IS BEST PRESENTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Anarchism: Voluntary Order, Thinkers and Internal Strands",
+        "[1] Define fascism as an incoherent, leader-led, single-party totalitarian doctrine that rejects liberalism, Marxism and",
+        "[2] Use Mussolini and Hitler as the two chief historical instances, noting Nazism's added racist",
+        "[3] Close fascism with Gauba's appraisal: a political pathology and \"sick mental attitude,\" not a"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Anarchism: Voluntary Order, Thinkers and Internal Strands",
+            "[1] Define fascism as an incoherent, leader-led, single-party totalitarian doctrine that rejects liberalism, Marxism and democracy through extreme"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Use Mussolini and Hitler as the two chief historical instances, noting Nazism's added racist doctrine. (PDF pp.64, 69)",
+            "[3] Close fascism with Gauba's appraisal: a political pathology and \"sick mental attitude,\" not a genuine theory, criticized",
+            "[4] Define anarchism as opposition to coercive state authority, not to all order. (PDF pp.73-74)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Anarchism: Voluntary Order, Thinkers and Internal Strands is best presented through its central claim, causal logic,",
+            "strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Voluntary Order, Thinkers and Internal Strands is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GANDHISM: SATYAGRAHA, TRUSTEESHIP, SWARAJ AND SARVODAYA",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SATYAGRAHA, TRUSTEESHIP, SWARAJ AND SARVODAYA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SYNTHESIS VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "READING THE FOUR DOCTRINES ALONG THESE SAME FOUR AXES",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PREMISES",
+          "role": "primary"
+        },
+        {
+          "text": "(A) CAPITALISM GENERATES CLASS INEQUALITY AND, IN SOME READINGS",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "BECAUSE PREMISE (A) IS READ DIFFERENTLY AT THE LEVEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya",
+        "[1] Synthesis verdict: reading the four doctrines along these same four axes shows that fascism",
+        "with hierarchy and \"liberty\" with subordination.",
+        "[2] Premises: (a) capitalism generates class inequality and, in some readings, coercive concentration of power"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya",
+            "[1] Synthesis verdict: reading the four doctrines along these same four axes shows that fascism alone answers \"equality\"",
+            "with hierarchy and \"liberty\" with subordination."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Premises: (a) capitalism generates class inequality and, in some readings, coercive concentration of power — a diagnosis",
+            "shared by socialism, anarchism and Gandhism.",
+            "[3] Mechanism: because premise (a) is read differently at the level of instrument (b), each doctrine proposes a distinct transformative mechanism —.",
+            "[4] Conclusion: an answer that files all \"anti-liberal\" or \"anti-capitalist\" doctrines together misses the topic's deepest fault line,"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "which is not liberalism versus.",
+            "SYNTHESIS → Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya is best presented through its central claim, causal logic, strongest",
+            "limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Satyagraha, Trusteeship, Swaraj and Sarvodaya is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FOUR-DOCTRINE SYNTHESIS, TRAPS AND ANSWER ARCHITECTURE",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOUR-DOCTRINE SYNTHESIS, TRAPS AND ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE GANDHI-TOLSTOY INFLUENCE LINK (§12.3) AND THE CROSS-CHAPTER",
+          "role": "comparison"
+        },
+        {
+          "text": "(§12.4, GAUBA PDF PP.489-490, DRAWN FROM THE COMMON-GOOD CHAPTER",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] FASCISM FACTUAL DISCIPLINE IS UNCHANGED BY THIS UPDATE",
+          "role": "primary"
+        },
+        {
+          "text": "ALL FASCISM CONTENT REMAINS CONFINED TO §§2-9 ABOVE, SOURCED",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] PRIMARY SOURCE USED DIRECTLY",
+          "role": "evidence"
+        },
+        {
+          "text": "O. P. GAUBA, AN INTRODUCTION TO POLITICAL THEORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Four-Doctrine Synthesis, Traps and Answer Architecture",
+        "[1] The Gandhi-Tolstoy influence link (§12.3) and the cross-chapter Sarvodaya citation",
+        "(§12.4, Gauba PDF pp.489-490, drawn from the common-good chapter rather than this.",
+        "[2] Fascism factual discipline is unchanged by this update: all fascism content remains confined to"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Four-Doctrine Synthesis, Traps and Answer Architecture",
+            "[1] The Gandhi-Tolstoy influence link (§12.3) and the cross-chapter Sarvodaya citation",
+            "(§12.4, Gauba PDF pp.489-490, drawn from the common-good chapter rather than this.",
+            "[2] Fascism factual discipline is unchanged by this update: all fascism content remains confined to §§2-9 above, sourced"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "only from Gauba's own critical framing (PDF.",
+            "[3] Primary source used directly: O. P. Gauba, An Introduction to Political Theory,",
+            "Fifth Edition (2009), Ch.2, PDF pp.55-83, with a cross-chapter Sarvodaya anchor at.",
+            "[4] Key anchors: definition and routes of socialism (PDF pp.55-56)",
+            "Fabians, Webb and democratic socialism (PDF pp.57-63)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "fascism's origin, leader principle.",
+            "SYNTHESIS → Four-Doctrine Synthesis, Traps and Answer Architecture is best presented through its central claim, causal logic, strongest",
+            "limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Four-Doctrine Synthesis, Traps and Answer Architecture is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CONSERVATISM I: BURKE, OAKESHOTT AND THE FOUR PILLARS",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CONSERVATISM I",
+          "role": "primary"
+        },
+        {
+          "text": "BURKE, OAKESHOTT AND THE FOUR PILLARS",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] GENUS/DIFFERENTIA LINE FOR A \"DEFINE\" DIRECTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSERVATISM BELONGS TO THE GENUS OF",
+          "role": "primary"
+        },
+        {
+          "text": "[2] INHERITANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "BURKE READS A POLITICAL ORDER AS AN INTERGENERATIONAL TRUST",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] PRUDENTIAL REFORM — THE DECISIVE POINT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Conservatism I: Burke, Oakeshott and the Four Pillars",
+        "[1] Genus/differentia line for a \"Define\" directive: conservatism belongs to the genus of",
+        "[2] Inheritance: Burke reads a political order as an intergenerational trust rather than a",
+        "[3] Prudential reform — the decisive point: prescription creates a presumption in favour of"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Conservatism I: Burke, Oakeshott and the Four Pillars",
+            "[1] Genus/differentia line for a \"Define\" directive: conservatism belongs to the genus of"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Inheritance: Burke reads a political order as an intergenerational trust rather than a",
+            "[3] Prudential reform — the decisive point: prescription creates a presumption in favour of",
+            "[4] Prejudice as latent wisdom (state carefully): Burke uses \"prejudice\" in its older sense of"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Conservatism I: Burke, Oakeshott and the Four Pillars is best presented through its central claim, causal",
+            "logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Burke, Oakeshott and the Four Pillars is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONSERVATISM II: STRANDS, CRITIQUES AND COMPARATIVE CHANGE",
+      "structural_type": "application-pyq",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CONSERVATISM II",
+          "role": "primary"
+        },
+        {
+          "text": "STRANDS, CRITIQUES AND COMPARATIVE CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] P1 (EPISTEMIC)",
+          "role": "evidence"
+        },
+        {
+          "text": "THE KNOWLEDGE REQUIRED TO RUN A SOCIETY IS DISPERSED",
+          "role": "primary"
+        },
+        {
+          "text": "[2] MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "P1 AND P2 TOGETHER MEAN THE DESIGNER SYSTEMATICALLY UNDERESTIMATES",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] CONCLUSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Conservatism II: Strands, Critiques and Comparative Change",
+        "[1] P1 (epistemic): the knowledge required to run a society is dispersed, largely tacit and",
+        "[2] Mechanism: P1 and P2 together mean the designer systematically underestimates what is being",
+        "[3] Conclusion: reform should be particular (one defect at a time), evidenced (against the"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Conservatism II: Strands, Critiques and Comparative Change",
+            "[1] P1 (epistemic): the knowledge required to run a society is dispersed, largely tacit and"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "[2] Mechanism: P1 and P2 together mean the designer systematically underestimates what is being",
+            "[3] Conclusion: reform should be particular (one defect at a time), evidenced (against the",
+            "[4] What this rules out: it rules out justifying an institution purely by its age (that would"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "SYNTHESIS → Conservatism II: Strands, Critiques and Comparative Change is best presented through its central claim, causal logic,",
+            "strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Strands, Critiques and Comparative Change is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CONSERVATISM III: EVIDENCE, INDIAN CAUTION AND MARK-SCALED ANSWERS",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONSERVATISM III",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE, INDIAN CAUTION AND MARK-SCALED ANSWERS",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] UNIT C1 — CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "A POLITICAL ORDER THAT CANNOT CHANGE CANNOT PRESERVE ITSELF",
+          "role": "primary"
+        },
+        {
+          "text": "[2] UNIT C2 — CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG USAGE AND REPEATED ADJUSTMENT ARE EVIDENCE OF AN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] UNIT C3 — CLAIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers",
+        "[1] Unit C1 — Claim: a political order that cannot change cannot preserve itself, so",
+        "[2] Unit C2 — Claim: long usage and repeated adjustment are evidence of an institution's",
+        "[3] Unit C3 — Claim: political knowledge is not exhausted by what can be written"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers",
+            "[1] Unit C1 — Claim: a political order that cannot change cannot preserve itself, so reform is"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Unit C2 — Claim: long usage and repeated adjustment are evidence of an institution's tested",
+            "[3] Unit C3 — Claim: political knowledge is not exhausted by what can be written in a manual →",
+            "[4] Unit C4 — Claim: social division is itself a threat to order, so amelioration is a"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers is best presented through its central claim, causal",
+            "logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Evidence, Indian Caution and Mark-Scaled Answers is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SOCIALISM, ANARCHISM AND GANDHISM EACH CRITICIZE CAPITALISM/COERCION WHILE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] SOCIALISM BROADENS THE ANTI-CAPITALIST FIELD BEYOND MARXISM AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] FASCISM IS ESSENTIAL FOR THE EXAM CANDIDATE AS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] ANARCHISM FORCES THE EXAM CANDIDATE TO DISTINGUISH OPPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR IS BEST PRESENTED THROUGH",
+          "role": "caution"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Socialism, anarchism and Gandhism each criticize capitalism/coercion while still valuing liberty or equality in",
+        "fascism is the outlier that explicitly.",
+        "[2] Socialism broadens the anti-capitalist field beyond Marxism and asks how equality can be secured"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Socialism, anarchism and Gandhism each criticize capitalism/coercion while still valuing liberty or equality in some form",
+            "fascism is the outlier that explicitly."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Socialism broadens the anti-capitalist field beyond Marxism and asks how equality can be secured through public control of production.",
+            "(PDF pp.55-56)",
+            "[3] Fascism is essential for the exam candidate as the standard case of a modern totalitarian ideology that",
+            "rejected both liberal-democracy and Marxism, and as"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Anarchism forces the exam candidate to distinguish opposition to coercive state authority from mere chaos or disorder. (PDF pp.73-78)",
+            "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] WHY I ACCEPT THE CRITIQUE (EVIDENCE P9). PROPERTY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] WHY I STOP SHORT (OBJECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "RESIDUAL). OBJECTION",
+          "role": "primary"
+        },
+        {
+          "text": "WITHOUT PUBLIC",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] THE ANARCHIST AFFINITY. GANDHI'S SELF-RULE (SWARĀJ) BEGINS WITH",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] THE STRONGEST CASE FOR DISPENSING WITH AUTHORITY (EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] Why I accept the critique (evidence P9). Property and the state can function",
+        "[2] Why I stop short (objection → reply → residual). Objection: without public",
+        "[3] The anarchist affinity. Gandhi's self-rule (swarāj) begins with rule over oneself"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] Why I accept the critique (evidence P9). Property and the state can function"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Why I stop short (objection → reply → residual). Objection: without public",
+            "[3] The anarchist affinity. Gandhi's self-rule (swarāj) begins with rule over oneself",
+            "[4] The strongest case for dispensing with authority (evidence P9). The state has"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

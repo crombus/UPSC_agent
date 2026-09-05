@@ -1,0 +1,4441 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-06_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-06_Learning-Session_2026-08-27.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 9,
+      "heading": "Humanism, Secularism and Multiculturalism - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Syllabus (verbatim):** Humanism; Secularism; Multi-culturalism.  **Generation:** g2, 27 August 2026 · **Approval:** false pending explicit topic approval  **Evidence discipline:** Complete legacy teaching and workbook material is preserve",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 692.424
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 16,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Humanism, secularism and multiculturalism as one constrained argument",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\assets\\philosophy-paper-ii-socio-political-philosophy-06\\humanism-secularism-multiculturalism-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 659.424
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 351.888
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 20,
+      "markdown_body_line_end": 20,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Humanism; Secularism; Multi-culturalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 304.288
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 273.82
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 32,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 229.62
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 99.019
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 60,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 548.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 104,
+      "heading": "VISUAL - What humanism places at the centre of value",
+      "preview": "THE HUMAN PERSON  -  an end, never a mere instrument",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 341.79
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 148,
+      "heading": "VISUAL - Four confusions that cost marks in the first paragraph",
+      "preview": "+---------------------------+-------------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 470.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 109.891
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 154,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Humanism does not claim that human beings are the measure of every truth; it claims that each person carries an unearned worth which no church, state, caste, market or community may cancel, so an authority that cannot justify itself before ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 59.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 203,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE CLAUSE IN ONE PICTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 114.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 223,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "WHAT HUMANISM PUTS AT THE CENTRE  (the dignity-agency map)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 638.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 507.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 226,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Memory hook: DRAF -- Dignity, Reason, Agency, Flourishing -- are the four things humanism centres on the human person, always tied to responsibility.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 507.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 463.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 245,
+      "heading": "0. ONE-SCREEN MAP",
+      "preview": "HUMANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 441.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 310.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 264,
+      "heading": "1.1 Doctrine statement",
+      "preview": "Confusion | Correct distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Confusion",
+          "Correct distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 168.324
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 292,
+      "heading": "CLOSING RECALL FLOW - Humanism I: Dignity, Agency and the Human-Centred Argument",
+      "preview": "Humanism I: Dignity, Agency and the Human-Centred Argument",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 554.49
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 405.571
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 350,
+      "heading": "VISUAL - One dignity, several grounds: the branch table",
+      "preview": "+------------------+---------------------+-----------------+--------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 45,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 346.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 356,
+      "markdown_body_line_end": 396,
+      "heading": "VISUAL - How the Enlightenment paved the way, in five shifts",
+      "preview": "INHERITED STATUS AS THE SOURCE OF AUTHORITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 305.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 402,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Enlightenment is the decisive modern articulation of humanism and not its sole source, because it shifts authority from inherited status to reasoned justification, breaks epistemic monopoly through inquiry, weakens compulsory religious ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 390.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 317.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 462,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "HUMANISM: GENEALOGY AND BRANCH MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 243.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 469,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: \"RE-EN-branch\" -- REnaissance capacities, ENlightenment reason, then branches: Secular, Religious, Marxist, Radical.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 195.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 151.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 496,
+      "heading": "1.4 Major forms",
+      "preview": "Form | Ground of dignity | View of religion | Risk",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Form",
+          "Ground of dignity",
+          "View of religion",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 669.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 470.49
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 508,
+      "heading": "CLOSING RECALL FLOW - Humanism II: Genealogy and Forms (Renaissance, Enlightenment, Branches)",
+      "preview": "Humanism II: Genealogy and Forms (Renaissance, Enlightenment, Branches)",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 448.49
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 290.071
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 564,
+      "heading": "VISUAL - Tagore: how the opposites are reconciled",
+      "preview": "+------------------------+--------------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 43,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 570,
+      "markdown_body_line_end": 618,
+      "heading": "VISUAL - Four Indian groundings of one dignity",
+      "preview": "ONE DIGNITY, FOUR GROUNDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 47,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 310.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 346.291
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 624,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tagore's reconciliation of opposites is an argument and not a slogan: the isolated ego is incomplete because creative self-expression already presupposes language, relation and a shared world, so universal humanity is a dimension of fulfill",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 251.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 681,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "TAGORE: RECONCILIATION OF OPPOSITES  (why the isolated ego is incomplete)",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 345.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 154.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 684,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Memory hook: Tagore reconciles by RELATION -- the ego completes itself in the other, so \"universal\" is not opposed to \"individual\" but fulfils it.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 154.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 110.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 700,
+      "heading": "1.5 Tagore's humanism: reconciliation of opposites",
+      "preview": "Apparent opposition | Tagorean mediation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Apparent opposition",
+          "Tagorean mediation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 672.69
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 738,
+      "markdown_body_line_end": 746,
+      "heading": "CLOSING RECALL FLOW - Humanism III: Indian Humanism and Its Critics (Tagore, Gandhi, Vivekananda, Roy)",
+      "preview": "Humanism III: Indian Humanism and Its Critics (Tagore, Gandhi, Vivekananda, Roy)",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 138.59
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 760.823
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 796,
+      "heading": "VISUAL - Four words that are constantly confused",
+      "preview": "+---------------------+---------------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 556.423
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 195.423
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 802,
+      "markdown_body_line_end": 846,
+      "heading": "VISUAL - The core argument, and why it cuts both ways",
+      "preview": "(1) citizens REASONABLY DISAGREE about religion and ultimate good",
+      "metadata": {
+        "language": "text",
+        "line_count": 43,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 852,
+      "markdown_body_line_end": 852,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Secularism is a doctrine of public power rather than a sociological prediction or a truth-claim about God, so a deeply religious society can be fully secular while an irreligious state that ranks its citizens by belief is not, and the whole",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 330.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 271.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 905,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "ONE WORD, THREE MEANINGS  (never blur these)",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 438.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 277.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 912,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: adjective / Process / Doctrine -- Secular describes, Secularisation predicts, Secularism prescribes. The exam wants the prescriber.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 244.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 199.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 930,
+      "heading": "2.1 Doctrine statement",
+      "preview": "Term | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Term",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 92.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 952,
+      "heading": "CLOSING RECALL FLOW - Secularism I: Secular, Secularisation, Secularism and the Core Argument",
+      "preview": "Secularism I: Secular, Secularisation, Secularism and the Core Argument",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 535.49
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 386.571
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 964,
+      "markdown_body_line_end": 1010,
+      "heading": "VISUAL - The secularism spectrum with device, strength and risk",
+      "preview": "MORE DISTANCE  <========================================>  MORE ENGAGED",
+      "metadata": {
+        "language": "text",
+        "line_count": 45,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 346.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1016,
+      "markdown_body_line_end": 1054,
+      "heading": "VISUAL - Plurality, pluralism, secularism: the three decoupling cases",
+      "preview": "PLURALITY  = several religions are present            (a FACT)",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 305.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1060,
+      "markdown_body_line_end": 1060,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Secularism and religious pluralism are related but the relation is contingent rather than necessary, because a religiously homogeneous society still needs secular protection for its dissenters, a plural society can remain non-secular when o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 395.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 322.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1096,
+      "markdown_body_line_end": 1118,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE SECULARISM SPECTRUM  (distance from religion: high --> context-sensitive)",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 481.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 260.491
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1125,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: \"SLNEP\" -- Strict, Laicite, Non-establishment, Equal-respect, Principled-distance -- left (walls) to right (principled engagement).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 227.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 182.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1137,
+      "heading": "2.3 Models of secularism",
+      "preview": "Model | Central device | Strength | Risk",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Model",
+          "Central device",
+          "Strength",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 160.424
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 696.39
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1153,
+      "markdown_body_line_end": 1161,
+      "heading": "CLOSING RECALL FLOW - Secularism II: Western Models and the Secularism-Pluralism Relation",
+      "preview": "Secularism II: Western Models and the Secularism-Pluralism Relation",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 508.59
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 358.521
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1213,
+      "heading": "VISUAL - Principled distance as a decision procedure",
+      "preview": "A religious practice or claim",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1259,
+      "heading": "VISUAL - Gandhi's five steps, the objection and the supplement",
+      "preview": "(1) religions contain PARTIAL human apprehensions of truth",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1265,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gandhi's secularism does not expel religion from public life but disciplines politics by religion understood as ethical truth and self-purification rather than sectarian command, and the argument runs from the partiality of every human appr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 375.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 302.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1303,
+      "markdown_body_line_end": 1327,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "PRINCIPLED DISTANCE: THE DECISION LOGIC  (Bhargava's Indian model)",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 364.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 123.891
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1334,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: DISTANCE with a REASON -- abstain to protect, engage to reform, but always for a publicly defensible principle.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 90.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 45.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1392,
+      "heading": "CLOSING RECALL FLOW - Secularism III: Indian Secularism, Principled Distance and Its Critics",
+      "preview": "Secularism III: Indian Secularism, Principled Distance and Its Critics",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 199.391
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 40.973
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1404,
+      "markdown_body_line_end": 1446,
+      "heading": "VISUAL - Three thinkers, three distinct jobs",
+      "preview": "THE MULTICULTURAL CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 41,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 595.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 194.691
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1452,
+      "markdown_body_line_end": 1504,
+      "heading": "VISUAL - From tolerance to recognition, and the four dimensions",
+      "preview": "TOLERANCE ------> COEXISTENCE ------> RECOGNITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 51,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 286.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1510,
+      "markdown_body_line_end": 1510,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Recognition is not a courtesy added to equal citizenship: equal dignity sometimes requires differentiated treatment rather than formally identical treatment, because supposedly neutral institutions carry the majority's language, calendar an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 250.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 191.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1548,
+      "markdown_body_line_end": 1567,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE MULTICULTURAL RIGHTS TAXONOMY  (read a group claim on two axes)",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 295.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 104.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1573,
+      "markdown_body_line_end": 1574,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: point the right OUTWARD (protection = ok) not INWARD (restriction = suspect). External shields, internal chains.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 70.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        34,
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1591,
+      "heading": "3.2 Descriptive and normative dimensions",
+      "preview": "Dimension | Question | Example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Question",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 653.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 521.222
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1626,
+      "markdown_body_line_end": 1634,
+      "heading": "CLOSING RECALL FLOW - Multiculturalism I: Recognition, Group-Differentiated Rights and Dialogue",
+      "preview": "Multiculturalism I: Recognition, Group-Differentiated Rights and Dialogue",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 134.622
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 675.673
+        }
+      },
+      "pdf_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1646,
+      "markdown_body_line_end": 1682,
+      "heading": "VISUAL - Globalisation and multiculturalism: a two-way relation",
+      "preview": "GLOBAL FLOWS (migration, communication, exchange)",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 457.073
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 116.073
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1688,
+      "markdown_body_line_end": 1734,
+      "heading": "VISUAL - Four standing objections and their replies",
+      "preview": "+------------------+---------------------------+---------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 45,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 346.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1740,
+      "markdown_body_line_end": 1740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Globalisation and multiculturalism stand in a two-way relation rather than a simple opposition, because global flows pluralise societies and generate hybrid identities while perceived cultural loss intensifies demands for recognition, and t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 237.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1777,
+      "markdown_body_line_end": 1798,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MINORITIES-WITHIN-MINORITIES: THE DECISION TREE  (Okin's challenge, 3.8)",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 358.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 147.091
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1804,
+      "markdown_body_line_end": 1805,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: for any group right ask \"who bears the cost?\" -- if the vulnerable INSIDE the group pay, recognition owes them voice and exit, not silence.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 113.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 69.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1867,
+      "markdown_body_line_end": 1875,
+      "heading": "CLOSING RECALL FLOW - Multiculturalism II: India, Globalisation, Feminism and the Objections",
+      "preview": "Multiculturalism II: India, Globalisation, Feminism and the Objections",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 115.791
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 674.523
+        }
+      },
+      "pdf_pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1887,
+      "markdown_body_line_end": 1931,
+      "heading": "VISUAL - Two grammars of injustice",
+      "preview": "+----------------+-----------------------------+---------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 43,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 455.923
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        40,
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1937,
+      "markdown_body_line_end": 1985,
+      "heading": "VISUAL - Parity of participation against the three spheres",
+      "preview": "FRASER                                   HONNETH",
+      "metadata": {
+        "language": "text",
+        "line_count": 47,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 346.291
+        }
+      },
+      "pdf_pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1991,
+      "markdown_body_line_end": 1991,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Recognition and redistribution are analytically distinct and practically entangled: misrecognition frequently causes and is reinforced by maldistribution, yet each can persist without the other, so a remedy that addresses only one dimension",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 251.224
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2029,
+      "markdown_body_line_end": 2047,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE TWO GRAMMARS OF INJUSTICE  (recognition vs redistribution matrix, 3A.1)",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 331.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 150.491
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2054,
+      "markdown_body_line_end": 2055,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: MONEY vs ESTEEM -- redistribution fixes what you HAVE, recognition fixes how you are SEEN; a well-paid group can be despised, a respected group poor.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 102.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 58.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2061,
+      "markdown_body_line_end": 2061,
+      "heading": "3A. RECOGNITION AND REDISTRIBUTION",
+      "preview": "⚠️ **Why this section exists.** Taylor, Kymlicka and Parekh (§3.3–§3.5) establish that misrecognition is a genuine injury. They do not settle the harder question: **is recognition an independent dimension of justice, or a derivative of mate",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2065,
+      "markdown_body_line_end": 2072,
+      "heading": "3A.1 The problem: two grammars of injustice",
+      "preview": " | **Redistribution grammar** | **Recognition grammar**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "",
+          "**Redistribution grammar**",
+          "**Recognition grammar**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 694.024
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 497.422
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2103,
+      "markdown_body_line_end": 2107,
+      "heading": "3A.3 Honneth: recognition as the deeper category",
+      "preview": "Sphere | Mode of recognition | Self-relation developed | Corresponding disrespect",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Sphere",
+          "Mode of recognition",
+          "Self-relation developed",
+          "Corresponding disrespect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 548.19
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2121,
+      "markdown_body_line_end": 2127,
+      "heading": "3A.4 The dispute, and how to adjudicate it in an answer",
+      "preview": "Axis | **Fraser** | **Honneth**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "**Fraser**",
+          "**Honneth**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 378.39
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 180.588
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2155,
+      "markdown_body_line_end": 2163,
+      "heading": "CLOSING RECALL FLOW - Recognition and Redistribution: Fraser, Honneth and the Two Grammars of Justice",
+      "preview": "Recognition and Redistribution: Fraser, Honneth and the Two Grammars of Justice",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 202.791
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 53.873
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2175,
+      "markdown_body_line_end": 2213,
+      "heading": "VISUAL - The synthesis triangle and its shared limit",
+      "preview": "UNIVERSAL HUMAN DIGNITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 609.891
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 248.891
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2219,
+      "markdown_body_line_end": 2269,
+      "heading": "VISUAL - The anthropocentric boundary: three replies, ranked",
+      "preview": "OBJECTION -> if dignity attaches to RATIONAL SELF-LEGISLATING AGENTS,",
+      "metadata": {
+        "language": "text",
+        "line_count": 49,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 306.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2275,
+      "markdown_body_line_end": 2275,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Every stem in this clause is answered by specifying limits rather than by affirming values, so an answer that never states what humanism, secularism or multiculturalism cannot do has expounded a doctrine without evaluating it, and the anthr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 270.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 211.224
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2314,
+      "markdown_body_line_end": 2341,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE UNIVERSALISM <-> PARTICULARITY SYNTHESIS TRIANGLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 26,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 281.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        49,
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2343,
+      "markdown_body_line_end": 2344,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: FLOOR (humanism) -> TERMS (secularism) -> RECOGNITION (multiculturalism), with dignity the thread and the human the shared limit.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 536.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 491.624
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2364,
+      "markdown_body_line_end": 2369,
+      "heading": "4.1 Roy vs Gandhi on humanism",
+      "preview": "Axis | M. N. Roy | Gandhi",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "M. N. Roy",
+          "Gandhi"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 112.424
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 725.09
+        }
+      },
+      "pdf_pages": [
+        50,
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2393,
+      "markdown_body_line_end": 2399,
+      "heading": "5. CRITICISMS AND REPLIES",
+      "preview": "Criticism | Best reply | Remaining danger",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Criticism",
+          "Best reply",
+          "Remaining danger"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 405.79
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 230.388
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2417,
+      "markdown_body_line_end": 2425,
+      "heading": "CLOSING RECALL FLOW - Synthesis and Limits: The Anthropocentric Boundary, Debates, Criticisms and Traps",
+      "preview": "Synthesis and Limits: The Anthropocentric Boundary, Debates, Criticisms and Traps",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 736.391
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 587.473
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2657,
+      "markdown_body_line_end": 2657,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Humanism-Secularism-Multiculturalism.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 148.391
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 46.924
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2689,
+      "markdown_body_line_end": 2689,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 16 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 294.591
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 249.924
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2691,
+      "markdown_body_line_end": 2708,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 16,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 249.924
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 584.39
+        }
+      },
+      "pdf_pages": [
+        56,
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2716,
+      "markdown_body_line_end": 2723,
+      "heading": "9.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 529.19
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 298.288
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2739,
+      "markdown_body_line_end": 2739,
+      "heading": "9.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On multiculturalism-versus-feminism stems, the mark-bearing move is Fraser's **affirmative/transformative** distinction: what is owed is not endorsement of a group's existing self-description but transformation of the value patterns that",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 700.891
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 627.824
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2806,
+      "markdown_body_line_end": 2806,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §3A (added in this pass):** the recognition/redistribution module and the anthropocentrism-limit module are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wor",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 400.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 285.024
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2814,
+      "markdown_body_line_end": 2814,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 257.524
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 212.856
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3461,
+      "markdown_body_line_end": 3463,
+      "heading": "EXAM APPLICATION 1 - Humanism I: Dignity, Agency and the Human-Centred Argument",
+      "preview": "🔑 MEMORY: define -> distinguish from the nearest look-alike -> three-step argument -> one named anchor (H1) -> limit-specifying verdict. Never celebrate the value; specify what it cannot do.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 719.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 674.624
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3485,
+      "markdown_body_line_end": 3486,
+      "heading": "EXAM APPLICATION 2 - Humanism II: Genealogy and Forms (Renaissance, Enlightenment, Branches)",
+      "preview": "🔑 MEMORY: tenets (DRAF + forms) -> five paving steps -> \"decisive articulation, not the sole source\" qualification. The qualification is the mark-separator.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 450.424
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 405.756
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3508,
+      "markdown_body_line_end": 3510,
+      "heading": "EXAM APPLICATION 3 - Humanism III: Indian Humanism and Its Critics (Tagore, Gandhi, Vivekananda, Roy)",
+      "preview": "🔑 MEMORY: for any Indian-humanism stem, pick a NAMED ground (Tagore relation / Gandhi non-violence / Roy autonomy), then add the structural supplement (Ambedkar/Marx). The supplement is the evaluation.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 181.556
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 136.888
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3535,
+      "markdown_body_line_end": 3537,
+      "heading": "EXAM APPLICATION 4 - Secularism I: Secular, Secularisation, Secularism and the Core Argument",
+      "preview": "🔑 MEMORY: fix the meaning (adjective/process/doctrine) -> two freedoms (of AND from) -> two failure-modes (state capture / community immunity) -> equal citizenship is the end, separation only a means.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 571.891
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 527.224
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3561,
+      "markdown_body_line_end": 3562,
+      "heading": "EXAM APPLICATION 5 - Secularism II: Western Models and the Secularism-Pluralism Relation",
+      "preview": "🔑 MEMORY: name the model + device + strength + risk; for pluralism stems run the three decoupling cases; keep \"necessary\" (conceptual) apart from \"coexists\" (historical).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 302.824
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 258.156
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3588,
+      "markdown_body_line_end": 3590,
+      "heading": "EXAM APPLICATION 6 - Secularism III: Indian Secularism, Principled Distance and Its Critics",
+      "preview": "🔑 MEMORY: expound before you evaluate; hold 1976/1994 as illustration not proof; Gandhi (ethical religion) + Ambedkar (constitutional morality) + Bhargava (institutional distance) is the Indian secular-democracy triangle.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3613,
+      "markdown_body_line_end": 3615,
+      "heading": "EXAM APPLICATION 7 - Multiculturalism I: Recognition, Group-Differentiated Rights and Dialogue",
+      "preview": "🔑 MEMORY: define normatively (recognition + accommodation), then split descriptive (fact of diversity) from normative (justice of recognition); external protections = yes, internal restrictions = no is the criterion that earns the marks.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 515.224
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 456.356
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3637,
+      "markdown_body_line_end": 3639,
+      "heading": "EXAM APPLICATION 8 - Multiculturalism II: India, Globalisation, Feminism and the Objections",
+      "preview": "🔑 MEMORY: run each objection with its reply; for tolerance stems climb the ladder to recognition; \"who bears the cost?\" is the feminist test; caste hierarchy is domination, not diversity.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 260.356
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 215.688
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3666,
+      "markdown_body_line_end": 3668,
+      "heading": "EXAM APPLICATION 9 - Recognition and Redistribution: Fraser, Honneth and the Two Grammars of Justice",
+      "preview": "🔑 MEMORY: money vs esteem; Fraser (dual, parity of participation) vs Honneth (recognition foundational, three spheres); verdict = distinct-but-entangled; affirmative/transformative is the criterion for internal-restriction stems.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 624.024
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3692,
+      "markdown_body_line_end": 3694,
+      "heading": "EXAM APPLICATION 10 - Synthesis and Limits: The Anthropocentric Boundary, Debates, Criticisms and Traps",
+      "preview": "🔑 MEMORY: end humanism 20-markers on the ecological limit (state the residue); pick the §4 debate spine that matches the two names in the stem; name the REMAINING danger to turn a summary into a verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 385.624
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 340.956
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3714,
+      "markdown_body_line_end": 3717,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED EVIDENCE (H1-H13) / EXAMPLE -> OBJECTION / REPLY /",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 727.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 696.691
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3721,
+      "markdown_body_line_end": 3721,
+      "heading": "SOLVED PYQ BANK - EXACTLY 16 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 16 primary parts (2018:3, 2019:1, 2020:2, 2021:1, 2022:2, 2023:2, 2024:3, 2025:2). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 671.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 556.024
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3752,
+      "markdown_body_line_end": 3754,
+      "heading": "Solved PYQ 1 - 2018 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers \"do you subscribe?\" with a graded yes, pairs H6 (recognition) with H1/H7 (dignity as the internal-restriction limit), and closes on complementarity rather than praise.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 240.424
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 195.756
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3790,
+      "markdown_body_line_end": 3792,
+      "heading": "Solved PYQ 2 - 2018 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers all THREE sub-questions (definition, relation, effect on change), uses the four-point two-way relation, and lands the exact canonical phrase \"contested translation under unequal power\" with H8.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 550.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 491.224
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3825,
+      "markdown_body_line_end": 3827,
+      "heading": "Solved PYQ 3 - 2018 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the forms, MAKES a choice, defends it against the strongest objection (abstract universalism), and closes on the anthropocentric limit (H13) as a limit, exactly as the 20-mark humanism spine prescrib",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 139.224
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 80.356
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3863,
+      "markdown_body_line_end": 3865,
+      "heading": "Solved PYQ 4 - 2019 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it cleanly separates fact (descriptive) from justice (normative), supplies the ARGUMENT that bridges them, and adds the critical dimension plus the external/internal limit rather than a diversity catalogue.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 479.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 420.424
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3896,
+      "markdown_body_line_end": 3898,
+      "heading": "Solved PYQ 5 - 2020 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it treats \"complete separation\" as a model, not the definition, deploys H4 and H5, and closes on the means/end distinction with the principled-distance verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 96.824
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 52.156
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3932,
+      "markdown_body_line_end": 3934,
+      "heading": "Solved PYQ 6 - 2020 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it defines normatively, lists the STRUCTURAL features the stem asks for, ties each to recognition (H6/H7), and adds the internal-restriction caution instead of a bare list.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 443.091
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 398.424
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3967,
+      "markdown_body_line_end": 3969,
+      "heading": "Solved PYQ 7 - 2021 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it distinguishes ethical from meaning-conferring functions, uses the religious-objection ladder plus Gandhi/Vivekananda, and gives a graded (partial-substitute) verdict rather than a yes/no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3995,
+      "markdown_body_line_end": 3997,
+      "heading": "Solved PYQ 8 - 2022 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it gives three-plus of the five concrete paving steps and lands the \"decisive articulation, not sole source\" qualification, avoiding the chronological over-claim.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 471.424
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 426.756
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4032,
+      "markdown_body_line_end": 4034,
+      "heading": "Solved PYQ 9 - 2022 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- \"critically analyse\" is answered with two-sided critique (essentialism + internal restriction), each with a reply, plus the recognition/ redistribution upgrade (H9/H11) and the affirmative/transformative crit",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4068,
+      "markdown_body_line_end": 4070,
+      "heading": "Solved PYQ 10 - 2023 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it \"critically examines\" by pairing each India-referenced challenge with its canonical reply and adds the caste-hierarchy caution rather than listing problems.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 387.424
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 342.756
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4102,
+      "markdown_body_line_end": 4104,
+      "heading": "Solved PYQ 11 - 2023 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it endorses the statement via H4, then critically distinguishes equal respect from strict separation and blocks the \"acceptance = immunity\" misreading with H5.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 711.024
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4140,
+      "markdown_body_line_end": 4142,
+      "heading": "Solved PYQ 12 - 2024 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers BOTH parts (tenets + enlightenment) with the five paving steps, lands the \"decisive not sole source\" qualification, and closes on the anthropocentric limit (H13) at 20-mark depth.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 294.224
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 249.556
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4175,
+      "markdown_body_line_end": 4177,
+      "heading": "Solved PYQ 13 - 2024 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- \"present an exposition\" is honoured (five-step exposition first), then evaluated with the majoritarian objection and the Bhargava/Ambedkar supplements, not left as reverent summary.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 657.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 612.824
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4207,
+      "markdown_body_line_end": 4208,
+      "heading": "Solved PYQ 14 - 2024 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it walks the tolerance->coexistence->recognition ladder, shows tolerance is necessary-but-hierarchical, and gives recognition as the completing move.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 289.224
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 244.556
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4239,
+      "markdown_body_line_end": 4240,
+      "heading": "Solved PYQ 15 - 2025 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it separates plurality/pluralism/secularism, runs the three decoupling cases, and answers \"necessarily\" as a conceptual (not historical) question.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 657.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 612.824
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4274,
+      "markdown_body_line_end": 4276,
+      "heading": "Solved PYQ 16 - 2025 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it explains the mechanism (relation, not synthesis-slogan), uses the opposites table and H3, and evaluates with the structural (Ambedkar) objection and residual, matching the canonical Tagore spine.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 246.624
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 187.756
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4280,
+      "markdown_body_line_end": 4280,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 162.756
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 118.088
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4284,
+      "markdown_body_line_end": 4284,
+      "heading": "Original Mains 1",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 10 marks - answer in about 150 words - directive: Distinguish / Give reasons",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 96.088
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 51.42
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4298,
+      "markdown_body_line_end": 4298,
+      "heading": "Original Mains 1",
+      "preview": "MEMORY: process vs doctrine; declining belief is neither necessary nor sufficient for a secularist state (H4).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 572.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 542.024
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4302,
+      "markdown_body_line_end": 4302,
+      "heading": "Original Mains 2",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 15 marks - answer in about 250 words - directive: Critically examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 520.024
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 475.356
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4318,
+      "markdown_body_line_end": 4318,
+      "heading": "Original Mains 2",
+      "preview": "MEMORY: direction of the right (outward/inward); H7 test, H11 depth for hard cases, H8 dialogue for interpretation; criterion not mechanical rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 168.556
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 123.888
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4322,
+      "markdown_body_line_end": 4322,
+      "heading": "Original Mains 3",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 20 marks - answer in about 300 words - directive: Critically examine and identify conflict",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 101.888
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 57.22
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4338,
+      "markdown_body_line_end": 4338,
+      "heading": "Original Mains 3",
+      "preview": "MEMORY: dignity->terms->recognition; three conflict points (universal/particular, recognition/internal, recognition/redistribution); managed by H7/H11 + public reason, limited by H13.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 439.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 395.024
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4349,
+      "markdown_body_line_end": 4362,
+      "heading": "ADVANCED SESSION 1 - Humanism I: Dignity, Agency and the Human-Centred Argument",
+      "preview": "🔑 ANALYSIS: Humanism vs its four look-alikes. - vs ANTHROPOCENTRISM: humanism centres human WORTH and dignity; anthropocentrism   centres human INTEREST and may license mastery over nature. A humanist can (and,   under the ecological recons",
+      "metadata": {
+        "line_count": 14
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 303.624
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 145.356
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4364,
+      "markdown_body_line_end": 4371,
+      "heading": "ADVANCED SESSION 1 - Humanism I: Dignity, Agency and the Human-Centred Argument",
+      "preview": "🔑 ANALYSIS: The classical and modern anchors. Protagoras' \"man is the measure of all things\" is the ancient slogan of human-centred thought -- but the canonical file is explicit that humanism is NOT Protagorean relativism: \"human-centred\" d",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 145.356
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 43.888
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4373,
+      "markdown_body_line_end": 4377,
+      "heading": "ADVANCED SESSION 1 - Humanism I: Dignity, Agency and the Human-Centred Argument",
+      "preview": "🔑 CAUTION: Universal MORAL STATUS is the load-bearing idea. Humanism claims each person possesses worth \"not exhausted by inherited rank\" (canonical 1.2). That is what lets a humanist criticise caste, slavery or theocratic subordination fro",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 43.888
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        84,
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4379,
+      "markdown_body_line_end": 4383,
+      "heading": "ADVANCED SESSION 1 - Humanism I: Dignity, Agency and the Human-Centred Argument",
+      "preview": "ANALYSIS: Presupposition audit. The argument rests on (1) persons having capacities for reflection and self-correction, (2) human life having value beyond rank, and (3) common humanity grounding criticism across cultures -- the canonical ma",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 730.224
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 657.156
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4395,
+      "markdown_body_line_end": 4400,
+      "heading": "ADVANCED SESSION 2 - Humanism II: Genealogy and Forms (Renaissance, Enlightenment, Branches)",
+      "preview": "🔑 CAUTION: Do NOT say \"the Enlightenment invented humanism.\" The canonical qualification lists Stoic cosmopolitanism, religious traditions, Bhakti-Sufi egalitarian impulses and Indian reform traditions as human-centred resources that predat",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 584.756
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 497.488
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4402,
+      "markdown_body_line_end": 4408,
+      "heading": "ADVANCED SESSION 2 - Humanism II: Genealogy and Forms (Renaissance, Enlightenment, Branches)",
+      "preview": "ANALYSIS: How the Enlightenment \"paves the way\" (the five canonical steps, worth memorising as a sequence): authority shifts from inherited status toward reasoned justification (1); scientific inquiry challenges epistemic monopoly (2); cons",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 497.488
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 410.22
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4410,
+      "markdown_body_line_end": 4416,
+      "heading": "ADVANCED SESSION 2 - Humanism II: Genealogy and Forms (Renaissance, Enlightenment, Branches)",
+      "preview": "🔑 ANALYSIS: Each form carries its own built-in RISK, and naming the risk is the critical move. Secular/scientific -> scientism (treating natural science as the only knowledge). Enlightenment -> abstract universalism (a \"human\" that secretly",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 410.22
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 308.753
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4418,
+      "markdown_body_line_end": 4422,
+      "heading": "ADVANCED SESSION 2 - Humanism II: Genealogy and Forms (Renaissance, Enlightenment, Branches)",
+      "preview": "ANALYSIS: \"Marxist humanism\" is genuinely disputed -- some read Marx's early alienation writings as a humanism of creative species-being, others hold that mature Marx is anti-humanist (structures, not the abstract Man, explain history). Pre",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 308.753
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 235.685
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4433,
+      "markdown_body_line_end": 4439,
+      "heading": "ADVANCED SESSION 3 - Humanism III: Indian Humanism and Its Critics (Tagore, Gandhi, Vivekananda, Roy)",
+      "preview": "🔑 ANALYSIS: Roy vs Gandhi (canonical 4.1, the comparison the exam wants). GROUND: Roy = naturalistic reason and individual autonomy; Gandhi = spiritual unity, truth and non-violence. RELIGION: Roy rejects supernatural authority; Gandhi lets",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 163.285
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 61.817
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4441,
+      "markdown_body_line_end": 4445,
+      "heading": "ADVANCED SESSION 3 - Humanism III: Indian Humanism and Its Critics (Tagore, Gandhi, Vivekananda, Roy)",
+      "preview": "ANALYSIS: Tagore vs narrow nationalism (canonical 4.2). Tagore fears the mechanically organised nation subordinating living persons and civilisational exchange to collective power. His universalism is NOT rootlessness: one enters universali",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 61.817
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        85,
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4447,
+      "markdown_body_line_end": 4452,
+      "heading": "ADVANCED SESSION 3 - Humanism III: Indian Humanism and Its Critics (Tagore, Gandhi, Vivekananda, Roy)",
+      "preview": "🔑 CAUTION: The strongest objection to ALL of them is structural. Tagore's spiritual unity, Gandhi's moral regeneration and Roy's moral education may each be too attentive to conscience and too little to caste, class and institutional power.",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 730.224
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 642.956
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4454,
+      "markdown_body_line_end": 4466,
+      "heading": "ADVANCED SESSION 3 - Humanism III: Indian Humanism and Its Critics (Tagore, Gandhi, Vivekananda, Roy)",
+      "preview": "ANALYSIS: The general objection-reply ladder (canonical 1.8), which carries directly into any \"present-day humanism\" answer: - Anthropocentrism -> reply: ecological humanism reinterprets flourishing as   interdependent (developed fully in S",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 642.956
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 498.888
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4477,
+      "markdown_body_line_end": 4483,
+      "heading": "ADVANCED SESSION 4 - Secularism I: Secular, Secularisation, Secularism and the Core Argument",
+      "preview": "🔑 ANALYSIS: Freedom OF religion and freedom FROM religion are BOTH inside the doctrine. Freedom of religion protects the believer's conscience and practice; freedom from religion protects the dissenter and non-believer from compulsory relig",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 426.488
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 325.02
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4485,
+      "markdown_body_line_end": 4491,
+      "heading": "ADVANCED SESSION 4 - Secularism I: Secular, Secularisation, Secularism and the Core Argument",
+      "preview": "🔑 ANALYSIS: The argument is symmetrical, and this symmetry is its power. Premise 3 guards against RELIGIOUS domination of the state (if political status depends on one faith, dissenters become unequal citizens). Premise 4 guards against com",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 325.02
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 223.553
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4493,
+      "markdown_body_line_end": 4499,
+      "heading": "ADVANCED SESSION 4 - Secularism I: Secular, Secularisation, Secularism and the Core Argument",
+      "preview": "🔑 CAUTION: Secularism is NOT anti-religion. The canonical criticisms table is explicit: the objection \"secularism is anti-religious\" is answered by \"it protects conscience, INCLUDING religious conscience.\" The residual danger the file conce",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 223.553
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 136.285
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4501,
+      "markdown_body_line_end": 4505,
+      "heading": "ADVANCED SESSION 4 - Secularism I: Secular, Secularisation, Secularism and the Core Argument",
+      "preview": "ANALYSIS: Provenance discipline. The doctrine statement, the term-distinction table and the five-step argument are canonical; no constitutional article, judgment or date is needed at this definitional stage. Save the Articles 25-28 / 1976 /",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 136.285
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 63.217
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4516,
+      "markdown_body_line_end": 4522,
+      "heading": "ADVANCED SESSION 5 - Secularism II: Western Models and the Secularism-Pluralism Relation",
+      "preview": "🔑 ANALYSIS: The models are not ranked good-to-bad; each is a different answer to \"what does non-establishment REQUIRE in practice?\" Strict separation treats distance as UNIFORM; principled distance treats it as JUSTIFIED and context-sensiti",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4524,
+      "markdown_body_line_end": 4532,
+      "heading": "ADVANCED SESSION 5 - Secularism II: Western Models and the Secularism-Pluralism Relation",
+      "preview": "🔑 ANALYSIS: Plurality vs pluralism vs secularism (canonical 2.6 -- the 2025 owner's hinge). PLURALITY = the mere presence of several religions (a fact). PLURALISM = additionally affirming their right to coexist (a value). SECULARISM = how c",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 650.424
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 534.756
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4534,
+      "markdown_body_line_end": 4539,
+      "heading": "ADVANCED SESSION 5 - Secularism II: Western Models and the Secularism-Pluralism Relation",
+      "preview": "🔑 CAUTION: Do not answer \"is secularism necessarily related to religious pluralism?\" with examples of peaceful coexistence -- that confuses a conceptual-entailment question with a historical one (directive decoder). The relation is CONTINGE",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 534.756
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 447.488
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4541,
+      "markdown_body_line_end": 4547,
+      "heading": "ADVANCED SESSION 5 - Secularism II: Western Models and the Secularism-Pluralism Relation",
+      "preview": "ANALYSIS: The objection set (canonical 2.7) that these models must survive: \"Western import\" (reply: the term is modern-Western but the problems -- coercion, conscience, coexistence, equality -- arise in India too); \"equal respect prevents ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 447.488
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 346.02
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4559,
+      "markdown_body_line_end": 4567,
+      "heading": "ADVANCED SESSION 6 - Secularism III: Indian Secularism, Principled Distance and Its Critics",
+      "preview": "🔑 CAUTION: Constitutional facts ILLUSTRATE, they do not PROVE. The canonical is emphatic. Articles 25-28 protect religious freedom subject to constitutional limits; Articles 29-30 protect cultural and educational interests; the Constitution",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 287.62
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 171.953
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4569,
+      "markdown_body_line_end": 4578,
+      "heading": "ADVANCED SESSION 6 - Secularism III: Indian Secularism, Principled Distance and Its Critics",
+      "preview": "🔑 ANALYSIS: Gandhi's secularism (canonical 2.5) does NOT expel religion from public life. Religion as ethical truth and self-purification (not sectarian command) should discipline politics, and all faiths deserve equal moral regard. His fiv",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 171.953
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 42.085
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4580,
+      "markdown_body_line_end": 4588,
+      "heading": "ADVANCED SESSION 6 - Secularism III: Indian Secularism, Principled Distance and Its Critics",
+      "preview": "🔑 ANALYSIS: Gandhi vs Ambedkar on secular democracy (canonical 4.5) -- know the axis, but ROUTE it. Gandhi grounds democratic fellowship in ethical religion, equal regard and transformed hearts; Ambedkar grounds it in constitutional moralit",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 42.085
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 687.624
+        }
+      },
+      "pdf_pages": [
+        87,
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4590,
+      "markdown_body_line_end": 4595,
+      "heading": "ADVANCED SESSION 6 - Secularism III: Indian Secularism, Principled Distance and Its Critics",
+      "preview": "ANALYSIS: The objection-reply set (canonical 2.7) is the evaluation engine for every Indian-secularism stem: \"Western import\" (problems arise in India too; Indian secularism is a distinct response); \"equal respect prevents reform\" (principl",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 687.624
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 614.556
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4606,
+      "markdown_body_line_end": 4614,
+      "heading": "ADVANCED SESSION 7 - Multiculturalism I: Recognition, Group-Differentiated Rights and Dialogue",
+      "preview": "🔑 ANALYSIS: Taylor's argument for recognition (canonical 3.3, evidence H6). Identity is DIALOGICALLY formed -- persons develop self-understanding through social languages and recognition -- so persistent MISRECOGNITION inflicts real harm, n",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 542.156
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 426.488
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4616,
+      "markdown_body_line_end": 4624,
+      "heading": "ADVANCED SESSION 7 - Multiculturalism I: Recognition, Group-Differentiated Rights and Dialogue",
+      "preview": "🔑 ANALYSIS: Kymlicka's liberal defence (canonical 3.4, evidence H7). Individual autonomy depends on access to a SOCIETAL CULTURE that supplies meaningful options, so LIBERAL equality itself can support minority rights -- multiculturalism ne",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 426.488
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 310.82
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4626,
+      "markdown_body_line_end": 4630,
+      "heading": "ADVANCED SESSION 7 - Multiculturalism I: Recognition, Group-Differentiated Rights and Dialogue",
+      "preview": "🔑 ANALYSIS: Parekh's dialogical via media (canonical 3.5, evidence H8). He rejects BOTH cultural monism (one right way of life) AND uncritical relativism (no cross- cultural criticism). Cultures are internally plural and LEARN through dialo",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 310.82
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 237.753
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4632,
+      "markdown_body_line_end": 4638,
+      "heading": "ADVANCED SESSION 7 - Multiculturalism I: Recognition, Group-Differentiated Rights and Dialogue",
+      "preview": "🔑 CAUTION: The descriptive/normative distinction (canonical 3.2) is directly tested by the 2019, 2020 and 2022 stems. DESCRIPTIVE multiculturalism = the empirical fact of diversity; NORMATIVE multiculturalism = the justified response of rec",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 237.753
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 136.285
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4650,
+      "markdown_body_line_end": 4657,
+      "heading": "ADVANCED SESSION 8 - Multiculturalism II: India, Globalisation, Feminism and the Objections",
+      "preview": "🔑 ANALYSIS: Okin and the multicultural reply (canonical 3.8). Okin's challenge: group rights may protect PATRIARCHAL practices inside minorities; the intersectional question is \"who speaks for the culture, and who bears the cost of preservi",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4659,
+      "markdown_body_line_end": 4666,
+      "heading": "ADVANCED SESSION 8 - Multiculturalism II: India, Globalisation, Feminism and the Objections",
+      "preview": "🔑 ANALYSIS: The tolerance -> coexistence -> recognition ladder (canonical 3.9, the 2024 Q4c hinge). TOLERANCE restrains coercion against what one disapproves -- necessary, but can be HIERARCHICAL (the powerful \"permit\" the weak). COEXISTENC",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 650.424
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 548.956
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4668,
+      "markdown_body_line_end": 4675,
+      "heading": "ADVANCED SESSION 8 - Multiculturalism II: India, Globalisation, Feminism and the Objections",
+      "preview": "🔑 ANALYSIS: The four objections and replies (canonical 3.10) -- the evaluation engine. RELATIVISM (criticism becomes impossible) -> reply: dignity, bodily integrity, voice and non-domination are cross-cultural standards, dialogically interp",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 548.956
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 447.488
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4677,
+      "markdown_body_line_end": 4684,
+      "heading": "ADVANCED SESSION 8 - Multiculturalism II: India, Globalisation, Feminism and the Objections",
+      "preview": "🔑 CAUTION (India). Institutional illustrations, never proof: linguistic federalism and multiple official-language arrangements; Articles 29-30 (cultural and educational interests); personal-law pluralism (illustrates accommodation AND creat",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 447.488
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 346.02
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4686,
+      "markdown_body_line_end": 4691,
+      "heading": "ADVANCED SESSION 8 - Multiculturalism II: India, Globalisation, Feminism and the Objections",
+      "preview": "ANALYSIS: Globalisation (canonical 3.7) is a TWO-WAY relation: global flows pluralise societies and generate hybrid identities (1); perceived cultural loss intensifies demands for recognition (2); transnational norms can empower minorities ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 346.02
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 258.753
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4702,
+      "markdown_body_line_end": 4711,
+      "heading": "ADVANCED SESSION 9 - Recognition and Redistribution: Fraser, Honneth and the Two Grammars of Justice",
+      "preview": "🔑 ANALYSIS: Fraser (evidence H9, H11). Neither grammar reduces to the other, so she proposes PERSPECTIVAL DUALISM: distribution and recognition are two analytically distinct dimensions of ONE conception of justice, and every claim is assess",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 186.353
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 56.485
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4713,
+      "markdown_body_line_end": 4719,
+      "heading": "ADVANCED SESSION 9 - Recognition and Redistribution: Fraser, Honneth and the Two Grammars of Justice",
+      "preview": "🔑 ANALYSIS: Honneth (evidence H10) takes the rival view: recognition is the FUNDAMENTAL moral grammar; distributive struggles are themselves struggles over what a society esteems. Three spheres, each with its self-relation and its injury: L",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 56.485
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        89,
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4721,
+      "markdown_body_line_end": 4731,
+      "heading": "ADVANCED SESSION 9 - Recognition and Redistribution: Fraser, Honneth and the Two Grammars of Justice",
+      "preview": "🔑 ANALYSIS: The dispute and how to adjudicate (canonical 3A.4). Fraser keeps economic structure visible and non-reducible but has a THINNER account of why contempt wounds; Honneth explains the moral MOTIVATION of struggle but risks PSYCHOLO",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 716.024
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 571.956
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4733,
+      "markdown_body_line_end": 4742,
+      "heading": "ADVANCED SESSION 9 - Recognition and Redistribution: Fraser, Honneth and the Two Grammars of Justice",
+      "preview": "🔑 CAUTION (Ambedkar + India, route don't re-expound). Ambedkar is the indispensable Indian anchor: caste is GRADED STATUS, a mechanism distinct from though entangled with economic deprivation, and annihilation of caste requires attacking it",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 571.956
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 442.088
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4754,
+      "markdown_body_line_end": 4767,
+      "heading": "ADVANCED SESSION 10 - Synthesis and Limits: The Anthropocentric Boundary, Debates, Criticisms and Traps",
+      "preview": "🔑 ANALYSIS: The anthropocentric limit (canonical 3A.6, evidence H13). Every doctrine here takes the HUMAN as the unit of concern -- a genuine boundary, and stating it makes a good answer self-aware. The objection, precisely: humanism does n",
+      "metadata": {
+        "line_count": 14
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 369.688
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 197.22
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4769,
+      "markdown_body_line_end": 4777,
+      "heading": "ADVANCED SESSION 10 - Synthesis and Limits: The Anthropocentric Boundary, Debates, Criticisms and Traps",
+      "preview": "🔑 ANALYSIS: The five inter-school debates (canonical 4), each a ready-made 15/20-mark spine. (4.1) Roy vs Gandhi -- naturalistic reason vs spiritual unity; shared core: no collective idol may extinguish the person. (4.2) Tagore vs narrow na",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 197.22
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 81.553
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4779,
+      "markdown_body_line_end": 4786,
+      "heading": "ADVANCED SESSION 10 - Synthesis and Limits: The Anthropocentric Boundary, Debates, Criticisms and Traps",
+      "preview": "🔑 ANALYSIS: The criticisms-and-replies table (canonical 5) is the compressed evaluation bank -- each row is criticism + best reply + REMAINING danger, and naming the remaining danger is what separates a graded verdict from cheerleading: hum",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 81.553
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 701.824
+        }
+      },
+      "pdf_pages": [
+        90,
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4788,
+      "markdown_body_line_end": 4794,
+      "heading": "ADVANCED SESSION 10 - Synthesis and Limits: The Anthropocentric Boundary, Debates, Criticisms and Traps",
+      "preview": "🔑 CAUTION: The ten canonical traps (canonical 6) are the fastest error-audit: humanism =/= atheism; Enlightenment is not the sole source; do not reduce Tagore to East-West synthesis; secularism =/= secularisation or irreligion; \"Western sec",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 701.824
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 614.556
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4800,
+      "markdown_body_line_end": 4800,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** The second-order Fraser-against-Honneth combination problem, the multiculturalism-against-interculturalism refinement, the posthuman challenge to humanism and the extra secularism models beyond the min",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 589.556
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 502.288
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4805,
+      "markdown_body_line_end": 4810,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 425.288
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 181.487
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4822,
+      "markdown_body_line_end": 4827,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "One-glance revision of the whole file. Every entry is compressed for recall, not for first learning; read it after the ten layered subtopics, never instead of them. Canonical scope is humanism (with its genealogy, forms and Indian statement",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 560.424
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4831,
+      "markdown_body_line_end": 4838,
+      "heading": "A. The clause in one line (open almost every answer here)",
+      "preview": "HUMANISM        universal DIGNITY (the moral floor; unit of concern = the person)",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 535.424
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 464.424
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4984,
+      "markdown_body_line_end": 5016,
+      "heading": "ASCII MASTER FLOW - PANEL 1/10: The central question of the clause and what humanism places at the centre",
+      "preview": "CENTRAL QUESTION -> how can the equal worth of every human being survive in a",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 452.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 125.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5020,
+      "markdown_body_line_end": 5050,
+      "heading": "ASCII MASTER FLOW - PANEL 2/10: Genealogy of humanism: Renaissance cultivation, Enlightenment shifts and the branches",
+      "preview": "RENAISSANCE HUMANISM -> classical learning, rhetoric, history, cultivated",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 467.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5054,
+      "markdown_body_line_end": 5086,
+      "heading": "ASCII MASTER FLOW - PANEL 3/10: Indian humanism: Tagore, Gandhi, Vivekananda and M. N. Roy on one dignity",
+      "preview": "ONE DIGNITY, FOUR GROUNDS -> compare down the same axes, never in sequence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 432.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 105.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5090,
+      "markdown_body_line_end": 5122,
+      "heading": "ASCII MASTER FLOW - PANEL 4/10: Secular, secularisation, secularism: the classification and the core argument",
+      "preview": "ROOT DISTINCTION -> which of these is a claim about the STATE?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 447.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5126,
+      "markdown_body_line_end": 5157,
+      "heading": "ASCII MASTER FLOW - PANEL 5/10: The Western model spectrum and the plurality-pluralism-secularism boundary",
+      "preview": "THERE IS NO SINGLE WESTERN MODEL -> name device, strength AND risk",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 412.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 95.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5161,
+      "markdown_body_line_end": 5193,
+      "heading": "ASCII MASTER FLOW - PANEL 6/10: Indian secularism: principled distance and Gandhi's non-sectarian public religion",
+      "preview": "INDIAN CLUSTER -> freedom of conscience | equal citizenship | non-theocracy |",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 447.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5197,
+      "markdown_body_line_end": 5227,
+      "heading": "ASCII MASTER FLOW - PANEL 7/10: Recognition, group-differentiated rights and intercultural dialogue",
+      "preview": "MULTICULTURALISM = descriptive FACT of diversity + NORMATIVE claim that a just",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 425.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 118.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5231,
+      "markdown_body_line_end": 5262,
+      "heading": "ASCII MASTER FLOW - PANEL 8/10: Multiculturalism under pressure: India, globalisation and the feminist challenge",
+      "preview": "STRUCTURAL CHARACTERISTICS OF A MULTICULTURAL NATION (not a diversity list)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 457.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5266,
+      "markdown_body_line_end": 5298,
+      "heading": "ASCII MASTER FLOW - PANEL 9/10: Recognition and redistribution: two grammars and one standard of justice",
+      "preview": "IS RECOGNITION AN INDEPENDENT DIMENSION OF JUSTICE, OR A DERIVATIVE OF",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 95.091
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5302,
+      "markdown_body_line_end": 5334,
+      "heading": "ASCII MASTER FLOW - PANEL 10/10: Integrated answer spine: the synthesis triangle, the limits and the traps",
+      "preview": "SYNTHESIS TRIANGLE -> each doctrine repairs a failure of the others",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 447.091
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    }
+  ]
+}
