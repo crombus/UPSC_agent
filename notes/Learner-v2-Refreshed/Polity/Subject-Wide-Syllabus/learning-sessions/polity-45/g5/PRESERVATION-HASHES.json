@@ -1,0 +1,20 @@
+{
+  "topic_key": "polity-45",
+  "source_record": "polity-45:learner-v2:g4",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md": "eeeefa03bbaf1f8239d9bba38ab87906c427c4ef5b5624ff3d526ed26c1bc2fd",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\45_National-Integration-and-Foreign-Policy.md": "9915181aa329229c8f0ae1e907a87cd7d7dcd3a91fd9472ee31620b49bb6bfdc",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Integration-and-Foreign-Policy.md": "eeeefa03bbaf1f8239d9bba38ab87906c427c4ef5b5624ff3d526ed26c1bc2fd",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-45-2026-08-25-sequential.json": "4283d272d65a27856b03d3977df3e551f4b6363f00f0170433d3bdc316bf3459",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-45.json": "4264878239df3720cc134e65bf5a234a2065403c7bb000217cd13af140f448f2"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md": "eeeefa03bbaf1f8239d9bba38ab87906c427c4ef5b5624ff3d526ed26c1bc2fd",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\45_National-Integration-and-Foreign-Policy.md": "9915181aa329229c8f0ae1e907a87cd7d7dcd3a91fd9472ee31620b49bb6bfdc",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Integration-and-Foreign-Policy.md": "eeeefa03bbaf1f8239d9bba38ab87906c427c4ef5b5624ff3d526ed26c1bc2fd",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-45-2026-08-25-sequential.json": "4283d272d65a27856b03d3977df3e551f4b6363f00f0170433d3bdc316bf3459",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-45.json": "4264878239df3720cc134e65bf5a234a2065403c7bb000217cd13af140f448f2"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

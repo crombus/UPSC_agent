@@ -1,0 +1,112 @@
+{
+  "record_id": "polity-43:learner-v2:g4",
+  "topic_key": "polity-43",
+  "variant": "learner-v2",
+  "generation": 4,
+  "supersedes": "polity-43:learner-v2:g3",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Political Parties — deep-reviewed immutable g4",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g4\\polity-43_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g4\\polity-43_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g4\\polity-43_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g4\\polity-43_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g4\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://www.indiacode.nic.in/handle/123456789/2096",
+      "https://www.eci.gov.in/election-symbol",
+      "https://www.eci.gov.in/candidate-political-parties",
+      "https://api.sci.gov.in/supremecourt/2017/33395/33395_2017_1_1501_50505_Judgement_15-Feb-2024.pdf",
+      "https://upsc.gov.in/examinations/previous-question-papers"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g4\\polity-43_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-43:learner-v2:g3",
+    "source_hashes": {
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g4-source\\polity-43_g4-reviewed-source.md": "61d8d9afb632d30e41716197077fd73f925dbe07114aa50bafcf5259bd57ff1e",
+      "tools\\deep_content_quality_overrides.json": "9baccbd8fbb01df912d57b98e8ca865a9e2662d1236d84d968d122f4151c16d3",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md": "92b1e1e51b469226c72d47d838797076f9442f1d001446b78257bbac08253f52",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md": "3cf1860a53c05a05ecec046e6baf0738ebab2096aae6608bc3c743fe11b65851",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json": "7945f790100a2bd0cee669ddbd8690b9d38e26b3e2a2cf26a71c27c0e266c92f",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-43.json": "559fc5d4f47e762e8d5247abcd3ffe5cce08b2e021efe1ef91fda0faa83d3dbf"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "Exact 2022 GS-II Q13 and cross-owned 2023 GS-II Q5; 36 original MCQs; 12 remedials; 8 original solved Mains; 10 answer-specific guidance pairs.",
+    "current_linkage_note": "RPA 1951, Symbols Order framework, electoral-bonds judgment, deregistration and criminalisation doctrine checked to 28 August 2026; volatile recognition lists omitted.",
+    "pyq_status_note": "Exact direct 2022 GS-II Q13 (15 marks/250 words) and supporting 2023 GS-II Q5 (10 marks/150 words) solved.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 5,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "7123b50abe3bba6770123ddcb7d58ebd69d7fc8a9920d449f4f94a725adc9f08"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-43:learner-v2:g4"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g4\\polity-43_Graphical-Spec-g4.json",
+    "graphical_spec_sha256": "20be0c75107706970dcf531e469f95abbd9c0ee9e498c8ca98a001e95a5ee1ac",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g4\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json",
+    "ascii_master_spec_sha256": "7945f790100a2bd0cee669ddbd8690b9d38e26b3e2a2cf26a71c27c0e266c92f"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

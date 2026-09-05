@@ -1,0 +1,1803 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Nanotechnology and Applications - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 40,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 395.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 68,
+      "markdown_body_line_end": 68,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 482.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 174.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 82,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Nanoscale definition nano-objects and surface-area effects as a sequence: identify Nanoscale and object boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stag",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 104,
+      "heading": "VISUAL FIRST",
+      "preview": "NANOSCALE DEFINITION NANO-OBJECTS AND SURFACE-AREA EFFECTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 303.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 158,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NANOSCALE DEFINITION NANO-OBJECTS AND SURFACE-AREA EFFECTS",
+      "preview": "START / CONCEPT: FOUNDATION — Nanoscale definition nano-objects and surface-area effects",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 347
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 489.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 228.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 169,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "At sufficiently small dimensions quantum confinement can change allowed electronic states, band gap, optical emission, conductivity or magnetic response; the effect depends on material and size, so every nanoscale material does not acquire ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 184,
+      "markdown_body_line_end": 188,
+      "heading": "VISUAL FIRST",
+      "preview": "QUANTUM CONFINEMENT AND SIZE-DEPENDENT PROPERTIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 482.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 224,
+      "markdown_body_line_end": 241,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - QUANTUM CONFINEMENT AND SIZE-DEPENDENT PROPERTIES",
+      "preview": "START / CONCEPT: FOUNDATION — Quantum confinement and size-dependent properties",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 252,
+      "markdown_body_line_end": 252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Top-down methods pattern or remove material from a bulk starting point through routes such as lithography, etching and milling; they can offer positional control but may introduce waste, defects or minimum-feature constraints, and a named m",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 284.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 271,
+      "heading": "VISUAL FIRST",
+      "preview": "TOP-DOWN LITHOGRAPHY ETCHING AND MILLING ROUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 324,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TOP-DOWN LITHOGRAPHY ETCHING AND MILLING ROUTES",
+      "preview": "START / CONCEPT: FOUNDATION — Top-down lithography etching and milling routes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 318
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 78.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 335,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bottom-up methods assemble structures from atoms, molecules or precursors through routes such as self-assembly, sol-gel processing and chemical vapour deposition; they can exploit chemical control and parallel formation but still face nucle",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 354,
+      "heading": "VISUAL FIRST",
+      "preview": "BOTTOM-UP SELF-ASSEMBLY SOL-GEL AND DEPOSITION ROUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 407,
+      "heading": "CLOSING RECALL FLOW - CORE - BOTTOM-UP SELF-ASSEMBLY SOL-GEL AND DEPOSITION ROUTES",
+      "preview": "START / CONCEPT: CORE — Bottom-up self-assembly sol-gel and deposition routes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 338
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 418,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nanoparticles are three-dimensionally nanoscale objects, carbon nanotubes are cylindrical carbon nanostructures, and graphene is a single-atom-thick hexagonal carbon sheet; related carbon chemistry does not make a particle, tube and sheet g",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 254.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 173.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 437,
+      "heading": "VISUAL FIRST",
+      "preview": "NANOPARTICLES NANOTUBES GRAPHENE AND GEOMETRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 473,
+      "markdown_body_line_end": 490,
+      "heading": "CLOSING RECALL FLOW - CORE - NANOPARTICLES NANOTUBES GRAPHENE AND GEOMETRY",
+      "preview": "START / CONCEPT: CORE — Nanoparticles nanotubes graphene and geometry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 314
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 501,
+      "markdown_body_line_end": 501,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Quantum dots nanocomposites and microscopy characterization as a sequence: identify Quantum-dot and nanocomposite distinction, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 368.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 287.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 523,
+      "heading": "VISUAL FIRST",
+      "preview": "QUANTUM DOTS NANOCOMPOSITES AND MICROSCOPY CHARACTERIZATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 577,
+      "heading": "CLOSING RECALL FLOW - CORE - QUANTUM DOTS NANOCOMPOSITES AND MICROSCOPY CHARACTERIZATION",
+      "preview": "START / CONCEPT: CORE — Quantum dots nanocomposites and microscopy characterization",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 316
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 588,
+      "markdown_body_line_end": 588,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Dispersion surface chemistry and measurement boundaries as a sequence: identify Dispersion and surface characterization, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the ne",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 250.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 607,
+      "heading": "VISUAL FIRST",
+      "preview": "DISPERSION SURFACE CHEMISTRY AND MEASUREMENT BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 660,
+      "heading": "CLOSING RECALL FLOW - CORE - DISPERSION SURFACE CHEMISTRY AND MEASUREMENT BOUNDARIES",
+      "preview": "START / CONCEPT: CORE — Dispersion surface chemistry and measurement boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 671,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Nanomedicine carriers targeting and delivery evidence as a sequence: identify Nanomedicine delivery boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 690,
+      "heading": "VISUAL FIRST",
+      "preview": "NANOMEDICINE CARRIERS TARGETING AND DELIVERY EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 743,
+      "heading": "CLOSING RECALL FLOW - CORE - NANOMEDICINE CARRIERS TARGETING AND DELIVERY EVIDENCE",
+      "preview": "START / CONCEPT: CORE — Nanomedicine carriers targeting and delivery evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 333
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 305.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 54.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 754,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Agricultural nano-inputs sensors and controlled release as a sequence: identify Agricultural application map, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 773,
+      "heading": "VISUAL FIRST",
+      "preview": "AGRICULTURAL NANO-INPUTS SENSORS AND CONTROLLED RELEASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 809,
+      "markdown_body_line_end": 826,
+      "heading": "CLOSING RECALL FLOW - CORE - AGRICULTURAL NANO-INPUTS SENSORS AND CONTROLLED RELEASE",
+      "preview": "START / CONCEPT: CORE — Agricultural nano-inputs sensors and controlled release",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 837,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Farmer socio-economic pathways and product-status boundaries as a sequence: identify Farmer-uplift and product-status boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 236.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 156.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 852,
+      "markdown_body_line_end": 856,
+      "heading": "VISUAL FIRST",
+      "preview": "FARMER SOCIO-ECONOMIC PATHWAYS AND PRODUCT-STATUS BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 675.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 909,
+      "heading": "CLOSING RECALL FLOW - CORE - FARMER SOCIO-ECONOMIC PATHWAYS AND PRODUCT-STATUS BOUNDARIES",
+      "preview": "START / CONCEPT: CORE — Farmer socio-economic pathways and product-status boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 448
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 920,
+      "markdown_body_line_end": 920,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Water environment electronics energy and advanced materials as a sequence: identify Water and environmental application, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the ne",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 250.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 935,
+      "markdown_body_line_end": 942,
+      "heading": "VISUAL FIRST",
+      "preview": "WATER ENVIRONMENT ELECTRONICS ENERGY AND ADVANCED MATERIALS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 996,
+      "heading": "CLOSING RECALL FLOW - CORE - WATER ENVIRONMENT ELECTRONICS ENERGY AND ADVANCED MATERIALS",
+      "preview": "START / CONCEPT: CORE — Water environment electronics energy and advanced materials",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 367
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1007,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "DST's National Programme on Nano Science and Technology, earlier Nano Mission, supplies a public R&D architecture; INST Mohali is a DST autonomous institution established under that umbrella, while CSIR laboratories and MeitY-linked nanoele",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 264.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1026,
+      "heading": "VISUAL FIRST",
+      "preview": "DST NPNST INST CSIR AND NANOELECTRONICS ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1079,
+      "heading": "CLOSING RECALL FLOW - CORE - DST NPNST INST CSIR AND NANOELECTRONICS ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — DST NPNST INST CSIR and nanoelectronics architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 329
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1090,
+      "markdown_body_line_end": 1090,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Nanotoxicology dose material and exposure pathways as a sequence: identify Nanotoxicology boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 301.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1109,
+      "heading": "VISUAL FIRST",
+      "preview": "NANOTOXICOLOGY DOSE MATERIAL AND EXPOSURE PATHWAYS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1145,
+      "markdown_body_line_end": 1162,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - NANOTOXICOLOGY DOSE MATERIAL AND EXPOSURE PATHWAYS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Nanotoxicology dose material and exposure pathways",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 296.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 65.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1173,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Ecotoxicology and lifecycle boundary - Regulation standards and metrology boundary Qualified use: Follow the particle lifecycle and separate sectoral regulation, standards, metrology and approval.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1195,
+      "heading": "VISUAL FIRST",
+      "preview": "ECOTOXICOLOGY LIFECYCLE REGULATION STANDARDS AND METROLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 317.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1249,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ECOTOXICOLOGY LIFECYCLE REGULATION STANDARDS AND METROLOGY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Ecotoxicology lifecycle regulation standards and metrology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 405
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 489.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 218.691
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1260,
+      "markdown_body_line_end": 1260,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Evidence ladder cross-topic routes and PYQ synthesis as a sequence: identify Evidence and status ladder, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1275,
+      "markdown_body_line_end": 1282,
+      "heading": "VISUAL FIRST",
+      "preview": "EVIDENCE LADDER CROSS-TOPIC ROUTES AND PYQ SYNTHESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 462.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1322,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Nanoscale science, nanomaterials and Indian applications. **Grounded in:** DST National Programme on Nano Science and Techno",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 685.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 505.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1326,
+      "markdown_body_line_end": 1331,
+      "heading": "1. Visual foundation",
+      "preview": "Scale / idea | Why it matters | Typical result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Scale / idea",
+          "Why it matters",
+          "Typical result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 483.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 328.822
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1337,
+      "markdown_body_line_end": 1350,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 261.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1416,
+      "markdown_body_line_end": 1416,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** Nanotechnology matters for UPSC because at the 1-100 nm scale, materials can show new behaviour that creates opportunities across medicine, agriculture, water, energy and electronics, while also raising live questions of ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 320.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 262.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1448,
+      "markdown_body_line_end": 1465,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - EVIDENCE LADDER CROSS-TOPIC ROUTES AND PYQ SYNTHESIS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Evidence ladder cross-topic routes and PYQ synthesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 419.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 178.091
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2606,
+      "markdown_body_line_end": 2610,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Translational nanotechnology, strategic materials and safety debates. **Grounded in:** DST National Programme on Nano Science and Techno",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 594.091
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 435.824
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2614,
+      "markdown_body_line_end": 2631,
+      "heading": "1. Architecture",
+      "preview": "size control at 1-100 nm",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 413.824
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 242.824
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2637,
+      "markdown_body_line_end": 2647,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 403.89
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2709,
+      "markdown_body_line_end": 2713,
+      "heading": "9. CURRENT: Current anchor -> analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 609.49
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2725,
+      "markdown_body_line_end": 2725,
+      "heading": "11. Mains framework / angles",
+      "preview": "**Answer thesis:** Nanotechnology’s significance for India lies not only in the scientific novelty of 1-100 nm materials but in the state’s ability to convert nanoscale property advantages into safe, affordable and strategically useful appl",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 458.89
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 400.022
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2787,
+      "markdown_body_line_end": 2797,
+      "heading": "Nanotechnology and Applications: AGRICULTURE, HEALTH, WATER AND ADVANCED-MATERIAL ANSWER SPINE",
+      "preview": "DEFINE 1-100 NM AND CLASSIFY PARTICLE TUBE SHEET DOT AND COMPOSITE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 747.091
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 636.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2807,
+      "markdown_body_line_end": 2813,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Nanoscale taxonomy and property gateway",
+      "preview": "1-100 nm -> functional size-dependent behaviour",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 488.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2817,
+      "markdown_body_line_end": 2822,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Surface-area and quantum twin engine",
+      "preview": "SMALLER SIZE -> larger relative surface -> adsorption / catalysis / reactivity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 404.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 352.491
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2826,
+      "markdown_body_line_end": 2832,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Fabrication route comparison",
+      "preview": "TOP-DOWN -> bulk -> lithography / etching / milling -> patterned structure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 330.491
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 268.491
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2836,
+      "markdown_body_line_end": 2842,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Nanomaterial geometry atlas",
+      "preview": "PARTICLE -> three nanoscale external dimensions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2846,
+      "markdown_body_line_end": 2852,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Characterization decision tree",
+      "preview": "SURFACE MORPHOLOGY? -> SEM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2856,
+      "markdown_body_line_end": 2862,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Nanomedicine barrier rail",
+      "preview": "CARGO -> encapsulation / protection",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2866,
+      "markdown_body_line_end": 2872,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Agriculture value chain",
+      "preview": "NANO-INPUT / SENSOR / SEED COATING -> farm decision or delivery",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2876,
+      "markdown_body_line_end": 2882,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Water and environment treatment loop",
+      "preview": "CONTAMINANT -> detection / adsorption / membrane / photocatalysis",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2886,
+      "markdown_body_line_end": 2892,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Electronics energy materials matrix",
+      "preview": "GRAPHENE / CNT -> conductive and structural research",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2896,
+      "markdown_body_line_end": 2903,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Indian nano institution map",
+      "preview": "DST NPNST / EARLIER NANO MISSION -> public R&D architecture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2907,
+      "markdown_body_line_end": 2914,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Toxicity and ecotoxicity exposure web",
+      "preview": "MATERIAL -> size + shape + coating + solubility + aggregation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2918,
+      "markdown_body_line_end": 2925,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Regulatory and evidence status ladder",
+      "preview": "SYNTHESIS -> CHARACTERIZATION -> LAB FUNCTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    }
+  ]
+}

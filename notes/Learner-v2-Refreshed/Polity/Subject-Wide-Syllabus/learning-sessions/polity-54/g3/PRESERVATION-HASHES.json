@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-54",
+  "source_record": "polity-54:learner-v2:g2",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md": "e3015544d7f41556c7496675c8fc00b8ea538b1c8dbb07019340f0a0bdf43f0e",
+    "tools\\deep_content_quality_overrides.json": "5f63e03700ca2e44c9c76574ec95fcbf5ad04361a4a193ecf8004834a7c50f88",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\54_Lok-Adalats-and-Other-Courts.md": "093d5577f7491acff456ce35b791f1294697447a5dc832e42a595778fb5e2511",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md": "a166d23530a6e57ec7ce1369b25540d0369826608d89e163bfe84147c65c1152",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-54-2026-08-25-sequential.json": "b8d45e3280286c6ff91ca4c0551831aaa44c6ce36f7bbed307174943fd30cb08",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-54.json": "4420e3756524d750143f9da0a5649b1a3f63c97acf364558120c72f0fa815ccc"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md": "e3015544d7f41556c7496675c8fc00b8ea538b1c8dbb07019340f0a0bdf43f0e",
+    "tools\\deep_content_quality_overrides.json": "5f63e03700ca2e44c9c76574ec95fcbf5ad04361a4a193ecf8004834a7c50f88",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\54_Lok-Adalats-and-Other-Courts.md": "093d5577f7491acff456ce35b791f1294697447a5dc832e42a595778fb5e2511",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md": "a166d23530a6e57ec7ce1369b25540d0369826608d89e163bfe84147c65c1152",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-54-2026-08-25-sequential.json": "b8d45e3280286c6ff91ca4c0551831aaa44c6ce36f7bbed307174943fd30cb08",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-54.json": "4420e3756524d750143f9da0a5649b1a3f63c97acf364558120c72f0fa815ccc"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

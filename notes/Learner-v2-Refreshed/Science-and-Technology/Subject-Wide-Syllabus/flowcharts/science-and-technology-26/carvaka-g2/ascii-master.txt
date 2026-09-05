@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Minimum prize evidence card
+CATEGORY + YEAR
+OFFICIAL LAUREATE SPELLING
+OFFICIAL CITATION / MOTIVATION
+MECHANISM + AWARD-TIME AFFILIATION
+BIRTH / INDIA LINK / STATUS DATE -> only if sourced
+
+ASCII MASTER FLOW — PANEL 2/12: Scientific contribution classifier
+THEORY -> explanation and prediction
+OBSERVATION -> recorded phenomenon
+EXPERIMENT -> controlled test
+DISCOVERY -> established phenomenon or relation
+INVENTION / DEVELOPMENT -> device, process or method
+
+ASCII MASTER FLOW — PANEL 3/12: Nobel category map
+PHYSICS | CHEMISTRY | PHYSIOLOGY OR MEDICINE
+LITERATURE | PEACE -> original framework
+ECONOMIC SCIENCES -> later memorial prize
+AWARDING INSTITUTION -> category-specific
+PEACE -> person or organisation possible
+
+ASCII MASTER FLOW — PANEL 4/12: Citation-to-outcome staircase
+OFFICIAL CITATION
+DISCOVERY / MECHANISM
+POSSIBLE APPLICATION
+ENGINEERING + COMMERCIALIZATION
+MEASURED POLICY / SOCIAL OUTCOME
+
+ASCII MASTER FLOW — PANEL 5/12: Attribution and chronology rail
+PRIOR THEORY -> INSTRUMENT -> EXPERIMENT
+PUBLICATION -> REPLICATION -> AWARD
+PATENT / PRODUCT / DEPLOYMENT -> later and separate
+LAUREATE != institution
+AWARD YEAR != discovery year automatically
+
+ASCII MASTER FLOW — PANEL 6/12: Physics 2025 quantum-circuit map
+SUPERCONDUCTING CIRCUIT + JOSEPHSON JUNCTION
+COLLECTIVE MACROSCOPIC STATE
+BARRIER -> quantum tunnelling
+SPECIFIC ENERGY AMOUNTS -> quantisation
+DEMONSTRATION != fault-tolerant quantum computer
+
+ASCII MASTER FLOW — PANEL 7/12: John Clarke clue resolver
+BORN -> Cambridge, United Kingdom
+AFFILIATION -> University of California, Berkeley
+CATEGORY / YEAR -> Physics 2025
+SHARE -> one-third with Devoret and Martinis
+MATCH ALL CLUES -> then identify
+
+ASCII MASTER FLOW — PANEL 8/12: Chemistry 2025 MOF architecture
+METAL IONS -> nodes
+ORGANIC MOLECULES -> linkers
+POROUS CRYSTAL -> cavities
+BUILDING-BLOCK CHANGE -> tunable function
+CAPABILITY / APPLICATION != commercialization
+
+ASCII MASTER FLOW — PANEL 9/12: Medicine 2025 tolerance pathway
+CENTRAL TOLERANCE -> thymic control layer
+REGULATORY T CELLS -> peripheral control
+Foxp3 -> regulatory-T-cell development
+SELF-TISSUE PROTECTION -> mechanism
+CLINICAL TRIAL != approved therapy
+
+ASCII MASTER FLOW — PANEL 10/12: MicroRNA regulation rail
+DNA --transcription--> mRNA
+microRNA -> complementary mRNA binding
+PROTEIN PRODUCTION -> inhibited
+mRNA DEGRADATION -> possible route
+DISCOVERY != diagnostic or medicine
+MUST REMEMBER: Scientific-history questions separate observation, discovery, theory,...
+
+ASCII MASTER FLOW — PANEL 11/12: India-linked scientist cards
+RAMAN 1930 -> light scattering / Raman effect
+KHORANA 1968 -> genetic code / protein synthesis
+RAMAKRISHNAN 2009 -> ribosome structure and function
+BIRTHPLACE != award-time affiliation
+CITATION != every later application
+CLOSE DISTINCTION: Discovery is not invention, theory is not proof beyond revision, award...
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ and future-status firewall
+2026 Q81 -> direct biographical prize route
+BOSE-EINSTEIN / BLUE LED -> Topic 21 direct science owner
+TOPIC 26 -> attribution + citation + maturity support
+2025 OFFICIAL AWARDS -> latest completed science anchors
+4 SEP 2026 -> no invented 2026 laureates
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use Nobel Foundation or equally...

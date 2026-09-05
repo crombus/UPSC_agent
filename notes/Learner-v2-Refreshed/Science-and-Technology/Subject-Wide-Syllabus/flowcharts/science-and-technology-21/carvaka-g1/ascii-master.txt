@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Quantity unit and vector decision tree
+QUANTITY -> scalar or vector?
+UNIT -> base or derived SI?
+DIMENSION -> consistency check only
+INSTRUMENT -> calibration + orientation + uncertainty
+LIGHT-YEAR -> distance, never time
+
+ASCII MASTER FLOW — PANEL 2/12: Mechanics cause-and-rate rail
+NET FORCE -> momentum change
+IMPULSE -> force x time -> change in momentum
+FORCE + DISPLACEMENT -> work
+NET WORK -> kinetic-energy change
+POWER -> work or energy per time
+
+ASCII MASTER FLOW — PANEL 3/12: Orbit and free-fall map
+GRAVITY -> centripetal acceleration
+ORBIT -> continuous free fall
+GEOSTATIONARY -> equatorial + matching rotation period
+POLAR / SUN-SYNCHRONOUS -> near-polar low-orbit family
+ESCAPE VELOCITY -> central body's mass and radius
+
+ASCII MASTER FLOW — PANEL 4/12: Fluid-principle selection matrix
+PASCAL -> confined-fluid pressure transmission
+ARCHIMEDES -> displaced-fluid weight and upthrust
+BERNOULLI -> pressure-flow relation under assumptions
+PRESSURE COOKER -> pressure up, boiling temperature up
+ALTITUDE -> pressure down, boiling temperature down
+
+ASCII MASTER FLOW — PANEL 5/12: Thermal state and transfer ladder
+TEMPERATURE -> thermal state
+HEAT -> transfer due to temperature difference
+SPECIFIC HEAT -> temperature-change requirement
+LATENT HEAT -> phase change without temperature change
+CONDUCTION | CONVECTION | RADIATION -> distinct routes
+
+ASCII MASTER FLOW — PANEL 6/12: Wave sound and spectrum bands
+WAVE -> speed = frequency x wavelength
+SOUND -> medium required
+INFRASOUND | AUDIBLE | ULTRASOUND -> frequency classes
+RADIO -> MICROWAVE -> IR -> VISIBLE -> UV -> X-RAY -> GAMMA
+RADAR / VLC -> different electromagnetic bands
+
+ASCII MASTER FLOW — PANEL 7/12: Mirror lens and fibre ray logic
+MIRROR -> reflection
+LENS -> refraction
+CONVEX LENS -> converging
+CONCAVE LENS -> diverging
+DENSER TO RARER + CRITICAL ANGLE -> total internal reflection
+
+ASCII MASTER FLOW — PANEL 8/12: Circuit topology and safety board
+VOLTAGE -> work per charge
+CURRENT -> charge per time
+RESISTANCE -> opposition to current
+SERIES -> common current | PARALLEL -> common voltage
+FUSE / MCB -> overload | EARTHING -> shock protection
+
+ASCII MASTER FLOW — PANEL 9/12: Electromagnetic conversion loop
+CHANGING FLUX -> induced emf
+GENERATOR -> mechanical to electrical
+TRANSFORMER -> AC voltage conversion
+MOTOR -> electrical to mechanical
+STEADY DC -> no ordinary transformer action
+
+ASCII MASTER FLOW — PANEL 10/12: Quantum and nuclear split panel
+PHOTOELECTRIC -> threshold frequency
+BOSE-EINSTEIN -> integer-spin bosons may share state
+ALPHA | BETA | GAMMA -> different matter/radiation classes
+HALF-LIFE -> nuclear decay clock
+FISSION != FUSION
+
+ASCII MASTER FLOW — PANEL 11/12: Relativity observation evidence chain
+RELATIVITY -> spacetime prediction
+GRAVITATIONAL WAVE -> instrument signal
+ANALYSIS -> source inference
+CEPHEID | NEBULA | PULSAR -> distinct astronomy labels
+OBSERVATION -> bounded claim, not omniscience
+
+ASCII MASTER FLOW — PANEL 12/12: Device to verified-status staircase
+MATERIAL -> DOPING -> JUNCTION -> DEVICE
+LED | LASER | RADAR | VLC -> mechanism-specific use
+STANDARD / SCHEME -> enabling instrument
+TEST / SCHEDULE -> not operation
+CALIBRATED OUTPUT -> not automatically verified public outcome

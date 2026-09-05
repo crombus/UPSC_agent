@@ -1,0 +1,1027 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-21",
+  "subject": "Science-and-Technology",
+  "title": "GENERAL SCIENCE: PHYSICS FUNDAMENTALS",
+  "short_route": "QUANTITY UNIT AND VECTOR → MECHANICS CAUSE-AND-RATE RAIL → ORBIT AND FREE-FALL MAP → FLUID-PRINCIPLE SELECTION MATRIX → THERMAL STATE AND TRANSFER → WAVE SOUND AND SPECTRUM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-21-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "7d2d843f9a8b056d67684219a07f1252267cf98791a1de43e83a99fcf6c2de3f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "QUANTITY UNIT AND VECTOR DECISION TREE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "QUANTITY UNIT AND VECTOR DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "SCALAR OR VECTOR?",
+          "role": "outcome"
+        },
+        {
+          "text": "BASE OR DERIVED SI?",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSISTENCY CHECK ONLY",
+          "role": "evidence"
+        },
+        {
+          "text": "CALIBRATION + ORIENTATION + UNCERTAINTY",
+          "role": "primary"
+        },
+        {
+          "text": "DISTANCE, NEVER TIME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "QUANTITY → scalar or vector?",
+        "UNIT → base or derived SI?",
+        "DIMENSION → consistency check only",
+        "INSTRUMENT → calibration + orientation + uncertainty",
+        "LIGHT-YEAR → distance, never time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "QUANTITY → scalar or vector?",
+            "UNIT → base or derived SI?"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DIMENSION → consistency check only",
+            "INSTRUMENT → calibration + orientation + uncertainty"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "LIGHT-YEAR → distance, never time",
+            "QUANTITY → scalar or vector?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTRUMENT → calibration + orientation + uncertainty; LIGHT-YEAR → distance, never time.",
+      "source_references": [
+        "SI units and dimensional boundary",
+        "Motion acceleration and measurement"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MECHANICS CAUSE-AND-RATE RAIL",
+      "structural_type": "cause-rate-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MECHANICS CAUSE-AND-RATE RAIL",
+          "role": "mechanism"
+        },
+        {
+          "text": "NET FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MOMENTUM CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "FORCE X TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANGE IN MOMENTUM",
+          "role": "primary"
+        },
+        {
+          "text": "FORCE + DISPLACEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "NET WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "KINETIC-ENERGY CHANGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NET FORCE → momentum change",
+        "IMPULSE → force x time → change in momentum",
+        "FORCE + DISPLACEMENT → work",
+        "NET WORK → kinetic-energy change",
+        "POWER → work or energy per time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "NET FORCE → momentum change",
+            "IMPULSE → force x time → change in momentum"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "FORCE + DISPLACEMENT → work",
+            "NET WORK → kinetic-energy change"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "POWER → work or energy per time",
+            "NET FORCE → momentum change"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMPULSE → force x time → change in momentum.",
+      "source_references": [
+        "Force momentum impulse and Newton laws",
+        "Work energy and power"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ORBIT AND FREE-FALL MAP",
+      "structural_type": "orbit-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ORBIT AND FREE-FALL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRIPETAL ACCELERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINUOUS FREE FALL",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUATORIAL + MATCHING ROTATION PERIOD",
+          "role": "evidence"
+        },
+        {
+          "text": "NEAR-POLAR LOW-ORBIT FAMILY",
+          "role": "primary"
+        },
+        {
+          "text": "ESCAPE VELOCITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL BODY'S MASS AND RADIUS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GRAVITY → centripetal acceleration",
+        "ORBIT → continuous free fall",
+        "GEOSTATIONARY → equatorial + matching rotation period",
+        "POLAR / SUN-SYNCHRONOUS → near-polar low-orbit family",
+        "ESCAPE VELOCITY → central body's mass and radius"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "GRAVITY → centripetal acceleration",
+            "ORBIT → continuous free fall"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "GEOSTATIONARY → equatorial + matching rotation period",
+            "POLAR / SUN-SYNCHRONOUS → near-polar low-orbit family"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "ESCAPE VELOCITY → central body's mass and radius",
+            "GRAVITY → centripetal acceleration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ESCAPE VELOCITY → central body's mass and radius.",
+      "source_references": [
+        "Gravitation circular motion and orbits"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FLUID-PRINCIPLE SELECTION MATRIX",
+      "structural_type": "selection-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FLUID-PRINCIPLE SELECTION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CONFINED-FLUID PRESSURE TRANSMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "DISPLACED-FLUID WEIGHT AND UPTHRUST",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESSURE-FLOW RELATION UNDER ASSUMPTIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRESSURE COOKER",
+          "role": "primary"
+        },
+        {
+          "text": "PRESSURE UP, BOILING TEMPERATURE UP",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESSURE DOWN, BOILING TEMPERATURE DOWN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PASCAL → confined-fluid pressure transmission",
+        "ARCHIMEDES → displaced-fluid weight and upthrust",
+        "BERNOULLI → pressure-flow relation under assumptions",
+        "PRESSURE COOKER → pressure up, boiling temperature up",
+        "ALTITUDE → pressure down, boiling temperature down"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "PASCAL → confined-fluid pressure transmission",
+          "BERNOULLI → pressure-flow relation under assumptions",
+          "ALTITUDE → pressure down, boiling temperature down"
+        ],
+        [
+          "ARCHIMEDES → displaced-fluid weight and upthrust",
+          "PRESSURE COOKER → pressure up, boiling temperature up",
+          "PASCAL → confined-fluid pressure transmission"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "PASCAL → confined-fluid pressure transmission",
+            "ARCHIMEDES → displaced-fluid weight and upthrust"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BERNOULLI → pressure-flow relation under assumptions",
+            "PRESSURE COOKER → pressure up, boiling temperature up"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ALTITUDE → pressure down, boiling temperature down",
+            "PASCAL → confined-fluid pressure transmission"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRESSURE COOKER → pressure up, boiling temperature up.",
+      "source_references": [
+        "Pressure buoyancy and fluid principles"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THERMAL STATE AND TRANSFER LADDER",
+      "structural_type": "thermal-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THERMAL STATE AND TRANSFER LADDER",
+          "role": "institution"
+        },
+        {
+          "text": "THERMAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "TRANSFER DUE TO TEMPERATURE DIFFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIC HEAT",
+          "role": "evidence"
+        },
+        {
+          "text": "TEMPERATURE-CHANGE REQUIREMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LATENT HEAT",
+          "role": "outcome"
+        },
+        {
+          "text": "PHASE CHANGE WITHOUT TEMPERATURE CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCT ROUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEMPERATURE → thermal state",
+        "HEAT → transfer due to temperature difference",
+        "SPECIFIC HEAT → temperature-change requirement",
+        "LATENT HEAT → phase change without temperature change",
+        "RADIATION → distinct routes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "TEMPERATURE → thermal state",
+            "HEAT → transfer due to temperature difference"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPECIFIC HEAT → temperature-change requirement",
+            "LATENT HEAT → phase change without temperature change"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RADIATION → distinct routes",
+            "TEMPERATURE → thermal state"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONDUCTION | CONVECTION | RADIATION → distinct routes.",
+      "source_references": [
+        "Heat temperature specific and latent heat",
+        "Thermodynamics and heat transfer"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WAVE SOUND AND SPECTRUM BANDS",
+      "structural_type": "banded-spectrum",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WAVE SOUND AND SPECTRUM BANDS",
+          "role": "primary"
+        },
+        {
+          "text": "FREQUENCY X WAVELENGTH",
+          "role": "outcome"
+        },
+        {
+          "text": "MEDIUM REQUIRED",
+          "role": "comparison"
+        },
+        {
+          "text": "FREQUENCY CLASSES",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERENT ELECTROMAGNETIC BANDS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WAVE → speed = frequency x wavelength",
+        "SOUND → medium required",
+        "ULTRASOUND → frequency classes",
+        "RADIO → MICROWAVE → IR → VISIBLE → UV → X-RAY → GAMMA",
+        "RADAR / VLC → different electromagnetic bands"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "WAVE → speed = frequency x wavelength",
+            "SOUND → medium required"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ULTRASOUND → frequency classes",
+            "RADIO → MICROWAVE → IR → VISIBLE → UV → X-RAY → GAMMA"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RADAR / VLC → different electromagnetic bands",
+            "WAVE → speed = frequency x wavelength"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RADIO → MICROWAVE → IR → VISIBLE → UV → X-RAY → GAMMA.",
+      "source_references": [
+        "Wave relation and sound",
+        "Electromagnetic spectrum and communication boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MIRROR LENS AND FIBRE RAY LOGIC",
+      "structural_type": "ray-logic",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MIRROR LENS AND FIBRE RAY LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "CONVEX LENS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCAVE LENS",
+          "role": "comparison"
+        },
+        {
+          "text": "DENSER TO RARER + CRITICAL ANGLE",
+          "role": "evidence"
+        },
+        {
+          "text": "TOTAL INTERNAL REFLECTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MIRROR → reflection",
+        "LENS → refraction",
+        "CONVEX LENS → converging",
+        "CONCAVE LENS → diverging",
+        "DENSER TO RARER + CRITICAL ANGLE → total internal reflection"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MIRROR → reflection",
+            "LENS → refraction"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CONVEX LENS → converging",
+            "CONCAVE LENS → diverging"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DENSER TO RARER + CRITICAL ANGLE → total internal reflection",
+            "MIRROR → reflection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DENSER TO RARER + CRITICAL ANGLE → total internal reflection.",
+      "source_references": [
+        "Reflection mirrors and image logic",
+        "Refraction total internal reflection and lenses"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CIRCUIT TOPOLOGY AND SAFETY BOARD",
+      "structural_type": "circuit-board",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CIRCUIT TOPOLOGY AND SAFETY BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "WORK PER CHARGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CHARGE PER TIME",
+          "role": "comparison"
+        },
+        {
+          "text": "OPPOSITION TO CURRENT",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON CURRENT",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON VOLTAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHOCK PROTECTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "VOLTAGE → work per charge",
+        "CURRENT → charge per time",
+        "RESISTANCE → opposition to current",
+        "SERIES → common current",
+        "PARALLEL → common voltage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "VOLTAGE → work per charge",
+            "CURRENT → charge per time",
+            "RESISTANCE → opposition to current"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SERIES → common current",
+            "PARALLEL → common voltage",
+            "FUSE / MCB → overload"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "EARTHING → shock protection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FUSE / MCB → overload | EARTHING → shock protection.",
+      "source_references": [
+        "Current voltage resistance and Ohm boundary",
+        "Circuits electrical power and safety"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ELECTROMAGNETIC CONVERSION LOOP",
+      "structural_type": "conversion-loop",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ELECTROMAGNETIC CONVERSION LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CHANGING FLUX",
+          "role": "outcome"
+        },
+        {
+          "text": "INDUCED EMF",
+          "role": "comparison"
+        },
+        {
+          "text": "MECHANICAL TO ELECTRICAL",
+          "role": "evidence"
+        },
+        {
+          "text": "AC VOLTAGE CONVERSION",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTRICAL TO MECHANICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "STEADY DC",
+          "role": "comparison"
+        },
+        {
+          "text": "NO ORDINARY TRANSFORMER ACTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHANGING FLUX → induced emf",
+        "GENERATOR → mechanical to electrical",
+        "TRANSFORMER → AC voltage conversion",
+        "MOTOR → electrical to mechanical",
+        "STEADY DC → no ordinary transformer action"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CHANGING FLUX → induced emf",
+            "GENERATOR → mechanical to electrical"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "TRANSFORMER → AC voltage conversion",
+            "MOTOR → electrical to mechanical"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "STEADY DC → no ordinary transformer action",
+            "CHANGING FLUX → induced emf"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MOTOR → electrical to mechanical; STEADY DC → no ordinary transformer action.",
+      "source_references": [
+        "Magnetism induction motors generators and transformers"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "QUANTUM AND NUCLEAR SPLIT PANEL",
+      "structural_type": "split-panel",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "QUANTUM AND NUCLEAR SPLIT PANEL",
+          "role": "primary"
+        },
+        {
+          "text": "THRESHOLD FREQUENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEGER-SPIN BOSONS MAY SHARE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "DIFFERENT MATTER/RADIATION CLASSES",
+          "role": "evidence"
+        },
+        {
+          "text": "NUCLEAR DECAY CLOCK",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PHOTOELECTRIC → threshold frequency",
+        "BOSE-EINSTEIN → integer-spin bosons may share state",
+        "GAMMA → different matter/radiation classes",
+        "HALF-LIFE → nuclear decay clock",
+        "FISSION != FUSION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PHOTOELECTRIC → threshold frequency",
+            "BOSE-EINSTEIN → integer-spin bosons may share state"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "GAMMA → different matter/radiation classes",
+            "HALF-LIFE → nuclear decay clock"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "FISSION != FUSION",
+            "PHOTOELECTRIC → threshold frequency"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ALPHA | BETA | GAMMA → different matter/radiation classes.",
+      "source_references": [
+        "Atomic quantum photoelectric and Bose boundary",
+        "Nuclear radioactivity fission and fusion"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RELATIVITY OBSERVATION EVIDENCE CHAIN",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RELATIVITY OBSERVATION EVIDENCE CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "SPACETIME PREDICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "GRAVITATIONAL WAVE",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTRUMENT SIGNAL",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE INFERENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINCT ASTRONOMY LABELS",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDED CLAIM, NOT OMNISCIENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RELATIVITY → spacetime prediction",
+        "GRAVITATIONAL WAVE → instrument signal",
+        "ANALYSIS → source inference",
+        "PULSAR → distinct astronomy labels",
+        "OBSERVATION → bounded claim, not omniscience"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "RELATIVITY → spacetime prediction",
+            "GRAVITATIONAL WAVE → instrument signal"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSIS → source inference",
+            "PULSAR → distinct astronomy labels"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "OBSERVATION → bounded claim, not omniscience",
+            "RELATIVITY → spacetime prediction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CEPHEID | NEBULA | PULSAR → distinct astronomy labels.",
+      "source_references": [
+        "Relativity gravitational waves and astronomy"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DEVICE TO VERIFIED-STATUS STAIRCASE",
+      "structural_type": "status-staircase",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DEVICE TO VERIFIED-STATUS STAIRCASE",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM-SPECIFIC USE",
+          "role": "mechanism"
+        },
+        {
+          "text": "ENABLING INSTRUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT OPERATION",
+          "role": "caution"
+        },
+        {
+          "text": "CALIBRATED OUTPUT",
+          "role": "primary"
+        },
+        {
+          "text": "NOT AUTOMATICALLY VERIFIED PUBLIC OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MATERIAL → DOPING → JUNCTION → DEVICE",
+        "VLC → mechanism-specific use",
+        "STANDARD / SCHEME → enabling instrument",
+        "TEST / SCHEDULE → not operation",
+        "CALIBRATED OUTPUT → not automatically verified public outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MATERIAL → DOPING → JUNCTION → DEVICE",
+            "VLC → mechanism-specific use"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "STANDARD / SCHEME → enabling instrument",
+            "TEST / SCHEDULE → not operation"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CALIBRATED OUTPUT → not automatically verified public outcome",
+            "MATERIAL → DOPING → JUNCTION → DEVICE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CALIBRATED OUTPUT → not automatically verified public outcome.",
+      "source_references": [
+        "Semiconductors LEDs lasers radar and VLC",
+        "Metrology recorder and status firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "METROLOGY AND STANDARDS — ESSENTIAL WHEN PRECISION MEASUREMENT IS",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTRONICS AND DEVICE RESEARCH, LINKING SOLID-STATE PHYSICS TO USABLE",
+          "role": "institution"
+        },
+        {
+          "text": "INDIA SEMICONDUCTOR MISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "WHERE BASIC SEMICONDUCTOR PHYSICS BECOMES MANUFACTURING AND DESIGN POLICY.",
+          "role": "primary"
+        },
+        {
+          "text": "DST NATIONAL QUANTUM MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "RELEVANT BECAUSE QUANTUM DEVICES, SENSING AND MATERIALS ALL REST",
+          "role": "comparison"
+        },
+        {
+          "text": "DAE/BARC ECOSYSTEM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CSIR-NPL: metrology and standards — essential when precision measurement is the real bottleneck.",
+            "CSIR-CEERI: electronics and device research, linking solid-state physics to usable components.",
+            "India Semiconductor Mission: where basic semiconductor physics becomes manufacturing and design policy.",
+            "DST National Quantum Mission: relevant because quantum devices, sensing and materials all rest on advanced physics principles."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DAE/BARC ecosystem: policy-level continuation of nuclear and radiation-related physics in applied form.",
+            "Power electronics, transformers and motors are central to India’s electrification and industrial productivity.",
+            "Laser-based tools matter in manufacturing, surveying, surgery and defence optics.",
+            "Semiconductor devices determine telecom, computing, EV power systems, consumer electronics and strategic systems."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Radiation science supports diagnostics, therapy, sterilization and industrial measurement.",
+            "CAUTION: Limitation 1: a device may work in the lab but fail at scale because thermal management, materials purity or measurement standards are weak.",
+            "CAUTION: Limitation 2: public debate often jumps directly to final products while",
+            "neglecting the physics-heavy middle layers such as metrology, materials and clean-room ecosystems."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

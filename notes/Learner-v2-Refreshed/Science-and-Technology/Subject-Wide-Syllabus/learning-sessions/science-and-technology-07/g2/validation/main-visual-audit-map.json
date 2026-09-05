@@ -1,0 +1,1801 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-07",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Defence Indigenisation: Atmanirbhar and Procurement - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 36,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 443.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 766.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 459.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 286.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 205.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 96,
+      "heading": "VISUAL FIRST",
+      "preview": "R&D ACQUISITION PRODUCTION AND SUSTAINMENT CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 150,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - R&D ACQUISITION PRODUCTION AND SUSTAINMENT CHAIN",
+      "preview": "START / CONCEPT: FOUNDATION — R&D acquisition production and sustainment chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 161,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not equate indigenous content with indigenous design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 180,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIGENOUS DESIGN MANUFACTURE AND CONTENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 233,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INDIGENOUS DESIGN MANUFACTURE AND CONTENT",
+      "preview": "START / CONCEPT: FOUNDATION — Indigenous design manufacture and content",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read DAP 2020 purpose and acquisition schemes as a sequence: identify Buy-ladder boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 263,
+      "heading": "VISUAL FIRST",
+      "preview": "DAP 2020 PURPOSE AND ACQUISITION SCHEMES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 316,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DAP 2020 PURPOSE AND ACQUISITION SCHEMES",
+      "preview": "START / CONCEPT: FOUNDATION — DAP 2020 purpose and acquisition schemes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 327,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Five-rung Buy preference ladder as a sequence: identify Indian-IDDM boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 374.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 308.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 346,
+      "heading": "VISUAL FIRST",
+      "preview": "FIVE-RUNG BUY PREFERENCE LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 399,
+      "heading": "CLOSING RECALL FLOW - CORE - FIVE-RUNG BUY PREFERENCE LADDER",
+      "preview": "START / CONCEPT: CORE — Five-rung Buy preference ladder",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 410,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Indian-IDDM and Indian-vendor logic as a sequence: identify Buy-Make boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 429,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN-IDDM AND INDIAN-VENDOR LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 482,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIAN-IDDM AND INDIAN-VENDOR LOGIC",
+      "preview": "START / CONCEPT: CORE — Indian-IDDM and Indian-vendor logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Technology-transfer manufacture pathways as a sequence: identify AoN-order boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 515,
+      "heading": "VISUAL FIRST",
+      "preview": "TECHNOLOGY-TRANSFER MANUFACTURE PATHWAYS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 569,
+      "heading": "CLOSING RECALL FLOW - CORE - TECHNOLOGY-TRANSFER MANUFACTURE PATHWAYS",
+      "preview": "START / CONCEPT: CORE — Technology-transfer manufacture pathways",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 580,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read AoN RFP trials contract delivery and induction as a sequence: identify Notification-achievement boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 599,
+      "heading": "VISUAL FIRST",
+      "preview": "AON RFP TRIALS CONTRACT DELIVERY AND INDUCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 652,
+      "heading": "CLOSING RECALL FLOW - CORE - AON RFP TRIALS CONTRACT DELIVERY AND INDUCTION",
+      "preview": "START / CONCEPT: CORE — AoN RFP trials contract delivery and induction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 93.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 663,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Services and DPSU positive-list families as a sequence: identify SRIJAN-stage boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 682,
+      "heading": "VISUAL FIRST",
+      "preview": "SERVICES AND DPSU POSITIVE-LIST FAMILIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - CORE - SERVICES AND DPSU POSITIVE-LIST FAMILIES",
+      "preview": "START / CONCEPT: CORE — Services and DPSU positive-list families",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read SRIJAN stage tracking and evidence limits as a sequence: identify DPSU-private boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 765,
+      "heading": "VISUAL FIRST",
+      "preview": "SRIJAN STAGE TRACKING AND EVIDENCE LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 818,
+      "heading": "CLOSING RECALL FLOW - CORE - SRIJAN STAGE TRACKING AND EVIDENCE LIMITS",
+      "preview": "START / CONCEPT: CORE — SRIJAN stage tracking and evidence limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 829,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read DPSU private prime MSME and startup ecosystem as a sequence: identify OFB-corporatisation boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 848,
+      "heading": "VISUAL FIRST",
+      "preview": "DPSU PRIVATE PRIME MSME AND STARTUP ECOSYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 329.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 901,
+      "heading": "CLOSING RECALL FLOW - CORE - DPSU PRIVATE PRIME MSME AND STARTUP ECOSYSTEM",
+      "preview": "START / CONCEPT: CORE — DPSU private prime MSME and startup ecosystem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 912,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read OFB corporatisation and seven DPSUs as a sequence: identify iDEX-TDF boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 283.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 216.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 934,
+      "heading": "VISUAL FIRST",
+      "preview": "OFB CORPORATISATION AND SEVEN DPSUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 988,
+      "heading": "CLOSING RECALL FLOW - CORE - OFB CORPORATISATION AND SEVEN DPSUS",
+      "preview": "START / CONCEPT: CORE — OFB corporatisation and seven DPSUs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read iDEX ADITI and Technology Development Fund as a sequence: identify FDI-route boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 368.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 301.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1018,
+      "heading": "VISUAL FIRST",
+      "preview": "IDEX ADITI AND TECHNOLOGY DEVELOPMENT FUND",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1071,
+      "heading": "CLOSING RECALL FLOW - CORE - IDEX ADITI AND TECHNOLOGY DEVELOPMENT FUND",
+      "preview": "START / CONCEPT: CORE — iDEX ADITI and Technology Development Fund",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 93.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1082,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Defence corridors and place-based clustering as a sequence: identify Offsets-boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1101,
+      "heading": "VISUAL FIRST",
+      "preview": "DEFENCE CORRIDORS AND PLACE-BASED CLUSTERING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1154,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DEFENCE CORRIDORS AND PLACE-BASED CLUSTERING",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Defence corridors and place-based clustering",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 469.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read FDI offsets exports and technology absorption as a sequence: identify Lifecycle-indigenisation boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 315.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 234.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1187,
+      "heading": "VISUAL FIRST",
+      "preview": "FDI OFFSETS EXPORTS AND TECHNOLOGY ABSORPTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1241,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FDI OFFSETS EXPORTS AND TECHNOLOGY ABSORPTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — FDI offsets exports and technology absorption",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1252,
+      "markdown_body_line_end": 1252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Lifecycle self-reliance and volatile-number audit as a sequence: identify Platform-status boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1274,
+      "heading": "VISUAL FIRST",
+      "preview": "LIFECYCLE SELF-RELIANCE AND VOLATILE-NUMBER AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1314,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + GS-II + Prelims. **Core area:** Defence industrial policy, procurement architecture and indigenisation. **Grounded in:** DDPMoD DAP 2020 node (https",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 280.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 86.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1329,
+      "heading": "1. Visual foundation",
+      "preview": "topic 06: develop / test / validate technology",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1335,
+      "markdown_body_line_end": 1348,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 625.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 459.89
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1433,
+      "markdown_body_line_end": 1433,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s defence indigenisation story succeeds only when indigenous R&D is matched by procurement reform, predictable orders, supplier development, corridor-led ecosystem building and export-capable manufacturing depth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 658.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 599.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1472,
+      "markdown_body_line_end": 1489,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LIFECYCLE SELF-RELIANCE AND VOLATILE-NUMBER AUDIT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Lifecycle self-reliance and volatile-number audit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 662.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 311.891
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2626,
+      "markdown_body_line_end": 2630,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II + Prelims. **Core area:** Defence-industrial strategy, procurement design and strategic manufacturing. **Grounded in:** DDPMoD DAP 2020 node (https://www.",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 537.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 379.024
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2634,
+      "markdown_body_line_end": 2648,
+      "heading": "1. Architecture",
+      "preview": "technology need",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 357.024
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 216.024
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2654,
+      "markdown_body_line_end": 2666,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 165.624
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 173.49
+        }
+      },
+      "pdf_pages": [
+        82,
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2734,
+      "markdown_body_line_end": 2739,
+      "heading": "9. CURRENT: Current anchor -> analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 577.09
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2750,
+      "markdown_body_line_end": 2750,
+      "heading": "11. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s defence indigenisation project will be durable only when procurement categories, positive lists, corridor-led ecosystem building, public-private manufacturing depth and export capability reinforce one another rath",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 443.69
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 384.822
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2807,
+      "markdown_body_line_end": 2815,
+      "heading": "Defence Indigenisation: Atmanirbhar and Procurement: ANSWER-WRITING SPINE",
+      "preview": "SEPARATE R&D PROCUREMENT PRODUCTION INDUCTION AND SUSTAINMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 347.491
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 266.491
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2825,
+      "markdown_body_line_end": 2831,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Capability conversion chain",
+      "preview": "SERVICE REQUIREMENT -> operational need",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2835,
+      "markdown_body_line_end": 2841,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Three meanings of indigenous",
+      "preview": "DESIGN -> Indian control of architecture and intellectual property",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2845,
+      "markdown_body_line_end": 2851,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: DAP purpose map",
+      "preview": "DAP 2020 -> capital-acquisition rulebook",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2855,
+      "markdown_body_line_end": 2861,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Five-rung Buy ladder",
+      "preview": "1 BUY INDIAN-IDDM -> Indian design, development and manufacture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2865,
+      "markdown_body_line_end": 2871,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Approval-to-service ladder",
+      "preview": "SERVICES REQUIREMENT -> stated need",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2875,
+      "markdown_body_line_end": 2881,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Positive-list split",
+      "preview": "SERVICES PIL -> platforms and equipment import restriction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2885,
+      "markdown_body_line_end": 2891,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Industrial actor map",
+      "preview": "DPSU -> sovereign integrator and legacy production base",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2895,
+      "markdown_body_line_end": 2901,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: OFB restructuring card",
+      "preview": "BEFORE 2021 -> departmental Ordnance Factory Board structure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2905,
+      "markdown_body_line_end": 2911,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Innovation instrument matrix",
+      "preview": "iDEX -> challenge-based startup and MSME innovation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2915,
+      "markdown_body_line_end": 2922,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Corridor and FDI map",
+      "preview": "UP + TAMIL NADU CORRIDORS -> place-based supplier clustering",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2926,
+      "markdown_body_line_end": 2933,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Lifecycle and export loop",
+      "preview": "PREDICTABLE ORDERS -> investment and production learning",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2937,
+      "markdown_body_line_end": 2944,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Procurement-claim firewall",
+      "preview": "DEFINE -> design, manufacture, content and lifecycle",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 274.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    }
+  ]
+}

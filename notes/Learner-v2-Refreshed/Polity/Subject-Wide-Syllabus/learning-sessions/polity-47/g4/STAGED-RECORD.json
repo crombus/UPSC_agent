@@ -1,0 +1,119 @@
+{
+  "record_id": "polity-47:learner-v2:g4",
+  "topic_key": "polity-47",
+  "variant": "learner-v2",
+  "generation": 4,
+  "supersedes": "polity-47:learner-v2:g3",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Comparative Constitutional Design — deep-reviewed immutable g4",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g4\\polity-47_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g4\\polity-47_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g4\\polity-47_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g4\\polity-47_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g4\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://legislative.gov.in/constitution-of-india/",
+      "https://upsc.gov.in/examinations/previous-question-papers",
+      "https://www.parliament.uk/about/how/role/sovereignty/",
+      "https://www.legislation.gov.uk/ukpga/1998/42/section/4",
+      "https://constitution.congress.gov/constitution/amendment-10/",
+      "https://constitution.congress.gov/constitution/article-5/",
+      "https://laws-lois.justice.gc.ca/eng/const/page-3.html",
+      "https://www.irishstatutebook.ie/eli/cons/en/html",
+      "https://www.aph.gov.au/constitution",
+      "https://www.elysee.fr/en/french-presidency/constitution-of-4-october-1958",
+      "https://www.justice.gov.za/constitution/"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g4\\polity-47_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-47:learner-v2:g3",
+    "source_hashes": {
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md": "5337cb1f731eb9e6e7e7e3d10cd4366b5ef418ba4c1450cf2d3faf07dfbe62a7",
+      "tools\\deep_content_quality_overrides.json": "fe0f030da66e931d24870a8d28d980b316a340a75d429d0e43974ba1f00c4b63",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md": "e680328bb7e046d0178bb6d63319637163f540e5cc618889cd99323993a93bc3",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md": "728f51dcc331a6f1cfe859f042ab58669f458763314b5125fed7bb81fd341a86",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json": "3df463205a390f92c547b384648916528ce008a9fa326cea77b5cdbed6e78a53",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-47.json": "101b7b8e30680d534d2363c9c77f0934729a5cac8e97817df451b91f840c218c"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "Eight exact comparative GS-II questions; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions; sixteen answer-specific guidance sets.",
+    "current_linkage_note": "Stable constitutional texts and institutions are compared; no volatile current office-holder or party-majority claim is frozen.",
+    "pyq_status_note": "Eight exact questions solved with year, paper, marks and word limit; the two 2025 questions are supporting cross-owned comparative practice.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 5,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "4785445ee13aca3e12aa60aa10861f3541616121dcdd60a6926c103da2a05100"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-47:learner-v2:g4"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g4\\polity-47_Graphical-Spec-g4.json",
+    "graphical_spec_sha256": "098d9ba66c0de3462b36e3c3f621b0ce1d5a73e0c06905e74ba61bb8e715031f",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g4\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json",
+    "ascii_master_spec_sha256": "3df463205a390f92c547b384648916528ce008a9fa326cea77b5cdbed6e78a53"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

@@ -1,0 +1,109 @@
+{
+  "record_id": "polity-41:learner-v2:g3",
+  "topic_key": "polity-41",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "polity-41:learner-v2:g2",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Public Services — deep-reviewed immutable generation",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g3\\polity-41_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g3\\polity-41_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g3\\polity-41_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g3\\polity-41_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g3\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\41_Public-Services_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\41_Public-Services.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://legislative.gov.in/",
+      "https://dopt.gov.in/",
+      "https://www.indiacode.nic.in/",
+      "https://igotkarmayogi.gov.in/",
+      "https://www.sci.gov.in/"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g3\\polity-41_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-41:learner-v2:g2",
+    "source_hashes": {
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-41\\g3-source\\polity-41_g3-reviewed-source.md": "fcf75197a4c8b1c01e344bbeb2f5034754345ea500ece0b79c0f4ef588a57b8e",
+      "tools\\deep_content_quality_overrides.json": "f7bad7e36f5518330457208b329731ec946ce5a31786f14120e2c9b3e1bad620",
+      "upsc-ai-kit\\knowledge\\Polity\\41_Public-Services_Complete-Topic-Package.md": "19c1cfac920aa692297a2911ea88b4fe24efc778cb791a5bb888eef2e926e5b1",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\41_Public-Services.md": "6775b73f6e1722d7268314e7210ed7624781daf08892035ee4645a885345f8fb",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md": "b3ba97f1d7492608c90a25757eb6e00681b9a1fc4202459c068b751d214a4813",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-41-2026-08-25-sequential.json": "0dacddb3187bd9ee3a96360af24da32b4a4a7f8b01ac38dd75dd93050cd7e9cc",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-41.json": "62994dcce86df039eae08287b1784d23b7deccd3268363868774075e7eede62c"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "Two verified adjacent Mains PYQs (2020 GS-II and 2025 GS-I); 36 original MCQs; 12 remedials; 8 original solved Mains; 10 answer-specific guidance pairs.",
+    "current_linkage_note": "Constitution, AIS Act/rules, CCS rules, Mission Karmayogi and DoPT Annual Report 2024-25 checked to 28 August 2026; volatile counts omitted.",
+    "pyq_status_note": "No direct recent Articles 309-312 PYQ; exact adjacent 2020 GS-II and 2025 GS-I Q9 solved with correct marks and word limits.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 5,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "250b69eda1c259bd6a39635255eb79db6a0751699a6db54980988bbb4786a9ba"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-41:learner-v2:g3"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g3\\polity-41_Graphical-Spec-g3.json",
+    "graphical_spec_sha256": "eb7e6d4b0acb8e5243462801d86017bcad696c02c22fe5e33c35e018ec459ec5",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-41-2026-08-25-sequential.json",
+    "ascii_master_spec_sha256": "0dacddb3187bd9ee3a96360af24da32b4a4a7f8b01ac38dd75dd93050cd7e9cc"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

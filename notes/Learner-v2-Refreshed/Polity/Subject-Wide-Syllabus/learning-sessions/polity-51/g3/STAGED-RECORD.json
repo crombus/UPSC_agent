@@ -1,0 +1,112 @@
+{
+  "record_id": "polity-51:learner-v2:g3",
+  "topic_key": "polity-51",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "polity-51:learner-v2:g2",
+  "command": "Generate learner-v2 topic: Polity — Rights and Liabilities of the Government — deep-reviewed immutable g3",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g3\\polity-51_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g3\\polity-51_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g3\\polity-51_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g3\\polity-51_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g3\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\51_Rights-and-Liabilities-of-the-Government.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+    ],
+    "official_question_sources": [
+      "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf"
+    ],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://legislative.gov.in/constitution-of-india/",
+      "https://www.indiacode.nic.in/",
+      "https://api.sci.gov.in/supremecourt/2020/8899/8899_2020_15_1502_53160_Judgement_16-May-2024.pdf",
+      "https://api.sci.gov.in/jonew/judis/42510.pdf",
+      "https://upsc.gov.in/examinations/previous-question-papers"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g3\\polity-51_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-51:learner-v2:g2",
+    "source_hashes": {
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md": "14a0eecd65eeb10d8a7d95dfa85c7b47c4507a46a9006ef746dc66f4f52541b3",
+      "tools\\deep_content_quality_overrides.json": "b269789910b8bfa331ec2c27377717078fa73a04c17ee7f431decf6acdcb7cb7",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\51_Rights-and-Liabilities-of-the-Government.md": "afd49749ecb176ca0787288b058d844cd2ff8dad756eaede8fd7865d322777a2",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md": "d55ac0c925b6cf74b22de8f1de57c5410da02ed85a4237057f075494b1b030b4",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-51-2026-08-25-sequential.json": "2930a922432954e848876379f41fb529fb8d6203993a9d4f14108398e046a00a",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-51.json": "e592c6a1529d3d8f1b5d714b7d06f696f98f2681c7fb74f91d080893b97f0a23"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "Two exact supporting Prelims PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions with answer-specific guidance.",
+    "current_linkage_note": "Article 300A and disclosure law controlled through dated Supreme Court and current statutory sources.",
+    "pyq_status_note": "Exact 2021 right-to-property and 2025 constitutional-immunities questions included; no direct routed Mains question fabricated.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "97fac786346d75ceace14d48ec26d73e75fd979227cfe2894ff839069802f1ae"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-51:learner-v2:g3"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g3\\polity-51_Graphical-Spec-g3.json",
+    "graphical_spec_sha256": "4b49e94bfe4e2bee1acc11950a1500ce9fb1568f1db72d2a92749832c57bc39d",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-51-2026-08-25-sequential.json",
+    "ascii_master_spec_sha256": "2930a922432954e848876379f41fb529fb8d6203993a9d4f14108398e046a00a"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

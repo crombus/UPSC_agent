@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Institutional command map
+DEPARTMENT OF SPACE -> policy umbrella and sovereign direction
+ISRO -> public R&D, launch vehicles, spacecraft and missions
+IN-SPACe -> promote, authorise and supervise non-government activity
+NSIL -> commercial contracts, services and technology transfer
+RULE -> institution names are not interchangeable
+
+ASCII MASTER FLOW — PANEL 2/12: Centre-to-launch chain
+VSSC -> launch-vehicle design and development
+LPSC / IPRC -> liquid propulsion and propulsion testing roles
+SDSC-SHAR -> integration, range and launch operations
+MISSION CONTROL -> flight monitoring and decision chain
+RULE -> a centre function is not the whole ISRO mandate
+
+ASCII MASTER FLOW — PANEL 3/12: Policy and law stack
+OUTER-SPACE TREATIES -> international State obligations
+INDIAN SPACE POLICY 2023 -> executive role allocation
+IN-SPACe NORMS -> authorisation and supervision interface
+COMMERCIAL CONTRACT -> service and risk allocation
+GAP -> policy is not a comprehensive domestic space statute
+
+ASCII MASTER FLOW — PANEL 4/12: Launcher-payload separation
+LAUNCH VEHICLE -> supplies ascent energy and guidance
+PAYLOAD FAIRING -> protects the mission payload
+SEPARATION -> launcher task and spacecraft task diverge
+SPACECRAFT -> carries payload and may raise or maintain orbit
+RULE -> rocket success and spacecraft service entry are separate
+
+ASCII MASTER FLOW — PANEL 5/12: Orbit vocabulary matrix
+LEO -> altitude class, often used by crew and Earth observation
+POLAR -> high-inclination ground-track geometry
+SUN-SYNCHRONOUS -> repeated local-solar-time crossing
+GSO -> orbital period tied to Earth's rotation
+GEO -> circular equatorial geosynchronous special case
+
+ASCII MASTER FLOW — PANEL 6/12: GTO-to-GEO rail
+LAUNCHER ASCENT -> reaches transfer conditions
+GTO INJECTION -> elliptical intermediate orbit
+SPACECRAFT PROPULSION -> raises perigee and circularises
+GEO SLOT -> circular equatorial final service orbit
+TRAP -> GTO delivery is not direct GEO placement
+
+ASCII MASTER FLOW — PANEL 7/12: Operational launcher matrix
+PSLV -> versatile workhorse and mixed mission profiles
+GSLV -> cryogenic upper stage and transfer-orbit role
+LVM3 -> heavier operational class and human-rating base
+SSLV -> separate small-satellite launch architecture
+RULE -> role, propulsion, orbit and status must travel together
+
+ASCII MASTER FLOW — PANEL 8/12: Lineage and status ladder
+SLV-3 -> experimental orbital-access learning
+ASLV -> intermediate technology-learning step
+PSLV / GSLV / LVM3 -> operational families in owner
+SSLV -> developed small-launch family with dated status needed
+NGLV -> approved future development, not an operational launcher
+
+ASCII MASTER FLOW — PANEL 9/12: Propulsion comparison
+SOLID -> stored propellant and limited throttle control
+EARTH-STORABLE LIQUID -> ambient-temperature liquid pair
+CRYOGENIC -> liquid oxygen plus liquid hydrogen
+SEMI-CRYOGENIC -> liquid oxygen plus kerosene
+RULE -> propellant class does not prove flight status
+
+ASCII MASTER FLOW — PANEL 10/12: Human-rating gate
+RELIABLE LAUNCHER -> necessary but insufficient base
+MARGINS AND REDUNDANCY -> tolerate selected failures
+HEALTH MONITORING -> detect unsafe conditions
+ABORT CAPABILITY -> protect crew across ascent phases
+CERTIFICATION -> separate human-rated configuration
+
+ASCII MASTER FLOW — PANEL 11/12: Access-to-space system
+VEHICLE -> propulsion, structure, avionics and guidance
+FACTORY -> repeatable stage and subsystem quality
+PAD / RANGE -> integration, safety and launch window
+MISSION ASSURANCE -> verification and anomaly closure
+OUTPUT -> cadence and customer confidence
+
+ASCII MASTER FLOW — PANEL 12/12: Future-claim firewall
+DEFINE -> institution, vehicle, spacecraft, orbit and service
+CLASSIFY -> retired, operational, approved or under construction
+TRACE -> propulsion, infrastructure, integration and assurance
+SEPARATE -> technology transfer from authorisation and safety
+VERIFY -> dated official capacity, schedule and outcome source

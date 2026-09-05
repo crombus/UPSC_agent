@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-53",
+  "source_record": "polity-53:learner-v2:g2",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md": "ffd9a18bcbc29d7fe45c355ec6af212b74059b8fd894fddaa86dd4b3a6a1db61",
+    "tools\\deep_content_quality_overrides.json": "5f63e03700ca2e44c9c76574ec95fcbf5ad04361a4a193ecf8004834a7c50f88",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md": "80be40c7741325601eea567dd029aa6bd5a02e276db80a477c78136308bf2d6d",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md": "91dfbb2e6e3b2b0f4f88cb7255584f4a53d5949ec5d1b00823544a3a6f5afdfd",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-53-2026-08-25-sequential.json": "cea3e037a7e5ccc357c7d6c5bf0077bd902e9b408c457f054beda1157fef264e",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-53.json": "e98579caa0248f8019b77b14dd76e84c801bda752961a22680f95539f3a1eb51"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md": "ffd9a18bcbc29d7fe45c355ec6af212b74059b8fd894fddaa86dd4b3a6a1db61",
+    "tools\\deep_content_quality_overrides.json": "5f63e03700ca2e44c9c76574ec95fcbf5ad04361a4a193ecf8004834a7c50f88",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md": "80be40c7741325601eea567dd029aa6bd5a02e276db80a477c78136308bf2d6d",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md": "91dfbb2e6e3b2b0f4f88cb7255584f4a53d5949ec5d1b00823544a3a6f5afdfd",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-53-2026-08-25-sequential.json": "cea3e037a7e5ccc357c7d6c5bf0077bd902e9b408c457f054beda1157fef264e",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-53.json": "e98579caa0248f8019b77b14dd76e84c801bda752961a22680f95539f3a1eb51"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

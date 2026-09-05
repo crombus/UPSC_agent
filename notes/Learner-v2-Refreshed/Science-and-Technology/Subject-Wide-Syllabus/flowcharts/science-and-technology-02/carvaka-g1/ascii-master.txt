@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Satellite service taxonomy
+EARTH OBSERVATION -> sensed Earth data and derived products
+COMMUNICATION -> relay through transponders and ground networks
+METEOROLOGY -> imaging, sounding, relay and warning support
+NAVIGATION -> position, navigation and timing signals
+RULE -> payload and service define the class
+
+ASCII MASTER FLOW — PANEL 2/12: Orbit-service matrix
+GEO -> continuous regional view and fixed ground geometry
+IGSO / GSO -> daily-period geometry with changing sky position
+POLAR LEO -> repeated high-inclination Earth coverage
+SUN-SYNCHRONOUS LEO -> near-constant local-solar-time imaging
+RULE -> orbit enables service but does not name the payload
+
+ASCII MASTER FLOW — PANEL 3/12: End-to-end segment chain
+SPACE SEGMENT -> satellite bus and mission payload
+CONTROL SEGMENT -> tracking, command and health management
+PROCESSING SEGMENT -> correction, calibration or data products
+USER SEGMENT -> receiver, department or operational workflow
+OUTCOME -> useful service only after all segments function
+
+ASCII MASTER FLOW — PANEL 4/12: Observation-to-decision rail
+SENSOR -> records reflected or emitted energy
+DOWNLINK -> sends measurements to a ground station
+PROCESSING -> calibration, correction and product generation
+USER AGENCY -> interprets the product
+DECISION -> mapping, crop, water, warning or response action
+
+ASCII MASTER FLOW — PANEL 5/12: Communication relay loop
+UPLINK -> terrestrial station sends a signal
+TRANSPONDER -> receives, shifts, amplifies and retransmits
+DOWNLINK -> signal reaches a service footprint
+GROUND NETWORK -> routes content to final users
+RULE -> satellite capacity is not the same as delivered access
+
+ASCII MASTER FLOW — PANEL 6/12: NavIC system map
+REGIONAL CONSTELLATION -> independent Indian PNT source
+GEO PLUS IGSO DESIGN -> nominal regional geometry
+CONTROL SEGMENT -> orbit and clock monitoring
+USER RECEIVER -> measures signal travel time
+RULE -> nominal design is not dated functional health
+
+ASCII MASTER FLOW — PANEL 7/12: NavIC service and signal stack
+SPS -> open positioning service
+RS -> encrypted service for authorised users
+L5 / S -> original signal layers in owner
+L1 -> mass-market interoperability direction
+RULE -> payload support does not prove device adoption
+
+ASCII MASTER FLOW — PANEL 8/12: Constellation-health firewall
+LAUNCHED -> cumulative mission count
+INTENDED ORBIT -> orbit-raising completed
+OPERATIONAL -> spacecraft performing a stated function
+PNT CAPABLE -> full navigation service contribution
+MESSAGE BROADCAST -> useful but not equivalent to PNT
+
+ASCII MASTER FLOW — PANEL 9/12: GAGAN correction chain
+REFERENCE STATIONS -> measure GNSS error
+MASTER CONTROL -> computes correction and integrity
+UPLINK STATIONS -> send augmentation message
+GEO PAYLOAD -> rebroadcasts over a wide area
+AIRCRAFT RECEIVER -> applies correction and checks integrity
+
+ASCII MASTER FLOW — PANEL 10/12: Accuracy-integrity gate
+ACCURACY -> estimated position close to true position
+INTEGRITY -> warning when information must not be used
+TIME TO ALERT -> warning must arrive within a safe interval
+AVIATION USE -> certification governs operational acceptance
+RULE -> a precise signal without integrity is unsafe
+
+ASCII MASTER FLOW — PANEL 11/12: SBAS-GBAS institution map
+SBAS -> wide-area corrections rebroadcast from satellites
+GBAS -> local airport corrections broadcast from the ground
+ISRO + AAI -> GAGAN development partnership
+AAI -> aviation operational role
+DGCA -> aviation certification role
+
+ASCII MASTER FLOW — PANEL 12/12: Public-value answer spine
+CLASSIFY -> observation communication meteorology PNT or augmentation
+TRACE -> space ground processing and user segments
+DISTINGUISH -> NavIC constellation from GAGAN SBAS
+TEST -> standards adoption integrity privacy jamming and spoofing
+VERIFY -> dated health frequency coverage accuracy and certification

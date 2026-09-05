@@ -1,0 +1,85 @@
+ASCII MASTER FLOW — PANEL 1/12: Nanoscale taxonomy and property gateway
+1-100 nm -> functional size-dependent behaviour
+3 NANOSCALE DIMENSIONS -> nanoparticle
+2 NANOSCALE DIMENSIONS -> nanotube / nanofibre
+1 NANOSCALE DIMENSION -> nanosheet / nanoplate
+GATEWAY -> surface-area effect + possible quantum effect
+
+ASCII MASTER FLOW — PANEL 2/12: Surface-area and quantum twin engine
+SMALLER SIZE -> larger relative surface -> adsorption / catalysis / reactivity
+SUFFICIENT CONFINEMENT -> altered states / band gap -> optical or electronic shift
+MATERIAL + SIZE + SURFACE CHEMISTRY -> actual behaviour
+TRAP -> nano is neither an automatic benefit nor safety verdict
+
+ASCII MASTER FLOW — PANEL 3/12: Fabrication route comparison
+TOP-DOWN -> bulk -> lithography / etching / milling -> patterned structure
+BOTTOM-UP -> atoms / molecules -> self-assembly / sol-gel / CVD -> formed structure
+TOP-DOWN LIMIT -> waste / defects / feature constraint
+BOTTOM-UP LIMIT -> aggregation / uniformity / purification
+COMMON TEST -> reproducibility and scale-up
+
+ASCII MASTER FLOW — PANEL 4/12: Nanomaterial geometry atlas
+PARTICLE -> three nanoscale external dimensions
+CNT -> cylindrical carbon nanostructure
+GRAPHENE -> single-atom-thick hexagonal carbon sheet
+QUANTUM DOT -> size-tunable semiconductor nanocrystal
+NANOCOMPOSITE -> nanoscale phase modifies bulk matrix
+
+ASCII MASTER FLOW — PANEL 5/12: Characterization decision tree
+SURFACE MORPHOLOGY? -> SEM
+INTERNAL STRUCTURE / NANOSCALE DIMENSION? -> TEM
+PROBE-TRACED TOPOGRAPHY? -> AFM
+CRYSTALLINE PHASE? -> XRD
+DISPERSION SIZE / STABILITY? -> DLS + zeta potential
+
+ASCII MASTER FLOW — PANEL 6/12: Nanomedicine barrier rail
+CARGO -> encapsulation / protection
+CARRIER -> circulation and release profile
+TARGETING -> passive accumulation or ligand interaction
+BIOLOGICAL BARRIERS -> tissue -> cell -> intracellular site
+STATUS -> delivery evidence != approval / superiority / safety
+
+ASCII MASTER FLOW — PANEL 7/12: Agriculture value chain
+NANO-INPUT / SENSOR / SEED COATING -> farm decision or delivery
+FIELD EVIDENCE -> dose, crop, soil, weather and formulation
+COST + EXTENSION + CREDIT -> adoption boundary
+INPUT LOSS / SPOILAGE / STRESS DETECTION -> possible income channel
+VERDICT -> socio-economic uplift must be demonstrated
+
+ASCII MASTER FLOW — PANEL 8/12: Water and environment treatment loop
+CONTAMINANT -> detection / adsorption / membrane / photocatalysis
+SYSTEM TEST -> selectivity + fouling + energy
+RECOVERY -> regeneration or spent-material capture
+LIFECYCLE CHECK -> secondary nanoparticle release
+BOUNDARY -> lab removal != field deployment
+
+ASCII MASTER FLOW — PANEL 9/12: Electronics energy materials matrix
+GRAPHENE / CNT -> conductive and structural research
+QUANTUM DOT -> optical / display / sensing research
+NANOCOMPOSITE -> coatings and lightweight-strength modification
+NANOSTRUCTURED ELECTRODE -> storage and conversion interfaces
+BOUNDARY -> property != certified manufacturable product
+
+ASCII MASTER FLOW — PANEL 10/12: Indian nano institution map
+DST NPNST / EARLIER NANO MISSION -> public R&D architecture
+INST MOHALI -> DST autonomous nanoscience institution
+CSIR LABS -> cross-sector translational capability route
+MeitY-LINKED NANOELECTRONICS -> device / semiconductor bridge
+FIREWALL -> page / call / event != programme outcome
+MUST REMEMBER: Nanotechnology works through size-dependent surface, quantum, optical,...
+
+ASCII MASTER FLOW — PANEL 11/12: Toxicity and ecotoxicity exposure web
+MATERIAL -> size + shape + coating + solubility + aggregation
+EXPOSURE -> dose + route + duration + susceptible system
+ENVIRONMENT -> transformation + mobility + persistence
+ECOLOGY -> organism effects + food-web transfer + bioaccumulation
+RULE -> material- and use-specific evidence
+CLOSE DISTINCTION: Nanoscale is not automatically novel or safer, nanoparticle is not...
+
+ASCII MASTER FLOW — PANEL 12/12: Regulatory and evidence status ladder
+SYNTHESIS -> CHARACTERIZATION -> LAB FUNCTION
+ANIMAL / GREENHOUSE -> FIELD / CLINICAL STUDY
+SECTORAL REVIEW -> STANDARD / NOTIFICATION / APPROVAL
+MANUFACTURE -> MARKETING -> ADOPTION
+MONITORED OUTCOME -> only dated evidence supports this rung
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Give particle/material identity, size...

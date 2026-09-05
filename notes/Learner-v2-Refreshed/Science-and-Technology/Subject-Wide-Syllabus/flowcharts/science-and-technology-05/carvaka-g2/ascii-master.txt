@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Nuclear-process firewall
+FISSION -> splits heavy nuclei and powers current reactors
+FUSION -> combines light nuclei in experimental systems
+COMMERCIAL STATUS -> fission operating, fusion not deployed
+SHARED WORD NUCLEAR -> does not erase process differences
+RULE -> Topic 05 cannot substitute for Topic 04
+
+ASCII MASTER FLOW — PANEL 2/12: D-T energy map
+DEUTERIUM + TRITIUM -> fusion reaction
+HELIUM-4 / ALPHA -> charged product retained for self-heating
+NEUTRON -> carries most energy out of plasma
+BLANKET -> captures heat and supports fuel functions
+RULE -> particle role controls engineering consequence
+
+ASCII MASTER FLOW — PANEL 3/12: Fusion-condition triangle
+TEMPERATURE -> raises probability of overcoming repulsion
+DENSITY -> supplies reacting particles
+CONFINEMENT TIME -> retains energy long enough
+LAWSON TRIPLE PRODUCT -> all three must combine
+TRAP -> a temperature record alone proves little
+
+ASCII MASTER FLOW — PANEL 4/12: Confinement comparison
+MAGNETIC -> lower density and longer confinement
+TOKAMAK -> torus with strong plasma current
+STELLARATOR -> externally shaped steady-field geometry
+INERTIAL -> dense target and extremely short confinement
+RULE -> approach and device name are not power status
+
+ASCII MASTER FLOW — PANEL 5/12: Breakeven ladder
+PLASMA Q -> fusion power divided by injected heating
+Q ABOVE ONE -> plasma-level scientific threshold
+ENGINEERING Q -> includes recirculating plant loads
+NET ELECTRICITY -> includes thermal conversion and all consumption
+COMMERCIALITY -> adds availability, cost and licensing
+
+ASCII MASTER FLOW — PANEL 6/12: Neutron-to-material chain
+14.1 MeV NEUTRON -> escapes magnetic confinement
+BLANKET -> receives energy and may breed tritium
+STRUCTURE -> displacement damage and transmutation
+ACTIVATION -> radioactive material-management issue
+LIFETIME -> separate engineering feasibility constraint
+
+ASCII MASTER FLOW — PANEL 7/12: Tritium fuel loop
+D-T PLASMA -> consumes tritium
+FUSION NEUTRON -> enters lithium-bearing blanket
+LITHIUM REACTION -> produces new tritium
+EXTRACTION / PROCESSING -> returns usable fuel
+RULE -> a test blanket is not a closed commercial cycle
+
+ASCII MASTER FLOW — PANEL 8/12: Plasma exhaust path
+CORE PLASMA -> creates heat and helium ash
+EDGE TRANSPORT -> moves particles and heat outward
+DIVERTOR -> exhausts impurities and helium
+PLASMA-FACING MATERIAL -> receives extreme heat load
+RULE -> confinement success does not solve exhaust lifetime
+
+ASCII MASTER FLOW — PANEL 9/12: ITER mission card
+UNDER CONSTRUCTION -> experimental international tokamak
+BURNING-PLASMA STUDY -> core scientific purpose
+Q=10 DESIGN -> 500 MW fusion from 50 MW plasma heating
+NO TURBINE -> no conversion to grid electricity
+TEST TECHNOLOGIES -> bridge to later machines
+
+ASCII MASTER FLOW — PANEL 10/12: India-in-ITER map
+INDIA -> one of seven ITER members
+IN-KIND PACKAGES -> specified hardware and systems
+IPR -> DAE-aided plasma-research institute
+ITER-INDIA -> domestic procurement and delivery agency in IPR
+RULE -> membership, institute, agency and package differ
+MUST REMEMBER: Fusion joins light nuclei in a high-temperature plasma; confinement,...
+
+ASCII MASTER FLOW — PANEL 11/12: Domestic research devices
+ADITYA-U -> experimental tokamak and plasma campaigns
+SST-1 -> superconducting long-pulse research platform
+RESEARCH OUTPUT -> diagnostics, control and operating knowledge
+NOT OUTPUT -> commercial fusion electricity
+RULE -> experimental operation is not power generation
+CLOSE DISTINCTION: Plasma Q is not engineering breakeven, tokamak is not stellarator,...
+
+ASCII MASTER FLOW — PANEL 12/12: Fusion-readiness answer spine
+DEFINE -> D-T fusion plasma confinement Lawson and Q
+TRACE -> alpha heating neutron blanket tritium and materials
+SEPARATE -> plasma gain engineering gain and net electricity
+MAP -> ITER India IPR ITER-India ADITYA-U SST-1 and DEMO
+VERIFY -> dated schedule cost contribution and milestone evidence
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State quantity, device, pulse/energy...

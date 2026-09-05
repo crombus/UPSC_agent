@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Aircraft-to-system terminology ladder
+UAV -> aircraft only
+UAS -> aircraft + remote station + C2 + associated elements
+RPAS -> remotely piloted UAS; pilot in command
+DRONE -> colloquial umbrella
+RULE -> unmanned does not mean autonomous
+
+ASCII MASTER FLOW — PANEL 2/12: Integrated UAS architecture
+AIRFRAME + POWER + PROPULSION
+FLIGHT CONTROLLER + NAVIGATION SENSORS
+COMMAND / TELEMETRY / PAYLOAD-DATA LINKS
+REMOTE PILOT STATION OR ONBOARD LOGIC
+PAYLOAD -> mission capability
+
+ASCII MASTER FLOW — PANEL 3/12: Flight-control feedback loop
+COMMAND / PATH -> desired state
+IMU / SENSORS -> measured state
+CONTROLLER -> compare + correct
+ROTORS / CONTROL SURFACES -> physical response
+NEW STATE -> sensed again
+
+ASCII MASTER FLOW — PANEL 4/12: Platform category comparison
+MULTIROTOR -> hover + confined operation | rotor-borne flight
+FIXED-WING -> wider-area coverage | launch/recovery need
+HYBRID VTOL -> vertical access + wing cruise | integration complexity
+PAYLOAD CHANGES -> mass + power + data + control burden
+NO LABEL -> universal range/endurance guarantee
+
+ASCII MASTER FLOW — PANEL 5/12: Human-control continuum
+TELEOPERATION -> human directly commands
+AUTOMATION -> fixed sequence
+AUTONOMY -> senses and selects actions
+AI SUBSYSTEM -> perception/decision support, not legal authority
+ACCOUNTABILITY -> human oversight + defined fallback
+
+ASCII MASTER FLOW — PANEL 6/12: Swarm coordination mesh
+MEMBERS -> multiple aircraft
+LOCALISATION -> self and neighbour state
+COMMUNICATION -> shared task/state information
+CONTROL RULES -> allocation + formation + adaptation
+FAILURE TEST -> link loss or member loss
+
+ASCII MASTER FLOW — PANEL 7/12: VLOS to BVLOS assurance bridge
+VLOS -> pilot maintains unaided visual contact
+BVLOS -> aircraft beyond visual envelope
+BRIDGE -> reliable C2 + navigation + detect-and-avoid
+CONTINGENCY -> lost link + diversion + termination logic
+STATUS -> trial authorisation != routine permission
+
+ASCII MASTER FLOW — PANEL 8/12: Counter-UAS decision funnel
+DETECT -> radar | RF | acoustic | optical
+IDENTIFY / TRACK -> classify and maintain picture
+DECIDE -> authority + proportionality + surroundings
+MITIGATE -> electronic | capture | other authorised response
+LIMIT -> jamming/spoofing can affect legitimate systems
+
+ASCII MASTER FLOW — PANEL 9/12: Civilian application evidence grid
+AGRICULTURE -> monitor / map / spray
+SCIENCE -> volcano / wildlife observation
+GOVERNANCE -> survey / inspection / disaster assessment
+LOGISTICS -> pilot or authorised mission, not blanket service
+EVIDENCE -> imagery + interpretation + field verification
+
+ASCII MASTER FLOW — PANEL 10/12: Safety privacy and liability shield
+ENGINEERING -> airworthiness + maintenance + failsafes
+OPERATIONS -> pilot + weather + route + payload discipline
+DATA -> purpose + access + retention + geospatial sensitivity
+CYBER -> C2/navigation/payload-link resilience
+LIABILITY -> trace operator/software/manufacturer function
+
+ASCII MASTER FLOW — PANEL 11/12: Indian governance responsibility map
+MOCA -> policy / notification
+DGCA -> civil regulation / certification
+AAI / ATC -> airspace and traffic services
+BCAS -> aviation security
+DIGITAL SKY -> workflow platform, not ATC
+
+ASCII MASTER FLOW — PANEL 12/12: Approval-to-outcome status rail
+RULE / AMENDMENT -> legal text
+TYPE CERTIFICATE / UIN / RPC -> distinct compliance conditions
+TRIAL / SCHEME / INCENTIVE -> authorised or supported route
+PROCUREMENT / DELIVERY -> not operational deployment
+DEPLOYMENT -> not verified safety, scale or outcome

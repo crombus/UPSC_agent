@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Data-operation decision board
+BIT / BYTE -> quantity
+ENCODING -> representation
+COMPRESSION -> size
+HASHING -> fixed digest
+ENCRYPTION -> confidentiality with key
+
+ASCII MASTER FLOW — PANEL 2/12: Complete computing stack
+PHYSICAL -> semiconductor + CPU + memory + storage + I/O
+SYSTEM -> firmware + OS + driver + file system
+APPLICATION -> program + database + service
+NETWORK -> protocols + devices + infrastructure
+GOVERNANCE -> security + access + energy + e-waste
+
+ASCII MASTER FLOW — PANEL 3/12: CPU and memory hierarchy
+FETCH -> DECODE -> EXECUTE -> STORE
+REGISTER -> CACHE -> RAM -> SSD/HDD
+FAST / SMALL ----------------> SLOW / LARGE
+PERFORMANCE -> workload + IPC + bandwidth + thermals
+CLOCK RATE ALONE -> insufficient
+
+ASCII MASTER FLOW — PANEL 4/12: Processor and embedded map
+MICROPROCESSOR -> general CPU
+MICROCONTROLLER -> CPU + memory + interfaces
+SoC -> multiple system components
+GPU / ACCELERATOR -> parallel workload
+SENSOR -> measure | PROCESSOR -> compute | ACTUATOR -> act
+
+ASCII MASTER FLOW — PANEL 5/12: Program and execution ladder
+SOURCE -> compiler / interpreter / assembler
+PROGRAM -> PROCESS -> THREAD
+CONCURRENCY -> overlapping progress
+PARALLELISM -> simultaneous execution
+RACE / DEADLOCK -> coordination failures
+
+ASCII MASTER FLOW — PANEL 6/12: Network device and layer map
+APPLICATION -> HTTP | DNS
+TRANSPORT -> TCP | UDP
+INTERNET -> IP + router
+LINK -> Ethernet | Wi-Fi + switch
+PHYSICAL -> electrical | optical | radio
+
+ASCII MASTER FLOW — PANEL 7/12: Internet and Web request flow
+DOMAIN --DNS--> IP ADDRESS
+BROWSER --HTTP/HTTPS--> WEB SERVICE
+TCP/UDP -> transport | IP -> routing
+COOKIE -> browser-held state / identifier
+HTTPS -> protected transport, not truthful content
+
+ASCII MASTER FLOW — PANEL 8/12: Performance and wireless matrix
+BANDWIDTH -> capacity | THROUGHPUT -> achieved rate
+LATENCY -> delay | JITTER -> delay variation
+LTE -> packet cellular | VoLTE -> voice over LTE
+Wi-Fi | Bluetooth | NFC | RFID | VLC -> distinct roles
+WIRELESS LABEL -> no universal range or wall penetration
+
+ASCII MASTER FLOW — PANEL 9/12: Virtualisation and cloud boundary
+VM -> virtual hardware + guest OS
+CONTAINER -> shared host kernel
+ORCHESTRATION -> manages many services
+CLOUD -> five NIST characteristics
+IaaS | PaaS | SaaS -> responsibility shifts
+
+ASCII MASTER FLOW — PANEL 10/12: Data and distributed trade-off
+DATABASE / DBMS -> organised managed data
+ACID -> transaction properties
+REPLICATION -> availability/locality, not backup
+CAP DURING PARTITION -> consistency or availability trade
+EDGE / FOG / CLOUD -> placement by latency and resilience
+MUST REMEMBER: Computing separates hardware, firmware, operating system, application and...
+
+ASCII MASTER FLOW — PANEL 11/12: Ledger claim firewall
+DISTRIBUTED LEDGER -> replicated record
+BLOCKCHAIN -> linked blocks + consensus
+PUBLIC | PRIVATE | CONSORTIUM -> access models
+ORACLE INPUT -> can be false
+NFT / WEB3 / IMMUTABILITY -> conditional claims
+CLOSE DISTINCTION: Bit is not byte, RAM is not storage, core count is not performance,...
+
+ASCII MASTER FLOW — PANEL 12/12: Advanced computing and status rail
+HPC -> processor + accelerator + interconnect + software
+AI -> software capability | SEMICONDUCTOR -> device base
+QUANTUM -> qubits for selected problems
+SECURITY -> confidentiality + integrity + availability
+STANDARD -> DEMO -> DEPLOYMENT -> VERIFIED OUTCOME
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State layer, component, protocol,...

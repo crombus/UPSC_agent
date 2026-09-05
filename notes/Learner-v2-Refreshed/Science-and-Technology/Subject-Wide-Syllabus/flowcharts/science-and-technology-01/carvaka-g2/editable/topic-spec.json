@@ -1,0 +1,1078 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-01",
+  "subject": "Science-and-Technology",
+  "title": "SPACE PROGRAMME: ISRO, ORGANISATION AND LAUNCH VEHICLES",
+  "short_route": "INSTITUTIONAL COMMAND MAP → CENTRE-TO-LAUNCH CHAIN → POLICY AND LAW STACK → LAUNCHER-PAYLOAD SEPARATION → ORBIT VOCABULARY MATRIX → GTO-TO-GEO RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-01\\g2\\science-and-technology-01_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-01-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "79e8e9e94da75095365d185f4434355b0faab4b0ee14c9ed298c4bc9b1b1f93c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INSTITUTIONAL COMMAND MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL COMMAND MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DEPARTMENT OF SPACE",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY UMBRELLA AND SOVEREIGN DIRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC R&D, LAUNCH VEHICLES, SPACECRAFT AND MISSIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROMOTE, AUTHORISE AND SUPERVISE NON-GOVERNMENT ACTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "COMMERCIAL CONTRACTS, SERVICES AND TECHNOLOGY TRANSFER",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTION NAMES ARE NOT INTERCHANGEABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEPARTMENT OF SPACE → policy umbrella and sovereign direction",
+        "ISRO → public R&D, launch vehicles, spacecraft and missions",
+        "IN-SPACe → promote, authorise and supervise non-government activity",
+        "NSIL → commercial contracts, services and technology transfer",
+        "RULE → institution names are not interchangeable"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DEPARTMENT OF SPACE → policy umbrella and sovereign direction",
+            "ISRO → public R&D, launch vehicles, spacecraft and missions"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "IN-SPACe → promote, authorise and supervise non-government activity",
+            "NSIL → commercial contracts, services and technology transfer"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → institution names are not interchangeable",
+            "DEPARTMENT OF SPACE → policy umbrella and sovereign direction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NSIL → commercial contracts, services and technology transfer.",
+      "source_references": [
+        "DoS-ISRO boundary",
+        "IN-SPACe boundary",
+        "NSIL boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CENTRE-TO-LAUNCH CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CENTRE-TO-LAUNCH CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "LAUNCH-VEHICLE DESIGN AND DEVELOPMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "LIQUID PROPULSION AND PROPULSION TESTING ROLES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATION, RANGE AND LAUNCH OPERATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "MISSION CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "FLIGHT MONITORING AND DECISION CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "A CENTRE FUNCTION IS NOT THE WHOLE ISRO MANDATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VSSC → launch-vehicle design and development",
+        "LPSC / IPRC → liquid propulsion and propulsion testing roles",
+        "SDSC-SHAR → integration, range and launch operations",
+        "MISSION CONTROL → flight monitoring and decision chain",
+        "RULE → a centre function is not the whole ISRO mandate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "VSSC → launch-vehicle design and development",
+            "LPSC / IPRC → liquid propulsion and propulsion testing roles"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SDSC-SHAR → integration, range and launch operations",
+            "MISSION CONTROL → flight monitoring and decision chain"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → a centre function is not the whole ISRO mandate",
+            "VSSC → launch-vehicle design and development"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a centre function is not the whole ISRO mandate.",
+      "source_references": [
+        "Centre-function boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "POLICY AND LAW STACK",
+      "structural_type": "layered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POLICY AND LAW STACK",
+          "role": "primary"
+        },
+        {
+          "text": "OUTER-SPACE TREATIES",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL STATE OBLIGATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "INDIAN SPACE POLICY 2023",
+          "role": "evidence"
+        },
+        {
+          "text": "EXECUTIVE ROLE ALLOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "IN-SPACE NORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORISATION AND SUPERVISION INTERFACE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMERCIAL CONTRACT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OUTER-SPACE TREATIES → international State obligations",
+        "INDIAN SPACE POLICY 2023 → executive role allocation",
+        "IN-SPACe NORMS → authorisation and supervision interface",
+        "COMMERCIAL CONTRACT → service and risk allocation",
+        "GAP → policy is not a comprehensive domestic space statute"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "OUTER-SPACE TREATIES → international State obligations",
+            "INDIAN SPACE POLICY 2023 → executive role allocation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "IN-SPACe NORMS → authorisation and supervision interface",
+            "COMMERCIAL CONTRACT → service and risk allocation"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "GAP → policy is not a comprehensive domestic space statute",
+            "OUTER-SPACE TREATIES → international State obligations"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GAP → policy is not a comprehensive domestic space statute.",
+      "source_references": [
+        "Policy-law boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LAUNCHER-PAYLOAD SEPARATION",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAUNCHER-PAYLOAD SEPARATION",
+          "role": "primary"
+        },
+        {
+          "text": "LAUNCH VEHICLE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPLIES ASCENT ENERGY AND GUIDANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PAYLOAD FAIRING",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTS THE MISSION PAYLOAD",
+          "role": "primary"
+        },
+        {
+          "text": "LAUNCHER TASK AND SPACECRAFT TASK DIVERGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CARRIES PAYLOAD AND MAY RAISE OR MAINTAIN ORBIT",
+          "role": "comparison"
+        },
+        {
+          "text": "ROCKET SUCCESS AND SPACECRAFT SERVICE ENTRY ARE SEPARATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAUNCH VEHICLE → supplies ascent energy and guidance",
+        "PAYLOAD FAIRING → protects the mission payload",
+        "SEPARATION → launcher task and spacecraft task diverge",
+        "SPACECRAFT → carries payload and may raise or maintain orbit",
+        "RULE → rocket success and spacecraft service entry are separate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "LAUNCH VEHICLE → supplies ascent energy and guidance",
+            "PAYLOAD FAIRING → protects the mission payload"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEPARATION → launcher task and spacecraft task diverge",
+            "SPACECRAFT → carries payload and may raise or maintain orbit"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → rocket success and spacecraft service entry are separate",
+            "LAUNCH VEHICLE → supplies ascent energy and guidance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → rocket success and spacecraft service entry are separate.",
+      "source_references": [
+        "Launcher-spacecraft boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ORBIT VOCABULARY MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORBIT VOCABULARY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "ALTITUDE CLASS, OFTEN USED BY CREW AND EARTH OBSERVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH-INCLINATION GROUND-TRACK GEOMETRY",
+          "role": "comparison"
+        },
+        {
+          "text": "REPEATED LOCAL-SOLAR-TIME CROSSING",
+          "role": "evidence"
+        },
+        {
+          "text": "ORBITAL PERIOD TIED TO EARTH'S ROTATION",
+          "role": "primary"
+        },
+        {
+          "text": "CIRCULAR EQUATORIAL GEOSYNCHRONOUS SPECIAL CASE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LEO → altitude class, often used by crew and Earth observation",
+        "POLAR → high-inclination ground-track geometry",
+        "SUN-SYNCHRONOUS → repeated local-solar-time crossing",
+        "GSO → orbital period tied to Earth's rotation",
+        "GEO → circular equatorial geosynchronous special case"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "LEO → altitude class, often used by crew and Earth observation",
+          "SUN-SYNCHRONOUS → repeated local-solar-time crossing",
+          "GEO → circular equatorial geosynchronous special case"
+        ],
+        [
+          "POLAR → high-inclination ground-track geometry",
+          "GSO → orbital period tied to Earth's rotation",
+          "LEO → altitude class, often used by crew and Earth observation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "LEO → altitude class, often used by crew and Earth observation",
+            "POLAR → high-inclination ground-track geometry"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SUN-SYNCHRONOUS → repeated local-solar-time crossing",
+            "GSO → orbital period tied to Earth's rotation"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "GEO → circular equatorial geosynchronous special case",
+            "LEO → altitude class, often used by crew and Earth observation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GSO → orbital period tied to Earth's rotation.",
+      "source_references": [
+        "Orbit-family boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GTO-TO-GEO RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GTO-TO-GEO RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "LAUNCHER ASCENT",
+          "role": "outcome"
+        },
+        {
+          "text": "REACHES TRANSFER CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "GTO INJECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "ELLIPTICAL INTERMEDIATE ORBIT",
+          "role": "primary"
+        },
+        {
+          "text": "SPACECRAFT PROPULSION",
+          "role": "outcome"
+        },
+        {
+          "text": "RAISES PERIGEE AND CIRCULARISES",
+          "role": "comparison"
+        },
+        {
+          "text": "GEO SLOT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAUNCHER ASCENT → reaches transfer conditions",
+        "GTO INJECTION → elliptical intermediate orbit",
+        "SPACECRAFT PROPULSION → raises perigee and circularises",
+        "GEO SLOT → circular equatorial final service orbit",
+        "TRAP → GTO delivery is not direct GEO placement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "LAUNCHER ASCENT → reaches transfer conditions",
+            "GTO INJECTION → elliptical intermediate orbit"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPACECRAFT PROPULSION → raises perigee and circularises",
+            "GEO SLOT → circular equatorial final service orbit"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "TRAP → GTO delivery is not direct GEO placement",
+            "LAUNCHER ASCENT → reaches transfer conditions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → GTO delivery is not direct GEO placement.",
+      "source_references": [
+        "GTO-GEO boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "OPERATIONAL LAUNCHER MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OPERATIONAL LAUNCHER MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "VERSATILE WORKHORSE AND MIXED MISSION PROFILES",
+          "role": "outcome"
+        },
+        {
+          "text": "CRYOGENIC UPPER STAGE AND TRANSFER-ORBIT ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "HEAVIER OPERATIONAL CLASS AND HUMAN-RATING BASE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE SMALL-SATELLITE LAUNCH ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "ROLE, PROPULSION, ORBIT AND STATUS MUST TRAVEL TOGETHER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PSLV → versatile workhorse and mixed mission profiles",
+        "GSLV → cryogenic upper stage and transfer-orbit role",
+        "LVM3 → heavier operational class and human-rating base",
+        "SSLV → separate small-satellite launch architecture",
+        "RULE → role, propulsion, orbit and status must travel together"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "PSLV → versatile workhorse and mixed mission profiles",
+          "LVM3 → heavier operational class and human-rating base",
+          "RULE → role, propulsion, orbit and status must travel together"
+        ],
+        [
+          "GSLV → cryogenic upper stage and transfer-orbit role",
+          "SSLV → separate small-satellite launch architecture",
+          "PSLV → versatile workhorse and mixed mission profiles"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "PSLV → versatile workhorse and mixed mission profiles",
+            "GSLV → cryogenic upper stage and transfer-orbit role"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LVM3 → heavier operational class and human-rating base",
+            "SSLV → separate small-satellite launch architecture"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → role, propulsion, orbit and status must travel together",
+            "PSLV → versatile workhorse and mixed mission profiles"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → role, propulsion, orbit and status must travel together.",
+      "source_references": [
+        "PSLV role",
+        "GSLV role",
+        "LVM3 role",
+        "SSLV role"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LINEAGE AND STATUS LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LINEAGE AND STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "EXPERIMENTAL ORBITAL-ACCESS LEARNING",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERMEDIATE TECHNOLOGY-LEARNING STEP",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATIONAL FAMILIES IN OWNER",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVELOPED SMALL-LAUNCH FAMILY WITH DATED STATUS NEEDED",
+          "role": "primary"
+        },
+        {
+          "text": "APPROVED FUTURE DEVELOPMENT, NOT AN OPERATIONAL LAUNCHER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SLV-3 → experimental orbital-access learning",
+        "ASLV → intermediate technology-learning step",
+        "PSLV / GSLV / LVM3 → operational families in owner",
+        "SSLV → developed small-launch family with dated status needed",
+        "NGLV → approved future development, not an operational launcher"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SLV-3 → experimental orbital-access learning",
+            "ASLV → intermediate technology-learning step"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PSLV / GSLV / LVM3 → operational families in owner",
+            "SSLV → developed small-launch family with dated status needed"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "NGLV → approved future development, not an operational launcher",
+            "SLV-3 → experimental orbital-access learning"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NGLV → approved future development, not an operational launcher.",
+      "source_references": [
+        "Lineage-status boundary",
+        "NGLV status boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PROPULSION COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROPULSION COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "STORED PROPELLANT AND LIMITED THROTTLE CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "EARTH-STORABLE LIQUID",
+          "role": "comparison"
+        },
+        {
+          "text": "AMBIENT-TEMPERATURE LIQUID PAIR",
+          "role": "evidence"
+        },
+        {
+          "text": "LIQUID OXYGEN PLUS LIQUID HYDROGEN",
+          "role": "primary"
+        },
+        {
+          "text": "LIQUID OXYGEN PLUS KEROSENE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROPELLANT CLASS DOES NOT PROVE FLIGHT STATUS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOLID → stored propellant and limited throttle control",
+        "EARTH-STORABLE LIQUID → ambient-temperature liquid pair",
+        "CRYOGENIC → liquid oxygen plus liquid hydrogen",
+        "SEMI-CRYOGENIC → liquid oxygen plus kerosene",
+        "RULE → propellant class does not prove flight status"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "SOLID → stored propellant and limited throttle control",
+          "CRYOGENIC → liquid oxygen plus liquid hydrogen",
+          "RULE → propellant class does not prove flight status"
+        ],
+        [
+          "EARTH-STORABLE LIQUID → ambient-temperature liquid pair",
+          "SEMI-CRYOGENIC → liquid oxygen plus kerosene",
+          "SOLID → stored propellant and limited throttle control"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "SOLID → stored propellant and limited throttle control",
+            "EARTH-STORABLE LIQUID → ambient-temperature liquid pair"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CRYOGENIC → liquid oxygen plus liquid hydrogen",
+            "SEMI-CRYOGENIC → liquid oxygen plus kerosene"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → propellant class does not prove flight status",
+            "SOLID → stored propellant and limited throttle control"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → propellant class does not prove flight status.",
+      "source_references": [
+        "Propulsion-class boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "HUMAN-RATING GATE",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HUMAN-RATING GATE",
+          "role": "primary"
+        },
+        {
+          "text": "RELIABLE LAUNCHER",
+          "role": "outcome"
+        },
+        {
+          "text": "NECESSARY BUT INSUFFICIENT BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "MARGINS AND REDUNDANCY",
+          "role": "evidence"
+        },
+        {
+          "text": "TOLERATE SELECTED FAILURES",
+          "role": "primary"
+        },
+        {
+          "text": "HEALTH MONITORING",
+          "role": "outcome"
+        },
+        {
+          "text": "DETECT UNSAFE CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "ABORT CAPABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELIABLE LAUNCHER → necessary but insufficient base",
+        "MARGINS AND REDUNDANCY → tolerate selected failures",
+        "HEALTH MONITORING → detect unsafe conditions",
+        "ABORT CAPABILITY → protect crew across ascent phases",
+        "CERTIFICATION → separate human-rated configuration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "RELIABLE LAUNCHER → necessary but insufficient base",
+            "MARGINS AND REDUNDANCY → tolerate selected failures"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HEALTH MONITORING → detect unsafe conditions",
+            "ABORT CAPABILITY → protect crew across ascent phases"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "CERTIFICATION → separate human-rated configuration",
+            "RELIABLE LAUNCHER → necessary but insufficient base"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ABORT CAPABILITY → protect crew across ascent phases.",
+      "source_references": [
+        "Human-rating boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ACCESS-TO-SPACE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ACCESS-TO-SPACE SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "PROPULSION, STRUCTURE, AVIONICS AND GUIDANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATABLE STAGE AND SUBSYSTEM QUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATION, SAFETY AND LAUNCH WINDOW",
+          "role": "evidence"
+        },
+        {
+          "text": "MISSION ASSURANCE",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFICATION AND ANOMALY CLOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CADENCE AND CUSTOMER CONFIDENCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "VEHICLE → propulsion, structure, avionics and guidance",
+        "FACTORY → repeatable stage and subsystem quality",
+        "PAD / RANGE → integration, safety and launch window",
+        "MISSION ASSURANCE → verification and anomaly closure",
+        "OUTPUT → cadence and customer confidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "VEHICLE → propulsion, structure, avionics and guidance",
+            "FACTORY → repeatable stage and subsystem quality"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "PAD / RANGE → integration, safety and launch window",
+            "MISSION ASSURANCE → verification and anomaly closure"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTPUT → cadence and customer confidence",
+            "VEHICLE → propulsion, structure, avionics and guidance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PAD / RANGE → integration, safety and launch window.",
+      "source_references": [
+        "Launch-system boundary",
+        "Infrastructure-status boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FUTURE-CLAIM FIREWALL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FUTURE-CLAIM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTION, VEHICLE, SPACECRAFT, ORBIT AND SERVICE",
+          "role": "institution"
+        },
+        {
+          "text": "RETIRED, OPERATIONAL, APPROVED OR UNDER CONSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROPULSION, INFRASTRUCTURE, INTEGRATION AND ASSURANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "TECHNOLOGY TRANSFER FROM AUTHORISATION AND SAFETY",
+          "role": "primary"
+        },
+        {
+          "text": "DATED OFFICIAL CAPACITY, SCHEDULE AND OUTCOME SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → institution, vehicle, spacecraft, orbit and service",
+        "CLASSIFY → retired, operational, approved or under construction",
+        "TRACE → propulsion, infrastructure, integration and assurance",
+        "SEPARATE → technology transfer from authorisation and safety",
+        "VERIFY → dated official capacity, schedule and outcome source"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DEFINE → institution, vehicle, spacecraft, orbit and service",
+            "CLASSIFY → retired, operational, approved or under construction"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRACE → propulsion, infrastructure, integration and assurance",
+            "SEPARATE → technology transfer from authorisation and safety"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → dated official capacity, schedule and outcome source",
+            "DEFINE → institution, vehicle, spacecraft, orbit and service"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → dated official capacity, schedule and outcome source.",
+      "source_references": [
+        "Technology-transfer boundary",
+        "Volatile launch-data boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "STRATEGIC R&D ANCHOR AND TECHNOLOGY OWNER FOR LAUNCH-VEHICLE FAMILIES",
+          "role": "outcome"
+        },
+        {
+          "text": "SINGLE-WINDOW NODAL MECHANISM FOR PROMOTING, AUTHORISING AND SUPERVISING SPACE",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMMERCIAL PSU HANDLING LAUNCH SERVICES, SATELLITE SERVICES AND INDUSTRY-LINKED",
+          "role": "evidence"
+        },
+        {
+          "text": "SOVEREIGN POLICY UMBRELLA THAT STILL KEEPS SPACE AS A",
+          "role": "primary"
+        },
+        {
+          "text": "THE REFORM QUESTION IS NOT “STATE VERSUS PRIVATE” BUT",
+          "role": "caution"
+        },
+        {
+          "text": "REMAIN SOVEREIGN, WHICH CAN BE COMMERCIALLY SCALED, AND HOW",
+          "role": "comparison"
+        },
+        {
+          "text": "LAUNCH AUTHORISATION INVOLVES LIABILITY, RANGE SAFETY, EXPORT-CONTROL SENSITIVITY, SPECTRUM/ORBITAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "ISRO: strategic R&D anchor and technology owner for launch-vehicle families and major missions.",
+            "IN-SPACe: single-window nodal mechanism for promoting, authorising and supervising space activities of non-government entities.",
+            "NSIL: commercial PSU handling launch services, satellite services and industry-linked production/commercial arrangements.",
+            "DoS: sovereign policy umbrella that still keeps space as a strategic national capability domain."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: The reform question is not “state versus private” but “which function must",
+            "remain sovereign, which can be commercially scaled, and how risk is supervised.”",
+            "CAUTION: Launch authorisation involves liability, range safety, export-control sensitivity, spectrum/orbital coordination and national-security oversight",
+            "it cannot be treated like ordinary industrial licensing."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Over-centralisation can slow innovation, but under-regulation can create safety and strategic vulnerabilities in a dual-use domain.",
+            "CAUTION: The real success metric is not merely new entrants but whether the",
+            "ecosystem can scale manufacturing, quality assurance and globally credible launch service delivery.",
+            "CAUTION: The unfinished legal question: India regulates private space activity through executive policy (Indian Space Policy 2023) and"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

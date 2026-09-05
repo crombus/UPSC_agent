@@ -1,0 +1,106 @@
+{
+  "record_id": "polity-40:learner-v2:g5",
+  "topic_key": "polity-40",
+  "variant": "learner-v2",
+  "generation": 5,
+  "supersedes": "polity-40:learner-v2:g4",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Official Language — deep-reviewed immutable generation",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g5\\polity-40_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g5\\polity-40_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g5\\polity-40_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g5\\polity-40_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g5\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Official-Language.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\40_Official-Language_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\40_Official-Language.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://legislative.gov.in/",
+      "https://www.indiacode.nic.in/",
+      "https://rajbhasha.gov.in/en/official-language-rules-1976",
+      "https://samiti.rajbhasha.gov.in/"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g5\\polity-40_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-40:learner-v2:g4",
+    "source_hashes": {
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-40\\g5-source\\polity-40_g5-reviewed-source.md": "4b2cea5e540935774787e9be92ff9ce6a9ebafa0448375e4ce509b3fa68cc478",
+      "tools\\deep_content_quality_overrides.json": "d71810eda873d325922f5df08fef14a43c2a4c604ed4e71964a933a3a3669a1f",
+      "upsc-ai-kit\\knowledge\\Polity\\40_Official-Language_Complete-Topic-Package.md": "2b50ab1893e73423c0cada0daac67a4cf8ba5a730b5f787db05ea0418ca9817f",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\40_Official-Language.md": "50c94d098711e508ad6f946ea0e8e1f64ac1f1a090253bb479701f70664b8e20",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Official-Language.md": "420e71a7b2ca1fe532c938afbb95c4a74d99a177d782eff1f4cb6b26414f409f",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-40-2026-08-25-sequential.json": "c60a4c9ec5152b25077d202d9d4b5e289d38511b41ea9b5a786fb67009613820",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-40.json": "2b7f76967ca92bc0c0a41bc071705c08b3b827207eb151ac142dc5fff4c1eb76"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "One verified direct 2024 Prelims PYQ; 36 original MCQs; 12 remedials; 8 solved Mains with answer-specific guidance.",
+    "current_linkage_note": "Constitution, 1963 Act, 1976 Rules and 1973 authoritative-text statute checked to 28 August 2026; volatile counts omitted.",
+    "pyq_status_note": "One direct verified UPSC Prelims 2024 GS-I Set A Q72; no official answer letter inferred where ledger omits it.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 5,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "e0db1ccc754bd49e58e3530d689afe9dfe1a86b52723f04b9db5cf0a5532e041"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-40:learner-v2:g5"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g5\\polity-40_Graphical-Spec-g5.json",
+    "graphical_spec_sha256": "25e0510f0d458710d369c73f2494a303df26c2f47ee61f7f7d5396acee8d3017",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g5\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-40-2026-08-25-sequential.json",
+    "ascii_master_spec_sha256": "c60a4c9ec5152b25077d202d9d4b5e289d38511b41ea9b5a786fb67009613820"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

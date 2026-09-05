@@ -1,0 +1,110 @@
+{
+  "record_id": "polity-52:learner-v2:g3",
+  "topic_key": "polity-52",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "polity-52:learner-v2:g2",
+  "command": "Generate learner-v2 topic: Polity — NCRWC and Working of the Constitution — deep-reviewed immutable g3",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g3\\polity-52_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g3\\polity-52_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g3\\polity-52_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g3\\polity-52_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g3\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-of-Constitution.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY:2024- 2025.md"
+    ],
+    "official_question_sources": [
+      "books\\mains\\02 UPSC 2024 Paper-II.pdf"
+    ],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://legalaffairs.gov.in/national-commission-review-working-constitution-ncrwc-report",
+      "https://legislative.gov.in/constitution-of-india/",
+      "https://upsc.gov.in/examinations/previous-question-papers"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g3\\polity-52_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-52:learner-v2:g2",
+    "source_hashes": {
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md": "c30156a5ab840d0dc0a90c9358410af2da49e33762d3c6529d846634360e4cf6",
+      "tools\\deep_content_quality_overrides.json": "5f63e03700ca2e44c9c76574ec95fcbf5ad04361a4a193ecf8004834a7c50f88",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md": "0b769ea487b70abd55f62a99b7a1afb7a0efb981ba5b588c24a8f98aaed25214",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md": "4f78516acdf1f9f4ff8d3ea9328c699e4b0413c24bb04da85ee835878140c2ed",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-52-2026-08-25-sequential.json": "be165d73264ba879b331b267a26f8e5b632546c7519521d5e5978708969b360c",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-52.json": "aa335f26359923ba35065acba8aea833b82e8f27c8ca79d09975395b4b6b2bd6"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "Four exact supporting Mains PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions with answer-specific guidance.",
+    "current_linkage_note": "Current legal status is controlled through constitutional text, later legal instruments and judgments; similarity is not treated as attribution.",
+    "pyq_status_note": "No direct NCRWC-specific Mains PYQ located; four exact supporting cross-owned routes are clearly labelled.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 5,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "c9c83225a3a2a59a7f4b25a5b40077b2263f69ba1332ee4bc657bdbe9d68c596"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-52:learner-v2:g3"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g3\\polity-52_Graphical-Spec-g3.json",
+    "graphical_spec_sha256": "0715e810864967f9abb12b6450af26e7227be03e4eea163473d8dcbefd08d50e",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-52-2026-08-25-sequential.json",
+    "ascii_master_spec_sha256": "be165d73264ba879b331b267a26f8e5b632546c7519521d5e5978708969b360c"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

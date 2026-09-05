@@ -1,0 +1,24 @@
+{
+  "topic_key": "polity-41",
+  "source_record": "polity-41:learner-v2:g2",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-41\\g3-source\\polity-41_g3-reviewed-source.md": "fcf75197a4c8b1c01e344bbeb2f5034754345ea500ece0b79c0f4ef588a57b8e",
+    "tools\\deep_content_quality_overrides.json": "f7bad7e36f5518330457208b329731ec946ce5a31786f14120e2c9b3e1bad620",
+    "upsc-ai-kit\\knowledge\\Polity\\41_Public-Services_Complete-Topic-Package.md": "19c1cfac920aa692297a2911ea88b4fe24efc778cb791a5bb888eef2e926e5b1",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\41_Public-Services.md": "6775b73f6e1722d7268314e7210ed7624781daf08892035ee4645a885345f8fb",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md": "b3ba97f1d7492608c90a25757eb6e00681b9a1fc4202459c068b751d214a4813",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-41-2026-08-25-sequential.json": "0dacddb3187bd9ee3a96360af24da32b4a4a7f8b01ac38dd75dd93050cd7e9cc",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-41.json": "62994dcce86df039eae08287b1784d23b7deccd3268363868774075e7eede62c"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-41\\g3-source\\polity-41_g3-reviewed-source.md": "fcf75197a4c8b1c01e344bbeb2f5034754345ea500ece0b79c0f4ef588a57b8e",
+    "tools\\deep_content_quality_overrides.json": "f7bad7e36f5518330457208b329731ec946ce5a31786f14120e2c9b3e1bad620",
+    "upsc-ai-kit\\knowledge\\Polity\\41_Public-Services_Complete-Topic-Package.md": "19c1cfac920aa692297a2911ea88b4fe24efc778cb791a5bb888eef2e926e5b1",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\41_Public-Services.md": "6775b73f6e1722d7268314e7210ed7624781daf08892035ee4645a885345f8fb",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md": "b3ba97f1d7492608c90a25757eb6e00681b9a1fc4202459c068b751d214a4813",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-41-2026-08-25-sequential.json": "0dacddb3187bd9ee3a96360af24da32b4a4a7f8b01ac38dd75dd93050cd7e9cc",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-41.json": "62994dcce86df039eae08287b1784d23b7deccd3268363868774075e7eede62c"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

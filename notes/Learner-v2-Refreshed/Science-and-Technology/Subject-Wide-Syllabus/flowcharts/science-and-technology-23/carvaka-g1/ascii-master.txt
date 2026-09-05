@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Cell and organelle map
+PROKARYOTE -> no membrane-bound nucleus or organelles
+EUKARYOTE -> nucleus + compartmental organelles
+RIBOSOME -> protein | MITOCHONDRION -> ATP
+ER + GOLGI -> processing and movement
+PLANT -> cellulose wall + chloroplast + large vacuole
+
+ASCII MASTER FLOW — PANEL 2/12: Membrane transport decision tree
+SOLUTE DOWN GRADIENT -> diffusion
+WATER + SELECTIVE MEMBRANE -> osmosis
+AGAINST GRADIENT + ENERGY -> active transport
+EXTERNAL TONICITY -> cell water response
+TRAP -> movement depends on membrane and gradient
+
+ASCII MASTER FLOW — PANEL 3/12: Cell division comparison
+MITOSIS -> one division -> two similar cells
+ROLE -> growth and repair
+MEIOSIS -> two divisions -> four haploid products
+ROLE -> gametes + variation
+CROSSING OVER != gene editing
+
+ASCII MASTER FLOW — PANEL 4/12: Gene-expression rail
+DNA --replication--> DNA
+DNA --transcription--> mRNA
+mRNA + tRNA + RIBOSOME --translation--> protein
+microRNA -> post-transcriptional regulation
+PROTEIN -> cell structure / enzyme / receptor / signal
+
+ASCII MASTER FLOW — PANEL 5/12: Nutrition and digestion route
+MOUTH -> amylase
+STOMACH -> acid + pepsin
+LIVER / BILE -> fat emulsification
+PANCREAS + INTESTINE -> digestion completion
+SMALL INTESTINE -> principal absorption
+
+ASCII MASTER FLOW — PANEL 6/12: Transport respiration excretion loop
+LUNGS -> alveolar gas exchange
+BLOOD -> gases + nutrients + hormones + wastes
+HEART -> pulmonary + systemic circulation
+CELLS -> ATP-producing respiration
+NEPHRON -> filtration + reabsorption + secretion
+
+ASCII MASTER FLOW — PANEL 7/12: Control and feedback ladder
+RECEPTOR -> change detected
+NERVOUS -> rapid wired response
+ENDOCRINE -> blood-borne hormone response
+TARGET -> physiological adjustment
+NEGATIVE FEEDBACK -> restores regulated range
+
+ASCII MASTER FLOW — PANEL 8/12: Immunity architecture
+BARRIERS + PHAGOCYTES + COMPLEMENT -> innate
+B CELL -> antibody / memory
+T CELL -> helper / cytotoxic / regulatory roles
+REGULATORY T CELL + Foxp3 -> peripheral tolerance
+SELF-REACTIVITY CONTROL != no immune response
+
+ASCII MASTER FLOW — PANEL 9/12: Disease transmission grid
+BACTERIUM | VIRUS | FUNGUS | PROTOZOAN | HELMINTH
+AIR | WATER/FOOD | BLOOD | CONTACT | VECTOR
+VECTOR -> carries pathogen, is not disease
+ZOONOSIS -> animal-human interface
+PREVENTION -> mechanism-specific layers
+
+ASCII MASTER FLOW — PANEL 10/12: Microbial ecology and resistance
+ANTIMICROBIAL PRESSURE -> selection
+RESISTANT MICROBE -> survival + spread
+BIOFILM -> matrix-protected community
+MICROBIOME / PROBIOTIC -> context-dependent roles
+EXTREMOPHILE LABEL -> tolerance, not universal safety
+
+ASCII MASTER FLOW — PANEL 11/12: Plant function flow
+ROOT -> water + mineral uptake
+XYLEM -> upward transport
+LEAF -> stomata + photosynthesis + transpiration
+PHLOEM -> food translocation
+C3 | C4 | CAM -> different carbon-fixation strategies
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ and evidence-status rail
+TAXON / PLANT FORM / SPECIES PROPERTY -> exact classification
+CELLULOSE -> cellulase -> sugars -> microbial metabolism
+RESEARCH -> SURVEILLANCE -> PROGRAMME DELIVERY -> REGULATION
+WHO VALIDATION != pathogen eradication
+MECHANISM / ASSOCIATION / APPROVAL / OUTCOME -> separate rungs

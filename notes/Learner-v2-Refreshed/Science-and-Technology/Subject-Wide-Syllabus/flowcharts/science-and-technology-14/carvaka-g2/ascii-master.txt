@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Breeding and engineering taxonomy
+CONVENTIONAL CROSS -> parental genomes recombine sexually
+HYBRID -> offspring of selected parental lines
+TRANSGENIC -> sexually incompatible donor DNA
+CISGENIC -> intact compatible-pool gene
+INTRAGENIC -> rearranged compatible-pool elements
+
+ASCII MASTER FLOW — PANEL 2/12: Bt cotton mechanism and stewardship
+CRY GENE -> plant expresses Bt protein
+SPECIFIC BOLLWORM FEEDING -> toxic action in susceptible larvae
+SELECTION PRESSURE -> resistant alleles can increase
+REFUGE + STACKING -> slow resistance evolution
+TRAP -> insect resistance is not herbicide tolerance
+
+ASCII MASTER FLOW — PANEL 3/12: DMH-11 construct and status
+BARNASE -> male sterility in one parent
+BARSTAR -> fertility restoration in hybrid
+BAR -> selectable marker
+PURPOSE -> enable hybridisation in mustard
+STATUS -> no commercial-cultivation or settled-legality claim
+
+ASCII MASTER FLOW — PANEL 4/12: CRISPR targeting rail
+GUIDE RNA -> sequence recognition
+TARGET DNA + PAM -> permitted binding context
+CAS9 -> double-strand cleavage
+CELLULAR REPAIR -> creates final edit
+RULE -> targeting tool and repair outcome are distinct
+
+ASCII MASTER FLOW — PANEL 5/12: Editing-outcome matrix
+NHEJ -> template-free indels and knockout
+HDR -> donor-template substitution or insertion
+BASE EDITING -> chemical base conversion without DSB
+PRIME EDITING -> templated short writing without DSB
+TRAP -> precision mechanisms are not interchangeable
+
+ASCII MASTER FLOW — PANEL 6/12: SDN classification ladder
+SDN-1 -> no template; small edit
+SDN-2 -> short template; defined small edit
+SDN-3 -> gene-sized targeted insertion
+2022 LIGHTER TRACK -> SDN-1/2 free of exogenous DNA
+FULL SCRUTINY -> SDN-3 remains outside exemption
+
+ASCII MASTER FLOW — PANEL 7/12: Six-tier biosafety institution map
+RDAC -> recombinant-DNA advice
+IBSC -> institutional day-to-day oversight
+RCGM / DBT -> research and contained stages
+GEAC / MoEF&CC -> environmental release and large-scale use
+SBCC + DLC -> state and district monitoring
+
+ASCII MASTER FLOW — PANEL 8/12: Law and regulator split
+RULES 1989 -> core GMO biosafety framework
+RCGM -> research / contained work
+GEAC -> environmental appraisal
+FSSAI -> GM-food safety approval and labelling track
+ICAR / CROP SYSTEM -> agronomic evaluation and variety processes
+
+ASCII MASTER FLOW — PANEL 9/12: Indian decision timeline
+09 FEB 2010 -> Bt brinjal moratorium
+30 MAR 2022 -> SDN-1/2 exemption OM
+17 MAY 2022 -> DBT genome-edited plant guidelines
+23 JUL 2024 -> Supreme Court DMH-11 split verdict
+04 APR 2025 -> two genome-edited rice varieties announced
+
+ASCII MASTER FLOW — PANEL 10/12: Biosafety mechanism map
+TARGET PEST PRESSURE -> resistance evolution
+POLLEN / SEED MOVEMENT -> gene-flow exposure
+TRAIT EXPRESSION -> non-target exposure pathway
+SIMILAR DNA SITES -> possible off-target edit
+RESPONSE -> characterisation, mitigation and monitoring
+MUST REMEMBER: Genetic engineering changes DNA through defined tools; GM crops and CRISPR...
+
+ASCII MASTER FLOW — PANEL 11/12: Farmer-livelihood evaluation
+TRAIT -> intended agronomic constraint
+FIELD PERFORMANCE -> yield stability and input effect
+FARM ECONOMICS -> seed cost, labour, pesticide and risk
+INSTITUTIONS -> extension, competition, stewardship and markets
+VERDICT -> context-specific welfare, not technique determinism
+CLOSE DISTINCTION: Hybrid is not automatically transgenic, guide RNA is not Cas9,...
+
+ASCII MASTER FLOW — PANEL 12/12: Approval and claim firewall
+LAB RESULT -> bounded molecular proposition
+CONTAINED / FIELD PERMISSION -> trial stage
+ENVIRONMENTAL / FOOD APPROVAL -> separate regulators
+VARIETY RELEASE / SEED ACCESS / CULTIVATION -> separate evidence
+POST-RELEASE MONITORING -> resistance, ecology and farmer outcomes
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State Rules/office-...

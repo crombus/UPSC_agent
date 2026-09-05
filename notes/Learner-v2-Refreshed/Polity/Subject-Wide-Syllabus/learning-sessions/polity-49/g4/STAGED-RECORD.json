@@ -1,0 +1,119 @@
+{
+  "record_id": "polity-49:learner-v2:g4",
+  "topic_key": "polity-49",
+  "variant": "learner-v2",
+  "generation": 4,
+  "supersedes": "polity-49:learner-v2:g3",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Regulatory State and Quasi Judicial Institutions — deep-reviewed immutable g4",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+    ],
+    "official_question_sources": [
+      "books\\more_previous_papers\\CSP_2018_GENERAL_STUDIES_PAPER_I.pdf",
+      "books\\more_previous_papers\\CSP_2021_GENERAL_STUDIES_PAPER_I.pdf",
+      "books\\mains\\02 UPSC 2023 Paper-II.pdf",
+      "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf"
+    ],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://legislative.gov.in/constitution-of-india/",
+      "https://www.indiacode.nic.in/",
+      "https://www.rbi.org.in/",
+      "https://www.sebi.gov.in/",
+      "https://trai.gov.in/",
+      "https://cci.gov.in/",
+      "https://cercind.gov.in/",
+      "https://upsc.gov.in/examinations/previous-question-papers"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-49:learner-v2:g3",
+    "source_hashes": {
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md": "0a4e8e14f592d081271204582ccaa3e23b8e2e56613393ac8e7022ff1a3d14ba",
+      "tools\\deep_content_quality_overrides.json": "28c575b2055ae1223c7844541517d9a50cfd68edccc8ac85dc7eec9f08db7877",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md": "5a2ccb1c69845cc958110d82810378e44600d70ae0619b80931e317a3dc65bb5",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md": "06b5119d2410d5c4602dde2e2cb4ea3c7640f0898a5323ba563c0bc8fdc198ca",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-49-2026-08-25-sequential.json": "cc2a57ae35f83e726fb8ae0c8f79a9249ee45f349ccc04e88c6685e32bdb2d26",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-49.json": "06020dcb0c17a2fadbc0ff72e29d6993db3349746d48462bfb9d3e4a2102c72f"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "Seven exact relevant PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions; eleven answer-specific guidance sets.",
+    "current_linkage_note": "Bills, consultation papers, proposed digital regimes and current organisational claims are dated and separated from operative law.",
+    "pyq_status_note": "Exact 2018 NGT/CPCB, 2018 FSSAI, 2018 tribunal, 2019 scrutiny, 2021 RBI, 2023 CCI and 2025 PNGRB questions are solved.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 5,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "e41cf70d98e0320c83936da9a8860b1ab523f42fb0cebe8903a205ce8d67b65f"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-49:learner-v2:g4"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Graphical-Spec-g4.json",
+    "graphical_spec_sha256": "516299a8f3490737cf637a0a1fece8514d139e7646a1d1fb7b4ee6bcb9de71f7",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g4\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-49-2026-08-25-sequential.json",
+    "ascii_master_spec_sha256": "cc2a57ae35f83e726fb8ae0c8f79a9249ee45f349ccc04e88c6685e32bdb2d26"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

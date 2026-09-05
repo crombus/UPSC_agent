@@ -1,0 +1,139 @@
+{
+  "record_id": "polity-30:learner-v2:g3",
+  "topic_key": "polity-30",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "polity-30:learner-v2:g2",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — GST Council — deep-content repaired immutable generation",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g3\\polity-30_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g3\\polity-30_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g3\\polity-30_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g3\\polity-30_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g3\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\30_GST-Council_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\30_GST-Council.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\README.md",
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+      "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md"
+    ],
+    "official_question_sources": [
+      "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf",
+      "books\\more_previous_papers\\Gen_St_P3.pdf",
+      "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf"
+    ],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://gstcouncil.gov.in/sites/default/files/2025-09/press_release_press_information_bureau.pdf",
+      "https://gstcouncil.gov.in/sites/default/files/2024-02/procedure_conduct_business.pdf",
+      "https://api.sci.gov.in/supremecourt/2020/23083/23083_2020_4_1501_35969_Judgement_19-May-2022.pdf",
+      "https://legislative.gov.in/document/constitution-of-india-in-english"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g3\\polity-30_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-30:learner-v2:g2",
+    "source_hashes": {
+      "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+      "books\\more_previous_papers\\Gen_St_P3.pdf": "c6420fcac1af404aaac1a21441585ed2b2c3955ebf16be1fdedf8cdf4d6f1c1c",
+      "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+      "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf": "ec68c17680e62ba6b523fafdd46b8bc3a082c925b568b47a9aa2c4d6e484a7c2",
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-30\\g3-source\\polity-30_g3-reviewed-source.md": "8dedf335479d1e2ca62ec020b19d50c3b2912fdd0b6cec21b81009450168d74a",
+      "tools\\deep_content_quality_overrides.json": "0d8cac1b8b9a1deb8db7842b57c23f4d9f5fd6f6a39eb96f54bc7031eb7b97e9",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md": "7c231080a1e1b9406aac0c4c5aa6a1c4cdea2cbca1f950552f58a9105ac0cdc5",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+      "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md": "fd99b497c081397790cda792eb40fef958d9d004e47b5e62cfde66d0409d3053",
+      "upsc-ai-kit\\knowledge\\Polity\\30_GST-Council_Complete-Topic-Package.md": "74ba5d19bc26f70e26f6e8a7b0ae73e0b21d77070fb6bcef44205e212a281499",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\30_GST-Council.md": "77420ab4ec3bcdd0e6a62722cbca33a3a0f697213c30761a3f07b2cd70622a8d",
+      "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md": "68abe9583f5eb4811ea8c6faf18c35be5bdc35f2b160b247620c8eb16c60307b",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md": "b8ef1ca97c421b9955916d8c581d5e41fdfd2193a953fc38ade30cb69354b128",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md": "69c2d9b93d9c3e1d297af449567981615a5bc319d03a0a251810dba6f7765060",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md": "02f12770f68dffbce6e94f41c5407ffbfe2e9f2e503241d8b78eb0debba7eebd",
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+      "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+      "upsc-ai-kit\\manifests\\exports\\polity-30-source-pyq-current-audit-2026-08-28.json": "e9877a8328ca327c906bd51bdf7b028ebdaf2c013dd4d85dde7bc72f008fbbf5",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-30-2026-08-24-sequential.json": "1182dcf07303f69d37e888ac7882319b71cc55e62da2af340d83d06176ab0474",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-30.json": "3d55f28941a42548b18a8329397f3fc2117153bdd26151d0319dfd51f8d2e331",
+      "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json": "643f9e9b8fae38244112bb5549fddeffd1e5eed3041e7125b10501ebf4673789",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "One direct Polity PYQ and four verified adjacent routes; 36 hard original MCQs; 12 remedials; 8 original solved Mains; 12 answer-specific guidance pairs.",
+    "current_linkage_note": "Official 56th Council release and GST Council newsletter archive controlled through 28 August 2026; recommendations are separated from notifications and legal effect.",
+    "pyq_status_note": "2023 GS-II direct; 2018 Prelims, 2019/2020 GS-III and 2025 GS-II adjacent routes retained with ownership labels.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 5,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "60e220c6a3a338fbc79f93a53c78a102f90746c1098198c3b8c64363ef9c2f30"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-30:learner-v2:g3"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g3\\polity-30_Graphical-Spec-g3.json",
+    "graphical_spec_sha256": "06e9c04f7e18ad3e2f8772402775b2ecea9352807b7b68857a2db02d50d6dfe6",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-30-2026-08-24-sequential.json",
+    "ascii_master_spec_sha256": "1182dcf07303f69d37e888ac7882319b71cc55e62da2af340d83d06176ab0474"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

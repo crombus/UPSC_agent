@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-47",
+  "source_record": "polity-47:learner-v2:g4",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md": "d80df7fc0259cf7bb5d567934aea7e5d8d92151395987f1252ecf89fa21899f0",
+    "tools\\deep_content_quality_overrides.json": "fe0f030da66e931d24870a8d28d980b316a340a75d429d0e43974ba1f00c4b63",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md": "e680328bb7e046d0178bb6d63319637163f540e5cc618889cd99323993a93bc3",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md": "98726c1bf5fde576ea81c9e5f370ae1fb47318e501df4e856afe885f24872532",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json": "416e9ff33908392c85038a78d2f76befb9fbad314ee277547d4d77ce56bf75d7",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-47.json": "d2cec54e10ea75197f43a3776b8d7758af894b614838f2ccba4170650a51b29b"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md": "d80df7fc0259cf7bb5d567934aea7e5d8d92151395987f1252ecf89fa21899f0",
+    "tools\\deep_content_quality_overrides.json": "fe0f030da66e931d24870a8d28d980b316a340a75d429d0e43974ba1f00c4b63",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md": "e680328bb7e046d0178bb6d63319637163f540e5cc618889cd99323993a93bc3",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md": "98726c1bf5fde576ea81c9e5f370ae1fb47318e501df4e856afe885f24872532",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json": "416e9ff33908392c85038a78d2f76befb9fbad314ee277547d4d77ce56bf75d7",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-47.json": "d2cec54e10ea75197f43a3776b8d7758af894b614838f2ccba4170650a51b29b"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

@@ -1,0 +1,1806 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Vaccines, Monoclonal Antibodies and Biopharma - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 699.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 339.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 72,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 300.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An antigen is a molecular structure recognised by an antibody or T-cell receptor, while an antibody is a B-cell-lineage immunoglobulin that binds a specific epitope; antigen, immunogen, antibody and pathogen are related but non-interchangea",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 294.156
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 213.288
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 108,
+      "heading": "VISUAL FIRST",
+      "preview": "ANTIGENS EPITOPES ANTIBODIES IMMUNOGENS AND IMMUNE RECOGNITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 162,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ANTIGENS EPITOPES ANTIBODIES IMMUNOGENS AND IMMUNE RECOGNITION",
+      "preview": "START / CONCEPT: FOUNDATION — Antigens epitopes antibodies immunogens and immune recognition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 173,
+      "markdown_body_line_end": 173,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Active immunity passive antibodies and antiviral distinction as a sequence: identify Adaptive-immune mechanism, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 192,
+      "heading": "VISUAL FIRST",
+      "preview": "ACTIVE IMMUNITY PASSIVE ANTIBODIES AND ANTIVIRAL DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 245,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ACTIVE IMMUNITY PASSIVE ANTIBODIES AND ANTIVIRAL DISTINCTION",
+      "preview": "START / CONCEPT: FOUNDATION — Active immunity passive antibodies and antiviral distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 282.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 61.691
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 256,
+      "markdown_body_line_end": 256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not reduce adaptive immunity to antibodies while omitting B-cell memory and T cells.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 275,
+      "heading": "VISUAL FIRST",
+      "preview": "B CELLS T CELLS PLASMA CELLS AND IMMUNE MEMORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 328,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - B CELLS T CELLS PLASMA CELLS AND IMMUNE MEMORY",
+      "preview": "START / CONCEPT: FOUNDATION — B cells T cells plasma cells and immune memory",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 339,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Live attenuated and inactivated vaccine platforms as a sequence: identify Subunit-toxoid-VLP-conjugate boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 254.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 173.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 358,
+      "heading": "VISUAL FIRST",
+      "preview": "LIVE ATTENUATED AND INACTIVATED VACCINE PLATFORMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 411,
+      "heading": "CLOSING RECALL FLOW - CORE - LIVE ATTENUATED AND INACTIVATED VACCINE PLATFORMS",
+      "preview": "START / CONCEPT: CORE — Live attenuated and inactivated vaccine platforms",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 422,
+      "markdown_body_line_end": 422,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Subunit toxoid VLP and conjugate vaccine logic as a sequence: identify Vector-mRNA-DNA boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 441,
+      "heading": "VISUAL FIRST",
+      "preview": "SUBUNIT TOXOID VLP AND CONJUGATE VACCINE LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 477,
+      "markdown_body_line_end": 494,
+      "heading": "CLOSING RECALL FLOW - CORE - SUBUNIT TOXOID VLP AND CONJUGATE VACCINE LOGIC",
+      "preview": "START / CONCEPT: CORE — Subunit toxoid VLP and conjugate vaccine logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 98.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 505,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Viral vector mRNA DNA delivery and cellular location as a sequence: identify Adjuvant-and-formulation boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 527,
+      "heading": "VISUAL FIRST",
+      "preview": "VIRAL VECTOR MRNA DNA DELIVERY AND CELLULAR LOCATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 303.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 581,
+      "heading": "CLOSING RECALL FLOW - CORE - VIRAL VECTOR MRNA DNA DELIVERY AND CELLULAR LOCATION",
+      "preview": "START / CONCEPT: CORE — Viral vector mRNA DNA delivery and cellular location",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 516.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 265.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Adjuvants formulation and platform choice as a sequence: identify Hybridoma-recombinant-production boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 611,
+      "heading": "VISUAL FIRST",
+      "preview": "ADJUVANTS FORMULATION AND PLATFORM CHOICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 496.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 664,
+      "heading": "CLOSING RECALL FLOW - CORE - ADJUVANTS FORMULATION AND PLATFORM CHOICE",
+      "preview": "START / CONCEPT: CORE — Adjuvants formulation and platform choice",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 266
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 675,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Monoclonal antibody targets actions and limits as a sequence: identify Antibody-engineering boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 694,
+      "heading": "VISUAL FIRST",
+      "preview": "MONOCLONAL ANTIBODY TARGETS ACTIONS AND LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 747,
+      "heading": "CLOSING RECALL FLOW - CORE - MONOCLONAL ANTIBODY TARGETS ACTIONS AND LIMITS",
+      "preview": "START / CONCEPT: CORE — Monoclonal antibody targets actions and limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 98.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 758,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Hybridoma recombinant cell lines and antibody engineering as a sequence: identify Biopharma-manufacturing chain, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 777,
+      "heading": "VISUAL FIRST",
+      "preview": "HYBRIDOMA RECOMBINANT CELL LINES AND ANTIBODY ENGINEERING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 830,
+      "heading": "CLOSING RECALL FLOW - CORE - HYBRIDOMA RECOMBINANT CELL LINES AND ANTIBODY ENGINEERING",
+      "preview": "START / CONCEPT: CORE — Hybridoma recombinant cell lines and antibody engineering",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 429.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Biopharma upstream downstream fill-finish and batch quality as a sequence: identify Quality-and-scale-up boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 261.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 180.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 856,
+      "markdown_body_line_end": 860,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOPHARMA UPSTREAM DOWNSTREAM FILL-FINISH AND BATCH QUALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 896,
+      "markdown_body_line_end": 913,
+      "heading": "CLOSING RECALL FLOW - CORE - BIOPHARMA UPSTREAM DOWNSTREAM FILL-FINISH AND BATCH QUALITY",
+      "preview": "START / CONCEPT: CORE — Biopharma upstream downstream fill-finish and batch quality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 924,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Cold chain monitoring stability and equitable reach as a sequence: identify Cold-chain boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 375.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 946,
+      "heading": "VISUAL FIRST",
+      "preview": "COLD CHAIN MONITORING STABILITY AND EQUITABLE REACH",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 1000,
+      "heading": "CLOSING RECALL FLOW - CORE - COLD CHAIN MONITORING STABILITY AND EQUITABLE REACH",
+      "preview": "START / CONCEPT: CORE — Cold chain monitoring stability and equitable reach",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 282
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1011,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Preclinical Phase I II III IV and regulatory evidence as a sequence: identify CDSCO-NDCTR boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 353.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 287.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1030,
+      "heading": "VISUAL FIRST",
+      "preview": "PRECLINICAL PHASE I II III IV AND REGULATORY EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1066,
+      "markdown_body_line_end": 1083,
+      "heading": "CLOSING RECALL FLOW - CORE - PRECLINICAL PHASE I II III IV AND REGULATORY EVIDENCE",
+      "preview": "START / CONCEPT: CORE — Preclinical Phase I II III IV and regulatory evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 295.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 64.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1094,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read CDSCO DCGI NDCTR DBT BIRAC ICMR role separation as a sequence: identify DBT-BIRAC-ICMR boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1113,
+      "heading": "VISUAL FIRST",
+      "preview": "CDSCO DCGI NDCTR DBT BIRAC ICMR ROLE SEPARATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 319.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1166,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CDSCO DCGI NDCTR DBT BIRAC ICMR ROLE SEPARATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — CDSCO DCGI NDCTR DBT BIRAC ICMR role separation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 285
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 614.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 373.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1177,
+      "markdown_body_line_end": 1177,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A generic small-molecule medicine is expected to be chemically identical to its reference and can rely heavily on bioequivalence, whereas a biosimilar is highly similar to a reference biologic and requires a stepwise comparability exercise ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 204.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 124.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1199,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOSIMILARS COMPARABILITY AND PHARMACOVIGILANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 601.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1253,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BIOSIMILARS COMPARABILITY AND PHARMACOVIGILANCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Biosimilars comparability and pharmacovigilance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 354
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1264,
+      "markdown_body_line_end": 1264,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Routed PYQs access firewall and biopharma answer spine as a sequence: identify Pharmacovigilance-and-AEFI boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next st",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1286,
+      "heading": "VISUAL FIRST",
+      "preview": "ROUTED PYQS ACCESS FIREWALL AND BIOPHARMA ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1326,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Vaccine science, biologics regulation and India’s biopharma ecosystem. **Grounded in:** CDSCO New Drugs and Clinical Trials ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 586.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1330,
+      "markdown_body_line_end": 1340,
+      "heading": "1. Visual foundation",
+      "preview": "Platform / product | What it contains | What it does in the body | Core exam distinction",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Platform / product",
+          "What it contains",
+          "What it does in the body",
+          "Core exam distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 564.424
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 93.522
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1360,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 43.122
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 88.69
+        }
+      },
+      "pdf_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1439,
+      "markdown_body_line_end": 1439,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s vaccine and biopharma strength depends on combining sound regulation, public biomedical research and scalable biological manufacturing; this requires keeping vaccines and monoclonal antibodies conceptually separat",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 592.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 534.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1471,
+      "markdown_body_line_end": 1488,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ROUTED PYQS ACCESS FIREWALL AND BIOPHARMA ANSWER SPINE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Routed PYQs access firewall and biopharma answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1038
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 634.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 273.491
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2626,
+      "markdown_body_line_end": 2630,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Vaccine platform science, biologics regulation and strategic biopharma capability in India. **Grounded in:** CDSCO New Drugs and Clinica",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 267.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 66.624
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2638,
+      "markdown_body_line_end": 2652,
+      "heading": "2. Visual foundation",
+      "preview": "IMMUNE STRATEGY DIFFERENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 703.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 562.491
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2656,
+      "markdown_body_line_end": 2668,
+      "heading": "3. Essential distinctions",
+      "preview": "Concept | Deeper meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Concept",
+          "Deeper meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 126.29
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2745,
+      "markdown_body_line_end": 2752,
+      "heading": "13. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 441.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 144.09
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2764,
+      "markdown_body_line_end": 2764,
+      "heading": "15. Mains-ready framework",
+      "preview": "**Answer thesis:** India’s biopharma future depends on building a full biological-product ecosystem — scientifically differentiated vaccine and antibody platforms, robust regulation, public research support and scalable manufacturing — rath",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 727.224
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2826,
+      "markdown_body_line_end": 2840,
+      "heading": "Vaccines, Monoclonal Antibodies and Biopharma: TRIAL, REGULATOR, BIOSIMILAR AND SAFETY-SURVEILLANCE FIREWALL",
+      "preview": "DEFINE ANTIGEN EPITOPE ANTIBODY IMMUNOGEN AND PATHOGEN",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 333.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2850,
+      "markdown_body_line_end": 2856,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Immune-object recognition map",
+      "preview": "PATHOGEN / PRODUCT -> contains or presents ANTIGEN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2860,
+      "markdown_body_line_end": 2865,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Active passive antiviral triad",
+      "preview": "VACCINE -> antigen/code -> endogenous response -> memory",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2869,
+      "markdown_body_line_end": 2875,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Adaptive immunity process rail",
+      "preview": "ANTIGEN PRESENTATION -> lymphocyte activation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2879,
+      "markdown_body_line_end": 2885,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Vaccine platform taxonomy",
+      "preview": "WHOLE PATHOGEN -> live attenuated | inactivated",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2889,
+      "markdown_body_line_end": 2895,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Genetic-platform cellular map",
+      "preview": "VIRAL VECTOR -> engineered carrier delivers antigen code",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2899,
+      "markdown_body_line_end": 2905,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Monoclonal antibody production chain",
+      "preview": "B CELL + MYELOMA -> HYBRIDOMA CLONE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 315.491
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2909,
+      "markdown_body_line_end": 2915,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Biopharma manufacturing quality system",
+      "preview": "MASTER / WORKING CELL BANK + RAW MATERIAL CONTROL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2919,
+      "markdown_body_line_end": 2925,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Cold-chain integrity loop",
+      "preview": "VALIDATED STORAGE -> monitored transport -> delivery point",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2929,
+      "markdown_body_line_end": 2935,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Clinical and regulatory ladder",
+      "preview": "PRECLINICAL -> laboratory and animal evidence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2939,
+      "markdown_body_line_end": 2946,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Indian institution router",
+      "preview": "DBT -> biotech policy, missions and research support",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2950,
+      "markdown_body_line_end": 2957,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Biosimilar comparability pyramid",
+      "preview": "FOUNDATION -> extensive analytical and quality comparability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2961,
+      "markdown_body_line_end": 2968,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Biopharma claim and answer firewall",
+      "preview": "DEFINE -> immune mechanism and product category",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 274.691
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    }
+  ]
+}

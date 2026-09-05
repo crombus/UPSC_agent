@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-46",
+  "source_record": "polity-46:learner-v2:g3",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-46\\g3-source\\polity-46_g3-reviewed-source.md": "fd5cd745dfab1930e6b05a7918b80ad1b3d6d16584e8baa9eb0aa6fae116ecef",
+    "tools\\deep_content_quality_overrides.json": "53c86e6aa76e4a158ef337dc1141dd475150c05521a9d9385d09768d5b1c5d00",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md": "38fc86ec34ac6912eefcab823165e8b26fea5fd5431d2c7a35499bc16fa39ad4",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md": "fd5cd745dfab1930e6b05a7918b80ad1b3d6d16584e8baa9eb0aa6fae116ecef",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-46-2026-08-25-sequential.json": "4866e15800a2567e1386fd75b7d921e24f6a002a0b5e75b2cdb2dc21b2e028d0",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-46.json": "42a22e115dca65588369e2b1bbaf3b98b1844727cc1a5c6a2b17043531a05959"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-46\\g3-source\\polity-46_g3-reviewed-source.md": "fd5cd745dfab1930e6b05a7918b80ad1b3d6d16584e8baa9eb0aa6fae116ecef",
+    "tools\\deep_content_quality_overrides.json": "53c86e6aa76e4a158ef337dc1141dd475150c05521a9d9385d09768d5b1c5d00",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md": "38fc86ec34ac6912eefcab823165e8b26fea5fd5431d2c7a35499bc16fa39ad4",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md": "fd5cd745dfab1930e6b05a7918b80ad1b3d6d16584e8baa9eb0aa6fae116ecef",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-46-2026-08-25-sequential.json": "4866e15800a2567e1386fd75b7d921e24f6a002a0b5e75b2cdb2dc21b2e028d0",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-46.json": "42a22e115dca65588369e2b1bbaf3b98b1844727cc1a5c6a2b17043531a05959"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

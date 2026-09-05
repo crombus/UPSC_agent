@@ -1,0 +1,1890 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-22",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "General Science: Chemistry Fundamentals - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 425.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 618.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 311.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 78,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Atomic structure isotopes and periodic trends as a sequence: identify Atomic identity and isotope boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 100,
+      "heading": "VISUAL FIRST",
+      "preview": "ATOMIC STRUCTURE ISOTOPES AND PERIODIC TRENDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 452.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ATOMIC STRUCTURE ISOTOPES AND PERIODIC TRENDS",
+      "preview": "START / CONCEPT: FOUNDATION — Atomic structure isotopes and periodic trends",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 289
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 376.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van d",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 193.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 98.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 184,
+      "heading": "VISUAL FIRST",
+      "preview": "IONIC COVALENT METALLIC BONDING AND FORCE HIERARCHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 623.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 237,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - IONIC COVALENT METALLIC BONDING AND FORCE HIERARCHY",
+      "preview": "START / CONCEPT: FOUNDATION — Ionic covalent metallic bonding and force hierarchy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 403
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 248,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage y",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 335.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 254.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 267,
+      "heading": "VISUAL FIRST",
+      "preview": "MOLE CONCEPT BALANCED EQUATIONS AND LIMITING REAGENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 320,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MOLE CONCEPT BALANCED EQUATIONS AND LIMITING REAGENT",
+      "preview": "START / CONCEPT: FOUNDATION — Mole concept balanced equations and limiting reagent",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 313
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read States of matter phase change and intermolecular forces as a sequence: identify States phase change and intermolecular forces, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 355.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 274.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 350,
+      "heading": "VISUAL FIRST",
+      "preview": "STATES OF MATTER PHASE CHANGE AND INTERMOLECULAR FORCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 403,
+      "heading": "CLOSING RECALL FLOW - CORE - STATES OF MATTER PHASE CHANGE AND INTERMOLECULAR FORCES",
+      "preview": "START / CONCEPT: CORE — States of matter phase change and intermolecular forces",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 414,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Solutions concentration dilution and solubility as a sequence: identify Solutions concentration and solubility boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the ne",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 284.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 429,
+      "markdown_body_line_end": 433,
+      "heading": "VISUAL FIRST",
+      "preview": "SOLUTIONS CONCENTRATION DILUTION AND SOLUBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 486,
+      "heading": "CLOSING RECALL FLOW - CORE - SOLUTIONS CONCENTRATION DILUTION AND SOLUBILITY",
+      "preview": "START / CONCEPT: CORE — Solutions concentration dilution and solubility",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 291
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 291.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 50.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 497,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Acids bases neutralisation and pH - Buffers salts and neutral-point boundary Qualified use: Separate strength, concentration, pH, neutralisation, salt hydrolysis and buffer action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 512,
+      "markdown_body_line_end": 519,
+      "heading": "VISUAL FIRST",
+      "preview": "ACIDS BASES PH BUFFERS SALTS AND NEUTRALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 556,
+      "markdown_body_line_end": 573,
+      "heading": "CLOSING RECALL FLOW - CORE - ACIDS BASES PH BUFFERS SALTS AND NEUTRALISATION",
+      "preview": "START / CONCEPT: CORE — Acids bases pH buffers salts and neutralisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 353
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 516.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 235.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 584,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Redox bookkeeping galvanic cells and electrolysis as a sequence: identify Oxidation reduction and electrochemical cells, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the ne",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 603,
+      "heading": "VISUAL FIRST",
+      "preview": "REDOX BOOKKEEPING GALVANIC CELLS AND ELECTROLYSIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 656,
+      "heading": "CLOSING RECALL FLOW - CORE - REDOX BOOKKEEPING GALVANIC CELLS AND ELECTROLYSIS",
+      "preview": "START / CONCEPT: CORE — Redox bookkeeping galvanic cells and electrolysis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 331
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 667,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Reaction rate catalyst and equilibrium boundary Qualified use: Separate kinetic speed from thermodynamic equilibrium and explain what a catalyst can and cannot change.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 315.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 686,
+      "heading": "VISUAL FIRST",
+      "preview": "REACTION RATE ACTIVATION ENERGY CATALYSIS AND EQUILIBRIUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - CORE - REACTION RATE ACTIVATION ENERGY CATALYSIS AND EQUILIBRIUM",
+      "preview": "START / CONCEPT: CORE — Reaction rate activation energy catalysis and equilibrium",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Organic functional-group classification Qualified use: Use functional groups to classify reactivity while withholding unsupported hazard and legal claims.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 363.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 297.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 769,
+      "heading": "VISUAL FIRST",
+      "preview": "ORGANIC FUNCTIONAL GROUPS AND CLASSIFICATION LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 822,
+      "heading": "CLOSING RECALL FLOW - CORE - ORGANIC FUNCTIONAL GROUPS AND CLASSIFICATION LIMITS",
+      "preview": "START / CONCEPT: CORE — Organic functional groups and classification limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 362
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 833,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheat",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 368.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 287.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 852,
+      "heading": "VISUAL FIRST",
+      "preview": "POLYMERISATION THERMOPLASTICS THERMOSETS AND HYDROGELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 905,
+      "heading": "CLOSING RECALL FLOW - CORE - POLYMERISATION THERMOPLASTICS THERMOSETS AND HYDROGELS",
+      "preview": "START / CONCEPT: CORE — Polymerisation thermoplastics thermosets and hydrogels",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 329
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 916,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Carbon allotropes alloys and material properties - Fuels combustion and gasification boundary Qualified use: Connect structure to material property, then distinguish combustion from gasification and lifecycle appraisal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 355.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 274.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 938,
+      "heading": "VISUAL FIRST",
+      "preview": "CARBON MATERIALS ALLOYS FUELS AND COMBUSTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 992,
+      "heading": "CLOSING RECALL FLOW - CORE - CARBON MATERIALS ALLOYS FUELS AND COMBUSTION",
+      "preview": "START / CONCEPT: CORE — Carbon materials alloys fuels and combustion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 338
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Environmental chemistry ozone gases nutrients and pollutants as a sequence: identify Environmental chemistry compartment map, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 358.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 277.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1022,
+      "heading": "VISUAL FIRST",
+      "preview": "ENVIRONMENTAL CHEMISTRY OZONE GASES NUTRIENTS AND POLLUTANTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1075,
+      "heading": "CLOSING RECALL FLOW - CORE - ENVIRONMENTAL CHEMISTRY OZONE GASES NUTRIENTS AND POLLUTANTS",
+      "preview": "START / CONCEPT: CORE — Environmental chemistry ozone gases nutrients and pollutants",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 283
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1086,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not i",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 284.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1105,
+      "heading": "VISUAL FIRST",
+      "preview": "MEASUREMENT EXPOSURE PRODUCT LABELS AND SAFETY BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1158,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MEASUREMENT EXPOSURE PRODUCT LABELS AND SAFETY BOUNDARIES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Measurement exposure product labels and safety boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 332
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1169,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 302.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1191,
+      "heading": "VISUAL FIRST",
+      "preview": "ROUTED WATER BPA TRICLOSAN AND HYDROGEL DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1245,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ROUTED WATER BPA TRICLOSAN AND HYDROGEL DISTINCTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Routed water BPA triclosan and hydrogel distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 324
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Coal gasification institutions PYQs and evidence ladder as a sequence: identify Coal-gasification routed product boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 349.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 268.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1278,
+      "heading": "VISUAL FIRST",
+      "preview": "COAL GASIFICATION INSTITUTIONS PYQS AND EVIDENCE LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1314,
+      "markdown_body_line_end": 1318,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims *(primarily Prelims-heavy general science)*. **Core area:** Periodicity, bonding, acids-bases-salts, redox, polymers, industrial/fertilizer ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 657.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1330,
+      "heading": "1. Visual foundation",
+      "preview": "atom -> element -> periodic trends -> bonding -> compounds -> reactions",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 635.424
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 554.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1332,
+      "markdown_body_line_end": 1337,
+      "heading": "1. Visual foundation",
+      "preview": "Periodic cue | Broad trend | UPSC use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Periodic cue",
+          "Broad trend",
+          "UPSC use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 554.424
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 445.022
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1343,
+      "markdown_body_line_end": 1356,
+      "heading": "2. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 394.622
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 70.82
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1360,
+      "markdown_body_line_end": 1375,
+      "heading": "2. Essential definitions",
+      "preview": "Area | What must be known",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 14,
+        "headers": [
+          "Area",
+          "What must be known"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 51.62
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 325.49
+        }
+      },
+      "pdf_pages": [
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1450,
+      "markdown_body_line_end": 1450,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** Chemistry fundamentals matter in GS-III because they explain how India handles fertilizers, clean-energy transitions, industrial materials, polymers, extraction of metals and the molecular basis of many health and environ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 402.691
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 343.824
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1483,
+      "markdown_body_line_end": 1500,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - COAL GASIFICATION INSTITUTIONS PYQS AND EVIDENCE LADDER",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Coal gasification institutions PYQs and evidence ladder",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1019
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 396.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 55.691
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2627,
+      "markdown_body_line_end": 2631,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims *(conceptual chemistry with strong policy and industrial relevance)*. **Core area:** Chemical principles as the base of fertilizers, materials, electroc",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 722.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 578.624
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2639,
+      "markdown_body_line_end": 2646,
+      "heading": "2. Visual foundation",
+      "preview": "Chemistry principle | Technology / industry layer | Governance angle",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Chemistry principle",
+          "Technology / industry layer",
+          "Governance angle"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 492.024
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 329.022
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2648,
+      "markdown_body_line_end": 2650,
+      "heading": "2. Visual foundation",
+      "preview": "atomic structure -> bonding -> compound properties -> process chemistry -> industrial system -> policy issue",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 329.022
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 298.022
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2654,
+      "markdown_body_line_end": 2665,
+      "heading": "3. Essential definitions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 528.29
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2725,
+      "markdown_body_line_end": 2729,
+      "heading": "10. CURRENT: Current anchor -> analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 204.691
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 71.69
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2740,
+      "markdown_body_line_end": 2740,
+      "heading": "12. Mains framework / angles",
+      "preview": "**Answer thesis:** Chemistry fundamentals become GS-III material when they are used to explain how India manages fertilizers, electrochemical energy transitions, plastics governance, industrial materials and biomolecular innovation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 704.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 659.624
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2801,
+      "markdown_body_line_end": 2814,
+      "heading": "General Science: Chemistry Fundamentals: CHEMISTRY-TO-APPLICATION ANSWER SPINE",
+      "preview": "FIX ATOMIC NUMBER MASS NUMBER ISOTOPE ISOBAR ISOTONE AND PERIODIC TREND",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 273.491
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 142.491
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2824,
+      "markdown_body_line_end": 2830,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Atom and periodic identity map",
+      "preview": "NUCLEUS -> protons + neutrons",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2834,
+      "markdown_body_line_end": 2840,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Bond and force ladder",
+      "preview": "IONIC -> electron transfer + ion attraction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2844,
+      "markdown_body_line_end": 2850,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Stoichiometric accounting rail",
+      "preview": "WRITE SPECIES -> BALANCE EQUATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2860,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: State and solution matrix",
+      "preview": "SOLID / LIQUID / GAS -> arrangement + mobility + separation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2864,
+      "markdown_body_line_end": 2870,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Acid base buffer control loop",
+      "preview": "ACID DONATES H+ <-> BASE ACCEPTS H+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 264.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2874,
+      "markdown_body_line_end": 2880,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Electrochemical two-cell map",
+      "preview": "OXIDATION -> anode | REDUCTION -> cathode",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2884,
+      "markdown_body_line_end": 2890,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Kinetics versus equilibrium",
+      "preview": "RATE AXIS -> collisions + activation energy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2894,
+      "markdown_body_line_end": 2900,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Organic and polymer family tree",
+      "preview": "FUNCTIONAL GROUPS -> alcohol | aldehyde | ketone | acid | amine | ester",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2904,
+      "markdown_body_line_end": 2910,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Materials structure-property wheel",
+      "preview": "DIAMOND -> tetrahedral network",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2914,
+      "markdown_body_line_end": 2921,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Fuel conversion fault tree",
+      "preview": "COMBUSTION -> oxidation + useful heat + possible pollutants",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2925,
+      "markdown_body_line_end": 2932,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Environmental compartment map",
+      "preview": "STRATOSPHERE -> ozone protective role",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2936,
+      "markdown_body_line_end": 2943,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and policy evidence ladder",
+      "preview": "WATER POLARITY -> many ionic/polar solutes, not every substance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    }
+  ]
+}

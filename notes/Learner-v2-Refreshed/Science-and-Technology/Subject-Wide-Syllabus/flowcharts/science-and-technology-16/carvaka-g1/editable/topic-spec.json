@@ -1,0 +1,1081 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-16",
+  "subject": "Science-and-Technology",
+  "title": "NANOTECHNOLOGY AND APPLICATIONS",
+  "short_route": "NANOSCALE TAXONOMY AND PROPERTY → SURFACE-AREA AND QUANTUM TWIN → FABRICATION ROUTE COMPARISON → NANOMATERIAL GEOMETRY ATLAS → CHARACTERIZATION DECISION TREE → NANOMEDICINE BARRIER RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-16-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "e6a5911c03777ea49cb8f56e63d120b6d2a581cd96f7f15346856d80415834cd",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "NANOSCALE TAXONOMY AND PROPERTY GATEWAY",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NANOSCALE TAXONOMY AND PROPERTY GATEWAY",
+          "role": "primary"
+        },
+        {
+          "text": "1-100 NM",
+          "role": "outcome"
+        },
+        {
+          "text": "FUNCTIONAL SIZE-DEPENDENT BEHAVIOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "3 NANOSCALE DIMENSIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "2 NANOSCALE DIMENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "1 NANOSCALE DIMENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "SURFACE-AREA EFFECT + POSSIBLE QUANTUM EFFECT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1-100 nm → functional size-dependent behaviour",
+        "3 NANOSCALE DIMENSIONS → nanoparticle",
+        "2 NANOSCALE DIMENSIONS → nanotube / nanofibre",
+        "1 NANOSCALE DIMENSION → nanosheet / nanoplate",
+        "GATEWAY → surface-area effect + possible quantum effect"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "1-100 nm → functional size-dependent behaviour",
+            "3 NANOSCALE DIMENSIONS → nanoparticle"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "2 NANOSCALE DIMENSIONS → nanotube / nanofibre",
+            "1 NANOSCALE DIMENSION → nanosheet / nanoplate"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "GATEWAY → surface-area effect + possible quantum effect",
+            "1-100 nm → functional size-dependent behaviour"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GATEWAY → surface-area effect + possible quantum effect.",
+      "source_references": [
+        "Nanoscale and object boundary",
+        "Surface-area mechanism",
+        "Quantum-size mechanism"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SURFACE-AREA AND QUANTUM TWIN ENGINE",
+      "structural_type": "dual-mechanism",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SURFACE-AREA AND QUANTUM TWIN ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "SMALLER SIZE",
+          "role": "outcome"
+        },
+        {
+          "text": "LARGER RELATIVE SURFACE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUFFICIENT CONFINEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ALTERED STATES",
+          "role": "primary"
+        },
+        {
+          "text": "BAND GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "OPTICAL OR ELECTRONIC SHIFT",
+          "role": "comparison"
+        },
+        {
+          "text": "MATERIAL + SIZE + SURFACE CHEMISTRY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SMALLER SIZE → larger relative surface → adsorption / catalysis / reactivity",
+        "SUFFICIENT CONFINEMENT → altered states / band gap → optical or electronic shift",
+        "MATERIAL + SIZE + SURFACE CHEMISTRY → actual behaviour",
+        "TRAP → nano is neither an automatic benefit nor safety verdict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SMALLER SIZE → larger relative surface → adsorption / catalysis / reactivity",
+            "SUFFICIENT CONFINEMENT → altered states / band gap → optical or electronic shift"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "MATERIAL + SIZE + SURFACE CHEMISTRY → actual behaviour",
+            "TRAP → nano is neither an automatic benefit nor safety verdict"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SMALLER SIZE → larger relative surface → adsorption / catalysis / reactivity",
+            "SUFFICIENT CONFINEMENT → altered states / band gap → optical or electronic shift"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → nano is neither an automatic benefit nor safety verdict.",
+      "source_references": [
+        "Surface-area mechanism",
+        "Quantum-size mechanism"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FABRICATION ROUTE COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FABRICATION ROUTE COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "PATTERNED STRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMED STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "TOP-DOWN LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "FEATURE CONSTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "BOTTOM-UP LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "COMMON TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "REPRODUCIBILITY AND SCALE-UP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TOP-DOWN → bulk → lithography / etching / milling → patterned structure",
+        "BOTTOM-UP → atoms / molecules → self-assembly / sol-gel / CVD → formed structure",
+        "TOP-DOWN LIMIT → waste / defects / feature constraint",
+        "BOTTOM-UP LIMIT → aggregation / uniformity / purification",
+        "COMMON TEST → reproducibility and scale-up"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "TOP-DOWN → bulk → lithography / etching / milling → patterned structure",
+          "TOP-DOWN LIMIT → waste / defects / feature constraint",
+          "COMMON TEST → reproducibility and scale-up"
+        ],
+        [
+          "BOTTOM-UP → atoms / molecules → self-assembly / sol-gel / CVD → formed structure",
+          "BOTTOM-UP LIMIT → aggregation / uniformity / purification",
+          "TOP-DOWN → bulk → lithography / etching / milling → patterned structure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "TOP-DOWN → bulk → lithography / etching / milling → patterned structure",
+            "BOTTOM-UP → atoms / molecules → self-assembly / sol-gel / CVD → formed structure"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TOP-DOWN LIMIT → waste / defects / feature constraint",
+            "BOTTOM-UP LIMIT → aggregation / uniformity / purification"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMON TEST → reproducibility and scale-up",
+            "TOP-DOWN → bulk → lithography / etching / milling → patterned structure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOTTOM-UP LIMIT → aggregation / uniformity / purification.",
+      "source_references": [
+        "Top-down fabrication",
+        "Bottom-up fabrication"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NANOMATERIAL GEOMETRY ATLAS",
+      "structural_type": "morphology-atlas",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "NANOMATERIAL GEOMETRY ATLAS",
+          "role": "primary"
+        },
+        {
+          "text": "THREE NANOSCALE EXTERNAL DIMENSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CYLINDRICAL CARBON NANOSTRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SINGLE-ATOM-THICK HEXAGONAL CARBON SHEET",
+          "role": "evidence"
+        },
+        {
+          "text": "QUANTUM DOT",
+          "role": "primary"
+        },
+        {
+          "text": "SIZE-TUNABLE SEMICONDUCTOR NANOCRYSTAL",
+          "role": "outcome"
+        },
+        {
+          "text": "NANOSCALE PHASE MODIFIES BULK MATRIX",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PARTICLE → three nanoscale external dimensions",
+        "CNT → cylindrical carbon nanostructure",
+        "GRAPHENE → single-atom-thick hexagonal carbon sheet",
+        "QUANTUM DOT → size-tunable semiconductor nanocrystal",
+        "NANOCOMPOSITE → nanoscale phase modifies bulk matrix"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PARTICLE → three nanoscale external dimensions",
+            "CNT → cylindrical carbon nanostructure"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "GRAPHENE → single-atom-thick hexagonal carbon sheet",
+            "QUANTUM DOT → size-tunable semiconductor nanocrystal"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "NANOCOMPOSITE → nanoscale phase modifies bulk matrix",
+            "PARTICLE → three nanoscale external dimensions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUANTUM DOT → size-tunable semiconductor nanocrystal; NANOCOMPOSITE → nanoscale phase modifies bulk matrix.",
+      "source_references": [
+        "Carbon-form and nanoparticle distinction",
+        "Quantum-dot and nanocomposite distinction"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CHARACTERIZATION DECISION TREE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CHARACTERIZATION DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "SURFACE MORPHOLOGY?",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNAL STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "NANOSCALE DIMENSION?",
+          "role": "evidence"
+        },
+        {
+          "text": "PROBE-TRACED TOPOGRAPHY?",
+          "role": "primary"
+        },
+        {
+          "text": "CRYSTALLINE PHASE?",
+          "role": "outcome"
+        },
+        {
+          "text": "DISPERSION SIZE",
+          "role": "comparison"
+        },
+        {
+          "text": "DLS + ZETA POTENTIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SURFACE MORPHOLOGY? → SEM",
+        "INTERNAL STRUCTURE / NANOSCALE DIMENSION? → TEM",
+        "PROBE-TRACED TOPOGRAPHY? → AFM",
+        "CRYSTALLINE PHASE? → XRD",
+        "DISPERSION SIZE / STABILITY? → DLS + zeta potential"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SURFACE MORPHOLOGY? → SEM",
+            "INTERNAL STRUCTURE / NANOSCALE DIMENSION? → TEM"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "PROBE-TRACED TOPOGRAPHY? → AFM",
+            "CRYSTALLINE PHASE? → XRD"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DISPERSION SIZE / STABILITY? → DLS + zeta potential",
+            "SURFACE MORPHOLOGY? → SEM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISPERSION SIZE / STABILITY? → DLS + zeta potential.",
+      "source_references": [
+        "Microscopy and structure characterization",
+        "Dispersion and surface characterization"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NANOMEDICINE BARRIER RAIL",
+      "structural_type": "barrier-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NANOMEDICINE BARRIER RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "CIRCULATION AND RELEASE PROFILE",
+          "role": "outcome"
+        },
+        {
+          "text": "PASSIVE ACCUMULATION OR LIGAND INTERACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "BIOLOGICAL BARRIERS",
+          "role": "evidence"
+        },
+        {
+          "text": "INTRACELLULAR SITE",
+          "role": "primary"
+        },
+        {
+          "text": "DELIVERY EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CARGO → encapsulation / protection",
+        "CARRIER → circulation and release profile",
+        "TARGETING → passive accumulation or ligand interaction",
+        "BIOLOGICAL BARRIERS → tissue → cell → intracellular site",
+        "STATUS → delivery evidence != approval / superiority / safety"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CARGO → encapsulation / protection",
+            "CARRIER → circulation and release profile"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "TARGETING → passive accumulation or ligand interaction",
+            "BIOLOGICAL BARRIERS → tissue → cell → intracellular site"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS → delivery evidence != approval / superiority / safety",
+            "CARGO → encapsulation / protection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → delivery evidence != approval / superiority / safety.",
+      "source_references": [
+        "Nanomedicine delivery boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AGRICULTURE VALUE CHAIN",
+      "structural_type": "farm-value-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AGRICULTURE VALUE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SEED COATING",
+          "role": "outcome"
+        },
+        {
+          "text": "FARM DECISION OR DELIVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "FIELD EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DOSE, CROP, SOIL, WEATHER AND FORMULATION",
+          "role": "primary"
+        },
+        {
+          "text": "COST + EXTENSION + CREDIT",
+          "role": "outcome"
+        },
+        {
+          "text": "ADOPTION BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "INPUT LOSS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NANO-INPUT / SENSOR / SEED COATING → farm decision or delivery",
+        "FIELD EVIDENCE → dose, crop, soil, weather and formulation",
+        "COST + EXTENSION + CREDIT → adoption boundary",
+        "INPUT LOSS / SPOILAGE / STRESS DETECTION → possible income channel",
+        "VERDICT → socio-economic uplift must be demonstrated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "NANO-INPUT / SENSOR / SEED COATING → farm decision or delivery",
+            "FIELD EVIDENCE → dose, crop, soil, weather and formulation"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COST + EXTENSION + CREDIT → adoption boundary",
+            "INPUT LOSS / SPOILAGE / STRESS DETECTION → possible income channel"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "VERDICT → socio-economic uplift must be demonstrated",
+            "NANO-INPUT / SENSOR / SEED COATING → farm decision or delivery"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INPUT LOSS / SPOILAGE / STRESS DETECTION → possible income channel.",
+      "source_references": [
+        "Agricultural application map",
+        "Farmer-uplift and product-status boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WATER AND ENVIRONMENT TREATMENT LOOP",
+      "structural_type": "treatment-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WATER AND ENVIRONMENT TREATMENT LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "SYSTEM TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTIVITY + FOULING + ENERGY",
+          "role": "comparison"
+        },
+        {
+          "text": "REGENERATION OR SPENT-MATERIAL CAPTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "LIFECYCLE CHECK",
+          "role": "primary"
+        },
+        {
+          "text": "SECONDARY NANOPARTICLE RELEASE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAB REMOVAL",
+          "role": "comparison"
+        },
+        {
+          "text": "FIELD DEPLOYMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONTAMINANT → detection / adsorption / membrane / photocatalysis",
+        "SYSTEM TEST → selectivity + fouling + energy",
+        "RECOVERY → regeneration or spent-material capture",
+        "LIFECYCLE CHECK → secondary nanoparticle release",
+        "BOUNDARY → lab removal != field deployment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CONTAMINANT → detection / adsorption / membrane / photocatalysis",
+            "SYSTEM TEST → selectivity + fouling + energy"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "RECOVERY → regeneration or spent-material capture",
+            "LIFECYCLE CHECK → secondary nanoparticle release"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → lab removal != field deployment",
+            "CONTAMINANT → detection / adsorption / membrane / photocatalysis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYSTEM TEST → selectivity + fouling + energy.",
+      "source_references": [
+        "Water and environmental application",
+        "Ecotoxicology and lifecycle boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ELECTRONICS ENERGY MATERIALS MATRIX",
+      "structural_type": "application-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ELECTRONICS ENERGY MATERIALS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CONDUCTIVE AND STRUCTURAL RESEARCH",
+          "role": "outcome"
+        },
+        {
+          "text": "QUANTUM DOT",
+          "role": "comparison"
+        },
+        {
+          "text": "SENSING RESEARCH",
+          "role": "evidence"
+        },
+        {
+          "text": "COATINGS AND LIGHTWEIGHT-STRENGTH MODIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "NANOSTRUCTURED ELECTRODE",
+          "role": "outcome"
+        },
+        {
+          "text": "STORAGE AND CONVERSION INTERFACES",
+          "role": "comparison"
+        },
+        {
+          "text": "CERTIFIED MANUFACTURABLE PRODUCT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GRAPHENE / CNT → conductive and structural research",
+        "QUANTUM DOT → optical / display / sensing research",
+        "NANOCOMPOSITE → coatings and lightweight-strength modification",
+        "NANOSTRUCTURED ELECTRODE → storage and conversion interfaces",
+        "BOUNDARY → property != certified manufacturable product"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "GRAPHENE / CNT → conductive and structural research",
+          "NANOCOMPOSITE → coatings and lightweight-strength modification",
+          "BOUNDARY → property != certified manufacturable product"
+        ],
+        [
+          "QUANTUM DOT → optical / display / sensing research",
+          "NANOSTRUCTURED ELECTRODE → storage and conversion interfaces",
+          "GRAPHENE / CNT → conductive and structural research"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "GRAPHENE / CNT → conductive and structural research",
+            "QUANTUM DOT → optical / display / sensing research"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NANOCOMPOSITE → coatings and lightweight-strength modification",
+            "NANOSTRUCTURED ELECTRODE → storage and conversion interfaces"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → property != certified manufacturable product",
+            "GRAPHENE / CNT → conductive and structural research"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUANTUM DOT → optical / display / sensing research.",
+      "source_references": [
+        "Electronics energy and materials application",
+        "Cross-topic and additive-manufacturing boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIAN NANO INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIAN NANO INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "DST NPNST",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLIER NANO MISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC R&D ARCHITECTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "INST MOHALI",
+          "role": "primary"
+        },
+        {
+          "text": "DST AUTONOMOUS NANOSCIENCE INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "CSIR LABS",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSS-SECTOR TRANSLATIONAL CAPABILITY ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DST NPNST / EARLIER NANO MISSION → public R&D architecture",
+        "INST MOHALI → DST autonomous nanoscience institution",
+        "CSIR LABS → cross-sector translational capability route",
+        "MeitY-LINKED NANOELECTRONICS → device / semiconductor bridge",
+        "FIREWALL → page / call / event != programme outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DST NPNST / EARLIER NANO MISSION → public R&D architecture",
+            "INST MOHALI → DST autonomous nanoscience institution"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CSIR LABS → cross-sector translational capability route",
+            "MeitY-LINKED NANOELECTRONICS → device / semiconductor bridge"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "FIREWALL → page / call / event != programme outcome",
+            "DST NPNST / EARLIER NANO MISSION → public R&D architecture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FIREWALL → page / call / event != programme outcome.",
+      "source_references": [
+        "Indian institution and programme boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TOXICITY AND ECOTOXICITY EXPOSURE WEB",
+      "structural_type": "exposure-web",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TOXICITY AND ECOTOXICITY EXPOSURE WEB",
+          "role": "primary"
+        },
+        {
+          "text": "SIZE + SHAPE + COATING + SOLUBILITY + AGGREGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DOSE + ROUTE + DURATION + SUSCEPTIBLE SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSFORMATION + MOBILITY + PERSISTENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ORGANISM EFFECTS + FOOD-WEB TRANSFER + BIOACCUMULATION",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL- AND USE-SPECIFIC EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MATERIAL → size + shape + coating + solubility + aggregation",
+        "EXPOSURE → dose + route + duration + susceptible system",
+        "ENVIRONMENT → transformation + mobility + persistence",
+        "ECOLOGY → organism effects + food-web transfer + bioaccumulation",
+        "RULE → material- and use-specific evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MATERIAL → size + shape + coating + solubility + aggregation",
+            "EXPOSURE → dose + route + duration + susceptible system"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ENVIRONMENT → transformation + mobility + persistence",
+            "ECOLOGY → organism effects + food-web transfer + bioaccumulation"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → material- and use-specific evidence",
+            "MATERIAL → size + shape + coating + solubility + aggregation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ECOLOGY → organism effects + food-web transfer + bioaccumulation.",
+      "source_references": [
+        "Nanotoxicology boundary",
+        "Ecotoxicology and lifecycle boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "REGULATORY AND EVIDENCE STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "REGULATORY AND EVIDENCE STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "LAB FUNCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CLINICAL STUDY",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTORAL REVIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "MONITORED OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "ONLY DATED EVIDENCE SUPPORTS THIS RUNG",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SYNTHESIS → CHARACTERIZATION → LAB FUNCTION",
+        "ANIMAL / GREENHOUSE → FIELD / CLINICAL STUDY",
+        "SECTORAL REVIEW → STANDARD / NOTIFICATION / APPROVAL",
+        "MANUFACTURE → MARKETING → ADOPTION",
+        "MONITORED OUTCOME → only dated evidence supports this rung"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SYNTHESIS → CHARACTERIZATION → LAB FUNCTION",
+            "ANIMAL / GREENHOUSE → FIELD / CLINICAL STUDY"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECTORAL REVIEW → STANDARD / NOTIFICATION / APPROVAL",
+            "MANUFACTURE → MARKETING → ADOPTION"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "MONITORED OUTCOME → only dated evidence supports this rung",
+            "SYNTHESIS → CHARACTERIZATION → LAB FUNCTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MONITORED OUTCOME → only dated evidence supports this rung.",
+      "source_references": [
+        "Regulation standards and metrology boundary",
+        "Evidence and status ladder",
+        "Cross-topic and additive-manufacturing boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE CRUCIAL DISTINCTION IS BETWEEN DISCOVERING A NANOSCALE EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "MANY NANO-APPLICATIONS ARE SYSTEM-LEVEL TECHNOLOGIES",
+          "role": "comparison"
+        },
+        {
+          "text": "THE NANOMATERIAL ALONE IS NOT THE PRODUCT",
+          "role": "caution"
+        },
+        {
+          "text": "THE DELIVERY SYSTEM, COATING, MEMBRANE OR DEVICE ARCHITECTURE MATTERS.",
+          "role": "primary"
+        },
+        {
+          "text": "NANOELECTRONICS LINKS NANOTECHNOLOGY WITH THE SEMICONDUCTOR ECOSYSTEM, WHICH RAISES",
+          "role": "outcome"
+        },
+        {
+          "text": "DST NPNST",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLIER NANO MISSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The crucial distinction is between discovering a nanoscale effect and commercially reproducing it with safety and quality control .",
+            "CAUTION: Many nano-applications are system-level technologies: the nanomaterial alone is not the product",
+            "the delivery system, coating, membrane or device architecture matters.",
+            "CAUTION: Nanoelectronics links nanotechnology with the semiconductor ecosystem, which raises strategic relevance beyond pure academic science."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DST NPNST / earlier Nano Mission: central public R&D architecture.",
+            "INST, Mohali: dedicated national nanoscience institution under DST umbrella support.",
+            "CSIR network laboratories: relevant for translational materials, sensor, ceramics, electronics and process-development work.",
+            "MeitY-linked nanoelectronics efforts: important where nanotechnology converges with semiconductor strategy and deep-tech startups."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Medicine: targeted delivery, diagnostics, imaging and nano-enabled materials for health technologies.",
+            "Agriculture: nano-fertilizers, input-efficiency tools and sensor-based monitoring.",
+            "Energy: better electrodes, storage materials, supercapacitors and solar-cell interfaces.",
+            "Water/environment: filtration, adsorption, remediation and contaminant sensing."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Fission-to-grid chain
+FISSION -> heavy nucleus splits and releases heat plus neutrons
+COOLANT -> removes core heat
+STEAM SYSTEM -> converts heat into working-fluid energy
+TURBINE-GENERATOR -> produces electricity
+RULE -> reactor capacity is not electricity generated
+
+ASCII MASTER FLOW — PANEL 2/12: Criticality milestone ladder
+SUBCRITICAL -> chain reaction declines
+FIRST CRITICALITY -> controlled self-sustaining reaction begins
+POWER ASCENSION -> tested increase toward rated conditions
+GRID SYNCHRONISATION -> generator connects to grid
+COMMERCIAL OPERATION -> later declared operating status
+
+ASCII MASTER FLOW — PANEL 3/12: Core-control function map
+CONTROL RODS -> absorb neutrons and regulate reactivity
+MODERATOR -> slows neutrons in a thermal reactor
+COOLANT -> transfers heat out of the core
+CONTAINMENT -> barrier against radioactive release
+RULE -> four functions, four different answers
+
+ASCII MASTER FLOW — PANEL 4/12: Thermal-fast comparison
+THERMAL REACTOR -> moderated slower-neutron spectrum
+FAST REACTOR -> no moderator and fast-neutron spectrum
+PHWR -> heavy-water moderated Stage-1 workhorse
+FBR -> breeding objective with fertile blanket
+RULE -> coolant alone does not define the spectrum
+
+ASCII MASTER FLOW — PANEL 5/12: Fissile-fertile conversion map
+U-235 / PU-239 / U-233 -> fissile materials
+U-238 -> neutron capture -> PU-239 pathway
+TH-232 -> neutron capture and decay -> U-233 pathway
+FERTILE MATERIAL -> needs irradiation and conversion
+RULE -> resource abundance is not ready reactor fuel
+
+ASCII MASTER FLOW — PANEL 6/12: Three-stage programme rail
+STAGE 1 -> PHWR, natural uranium and plutonium-bearing spent fuel
+REPROCESSING -> separates material for the breeder bridge
+STAGE 2 -> fast breeder and fissile-inventory multiplication
+THORIUM IRRADIATION -> prepares U-233 route
+STAGE 3 -> long-term thorium-U-233 utilisation horizon
+
+ASCII MASTER FLOW — PANEL 7/12: PFBR status card
+DESIGN -> IGCAR fast-reactor and sodium expertise
+BUILD / COMMISSION -> BHAVINI project responsibility
+RATING -> 500 MWe design value in fetched DAE text
+6 APRIL 2026 -> first criticality achieved
+NOT ESTABLISHED -> grid synchronisation or commercial operation
+
+ASCII MASTER FLOW — PANEL 8/12: Closed fuel-cycle loop
+REACTOR IRRADIATION -> changes isotopic composition
+COOLING / HANDLING -> manages heat and radiation
+REPROCESSING -> separates reusable fissile material
+REMOTE FABRICATION -> prepares new fuel
+REUSE / WASTE -> closes material accounting loop
+
+ASCII MASTER FLOW — PANEL 9/12: Institutional separation
+DAE -> governmental policy and strategic umbrella
+BARC -> reactor and fuel-cycle R&D
+NPCIL -> commercial civilian plant developer and operator
+AERB -> safety review and regulatory oversight
+RULE -> promoter, laboratory, operator and regulator differ
+
+ASCII MASTER FLOW — PANEL 10/12: Fuel-and-project chain
+UCIL -> uranium mining and milling
+NFC -> fuel and reactor-component fabrication
+IREL -> monazite, thorium and rare-earth processing link
+IGCAR -> fast-reactor design and sodium R&D
+BHAVINI -> PFBR project execution and operation
+MUST REMEMBER: Fission splits heavy nuclei and is controlled through fuel, moderator,...
+
+ASCII MASTER FLOW — PANEL 11/12: Reactor taxonomy
+PHWR -> heavy water and natural-uranium Stage-1 role
+PWR / BWR -> light-water systems with different steam cycles
+FBR -> fast spectrum and breeding objective
+AHWR / SMALL-REACTOR LINES -> design or development status
+RULE -> type and deployment status must be stated together
+CLOSE DISTINCTION: Fissile is not fertile, enrichment is not reprocessing, heavy water is...
+
+ASCII MASTER FLOW — PANEL 12/12: Nuclear answer spine
+DEFINE -> fission, criticality, fissile, fertile and fuel cycle
+TRACE -> Stage 1, plutonium bridge, Stage 2 and thorium horizon
+MAP -> DAE BARC NPCIL AERB IGCAR BHAVINI and fuel chain
+SEPARATE -> capacity criticality grid generation and legal status
+VERIFY -> dated fleet fuel reactor law cost and schedule evidence
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Trace PHWR uranium, fast-breeder...

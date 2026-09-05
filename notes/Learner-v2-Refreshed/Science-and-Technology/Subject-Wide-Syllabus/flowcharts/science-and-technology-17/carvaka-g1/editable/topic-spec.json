@@ -1,0 +1,1064 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-17",
+  "subject": "Science-and-Technology",
+  "title": "INTELLECTUAL PROPERTY RIGHTS AND PATENTS",
+  "short_route": "PATENTABILITY DECISION TREE → DISCOVERY INVENTION PRODUCT PROCESS → TERM AND TERRITORIALITY MAP → INDIAN PATENT PROCEDURE RAIL → INSTITUTION AND FORUM ROUTER → PUBLIC-INTEREST SAFEGUARD LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-17-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "53d6166ff9915cb770ffd540807c86ba5bfbb4842e15fbbce8eefe31ac433014",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PATENTABILITY DECISION TREE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PATENTABILITY DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "CLAIMED SUBJECT MATTER",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCT OR PROCESS?",
+          "role": "mechanism"
+        },
+        {
+          "text": "ABSENT FROM PRIOR ART",
+          "role": "evidence"
+        },
+        {
+          "text": "INVENTIVE STEP",
+          "role": "primary"
+        },
+        {
+          "text": "NON-OBVIOUS TECHNICAL ADVANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC SIGNIFICANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDUSTRIAL APPLICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLAIMED SUBJECT MATTER → product or process?",
+        "NOVELTY → absent from prior art",
+        "INVENTIVE STEP → non-obvious technical advance / economic significance",
+        "INDUSTRIAL APPLICATION → capable of being made or used in industry",
+        "SECTIONS 3 / 4 → excluded subject matter still fails"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CLAIMED SUBJECT MATTER → product or process?",
+            "NOVELTY → absent from prior art"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "INVENTIVE STEP → non-obvious technical advance / economic significance",
+            "INDUSTRIAL APPLICATION → capable of being made or used in industry"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SECTIONS 3 / 4 → excluded subject matter still fails",
+            "CLAIMED SUBJECT MATTER → product or process?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SECTIONS 3 / 4 → excluded subject matter still fails.",
+      "source_references": [
+        "Patent bargain and criteria",
+        "Invention-discovery boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DISCOVERY INVENTION PRODUCT PROCESS MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DISCOVERY INVENTION PRODUCT PROCESS MATRIX",
+          "role": "mechanism"
+        },
+        {
+          "text": "FINDING; NOT AUTOMATICALLY AN INVENTION",
+          "role": "caution"
+        },
+        {
+          "text": "QUALIFYING NEW PRODUCT OR PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRODUCT PATENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CLAIMED THING",
+          "role": "primary"
+        },
+        {
+          "text": "PROCESS PATENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "CLAIMED METHOD",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA PHARMA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISCOVERY → finding; not automatically an invention",
+        "INVENTION → qualifying new product or process",
+        "PRODUCT PATENT → claimed thing",
+        "PROCESS PATENT → claimed method",
+        "INDIA PHARMA / FOOD / CHEMICALS → process-only 1970-2004; product from 01 JAN 2005"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "DISCOVERY → finding; not automatically an invention",
+          "PRODUCT PATENT → claimed thing",
+          "INDIA PHARMA / FOOD / CHEMICALS → process-only 1970-2004; product from 01 JAN 2005"
+        ],
+        [
+          "INVENTION → qualifying new product or process",
+          "PROCESS PATENT → claimed method",
+          "DISCOVERY → finding; not automatically an invention"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DISCOVERY → finding; not automatically an invention",
+            "INVENTION → qualifying new product or process"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PRODUCT PATENT → claimed thing",
+            "PROCESS PATENT → claimed method"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "INDIA PHARMA / FOOD / CHEMICALS → process-only 1970-2004; product from 01 JAN 2005",
+            "DISCOVERY → finding; not automatically an invention"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INDIA PHARMA / FOOD / CHEMICALS → process-only 1970-2004; product from 01 JAN 2005.",
+      "source_references": [
+        "Invention-discovery boundary",
+        "Product-process boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TERM AND TERRITORIALITY MAP",
+      "structural_type": "territorial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TERM AND TERRITORIALITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "FILING DATE",
+          "role": "outcome"
+        },
+        {
+          "text": "20-YEAR TERM CLOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN GRANT",
+          "role": "evidence"
+        },
+        {
+          "text": "ENFORCEABLE TERRITORIAL INDIAN RIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "PARIS ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTED FOREIGN FILINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "PCT ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FILING DATE → 20-YEAR TERM CLOCK",
+        "INDIAN GRANT → enforceable territorial Indian right",
+        "DIRECT / PARIS ROUTE → selected foreign filings",
+        "PCT ROUTE → common international application procedure",
+        "NATIONAL / REGIONAL OFFICE → final grant decision"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "FILING DATE → 20-YEAR TERM CLOCK",
+            "INDIAN GRANT → enforceable territorial Indian right"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DIRECT / PARIS ROUTE → selected foreign filings",
+            "PCT ROUTE → common international application procedure"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "NATIONAL / REGIONAL OFFICE → final grant decision",
+            "FILING DATE → 20-YEAR TERM CLOCK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NATIONAL / REGIONAL OFFICE → final grant decision.",
+      "source_references": [
+        "Term-territoriality boundary",
+        "PCT-WIPO boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INDIAN PATENT PROCEDURE RAIL",
+      "structural_type": "process-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDIAN PATENT PROCEDURE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "APPLICATION FILED",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAMINATION ON REQUEST",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPLIANCE TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "GRANT OR REFUSAL; NEVER UPGRADE AN EARLIER RUNG",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "APPLICATION FILED",
+        "EXAMINATION ON REQUEST",
+        "OPPOSITION / COMPLIANCE TEST",
+        "GRANT OR REFUSAL; NEVER UPGRADE AN EARLIER RUNG"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "APPLICATION FILED",
+            "EXAMINATION ON REQUEST"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OPPOSITION / COMPLIANCE TEST",
+            "GRANT OR REFUSAL; NEVER UPGRADE AN EARLIER RUNG"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "APPLICATION FILED",
+            "EXAMINATION ON REQUEST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRANT OR REFUSAL; NEVER UPGRADE AN EARLIER RUNG.",
+      "source_references": [
+        "Application-publication-examination-grant ladder",
+        "Opposition-revocation-status boundary",
+        "Evidence and status firewall"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INSTITUTION AND FORUM ROUTER",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTION AND FORUM ROUTER",
+          "role": "institution"
+        },
+        {
+          "text": "POLICY AND IMPLEMENTATION SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE APEX",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN PATENT OFFICE",
+          "role": "evidence"
+        },
+        {
+          "text": "PATENT ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "PCT AND TREATY COOPERATION; WTO",
+          "role": "outcome"
+        },
+        {
+          "text": "EXISTED AT 2019 PYQ DATE; ABOLISHED IN 2021",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DPIIT / CIPAM → policy and implementation support",
+        "CGPDTM → administrative apex",
+        "INDIAN PATENT OFFICE → patent administration",
+        "WIPO → PCT and treaty cooperation; WTO → TRIPS",
+        "IPAB → existed at 2019 PYQ date; abolished in 2021"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DPIIT / CIPAM → policy and implementation support",
+            "CGPDTM → administrative apex"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "INDIAN PATENT OFFICE → patent administration",
+            "WIPO → PCT and treaty cooperation; WTO → TRIPS"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "IPAB → existed at 2019 PYQ date; abolished in 2021",
+            "DPIIT / CIPAM → policy and implementation support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IPAB → existed at 2019 PYQ date; abolished in 2021.",
+      "source_references": [
+        "Controller and Patent Office roles",
+        "PCT-WIPO boundary",
+        "TRIPS-WTO boundary",
+        "IPAB date discipline"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PUBLIC-INTEREST SAFEGUARD LADDER",
+      "structural_type": "safeguard-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PUBLIC-INTEREST SAFEGUARD LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 3(D)",
+          "role": "outcome"
+        },
+        {
+          "text": "PATENTABILITY QUALITY FILTER",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 25",
+          "role": "evidence"
+        },
+        {
+          "text": "POST-GRANT OPPOSITION",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 84",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE-YEAR TIMING PLUS THREE GROUNDS",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 92",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECTION 3(d) → patentability quality filter",
+        "SECTION 25 → pre-grant / post-grant opposition",
+        "SECTION 84 → three-year timing plus three grounds",
+        "SECTION 92 → notified emergency / urgency / public non-commercial use",
+        "SECTION 107A → regulatory-information use; not unlimited research"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SECTION 3(d) → patentability quality filter",
+            "SECTION 25 → pre-grant / post-grant opposition"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECTION 84 → three-year timing plus three grounds",
+            "SECTION 92 → notified emergency / urgency / public non-commercial use"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "SECTION 107A → regulatory-information use; not unlimited research",
+            "SECTION 3(d) → patentability quality filter"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SECTION 107A → regulatory-information use; not unlimited research.",
+      "source_references": [
+        "Compulsory-licensing boundary",
+        "Section 3(d) two-limb filter",
+        "Bolar and research discipline",
+        "Opposition-revocation-status boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SECTION 3(D) TWIN-LIMB GATE",
+      "structural_type": "two-limb-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SECTION 3(D) TWIN-LIMB GATE",
+          "role": "primary"
+        },
+        {
+          "text": "KNOWN SUBSTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "BRANCH A",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW PROPERTY",
+          "role": "evidence"
+        },
+        {
+          "text": "NEW USE",
+          "role": "primary"
+        },
+        {
+          "text": "NOT AN INVENTION",
+          "role": "caution"
+        },
+        {
+          "text": "BRANCH B",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW FORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KNOWN SUBSTANCE",
+        "BRANCH A → new property / new use → not an invention",
+        "BRANCH B → new form → test significant efficacy difference",
+        "THERAPEUTIC CONTEXT → owner records therapeutic-efficacy reading",
+        "TRAP → never transfer the new-form exception to a new-use claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "KNOWN SUBSTANCE",
+            "BRANCH A → new property / new use → not an invention"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BRANCH B → new form → test significant efficacy difference",
+            "THERAPEUTIC CONTEXT → owner records therapeutic-efficacy reading"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → never transfer the new-form exception to a new-use claim",
+            "KNOWN SUBSTANCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → never transfer the new-form exception to a new-use claim.",
+      "source_references": [
+        "Section 3(d) two-limb filter"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PCT WIPO TRIPS WTO SPLIT",
+      "structural_type": "four-corner-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PCT WIPO TRIPS WTO SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL PATENT-APPLICATION PROCEDURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTERS PCT AND OTHER IP TREATIES",
+          "role": "comparison"
+        },
+        {
+          "text": "MINIMUM STANDARDS PLUS FLEXIBILITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "MONITORING AND MEMBER-TO-MEMBER DISPUTE SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "AUTOMATIC UNIVERSAL PATENT GRANT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PCT → international patent-application procedure",
+        "WIPO → administers PCT and other IP treaties",
+        "TRIPS → minimum standards plus flexibilities",
+        "WTO → monitoring and member-to-member dispute settlement",
+        "NONE → automatic universal patent grant"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "PCT → international patent-application procedure",
+          "TRIPS → minimum standards plus flexibilities",
+          "NONE → automatic universal patent grant"
+        ],
+        [
+          "WIPO → administers PCT and other IP treaties",
+          "WTO → monitoring and member-to-member dispute settlement",
+          "PCT → international patent-application procedure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "PCT → international patent-application procedure",
+            "WIPO → administers PCT and other IP treaties"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRIPS → minimum standards plus flexibilities",
+            "WTO → monitoring and member-to-member dispute settlement"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NONE → automatic universal patent grant",
+            "PCT → international patent-application procedure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WIPO → administers PCT and other IP treaties.",
+      "source_references": [
+        "PCT-WIPO boundary",
+        "TRIPS-WTO boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TRADITIONAL KNOWLEDGE PROTECTION CHAIN",
+      "structural_type": "defensive-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "TRADITIONAL KNOWLEDGE PROTECTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CODIFIED MEDICINAL KNOWLEDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "TKDL DOCUMENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SEARCHABLE PRIOR ART FOR PATENT OFFICES",
+          "role": "evidence"
+        },
+        {
+          "text": "RESIST WRONGFUL NOVELTY CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "DEFENSIVE DISCLOSURE IS NOT A PATENT OR AUTOMATIC BENEFIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CODIFIED MEDICINAL KNOWLEDGE",
+        "TKDL DOCUMENTATION",
+        "SEARCHABLE PRIOR ART FOR PATENT OFFICES",
+        "RESIST WRONGFUL NOVELTY CLAIMS / BIOPIRACY",
+        "LIMIT → defensive disclosure is not a patent or automatic benefit sharing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "CODIFIED MEDICINAL KNOWLEDGE",
+            "TKDL DOCUMENTATION"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEARCHABLE PRIOR ART FOR PATENT OFFICES",
+            "RESIST WRONGFUL NOVELTY CLAIMS / BIOPIRACY"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "LIMIT → defensive disclosure is not a patent or automatic benefit sharing",
+            "CODIFIED MEDICINAL KNOWLEDGE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → defensive disclosure is not a patent or automatic benefit sharing.",
+      "source_references": [
+        "Traditional knowledge and TKDL"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "IP BOUNDARY WHEEL",
+      "structural_type": "instrument-wheel",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IP BOUNDARY WHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "TECHNICAL FUNCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ORIGINAL EXPRESSION, NOT IDEA",
+          "role": "caution"
+        },
+        {
+          "text": "COMMERCIAL-SOURCE IDENTIFIER",
+          "role": "evidence"
+        },
+        {
+          "text": "COLLECTIVE PLACE-LINKED GOODS",
+          "role": "primary"
+        },
+        {
+          "text": "VISUAL APPEARANCE, NOT TECHNICAL FUNCTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PATENT → invention / technical function",
+        "COPYRIGHT → original expression, not idea",
+        "TRADEMARK → commercial-source identifier",
+        "GI → collective place-linked goods",
+        "DESIGN → visual appearance, not technical function"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "PATENT → invention / technical function",
+            "COPYRIGHT → original expression, not idea"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRADEMARK → commercial-source identifier",
+            "GI → collective place-linked goods"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DESIGN → visual appearance, not technical function",
+            "PATENT → invention / technical function"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GI → collective place-linked goods; DESIGN → visual appearance, not technical function.",
+      "source_references": [
+        "IP-instrument boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LIFE MATERIAL AND SOFTWARE FILTER",
+      "structural_type": "classification-filter",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LIFE MATERIAL AND SOFTWARE FILTER",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 3(J) EXCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANT VARIETY",
+          "role": "comparison"
+        },
+        {
+          "text": "PPV&FR SUI-GENERIS ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT INSIDE THE STATED PLANT-ANIMAL EXCLUSION",
+          "role": "caution"
+        },
+        {
+          "text": "SOFTWARE-LABELLED CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLY CRITERIA AND EXCLUSIONS; NO BLANKET RULE HERE",
+          "role": "caution"
+        },
+        {
+          "text": "CLASSIFY CLAIMED SUBJECT MATTER BEFORE POLICY ARGUMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLANTS / ANIMALS / SEEDS / VARIETIES → Section 3(j) exclusion",
+        "PLANT VARIETY → PPV&FR sui-generis route",
+        "MICRO-ORGANISM → not inside the stated plant-animal exclusion",
+        "SOFTWARE-LABELLED CLAIM → apply criteria and exclusions; no blanket rule here",
+        "RULE → classify claimed subject matter before policy argument"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PLANTS / ANIMALS / SEEDS / VARIETIES → Section 3(j) exclusion",
+            "PLANT VARIETY → PPV&FR sui-generis route"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "MICRO-ORGANISM → not inside the stated plant-animal exclusion",
+            "SOFTWARE-LABELLED CLAIM → apply criteria and exclusions; no blanket rule here"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → classify claimed subject matter before policy argument",
+            "PLANTS / ANIMALS / SEEDS / VARIETIES → Section 3(j) exclusion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → classify claimed subject matter before policy argument.",
+      "source_references": [
+        "Life-material patentability boundary",
+        "Software-claim discipline"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INNOVATION ACCESS AND STATUS SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INNOVATION ACCESS AND STATUS SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DISCLOSURE + INVESTMENT + LICENSING",
+          "role": "outcome"
+        },
+        {
+          "text": "VALIDATION + TTO + PILOT + FINANCE + REGULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 3(D) + CL + OPPOSITION + BOLAR +",
+          "role": "evidence"
+        },
+        {
+          "text": "QUALITY RIGHTS, CREDIBLE SAFEGUARDS AND TRANSLATION CAPACITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INCENTIVE → disclosure + investment + licensing",
+        "TRANSLATION → validation + TTO + pilot + finance + regulation + market",
+        "ACCESS → Section 3(d) + CL + opposition + Bolar + TRIPS flexibilities",
+        "STATUS → filed != published != examined != granted != commercialised",
+        "VERDICT → quality rights, credible safeguards and translation capacity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "INCENTIVE → disclosure + investment + licensing",
+            "TRANSLATION → validation + TTO + pilot + finance + regulation + market"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ACCESS → Section 3(d) + CL + opposition + Bolar + TRIPS flexibilities",
+            "STATUS → filed != published != examined != granted != commercialised"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → quality rights, credible safeguards and translation capacity",
+            "INCENTIVE → disclosure + investment + licensing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → quality rights, credible safeguards and translation capacity.",
+      "source_references": [
+        "Access-innovation balance",
+        "Commercialisation-chain boundary",
+        "Evidence and status firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "STRONG IPR DOES NOT MEAN IDENTICAL TREATMENT ACROSS ALL",
+          "role": "caution"
+        },
+        {
+          "text": "INDIA’S PATENT SYSTEM REFLECTS A BALANCING DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "IT SEEKS",
+          "role": "evidence"
+        },
+        {
+          "text": "INNOVATION INCENTIVES WITHOUT MECHANICALLY ACCEPTING EVERGREENING OR UNAFFORDABLE EXCLUSION.",
+          "role": "primary"
+        },
+        {
+          "text": "GI PROTECTION IS ALSO A DEVELOPMENT AND RURAL-ECONOMY TOOL",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE APEX WITHIN INDIA’S IP-OFFICE STRUCTURE.",
+          "role": "comparison"
+        },
+        {
+          "text": "PATENT OFFICE, TRADE MARKS REGISTRY AND GI REGISTRY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Strong IPR does not mean identical treatment across all IP types; patents, trademarks and GIs solve different economic problems.",
+            "CAUTION: India’s patent system reflects a balancing design: it seeks",
+            "innovation incentives without mechanically accepting evergreening or unaffordable exclusion.",
+            "CAUTION: GI protection is also a development and rural-economy tool, not merely a legal badge."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CGPDTM: administrative apex within India’s IP-office structure.",
+            "Patent Office, Trade Marks Registry and GI Registry: specialized operational arms.",
+            "DPIIT / CIPAM: policy coordination under the National IPR Policy 2016.",
+            "WIPO: treaty and international-cooperation layer for PCT and broader IP governance."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "WTO/TRIPS: multilateral trade-law layer shaping minimum standards and flexibilities.",
+            "Patents matter for deep technology, pharmaceuticals, manufacturing, biotech and electronics.",
+            "Trademarks support market identity, goodwill and commercialization.",
+            "GIs help region-linked producers capture reputation value in domestic and export markets."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

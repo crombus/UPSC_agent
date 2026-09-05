@@ -1,0 +1,127 @@
+{
+  "record_id": "polity-04:learner-v2:g18",
+  "topic_key": "polity-04",
+  "variant": "learner-v2",
+  "generation": 18,
+  "supersedes": "polity-04:learner-v2:g17",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Preamble — deep-content repair revalidation",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\04_Preamble_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+    ],
+    "official_question_sources": [
+      "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+      "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+      "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+      "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+      "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+    ],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf",
+      "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+    ],
+    "live_sources": [
+      "https://api.sci.gov.in/supremecourt/2020/13773/13773_2020_1_39_57487_Judgement_25-Nov-2024.pdf"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-04:learner-v2:g17",
+    "source_hashes": {
+      "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+      "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+      "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+      "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+      "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf": "992d194aa7b5aa3b5a5c5ef8f4d8c69c03971b28a2e8a16efcbb878c6591c15f",
+      "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+      "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-04\\g18-source\\polity-04_g18-reviewed-source.md": "3a8536282122d9ece9325fe10649a32d12d95943f48fceca86c6c76694a9e8a8",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+      "upsc-ai-kit\\knowledge\\Polity\\04_Preamble_Complete-Topic-Package.md": "1fc0566a090bc58ca9a36ced7a8133f80d49801ea0e94b553c6ef9879a0a10fe",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md": "298f57a6eb523c6ae2128e19d13793054dce00b89ed22d3891a6f504422e42ae",
+      "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md": "3697c5120bfda545932fb2e5d628e5e32b1480f0b7efda09d050c350fc135413",
+      "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-04_Learning-Session.md": "649152d1c96f229531c2e676b4a4fc592f637368ea9a8bd035711fe6737b6b10",
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json": "1cac7114f16768bf21a10519a42d1028ea1241ee0c2378e09f2dde396b469d7f",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-04.json": "690b975f1c9c8b83127de2de183966aafb13a4bf6cb892add09f7670080aa0fd",
+      "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json": "8a4fc59b10a4d625823256cea9be07e715d553a7a919802cc2fe4c65f59274e4"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "10 verified relevant PYQs; 40 core MCQs plus 8 remedials; six original solved Mains questions across 10, 15 and 20 marks; all eleven Mains models carry answer-specific improvement guidance.",
+    "current_linkage_note": "Official Supreme Court judgment 2024 INSC 893 checked through 28 August 2026; no later official decision altering the holding was located.",
+    "pyq_status_note": "2019 and 2021 GS-II wording corrected to the exact verified demands; 2024 and 2025 official local paper wording and marks retained; objective keys remain explicitly reasoned where no local official key exists.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "b2de31f87d6e10f8e32ea959d2b1a966fb4c4a7e11d885c11fdd67173304d8c9"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-04:learner-v2:g18"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Graphical-Spec-g18.json",
+    "graphical_spec_sha256": "45eb8248f8eefba48cd0665cea5ed8344f98dfdab4f1e9e595e1fbd3eb2390c5",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g18\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 11,
+    "card_count": 12,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+    "ascii_master_spec_sha256": "1cac7114f16768bf21a10519a42d1028ea1241ee0c2378e09f2dde396b469d7f"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

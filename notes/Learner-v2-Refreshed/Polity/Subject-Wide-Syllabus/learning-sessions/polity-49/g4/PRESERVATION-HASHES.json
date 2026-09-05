@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-49",
+  "source_record": "polity-49:learner-v2:g3",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md": "0a4e8e14f592d081271204582ccaa3e23b8e2e56613393ac8e7022ff1a3d14ba",
+    "tools\\deep_content_quality_overrides.json": "28c575b2055ae1223c7844541517d9a50cfd68edccc8ac85dc7eec9f08db7877",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md": "5a2ccb1c69845cc958110d82810378e44600d70ae0619b80931e317a3dc65bb5",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md": "06b5119d2410d5c4602dde2e2cb4ea3c7640f0898a5323ba563c0bc8fdc198ca",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-49-2026-08-25-sequential.json": "cc2a57ae35f83e726fb8ae0c8f79a9249ee45f349ccc04e88c6685e32bdb2d26",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-49.json": "06020dcb0c17a2fadbc0ff72e29d6993db3349746d48462bfb9d3e4a2102c72f"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md": "0a4e8e14f592d081271204582ccaa3e23b8e2e56613393ac8e7022ff1a3d14ba",
+    "tools\\deep_content_quality_overrides.json": "28c575b2055ae1223c7844541517d9a50cfd68edccc8ac85dc7eec9f08db7877",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md": "5a2ccb1c69845cc958110d82810378e44600d70ae0619b80931e317a3dc65bb5",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md": "06b5119d2410d5c4602dde2e2cb4ea3c7640f0898a5323ba563c0bc8fdc198ca",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-49-2026-08-25-sequential.json": "cc2a57ae35f83e726fb8ae0c8f79a9249ee45f349ccc04e88c6685e32bdb2d26",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-49.json": "06020dcb0c17a2fadbc0ff72e29d6993db3349746d48462bfb9d3e4a2102c72f"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

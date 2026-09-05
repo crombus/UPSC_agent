@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-48",
+  "source_record": "polity-48:learner-v2:g2",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md": "d4ea65c67aeb26446badfacfb2849e82e9096c85db67b1333597c89462844360",
+    "tools\\deep_content_quality_overrides.json": "fec3ea3f91bf526825ab512013677cb6e4116ef2ffcb0ade93797f3bc3177a00",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md": "88c1b193960107cace0e9b19598864f74b0d12f1b23137765914f0641fae0bea",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md": "a36fa1dd773ce9bcf31ddb93ca77aeef1ba757d720aa07a3ef1c41633d6980e2",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-2026-08-25-sequential.json": "d785da1ad9b12778f609f2910bb03be1423c37713eaaf99199948cb6f0d58a16",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-48.json": "91b2e58252f812d595e4eeaab1d5505726659aa06105d56b1e450b644e69c39e"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md": "d4ea65c67aeb26446badfacfb2849e82e9096c85db67b1333597c89462844360",
+    "tools\\deep_content_quality_overrides.json": "fec3ea3f91bf526825ab512013677cb6e4116ef2ffcb0ade93797f3bc3177a00",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md": "88c1b193960107cace0e9b19598864f74b0d12f1b23137765914f0641fae0bea",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md": "a36fa1dd773ce9bcf31ddb93ca77aeef1ba757d720aa07a3ef1c41633d6980e2",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-2026-08-25-sequential.json": "d785da1ad9b12778f609f2910bb03be1423c37713eaaf99199948cb6f0d58a16",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-48.json": "91b2e58252f812d595e4eeaab1d5505726659aa06105d56b1e450b644e69c39e"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

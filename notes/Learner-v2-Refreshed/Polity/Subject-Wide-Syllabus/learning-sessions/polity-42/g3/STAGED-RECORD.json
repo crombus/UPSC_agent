@@ -1,0 +1,114 @@
+{
+  "record_id": "polity-42:learner-v2:g3",
+  "topic_key": "polity-42",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "polity-42:learner-v2:g2",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Anti Defection Law — deep-reviewed immutable generation",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g3\\polity-42_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g3\\polity-42_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g3\\polity-42_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g3\\polity-42_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g3\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\42_Anti-Defection-Law_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\42_Anti-Defection-Law.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://legislative.gov.in/document/constitution-of-india-in-english",
+      "https://www.legislative.gov.in/document-category/amendment-acts",
+      "https://api.sci.gov.in/judgment/judis/12491.pdf",
+      "https://api.sci.gov.in/jonew/judis/28588.pdf",
+      "https://www.api.sci.gov.in/supremecourt/2022/20234/20234_2022_1_1502_44512_Judgement_11-May-2023.pdf",
+      "https://api.sci.gov.in/supremecourt/2025/2745/2745_2025_1_1501_62743_Judgement_31-Jul-2025.pdf",
+      "https://upsc.gov.in/examinations/previous-question-papers",
+      "https://upsc.gov.in/examinations/answer-key"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g3\\polity-42_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-42:learner-v2:g2",
+    "source_hashes": {
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md": "d96c598e91253d87db5401476cc977627055f604e9b86815ea70cca081b85219",
+      "tools\\deep_content_quality_overrides.json": "1886587b08dd826e27cbcd86e7cc2d6ea3c9562bc93569d52d40791f4dd0e70e",
+      "upsc-ai-kit\\knowledge\\Polity\\42_Anti-Defection-Law_Complete-Topic-Package.md": "965e7411d04c528dc0e411a2b0d1a9d77710d5d4e0a114af79a363d0807b7025",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\42_Anti-Defection-Law.md": "b29d65a7ad1f01b6ee09775debe779672d86dac326703f42c4e8b8786149a0aa",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md": "39c8aa627e2b7b93b63d5b09ffda817bae97cf55e63d00fcf76030bf70afa437",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-42-2026-08-25-sequential.json": "b62a9f007308da8f77072547c0b52654dfc3bf085539ad98c6e73a4413502d88",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-42.json": "5005947176c8d30803b5de8c60f396d8e93e8e9c1ec172037dfe7420390e6dc5"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "Exact verified 2022 and 2025 Prelims PYQs and 2023 GS-II Q5; 36 original MCQs; 12 remedials; 8 original solved Mains; 9 answer-specific guidance pairs.",
+    "current_linkage_note": "Constitution, amendment texts and Supreme Court doctrine checked to 28 August 2026; Nabam Rebia larger-bench reference remains unresolved in verified official merits material.",
+    "pyq_status_note": "Exact 2022 Q16 answer B, 2025 Q88 answer D, and 2023 GS-II Q5 10 marks/150 words retained.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 5,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "57729985ed1fef4482e58f7a601a98915fbccd75c74f02ac096b575ba038932c"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-42:learner-v2:g3"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g3\\polity-42_Graphical-Spec-g3.json",
+    "graphical_spec_sha256": "ba203da81fd6d82ea9eeb8aa9bb4fa30f3cae1a40dd6035fc074e4375afec1f1",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-42-2026-08-25-sequential.json",
+    "ascii_master_spec_sha256": "b62a9f007308da8f77072547c0b52654dfc3bf085539ad98c6e73a4413502d88"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

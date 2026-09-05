@@ -1,0 +1,82 @@
+ASCII MASTER FLOW — PANEL 1/12: Immune-object recognition map
+PATHOGEN / PRODUCT -> contains or presents ANTIGEN
+EPITOPE -> specific recognised part of antigen
+B-CELL RECEPTOR / ANTIBODY -> binds epitope
+T-CELL RECEPTOR -> recognises presented antigen fragment
+IMMUNOGEN -> antigen capable of provoking an immune response
+
+ASCII MASTER FLOW — PANEL 2/12: Active passive antiviral triad
+VACCINE -> antigen/code -> endogenous response -> memory
+mAb -> ready-made antibody -> direct binding -> temporary effect
+ANTIVIRAL -> replication-step inhibition -> pharmacological action
+ONSET / DURATION / PURPOSE -> compare, never merge
+
+ASCII MASTER FLOW — PANEL 3/12: Adaptive immunity process rail
+ANTIGEN PRESENTATION -> lymphocyte activation
+B CELL -> plasma cell -> antibodies
+B / T CELL -> memory populations
+HELPER T CELL -> coordination; CYTOTOXIC T CELL -> cellular killing
+RULE -> antibody titre is not the entire immune response
+
+ASCII MASTER FLOW — PANEL 4/12: Vaccine platform taxonomy
+WHOLE PATHOGEN -> live attenuated | inactivated
+SELECTED MATERIAL -> subunit | toxoid | VLP | conjugate
+GENETIC CODE -> viral vector | mRNA | DNA
+COMPARE -> antigen form | replication | cell location | manufacture
+DO NOT IMPORT -> product approval, efficacy or present availability
+
+ASCII MASTER FLOW — PANEL 5/12: Genetic-platform cellular map
+VIRAL VECTOR -> engineered carrier delivers antigen code
+mRNA + LNP -> CYTOPLASM -> translation
+DNA -> NUCLEUS -> transcription -> mRNA
+ANTIGEN EXPRESSION -> B/T response -> memory
+TRAP -> active immunity does not mean identical delivery
+
+ASCII MASTER FLOW — PANEL 6/12: Monoclonal antibody production chain
+B CELL + MYELOMA -> HYBRIDOMA CLONE
+OR SEQUENCE DISCOVERY -> ANTIBODY ENGINEERING
+RECOMBINANT MAMMALIAN CELL LINE -> EXPRESSION
+HARVEST -> PURIFICATION -> FORMULATION -> FILL-FINISH
+TARGET BINDING != PROVEN CLINICAL BENEFIT
+
+ASCII MASTER FLOW — PANEL 7/12: Biopharma manufacturing quality system
+MASTER / WORKING CELL BANK + RAW MATERIAL CONTROL
+UPSTREAM -> culture / fermentation / bioreactor
+DOWNSTREAM -> capture / purification / clearance
+FILL-FINISH -> sterile product and packaging
+RELEASE -> identity / purity / potency / sterility / consistency
+
+ASCII MASTER FLOW — PANEL 8/12: Cold-chain integrity loop
+VALIDATED STORAGE -> monitored transport -> delivery point
+DATA LOGGER / INDICATOR -> deviation detection
+EXCURSION -> quarantine / assessment / disposition
+CONTINGENCY -> power, equipment, route and stock response
+OUTCOME -> integrity enables access; it does not prove uptake
+
+ASCII MASTER FLOW — PANEL 9/12: Clinical and regulatory ladder
+PRECLINICAL -> laboratory and animal evidence
+PHASE I -> initial safety / dose
+PHASE II -> expanded dose, safety and response evidence
+PHASE III -> larger-population benefit and safety
+AUTHORISATION -> MANUFACTURE / RELEASE -> PHASE IV SURVEILLANCE
+
+ASCII MASTER FLOW — PANEL 10/12: Indian institution router
+DBT -> biotech policy, missions and research support
+BIRAC -> translation, enterprise and mission implementation
+ICMR -> biomedical research and evidence
+CDSCO / DCGI -> trials and new-drug / biologic regulation
+IPC / PvPI -> pharmacovigilance coordination and safety learning
+
+ASCII MASTER FLOW — PANEL 11/12: Biosimilar comparability pyramid
+FOUNDATION -> extensive analytical and quality comparability
+NEXT -> functional and appropriate non-clinical comparison
+NEXT -> justified clinical PK/PD, efficacy, safety, immunogenicity
+AFTER USE -> pharmacovigilance and traceability
+RULE -> BIOSIMILAR != GENERIC != AUTOMATIC INTERCHANGEABILITY
+
+ASCII MASTER FLOW — PANEL 12/12: Biopharma claim and answer firewall
+DEFINE -> immune mechanism and product category
+CLASSIFY -> platform / mAb / biosimilar
+TRACE -> trial + regulation + manufacturing + cold chain
+MAP -> CDSCO / DBT / BIRAC / ICMR / PvPI
+QUALIFY -> efficacy != effectiveness != approval != access != impact

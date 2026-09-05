@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Privacy and cyber twin rail
+PRIVACY -> lawful collection, use, retention and redress
+CYBERSECURITY -> prevention, detection, response and recovery
+SAME BREACH -> two questions and potentially two response chains
+DPDP BOARD != CERT-In != NCIIPC != I4C
+RULE -> complementary domains are not interchangeable
+
+ASCII MASTER FLOW — PANEL 2/12: DPDP actor chain
+DATA PRINCIPAL -> rights-bearing individual
+DATA FIDUCIARY -> decides purpose and means
+DATA PROCESSOR -> acts for Fiduciary
+CONSENT MANAGER -> Board-registered consent interface
+BOARD -> specified adjudication; TDSAT hears appeals
+
+ASCII MASTER FLOW — PANEL 3/12: Scope gateway
+PERSONAL DATA? -> if no, DPDP personal-data route stops
+DIGITAL OR DIGITISED LATER? -> if yes, scope can attach
+OUTSIDE INDIA? -> goods or services offered in India test
+ANONYMISED / NON-PERSONAL -> not automatically covered
+RULE -> identify data class before compliance claim
+
+ASCII MASTER FLOW — PANEL 4/12: Legal status staircase
+ENACTED -> parent statute exists
+NOTIFIED -> instrument published in Gazette
+COMMENCED -> specified provision is in force
+STAFFED / ADJUDICATING -> institutional evidence required
+ENFORCED -> applicable proceeding or outcome required
+
+ASCII MASTER FLOW — PANEL 5/12: Three-tranche chronology
+13 NOV 2025 -> definitions, Board provisions, RTI amendment
+ONE YEAR -> s.6(9), s.27(1)(d), rule 4
+EIGHTEEN MONTHS -> substantive compliance core and penalties
+RULES NOTIFIED -> does not erase deferred dates
+DATE CHECK -> re-verify before present-tense writing
+
+ASCII MASTER FLOW — PANEL 6/12: Lawful processing and rights loop
+NOTICE -> specified information
+CONSENT OR s.7 CERTAIN LEGITIMATE USE -> lawful ground
+PROCESSING -> Fiduciary and Processor responsibilities
+ACCESS / CORRECTION / ERASURE / GRIEVANCE / NOMINATION
+s.15 DUTIES -> rights holder also has statutory duties
+
+ASCII MASTER FLOW — PANEL 7/12: SDF governance stack
+GOVERNMENT NOTIFICATION -> creates SDF status
+RISK FACTORS -> scale, sensitivity and public consequences
+INDIA-BASED DPO -> governance contact
+INDEPENDENT AUDITOR + DPIA + AUDITS -> added assurance
+TRAP -> large entity is not automatically an SDF
+
+ASCII MASTER FLOW — PANEL 8/12: Sections 16 and 17 matrix
+s.16 -> notified restricted destinations; permissive default
+SECTORAL RULE -> may impose stricter localisation
+s.17(1) -> processing-specific exemptions
+s.17(2)(a) -> notified State-instrumentality exemption
+RULE -> transfer rule and exemption rule answer different questions
+
+ASCII MASTER FLOW — PANEL 9/12: Consequential amendment fork
+s.44(3) -> RTI s.8(1)(j) substituted in immediate tranche
+PRIVACY <-> TRANSPARENCY -> contested rights balance
+s.44(2) -> IT Act s.43A omission in deferred tranche
+LIVE CHANGE != SCHEDULED CHANGE
+RULE -> identify parent Act, section and commencement
+
+ASCII MASTER FLOW — PANEL 10/12: Penalty rail
+SECURITY-SAFEGUARD FAILURE -> maximum Rs 250 crore
+BREACH NOTICE / CHILDREN'S DUTIES -> maximum Rs 200 crore
+SDF DUTIES -> maximum Rs 150 crore
+CHARACTER -> civil and financial
+NOT INCLUDED -> imprisonment or automatic victim compensation
+MUST REMEMBER: The DPDP Act separates Data Principal, Data Fiduciary, Significant Data...
+
+ASCII MASTER FLOW — PANEL 11/12: Cyber institution router
+CERT-In / MeitY / s.70B -> incident response and directions
+NCIIPC / NTRO / s.70A -> notified CII protection
+I4C / MHA -> cybercrime coordination, portal and 1930
+DATA PROTECTION BOARD -> DPDP compliance adjudication
+RULE -> route by function, statute and administrative home
+CLOSE DISTINCTION: Consent is not the only lawful route, the Data Protection Board is not...
+
+ASCII MASTER FLOW — PANEL 12/12: Routed PYQ answer spine
+2018 -> data-protection report: strengths plus weaknesses
+2019 -> GDPR comparator; digital-signature authentication
+2024 -> DPDP context, salient features and dated status
+BREACH -> privacy compliance plus cyber response
+CONCLUDE -> rights, resilience, capacity and status discipline
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Cite Act/rule/advisory date and status;...

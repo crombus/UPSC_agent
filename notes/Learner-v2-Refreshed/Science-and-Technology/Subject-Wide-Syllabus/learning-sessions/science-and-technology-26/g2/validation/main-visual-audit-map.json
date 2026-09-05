@@ -1,0 +1,1873 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-26",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Scientific Discoveries, Nobel Prizes and Scientists - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 30,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 713.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 354.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 70,
+      "markdown_body_line_end": 70,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 84,
+      "markdown_body_line_end": 84,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Prize evidence cards categories years citations and sources as a sequence: identify Minimum prize evidence card, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 308.356
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 227.488
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 99,
+      "markdown_body_line_end": 106,
+      "heading": "VISUAL FIRST",
+      "preview": "PRIZE EVIDENCE CARDS CATEGORIES YEARS CITATIONS AND SOURCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 160,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PRIZE EVIDENCE CARDS CATEGORIES YEARS CITATIONS AND SOURCES",
+      "preview": "START / CONCEPT: FOUNDATION — Prize evidence cards categories years citations and sources",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 171,
+      "markdown_body_line_end": 171,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Discovery invention theory observation experiment and attribution as a sequence: identify Nobel category architecture, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 190,
+      "heading": "VISUAL FIRST",
+      "preview": "DISCOVERY INVENTION THEORY OBSERVATION EXPERIMENT AND ATTRIBUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 226,
+      "markdown_body_line_end": 243,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DISCOVERY INVENTION THEORY OBSERVATION EXPERIMENT AND ATTRIBUTION",
+      "preview": "START / CONCEPT: FOUNDATION — Discovery invention theory observation experiment and attribution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 276
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 254,
+      "markdown_body_line_end": 254,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Laureate birthplace nationality institution affiliation and prize sharing as a sequence: identify Laureate institution nationality boundary, follow the named mechanism to its user or output, and stop at the last verified status rather ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 273,
+      "heading": "VISUAL FIRST",
+      "preview": "LAUREATE BIRTHPLACE NATIONALITY INSTITUTION AFFILIATION AND PRIZE SHARING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 326,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LAUREATE BIRTHPLACE NATIONALITY INSTITUTION AFFILIATION AND PRIZE SHARING",
+      "preview": "START / CONCEPT: FOUNDATION — Laureate birthplace nationality institution affiliation and prize sharing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 298
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 282.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 337,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The official citation identifies the awarded contribution; the underlying discovery explains the mechanism; a possible application shows technical relevance; engineering validation tests reproducibility and performance; commercialization re",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 352,
+      "markdown_body_line_end": 356,
+      "heading": "VISUAL FIRST",
+      "preview": "CITATION DISCOVERY APPLICATION COMMERCIALIZATION AND POLICY LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 392,
+      "markdown_body_line_end": 409,
+      "heading": "CLOSING RECALL FLOW - CORE - CITATION DISCOVERY APPLICATION COMMERCIALIZATION AND POLICY LADDER",
+      "preview": "START / CONCEPT: CORE — Citation discovery application commercialization and policy ladder",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 354
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 585.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 324.691
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 420,
+      "markdown_body_line_end": 420,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Chronology replication uncertainty and evidence maturity as a sequence: identify Chronology and attribution discipline, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the nex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 170.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 89.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 435,
+      "markdown_body_line_end": 439,
+      "heading": "VISUAL FIRST",
+      "preview": "CHRONOLOGY REPLICATION UNCERTAINTY AND EVIDENCE MATURITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 606.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 492,
+      "heading": "CLOSING RECALL FLOW - CORE - CHRONOLOGY REPLICATION UNCERTAINTY AND EVIDENCE MATURITY",
+      "preview": "START / CONCEPT: CORE — Chronology replication uncertainty and evidence maturity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 503,
+      "markdown_body_line_end": 503,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Physics 2025 laureates citation and quantum-circuit question as a sequence: identify Replication uncertainty and mature evidence, follow the named mechanism to its user or output, and stop at the last verified status rather than assumi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 318.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 525,
+      "heading": "VISUAL FIRST",
+      "preview": "PHYSICS 2025 LAUREATES CITATION AND QUANTUM-CIRCUIT QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 125
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 579,
+      "heading": "CLOSING RECALL FLOW - CORE - PHYSICS 2025 LAUREATES CITATION AND QUANTUM-CIRCUIT QUESTION",
+      "preview": "START / CONCEPT: CORE — Physics 2025 laureates citation and quantum-circuit question",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 590,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Physics 2025 mechanism Qualified use: Explain superconductivity, Josephson junction, collective state, tunnelling and quantised energy in sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 302.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 609,
+      "heading": "VISUAL FIRST",
+      "preview": "JOSEPHSON JUNCTION TUNNELLING AND ENERGY QUANTISATION MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 662,
+      "heading": "CLOSING RECALL FLOW - CORE - JOSEPHSON JUNCTION TUNNELLING AND ENERGY QUANTISATION MECHANISM",
+      "preview": "START / CONCEPT: CORE — Josephson junction tunnelling and energy quantisation mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 673,
+      "markdown_body_line_end": 673,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read John Clarke biography affiliation and 2026 PYQ clue matching as a sequence: identify John Clarke biographical route, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 692,
+      "heading": "VISUAL FIRST",
+      "preview": "JOHN CLARKE BIOGRAPHY AFFILIATION AND 2026 PYQ CLUE MATCHING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 728,
+      "markdown_body_line_end": 745,
+      "heading": "CLOSING RECALL FLOW - CORE - JOHN CLARKE BIOGRAPHY AFFILIATION AND 2026 PYQ CLUE MATCHING",
+      "preview": "START / CONCEPT: CORE — John Clarke biography affiliation and 2026 PYQ clue matching",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 282.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 51.691
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 756,
+      "markdown_body_line_end": 756,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Chemistry 2025 laureates citation and MOF architecture as a sequence: identify Chemistry 2025 award citation, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 771,
+      "markdown_body_line_end": 775,
+      "heading": "VISUAL FIRST",
+      "preview": "CHEMISTRY 2025 LAUREATES CITATION AND MOF ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 811,
+      "markdown_body_line_end": 828,
+      "heading": "CLOSING RECALL FLOW - CORE - CHEMISTRY 2025 LAUREATES CITATION AND MOF ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — Chemistry 2025 laureates citation and MOF architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 396.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 839,
+      "markdown_body_line_end": 839,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read MOF porosity tunability applications and scale boundary as a sequence: identify Metal-organic framework mechanism, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 242.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 161.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 854,
+      "markdown_body_line_end": 858,
+      "heading": "VISUAL FIRST",
+      "preview": "MOF POROSITY TUNABILITY APPLICATIONS AND SCALE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 911,
+      "heading": "CLOSING RECALL FLOW - CORE - MOF POROSITY TUNABILITY APPLICATIONS AND SCALE BOUNDARY",
+      "preview": "START / CONCEPT: CORE — MOF porosity tunability applications and scale boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 922,
+      "markdown_body_line_end": 922,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Medicine 2025 laureates citation and peripheral tolerance as a sequence: identify Medicine 2025 award citation, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 944,
+      "heading": "VISUAL FIRST",
+      "preview": "MEDICINE 2025 LAUREATES CITATION AND PERIPHERAL TOLERANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 981,
+      "markdown_body_line_end": 998,
+      "heading": "CLOSING RECALL FLOW - CORE - MEDICINE 2025 LAUREATES CITATION AND PERIPHERAL TOLERANCE",
+      "preview": "START / CONCEPT: CORE — Medicine 2025 laureates citation and peripheral tolerance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1009,
+      "markdown_body_line_end": 1009,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Medicine 2024 microRNA anchor Qualified use: Trace regulatory T cells and Foxp3 while separating central from peripheral tolerance and trial from approval.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 383.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 316.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1024,
+      "markdown_body_line_end": 1028,
+      "heading": "VISUAL FIRST",
+      "preview": "REGULATORY T CELLS FOXP3 CENTRAL AND PERIPHERAL TOLERANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1064,
+      "markdown_body_line_end": 1081,
+      "heading": "CLOSING RECALL FLOW - CORE - REGULATORY T CELLS FOXP3 CENTRAL AND PERIPHERAL TOLERANCE",
+      "preview": "START / CONCEPT: CORE — Regulatory T cells Foxp3 central and peripheral tolerance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1092,
+      "markdown_body_line_end": 1092,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Medicine 2024 microRNA and post-transcriptional regulation as a sequence: identify Raman prize and mechanism, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1107,
+      "markdown_body_line_end": 1111,
+      "heading": "VISUAL FIRST",
+      "preview": "MEDICINE 2024 MICRORNA AND POST-TRANSCRIPTIONAL REGULATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1164,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MEDICINE 2024 MICRORNA AND POST-TRANSCRIPTIONAL REGULATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Medicine 2024 microRNA and post-transcriptional regulation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1175,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Raman Khorana Ramakrishnan India-linked evidence cards as a sequence: identify Khorana genetic-code prize, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1197,
+      "heading": "VISUAL FIRST",
+      "preview": "RAMAN KHORANA RAMAKRISHNAN INDIA-LINKED EVIDENCE CARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1234,
+      "markdown_body_line_end": 1251,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RAMAN KHORANA RAMAKRISHNAN INDIA-LINKED EVIDENCE CARDS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Raman Khorana Ramakrishnan India-linked evidence cards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1262,
+      "markdown_body_line_end": 1262,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Bose-Einstein blue-LED PYQ support and future-award firewall as a sequence: identify Routed PYQ mechanism-first use, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 288.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1277,
+      "markdown_body_line_end": 1284,
+      "heading": "VISUAL FIRST",
+      "preview": "BOSE-EINSTEIN BLUE-LED PYQ SUPPORT AND FUTURE-AWARD FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1320,
+      "markdown_body_line_end": 1324,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Identifying scientists through discovery, discipline, nationality, institutional affiliation and prize-year clues without re",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 671.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1342,
+      "heading": "1. Visual identification method",
+      "preview": "BIOGRAPHICAL CLUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 649.624
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 508.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1355,
+      "heading": "2. Nobel architecture",
+      "preview": "Category | Core subject link | Frequent trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Category",
+          "Core subject link",
+          "Frequent trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 458.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 250.422
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1370,
+      "heading": "3. Minimum data card for every current laureate",
+      "preview": "Field | What to record",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Field",
+          "What to record"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 593.09
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1385,
+      "markdown_body_line_end": 1391,
+      "heading": "5. Discipline-to-topic routing",
+      "preview": "Discovery clue | Specialist owner to revise",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Discovery clue",
+          "Specialist owner to revise"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 401.29
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 270.688
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1440,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BOSE-EINSTEIN BLUE-LED PYQ SUPPORT AND FUTURE-AWARD FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Bose-Einstein blue-LED PYQ support and future-award firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 410.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 169.891
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1445,
+      "markdown_body_line_end": 1451,
+      "heading": "Models and criteria",
+      "preview": "Model | Core use | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Model",
+          "Core use",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 767.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 569.49
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1460,
+      "markdown_body_line_end": 1466,
+      "heading": "Grant rights and ground effects",
+      "preview": "Recipient/right | Historical question | Source caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Recipient/right",
+          "Historical question",
+          "Source caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 504.89
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 329.488
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1470,
+      "markdown_body_line_end": 1477,
+      "heading": "REGIONAL CONTINUITY-CHANGE LEDGER - TOPIC 26",
+      "preview": "Region | Transition pattern | Anti-universalization rule",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Region",
+          "Transition pattern",
+          "Anti-universalization rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 304.488
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 85.487
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2638,
+      "markdown_body_line_end": 2640,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Purpose:** Convert prize current affairs into deeper scientific reasoning without making optional enrichment necessary for objective-question coverag",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 608.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 549.424
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2646,
+      "markdown_body_line_end": 2649,
+      "heading": "1. Analytical lens",
+      "preview": "theory -> measurable phenomenon -> reproducible experiment",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 494.024
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 463.024
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2655,
+      "markdown_body_line_end": 2661,
+      "heading": "2. Deeper distinctions",
+      "preview": "Distinction | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Distinction",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 398.424
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 189.422
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2732,
+      "heading": "Scientific Discoveries, Nobel Prizes and Scientists: RAMAN, KHORANA, RAMAKRISHNAN AND MICRO-RNA RAPID RECALL",
+      "preview": "WRITE CATEGORY YEAR OFFICIAL SPELLING CITATION AND AWARD-TIME AFFILIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 747.091
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 616.091
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2742,
+      "markdown_body_line_end": 2748,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Minimum prize evidence card",
+      "preview": "CATEGORY + YEAR",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 468.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2752,
+      "markdown_body_line_end": 2758,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Scientific contribution classifier",
+      "preview": "THEORY -> explanation and prediction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 384.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 322.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2762,
+      "markdown_body_line_end": 2768,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Nobel category map",
+      "preview": "PHYSICS | CHEMISTRY | PHYSIOLOGY OR MEDICINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 300.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 238.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2772,
+      "markdown_body_line_end": 2778,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Citation-to-outcome staircase",
+      "preview": "OFFICIAL CITATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2782,
+      "markdown_body_line_end": 2788,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Attribution and chronology rail",
+      "preview": "PRIOR THEORY -> INSTRUMENT -> EXPERIMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2792,
+      "markdown_body_line_end": 2798,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Physics 2025 quantum-circuit map",
+      "preview": "SUPERCONDUCTING CIRCUIT + JOSEPHSON JUNCTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2802,
+      "markdown_body_line_end": 2808,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: John Clarke clue resolver",
+      "preview": "BORN -> Cambridge, United Kingdom",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2812,
+      "markdown_body_line_end": 2818,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Chemistry 2025 MOF architecture",
+      "preview": "METAL IONS -> nodes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2822,
+      "markdown_body_line_end": 2828,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Medicine 2025 tolerance pathway",
+      "preview": "CENTRAL TOLERANCE -> thymic control layer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2832,
+      "markdown_body_line_end": 2839,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: MicroRNA regulation rail",
+      "preview": "DNA --transcription--> mRNA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2843,
+      "markdown_body_line_end": 2850,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: India-linked scientist cards",
+      "preview": "RAMAN 1930 -> light scattering / Raman effect",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2861,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and future-status firewall",
+      "preview": "2026 Q81 -> direct biographical prize route",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    }
+  ]
+}

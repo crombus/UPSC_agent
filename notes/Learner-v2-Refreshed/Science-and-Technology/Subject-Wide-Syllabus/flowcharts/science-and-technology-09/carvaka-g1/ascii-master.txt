@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: AI taxonomy ladder
+ARTIFICIAL INTELLIGENCE -> broad task-performing systems
+MACHINE LEARNING -> patterns learned from data
+DEEP LEARNING -> multilayer neural networks
+GENERATIVE AI -> creates text, image, audio or code
+RULE -> identify method, task and evidence before impact
+
+ASCII MASTER FLOW — PANEL 2/12: Capability-to-deployment ladder
+RESEARCH CLAIM -> proposed method
+BENCHMARK RESULT -> bounded evaluation
+PROTOTYPE -> integrated demonstration
+DEPLOYMENT -> real workflow with users and monitoring
+OUTCOME -> measured benefit and harm after use
+
+ASCII MASTER FLOW — PANEL 3/12: Foundation-model risk tree
+PRETRAINED FOUNDATION MODEL -> broad downstream reuse
+DATA / LICENCE -> provenance constraints
+BIAS / SAFETY -> inherited application risk
+HALLUCINATION -> fluent output without verification
+CONTROL -> grounding, evaluation and human review
+
+ASCII MASTER FLOW — PANEL 4/12: IndiaAI institution map
+MeitY -> ministry policy and rule-making anchor
+INDIAAI / DIGITAL INDIA CORPORATION -> mission implementation
+NITI AAYOG -> earlier strategy and think-tank role
+SECTOR REGULATOR / DEPARTMENT -> deployment obligations
+RULE -> strategy, mission, regulator and law stay separate
+
+ASCII MASTER FLOW — PANEL 5/12: Mission pillar wheel
+COMPUTE + INNOVATION CENTRE + APPLICATIONS
+AIKOSH + STARTUP FINANCING + FUTURESKILLS
+SAFE AND TRUSTED AI -> governance tools and evaluation
+PILLAR -> implementation domain
+TRAP -> pillar name is not completed output
+
+ASCII MASTER FLOW — PANEL 6/12: Compute measurement firewall
+GPU OBJECTIVE -> planned hardware measure
+EMPANELLED CAPACITY -> procurement availability
+COMPUTE UNIT -> provider-defined service measure
+BOOKED / USED CAPACITY -> actual access or consumption
+RULE -> never convert one measure into another
+
+ASCII MASTER FLOW — PANEL 7/12: AIKosh evidence gate
+DATASET LISTING -> discoverability
+PROVENANCE / LICENCE -> lawful origin and permitted use
+QUALITY / REPRESENTATION -> fitness for Indian context
+ACCESS / SECURITY -> controlled use
+OUTCOME -> platform presence alone proves none of these
+
+ASCII MASTER FLOW — PANEL 8/12: Use-case deployment chain
+PUBLIC PROBLEM -> define legitimate objective
+DATA + MODEL -> build or procure component
+INTERFACE + HUMAN WORKFLOW -> operational decision
+MONITORING + APPEAL -> accountability after output
+RULE -> model capability is not service outcome
+
+ASCII MASTER FLOW — PANEL 9/12: Risk lifecycle
+PROBLEM SELECTION -> exclusion or mission creep
+DATA / TRAINING -> bias, privacy and provenance
+EVALUATION / PROCUREMENT -> hidden failure or lock-in
+DEPLOYMENT / UPDATE -> automation bias and drift
+CONTROL -> impact assessment, logs, incidents and review
+
+ASCII MASTER FLOW — PANEL 10/12: Risk and control matrix
+BIAS -> representative tests and remedy
+PRIVACY -> lawful purpose and minimisation
+SECURITY -> access control and resilience
+SAFETY / OPACITY -> evaluation, explanation and escalation
+MISINFORMATION -> provenance, labelling and enforcement
+
+ASCII MASTER FLOW — PANEL 11/12: Instrument hierarchy
+ADVISORY -> persuasive communication
+CONSULTATION REPORT / GUIDELINE -> non-binding framework
+NOTIFIED RULE -> binding under parent Act
+ACT -> primary legislation
+SECTORAL LAW -> context-specific enforceable duty
+
+ASCII MASTER FLOW — PANEL 12/12: AI governance answer spine
+DEFINE -> method, model, use case and deployment
+MAP -> mission pillar, ministry, implementer and regulator
+TRACE -> data, model, procurement, decision and monitoring
+RETAIN -> human reasons, contestability and remedy
+VERIFY -> outlay, compute, model and summit status officially

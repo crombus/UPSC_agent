@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-55",
+  "source_record": "polity-55:learner-v2:g2",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md": "d2a79512f401318c6c66bc5cde259b5d181757aacab380e8b325b60ee16e9c2e",
+    "tools\\deep_content_quality_overrides.json": "5f63e03700ca2e44c9c76574ec95fcbf5ad04361a4a193ecf8004834a7c50f88",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\55_Constitutional-Interpretation-Doctrines.md": "977fd9c87777ed0ec26757f576938e7355e9b0827e4f3201d718abe33db9e9d6",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md": "75a1967e9239ed72ccb223fde77b020e510f575aba623e578dbd7e0dc3569c69",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-55-2026-08-25-sequential.json": "7b4cbec0d0001e88b51e135ca87d5c7c913b359ed2d0f75d4ab20491b36ccfd9",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-55.json": "daaf909d60a92d53caf2022abd6b79c298325fdd51b73fa3b3d790f2a05ecdc1"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md": "d2a79512f401318c6c66bc5cde259b5d181757aacab380e8b325b60ee16e9c2e",
+    "tools\\deep_content_quality_overrides.json": "5f63e03700ca2e44c9c76574ec95fcbf5ad04361a4a193ecf8004834a7c50f88",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\55_Constitutional-Interpretation-Doctrines.md": "977fd9c87777ed0ec26757f576938e7355e9b0827e4f3201d718abe33db9e9d6",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md": "75a1967e9239ed72ccb223fde77b020e510f575aba623e578dbd7e0dc3569c69",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-55-2026-08-25-sequential.json": "7b4cbec0d0001e88b51e135ca87d5c7c913b359ed2d0f75d4ab20491b36ccfd9",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-55.json": "daaf909d60a92d53caf2022abd6b79c298325fdd51b73fa3b3d790f2a05ecdc1"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

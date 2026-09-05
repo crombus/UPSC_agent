@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Developer user producer map
+SERVICES -> articulate requirement and conduct user evaluation
+DRDO -> design, develop, integrate and test
+PRODUCTION AGENCY -> manufacture and quality assurance
+SERVICES -> accept, induct, train and operate
+RULE -> one institution cannot be substituted for another
+
+ASCII MASTER FLOW — PANEL 2/12: MSS subsystem chain
+DRDL / RCI / ASL / TBRL / ITR -> specialised roles
+AIRFRAME + PROPULSION -> controlled flight
+NAVIGATION + GUIDANCE + HOMING -> target solution
+WARHEAD + LAUNCH + COMMAND SYSTEM -> weapon integration
+RULE -> subsystem success is not integrated-system status
+
+ASCII MASTER FLOW — PANEL 3/12: Ballistic versus cruise
+BALLISTIC -> powered boost then largely ballistic path
+CRUISE -> sustained powered and guided atmospheric flight
+BALLISTIC DRIVER -> rocket boost and trajectory
+CRUISE DRIVER -> air-breathing propulsion and aerodynamic control
+TRAP -> range alone never determines the class
+
+ASCII MASTER FLOW — PANEL 4/12: Hypersonic taxonomy
+HYPERSONIC -> speed description, not one weapon class
+BOOST-GLIDE -> rocket boost then manoeuvring glide
+HYPERSONIC CRUISE -> sustained scramjet-type propulsion
+BALLISTIC RE-ENTRY -> may also be hypersonic
+RULE -> identify flight profile before status or capability
+
+ASCII MASTER FLOW — PANEL 5/12: Operational-role matrix
+SAM / AKASH -> surface launch against aerial threats
+AAM / ASTRA -> aircraft launch against aerial threats
+ATGM / NAG -> guided anti-armour role
+PINAKA -> rocket-artillery land fires
+RULE -> launch point, target and role travel together
+
+ASCII MASTER FLOW — PANEL 6/12: Weapon and platform split
+MISSILE -> guided weapon
+LAUNCHER -> ground or shipboard launch equipment
+AIRCRAFT / SHIP / SUBMARINE -> delivery platform
+MULTI-PLATFORM CONFIGURATION -> does not merge categories
+SPACE LAUNCH VEHICLE -> separate non-weapon function
+
+ASCII MASTER FLOW — PANEL 7/12: IGMDP lineage
+1983 -> IGMDP begins
+PRITHVI / TRISHUL / AKASH / NAG -> programme families
+AGNI -> technology-demonstrator lineage
+MARCH 2012 -> programme closure
+RULE -> later systems require their own programme provenance
+
+ASCII MASTER FLOW — PANEL 8/12: BrahMos institutional card
+DRDO -> Indian joint-venture partner
+NPOM -> Russian joint-venture partner
+BRAHMOS AEROSPACE -> developer and producer entity
+SYSTEM CLASS -> supersonic cruise missile
+TRAP -> neither solo domestic nor ballistic
+
+ASCII MASTER FLOW — PANEL 9/12: Status ladder
+DEVELOPMENTAL TRIAL -> tested proposition
+USER EVALUATION -> service-oriented validation
+READY FOR INDUCTION -> recommendation, not induction
+CONTRACT / DELIVERY / INDUCTION -> separate evidence
+DEPLOYMENT -> requires its own official confirmation
+
+ASCII MASTER FLOW — PANEL 10/12: Air-defence system rail
+SENSORS -> detect and track
+COMMAND-AND-CONTROL -> fuse, classify and assign
+INTERCEPTORS -> engage selected threat classes
+LOGISTICS / READINESS -> sustain coverage
+TRAP -> announcement or one interceptor is not a shield
+
+ASCII MASTER FLOW — PANEL 11/12: Routed PYQ firewall
+STEALTH -> reduced observability, not invisibility
+EXPLOSIVES -> category fact, not warhead detail
+THAAD -> United States missile-defence system
+FOBS -> fractional-orbit strike concept
+RULE -> answer only the routed technical distinction
+
+ASCII MASTER FLOW — PANEL 12/12: Capability-claim firewall
+DEFINE -> weapon class and operational role
+MAP -> developer, user, producer and platform
+TRACE -> subsystem and test-to-service chain
+LABEL -> announced, tested, contracted, inducted or deployed
+VERIFY -> range, speed, stages, guidance and warhead officially

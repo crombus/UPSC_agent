@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-51",
+  "source_record": "polity-51:learner-v2:g2",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md": "14a0eecd65eeb10d8a7d95dfa85c7b47c4507a46a9006ef746dc66f4f52541b3",
+    "tools\\deep_content_quality_overrides.json": "b269789910b8bfa331ec2c27377717078fa73a04c17ee7f431decf6acdcb7cb7",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\51_Rights-and-Liabilities-of-the-Government.md": "afd49749ecb176ca0787288b058d844cd2ff8dad756eaede8fd7865d322777a2",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md": "d55ac0c925b6cf74b22de8f1de57c5410da02ed85a4237057f075494b1b030b4",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-51-2026-08-25-sequential.json": "2930a922432954e848876379f41fb529fb8d6203993a9d4f14108398e046a00a",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-51.json": "e592c6a1529d3d8f1b5d714b7d06f696f98f2681c7fb74f91d080893b97f0a23"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md": "14a0eecd65eeb10d8a7d95dfa85c7b47c4507a46a9006ef746dc66f4f52541b3",
+    "tools\\deep_content_quality_overrides.json": "b269789910b8bfa331ec2c27377717078fa73a04c17ee7f431decf6acdcb7cb7",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\51_Rights-and-Liabilities-of-the-Government.md": "afd49749ecb176ca0787288b058d844cd2ff8dad756eaede8fd7865d322777a2",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md": "d55ac0c925b6cf74b22de8f1de57c5410da02ed85a4237057f075494b1b030b4",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-51-2026-08-25-sequential.json": "2930a922432954e848876379f41fb529fb8d6203993a9d4f14108398e046a00a",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-51.json": "e592c6a1529d3d8f1b5d714b7d06f696f98f2681c7fb74f91d080893b97f0a23"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

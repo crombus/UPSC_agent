@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Design-to-device rail
+DESIGN / IP / EDA -> architecture, verification and tape-out
+FOUNDRY / FAB -> transistor and interconnect layers on wafer
+DICING -> wafer becomes individual dies
+ATMP / OSAT -> assemble, test, mark and package
+BOARD / MODULE / DEVICE -> downstream electronics integration
+
+ASCII MASTER FLOW — PANEL 2/12: Semiconductor business-model matrix
+FAB -> physical wafer-manufacturing plant
+FABLESS -> designs and outsources wafer manufacture
+FOUNDRY -> manufactures to customers' designs
+IDM -> designs and fabricates its own products
+RULE -> plant type and firm model answer different questions
+
+ASCII MASTER FLOW — PANEL 3/12: Front-end versus back-end
+FRONT END -> deposition, lithography, etching, doping, metallisation
+OUTPUT -> processed wafer containing dies
+BACK END -> bonding, encapsulation, testing, marking, packaging
+ATMP -> process description; OSAT -> outsourced service model
+TRAP -> back-end capacity is not front-end fabrication
+
+ASCII MASTER FLOW — PANEL 4/12: Node and lithography ladder
+MATURE / MID-RANGE -> broad automotive, industrial and power uses
+DUV -> mature and mid-range lithography route
+LEADING EDGE -> rising complexity and capital intensity
+EUV -> concentrated equipment and export-control chokepoint
+RULE -> verify every project-specific node claim officially
+
+ASCII MASTER FLOW — PANEL 5/12: Advanced integration map
+CHIPLETS -> specialised dies combined as one system
+2.5D / 3D -> denser package-level integration
+THROUGH-SILICON VIAS -> vertical interconnect route
+HETEROGENEOUS INTEGRATION -> combine unlike functions or processes
+INSIGHT -> performance gains need not begin with smaller lithography
+
+ASCII MASTER FLOW — PANEL 6/12: Materials taxonomy
+COMPOUND SEMICONDUCTORS -> GaN / GaAs / InP / SiC
+POWER / RF / OPTOELECTRONICS -> application families
+SILICON PHOTONICS -> silicon optical-interconnect platform
+POLICY GROUPING -> may place unlike technologies together
+RULE -> scheme nomenclature does not change material physics
+
+ASCII MASTER FLOW — PANEL 7/12: Fab viability chain
+RELIABLE POWER + ULTRA-PURE WATER -> stable processing
+GASES + CHEMICALS + EQUIPMENT -> controlled process steps
+REPEATED RUNS -> yield learning
+RELIABILITY EVIDENCE -> customer qualification
+OUTCOME -> inauguration alone is not competitive production
+
+ASCII MASTER FLOW — PANEL 8/12: Institution and scheme map
+MeitY -> parent ministry
+ISM -> implementing agency
+SEMICON INDIA -> scheme package
+DLI -> design-focused channel
+SPECS / PLI -> separate complementary electronics incentives
+
+ASCII MASTER FLOW — PANEL 9/12: Semicon 1.0 to 2.0
+SEMICON INDIA 1.0 -> Rs 76,000 crore umbrella
+FOUR CHANNELS -> fabs, displays, compound/sensor/ATMP, DLI
+15 JUL 2026 -> Semicon 2.0 Cabinet approval
+SEMICON 2.0 -> Rs 1,27,500 crore approved outlay
+SIX PILLARS -> design, tools/materials, fabs, back end, R&D, talent
+
+ASCII MASTER FLOW — PANEL 10/12: Facility evidence map
+DHOLERA -> fab; later named compound-fab plus ATMP approval
+MORIGAON -> officially identified OSAT / ATMP location
+SANAND -> officially identified back-end cluster and inaugurations
+SURAT -> Suchi Semicon OSAT approval
+RULE -> location must travel with project and status verb
+
+ASCII MASTER FLOW — PANEL 11/12: Status firewall
+APPROVED -> policy permission and support decision
+AGREEMENT / GROUNDBREAKING -> financing or construction milestone
+INAUGURATED / PRESENTED -> physical or demonstration milestone
+QUALIFIED COMMERCIAL SUPPLY -> separate operating evidence
+RULE -> never skip a rung or invent production
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ answer spine
+DEFINE -> value chain, fab models and ATMP / OSAT
+MAP -> ISM, four Semicon 1.0 channels and Semicon 2.0 pillars
+ANALYSE -> tools, utilities, talent, yield and qualification
+EVIDENCE -> DHRUV64 and facilities with exact status verbs
+QUALIFY -> no project total, node, commercial output or answer key

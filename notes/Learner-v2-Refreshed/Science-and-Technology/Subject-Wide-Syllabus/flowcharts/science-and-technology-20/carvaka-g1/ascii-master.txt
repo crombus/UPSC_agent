@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Property structure processing map
+COMPOSITION + BONDING -> intrinsic behaviour
+CRYSTAL / MOLECULAR STRUCTURE -> property pathways
+MICROSTRUCTURE + DEFECTS -> local performance
+PROCESSING -> changes structure and defects
+TEST -> strength != stiffness != toughness != hardness
+
+ASCII MASTER FLOW — PANEL 2/12: Advanced materials family
+ADVANCED MATERIAL -> engineered demanding function
+COMPOSITE -> matrix + reinforcement
+CARBON-FIBRE COMPOSITE -> high specific strength/stiffness
+SMART MATERIAL -> stimulus-responsive property
+EXAMPLES -> shape-memory alloy | piezoelectric material
+
+ASCII MASTER FLOW — PANEL 3/12: REE classification rail
+REE = 15 LANTHANIDES + SCANDIUM + YTTRIUM
+LIGHT -> La | Ce | Pr | Nd
+HEAVY OWNER EXAMPLES -> Dy | Tb | Y
+MONAZITE -> chiefly light-REE-rich Indian context
+TRAP -> geological occurrence != separated magnet input
+
+ASCII MASTER FLOW — PANEL 4/12: Category firewall
+CHEMICAL GROUP -> rare earth elements
+POLICY CATEGORY -> critical minerals
+STATUTORY ROUTE -> Part D
+EXPLORATION ROUTE -> Seventh Schedule
+LITHIUM / COBALT / NICKEL / GRAPHITE -> critical may be, REE no
+
+ASCII MASTER FLOW — PANEL 5/12: Permanent magnet capability ladder
+ORE -> SEPARATION -> OXIDE / METAL
+METAL -> ALLOY -> MAGNET
+MAGNET -> MOTOR / ELECTRONICS / DEFENCE
+Nd -> magnetic performance
+Dy / Tb -> high-temperature qualification
+
+ASCII MASTER FLOW — PANEL 6/12: Battery mineral role matrix
+LITHIUM -> charge-carrier system input
+NICKEL + COBALT -> NMC / NCA cathodes
+GRAPHITE -> common lithium-ion anode
+LFP -> neither nickel nor cobalt
+SODIUM-ION -> avoids lithium
+
+ASCII MASTER FLOW — PANEL 7/12: Named application portfolio
+GALLIUM / GERMANIUM -> high-tech electronics
+COPPER -> electrical systems
+REE -> magnets | phosphors | catalysts | specialised optics
+TITANIUM-BEARING MINERALS -> separate policy / geography input
+MONAZITE -> rare-earth values + thorium-bearing context
+
+ASCII MASTER FLOW — PANEL 8/12: Mine to technology value chain
+EXPLORE -> ASSESS -> DEVELOP -> EXTRACT
+BENEFICIATE -> SEPARATE / REFINE
+OXIDE / METAL / ALLOY -> COMPONENT
+COMPONENT -> BATTERY / MAGNET / CHIP / SYSTEM
+RECYCLE -> recovered feed with purity/economic limits
+
+ASCII MASTER FLOW — PANEL 9/12: Dependency heat map
+UPSTREAM -> geology | mine | permitting
+MIDSTREAM -> separation | refining | intermediate
+DOWNSTREAM -> cell | magnet | chip | equipment
+ENABLERS -> technology | finance | logistics | offtake
+VERDICT -> secure mine alone is partial security
+
+ASCII MASTER FLOW — PANEL 10/12: Circular materials loop
+DESIGN -> durability | repair | disassembly
+USE -> reuse / remanufacture
+COLLECT -> sort -> pre-process
+RECOVER -> purify -> re-enter manufacture
+SUBSTITUTE + EFFICIENCY -> reduce primary-material pressure
+
+ASCII MASTER FLOW — PANEL 11/12: Mine-life safeguard chain
+SITING -> cumulative impact + consultation
+OPERATIONS -> dust | noise | water | tailings controls
+COMMUNITY -> FRA due diligence | disclosure | grievance
+RECLAMATION -> topsoil | stable dumps | native restoration
+CLOSURE -> finance + monitoring; plan != achieved outcome
+
+ASCII MASTER FLOW — PANEL 12/12: India institutions status and PYQ rail
+MINES -> policy | GSI -> survey/explore | IBM -> plans/conservation
+STATE GRANT + s.11D CENTRAL AUCTION -> distinct roles
+IREL / DAE -> monazite route | KABIL -> overseas route
+MoES / NIOT / ISA -> deep-ocean exploration boundary
+REPORT -> LAW -> APPROVAL -> MOU -> EXPLORATION -> PRODUCTION -> OUTCOME

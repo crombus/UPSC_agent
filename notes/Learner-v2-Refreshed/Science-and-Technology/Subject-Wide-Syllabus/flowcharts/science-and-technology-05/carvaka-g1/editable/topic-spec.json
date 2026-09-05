@@ -1,0 +1,1101 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-05",
+  "subject": "Science-and-Technology",
+  "title": "NUCLEAR FUSION AND ITER",
+  "short_route": "NUCLEAR-PROCESS FIREWALL → D-T ENERGY MAP → FUSION-CONDITION TRIANGLE → CONFINEMENT COMPARISON → BREAKEVEN LADDER → NEUTRON-TO-MATERIAL CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\science-and-technology-05_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-05-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "00ec3db0bb88dc27fb744ea9adb5711a310bf08c6daa0b114a269d8d2fccd89e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "NUCLEAR-PROCESS FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NUCLEAR-PROCESS FIREWALL",
+          "role": "mechanism"
+        },
+        {
+          "text": "SPLITS HEAVY NUCLEI AND POWERS CURRENT REACTORS",
+          "role": "outcome"
+        },
+        {
+          "text": "COMBINES LIGHT NUCLEI IN EXPERIMENTAL SYSTEMS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMERCIAL STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "FISSION OPERATING, FUSION NOT DEPLOYED",
+          "role": "caution"
+        },
+        {
+          "text": "SHARED WORD NUCLEAR",
+          "role": "outcome"
+        },
+        {
+          "text": "DOES NOT ERASE PROCESS DIFFERENCES",
+          "role": "caution"
+        },
+        {
+          "text": "TOPIC 05 CANNOT SUBSTITUTE FOR TOPIC 04",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FISSION → splits heavy nuclei and powers current reactors",
+        "FUSION → combines light nuclei in experimental systems",
+        "COMMERCIAL STATUS → fission operating, fusion not deployed",
+        "SHARED WORD NUCLEAR → does not erase process differences",
+        "RULE → Topic 05 cannot substitute for Topic 04"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "FISSION → splits heavy nuclei and powers current reactors",
+          "COMMERCIAL STATUS → fission operating, fusion not deployed",
+          "RULE → Topic 05 cannot substitute for Topic 04"
+        ],
+        [
+          "FUSION → combines light nuclei in experimental systems",
+          "SHARED WORD NUCLEAR → does not erase process differences",
+          "FISSION → splits heavy nuclei and powers current reactors"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "FISSION → splits heavy nuclei and powers current reactors",
+            "FUSION → combines light nuclei in experimental systems"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMMERCIAL STATUS → fission operating, fusion not deployed",
+            "SHARED WORD NUCLEAR → does not erase process differences"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → Topic 05 cannot substitute for Topic 04",
+            "FISSION → splits heavy nuclei and powers current reactors"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → Topic 05 cannot substitute for Topic 04.",
+      "source_references": [
+        "Fusion-fission boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "D-T ENERGY MAP",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "D-T ENERGY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DEUTERIUM + TRITIUM",
+          "role": "outcome"
+        },
+        {
+          "text": "FUSION REACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CHARGED PRODUCT RETAINED FOR SELF-HEATING",
+          "role": "evidence"
+        },
+        {
+          "text": "CARRIES MOST ENERGY OUT OF PLASMA",
+          "role": "primary"
+        },
+        {
+          "text": "CAPTURES HEAT AND SUPPORTS FUEL FUNCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTICLE ROLE CONTROLS ENGINEERING CONSEQUENCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEUTERIUM + TRITIUM → fusion reaction",
+        "HELIUM-4 / ALPHA → charged product retained for self-heating",
+        "NEUTRON → carries most energy out of plasma",
+        "BLANKET → captures heat and supports fuel functions",
+        "RULE → particle role controls engineering consequence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DEUTERIUM + TRITIUM → fusion reaction",
+            "HELIUM-4 / ALPHA → charged product retained for self-heating"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NEUTRON → carries most energy out of plasma",
+            "BLANKET → captures heat and supports fuel functions"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → particle role controls engineering consequence",
+            "DEUTERIUM + TRITIUM → fusion reaction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BLANKET → captures heat and supports fuel functions.",
+      "source_references": [
+        "DT-reaction boundary",
+        "Alpha-neutron boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FUSION-CONDITION TRIANGLE",
+      "structural_type": "triangle",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FUSION-CONDITION TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "RAISES PROBABILITY OF OVERCOMING REPULSION",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPLIES REACTING PARTICLES",
+          "role": "comparison"
+        },
+        {
+          "text": "CONFINEMENT TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "RETAINS ENERGY LONG ENOUGH",
+          "role": "primary"
+        },
+        {
+          "text": "LAWSON TRIPLE PRODUCT",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL THREE MUST COMBINE",
+          "role": "comparison"
+        },
+        {
+          "text": "A TEMPERATURE RECORD ALONE PROVES LITTLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEMPERATURE → raises probability of overcoming repulsion",
+        "DENSITY → supplies reacting particles",
+        "CONFINEMENT TIME → retains energy long enough",
+        "LAWSON TRIPLE PRODUCT → all three must combine",
+        "TRAP → a temperature record alone proves little"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "TEMPERATURE → raises probability of overcoming repulsion",
+            "DENSITY → supplies reacting particles"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CONFINEMENT TIME → retains energy long enough",
+            "LAWSON TRIPLE PRODUCT → all three must combine"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → a temperature record alone proves little",
+            "TEMPERATURE → raises probability of overcoming repulsion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → a temperature record alone proves little.",
+      "source_references": [
+        "Temperature-plasma boundary",
+        "Lawson boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CONFINEMENT COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONFINEMENT COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "LOWER DENSITY AND LONGER CONFINEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "TORUS WITH STRONG PLASMA CURRENT",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTERNALLY SHAPED STEADY-FIELD GEOMETRY",
+          "role": "evidence"
+        },
+        {
+          "text": "DENSE TARGET AND EXTREMELY SHORT CONFINEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "APPROACH AND DEVICE NAME ARE NOT POWER STATUS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MAGNETIC → lower density and longer confinement",
+        "TOKAMAK → torus with strong plasma current",
+        "STELLARATOR → externally shaped steady-field geometry",
+        "INERTIAL → dense target and extremely short confinement",
+        "RULE → approach and device name are not power status"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "MAGNETIC → lower density and longer confinement",
+          "STELLARATOR → externally shaped steady-field geometry",
+          "RULE → approach and device name are not power status"
+        ],
+        [
+          "TOKAMAK → torus with strong plasma current",
+          "INERTIAL → dense target and extremely short confinement",
+          "MAGNETIC → lower density and longer confinement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "MAGNETIC → lower density and longer confinement",
+            "TOKAMAK → torus with strong plasma current"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "STELLARATOR → externally shaped steady-field geometry",
+            "INERTIAL → dense target and extremely short confinement"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → approach and device name are not power status",
+            "MAGNETIC → lower density and longer confinement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → approach and device name are not power status.",
+      "source_references": [
+        "Magnetic-inertial boundary",
+        "Tokamak-stellarator boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BREAKEVEN LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BREAKEVEN LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "PLASMA Q",
+          "role": "outcome"
+        },
+        {
+          "text": "FUSION POWER DIVIDED BY INJECTED HEATING",
+          "role": "mechanism"
+        },
+        {
+          "text": "Q ABOVE ONE",
+          "role": "evidence"
+        },
+        {
+          "text": "PLASMA-LEVEL SCIENTIFIC THRESHOLD",
+          "role": "primary"
+        },
+        {
+          "text": "ENGINEERING Q",
+          "role": "outcome"
+        },
+        {
+          "text": "INCLUDES RECIRCULATING PLANT LOADS",
+          "role": "comparison"
+        },
+        {
+          "text": "NET ELECTRICITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLASMA Q → fusion power divided by injected heating",
+        "Q ABOVE ONE → plasma-level scientific threshold",
+        "ENGINEERING Q → includes recirculating plant loads",
+        "NET ELECTRICITY → includes thermal conversion and all consumption",
+        "COMMERCIALITY → adds availability, cost and licensing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PLASMA Q → fusion power divided by injected heating",
+            "Q ABOVE ONE → plasma-level scientific threshold"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ENGINEERING Q → includes recirculating plant loads",
+            "NET ELECTRICITY → includes thermal conversion and all consumption"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "COMMERCIALITY → adds availability, cost and licensing",
+            "PLASMA Q → fusion power divided by injected heating"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NET ELECTRICITY → includes thermal conversion and all consumption.",
+      "source_references": [
+        "Q-plasma boundary",
+        "Engineering-breakeven boundary",
+        "DEMO-commercial boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NEUTRON-TO-MATERIAL CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NEUTRON-TO-MATERIAL CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "14.1 MEV NEUTRON",
+          "role": "outcome"
+        },
+        {
+          "text": "ESCAPES MAGNETIC CONFINEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "RECEIVES ENERGY AND MAY BREED TRITIUM",
+          "role": "evidence"
+        },
+        {
+          "text": "DISPLACEMENT DAMAGE AND TRANSMUTATION",
+          "role": "primary"
+        },
+        {
+          "text": "RADIOACTIVE MATERIAL-MANAGEMENT ISSUE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE ENGINEERING FEASIBILITY CONSTRAINT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "14.1 MeV NEUTRON → escapes magnetic confinement",
+        "BLANKET → receives energy and may breed tritium",
+        "STRUCTURE → displacement damage and transmutation",
+        "ACTIVATION → radioactive material-management issue",
+        "LIFETIME → separate engineering feasibility constraint"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "14.1 MeV NEUTRON → escapes magnetic confinement",
+            "BLANKET → receives energy and may breed tritium"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STRUCTURE → displacement damage and transmutation",
+            "ACTIVATION → radioactive material-management issue"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "LIFETIME → separate engineering feasibility constraint",
+            "14.1 MeV NEUTRON → escapes magnetic confinement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BLANKET → receives energy and may breed tritium.",
+      "source_references": [
+        "Alpha-neutron boundary",
+        "Materials boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TRITIUM FUEL LOOP",
+      "structural_type": "cyclic-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRITIUM FUEL LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "D-T PLASMA",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSUMES TRITIUM",
+          "role": "comparison"
+        },
+        {
+          "text": "FUSION NEUTRON",
+          "role": "evidence"
+        },
+        {
+          "text": "ENTERS LITHIUM-BEARING BLANKET",
+          "role": "primary"
+        },
+        {
+          "text": "LITHIUM REACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCES NEW TRITIUM",
+          "role": "comparison"
+        },
+        {
+          "text": "RETURNS USABLE FUEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "D-T PLASMA → consumes tritium",
+        "FUSION NEUTRON → enters lithium-bearing blanket",
+        "LITHIUM REACTION → produces new tritium",
+        "EXTRACTION / PROCESSING → returns usable fuel",
+        "RULE → a test blanket is not a closed commercial cycle"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "D-T PLASMA → consumes tritium",
+            "FUSION NEUTRON → enters lithium-bearing blanket"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LITHIUM REACTION → produces new tritium",
+            "EXTRACTION / PROCESSING → returns usable fuel"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → a test blanket is not a closed commercial cycle",
+            "D-T PLASMA → consumes tritium"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a test blanket is not a closed commercial cycle.",
+      "source_references": [
+        "Tritium-breeding boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PLASMA EXHAUST PATH",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PLASMA EXHAUST PATH",
+          "role": "primary"
+        },
+        {
+          "text": "CORE PLASMA",
+          "role": "outcome"
+        },
+        {
+          "text": "CREATES HEAT AND HELIUM ASH",
+          "role": "comparison"
+        },
+        {
+          "text": "EDGE TRANSPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "MOVES PARTICLES AND HEAT OUTWARD",
+          "role": "primary"
+        },
+        {
+          "text": "EXHAUSTS IMPURITIES AND HELIUM",
+          "role": "outcome"
+        },
+        {
+          "text": "PLASMA-FACING MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "RECEIVES EXTREME HEAT LOAD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE PLASMA → creates heat and helium ash",
+        "EDGE TRANSPORT → moves particles and heat outward",
+        "DIVERTOR → exhausts impurities and helium",
+        "PLASMA-FACING MATERIAL → receives extreme heat load",
+        "RULE → confinement success does not solve exhaust lifetime"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "CORE PLASMA → creates heat and helium ash",
+            "EDGE TRANSPORT → moves particles and heat outward"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIVERTOR → exhausts impurities and helium",
+            "PLASMA-FACING MATERIAL → receives extreme heat load"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → confinement success does not solve exhaust lifetime",
+            "CORE PLASMA → creates heat and helium ash"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → confinement success does not solve exhaust lifetime.",
+      "source_references": [
+        "Materials boundary",
+        "Divertor boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ITER MISSION CARD",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ITER MISSION CARD",
+          "role": "primary"
+        },
+        {
+          "text": "UNDER CONSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPERIMENTAL INTERNATIONAL TOKAMAK",
+          "role": "comparison"
+        },
+        {
+          "text": "BURNING-PLASMA STUDY",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE SCIENTIFIC PURPOSE",
+          "role": "primary"
+        },
+        {
+          "text": "Q=10 DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "500 MW FUSION FROM 50 MW PLASMA HEATING",
+          "role": "comparison"
+        },
+        {
+          "text": "NO TURBINE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "UNDER CONSTRUCTION → experimental international tokamak",
+        "BURNING-PLASMA STUDY → core scientific purpose",
+        "Q=10 DESIGN → 500 MW fusion from 50 MW plasma heating",
+        "NO TURBINE → no conversion to grid electricity",
+        "TEST TECHNOLOGIES → bridge to later machines"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "UNDER CONSTRUCTION → experimental international tokamak",
+            "BURNING-PLASMA STUDY → core scientific purpose"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Q=10 DESIGN → 500 MW fusion from 50 MW plasma heating",
+            "NO TURBINE → no conversion to grid electricity"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "TEST TECHNOLOGIES → bridge to later machines",
+            "UNDER CONSTRUCTION → experimental international tokamak"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO TURBINE → no conversion to grid electricity.",
+      "source_references": [
+        "ITER-purpose boundary",
+        "ITER-Q boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIA-IN-ITER MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA-IN-ITER MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ONE OF SEVEN ITER MEMBERS",
+          "role": "outcome"
+        },
+        {
+          "text": "IN-KIND PACKAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIED HARDWARE AND SYSTEMS",
+          "role": "evidence"
+        },
+        {
+          "text": "DAE-AIDED PLASMA-RESEARCH INSTITUTE",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC PROCUREMENT AND DELIVERY AGENCY IN IPR",
+          "role": "outcome"
+        },
+        {
+          "text": "MEMBERSHIP, INSTITUTE, AGENCY AND PACKAGE DIFFER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INDIA → one of seven ITER members",
+        "IN-KIND PACKAGES → specified hardware and systems",
+        "IPR → DAE-aided plasma-research institute",
+        "ITER-INDIA → domestic procurement and delivery agency in IPR",
+        "RULE → membership, institute, agency and package differ"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "INDIA → one of seven ITER members",
+            "IN-KIND PACKAGES → specified hardware and systems"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "IPR → DAE-aided plasma-research institute",
+            "ITER-INDIA → domestic procurement and delivery agency in IPR"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → membership, institute, agency and package differ",
+            "INDIA → one of seven ITER members"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → membership, institute, agency and package differ.",
+      "source_references": [
+        "Membership-contribution boundary",
+        "IPR-ITERIndia boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DOMESTIC RESEARCH DEVICES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOMESTIC RESEARCH DEVICES",
+          "role": "primary"
+        },
+        {
+          "text": "EXPERIMENTAL TOKAMAK AND PLASMA CAMPAIGNS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPERCONDUCTING LONG-PULSE RESEARCH PLATFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "RESEARCH OUTPUT",
+          "role": "evidence"
+        },
+        {
+          "text": "DIAGNOSTICS, CONTROL AND OPERATING KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "NOT OUTPUT",
+          "role": "caution"
+        },
+        {
+          "text": "COMMERCIAL FUSION ELECTRICITY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPERIMENTAL OPERATION IS NOT POWER GENERATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ADITYA-U → experimental tokamak and plasma campaigns",
+        "SST-1 → superconducting long-pulse research platform",
+        "RESEARCH OUTPUT → diagnostics, control and operating knowledge",
+        "NOT OUTPUT → commercial fusion electricity",
+        "RULE → experimental operation is not power generation"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "ADITYA-U → experimental tokamak and plasma campaigns",
+          "RESEARCH OUTPUT → diagnostics, control and operating knowledge",
+          "RULE → experimental operation is not power generation"
+        ],
+        [
+          "SST-1 → superconducting long-pulse research platform",
+          "NOT OUTPUT → commercial fusion electricity",
+          "ADITYA-U → experimental tokamak and plasma campaigns"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "ADITYA-U → experimental tokamak and plasma campaigns",
+            "SST-1 → superconducting long-pulse research platform"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RESEARCH OUTPUT → diagnostics, control and operating knowledge",
+            "NOT OUTPUT → commercial fusion electricity"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → experimental operation is not power generation",
+            "ADITYA-U → experimental tokamak and plasma campaigns"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → experimental operation is not power generation.",
+      "source_references": [
+        "Domestic-device boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FUSION-READINESS ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FUSION-READINESS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "D-T FUSION PLASMA CONFINEMENT LAWSON AND Q",
+          "role": "outcome"
+        },
+        {
+          "text": "ALPHA HEATING NEUTRON BLANKET TRITIUM AND MATERIALS",
+          "role": "comparison"
+        },
+        {
+          "text": "PLASMA GAIN ENGINEERING GAIN AND NET ELECTRICITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ITER INDIA IPR ITER-INDIA ADITYA-U SST-1 AND DEMO",
+          "role": "primary"
+        },
+        {
+          "text": "DATED SCHEDULE COST CONTRIBUTION AND MILESTONE EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → D-T fusion plasma confinement Lawson and Q",
+        "TRACE → alpha heating neutron blanket tritium and materials",
+        "SEPARATE → plasma gain engineering gain and net electricity",
+        "MAP → ITER India IPR ITER-India ADITYA-U SST-1 and DEMO",
+        "VERIFY → dated schedule cost contribution and milestone evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DEFINE → D-T fusion plasma confinement Lawson and Q",
+            "TRACE → alpha heating neutron blanket tritium and materials"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SEPARATE → plasma gain engineering gain and net electricity",
+            "MAP → ITER India IPR ITER-India ADITYA-U SST-1 and DEMO"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → dated schedule cost contribution and milestone evidence",
+            "DEFINE → D-T fusion plasma confinement Lawson and Q"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → dated schedule cost contribution and milestone evidence.",
+      "source_references": [
+        "Schedule-status boundary",
+        "DEMO-commercial boundary",
+        "Volatile fusion boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ITER ORGANIZATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GLOBAL FLAGSHIP EXPERIMENTAL FUSION COLLABORATION OF SEVEN MEMBERS —",
+          "role": "comparison"
+        },
+        {
+          "text": "CHINA, JAPAN, SOUTH KOREA, RUSSIA AND THE USA —",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA AS ITER MEMBER",
+          "role": "primary"
+        },
+        {
+          "text": "CONTRIBUTES NINE IN-KIND PACKAGES — CRYOSTAT, IN-WALL SHIELDING, COOLING-WATER",
+          "role": "outcome"
+        },
+        {
+          "text": "SYSTEM, ION-CYCLOTRON RF HEATING, ELECTRON-CYCLOTRON RF HEATING, DIAGNOSTIC NEUTRAL",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTE FOR PLASMA RESEARCH (IPR), GANDHINAGAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "ITER Organization: global flagship experimental fusion collaboration of seven members — India, EU,",
+            "China, Japan, South Korea, Russia and the USA — sited at Saint-Paul-lez-Durance, France.",
+            "India as ITER member: contributes nine in-kind packages — cryostat, in-wall shielding, cooling-water system, cryogenic",
+            "system, ion-cyclotron RF heating, electron-cyclotron RF heating, diagnostic neutral beam, power supplies and diagnostics."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Institute for Plasma Research (IPR), Gandhinagar: a DAE-aided institute",
+            "India's plasma-physics and fusion-research base, operating ADITYA-U and SST-1.",
+            "ITER-India: the Indian Domestic Agency for ITER, constituted as a dedicated project within IPR .",
+            "It contracts Indian industry, manages delivery schedules and interfaces with the ITER Organization."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Writing \"IPR / ITER-India\" as one entity blurs a research institute with a procurement agency — precisely",
+            "SST-1 and Aditya-U: domestic experimental platforms that cultivate operational knowledge and scientific manpower",
+            "IPR describes them as research devices, not power reactors.",
+            "CAUTION: Fusion cooperation is simultaneously scientific diplomacy, industrial capability-building and long-horizon energy strategy."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

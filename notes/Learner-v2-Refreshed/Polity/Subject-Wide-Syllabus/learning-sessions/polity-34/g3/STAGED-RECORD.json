@@ -1,0 +1,108 @@
+{
+  "record_id": "polity-34:learner-v2:g3",
+  "topic_key": "polity-34",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "polity-34:learner-v2:g2",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — NITI Aayog — deep-content repaired immutable generation",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g3\\polity-34_Complete-Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g3\\polity-34_Solved-Practice-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g3\\polity-34_Complete-Learning-Session_2026-08-28.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g3\\polity-34_Solved-Practice-Workbook_2026-08-28.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g3\\assets",
+  "generated_on": "2026-08-28",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\34_NITI-Aayog_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\Indian Polity by M Laxmikant.pdf"
+    ],
+    "live_sources": [
+      "https://www.niti.gov.in/about-us/niti-aayog-constitution/cabinet-secretariat-resolution-dated-01-01-2015",
+      "https://www.niti.gov.in/about-us/objectives-and-features",
+      "https://www.niti.gov.in/about-us/niti-governing-council-meetings"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g3\\polity-34_Complete-Learning-Session_2026-08-28.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": "polity-34:learner-v2:g2",
+    "source_hashes": {
+      "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g3-source\\polity-34_g3-reviewed-source.md": "bbc17002e810c8c9b82fc3b6ebd41ede53abaa6bf9f01ace76f321c2cbec26e7",
+      "tools\\deep_content_quality_overrides.json": "e4210b49da4d4371a6596e326cde69a6b0009144abc25a37c2ef6d42709277ef",
+      "upsc-ai-kit\\knowledge\\Polity\\34_NITI-Aayog_Complete-Topic-Package.md": "e4d0dba6d2199275f73b8d90a86af74dcc469f1a340eedcedd46fe095ed5929d",
+      "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md": "7fc8f21b75805d2127d6c377fc31038a654ce6a0d5b1be448c6ade07f4c3d73e",
+      "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md": "677063cf95b01af1591f06300028a37a64505ef6d213fa6183c952663670b168",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-34-2026-08-24-sequential.json": "5796cb4457c82d26809a51faa04c150440b6c9f5674dde6b927cb603dcac503c",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-34.json": "7138acef48a9f1dbcbb2c0670916eb0f7ebd4b1e8e1f8dc783a1e13cc39657eb"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "Two verified PYQ routes; 36 original MCQs; 12 remedials; 8 solved Mains; 9 answer guidance pairs.",
+    "current_linkage_note": "Official Cabinet/NITI/PIB claims controlled to 28 August 2026; volatile ranks and counts omitted.",
+    "pyq_status_note": "2018 Mains comparison and 2019 AIM route retained with official-key limitation.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "7211951bc0d7f87fe0e1f61ea365c1e6b3b936bf0feb6b120d358f2ce9c94e49"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "polity-34:learner-v2:g3"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3",
+    "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g3\\polity-34_Graphical-Spec-g3.json",
+    "graphical_spec_sha256": "52b7951db40fcc82c5309a923a5aa67bf9f4245295159b809d21841f653bce80",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-34-2026-08-24-sequential.json",
+    "ascii_master_spec_sha256": "5796cb4457c82d26809a51faa04c150440b6c9f5674dde6b927cb603dcac503c"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

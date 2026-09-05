@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-43",
+  "source_record": "polity-43:learner-v2:g5",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g6-source\\polity-43_g6-reviewed-source.md": "1792e1752caef33e58833d8b8b5f102aab3ba8ece9c46c67d7d54b0fa41e386d",
+    "tools\\deep_content_quality_overrides.json": "2fb7ed7e3146278c1f6a3a58a1fadfe7c4b886f4a5f2e6ce93069a9f4d814b90",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md": "92b1e1e51b469226c72d47d838797076f9442f1d001446b78257bbac08253f52",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md": "3cf1860a53c05a05ecec046e6baf0738ebab2096aae6608bc3c743fe11b65851",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json": "1da15f7280cbff9464d87ee09e51eeceb8c74e5c481527334c730cbd8f28d865",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-43.json": "00764b35e14acfe6bceaca85e6bc4fccdf6b2daf6d3803b746494c02018dc00d"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g6-source\\polity-43_g6-reviewed-source.md": "1792e1752caef33e58833d8b8b5f102aab3ba8ece9c46c67d7d54b0fa41e386d",
+    "tools\\deep_content_quality_overrides.json": "2fb7ed7e3146278c1f6a3a58a1fadfe7c4b886f4a5f2e6ce93069a9f4d814b90",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md": "92b1e1e51b469226c72d47d838797076f9442f1d001446b78257bbac08253f52",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md": "3cf1860a53c05a05ecec046e6baf0738ebab2096aae6608bc3c743fe11b65851",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json": "1da15f7280cbff9464d87ee09e51eeceb8c74e5c481527334c730cbd8f28d865",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-43.json": "00764b35e14acfe6bceaca85e6bc4fccdf6b2daf6d3803b746494c02018dc00d"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

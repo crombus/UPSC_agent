@@ -1,0 +1,1859 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Satellites, NavIC, GAGAN and Applications - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 443.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 721.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 413.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 78,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Earth-observation, communication, meteorological and navigation satellites are classified by payload and service, not merely by orbit or spacecraft name.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 226.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 159.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 100,
+      "heading": "VISUAL FIRST",
+      "preview": "SATELLITE CLASSES PAYLOADS AND SERVICES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 666.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SATELLITE CLASSES PAYLOADS AND SERVICES",
+      "preview": "START / CONCEPT: FOUNDATION — Satellite classes payloads and services",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Segment boundary Qualified use: Explain orbit geometry as an enabler rather than a service label.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 184,
+      "heading": "VISUAL FIRST",
+      "preview": "ORBIT GEOMETRY AND SERVICE FIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 237,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ORBIT GEOMETRY AND SERVICE FIT",
+      "preview": "START / CONCEPT: FOUNDATION — Orbit geometry and service fit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 248,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Space ground processing and user segments as a sequence: identify Remote-sensing chain, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 267,
+      "heading": "VISUAL FIRST",
+      "preview": "SPACE GROUND PROCESSING AND USER SEGMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 320,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SPACE GROUND PROCESSING AND USER SEGMENTS",
+      "preview": "START / CONCEPT: FOUNDATION — Space ground processing and user segments",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Remote-sensing data-to-decision chain as a sequence: identify Communication chain, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 384.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 318.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 350,
+      "heading": "VISUAL FIRST",
+      "preview": "REMOTE-SENSING DATA-TO-DECISION CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 403,
+      "heading": "CLOSING RECALL FLOW - CORE - REMOTE-SENSING DATA-TO-DECISION CHAIN",
+      "preview": "START / CONCEPT: CORE — Remote-sensing data-to-decision chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 414,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Communication transponders and network delivery as a sequence: identify Meteorology chain, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 429,
+      "markdown_body_line_end": 433,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMUNICATION TRANSPONDERS AND NETWORK DELIVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 486,
+      "heading": "CLOSING RECALL FLOW - CORE - COMMUNICATION TRANSPONDERS AND NETWORK DELIVERY",
+      "preview": "START / CONCEPT: CORE — Communication transponders and network delivery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 497,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Meteorological observation and warning chain as a sequence: identify NavIC-system boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 512,
+      "markdown_body_line_end": 519,
+      "heading": "VISUAL FIRST",
+      "preview": "METEOROLOGICAL OBSERVATION AND WARNING CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 556,
+      "markdown_body_line_end": 573,
+      "heading": "CLOSING RECALL FLOW - CORE - METEOROLOGICAL OBSERVATION AND WARNING CHAIN",
+      "preview": "START / CONCEPT: CORE — Meteorological observation and warning chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 272.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 584,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NavIC regional PNT architecture as a sequence: identify NavIC-service boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 603,
+      "heading": "VISUAL FIRST",
+      "preview": "NAVIC REGIONAL PNT ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 656,
+      "heading": "CLOSING RECALL FLOW - CORE - NAVIC REGIONAL PNT ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — NavIC regional PNT architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 667,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Nominal geometry versus functional constellation as a sequence: identify Signal-band boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 686,
+      "heading": "VISUAL FIRST",
+      "preview": "NOMINAL GEOMETRY VERSUS FUNCTIONAL CONSTELLATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - CORE - NOMINAL GEOMETRY VERSUS FUNCTIONAL CONSTELLATION",
+      "preview": "START / CONCEPT: CORE — Nominal geometry versus functional constellation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read SPS RS signals and receiver interoperability as a sequence: identify Launch-health boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 769,
+      "heading": "VISUAL FIRST",
+      "preview": "SPS RS SIGNALS AND RECEIVER INTEROPERABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 822,
+      "heading": "CLOSING RECALL FLOW - CORE - SPS RS SIGNALS AND RECEIVER INTEROPERABILITY",
+      "preview": "START / CONCEPT: CORE — SPS RS signals and receiver interoperability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 833,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Timing trilateration and atomic-clock dependence as a sequence: identify PNT-mechanism boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 852,
+      "heading": "VISUAL FIRST",
+      "preview": "TIMING TRILATERATION AND ATOMIC-CLOCK DEPENDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 905,
+      "heading": "CLOSING RECALL FLOW - CORE - TIMING TRILATERATION AND ATOMIC-CLOCK DEPENDENCE",
+      "preview": "START / CONCEPT: CORE — Timing trilateration and atomic-clock dependence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 916,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "GAGAN is a Satellite Based Augmentation System that improves GPS accuracy and integrity for aviation; it is not an independent navigation constellation and does not replace NavIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 938,
+      "heading": "VISUAL FIRST",
+      "preview": "GAGAN AS GPS AUGMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 992,
+      "heading": "CLOSING RECALL FLOW - CORE - GAGAN AS GPS AUGMENTATION",
+      "preview": "START / CONCEPT: CORE — GAGAN as GPS augmentation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Reference station correction and rebroadcast chain as a sequence: identify Integrity-accuracy boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 278.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 211.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1022,
+      "heading": "VISUAL FIRST",
+      "preview": "REFERENCE STATION CORRECTION AND REBROADCAST CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1075,
+      "heading": "CLOSING RECALL FLOW - CORE - REFERENCE STATION CORRECTION AND REBROADCAST CHAIN",
+      "preview": "START / CONCEPT: CORE — Reference station correction and rebroadcast chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1086,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: SBAS-GBAS boundary Qualified use: Make integrity the safety warning layer, not a synonym for accuracy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1105,
+      "heading": "VISUAL FIRST",
+      "preview": "ACCURACY INTEGRITY AND TIME-TO-ALERT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1158,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ACCURACY INTEGRITY AND TIME-TO-ALERT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Accuracy integrity and time-to-alert",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1169,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read SBAS GBAS and institutional roles as a sequence: identify Institution-role boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1191,
+      "heading": "VISUAL FIRST",
+      "preview": "SBAS GBAS AND INSTITUTIONAL ROLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1245,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - SBAS GBAS AND INSTITUTIONAL ROLES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — SBAS GBAS and institutional roles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Applications adoption resilience and dated-status audit as a sequence: identify Privacy-resilience boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 250.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 169.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1278,
+      "heading": "VISUAL FIRST",
+      "preview": "APPLICATIONS ADOPTION RESILIENCE AND DATED-STATUS AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 662.691
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1314,
+      "markdown_body_line_end": 1318,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + GS-II (aviation/governance) + Prelims. **Core area:** Satellite classes, regional navigation, aviation augmentation and civilian-strategic applicati",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 501.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1328,
+      "heading": "1. Visual foundation",
+      "preview": "Segment | Indian examples | What UPSC should remember",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Segment",
+          "Indian examples",
+          "What UPSC should remember"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 479.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 303.822
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1330,
+      "markdown_body_line_end": 1334,
+      "heading": "1. Visual foundation",
+      "preview": "SATNAV DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 303.822
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 262.822
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1338,
+      "markdown_body_line_end": 1352,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 218.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1431,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s satellite ecosystem is best understood as a layered architecture - Earth observation, communication, meteorology, independent regional navigation and GPS augmentation - in which NavIC provides sovereign PNT capabi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 329.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1464,
+      "markdown_body_line_end": 1481,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - APPLICATIONS ADOPTION RESILIENCE AND DATED-STATUS AUDIT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Applications adoption resilience and dated-status audit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 739.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 318.891
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2653,
+      "markdown_body_line_end": 2657,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II (aviation/governance) + Prelims. **Core area:** Navigation sovereignty, satellite-service architecture, aviation augmentation and adoption constraints. **",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 508.891
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 222.824
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2665,
+      "markdown_body_line_end": 2675,
+      "heading": "2. Visual foundation",
+      "preview": "SPACE SERVICE LAYERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2677,
+      "markdown_body_line_end": 2682,
+      "heading": "2. Visual foundation",
+      "preview": "Advanced distinction | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Advanced distinction",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 686.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 576.89
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2686,
+      "markdown_body_line_end": 2697,
+      "heading": "3. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 169.89
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2770,
+      "markdown_body_line_end": 2777,
+      "heading": "9. CURRENT: Current anchor",
+      "preview": "Verified current anchor | Analytical use in answers",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Verified current anchor",
+          "Analytical use in answers"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 517.09
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2788,
+      "markdown_body_line_end": 2788,
+      "heading": "11. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s satellite ecosystem is analytically important not merely because it places hardware in orbit, but because it creates layered public infrastructure - observation, communication, meteorology, sovereign PNT and aviat",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 355.29
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 282.222
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2852,
+      "markdown_body_line_end": 2860,
+      "heading": "Satellites, NavIC, GAGAN and Applications: ANSWER-WRITING SPINE",
+      "preview": "CLASSIFY THE SATELLITE BY PAYLOAD AND SERVICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 446.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 365.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2870,
+      "markdown_body_line_end": 2876,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Satellite service taxonomy",
+      "preview": "EARTH OBSERVATION -> sensed Earth data and derived products",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2886,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Orbit-service matrix",
+      "preview": "GEO -> continuous regional view and fixed ground geometry",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2896,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: End-to-end segment chain",
+      "preview": "SPACE SEGMENT -> satellite bus and mission payload",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2900,
+      "markdown_body_line_end": 2906,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Observation-to-decision rail",
+      "preview": "SENSOR -> records reflected or emitted energy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2910,
+      "markdown_body_line_end": 2916,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Communication relay loop",
+      "preview": "UPLINK -> terrestrial station sends a signal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2920,
+      "markdown_body_line_end": 2926,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: NavIC system map",
+      "preview": "REGIONAL CONSTELLATION -> independent Indian PNT source",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2930,
+      "markdown_body_line_end": 2936,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: NavIC service and signal stack",
+      "preview": "SPS -> open positioning service",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2940,
+      "markdown_body_line_end": 2946,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Constellation-health firewall",
+      "preview": "LAUNCHED -> cumulative mission count",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2950,
+      "markdown_body_line_end": 2956,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: GAGAN correction chain",
+      "preview": "REFERENCE STATIONS -> measure GNSS error",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2960,
+      "markdown_body_line_end": 2967,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Accuracy-integrity gate",
+      "preview": "ACCURACY -> estimated position close to true position",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2971,
+      "markdown_body_line_end": 2978,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: SBAS-GBAS institution map",
+      "preview": "SBAS -> wide-area corrections rebroadcast from satellites",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2982,
+      "markdown_body_line_end": 2989,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Public-value answer spine",
+      "preview": "CLASSIFY -> observation communication meteorology PNT or augmentation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 274.691
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "topic_key": "polity-47",
+  "source_record": "polity-47:learner-v2:g2",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md": "a3a37ea2e64dbbebc67f229af57f661469022ec4c40f27b1964767f135211c01",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md": "e680328bb7e046d0178bb6d63319637163f540e5cc618889cd99323993a93bc3",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md": "728f51dcc331a6f1cfe859f042ab58669f458763314b5125fed7bb81fd341a86",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json": "4486f3db39744875ff8950934f3b2d2943531c18f9c20946a7f0b149bb913dd9",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-47.json": "38c33ee475f72aa7520269a9117ec5f7502bec96db2015c00d2b06ac4cc05638"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md": "a3a37ea2e64dbbebc67f229af57f661469022ec4c40f27b1964767f135211c01",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md": "e680328bb7e046d0178bb6d63319637163f540e5cc618889cd99323993a93bc3",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md": "728f51dcc331a6f1cfe859f042ab58669f458763314b5125fed7bb81fd341a86",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json": "4486f3db39744875ff8950934f3b2d2943531c18f9c20946a7f0b149bb913dd9",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-47.json": "38c33ee475f72aa7520269a9117ec5f7502bec96db2015c00d2b06ac4cc05638"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

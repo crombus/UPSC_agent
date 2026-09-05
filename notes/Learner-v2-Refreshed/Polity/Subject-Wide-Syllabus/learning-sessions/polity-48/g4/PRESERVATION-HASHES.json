@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-48",
+  "source_record": "polity-48:learner-v2:g3",
+  "before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md": "d4ea65c67aeb26446badfacfb2849e82e9096c85db67b1333597c89462844360",
+    "tools\\deep_content_quality_overrides.json": "fec3ea3f91bf526825ab512013677cb6e4116ef2ffcb0ade93797f3bc3177a00",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md": "88c1b193960107cace0e9b19598864f74b0d12f1b23137765914f0641fae0bea",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md": "a36fa1dd773ce9bcf31ddb93ca77aeef1ba757d720aa07a3ef1c41633d6980e2",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-2026-08-25-sequential.json": "051796dc57b013bc6d2e1e90dc4b68d0cf9d2ec73f9e4339fe66ad3c59a576fc",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-48.json": "ec6f9fecb33591f961ef0e454e2985fc40a0632234637d8a15e36d87f70dd4ae"
+  },
+  "after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md": "d4ea65c67aeb26446badfacfb2849e82e9096c85db67b1333597c89462844360",
+    "tools\\deep_content_quality_overrides.json": "fec3ea3f91bf526825ab512013677cb6e4116ef2ffcb0ade93797f3bc3177a00",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md": "88c1b193960107cace0e9b19598864f74b0d12f1b23137765914f0641fae0bea",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md": "a36fa1dd773ce9bcf31ddb93ca77aeef1ba757d720aa07a3ef1c41633d6980e2",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-2026-08-25-sequential.json": "051796dc57b013bc6d2e1e90dc4b68d0cf9d2ec73f9e4339fe66ad3c59a576fc",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-48.json": "ec6f9fecb33591f961ef0e454e2985fc40a0632234637d8a15e36d87f70dd4ae"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

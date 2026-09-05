@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Powertrain source-of-electricity map
+BEV -> battery stores all traction electricity
+HEV -> engine + regenerative braking charge non-plug-in battery
+PHEV -> external plug + engine backup
+FCEV -> hydrogen fuel cell generates onboard electricity
+TEST -> where does traction electricity originate?
+
+ASCII MASTER FLOW — PANEL 2/12: Cell to pack systems hierarchy
+CELL -> electrochemical unit
+MODULE -> grouped cells + mechanical integration
+PACK -> modules/cells + enclosure + busbars + sensing
+CONTROL -> BMS + contactors + protection
+THERMAL -> cooling/heating + propagation barriers
+
+ASCII MASTER FLOW — PANEL 3/12: Lithium-ion discharge rail
+ANODE -> releases Li+ during discharge
+ELECTROLYTE -> carries ions
+SEPARATOR -> blocks direct electronic contact
+CATHODE -> receives Li+ during discharge
+EXTERNAL CIRCUIT -> electrons power motor
+
+ASCII MASTER FLOW — PANEL 4/12: Battery chemistry decision matrix
+NMC / NCA -> nickel-cobalt exposure; higher-density designs
+LFP -> no nickel or cobalt; different density/safety trade-off
+SODIUM-ION -> changes lithium dependence
+SOLID-STATE -> solid electrolyte; pre-commercial boundary
+RULE -> chemistry decides mineral bill and engineering trade-off
+
+ASCII MASTER FLOW — PANEL 5/12: Energy and power axes
+ENERGY DENSITY -> how much energy per mass/volume
+POWER DENSITY -> how quickly energy is delivered/accepted
+RANGE / WEIGHT -> energy axis
+ACCELERATION / REGEN / FAST CHARGE -> power axis
+TRAP -> one metric cannot certify whole-pack performance
+
+ASCII MASTER FLOW — PANEL 6/12: AC and DC charging conversion map
+GRID AC -> vehicle onboard charger -> regulated battery DC
+GRID AC -> offboard fast charger -> regulated battery DC
+LEVEL -> power and use context
+CONNECTOR -> physical/electrical interface
+PROTOCOL -> communication and control
+
+ASCII MASTER FLOW — PANEL 7/12: Charging governance institution map
+MINISTRY OF POWER -> charging guidelines
+BIS -> connector and safety standards
+CEA -> electricity-system and electrical safety regulation
+MORTH / CMVR -> vehicle approval and safety
+BEE -> efficiency role
+
+ASCII MASTER FLOW — PANEL 8/12: BMS and thermal-control loop
+SENSE -> voltage | current | temperature
+ESTIMATE -> operating state and imbalance
+ACT -> balance | limit | isolate
+COOL / HEAT -> keep cells in suitable band
+FEEDBACK -> safer operation and slower degradation, not immunity
+
+ASCII MASTER FLOW — PANEL 9/12: Degradation and safety fault tree
+HEAT / HIGH SOC / DEEP CYCLING / HIGH RATE -> ageing pressure
+DEFECT / ABUSE / SHORT -> local heat generation
+SELF-HEATING > HEAT REMOVAL -> thermal runaway
+CELL EVENT -> possible module/pack propagation
+RESPONSE -> prevent + detect + contain + emergency action
+
+ASCII MASTER FLOW — PANEL 10/12: Hydrogen mobility chain
+PRODUCTION ROUTE -> green / blue / grey label
+COMPRESSION / TRANSPORT / STORAGE -> upstream burden
+PEM FUEL CELL -> electrochemical electricity
+ELECTRIC MOTOR -> traction
+DIRECT EXHAUST -> water + heat; lifecycle remains wider
+
+ASCII MASTER FLOW — PANEL 11/12: Alternative-fuel portfolio
+ETHANOL / FLEX-FUEL -> petrol-blend engine pathway
+BIODIESEL -> diesel-blend pathway
+CBG / SATAT -> purified biogas pathway
+CNG / LNG / HCNG -> gaseous combustion fuels
+HYDROGEN FUEL CELL -> electrochemical electric-drive pathway
+
+ASCII MASTER FLOW — PANEL 12/12: India transition and evidence ladder
+TAILPIPE -> GRID -> MANUFACTURE -> END OF LIFE
+MINERALS -> CHEMISTRY -> RECYCLING / EPR
+PM E-DRIVE -> demand/ecosystem instrument
+PLI-AUTO / PLI-ACC / PM-eBUS SEWA / NGHM PILOTS -> distinct routes
+APPROVAL -> NOTIFICATION -> AWARD -> COMMISSIONING -> DEPLOYMENT -> OUTCOME

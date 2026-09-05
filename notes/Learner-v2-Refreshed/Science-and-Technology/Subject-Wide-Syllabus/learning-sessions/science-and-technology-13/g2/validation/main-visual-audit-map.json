@@ -1,0 +1,1799 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-13",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Biotechnology Fundamentals and DBT Missions - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 425.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 618.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 311.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 78,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Biotechnology platform and central dogma as a sequence: identify Biotechnology-platform boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 123.956
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 57.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 100,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOTECHNOLOGY PLATFORM AND CENTRAL DOGMA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BIOTECHNOLOGY PLATFORM AND CENTRAL DOGMA",
+      "preview": "START / CONCEPT: FOUNDATION — Biotechnology platform and central dogma",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 282
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Recombinant DNA work joins DNA from different sources through a chain of target identification, restriction-endonuclease cutting, vector insertion, DNA-ligase joining, host transformation, marker selection and expression; a vector is a carr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 297.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 184,
+      "heading": "VISUAL FIRST",
+      "preview": "RECOMBINANT DNA TOOLS VECTORS HOSTS AND EXPRESSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 237,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RECOMBINANT DNA TOOLS VECTORS HOSTS AND EXPRESSION",
+      "preview": "START / CONCEPT: FOUNDATION — Recombinant DNA tools vectors hosts and expression",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 295
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 306.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 75.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 248,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read PCR reverse transcription and real-time detection as a sequence: identify PCR-RT-PCR boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 267,
+      "heading": "VISUAL FIRST",
+      "preview": "PCR REVERSE TRANSCRIPTION AND REAL-TIME DETECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 320,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PCR REVERSE TRANSCRIPTION AND REAL-TIME DETECTION",
+      "preview": "START / CONCEPT: FOUNDATION — PCR reverse transcription and real-time detection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Industrial bioprocessing controls organism or cell line, nutrients, temperature, pH, oxygen and contamination in a bioreactor, followed by downstream recovery, purification and quality control; fermentation is not confined to alcohol produc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 254.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 173.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 350,
+      "heading": "VISUAL FIRST",
+      "preview": "FERMENTATION BIOREACTORS AND DOWNSTREAM PROCESSING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 403,
+      "heading": "CLOSING RECALL FLOW - CORE - FERMENTATION BIOREACTORS AND DOWNSTREAM PROCESSING",
+      "preview": "START / CONCEPT: CORE — Fermentation bioreactors and downstream processing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 414,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tissue culture grows cells or explants aseptically on controlled media; plant micropropagation rests on totipotency, the capacity of a suitable somatic cell to regenerate a whole plant, but clonal propagation does not itself mean genetic en",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 429,
+      "markdown_body_line_end": 433,
+      "heading": "VISUAL FIRST",
+      "preview": "TISSUE CULTURE MICROPROPAGATION AND TOTIPOTENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 486,
+      "heading": "CLOSING RECALL FLOW - CORE - TISSUE CULTURE MICROPROPAGATION AND TOTIPOTENCY",
+      "preview": "START / CONCEPT: CORE — Tissue culture micropropagation and totipotency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 305.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 64.691
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 497,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Stem-cell potency embryonic adult and iPSC distinctions as a sequence: identify Stem-cell-potency boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 512,
+      "markdown_body_line_end": 519,
+      "heading": "VISUAL FIRST",
+      "preview": "STEM-CELL POTENCY EMBRYONIC ADULT AND IPSC DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 299.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 556,
+      "markdown_body_line_end": 573,
+      "heading": "CLOSING RECALL FLOW - CORE - STEM-CELL POTENCY EMBRYONIC ADULT AND IPSC DISTINCTIONS",
+      "preview": "START / CONCEPT: CORE — Stem-cell potency embryonic adult and iPSC distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 292
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 516.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 265.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 584,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Gene therapy delivery somatic and germline boundaries as a sequence: identify Molecular-diagnostics boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 603,
+      "heading": "VISUAL FIRST",
+      "preview": "GENE THERAPY DELIVERY SOMATIC AND GERMLINE BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 656,
+      "heading": "CLOSING RECALL FLOW - CORE - GENE THERAPY DELIVERY SOMATIC AND GERMLINE BOUNDARIES",
+      "preview": "START / CONCEPT: CORE — Gene therapy delivery somatic and germline boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 291
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 667,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Molecular diagnostics validation and interpretation as a sequence: identify DBT-BIRAC boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 686,
+      "heading": "VISUAL FIRST",
+      "preview": "MOLECULAR DIAGNOSTICS VALIDATION AND INTERPRETATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - CORE - MOLECULAR DIAGNOSTICS VALIDATION AND INTERPRETATION",
+      "preview": "START / CONCEPT: CORE — Molecular diagnostics validation and interpretation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 345
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 68.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "DBT, ICMR, CSIR and ICAR support or perform research in different administrative domains, BIRAC supports translation and enterprise, CDSCO regulates drugs and vaccines, and GEAC appraises environmental release of regulated GM organisms; fun",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 769,
+      "heading": "VISUAL FIRST",
+      "preview": "DBT BIRAC AND THE TRANSLATION ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 822,
+      "heading": "CLOSING RECALL FLOW - CORE - DBT BIRAC AND THE TRANSLATION ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — DBT BIRAC and the translation architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 331
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 833,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Research funding and regulatory institution router as a sequence: identify BioE3-six-sector boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 268.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 201.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 852,
+      "heading": "VISUAL FIRST",
+      "preview": "RESEARCH FUNDING AND REGULATORY INSTITUTION ROUTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 721.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 905,
+      "heading": "CLOSING RECALL FLOW - CORE - RESEARCH FUNDING AND REGULATORY INSTITUTION ROUTER",
+      "preview": "START / CONCEPT: CORE — Research funding and regulatory institution router",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 294.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 73.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 916,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read BioE3 policy and its six biomanufacturing sectors as a sequence: identify Bio-RIDE boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 938,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOE3 POLICY AND ITS SIX BIOMANUFACTURING SECTORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 992,
+      "heading": "CLOSING RECALL FLOW - CORE - BIOE3 POLICY AND ITS SIX BIOMANUFACTURING SECTORS",
+      "preview": "START / CONCEPT: CORE — BioE3 policy and its six biomanufacturing sectors",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 502.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 281.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Bio-RIDE umbrella and programme-status discipline as a sequence: identify Biofoundry-scale-up boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 127.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 46.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1022,
+      "heading": "VISUAL FIRST",
+      "preview": "BIO-RIDE UMBRELLA AND PROGRAMME-STATUS DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 563.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1075,
+      "heading": "CLOSING RECALL FLOW - CORE - BIO-RIDE UMBRELLA AND PROGRAMME-STATUS DISCIPLINE",
+      "preview": "START / CONCEPT: CORE — Bio-RIDE umbrella and programme-status discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1086,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read GenomeIndia reference data uses and safeguards as a sequence: identify Biopharma-translation boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1105,
+      "heading": "VISUAL FIRST",
+      "preview": "GENOMEINDIA REFERENCE DATA USES AND SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1158,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - GENOMEINDIA REFERENCE DATA USES AND SAFEGUARDS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — GenomeIndia reference data uses and safeguards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 321
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1169,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Biofoundries pilot scale and commercial scale-up as a sequence: identify Microbes-biofuel boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 302.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1191,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOFOUNDRIES PILOT SCALE AND COMMERCIAL SCALE-UP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1245,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BIOFOUNDRIES PILOT SCALE AND COMMERCIAL SCALE-UP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Biofoundries pilot scale and commercial scale-up",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Routed PYQs clean-tech synthesis and answer spine as a sequence: identify Clean-tech-contribution boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1278,
+      "heading": "VISUAL FIRST",
+      "preview": "ROUTED PYQS CLEAN-TECH SYNTHESIS AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1314,
+      "markdown_body_line_end": 1319,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Core biotechnology concepts, DBT institutional architecture and innovation missions. **Grounded in:** BIRAC home page (`http",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 558.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1323,
+      "markdown_body_line_end": 1339,
+      "heading": "1. Visual foundation",
+      "preview": "BIOTECHNOLOGY FROM LAB TO PRODUCT",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 536.024
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 375.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1345,
+      "markdown_body_line_end": 1354,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 447.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1437,
+      "markdown_body_line_end": 1437,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s biotechnology policy challenge is no longer only to produce scientific research, but to convert biological knowledge into scalable products, firms and biomanufacturing capability through DBT-led missions and BIRAC",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 561.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 502.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1494,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ROUTED PYQS CLEAN-TECH SYNTHESIS AND ANSWER SPINE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Routed PYQs clean-tech synthesis and answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 444.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 193.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2623,
+      "markdown_body_line_end": 2628,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Biotechnology as a strategic platform sector, with DBT-BIRAC mission architecture. **Grounded in:** BIRAC home page (`https://www.birac.",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 722.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 493.424
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2636,
+      "markdown_body_line_end": 2649,
+      "heading": "2. Visual foundation",
+      "preview": "BIOECONOMY TRANSLATION CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 387.624
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 256.624
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2653,
+      "markdown_body_line_end": 2661,
+      "heading": "3. Essential distinctions",
+      "preview": "Concept | Deeper meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Deeper meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 558.29
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2727,
+      "markdown_body_line_end": 2732,
+      "heading": "13. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 621.89
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2742,
+      "markdown_body_line_end": 2742,
+      "heading": "15. Mains-ready framework",
+      "preview": "**Answer thesis:** India’s biotechnology future will depend less on isolated scientific excellence and more on whether DBT-BIRAC mission architecture can industrialise biological innovation through biomanufacturing, translational finance an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 513.89
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 455.022
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2801,
+      "markdown_body_line_end": 2813,
+      "heading": "Biotechnology Fundamentals and DBT Missions: DBT-BIRAC MISSIONS, REGULATORS AND SIX-SECTOR BIOE3 MAP",
+      "preview": "DEFINE BIOTECHNOLOGY AS A GENE-CELL-TISSUE-BIOPROCESS PLATFORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 216.691
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 95.691
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2823,
+      "markdown_body_line_end": 2829,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Biotechnology information rail",
+      "preview": "BIOLOGICAL INPUT -> gene / cell / tissue / enzyme / organism",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2833,
+      "markdown_body_line_end": 2839,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Recombinant DNA assembly chain",
+      "preview": "TARGET GENE -> restriction endonuclease cut",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2843,
+      "markdown_body_line_end": 2849,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: PCR distinction matrix",
+      "preview": "PCR CORE -> denaturation -> annealing -> extension",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2853,
+      "markdown_body_line_end": 2859,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Bioprocess scale rail",
+      "preview": "STRAIN / CELL LINE + MEDIUM -> upstream preparation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2863,
+      "markdown_body_line_end": 2869,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Culture and potency map",
+      "preview": "PLANT EXPLANT -> sterile medium -> callus / shoots / roots",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 264.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2873,
+      "markdown_body_line_end": 2879,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Gene therapy and diagnostics twin rail",
+      "preview": "THERAPY -> add / replace / silence / edit disease-relevant sequence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2883,
+      "markdown_body_line_end": 2889,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Biotechnology institution router",
+      "preview": "DBT / MINISTRY OF S&T -> policy, missions and research support",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2893,
+      "markdown_body_line_end": 2900,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: BioE3 six-sector wheel",
+      "preview": "1 BIO-BASED CHEMICALS AND ENZYMES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2904,
+      "markdown_body_line_end": 2910,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Bio-RIDE and GenomeIndia timeline",
+      "preview": "28 FEB 2024 -> DBT announces 10,000 GenomeIndia sequences complete",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2914,
+      "markdown_body_line_end": 2921,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Research-to-impact funnel",
+      "preview": "DISCOVERY -> proof of concept",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2925,
+      "markdown_body_line_end": 2932,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: PYQ applications matrix",
+      "preview": "BIOPHARMA -> rDNA + culture + bioprocess + quality + access",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 274.691
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2936,
+      "markdown_body_line_end": 2943,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Biotechnology answer spine",
+      "preview": "DEFINE -> platform and biological information level",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    }
+  ]
+}

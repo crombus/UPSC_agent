@@ -1,0 +1,1828 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Defence R&D: DRDO and Missile Systems - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 36,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 443.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 478.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 276.956
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 196.088
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 96,
+      "heading": "VISUAL FIRST",
+      "preview": "DRDO ARMED SERVICES AND PRODUCTION-AGENCY MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 150,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DRDO ARMED SERVICES AND PRODUCTION-AGENCY MAP",
+      "preview": "START / CONCEPT: FOUNDATION — DRDO armed services and production-agency map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 161,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 388.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 180,
+      "heading": "VISUAL FIRST",
+      "preview": "MSS LABORATORIES AND SUBSYSTEM INTEGRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 233,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MSS LABORATORIES AND SUBSYSTEM INTEGRATION",
+      "preview": "START / CONCEPT: FOUNDATION — MSS laboratories and subsystem integration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Ballistic and cruise flight logic as a sequence: identify Subsystem-chain boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 263,
+      "heading": "VISUAL FIRST",
+      "preview": "BALLISTIC AND CRUISE FLIGHT LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 316,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BALLISTIC AND CRUISE FLIGHT LOGIC",
+      "preview": "START / CONCEPT: FOUNDATION — Ballistic and cruise flight logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 327,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Boost-glide and scramjet hypersonic distinction as a sequence: identify Ballistic-cruise boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 360.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 293.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 346,
+      "heading": "VISUAL FIRST",
+      "preview": "BOOST-GLIDE AND SCRAMJET HYPERSONIC DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 399,
+      "heading": "CLOSING RECALL FLOW - CORE - BOOST-GLIDE AND SCRAMJET HYPERSONIC DISTINCTION",
+      "preview": "START / CONCEPT: CORE — Boost-glide and scramjet hypersonic distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 410,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Surface-to-air and air-to-air systems as a sequence: identify Hypersonic-class boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 429,
+      "heading": "VISUAL FIRST",
+      "preview": "SURFACE-TO-AIR AND AIR-TO-AIR SYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 482,
+      "heading": "CLOSING RECALL FLOW - CORE - SURFACE-TO-AIR AND AIR-TO-AIR SYSTEMS",
+      "preview": "START / CONCEPT: CORE — Surface-to-air and air-to-air systems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 515,
+      "heading": "VISUAL FIRST",
+      "preview": "ANTI-TANK GUIDED MISSILES AND SEEKER LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 569,
+      "heading": "CLOSING RECALL FLOW - CORE - ANTI-TANK GUIDED MISSILES AND SEEKER LOGIC",
+      "preview": "START / CONCEPT: CORE — Anti-tank guided missiles and seeker logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 580,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 599,
+      "heading": "VISUAL FIRST",
+      "preview": "PINAKA AND GUIDED ROCKET ARTILLERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 652,
+      "heading": "CLOSING RECALL FLOW - CORE - PINAKA AND GUIDED ROCKET ARTILLERY",
+      "preview": "START / CONCEPT: CORE — Pinaka and guided rocket artillery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 663,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 682,
+      "heading": "VISUAL FIRST",
+      "preview": "MISSILE DELIVERY PLATFORM AND LAUNCHER DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - CORE - MISSILE DELIVERY PLATFORM AND LAUNCHER DISTINCTION",
+      "preview": "START / CONCEPT: CORE — Missile delivery platform and launcher distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 331.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 265.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 765,
+      "heading": "VISUAL FIRST",
+      "preview": "IGMDP HISTORY AND LATER PROGRAMME BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 818,
+      "heading": "CLOSING RECALL FLOW - CORE - IGMDP HISTORY AND LATER PROGRAMME BOUNDARY",
+      "preview": "START / CONCEPT: CORE — IGMDP history and later programme boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 829,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read BrahMos joint-venture and cruise-system logic as a sequence: identify BrahMos-JV boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 848,
+      "heading": "VISUAL FIRST",
+      "preview": "BRAHMOS JOINT-VENTURE AND CRUISE-SYSTEM LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 901,
+      "heading": "CLOSING RECALL FLOW - CORE - BRAHMOS JOINT-VENTURE AND CRUISE-SYSTEM LOGIC",
+      "preview": "START / CONCEPT: CORE — BrahMos joint-venture and cruise-system logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 912,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 934,
+      "heading": "VISUAL FIRST",
+      "preview": "DEVELOPMENTAL TRIAL TO DEPLOYMENT STATUS LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 988,
+      "heading": "CLOSING RECALL FLOW - CORE - DEVELOPMENTAL TRIAL TO DEPLOYMENT STATUS LADDER",
+      "preview": "START / CONCEPT: CORE — Developmental trial to deployment status ladder",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read AoN contract production and induction chain as a sequence: identify Production-agency boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 372.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 305.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1018,
+      "heading": "VISUAL FIRST",
+      "preview": "AON CONTRACT PRODUCTION AND INDUCTION CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1071,
+      "heading": "CLOSING RECALL FLOW - CORE - AON CONTRACT PRODUCTION AND INDUCTION CHAIN",
+      "preview": "START / CONCEPT: CORE — AoN contract production and induction chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1082,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1101,
+      "heading": "VISUAL FIRST",
+      "preview": "INTEGRATED AIR AND MISSILE DEFENCE ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1154,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INTEGRATED AIR AND MISSILE DEFENCE ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Integrated air and missile defence architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Stealth detection explosives and external-system PYQs as a sequence: identify Stealth-detection boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 265.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1187,
+      "heading": "VISUAL FIRST",
+      "preview": "STEALTH DETECTION EXPLOSIVES AND EXTERNAL-SYSTEM PYQS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1241,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - STEALTH DETECTION EXPLOSIVES AND EXTERNAL-SYSTEM PYQS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Stealth detection explosives and external-system PYQs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1252,
+      "markdown_body_line_end": 1252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Official-source capability and secrecy firewall as a sequence: identify THAAD-FOBS boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 322.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1274,
+      "heading": "VISUAL FIRST",
+      "preview": "OFFICIAL-SOURCE CAPABILITY AND SECRECY FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1315,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Defence R&D ecosystem and missile-system basics. **Grounded in:** DRDO About DRDO (https://drdo.gov.in/drdo/en/organisation/",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 430.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1336,
+      "heading": "1. Visual foundation",
+      "preview": "Ministry of Defence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 408.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 237.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1338,
+      "markdown_body_line_end": 1346,
+      "heading": "1. Visual foundation",
+      "preview": "Missile-family snapshot | Official public label / role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Missile-family snapshot",
+          "Official public label / role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 237.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 64.222
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1365,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 149.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1449,
+      "markdown_body_line_end": 1449,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s missile ecosystem should be read as a layered R&D network led by DRDO and specialised labs, where each family serves a distinct military role and where successful testing must still be translated into production, ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 280.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 221.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1487,
+      "markdown_body_line_end": 1504,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - OFFICIAL-SOURCE CAPABILITY AND SECRECY FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Official-source capability and secrecy firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2655,
+      "markdown_body_line_end": 2660,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Strategic weapons R&D, institutional architecture and analytical distinctions. **Grounded in:** DRDO About DRDO (https://drdo.gov.in/drd",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 627.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 270.424
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2664,
+      "markdown_body_line_end": 2677,
+      "heading": "1. Architecture",
+      "preview": "strategic requirement",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 248.424
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 117.424
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2683,
+      "markdown_body_line_end": 2696,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 183.49
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2764,
+      "markdown_body_line_end": 2774,
+      "heading": "9. CURRENT: Current anchor -> analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 314.29
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2785,
+      "markdown_body_line_end": 2785,
+      "heading": "11. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s missile ecosystem is best understood as an integrated strategic R&D network in which specialised labs generate differentiated weapon families, but the true measure of success lies in converting test-proven technol",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 180.89
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 122.022
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2844,
+      "markdown_body_line_end": 2852,
+      "heading": "Defence R&D: DRDO and Missile Systems: ANSWER-WRITING SPINE",
+      "preview": "DEFINE MISSILE CLASS ROLE AND DELIVERY PLATFORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 270.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 189.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2862,
+      "markdown_body_line_end": 2868,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Developer user producer map",
+      "preview": "SERVICES -> articulate requirement and conduct user evaluation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 701.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2872,
+      "markdown_body_line_end": 2878,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: MSS subsystem chain",
+      "preview": "DRDL / RCI / ASL / TBRL / ITR -> specialised roles",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 617.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2882,
+      "markdown_body_line_end": 2888,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Ballistic versus cruise",
+      "preview": "BALLISTIC -> powered boost then largely ballistic path",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2892,
+      "markdown_body_line_end": 2898,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Hypersonic taxonomy",
+      "preview": "HYPERSONIC -> speed description, not one weapon class",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 511.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 449.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2902,
+      "markdown_body_line_end": 2908,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Operational-role matrix",
+      "preview": "SAM / AKASH -> surface launch against aerial threats",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 427.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 365.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2912,
+      "markdown_body_line_end": 2918,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Weapon and platform split",
+      "preview": "MISSILE -> guided weapon",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 343.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 281.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2922,
+      "markdown_body_line_end": 2928,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: IGMDP lineage",
+      "preview": "1983 -> IGMDP begins",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2932,
+      "markdown_body_line_end": 2938,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: BrahMos institutional card",
+      "preview": "DRDO -> Indian joint-venture partner",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2942,
+      "markdown_body_line_end": 2948,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Status ladder",
+      "preview": "DEVELOPMENTAL TRIAL -> tested proposition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2952,
+      "markdown_body_line_end": 2959,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Air-defence system rail",
+      "preview": "SENSORS -> detect and track",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2963,
+      "markdown_body_line_end": 2970,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Routed PYQ firewall",
+      "preview": "STEALTH -> reduced observability, not invisibility",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2974,
+      "markdown_body_line_end": 2981,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Capability-claim firewall",
+      "preview": "DEFINE -> weapon class and operational role",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 274.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    }
+  ]
+}
